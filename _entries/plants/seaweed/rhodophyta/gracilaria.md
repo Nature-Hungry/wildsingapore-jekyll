@@ -42,6 +42,41 @@ page_images:
     <p>Made up of club-shaped segments.</p>
     <p><a href="salicornia">Knobbly agar-agar red seaweed</a> Chek Jawa, May 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
+links_references: |
+  **Links**
+  - [Training
+    Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00):
+    biology of *Gracilaria*, farming, harvesting and processing
+    of *Gracilaria*, history of agar production, chemistry and
+    properties of agar, carageenans and alginates.
+  - [*Gracilaria*](http://www.algaebase.org/search/genus/detail/?genus_id=14) on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  - [Agar](http://www.seaweed.ie/uses_general/agarsl)
+    on [The Seaweed Site](http://www.seaweed.ie/): history
+    of its use and spread, cultivation and species used to produce
+    it.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 if you
@@ -59,7 +94,8 @@ These rather succulent red seaweeds are commonly seen on many of our
 shores. On boulders, coral rubble as well as on abandoned ropes, nets
 and other objects left on the shore.   
   
-**Features:** Some may form loose
+## Features
+ Some may form loose
 bunches of slender, cylindrical 'stems' about 15-20cm long. Each 'stem'
 has a few slender side branches that taper at the tips. Red, brownish
 or blackish. Sometimes green.  
@@ -172,43 +208,7 @@ Polycavernosa urvillei*
 
 ---
 
-**Links**
 
-- [Training
-  Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00):
-  biology of *Gracilaria*, farming, harvesting and processing
-  of *Gracilaria*, history of agar production, chemistry and
-  properties of agar, carageenans and alginates.
-- [*Gracilaria*](http://www.algaebase.org/search/genus/detail/?genus_id=14) on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-- [Agar](http://www.seaweed.ie/uses_general/agarsl)
-  on [The Seaweed Site](http://www.seaweed.ie/): history
-  of its use and spread, cultivation and species used to produce
-  it.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

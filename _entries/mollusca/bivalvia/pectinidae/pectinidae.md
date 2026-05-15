@@ -58,13 +58,54 @@ page_images:
   caption: |
     <p><a href="large.htm">Large scallop</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Pectinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pectinidae.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - Family Pectinidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong Kiat & Martyn E. Y. Low. 20 December 2013. *New Singapore record of the Tiger scallop, Semipallium flavicans*. Singapore Biodiversity Records 2013: 121.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  These little clams are sometimes seen on some of
 ours shores, on sandy areas near seagrasses.  
   
-**Features:** 4-7cm.The circular two-part
+## Features
+ 4-7cm.The circular two-part
 shell is thick with ribs and a squarish portion at the hinge. It has
 a hinge with a socket-like arrangement between the valves. A single,
 fused adductor muscle controls the valves (this is the part that is
@@ -143,48 +184,7 @@ scallop)
 
 ---
 
-**Links**
 
-- [Family
-  Pectinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pectinidae.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- Family Pectinidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong Kiat & Martyn E. Y. Low. 20 December 2013. *New Singapore record of the Tiger scallop, Semipallium flavicans*. Singapore Biodiversity Records 2013: 121.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

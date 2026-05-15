@@ -106,7 +106,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/go
 seen on many of our reefs, including those on our Northern shores.
 Although it is more common on our Southern shores, where clusters of the coral can form quite a large clump.  
   
-**Features:** Colonies clusters of
+## Features
+ Colonies clusters of
 short, fat columns with rounded tops, each about 10-15cm in diameter.
 The polyps may be large (0.5-1cm in diameter). The polyps have 24
 tentacles and are usually extended when submerged, even in daylight.

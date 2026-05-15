@@ -40,6 +40,24 @@ page_images:
     <p><a href="../../../echinodermata/ophiuroidea/tinycolourful">Tiny colourful brittle stars</a> on the sea fan.</p>
     <p>Chek Jawa, Jul 15</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+links_references: |
+  **Links**
+  - [*Euplexaura*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euplexaura)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
 ---
 
 ## Where seen?
@@ -48,7 +66,8 @@ a candelabra are often seen on a wide range of Northern shores, including
 Changi and the East Coast. On rocks and coral rubble near the low
 water mark.  
   
-**Features:** 10-15cm tall. Colony
+## Features
+ 10-15cm tall. Colony
 generally branched on one plane, the branches are sparse and rather
 long, emerging in a U-shape so the entire colony resembles a candelabra.
 But some with very long stems may appear tangled. Stems cylindrical
@@ -85,26 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Euplexaura*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euplexaura)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
 
 [links](../../../links)
 | [references](../../../references)

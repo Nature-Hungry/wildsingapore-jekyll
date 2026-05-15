@@ -68,6 +68,31 @@ page_images:
   caption: |
     <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202616397945&set=a.10158202634262945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
+links_references: |
+  **Links**
+  - [Sand
+    star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Astropecten
+    indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
+  **References** 
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
+  - K. S. Loh
+    . 31 Aug.2011. *Diet
+    and feeding in the sea star Astropecten indicus (Doderlein,
+    1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
+    and Loh Kok Sheng's [blog
+    post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
@@ -76,7 +101,8 @@ fast moving sea star is commonly encountered on our Northern shores.
 In sandy or silty shores. It comes out in large numbers at sunset.
 During the day, it usually remains buried in the sand or silt. So far, not seen in the South on the intertidal. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.  
   
-**Features:** Diameter with arms 4-6cm. Body rather flat. Usually 5 arms
+## Features
+ Diameter with arms 4-6cm. Body rather flat. Usually 5 arms
 long, tapered to a sharp tip. Stout
 flat long spines along the arms. These spines resemble the teeth of a comb and members
 of this family are sometimes called Comb sea stars. The spines are
@@ -134,31 +160,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Sand
-  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Astropecten
-  indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
-
-**References** 
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
-- K. S. Loh
-  . 31 Aug.2011. *Diet
-  and feeding in the sea star Astropecten indicus (Doderlein,
-  1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
-  and Loh Kok Sheng's [blog
-  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

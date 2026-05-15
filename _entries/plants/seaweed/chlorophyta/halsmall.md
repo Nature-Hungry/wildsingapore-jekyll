@@ -64,6 +64,23 @@ page_images:
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+links_references: |
+  **Links**
+  - [Calcified
+    seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Halimeda* spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda) on the [Sea Slug Forum](http://www.seaslugforum.net/):
+    photo and description of the seaweed and the slugs that eat it.
+  - [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699) on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 ---
 
 ## Where seen?
@@ -72,7 +89,8 @@ This is seaweed made up of small, hard segments. It is commonly seen
 on many of our shores, usually growing on coral rubble or among living
 corals.  
   
-**Features:** An upright chain (3-5cm
+## Features
+ An upright chain (3-5cm
 long) of joined up coin-like flattened segments. Each coin-like segment
 is hard as it is impregnated with calcium carbonate. Small coin green
 seaweeds have small segments about 1cm or less. In some, clusters
@@ -139,25 +157,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Calcified
-  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Halimeda* spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda) on the [Sea Slug Forum](http://www.seaslugforum.net/):
-  photo and description of the seaweed and the slugs that eat it.
-- [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699) on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
 [www.**flickr**.com](http://www.flickr.com)  
 

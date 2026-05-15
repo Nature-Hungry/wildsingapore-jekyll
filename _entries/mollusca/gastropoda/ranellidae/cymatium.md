@@ -45,7 +45,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/
 
 ## Where seen?
  This snail with a leopard spotted body is sometimes
-seen among seagrasses on some of our shores. **Features:** 3-4cm. Shell thick, oval with curvy pointed tip.
+seen among seagrasses on some of our shores. ## Features
+ 3-4cm. Shell thick, oval with curvy pointed tip.
 Shell covered with a hairy 'skin' that covers the fine rings on the shell.
 Shell opening wide with a scalloped inner edge. It has a short siphonal
 canal. Operculum small, beige. Body pale with dark spots so it resembles

@@ -75,6 +75,14 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469803158&set=a.10159162473618158">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Genus *Pachyseris*](http://species-identification.org/species.php?species_group=corals&menuentry=groepen&id=24&tab=beschrijving) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal with species factsheet.
+  - [*Pachyseris
+    rugosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46100) on SeaLife Base: Technical fact sheets.
 ---
 
 ## Where seen?
@@ -82,7 +90,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/
 our undisturbed Southern shores among living corals. 'Pachys' means
 'thick' while 'seris' means 'lettuce-like'. 'Rugosa' means 'wrinkled'.  
   
-**Features:**Colony (10-30cm
+## Features
+Colony (10-30cm
 across) forming plates that may be encrusting or upright shapes, often irregular
 and contorted. The surface has short ridges that form maze-like patterns,
 perpendicular to the edge of the colony. There is a texture of fine
@@ -143,14 +152,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Genus *Pachyseris*](http://species-identification.org/species.php?species_group=corals&menuentry=groepen&id=24&tab=beschrijving) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal with species factsheet.
-- [*Pachyseris
-  rugosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46100) on SeaLife Base: Technical fact sheets.
 
 **R****eferences**
 

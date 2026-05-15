@@ -54,6 +54,36 @@ page_images:
   caption: |
     <p><a href="chatareus">Spotted archerfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
+links_references: |
+  **Links**  
+  - [Banded
+    Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Family
+    Toxotidae](http://fishbase.org/summary/FamilySummary.php?ID=337) and [*Toxotes
+    jaculatrix* (Banded archerfish)](http://fishbase.org/summary/8229) and [*Toxotes
+    chatareus* (Spotted archerfish)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Awesome
+    Eye of Archerfish](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/0B9kMlL9wJQ/awesome-eye-of-archerfishl) from wild shores of singapore.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -71,7 +101,8 @@ Reserve. Smaller ones are sometimes seen at the Changi Village jetty.
  **What are archerfishes?** Archerfishes belong to Family Toxotidae.
 According to [FishBase](http://fishbase.org/Summary/FamilySummary.cfm?ID=337):
 the family comprises 1 genus and 6 species found from from India to
-the Philippines, Australia and Polynesia. **Features:** To about 20cm long. Body somewhat flattened sideways,
+the Philippines, Australia and Polynesia. ## Features
+ To about 20cm long. Body somewhat flattened sideways,
 shaped like a knife with a pointed snout and broad rear end. Large
 scales. Large eyes near the top of the head and large upward-facing
 mouth.
@@ -155,38 +186,7 @@ archerfish)
 
 ---
 
-**Links**  
 
-- [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Family
-  Toxotidae](http://fishbase.org/summary/FamilySummary.php?ID=337) and [*Toxotes
-  jaculatrix* (Banded archerfish)](http://fishbase.org/summary/8229) and [*Toxotes
-  chatareus* (Spotted archerfish)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Awesome
-  Eye of Archerfish](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/0B9kMlL9wJQ/awesome-eye-of-archerfishl) from wild shores of singapore.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

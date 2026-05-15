@@ -75,12 +75,25 @@ page_images:
   caption: |
     <p>Pulau Tekukor, Sep 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1931208116902518&set=a.1931206303569366&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
+links_references: |
+  **Links**
+  - [*Acanthopleura* *gemmata*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=4) on the NParks Flora and Fauna website.
+  **References**
+  - Tan, S. K.
+    & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs
+    of Singapore*. Lee Kong Chian Natural History Museum, National
+    University of Singapore, Singapore. 78 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  It has been seen on natural rocky shores on our Southern shores. Many were also seen on artificial seawalls, often hidden in crevices in the concrete slabs.  
   
-**Features:** Up to 12cm long, the
+## Features
+ Up to 12cm long, the
 oval flattened body is covered with 8 overlapping
 plates along the centre. A thick,
 stiff mantle forms a girdle around the plates to
@@ -147,20 +160,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Acanthopleura* *gemmata*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=4) on the NParks Flora and Fauna website.
-
-**References**
-
-- Tan, S. K.
-  & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs
-  of Singapore*. Lee Kong Chian Natural History Museum, National
-  University of Singapore, Singapore. 78 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

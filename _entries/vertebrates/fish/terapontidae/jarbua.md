@@ -65,11 +65,50 @@ page_images:
   caption: |
     <p>Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0go38mGJSfyJygDkfajeWjyN2MDJjXhZKos9sDVhafGx7yLR9oQQYJaiVB3Q11vSbl?__cft__[0]=AZWCqVMArp8RHjvuL6L95hfPipsVS0TECaleXYFXr_GBy7f-WjS38JtNwfZJvHMI3dSFvjebgMQ-NrFOJHRV1ju63-WDo0WsPgGjCmyNGBccN_Yyi3aAd5JflWyM4E5EZqFcD4Emc5iTfsX6h-GVRLNAbxyZkuqPpRQapqt9lsg75w&__tn__=%2CO%2CP-R">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/040919sntd7091m3.jpg
+links_references: |
+  **Links**  
+  - [Crescent
+    perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Jarbua
+    perch (*Terapon jarbua*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4458) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Cresent
+    perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua) on
+    the [Australian
+    Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
+    factsheets with photos and descriptions.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
  This fish in pajamas is sometimes seen on some of
-our shores, usually in sandy areas near reefs with the incoming tide. **Features:**  Grows to
+our shores, usually in sandy areas near reefs with the incoming tide. ## Features
+  Grows to
 30cm, tiny ones 2-3cm long are sometimes seen in small groups in pools
 on the intertidal. It has three blackish stripes on the sides that
 curve above the eyes, and a tail fin striped black and white, with
@@ -119,46 +158,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Crescent
-  perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Jarbua
-  perch (*Terapon jarbua*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4458) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Cresent
-  perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua) on
-  the [Australian
-  Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
-  factsheets with photos and descriptions.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

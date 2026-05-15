@@ -67,6 +67,22 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482923158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
+links_references: |
+  **Links**
+  - [*Maretia*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=351)
+    on [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about heart urchins with lots of large close-up images and
+    explanatory diagrams. With technical descriptions of [Order
+    Spatangoida](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/taxon.jsp?id=244)
+  - [*Maretia
+    planulata*](http://www.sealifebase.org/summary/Maretia-planulatal) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -75,7 +91,8 @@ the coral rubble area.According to Lane, were collected subtidally
 at Pulau Semakau by dredging. Other larger ones are sometimes seen
 on Pulau Sekudu, usually only their skeletons and seldom, living ones.  
   
-**Features:** About 2cm, body oval
+## Features
+ About 2cm, body oval
 mostly white. The sparse long spines directed backwards and are banded
 orange and white, while there are more white short spines. The petaloid
 is brownish with brownish patches on the upperside. On the underside,
@@ -114,24 +131,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
   
-**Links**
 
-- [*Maretia*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=351)
-  on [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about heart urchins with lots of large close-up images and
-  explanatory diagrams. With technical descriptions of [Order
-  Spatangoida](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/taxon.jsp?id=244)
-- [*Maretia
-  planulata*](http://www.sealifebase.org/summary/Maretia-planulatal) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
 
 [links](../../../links)
 | [references](../../../references)

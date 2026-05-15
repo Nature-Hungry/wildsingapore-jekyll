@@ -40,6 +40,33 @@ page_images:
     <p>Feeding on <a href="../../bivalvia/mytilidae/xenostrobus.htm">Little black mussels</a>?</p>
     <p>Lim Chu Kang, Aug 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+links_references: |
+  **Links**
+  - [Drill
+    (*Thais gradata*) and Ketem (*Chicoreus capucinus*)](http://mangrove.nus.edu.sg/guidebooks/text/2085.htm)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Mangrove
+    Murex (*Chicoreus capucinus*)](http://mangrove.nus.edu.sg/pub/seashore/text/146.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Chicoreus
+    capucinus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=105096) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 30 June 2020. *Comparison of juvenile and adult mangrove murex, Chicoreus capucinus*. Singapore Biodiversity Records 2020: 76-77 ISSN 2345-7597
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - K. S. Tan. 2008. *Mudflat predation
+    on bivalves and gastropods by Chicoreus capucinus (Neogastropoda:
+    Muricidae) at Kungkrabaen Bay, Gulf of Thailand*. Raffles Bulletin of Zoology Supplement Series No. 18: 235-245.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -47,7 +74,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/c
 is sometimes seen on mangrove trees. Feeding on the barnacles growing
 on mangrove trunks and other hard surfaces in mangroves. It is also called 'Ketem' in Malay.  
   
-**Features:** 4-5cm, up to 9cm long.
+## Features
+ 4-5cm, up to 9cm long.
 Shell thick with sculptured ridges down the length. The shell, however,
 is often hidden by encrusting plants and animals such as barnacles.
 Shell opening circular with 'teeth' on the inner edge. Long
@@ -79,35 +107,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Drill
-  (*Thais gradata*) and Ketem (*Chicoreus capucinus*)](http://mangrove.nus.edu.sg/guidebooks/text/2085.htm)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Mangrove
-  Murex (*Chicoreus capucinus*)](http://mangrove.nus.edu.sg/pub/seashore/text/146.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Chicoreus
-  capucinus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=105096) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 30 June 2020. *Comparison of juvenile and adult mangrove murex, Chicoreus capucinus*. Singapore Biodiversity Records 2020: 76-77 ISSN 2345-7597
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- K. S. Tan. 2008. *Mudflat predation
-  on bivalves and gastropods by Chicoreus capucinus (Neogastropoda:
-  Muricidae) at Kungkrabaen Bay, Gulf of Thailand*. Raffles Bulletin of Zoology Supplement Series No. 18: 235-245.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

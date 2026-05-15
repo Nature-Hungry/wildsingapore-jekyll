@@ -39,6 +39,16 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  **References**
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia*
+    University of Western Australia Press. 300pp.
 ---
 
 ## Where seen?
@@ -46,7 +56,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bott
 This green seaweed is sometimes seen in clumps covering an area of
 about 20cm, on coral rubble among seagrasses on our Southern shores.  
   
-**Features:** Each stem about 4-6cm
+## Features
+ Each stem about 4-6cm
 long with tiny bristles made up of many branched fine filaments, arranged
 in whorls around the central 'stem' to give the overall appearance
 of a stiff bottlebrush. Green to olive green.  
@@ -85,18 +96,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia*
-  University of Western Australia Press. 300pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

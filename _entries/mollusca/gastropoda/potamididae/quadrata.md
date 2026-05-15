@@ -45,7 +45,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae
  A more slender Chut-chut, it is often seen in our
 mangroves, on tree trunks and on the mud near trees.  
   
-**Features:** 3-4.5cm long. Shell
+## Features
+ 3-4.5cm long. Shell
 long and slender with ribs of fine beads. Tip usually broken. Shell
 opening flared with thin lips. Operculum round and dark. The body
 is darker and it does not have any red markings.  

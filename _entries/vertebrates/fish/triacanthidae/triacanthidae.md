@@ -72,6 +72,38 @@ page_images:
   caption: |
     <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
+links_references: |
+  **Links**  
+  - [Longtail
+    Tripodfish (*Tripodichthys blochii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Tripodfish
+    (*Triacanthus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Triacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444) and [*Pseudotriacanthus
+    strigilifer* (Long-spined tripodfish)](http://www.fishbase.org/summary/8191) and [*Triacanthus
+    biaculeatus* (Short-nosed tripodfish)](http://www.fishbase.org/summary/4562) and [*Triacanthus
+    nieuhofii* (Silver tripodfish)](http://www.fishbase.org/summary/10570) and [*Tripodichthys
+    oxycephalus* (Short-tail tripodfish)](http://www.fishbase.org/summary/15229) and [*Tripodichthys
+    blochii* (Long-tail tripodfish)](http://www.fishbase.org/summary/8413) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 if you
@@ -91,7 +123,8 @@ flowing out of the mangroves during low tide. They are often caught in fishing n
  **What are tripodfishes?** Tripodfishes belong to Family Triacanthidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444):
 the family has 4 genera and 7 species. They are found in the Indo-Pacific
-area. **Features:** 6-25cm. Body extremely flattened sideways,
+area. ## Features
+ 6-25cm. Body extremely flattened sideways,
 somewhat rhombus-shaped and silvery. The scales are tiny and almost
 impossible to see with the naked eye. The gill opening is a small
 vertical slit.
@@ -186,40 +219,7 @@ Tripodichthys blochii* (Longtail tripodfish)
 
 ---
 
-**Links**  
 
-- [Longtail
-  Tripodfish (*Tripodichthys blochii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Tripodfish
-  (*Triacanthus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Triacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444) and [*Pseudotriacanthus
-  strigilifer* (Long-spined tripodfish)](http://www.fishbase.org/summary/8191) and [*Triacanthus
-  biaculeatus* (Short-nosed tripodfish)](http://www.fishbase.org/summary/4562) and [*Triacanthus
-  nieuhofii* (Silver tripodfish)](http://www.fishbase.org/summary/10570) and [*Tripodichthys
-  oxycephalus* (Short-tail tripodfish)](http://www.fishbase.org/summary/15229) and [*Tripodichthys
-  blochii* (Long-tail tripodfish)](http://www.fishbase.org/summary/8413) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

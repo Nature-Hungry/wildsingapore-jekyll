@@ -40,13 +40,17 @@ page_images:
   caption: |
     <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10152967123633660&set=a.10152965513123660.1073741863.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+links_references: |
+  **Links**
+  - [Blood-spotted swimming crab (*Portunus* *sanguinolentus*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1102) on Crabs of Japan on Marine Species Indentification Portal.
 ---
 
 ## Where seen?
  This oddly marked swimming crab is not often encountered
 on the intertidal.  
   
-**Features:** Body somewhat fan-shaped, with 9 spines on the sides. The eyes
+## Features
+ Body somewhat fan-shaped, with 9 spines on the sides. The eyes
 not far apart. Last pair of legs are paddle-shaped and rotate like
 boat propellers. Body with three large red spots.
  
@@ -61,9 +65,6 @@ display.*
 **Acknowelegements**  
 Grateful thanks to Marcus Ng for the photo and Dr Joelle Lai for the identification.   
   
-**Links**
-
-- [Blood-spotted swimming crab (*Portunus* *sanguinolentus*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1102) on Crabs of Japan on Marine Species Indentification Portal.
 
 [links](../../../links)
 | [references](../../../references)

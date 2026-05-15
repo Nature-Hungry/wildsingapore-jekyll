@@ -54,6 +54,45 @@ page_images:
   caption: |
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159235743013158&set=a.10159235746118158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+links_references: |
+  **Links**
+  - [Rarespined
+    murex (*Murex trapa*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86982) on SeaLife Base: Technical
+    fact sheet.
+  - [Rare-spined
+    murex (*Murex trapa*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195) on the NParks Flora and Fauna website.
+  - Rarespined
+    murex (*Murex trapa*) in the Gastropods section by J.M. Poutiers
+    in the FAO Species Identification Guide for Fishery Purposes:
+    The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -61,7 +100,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/t
 shells of dead snails are often encountered on our Northern shores.
 The empty shell is usually occupied by a hermit crab!   
   
-**Features:** 6-7cm long, it has slender,
+## Features
+ 6-7cm long, it has slender,
 curving spines and a long siphonal canal. It has 3-4 short spines
 on half the siphonal canal closest to the shell. This long siphonal
 canal helps the animal protect its siphon while it pokes into places
@@ -117,47 +157,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Rarespined
-  murex (*Murex trapa*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86982) on SeaLife Base: Technical
-  fact sheet.
-- [Rare-spined
-  murex (*Murex trapa*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195) on the NParks Flora and Fauna website.
-- Rarespined
-  murex (*Murex trapa*) in the Gastropods section by J.M. Poutiers
-  in the FAO Species Identification Guide for Fishery Purposes:
-  The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

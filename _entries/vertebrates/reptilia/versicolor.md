@@ -36,6 +36,26 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Jan 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
+links_references: |
+  **Links**
+  - [Changeable
+    lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland.
 ---
 
 ## Where seen?
@@ -49,7 +69,8 @@ northern Peninsular Malaysia. In Singapore, it has displaced the [Green
 crested lizard](cristatella) (*Bronchodela cristatella*) a native lizard
 which used to be commonly seen.   
   
-**Features:**Total length
+## Features
+Total length
 to 37cm. A stout body with small, bumpy (keeled) scales. It has a
 spiny crest on the back of its neck and along the body. There are
 two spines above the ear opening. It has blackish streaks radiating
@@ -79,26 +100,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Calotes%252C%2520versicolor/map?&fLat=1.2959&fLon=103.8764&zl=11&order_by=recent)
 
 ---
-
-**Links**
-
-- [Changeable
-  lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland.

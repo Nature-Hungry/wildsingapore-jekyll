@@ -86,6 +86,29 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162808258719264&set=a.10162808156564264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
+links_references: |
+  **Links**  
+  - [Project
+    Seahorse](http://seahorse.fisheries.ubc.ca/relativesl): THE website for everything about seahorses, it also
+    has lots of info about pipefishes.
+  - [Alligator
+    pipefish (*Syngnathoides biaculeatus*)](http://www.fishbase.org/summary/5980) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Kuiter, Rudie
+    H., 2000 (English edition). *Seahorses,
+    Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*
+    TMC Publishing, UK. 240 pp.
 ---
 
 ## Where seen?
@@ -96,7 +119,8 @@ seagrasses](../../../plants/seagrass/enhalus). It is generally
 found in sheltered coastal shallows among seagrasses and seaweeds.
   
   
-**Features:** 20cm, grows to about
+## Features
+ 20cm, grows to about
 29cm. Body long and angular cylindrical tapering to a thin tail. It has a pair
 of tentacles on a long narrow snout. It is sometimes also called the Double-ended
 pipefish probably because both ends look similar. The tail is prehensile
@@ -179,31 +203,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/relativesl): THE website for everything about seahorses, it also
-  has lots of info about pipefishes.
-- [Alligator
-  pipefish (*Syngnathoides biaculeatus*)](http://www.fishbase.org/summary/5980) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Kuiter, Rudie
-  H., 2000 (English edition). *Seahorses,
-  Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*
-  TMC Publishing, UK. 240 pp.
 
 [links](../../../links)
 | [references](../../../references)

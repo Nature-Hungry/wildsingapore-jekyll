@@ -55,13 +55,45 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Goniopora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Goniopora)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Goniopora
+    columna](http://www.sealifebase.org/Summary/speciesSummary.php?ID=4566)* and *[Goniopora
+    lobata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45674)* on
+    SeaLife Base: Technical fact sheets.
+  **References**
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp.
 ---
 
 ## Where seen?
  These hard corals are among those commonly seen on
 many of our shores. They are more commonly seen on our Southern shores. *Bernardpora stutchburyi* also in the Family Poritidae, can look like Anemone corals.  
   
-**Features:** Colonies (10-15cm) boulder-shaped
+## Features
+ Colonies (10-15cm) boulder-shaped
 or form short fat columns with rounded tops. The corallites are small
 to tiny (0.2-0.5cm) circular or polygonal, packed close to one another.
 The skeleton is porous. Some have polyps with long bodies and long
@@ -149,39 +181,7 @@ Goniopora stokesi (NT Near Threatened)* (Daisy coral) *Goniopora tenuidens* (Blu
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Goniopora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Goniopora)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Goniopora
-  columna](http://www.sealifebase.org/Summary/speciesSummary.php?ID=4566)* and *[Goniopora
-  lobata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45674)* on
-  SeaLife Base: Technical fact sheets.
-
-**References**
-
-- *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp.
 
 [links](../../../links)
 | [references](../../../references)

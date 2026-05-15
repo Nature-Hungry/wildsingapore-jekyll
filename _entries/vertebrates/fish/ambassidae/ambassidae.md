@@ -40,6 +40,20 @@ page_images:
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+links_references: |
+  **Links**  
+  - [Kops'
+    Glass Perchlet (*Ambassis kopsii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Freckled
+    hawkfish (*Ambassis kopsii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 if you
@@ -56,7 +70,8 @@ tide on many of our shores. Elsewhere, they are found in mangroves,
 estuaries and fresh water. They form groups during the day among mangrove
 roots and submerged plants. They disperse at night to feed. **What are perchlets?** Perchlets belong to Family Ambassidae (previously Family Chandidae). According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=509):
 The family has 8 genera and 41 species. They are found in Asia and
-Oceania and the Indo-west Pacific oceans. **Features:** To about 10cm. Body nearly transparent covered with thin
+Oceania and the Indo-west Pacific oceans. ## Features
+ To about 10cm. Body nearly transparent covered with thin
 scales. Thus it is sometimes called the Glassfish. Mouth is upturned
 with a projecting jaw and large eyes. A single dorsal fin, deeply
 notched before the last spine. These fishes are often seen in small
@@ -100,22 +115,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Kops'
-  Glass Perchlet (*Ambassis kopsii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Freckled
-  hawkfish (*Ambassis kopsii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

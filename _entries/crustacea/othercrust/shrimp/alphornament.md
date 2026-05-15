@@ -105,7 +105,8 @@ seen on some of our shores, in sandy areas near seagrasses and among
 coral rubble. It is more active at night. During the day, most remain
 hidden in their burrows.   
   
-**Features:** 4-6cm.The enlarged pincer is long, narrow and flattened often with
+## Features
+ 4-6cm.The enlarged pincer is long, narrow and flattened often with
 pink tips. The other pincer is also long and flattened with narrow
 fingers fringed with hairs. Some of these shrimps can be quite colourful
 with intricately patterned bodies which are rather hairy. Some have

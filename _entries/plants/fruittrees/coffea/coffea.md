@@ -71,6 +71,16 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
+links_references: |
+  **Links**
+  - [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffeel)
+    and *[Coffea
+    arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabical)* New Crop Resource Online Program at Purdue University.
+  - [The
+    story of coffee](http://www.ico.org/coffee_story.asp) on the International Coffee Organization website.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -79,7 +89,8 @@ have seen a coffee bush! You can see several at Pulau Ubin's Sensory
 Trail. According to Corners, there are about 40 species in tropical
 Africa and Asia, with 3 wild species in Malaya.  
   
- **Features:** A tall bush (to about
+ ## Features
+ A tall bush (to about
 5m). Leaves large. Flowers small, white or green, and fragrant. According
 to Corners, the flowers bloom in synchrony. The buds develop to a
 certain size then remain dormant until there is a sudden drop in temperatures
@@ -107,18 +118,7 @@ as the drink itself. Below are links to some sites with more details.
 
 ---
 
-**Links**
 
-- [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffeel)
-  and *[Coffea
-  arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabical)* New Crop Resource Online Program at Purdue University.
-- [The
-  story of coffee](http://www.ico.org/coffee_story.asp) on the International Coffee Organization website.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

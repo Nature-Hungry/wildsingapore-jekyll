@@ -92,6 +92,19 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Mar 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253359297945&set=a.10160254104782945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+links_references: |
+  **Links**  
+  - [Brown-stripe
+    Wrasse (*Halichoeres bicolor*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - *[Halichoeres
+    bicolor](http://www.iucnredlist.org/details/187598/0)*
+    on the IUCN Red List.
+  - [*Halichoeres
+    bicolor* (Pearly-spotted wrasse*)*](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=53816) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
 ---
 
 ## Where seen?
@@ -99,7 +112,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicol
 of our shores, near living reefs, usually alone. Elsewhere, it is
 found in silty sand or mud near shallow reefs and seagrass beds.  
   
- **Features:** To about 13cm, those
+ ## Features
+ To about 13cm, those
 seen about 6-8cm. Snout pointed, a dark stripe along on the side,
 white-ringed black spot on the tail. There is a black spot in the middle of the
 front half of the dorsal fin which is not easy to see in a fish that is stranded out of water (fins not spread out). The stripe along the lateral line is
@@ -171,19 +185,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Brown-stripe
-  Wrasse (*Halichoeres bicolor*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- *[Halichoeres
-  bicolor](http://www.iucnredlist.org/details/187598/0)*
-  on the IUCN Red List.
-- [*Halichoeres
-  bicolor* (Pearly-spotted wrasse*)*](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=53816) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

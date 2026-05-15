@@ -74,6 +74,17 @@ page_images:
   caption: |
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/101224sisd4024m3.jpg
+links_references: |
+  **Links**  
+  - [Black
+    cardinalfish (*Apogonichthyoides melas*)](http://www.fishbase.org/summary/speciessummary.php?id=5749) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Jeffrey K. Y. Low. 23 October 2015. *Black cardinalfish in the Singapore Strait*. Singapore Biodiversity Records 2015: 161
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -83,7 +94,8 @@ reefs. Elsewhere, it is seen in shallow well protected coastal bays,
 commonly found under jetties, hiding in dark areas, also in inshore
 rocky areas and among branching coral. It was previously known as *Apogon melas*.  
   
-**Features:** To
+## Features
+ To
 10cm, those seen usually about 2-4cm. Body rounded with fins that are all rounded, including the tail fins. Whole body dark. Distinguished by a pale-edged dark spot at
 the base of the second dorsal fin. Tiny fish with a similar shape but only dark in the front portion, might they be juveniles?
  
@@ -131,19 +143,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Black
-  cardinalfish (*Apogonichthyoides melas*)](http://www.fishbase.org/summary/speciessummary.php?id=5749) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Jeffrey K. Y. Low. 23 October 2015. *Black cardinalfish in the Singapore Strait*. Singapore Biodiversity Records 2015: 161
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

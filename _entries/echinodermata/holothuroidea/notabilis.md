@@ -96,6 +96,17 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
+links_references: |
+   **Links**
+  - [*Holothuria
+    notabilis*](http://www.sealifebase.org/summary/Holothuria-notabilisl)
+    on SeaLife Base: Technical fact sheet.
+  - [*Holothuria
+    notabilis*](http://species-identification.org/species.php?species_group=nasc&id=70) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  - [*Holothuria
+    notabilis*](http://www.iucnredlist.org/details/180340/0) on the IUCN Red List.
+  - *Holothuria notabilis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 ---
 
 ## Where seen?
@@ -105,7 +116,8 @@ buried near seagrasses on some of our shores. Those seen were buried
 in the sand near the low water mark, with only a tip of the body sticking
 out. Elsewhere, it prefers lagoons and seagrass meadows with sandy ground and can be found in high densities.  
   
-**Features:**  10-12cm long. Body
+## Features
+  10-12cm long. Body
 soft cylindrical and tapered at the back side. Irregular darker blotches, about 8-10 blotches in 2 rows, on a body colour that varies from yellow, orange to dark or light brown. The underside
 is usually paler with fewer dark markings. Tube feet seem small
 and stumpy. It has a small downward facing mouth with 20 small yellow feeding tentacles. It can
@@ -170,15 +182,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowledgement**With
 grateful thanks to Robin Ngiam Wen Jiang for finding out and sharing the identity
-and providing photos of the ossicles.  
- **Links**
-
-- [*Holothuria
-  notabilis*](http://www.sealifebase.org/summary/Holothuria-notabilisl)
-  on SeaLife Base: Technical fact sheet.
-- [*Holothuria
-  notabilis*](http://species-identification.org/species.php?species_group=nasc&id=70) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-- [*Holothuria
-  notabilis*](http://www.iucnredlist.org/details/180340/0) on the IUCN Red List.
-- *Holothuria notabilis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+and providing photos of the ossicles.

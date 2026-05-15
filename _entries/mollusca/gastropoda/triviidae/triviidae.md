@@ -44,13 +44,35 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24881062736/in/album-72157607718672165/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
+links_references: |
+  **Links**
+  - [A
+    rare snail at Sentosa](http://wondercreation.blogspot.com/2010/01/rare-snail-at-sentosa.html) the discovery by Loh Kok Sheng on his
+    wonderful creations blog.
+  - [*Trivirostra
+    oryza oryza*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=193) on the NParks Flora and Fauna website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This tiny snail resembles a cowrie but belongs to
 a different family. It is found in coral reefs under rocks.  
   
-**Features:** About 1cm. The shell
+## Features
+ About 1cm. The shell
 is white, oval with regular parallel ridges all around the shell including
 the upper side. There is a prominent groove along the length of the
 upper side, cutting across the ridges.   
@@ -107,29 +129,7 @@ Trivia rubinicolor*
 
 ---
 
-**Links**
 
-- [A
-  rare snail at Sentosa](http://wondercreation.blogspot.com/2010/01/rare-snail-at-sentosa.html) the discovery by Loh Kok Sheng on his
-  wonderful creations blog.
-- [*Trivirostra
-  oryza oryza*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=193) on the NParks Flora and Fauna website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -127,6 +127,15 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352603333/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
+links_references: |
+  **Links**
+  - [*Cypraea
+    ovum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90304) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 if you
@@ -145,7 +154,8 @@ stones, but sometimes crawling about in the open. Sometimes also seen
 on our Southern shores among coral rubble. It
 was previously known as *Cypraea ovum*.  
   
-**Features:** 2-3cm.
+## Features
+ 2-3cm.
 Shell
 pear-shaped, generally pale blue with 3 broad pale brown bands and small brown speckles all over. Sometimes, but not always, with a big brown blotch in the middle. There are no brown spots
 at the front tip of the shell. Underside white with 'teeth' that are tinged yellow or orange. The living animal has a dark
@@ -230,17 +240,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cypraea
-  ovum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90304) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

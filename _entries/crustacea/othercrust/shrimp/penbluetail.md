@@ -61,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/pen
 often seen on some of our shores. In sandy, silty areas and near seagrasses.
 It is more active at night and usually seen alone.  
   
-**Features:** 5-8cm long. Body beige
+## Features
+ 5-8cm long. Body beige
 usually plain with dark spots on the sides. The tail with blue-edged
 black 'eyes' sometimes with reddish edges. Those which are transparent
 with a reddish chest may be juveniles. It can bury itself rapidly

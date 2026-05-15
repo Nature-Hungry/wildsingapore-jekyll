@@ -56,7 +56,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarma
 spherical crab is seldom seen outside the [Mud
 lobster mounds](../../othercrust/lobster/thalassina) where it lives.  
   
-**Features:** Body width 3-8cm. It
+## Features
+ Body width 3-8cm. It
 has a round body and flat legs with pointed tips. The pincers are
 stout and fat.  
   

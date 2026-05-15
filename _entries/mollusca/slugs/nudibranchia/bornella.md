@@ -101,13 +101,49 @@ page_images:
   caption: |
     <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
+     *[Bornella
+    anguilla](http://www.seaslugforum.net/find/bornangu)*,*[Bornella
+    japonica](http://www.seaslugforum.net/find/bornjapo)*, *[Bornella
+    stellifer](http://www.seaslugforum.net/find/bornstel)*.
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Bornella stellifer](http://slugsite.us/bow/nudwk441.htm)*
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: distribution
+    but no photo.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
 ---
 
 ## Where seen?
  This small nudibranch is sometimes seen on our some of
 our shores, among seagrasses, seaweeds and near reefs. It is more active at night.   
   
-**Features:** 1-3cm long. Body long,
+## Features
+ 1-3cm long. Body long,
 narrow and somewhat cylindrical, pale or white with net-like pattern
 of red lines. Two rows of finger-like appendages along the body, not
 true cerata. These appendages are usually orange tipped, and protect
@@ -182,43 +218,7 @@ blog](http://psychedelic-nature.blogspot.com/2011/12/videos-slugs-on-our-shores.
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
-   *[Bornella
-  anguilla](http://www.seaslugforum.net/find/bornangu)*,*[Bornella
-  japonica](http://www.seaslugforum.net/find/bornjapo)*, *[Bornella
-  stellifer](http://www.seaslugforum.net/find/bornstel)*.
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Bornella stellifer](http://slugsite.us/bow/nudwk441.htm)*
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: distribution
-  but no photo.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

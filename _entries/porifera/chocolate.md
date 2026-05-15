@@ -81,13 +81,26 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg
+links_references: |
+  **Links**
+  - [*Spheciospongia
+    vagabunda*](http://www.sealifebase.fisheries.ubc.ca/summary/Spheciospongia-vagabunda.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Spheciospongia
+    vagabunda*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170564) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This smooth lumpy sponge is particularly common on our Southern shores
 on muddy bottoms of lagoons near the mid-water mark. There may be
-a broad zone of these sponges near reefs. **Features:** 10-20cm wide. The smooth velvety sponge is highly
+a broad zone of these sponges near reefs. ## Features
+ 10-20cm wide. The smooth velvety sponge is highly
 variable in shape. Basically, three kinds of shapes: an irregular
 mass that is low and flush with the ground, usually full of little
 holes; or an irregular mass with many tall stout cones with holes
@@ -151,20 +164,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Spheciospongia
-  vagabunda*](http://www.sealifebase.fisheries.ubc.ca/summary/Spheciospongia-vagabunda.html)
-  on SeaLife Base: technical fact sheet.
-- [*Spheciospongia
-  vagabunda*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170564) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

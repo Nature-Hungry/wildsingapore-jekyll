@@ -74,6 +74,49 @@ page_images:
   caption: |
     <p>Developing babies Changi, Jul 03</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [The
+    Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
+    and the University of Texas Medical Branch website: everything
+    you could possibly want to know about cephalopods. Lots of info,
+    photos, articles and links to cephalopods. Lots of fabulous photos,
+    a delightful and exhaustive FAQ, and lots of cool articles for
+    the laymen. With a very cute ink-squiring squid cursor!
+  - Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide
+    for Fishery Purposes: The Living Marine Resources of the Western
+    Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
+    A World Guide*.
+    ConchBooks, Germany. 319 pp
+  - Norman, Mark
+    and Amanda Reid. 2000. *A
+    Guide to Squid, Cuttlefish and Octopuses of Australasia*
+    The Gould League of Australia. 96pp.
 ---
 
 if you
@@ -100,7 +143,8 @@ Sepiolida](sepiolida.htm). Some small squids and cuttlefish live in the shallow
 areas among the seagrasses. Others live in deeper waters and may get
 trapped in a pool at low tide.  
   
-**Features:** From 1-2cm to about
+## Features
+ From 1-2cm to about
 10cm long. Compared to their more sedate cousins the slugs and snails,
 squids and cuttlefishes are fast-moving predators that hunt speedy
 prey like fish. They may also hunt snails and clams, crabs and prawns.
@@ -231,51 +275,7 @@ Idiosepiidae** (Pygmy squids)
 
 ---
 
-**Links**
 
-- [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [The
-  Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
-  and the University of Texas Medical Branch website: everything
-  you could possibly want to know about cephalopods. Lots of info,
-  photos, articles and links to cephalopods. Lots of fabulous photos,
-  a delightful and exhaustive FAQ, and lots of cool articles for
-  the laymen. With a very cute ink-squiring squid cursor!
-- Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide
-  for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp
-- Norman, Mark
-  and Amanda Reid. 2000. *A
-  Guide to Squid, Cuttlefish and Octopuses of Australasia*
-  The Gould League of Australia. 96pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

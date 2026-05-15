@@ -78,7 +78,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/lar
 shores, usually alone on sandy areas near seagrasses, coral rubble
 and reefs.  
   
-**Features:** 5-6cm long. The two-part
+## Features
+ 5-6cm long. The two-part
 shell is thick and heavy, oval to rectangular and hemispherical (not
 flat). There are strong ribs sometimes with beads along the ribs.
 When submerged, a fringe of short tentacles may emerge from the shell

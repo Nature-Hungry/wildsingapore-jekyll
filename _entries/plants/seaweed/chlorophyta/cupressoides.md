@@ -51,6 +51,32 @@ page_images:
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497031912945&set=a.10158495877737945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    cupressoides*](http://www.algaebase.org/search/species/detail/?species_id=3746) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  - [*Caulerpa cupressoides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&menuentry=soorten&id=491&tab=beschrijving) on Interactive Guide to Caribbean Diving, the Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Eric Coppejans
+    and Tom Beeckman. 1990. *[Caulerpa
+    (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
+    Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
+    R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
+    Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
+    how to tell apart similar *Caulerpa* species.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -58,7 +84,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupr
 This toothy green seaweed is commonly seen on some of our shores,
 usually in a small clump on coral rubble.   
   
-**Features:** Zipper-like structure
+## Features
+ Zipper-like structure
 4-6cm long. The mid-rib or central 'stem' may be cylindrical or flat,
 narrow or relatively broad. The side 'branches' usually very short,
 flat and have pointed tips. Thus it looks somewhat like a zipper!
@@ -121,34 +148,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  cupressoides*](http://www.algaebase.org/search/species/detail/?species_id=3746) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-- [*Caulerpa cupressoides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&menuentry=soorten&id=491&tab=beschrijving) on Interactive Guide to Caribbean Diving, the Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Eric Coppejans
-  and Tom Beeckman. 1990. *[Caulerpa
-  (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
-  Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
-  R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
-  Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
-  how to tell apart similar *Caulerpa* species.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

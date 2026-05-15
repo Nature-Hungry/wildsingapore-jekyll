@@ -91,6 +91,24 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 08Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160150293/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+links_references: |
+   **Links**  
+  - [Pink-speckled shrimpgoby (*Cryptocentrus leptocephalus)*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=25799)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet including fact sheet.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -99,7 +117,8 @@ on our Southern shores. Elsewhere it is found in silty bottoms
 of mangroves, large tidal pools or inner reef lagoons, on sand and
 rubble. Synonyms of this fish are *C. obliquus* and *C. singapurensis*.  
   
-**Features:** To about 8cm (according
+## Features
+ To about 8cm (according
 to FishBase, up to 12cm), those seen on our shores about 4-6cm.
 About 6 broad oblique bars on the body and the head has many bright
 pink bars and spots as well as many tiny blue dots.
@@ -157,26 +176,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
- **Links**  
 
-- [Pink-speckled shrimpgoby (*Cryptocentrus leptocephalus)*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=25799)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet including fact sheet.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

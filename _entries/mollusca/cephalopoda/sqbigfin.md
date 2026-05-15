@@ -128,7 +128,8 @@ gathers near the bottom during the day, dispersing in the water at
 night to hunt. Many are attracted to light. Elsewhere, it is found
 to 100m deep.  
   
-**Features:** Mostly 8-12cm long,
+## Features
+ Mostly 8-12cm long,
 but may grow to 40cm and weigh 2kgs. Body rather squat with wide fins
 that extend along the entire body length, thus it is sometimes mistaken
 for a [cuttlefish](sepiidae.htm). The fins oval or somewhat pear-shaped with the widest

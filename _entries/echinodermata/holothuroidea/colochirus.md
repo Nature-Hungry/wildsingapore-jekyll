@@ -89,6 +89,22 @@ page_images:
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830726053158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Colochirus
+    quadrangularis*](http://www.sealifebase.org/summary/Colochirus-quadrangularisl) on SeaLife Base: Technical fact sheet.
+  - [*Pentacta
+    quadrangularis*](http://species-identification.org/species.php?species_group=nasc&id=93) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -101,7 +117,8 @@ Thorny sea cucumbers do not appear to burrow into the ground and are
 often found on the sand especially in seagrass areas, clinging to
 tubeworm tubes or other hard surfaces.  
   
-**Features:**  6-10cm long, and really
+## Features
+  6-10cm long, and really
 tiny ones hardly bigger than a seagrass leaf are sometimes also seen.
 Body short, squarish or quadrangular in cross-section with a distinct
 upperside and underside. Underside is flat with three rows of short red
@@ -165,22 +182,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Colochirus
-  quadrangularis*](http://www.sealifebase.org/summary/Colochirus-quadrangularisl) on SeaLife Base: Technical fact sheet.
-- [*Pentacta
-  quadrangularis*](http://species-identification.org/species.php?species_group=nasc&id=93) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

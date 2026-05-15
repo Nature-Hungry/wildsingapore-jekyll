@@ -127,6 +127,49 @@ page_images:
   caption: |
     <p>Chek Jawa, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10153811457703119.1073741881.696593118&type=3">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [What
+    are Sea Hares?](http://www.seaslugforum.net/factsheet.cfm?base=seahares) on the [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares.
+  - [A
+    test of novel function(s) for the ink of sea hares](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8F-3VTHRN1-C&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=526635ec034c51da46823167b883fa0a) Thomas
+    H. Carefoota, Steven C. Pennings and Jean Paul Danko, Aug 98,
+    abstract on Science Direct.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 if you
@@ -154,7 +197,8 @@ sea hares lack external shells as adults. Sea hares belong to Order
 Anaspidea and are NOT [nudibranchs](../../nudibranchia.htm),
 which belong to a different Order Nudibranchia.  
   
-**Features:** Sea hares can be quite large with reports of animals elsewhere reaching
+## Features
+ Sea hares can be quite large with reports of animals elsewhere reaching
 60cm long and weighing 5kgs! Others can be super tiny.  
   
 Sea hares have two pairs
@@ -250,51 +294,7 @@ geographica](geographica.htm)* (Geographic sea hare)
 
 ---
 
-**Links**
 
-- [What
-  are Sea Hares?](http://www.seaslugforum.net/factsheet.cfm?base=seahares) on the [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares.
-- [A
-  test of novel function(s) for the ink of sea hares](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8F-3VTHRN1-C&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=526635ec034c51da46823167b883fa0a) Thomas
-  H. Carefoota, Steven C. Pennings and Jean Paul Danko, Aug 98,
-  abstract on Science Direct.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

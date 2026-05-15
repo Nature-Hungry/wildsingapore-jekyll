@@ -78,6 +78,36 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
+links_references: |
+  **Links**
+  - [*Xylocarpus
+    granatum*](http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/) and *[Xylocarpus
+    moluccensis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3209)* and *[Xylocarpus
+    rumphii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3210)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [The
+    Struggle for Survival: Five threatened coastal plants once common
+    on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d) by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar
+    98
+  - [Siloso
+    plant checklist](http://www.eart-h.com/text/siloso) by Joseph Lai on his eart-h.com website done
+    during the [Sentosa
+    Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl)
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -86,7 +116,8 @@ cannon-ball tree](granatum) (*Xylocarpus granatum*) is still commonly
 seen in our mangroves. But other *Xylocarpus* species are not
 as frequently encountered.  
   
-**Features:** Generally trees, the
+## Features
+ Generally trees, the
 different species have tiny flowers that appear rather similar. The
 species are best distinguished by where they are growing, and structures
 of the leaves, bark, roots and fruits.  
@@ -190,38 +221,7 @@ Flowers of the
 
 ---
 
-**Links**
 
-- [*Xylocarpus
-  granatum*](http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/) and *[Xylocarpus
-  moluccensis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3209)* and *[Xylocarpus
-  rumphii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3210)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [The
-  Struggle for Survival: Five threatened coastal plants once common
-  on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d) by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar
-  98
-- [Siloso
-  plant checklist](http://www.eart-h.com/text/siloso) by Joseph Lai on his eart-h.com website done
-  during the [Sentosa
-  Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl)
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -90,6 +90,54 @@ page_images:
   caption: |
     <p></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [*Peronia verruculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Peronia%20verruculata.html) (Systellommatophora: Onchidiidae) Onch slug by Chang Jia Jin Marc, 2015, on taxo4254
+  - *[Peronina
+    alta](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=207)* on the NParks Flora and Fauna website.
+  - [Mangrove
+    slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp
+  - [Sea
+    Slug *Onchidium*](http://mangrove.nus.edu.sg/pub/seashore/text/149.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [Onchidiidae
+    Diversity and Evolution](http://campillos.ucmerced.edu/%7Ebdayrat/Onchidiidae.html) on the Benoit Dayrat Lab at University
+    of California at Merced
+  - [Marine
+    Pulmonate Slugs](http://www.seaslugforum.net/onchid.htm) on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: a brief intro to Onchs with
+    lots of emails queries and photos and Dr Rudman's responses to
+    them.
+  **References**
+  - Benoit Dayrat et al. (24 Nov 2016). [Integrative taxonomy of the genus *Onchidium* Buchannan, 1800 (Mollusca, Gastropoda, Pulmonata, Onchidiidae)](http://zookeys.pensoft.net/articles.php?id=8879). ZooKeys 636: 1-40
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Benoit Dayrat, [Review
+    of the current knowledge of the systematics of Onchidiidae (Mollusca:
+    Gastropoda: Pulmonata) with a checklist of nominal species](http://campillos.ucmerced.edu/%7Ebdayrat/PDF%20of%20Papers/Dayrat%20Zootaxa%202009.pdf)
+    Zootaxa 2068: 1-26 (2009) (pdf)
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -115,7 +163,8 @@ breathe air through simple lungs or modified gills. Other sea slugs
 breathe underwater with gills. Here's more on how to tell apart [onch
 slugs from other sea slugs](../../nudiharesac.htm).  
   
-**Features:** 1-5cm. Unlike most other
+## Features
+ 1-5cm. Unlike most other
 snails, they don't have a shell as adults. Instead, they have tough
 leathery skin to reduce water loss. But like most other snails, they
 have a broad foot and tiny eyes at the tips of a pair of long fleshy
@@ -221,56 +270,7 @@ Platevindex* sp. 1 *Platevindex* sp. 2
 
 ---
 
-**Links**
 
-- [*Peronia verruculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Peronia%20verruculata.html) (Systellommatophora: Onchidiidae) Onch slug by Chang Jia Jin Marc, 2015, on taxo4254
-- *[Peronina
-  alta](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=207)* on the NParks Flora and Fauna website.
-- [Mangrove
-  slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp
-- [Sea
-  Slug *Onchidium*](http://mangrove.nus.edu.sg/pub/seashore/text/149.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [Onchidiidae
-  Diversity and Evolution](http://campillos.ucmerced.edu/%7Ebdayrat/Onchidiidae.html) on the Benoit Dayrat Lab at University
-  of California at Merced
-- [Marine
-  Pulmonate Slugs](http://www.seaslugforum.net/onchid.htm) on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: a brief intro to Onchs with
-  lots of emails queries and photos and Dr Rudman's responses to
-  them.
-
-**References**
-
-- Benoit Dayrat et al. (24 Nov 2016). [Integrative taxonomy of the genus *Onchidium* Buchannan, 1800 (Mollusca, Gastropoda, Pulmonata, Onchidiidae)](http://zookeys.pensoft.net/articles.php?id=8879). ZooKeys 636: 1-40
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Benoit Dayrat, [Review
-  of the current knowledge of the systematics of Onchidiidae (Mollusca:
-  Gastropoda: Pulmonata) with a checklist of nominal species](http://campillos.ucmerced.edu/%7Ebdayrat/PDF%20of%20Papers/Dayrat%20Zootaxa%202009.pdf)
-  Zootaxa 2068: 1-26 (2009) (pdf)
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

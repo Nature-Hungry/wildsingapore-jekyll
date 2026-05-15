@@ -59,6 +59,27 @@ page_images:
   caption: |
     <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/38901279845/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
+links_references: |
+  **Links**  
+  - [Mangrove
+    Whipray (*Himantura walga*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205). Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Dwarf
+    whipray (*Himantura walga*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
+  **References**  
+  - Marcus F. C. Ng. 18 September 2015. *Juvenile mangrove whip-ray at Pulau Hantu*. Singapore Biodiversity Records 2015: 128.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -66,7 +87,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/wal
 plain stingray with a sharp pointed snout is sometimes seen on our
 Northern shores, usually on muddy shores. It is more active at night
 and at high tide. Small ones are sometimes also seen trapped in pools
-in the seagrass meadows at low tide. **Features:**  Grows to about 25cm in diameter, those seen
+in the seagrass meadows at low tide. ## Features
+  Grows to about 25cm in diameter, those seen
 about 15-20cm. Body generally oval with a pointed snout. Body colour
 plain beige or pinkish without any markings. Tail long and whip-like
 without markings. It does not have a skin fold on the tail. The female
@@ -110,29 +132,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Mangrove
-  Whipray (*Himantura walga*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205). Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Dwarf
-  whipray (*Himantura walga*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
-
-**References**  
-
-- Marcus F. C. Ng. 18 September 2015. *Juvenile mangrove whip-ray at Pulau Hantu*. Singapore Biodiversity Records 2015: 128.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

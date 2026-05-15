@@ -161,6 +161,24 @@ page_images:
     <p>Neville Coleman's World of Water, Australia.</p>
     <p>64pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
+links_references: |
+  **Links**
+  - [Class
+    Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
+  - T. S. Tay & J. K. Y. Low. 29 June 2016. *Crinoid diversity in the subtidal non-coral reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665.
+  - Charles Messing. 16 October 2015. *New record of the featherstar Cenometra bella in Singapore*. Singapore Biodiversity Records 2015: 160
+  - C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 if you
@@ -399,24 +417,3 @@ Zygometridae**
 *Zygometra comata*
 
 ---
-
-**Links**
-
-- [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
-- T. S. Tay & J. K. Y. Low. 29 June 2016. *Crinoid diversity in the subtidal non-coral reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665.
-- Charles Messing. 16 October 2015. *New record of the featherstar Cenometra bella in Singapore*. Singapore Biodiversity Records 2015: 160
-- C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The

@@ -72,7 +72,8 @@ on our Northern shores, among seagrasses as well as on sand and silty
 sand. Sometimes large numbers may be seen. It is more active at night
 and can move about rapidly among seagrasses and over sand.  
   
-**Features:** Disk
+## Features
+ Disk
 diameter less than 1cm, arms about 5cm long. Central disk flat and
 smooth, some are circular, others have a distinct petal-like shape
 with scalloped edges. Arms wide and flattened, with tapered pointed

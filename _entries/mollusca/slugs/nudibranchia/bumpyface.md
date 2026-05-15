@@ -52,6 +52,17 @@ page_images:
     <p>On a spiky sea pen.</p>
     <p>East Coast Park, Feb 19Photo shared by Teo Say Chong on <a href="https://www.facebook.com/photo.php?fbid=10218783796608300&set=a.10218783795648276&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Armina*
+    sp.9](http://www.seaslugforum.net/find/armisp9)
+  **References**
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 ## Where seen?
@@ -59,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bum
 armina nudibranch is sometimes seen on Changi and some of our Northern
 shores among seagrass meadows. It is often seen burrowing in sand.  
   
-**Features:** 3-4cm long. Long, narrow
+## Features
+ 3-4cm long. Long, narrow
 body with stripes and a white border on the edge of the mantle skirt.
 The foot is white too. The wedge-shaped flap over its mouth (oral
 veil) has finger-like bumps on it. It lacks a feathery gill on its
@@ -106,19 +118,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Armina*
-  sp.9](http://www.seaslugforum.net/find/armisp9)
-
-**References**
-
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

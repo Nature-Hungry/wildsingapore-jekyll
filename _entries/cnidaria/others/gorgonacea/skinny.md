@@ -51,13 +51,33 @@ page_images:
   caption: |
     <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+links_references: |
+  **Links**
+  - [*Astrogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Astrogorgia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and
+    photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and
+    Art Gallery of the Northern Territoriy. 264 pp.
+  - Goh,
+    N.K.C. and Chou, L.M. 20 December 1996. [An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in
+    the Indo-West Pacific](http://lkcnhm.nus.edu.sg/rbz/biblio/44/44rbz435-459.pdf). Raffles
+    Museum Bulletin of Zoology Pp. 435-459. [pdf, 3029kb].
 ---
 
 ## Where seen?
  This sea fan with long, skinny branches is sometimes
 seen in numbers on our Northern shores. On coral rubble, rocks, stones and artificial hard surfaces.  
   
-**Features:** 10-20cm long. Generally
+## Features
+ 10-20cm long. Generally
 with long branches without much side branching. In some colonies,
 the long branches are neatly and evenly spaced along the central stem
 on one plane so the whole colony looks like the veins of a leaf. But
@@ -110,27 +130,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Astrogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Astrogorgia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and
-  photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and
-  Art Gallery of the Northern Territoriy. 264 pp.
-- Goh,
-  N.K.C. and Chou, L.M. 20 December 1996. [An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in
-  the Indo-West Pacific](http://lkcnhm.nus.edu.sg/rbz/biblio/44/44rbz435-459.pdf). Raffles
-  Museum Bulletin of Zoology Pp. 435-459. [pdf, 3029kb].
 
 [links](../../../links)
 | [references](../../../references)

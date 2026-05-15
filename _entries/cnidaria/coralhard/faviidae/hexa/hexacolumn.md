@@ -146,7 +146,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
  Hard corals with irregular jutting out lumps of angular corallites
 are often seen on many of our Southern shores.  
   
-**Features:** Colonies seen 10-20cm
+## Features
+ Colonies seen 10-20cm
 encrusting or slightly dome-shaped, with untidy lumps or columns of
 jutting, angular corallites. The corallites (1-1.5cm) have shared
 thick walls and form irregular cells of different shapes and sizes,

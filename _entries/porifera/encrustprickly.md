@@ -82,12 +82,26 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
+links_references: |
+  **Links**
+  - [Anti-cancer
+    drugs from a sponge commonly seen on our shores](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
+    on the wild shores of singapore blog.
+  - [*Pseudoceratina*](http://142.103.81.136/nomenclature/SpeciesList.php?genus=Pseudoceratina) on SeaLife Base: technical fact sheet.
+  - [*Pseudoceratina
+    purpurea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169702) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This rubbery prickly sponge usually yellow or with yellow tips is
-commonly seen on coral rubble on many of our Southern shores. **Features:** Extremely
+commonly seen on coral rubble on many of our Southern shores. ## Features
+ Extremely
 variable in shape from knobs, lobes, to slender branching stems (8-12cm)
 emerging from an encrusting base (20-30cm). The sponge can cover large
 areas of coral rubble or small stones. Tips rounded or flattened.
@@ -164,21 +178,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Anti-cancer
-  drugs from a sponge commonly seen on our shores](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
-  on the wild shores of singapore blog.
-- [*Pseudoceratina*](http://142.103.81.136/nomenclature/SpeciesList.php?genus=Pseudoceratina) on SeaLife Base: technical fact sheet.
-- [*Pseudoceratina
-  purpurea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169702) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

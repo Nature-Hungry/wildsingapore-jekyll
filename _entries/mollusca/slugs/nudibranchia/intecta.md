@@ -90,6 +90,34 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
+    [*Atagema
+    intecta*](http://www.seaslugforum.net/find/tripinte)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -97,7 +125,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/int
 of our shores, on coral rubble. It was previously known as *Trippa
 intecta*.   
   
-**Features:** Variable in size, sometimes
+## Features
+ Variable in size, sometimes
 1cm long, others up to 6cm long. Very dark maroon, almost black. There
 are tiny prickly bumps all over its body. The feathery gills appears
 similar to the rest of the body. The species should have a line of
@@ -156,36 +185,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
-  [*Atagema
-  intecta*](http://www.seaslugforum.net/find/tripinte)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

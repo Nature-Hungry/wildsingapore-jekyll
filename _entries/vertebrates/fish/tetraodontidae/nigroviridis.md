@@ -42,11 +42,30 @@ page_images:
   caption: |
     <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759123338713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+links_references: |
+  **Links**  
+  - [Spotted
+    Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Spotted
+    green puffer (*Tetraodon nigroviridis*)](http://mangrove.nus.edu.sg/guidebooks/text/2108) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp
+  - [*Tetraodon nigroviridis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tetraodon%20nigroviridis%20Marion%20de%20Proc%C3%A9%2C%201822l) (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia, 2014, on taxo4254.
+  - [Spotted
+    green pufferfish (*Tetraodon nigroviridis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7763) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Andrew Tay & Caitlin Wind. 6 December 2013. *Dog-faced water snake attacking pufferfish*. Singapore Biodiversity Records 2013: 100.
 ---
 
 ## Where seen?
  The tiny globular spotted juvenile is sometimes seen in our mangroves, especially when high spring tides reach the back mangroves. Also seen on other shores near freshwater sources (e.g., canals) among seaweeds. Elsewhere, found in freshwater streams and brackish
-coastal areas including estuaries, alone or in small groups. **Features:**  Those seen 3-6cm, grows to
+coastal areas including estuaries, alone or in small groups. ## Features
+  Those seen 3-6cm, grows to
 about 14cm. Smooth, globular. Adult has a green back with black spots, tail fin with dark bars. Tiny juveniles usually
 golden yellow with black spots of various sizes and translucent fins.
  
@@ -83,26 +102,7 @@ Wetland Reserve, Apr 11
 
 ---
 
-**Links**  
 
-- [Spotted
-  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Spotted
-  green puffer (*Tetraodon nigroviridis*)](http://mangrove.nus.edu.sg/guidebooks/text/2108) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp
-- [*Tetraodon nigroviridis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tetraodon%20nigroviridis%20Marion%20de%20Proc%C3%A9%2C%201822l) (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia, 2014, on taxo4254.
-- [Spotted
-  green pufferfish (*Tetraodon nigroviridis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7763) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Andrew Tay & Caitlin Wind. 6 December 2013. *Dog-faced water snake attacking pufferfish*. Singapore Biodiversity Records 2013: 100.
 
 [links](../../../links)
 | [references](../../../references)

@@ -91,6 +91,30 @@ page_images:
   caption: |
     <p>Pulau Hantu, Dec 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
+links_references: |
+  **Links**
+  - [Mottled
+    Sally-light-foot (*Grapsus albolineatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
+    on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    Technical fact sheet.
+  - [*Grapsus
+    albolineatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1653) in Crabs of Japan on Marine Species Identification
+    Portal: Technical fact sheet.
+  - [*Grapsus albolineatus* - Sally Lightfoot Crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Grapsus%20albolineatusl). Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -102,7 +126,8 @@ daylight. Very shy, it disappears instantly into crevices at the slightest
 sign of danger. Or it may flatten against the encrusted rocks, where
 it blends in with this surroundings.   
   
-**Features:** Body width 5-6cm. Body
+## Features
+ Body width 5-6cm. Body
 circular, flat, dark with a pattern of light spots in bands at the
 lower portion of the body. Pincers very short flattened. Very long
 walking legs tipped with pointy claws. With these legs, the crab clings
@@ -168,32 +193,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mottled
-  Sally-light-foot (*Grapsus albolineatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
-  on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  Technical fact sheet.
-- [*Grapsus
-  albolineatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1653) in Crabs of Japan on Marine Species Identification
-  Portal: Technical fact sheet.
-- [*Grapsus albolineatus* - Sally Lightfoot Crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Grapsus%20albolineatusl). Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

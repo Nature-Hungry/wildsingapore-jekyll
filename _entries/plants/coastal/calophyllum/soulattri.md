@@ -29,6 +29,25 @@ page_images:
   caption: |
     <p>Chek Jawa, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
+links_references: |
+  **Links**
+  - [*Calophyllum
+    soulattri*](http://floraofsingapore.wordpress.com/2010/10/11/calophyllum-soulattri/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -36,7 +55,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soul
 Jawa, Pulau Ubin. According to Hsuan Keng it was found in our forests
 including the Botanic Gardens Jungle, Bukit Timah and Seletar.  
   
- **Features:** A small tree that looks
+ ## Features
+ A small tree that looks
 very much like a [Penaga laut](inophyllum) (*Calophyllum
 inophyllum*) but the leaves are narrower. The flowers and fruits
 look similar too.  
@@ -73,27 +93,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Calophyllum
-  soulattri*](http://floraofsingapore.wordpress.com/2010/10/11/calophyllum-soulattri/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

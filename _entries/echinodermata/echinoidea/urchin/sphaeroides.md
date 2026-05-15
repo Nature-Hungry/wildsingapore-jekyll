@@ -102,6 +102,24 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Mar 17Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+   **Links**
+  - [Banded
+    urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *A Guide to Seashore Life*. The Singapore
+    Science Centre, Singapore. 160 pp.
+  - [*Salmacis
+    sphaeroides*](http://www.sealifebase.org/summary/Salmacis-sphaeroidesl) on SeaLife Base: Technical fact sheet.
+  - *[Salmacis sphaeroides](https://singapore.biodiversity.online/taxo4254/mainSpace/http:/salmacissphaeroides.wikispaces.com/Salmacis%20sphaeroides)* (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.
+  **References**
+  - Neo Mei Lin. *Zebra crab (Zebrida adamsii) on a sea-urchin (Salmacis sphaeroides) at Changi Beach*. 28 July 2017. Singapore Biodiversity Records 2017: 96 ISSN 2345-7597. National University of Singapore.
+  - Ying Lynette Shu Min. 29 Sep 2017. *Parasitic snails, Vitreobalcis sp., on white sea urchins (Salmacis sphaeroides) at Cyrene Reef*. Singapore Biodiversity Records 2017: 123-124.
+  - Schoppe,
+    S., 2000. *Echinoderms of the Philippines*. Times Edition,
+    Singapore. 144 pp.
+  - Miskelly,
+    Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
+    Capricornia Publications. 180pp.
 ---
 
 ## Where seen?
@@ -109,7 +127,8 @@ coverimg: ../../../../Templates/fornatureguides.gif
 is seasonally common on our Northern shores among seagrasses. At some
 times, many of these sea urchins are seen, and then none seen for
 some time. On Cyrene Reef, gatherings of many of these sea urchins
-are sometimes seen. **Features:** Body diameter 5-8cm, white. Spines short (1-1.5cm) and sharp, about the same length. Spines on the underside have spade-like
+are sometimes seen. ## Features
+ Body diameter 5-8cm, white. Spines short (1-1.5cm) and sharp, about the same length. Spines on the underside have spade-like
 tips. Some have white spines with green or
 maroon bands. It has long tube feet and is often seen carrying
 all kinds of things from shells to seaweeds. It can quickly gather
@@ -176,26 +195,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowlegment**  
 Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.  
- **Links**
 
-- [Banded
-  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *A Guide to Seashore Life*. The Singapore
-  Science Centre, Singapore. 160 pp.
-- [*Salmacis
-  sphaeroides*](http://www.sealifebase.org/summary/Salmacis-sphaeroidesl) on SeaLife Base: Technical fact sheet.
-- *[Salmacis sphaeroides](https://singapore.biodiversity.online/taxo4254/mainSpace/http:/salmacissphaeroides.wikispaces.com/Salmacis%20sphaeroides)* (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.
-
-**References**
-
-- Neo Mei Lin. *Zebra crab (Zebrida adamsii) on a sea-urchin (Salmacis sphaeroides) at Changi Beach*. 28 July 2017. Singapore Biodiversity Records 2017: 96 ISSN 2345-7597. National University of Singapore.
-- Ying Lynette Shu Min. 29 Sep 2017. *Parasitic snails, Vitreobalcis sp., on white sea urchins (Salmacis sphaeroides) at Cyrene Reef*. Singapore Biodiversity Records 2017: 123-124.
-- Schoppe,
-  S., 2000. *Echinoderms of the Philippines*. Times Edition,
-  Singapore. 144 pp.
-- Miskelly,
-  Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
-  Capricornia Publications. 180pp.
 
 [links](../../../links)
 | [references](../../../references)

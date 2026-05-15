@@ -43,6 +43,41 @@ page_images:
     <p>Growing on a shell occupied by a <a href="../../crustacea/othercrust/anomura/hermit/hermit">hermit crab</a>.</p>
     <p>Changi, Jul 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
+links_references: |
+  **Links**  
+  - [Keelworm
+    (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Tubeworms
+    and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Family
+    Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidael) from [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
+    the Raffles Museum of Biodiversity Research website: fact sheets
+    and photos of polychaetes found in Singapore.: brief introduction
+    and photos, as well as distribution in Singapore.
+  - [Family
+    Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae) from [Marine
+    Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) by Man Chun Ho on the City
+    University of Hong Kong website: brief introduction with photos
+    of the worm out of its tube.
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Jones, R.E.
+    (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
+    Australian Biological Resources Study, Canberra. 465pp.
 ---
 
 ## Where seen?
@@ -61,7 +96,8 @@ Not all tubeworms are polychaetes and not all polychaetes are
 tubeworms. More about [tubeworms
 in general](../tubeworm/tubeworms).   
   
- **Features:** Tubes about 0.5cm in diameter and 5-8cm long,
+ ## Features
+ Tubes about 0.5cm in diameter and 5-8cm long,
 usually under stones. The keelworm secretes a hard tube out of calcium
 carbonate to protect their soft bodies. These hard tubes allow them
 to settle in tough places such as the underside of a stone. A little
@@ -129,43 +165,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- [Keelworm
-  (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Tubeworms
-  and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Family
-  Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidael) from [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
-  the Raffles Museum of Biodiversity Research website: fact sheets
-  and photos of polychaetes found in Singapore.: brief introduction
-  and photos, as well as distribution in Singapore.
-- [Family
-  Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae) from [Marine
-  Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) by Man Chun Ho on the City
-  University of Hong Kong website: brief introduction with photos
-  of the worm out of its tube.
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Jones, R.E.
-  (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
-  Australian Biological Resources Study, Canberra. 465pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -66,7 +66,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/whit
 fanworm is sometimes seen on some of our shores, especially in sandy
 areas near coral rubble.   
   
-**Features:** Fan about 2-3cm in diameter.
+## Features
+ Fan about 2-3cm in diameter.
 The fan forms a double or triple spiral. The white feathery tentacles
 have tiny maroon spots on the 'rib'. There are also maroon spots on
 the white body.The

@@ -88,7 +88,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
  Hard corals with very tiny irregular hexagonal corallites are sometimes
 seen on our Southern shores.  
   
-**Features:** Colonies seen 10-20cm,
+## Features
+ Colonies seen 10-20cm,
 sometimes much larger (30-40cm). The colony is generally a smooth
 boulder shape, but somewhat irregular and not always perfectly spherical.
 The corallites tiny (less than 1cm) have shared walls and form tiny

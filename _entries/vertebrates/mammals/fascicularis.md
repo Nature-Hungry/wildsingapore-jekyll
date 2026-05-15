@@ -55,6 +55,27 @@ page_images:
   caption: |
     <p>Admiralty Park, Jun 09</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg"
+links_references: |
+  **Links**
+  - [Long-tailed
+    Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  - [Long-tailed
+    Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque) on Chan Kwok Wai's Wildlife Singapore website: fact
+    sheet with photos
+  - [*Macaca fascicularis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Macaca%20fascicularisl) (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
+  - [Why
+    we should not feed the monkeys](http://www.wildsingapore.com/places/monkey)
+  **References**
+  - Mishak Shunari & Benjamin C. Lee. 31 May 2017. [Long-tailed macaque feeding on flowers of the mangrove apple tree, *Sonneratia caseolaris*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-066-067.pdf). Singapore Biodiversity Records 2017: 66-67.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes**Vertebrate Study Group, Nature Society (Singapore). 180 pp.*
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -68,7 +89,8 @@ Nature Park. Individuals may spill over to nearby parks and even urban
 areas. They are usually found in trees but may also forage on the
 ground.  
   
-**Features:**Head and body to 45cm, tail to 56cm. Long limbed and long tailed
+## Features
+Head and body to 45cm, tail to 56cm. Long limbed and long tailed
 indeed, it has soft silky fur olive brown above and paler below. The
 face is greyish with prominent white eyelids.   
   
@@ -152,27 +174,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Macaca%2520fascicularis/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-**Links**
-
-- [Long-tailed
-  Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-- [Long-tailed
-  Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque) on Chan Kwok Wai's Wildlife Singapore website: fact
-  sheet with photos
-- [*Macaca fascicularis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Macaca%20fascicularisl) (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
-- [Why
-  we should not feed the monkeys](http://www.wildsingapore.com/places/monkey)
-
-**References**
-
-- Mishak Shunari & Benjamin C. Lee. 31 May 2017. [Long-tailed macaque feeding on flowers of the mangrove apple tree, *Sonneratia caseolaris*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-066-067.pdf). Singapore Biodiversity Records 2017: 66-67.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes**Vertebrate Study Group, Nature Society (Singapore). 180 pp.*
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.

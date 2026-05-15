@@ -67,7 +67,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hyp
 shores. On coral rubble and rocky shores with sponges and encrusting
 animals.   
   
-**Features:** 2-3cm. Body long, narrow
+## Features
+ 2-3cm. Body long, narrow
 with a long tail. Usually colourful with bright spots. Large flower-like
 gills on the back and large rhinophores (relative to the body size).  
   

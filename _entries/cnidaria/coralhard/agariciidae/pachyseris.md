@@ -92,6 +92,14 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468563158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Genus *Pachyseris*](http://species-identification.org/species.php?species_group=corals&menuentry=groepen&id=24&tab=beschrijving) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal with species factsheet.
+  - [*Pachyseris
+    speciosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46102&genusname=Pachyseris&speciesname=speciosa) on SeaLife Base: species factsheet.
 ---
 
 ## Where seen?
@@ -100,7 +108,8 @@ ridges is sometimes seen on our undisturbed Southern shores among
 living corals. 'Pachys' means 'thick' while 'seris' means 'lettuce-like'.
 It is also known as Serpent coral and Elephant skin coral.  
   
-**Features:**Plate-like colonies
+## Features
+Plate-like colonies
 10-20cm, sometimes larger on undisturbed reefs, forming tiers of thin
 plates. The upper surface has ridges that are parallel to the growing
 edge, thus forming concentric rings. There is a texture of fine lines
@@ -162,14 +171,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Genus *Pachyseris*](http://species-identification.org/species.php?species_group=corals&menuentry=groepen&id=24&tab=beschrijving) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal with species factsheet.
-- [*Pachyseris
-  speciosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46102&genusname=Pachyseris&speciesname=speciosa) on SeaLife Base: species factsheet.
 
 **R****eferences**
 

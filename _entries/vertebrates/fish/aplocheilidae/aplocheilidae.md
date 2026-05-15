@@ -32,6 +32,35 @@ page_images:
     <p>Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11 What do they eat?</p>
     <p>According to FishBase, they feed mainly on insects and have been used for mosquito control.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
+links_references: |
+  **Links**  
+  - [Whitespot/Tinhead
+    (*Aplocheilus panchax*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/244) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Whitespot
+    (*Aplocheilus panchax*)](http://mangrove.nus.edu.sg/guidebooks/text/2104) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Aplocheilidae (Rivulines)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Cyprinodontiformes-Aplocheilidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Whitespot
+    (*Aplocheilus panchax*)](http://www.ecologyasia.com/verts/fishes/whitespot) on Ecology Asia.
+  - [Family
+    Aplocheilidae](http://www.fishbase.org/summary/FamilySummary.php?ID=476) (Killifishes) and [Blue
+    panchax (*Aplocheilus panchax*)](http://www.fishbase.org/summary/speciessummary.php?id=4756) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Aplocheilus
+    panchax*](http://www.iucnredlist.org/details/166477/0) on the IUCN Red List website.
+  **References**
+  - Yeo, D. C.
+    J. & K. K. P. Lim. 25 November 2010. *Aplocheilus
+    lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes:
+    Aplocheilidae) in Singapore*. Nature in Singapore, 3: 327-332.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
  **What are Rivulines?** Rivulines belong to Family Aplocheilidae.
@@ -89,37 +118,7 @@ panchax* (Whitespot toothcarp or Tinhead)
 
 ---
 
-**Links**  
 
-- [Whitespot/Tinhead
-  (*Aplocheilus panchax*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/244) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Whitespot
-  (*Aplocheilus panchax*)](http://mangrove.nus.edu.sg/guidebooks/text/2104) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Aplocheilidae (Rivulines)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Cyprinodontiformes-Aplocheilidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Whitespot
-  (*Aplocheilus panchax*)](http://www.ecologyasia.com/verts/fishes/whitespot) on Ecology Asia.
-- [Family
-  Aplocheilidae](http://www.fishbase.org/summary/FamilySummary.php?ID=476) (Killifishes) and [Blue
-  panchax (*Aplocheilus panchax*)](http://www.fishbase.org/summary/speciessummary.php?id=4756) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Aplocheilus
-  panchax*](http://www.iucnredlist.org/details/166477/0) on the IUCN Red List website.
-
-**References**
-
-- Yeo, D. C.
-  J. & K. K. P. Lim. 25 November 2010. *Aplocheilus
-  lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes:
-  Aplocheilidae) in Singapore*. Nature in Singapore, 3: 327-332.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

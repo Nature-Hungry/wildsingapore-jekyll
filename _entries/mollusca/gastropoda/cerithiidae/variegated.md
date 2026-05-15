@@ -57,7 +57,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae
 on sandy sheltered areas near coral reefs. Sometimes found on tape
 seagrasses.  
   
-**Features:** 1-2cm. Shell conical
+## Features
+ 1-2cm. Shell conical
 with different spiralling patterns of beaded lines and dots. The siphonal
 canal is twisted back. Operculum made out of a horn-like material,
 with a few whorls.  

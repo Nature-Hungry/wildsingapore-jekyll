@@ -137,7 +137,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/18071
 ## Where seen?
  This flatworm with a crackle of fine lines is often seen on our shores, on coral rubble and near reefs. 'Fulgor' means 'brilliant' or 'flashy' or 'lightning' and 'splendor' in Latin.  
   
-**Features:** 8-10cm long. Usually with deep ruffles. Body red, brown to black, with
+## Features
+ 8-10cm long. Usually with deep ruffles. Body red, brown to black, with
 fine white parallel lines from the centre
 to the sides. Black wide margin with fine white lines parallel to the edge.The
 underside is plain pink with wide plain black margin. It has a pair of pseudotentacles that are ear-like and pointed and made up of simple folded edges of the body.

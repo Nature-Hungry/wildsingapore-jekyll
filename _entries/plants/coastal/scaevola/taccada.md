@@ -85,6 +85,28 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
+links_references: |
+  **Links**
+  - [*Scaevola
+    taccada*](http://floraofsingapore.wordpress.com/2010/10/03/scaevola-taccada/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Scaevola
+    taccada*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2431) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [Ambong-Ambong
+    (*Scaevola taccada*)](http://mangrove.nus.edu.sg/pub/seashore/text/110) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -98,7 +120,8 @@ the world. It has also been introduced to the New World. Previously
 known as *S. frutescens* and *S. sericea*. It is also called
 '*Ambong-ambong*'.  
   
- **Features:** A shrub that can grow
+ ## Features
+ A shrub that can grow
 to a small tree 3-10m tall. Leaves thick and succulent (8-25cm long),
 arranged alternately in a spiral. The plant can form extensive colonies
 by underground branching of its stems.  
@@ -145,30 +168,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Scaevola
-  taccada*](http://floraofsingapore.wordpress.com/2010/10/03/scaevola-taccada/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Scaevola
-  taccada*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2431) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [Ambong-Ambong
-  (*Scaevola taccada*)](http://mangrove.nus.edu.sg/pub/seashore/text/110) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

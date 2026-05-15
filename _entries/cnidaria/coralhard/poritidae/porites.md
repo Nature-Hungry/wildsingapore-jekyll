@@ -106,7 +106,8 @@ produced by these tiny polyps can be more than 5m across! They can
 grow rapidly in ideal conditions. They are usually found in shallow,
 sunlit places.  
   
-**Features:** Colony 10-20cm, sometimes much larger. Colonies are generally boulder
+## Features
+ Colony 10-20cm, sometimes much larger. Colonies are generally boulder
 shaped with a smooth surface or with smooth bumps or hillocks. But
 the colonies can also be encrusting, lobed and branching. The tiny
 corallites are shallow and don't stick out of the surface. The surface

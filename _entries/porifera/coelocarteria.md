@@ -76,6 +76,28 @@ page_images:
   caption: |
     <p>Terumbu Salu, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/080621labd6086m3e.jpg
+links_references: |
+  **Links**
+  - [*Coelocarteria
+    singaporensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Coelocarteria-singaporensis.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Coelocarteria
+    singaporensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=168440) on the World Porifera Database.
+  - [Singapore sponges and Henry Carter](http://wildshores.blogspot.sg/2013/01/singapore-sponges-and-henry-carter.html) on the wild shores of singapore blog.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp
 ---
 
 ## Where seen?
@@ -86,7 +108,8 @@ even at low tide. It is considered one of the most commonly encountered
 sponges on our shores. It is one of the few sponges that was described
 from Singapore, hence its species name.   
   
- **Features:**15-20cm in diameter.
+ ## Features
+15-20cm in diameter.
 There is usually one or two large hollow cones (to 2cm in diameter),
 encircled by upright long 'fingers' (up to 15cm tall). These fingers
 are generally unbranched with flattened or rounded tips, and they
@@ -143,30 +166,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Coelocarteria
-  singaporensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Coelocarteria-singaporensis.html)
-  on SeaLife Base: technical fact sheet.
-- [*Coelocarteria
-  singaporensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=168440) on the World Porifera Database.
-- [Singapore sponges and Henry Carter](http://wildshores.blogspot.sg/2013/01/singapore-sponges-and-henry-carter.html) on the wild shores of singapore blog.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp
 
 [links](../links.htm)
 | [references](../references.htm)

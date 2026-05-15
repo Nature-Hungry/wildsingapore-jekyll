@@ -59,6 +59,33 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares, nudibranchs
+    and other sea slugs; including details [*Syphonota
+    geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog) including [one
+    from Changi](http://www.seaslugforum.net/find.cfm?id=9109) and [purple
+    ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Syphonota geographica](http://slugsite.us/bow/nudwk425.htm)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 ---
 
 ## Where seen?
@@ -68,7 +95,8 @@ are seen, at other times, not at all. Often found half buried in the soft sedime
 open, especially near sunrise or at night. It is also known as *Paraplysia
 geographica*.   
   
-**Features:** 8-12cm. Body large, heavy and smooth. With two pairs of tentacles:
+## Features
+ 8-12cm. Body large, heavy and smooth. With two pairs of tentacles:
 one pair of oral tentacles forming flap at the front of the body.
 When compared with sea hares of the genus *Aplysia*, sea hares
 of the genus *Syphonota* have relatively small rhinophores which
@@ -120,35 +148,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares, nudibranchs
-  and other sea slugs; including details [*Syphonota
-  geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog) including [one
-  from Changi](http://www.seaslugforum.net/find.cfm?id=9109) and [purple
-  ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Syphonota geographica](http://slugsite.us/bow/nudwk425.htm)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

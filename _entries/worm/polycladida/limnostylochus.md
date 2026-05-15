@@ -47,6 +47,14 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    flatworms](http://mangrove.nus.edu.sg/guidebooks/text/2002) on Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
 ---
 
 ## Where seen?
@@ -54,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus
 in shallow pools of water in our back mangroves. Particularly at night
 or the early morning.  
   
-**Features:** 2-3cm long. Plain dark
+## Features
+ 2-3cm long. Plain dark
 red, maroon or brown sometimes with tiny faint pale speckles, the
 body margin is not very ruffled. Often there is a white patchy pattern
 along the length of the body that looks like the internal digestive
@@ -95,14 +104,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
  
 
 ---
-
-**Links**
-
-- [Mangrove
-  flatworms](http://mangrove.nus.edu.sg/guidebooks/text/2002) on Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.

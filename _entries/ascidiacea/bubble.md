@@ -35,6 +35,11 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
+links_references: |
+  **Links**
+  - [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155) and [*Clavelina* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  **References**
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 ---
 
 ## Where seen?
@@ -42,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd196
 clusters of translucent bubble-like animals are sometimes seen on
 and under rocks and stones on our shores.  
   
-**Features:**  1-3cm. A smooth translucent bubble with two openings at the top, sometimes
+## Features
+  1-3cm. A smooth translucent bubble with two openings at the top, sometimes
 with a colourful ring around the openings. Many bubbles are found clustered together.  
   
 The ones with the blue lines look like *Clavelina* sp., Family Clavelinidae in The Biodiversity of Singapore.
@@ -83,13 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155) and [*Clavelina* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-
-**References**
-
-- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 
 ---
 

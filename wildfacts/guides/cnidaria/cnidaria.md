@@ -99,7 +99,8 @@ corals](others/heliopora/heliopora.htm))
 [Hydroids](others/hydrozoa/hydrozoa.htm) 
 ![](others/gorgonacea/050821bbd5844m.jpg)  
 [Sea fans](others/gorgonacea/gorgonacea.htm)
-**Features:** Pronounced "ni-dare-ee-ya'
+## Features
+ Pronounced "ni-dare-ee-ya'
 (the 'c' is silent), 'Cnidaria' means 'stinging thread' in Greek.
 Indeed, one of the defining characteristic of cnidarians are their
 stingers (more about these below).  

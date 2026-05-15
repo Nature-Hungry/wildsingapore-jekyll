@@ -41,13 +41,26 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg
+links_references: |
+  **Links**  
+  - [Leopard
+    whipray (*Himantura undulata*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=12584) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Bleeker's
+    variegated whipray (*Himantura undulata*)](http://www.iucnredlist.org/apps/redlist/details/161621/0) on the IUCN
+    Red List: fact sheet.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
 ---
 
 ## Where seen?
  This
 spotted stingray is sometimes seen at Chek Jawa.  
   
-**Features:** A large ray that can grow to about 1.4m in diameter and
+## Features
+ A large ray that can grow to about 1.4m in diameter and
 4m in total length. Body generally quadrangular with a broadly triangular
 snout in adults, more pointed in juveniles. Body colour of adults
 yellowish or brownish with dense pattern of dark rings (resembling
@@ -93,18 +106,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
-
-- [Leopard
-  whipray (*Himantura undulata*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=12584) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Bleeker's
-  variegated whipray (*Himantura undulata*)](http://www.iucnredlist.org/apps/redlist/details/161621/0) on the IUCN
-  Red List: fact sheet.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

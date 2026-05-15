@@ -87,7 +87,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpl
  This swimming crab with purple legs is commonly seen
 on our Northern shores, rocky areas and rubble. Especially at night.  
   
-**Features:** Body width 5-7cm. Body
+## Features
+ Body width 5-7cm. Body
 somewhat fan-shaped, the sides with 6 spines of equal size. The eyes
 are not very far apart. Last pair of legs are paddle-shaped and rotate
 like boat propellers, so the crab swims well in all directions. It

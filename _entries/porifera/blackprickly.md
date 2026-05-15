@@ -52,11 +52,24 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
+links_references: |
+  **Links**
+  - [*Echinodictyum
+    conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Echinodictyum
+    conulosum*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167971) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-This black prickly sponge is sometimes seen on our Northern shores. **Features:** A small prickly bushy shape made up of lobes
+This black prickly sponge is sometimes seen on our Northern shores. ## Features
+ A small prickly bushy shape made up of lobes
 with many large cavities. Texture with many prickly spikes. The skeleton
 is made up of a large proportion of silica to spongin and it has thick,
 robust bundles of spicules (hard, spiky bits). Holes scattered irregularly
@@ -103,20 +116,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Echinodictyum
-  conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
-  on SeaLife Base: technical fact sheet.
-- [*Echinodictyum
-  conulosum*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167971) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

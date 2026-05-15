@@ -146,6 +146,41 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/28765538656/ "Common hairy crab (Pilumnus vespertilio) mating")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+links_references: |
+  **Links**
+  - [Hairy
+    Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Pilumnus vespertilio](https://singapore.biodiversity.online/taxo4254/mainSpace/Pilumnus%20vespertiliol)* (Decapoda: Pilumnidae) Hairy crab by Chiu Jing Hua, 2015, on taxo4254.
+  - [*Pilumnus
+    vespertilio*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=18379&genusname=Pilumnus&speciesname=vespertilio) on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -168,7 +203,8 @@ at the first sign of danger.
 These little crabs are not the same as the large 'Hairy crabs' that
 are served in our restaurants as seafood.  
   
-**Features:** Body width 3-5cm. As
+## Features
+ Body width 3-5cm. As
 its name suggests, its body
 and limbs are covered with long, silky hairs. These trap sediments
 allowing the crab to blend perfectly with its surroundings. In the
@@ -250,43 +286,7 @@ Hairy crabs about to mate?
 
 ---
 
-**Links**
 
-- [Hairy
-  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Pilumnus vespertilio](https://singapore.biodiversity.online/taxo4254/mainSpace/Pilumnus%20vespertiliol)* (Decapoda: Pilumnidae) Hairy crab by Chiu Jing Hua, 2015, on taxo4254.
-- [*Pilumnus
-  vespertilio*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=18379&genusname=Pilumnus&speciesname=vespertilio) on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

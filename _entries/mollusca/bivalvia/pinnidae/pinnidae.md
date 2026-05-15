@@ -98,6 +98,52 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32210599507/ "Fan shell clams (Family Pinnidae)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
+links_references: |
+  **Links**
+  - [Indo-Pacific
+    fan shell (*Atrina vexillum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=210)
+    and [Two
+    coloured fan shell (*Pinna bicolor*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16) on the NParks Flora
+    and Fauna website.
+  - The [pea
+    crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.htm) that lives in Fan shells. Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Pinnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pinnidae.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - [Fan
+    Mussel](http://www.marlin.ac.uk/species/Atrinafragilis.htm) (*Atrina fragilis*) on the Marine Life Information
+    Network for Britain and Ireland website: fact sheet on this Pinnid
+    and about other Pinnids of the area and their uses.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Chuang, S.
+    H., 1961. *On
+    Malayan Shores*.
+    Muwu Shosa, Singapore. 225 pp., plates 1-112.
 ---
 
 if you
@@ -118,7 +164,8 @@ about 2-3cm of the shell sticking out of the ground. Their razor-sharp
 edges can give a nasty cut to barefoot visitors. So please always
 wear appropriate footwear when visiting the shores.   
   
-**Features:** 10-30cm long. The fan-shaped
+## Features
+ 10-30cm long. The fan-shaped
 two-part shell is thin but strong. The animal buries itself, pointed
 end down. Glands on the foot secret byssus threads near this buried
 end. These threads attach to buried rocks and stones to anchor the
@@ -229,54 +276,7 @@ shell)(VU: Vulnerable) *Pinna incurva*
 
 ---
 
-**Links**
 
-- [Indo-Pacific
-  fan shell (*Atrina vexillum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=210)
-  and [Two
-  coloured fan shell (*Pinna bicolor*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16) on the NParks Flora
-  and Fauna website.
-- The [pea
-  crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.htm) that lives in Fan shells. Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Pinnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pinnidae.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- [Fan
-  Mussel](http://www.marlin.ac.uk/species/Atrinafragilis.htm) (*Atrina fragilis*) on the Marine Life Information
-  Network for Britain and Ireland website: fact sheet on this Pinnid
-  and about other Pinnids of the area and their uses.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Chuang, S.
-  H., 1961. *On
-  Malayan Shores*.
-  Muwu Shosa, Singapore. 225 pp., plates 1-112.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

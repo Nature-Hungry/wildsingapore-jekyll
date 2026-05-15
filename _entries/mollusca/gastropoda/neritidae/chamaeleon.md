@@ -40,6 +40,35 @@ page_images:
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497029472945&set=a.10158495877737945">facebcok</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+links_references: |
+  **Links**
+  - [Chameleon
+    nerite (*Nerita chamaleon*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86831) on SeaBase Life: Technical
+    fact sheet.
+  - Chameleon
+    nerite (*Nerita chamaleon*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -51,7 +80,8 @@ on rocks, breakwaters, and seawalls. Sites included: Pulau Ubin, Changi,
 Tanah Merah, Marina South, Labrador, Sentosa, Pulau Bukom, St. John's
 Island, Pulau Hantu, Pulau Semakau, Pulau Salu, Tuas.  
   
-**Features:** 2.5-3.5cm. Shell thick heavy,
+## Features
+ 2.5-3.5cm. Shell thick heavy,
 hemispherical, spire sticks out a little. Thick, spiralling ribs, smooth
 and regularly spaced. Unlike its reptile namesake the Chameleon,
 this snail can't change the colour of its shell. But different individual
@@ -96,37 +126,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Chameleon
-  nerite (*Nerita chamaleon*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86831) on SeaBase Life: Technical
-  fact sheet.
-- Chameleon
-  nerite (*Nerita chamaleon*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

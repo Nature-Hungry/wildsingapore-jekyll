@@ -148,7 +148,8 @@ them crawling about. They can move quite fast!
 
 
 
-**Features:** 4-5cm. Body hard, broad
+## Features
+ 4-5cm. Body hard, broad
 and rather flat, sometimes with a raised hump along the centre of
 the body. Skin with many irregular bumps and pimples. Generally beige,
 brown to grey. Sometimes with spots in darker shades. The eyes are

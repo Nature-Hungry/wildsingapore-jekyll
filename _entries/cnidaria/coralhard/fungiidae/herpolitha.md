@@ -101,6 +101,30 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on his <a href="http://www.flickr.com/photos/koksheng/4353324860/">flickr</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Herpolitha limax*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Herpolitha) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - *[Herpolitha
+    limax](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45863)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records*
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -109,7 +133,8 @@ is sometimes seen on many of our Southern shores. This coral is free-living
 as an adult (it is not attached to the surface) and large ones may
 be seen on in coral rubble and among living corals.   
   
-**Features:** Skeleton longer than
+## Features
+ Skeleton longer than
 broad, 20-30cm long with rounded ends, though some may have rather
 pointed ends. Comes in a wide variety of shapes from long and narrow,
 oval to circular, flat or rather humped, also bomerang shaped. Specimens
@@ -196,32 +221,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Herpolitha limax*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Herpolitha) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- *[Herpolitha
-  limax](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45863)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records*
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

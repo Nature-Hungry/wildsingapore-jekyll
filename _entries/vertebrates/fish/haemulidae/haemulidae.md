@@ -28,6 +28,49 @@ page_images:
   caption: |
     <p><a href="pictum.htm">Painted sweetlips</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Sweetlips](http://ikanfish.wordpress.com/sweetlips/)
+    on Reef Fishes of Singapore by Jeffrey Low.
+  - [Family
+    Haemulidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=327) (Grunts) and [*Diagramma
+    pictum* (Painted sweetlips)](http://www.fishbase.org/summary/4465) and [*Plectorhinchus
+    chaetodonoides* (Harlequin sweetlips)](http://www.fishbase.org/summary/6364) and [*Plectorhinchus
+    cinctus* (Crescent sweetlips)](http://www.fishbase.org/summary/13033) and [*Plectorhinchus
+    gibbosus* (Harry hotlips)](http://www.fishbase.org/summary/6366) and [*Plectorhinchus
+    pictus* (Trout sweetlips)](http://www.fishbase.org/summary/8315) and [*Pomadasys
+    argenteus* (Silver grunt)](http://www.fishbase.org/summary/399) and [*Pomadasys
+    kaakan* (Javelin grunter)](http://www.fishbase.org/summary/6006) and [*Pomadasys
+    maculatus* (Saddle grunt)](http://www.fishbase.org/summary/4447) and [*Pomadasys
+    olivaceus* (Olive grunt)](http://www.fishbase.org/summary/5518) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Haemulidae.
+    Grunts (also sweetlips, rubberlips, hotlips, and velvetchins)](ftp://ftp.fao.org/docrep/fao/009/y0770e/y0770e21.pdf)
+    by R.J. McKay on the FAO website (pdf) In K.E. Carpenter and V.H.
+    Niem (eds.) FAO species identification guide for fishery purposes.
+    The living marine resources of the Western Central Pacific. Volume
+    5. Bony fishes part 3 (Menidae to Pomacentridae). Rome, FAO. pp.
+    2791-3380. Ref No [47695] Key No. [746]
+  **References**
+  - Jeffrey K. Y. Low & Koh Kwan Siong. 26 Februrary 2016. *Gold-lined sweetlips in the Singapore Strait, Plectorhincus chrysotaeni*. Singapore Biodiversity Records 2016: 24-25
+  - LIM K.K.P. *First record of Hapalogenys analis (Teleostei: Perciformes: Haemulidae) from the Indoñ-Australian region*. Raffles Bulletin of Zoology 1994 42(4): 983-985.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
  ## Where seen?
@@ -41,7 +84,8 @@ the family comprises of 17 genera and 150 species. They are found
 in the Atlantic, Indian and Pacific Oceans. Members of the family
 also called grunts or grunters. Members that belong to the genus *Plectorhinchus* are called sweetlips because of their thick lips.   
   
-**Features:** Most sweetlips go through
+## Features
+ Most sweetlips go through
 elaborate colour changes as they mature. The juveniles are often boldly
 spotted or striped, growing up to become adults that are totally different;
 usually plain with small spots or many thin lines. Some young sweetlips
@@ -98,51 +142,7 @@ olivaceus=^Pomadasys olivaceus*
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Sweetlips](http://ikanfish.wordpress.com/sweetlips/)
-  on Reef Fishes of Singapore by Jeffrey Low.
-- [Family
-  Haemulidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=327) (Grunts) and [*Diagramma
-  pictum* (Painted sweetlips)](http://www.fishbase.org/summary/4465) and [*Plectorhinchus
-  chaetodonoides* (Harlequin sweetlips)](http://www.fishbase.org/summary/6364) and [*Plectorhinchus
-  cinctus* (Crescent sweetlips)](http://www.fishbase.org/summary/13033) and [*Plectorhinchus
-  gibbosus* (Harry hotlips)](http://www.fishbase.org/summary/6366) and [*Plectorhinchus
-  pictus* (Trout sweetlips)](http://www.fishbase.org/summary/8315) and [*Pomadasys
-  argenteus* (Silver grunt)](http://www.fishbase.org/summary/399) and [*Pomadasys
-  kaakan* (Javelin grunter)](http://www.fishbase.org/summary/6006) and [*Pomadasys
-  maculatus* (Saddle grunt)](http://www.fishbase.org/summary/4447) and [*Pomadasys
-  olivaceus* (Olive grunt)](http://www.fishbase.org/summary/5518) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Haemulidae.
-  Grunts (also sweetlips, rubberlips, hotlips, and velvetchins)](ftp://ftp.fao.org/docrep/fao/009/y0770e/y0770e21.pdf)
-  by R.J. McKay on the FAO website (pdf) In K.E. Carpenter and V.H.
-  Niem (eds.) FAO species identification guide for fishery purposes.
-  The living marine resources of the Western Central Pacific. Volume
-  5. Bony fishes part 3 (Menidae to Pomacentridae). Rome, FAO. pp.
-  2791-3380. Ref No [47695] Key No. [746]
-
-**References**
-
-- Jeffrey K. Y. Low & Koh Kwan Siong. 26 Februrary 2016. *Gold-lined sweetlips in the Singapore Strait, Plectorhincus chrysotaeni*. Singapore Biodiversity Records 2016: 24-25
-- LIM K.K.P. *First record of Hapalogenys analis (Teleostei: Perciformes: Haemulidae) from the Indoñ-Australian region*. Raffles Bulletin of Zoology 1994 42(4): 983-985.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

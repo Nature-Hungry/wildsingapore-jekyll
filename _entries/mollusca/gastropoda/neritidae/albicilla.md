@@ -57,6 +57,35 @@ page_images:
   caption: |
     <p>Pulau Biola, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4263234534/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
+links_references: |
+  **Links**
+  - [Oxpalate
+    nerite (*Nerita albicilla*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86830) on SeaBase Life: Technical
+    fact sheet.
+  - Oxpalate
+    nerite (*Nerita albicilla*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -69,7 +98,8 @@ intertidal zone. Sites included: Pulau Ubin, Changi, Tanah Merah,
 Marina South, Labrador, Sentosa, St. John's Island, Pulau Hantu, Pulau
 Salu, Raffles Lighthouse and Tuas.  
   
-**Features:** 2-3cm. Shell thick heavy, a
+## Features
+ 2-3cm. Shell thick heavy, a
 flattened oval narrower at end and wider at front, spire does not
 stick out at all. The flat underside is much longer that other nerites,
 smooth white or yellowish and pimpled with large rounded bumps. These
@@ -121,37 +151,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Oxpalate
-  nerite (*Nerita albicilla*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86830) on SeaBase Life: Technical
-  fact sheet.
-- Oxpalate
-  nerite (*Nerita albicilla*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

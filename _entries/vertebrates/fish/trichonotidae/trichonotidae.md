@@ -61,6 +61,18 @@ page_images:
   caption: |
     <p>East Coast Park, Jul 15</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
+links_references: |
+  **Links**  
+  - [Family
+    Trichonotidae (Sand-divers)](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  **References**
+  - Tan Heok Hui & Leo H. S. Nguang. 25 Jan 2017. *Spotted sand-diver, Trichonotus setiger, at Changi*. Singapore Biodiversity Records 2017: 10.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -72,7 +84,8 @@ they dive into the sand. Hence their common name.
 belong to Family Trichonotidae. According to [FishBase](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372):
 the family has one genera (*Trichonotus*) with 6 species.  
   
-**Features:** To 15-18cm, those seen much shorter, about 8-10cm. These fishes have
+## Features
+ To 15-18cm, those seen much shorter, about 8-10cm. These fishes have
 a long and slender body, somewhat flattened sideways. The pointed
 snout had a lower jaw that is longer than the upper jaw. Some have fine
 gold 'eyelashes' over large eyes. The male fish has long filamentous
@@ -111,20 +124,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Family
-  Trichonotidae (Sand-divers)](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-
-**References**
-
-- Tan Heok Hui & Leo H. S. Nguang. 25 Jan 2017. *Spotted sand-diver, Trichonotus setiger, at Changi*. Singapore Biodiversity Records 2017: 10.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -57,7 +57,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
 of our shores, in coral rubble near the low water mark, sometimes
 on living corals and sea fans. Previously known as *Paguristes monoporus*.  
   
-**Features:** Body about 1-1.5cm long,
+## Features
+ Body about 1-1.5cm long,
 pale or yellowish with dark or bluish speckles in bands. Right pincer
 usually larger than the left. Legs sparsely hairy, with black bars
 in bands. Short antennae banded orange-bright blue with orange feathery

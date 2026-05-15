@@ -69,6 +69,25 @@ page_images:
   caption: |
     <p>Pulau Hantu, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
+links_references: |
+  **Links**  
+  - [Prickly
+    leatherjacket (*Chaetodermis penicilligerus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+    sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
+    Guide for Fishery Purposes The Living Marine Resources of the
+    Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -76,7 +95,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/
 shores, near seagrasses and coral rubble. It may be quite common but just overlooked due its superb camouflage. Sometimes a few small ones may school together, the group resembling flotsam. It was previously called *Chaetodoerma penicilligera*. It is sometimes also called the
 prickly, tasselled or leafy filefish.  
   
- **Features:** To about 31cm, those seen about 8-10cm. Smaller ones 2-3cm sometimes seen among seagrasses. Body more disk-shaped
+ ## Features
+ To about 31cm, those seen about 8-10cm. Smaller ones 2-3cm sometimes seen among seagrasses. Body more disk-shaped
 (circular). Distinguished by thick feathery tassel-like extensions all over the
 body including the dorsal spine. Dark stripes along the sides of the
 body, sometimes with short bright blue lines. Seen in a wide variety of colours from shades of green,
@@ -116,27 +136,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Prickly
-  leatherjacket (*Chaetodermis penicilligerus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
-  Guide for Fishery Purposes The Living Marine Resources of the
-  Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

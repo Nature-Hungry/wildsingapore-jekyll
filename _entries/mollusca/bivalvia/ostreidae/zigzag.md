@@ -43,7 +43,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zig
 is sometimes seen on some of our shores, on boulders and seawalls.
 Usually a few are squished in cracks near the mid water mark.  
   
-**Features:** 3-8cm. The two-part
+## Features
+ 3-8cm. The two-part
 shell is thick and chalky. The opening between the valves is a regular
 fine zig-zag. The opening is usually well away from the rock surface.
 Some are crowded next to one another, others are found singly.   

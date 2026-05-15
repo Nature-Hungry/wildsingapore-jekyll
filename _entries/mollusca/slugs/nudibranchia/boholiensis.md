@@ -123,6 +123,40 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352531931/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
+    *[Discodoris
+    boholiensis](http://www.seaslugforum.net/find/discboho)*.
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Discodoris boholiensis](http://slugsite.us/bow/nudwk239.htm)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -130,7 +164,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boh
 of our shores, usually near coral rubble or reefs. Sometimes, several
 may be seen during one visit. It is named after the Bohol Islands in the Philippines.  
   
-**Features:** 6-10cm long. The hard
+## Features
+ 6-10cm long. The hard
 body is broad and rather thin and flat, and covered with small brown-tipped
 bumps. Distinguished by the prominent hump along the centre of the
 otherwise flat animal. Patterns and colours are quite variable, generally
@@ -218,42 +253,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-  *[Discodoris
-  boholiensis](http://www.seaslugforum.net/find/discboho)*.
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Discodoris boholiensis](http://slugsite.us/bow/nudwk239.htm)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

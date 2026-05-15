@@ -84,6 +84,28 @@ page_images:
     <p>Graham Brash, Singapore.</p>
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
+links_references: |
+  **Links**
+  - [Dog
+    conch (*Strombus canarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86874) on SeaLife Base: Technical
+    fact sheet.
+  - Dog conch
+    (*Strombus canarium*) in the Gastropods section by J.M. Poutiers
+    in the FAO Species Identification Guide for Fishery Purposes:
+    The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
 ---
 
 if you
@@ -100,7 +122,8 @@ often seen on many of our shores, on silty and sandy areas with good
 seagrass growths. Although large, these snails are well camouflaged. It was previously known as *Strombus
 canarium*. 'Canarium' means 'dog' in Latin, and it is sometimes also called the Dog conch.  
   
-**Features:** 6-7cm, elsewhere up
+## Features
+ 6-7cm, elsewhere up
 to 10cm. Shell thick heavy, lip flared.
 The flared
 shell protects the long proboscis as the animal sweeps the bottom
@@ -179,30 +202,7 @@ blog](http://wondercreation.blogspot.com/2007/05/good-morning-changi.html).
 
 ---
 
-**Links**
 
-- [Dog
-  conch (*Strombus canarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86874) on SeaLife Base: Technical
-  fact sheet.
-- Dog conch
-  (*Strombus canarium*) in the Gastropods section by J.M. Poutiers
-  in the FAO Species Identification Guide for Fishery Purposes:
-  The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

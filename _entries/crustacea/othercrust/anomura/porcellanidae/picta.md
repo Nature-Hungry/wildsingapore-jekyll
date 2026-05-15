@@ -86,6 +86,23 @@ page_images:
   caption: |
     <p>Tuas, Oct 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8262260441/in/album-72157618623639729/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0420m3a.jpg
+links_references: |
+  **Links**
+  - [*Porcellanella
+    triloba*](http://crust.biota.biodiv.tw/pages/3980)
+    on BiotaTaiwanica: fact sheet and photos.
+  - [*Porcellanella
+    triloba*](http://www.sealifebase.fisheries.ubc.ca/summary/Porcellanella-trilobal) on Sealife Base.
+  **References**
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'i
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -94,7 +111,8 @@ pairs in [sea
 pens](../../../../cnidaria/others/pennatulacea/pennatulacea) that are commonly seen on our Northern shores. It was previously
 known as *Porcellanella picta*.  
   
-**Features:** Body width 1cm or less.
+## Features
+ Body width 1cm or less.
 Body oval and smooth, with pink dots circled in black or blue, especially
 on the pincers and upper body. The pincers are not much bigger and
 may be smaller than the body.  
@@ -156,25 +174,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Porcellanella
-  triloba*](http://crust.biota.biodiv.tw/pages/3980)
-  on BiotaTaiwanica: fact sheet and photos.
-- [*Porcellanella
-  triloba*](http://www.sealifebase.fisheries.ubc.ca/summary/Porcellanella-trilobal) on Sealife Base.
-
-**References**
-
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'i
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

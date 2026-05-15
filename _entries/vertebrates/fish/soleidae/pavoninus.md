@@ -118,11 +118,44 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171201799/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg
+links_references: |
+  **Links**  
+  - [Peacock
+    Sole (*Pardachirus pavoninus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/385) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp. Family Soleidae .
+  - [Peacock
+    sole (*Pardachirus pavoninus*)](http://www.fishbase.org/summary/8271) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet. Also on the [*Pardachirus
+    marmoratus* (Finless sole).](http://www.fishbase.us/summary/8917)
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  - [How
+    to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-sharkl) on the wild shores of singapore
+    blog: about the toxin produced by the Moses sole.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This large pretty fish is sometimes seen on on sandy
-areas near seagrasses on some of our shores. **Features:** Those seen
+areas near seagrasses on some of our shores. ## Features
+ Those seen
 about 10-15cm, can grow to about 20cm. Eyes on right side. Small,
 highly curved mouth. Body oblong and very flat. No pectoral fins.
 Tail fin separated from the dorsal and anal fins. It has a pattern
@@ -217,40 +250,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Peacock
-  Sole (*Pardachirus pavoninus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/385) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp. Family Soleidae .
-- [Peacock
-  sole (*Pardachirus pavoninus*)](http://www.fishbase.org/summary/8271) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet. Also on the [*Pardachirus
-  marmoratus* (Finless sole).](http://www.fishbase.us/summary/8917)
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-- [How
-  to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-sharkl) on the wild shores of singapore
-  blog: about the toxin produced by the Moses sole.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

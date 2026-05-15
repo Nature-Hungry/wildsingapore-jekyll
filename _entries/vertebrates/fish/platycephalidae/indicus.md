@@ -47,6 +47,25 @@ page_images:
   caption: |
     <p>Kusu Island, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+links_references: |
+  **Links**  
+  - [Bartail
+    Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Bartail
+    Flathead (*Platycephalus indicus*)](http://www.fishbase.org/summary/speciessummary.php?id=950) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -54,7 +73,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalida
 some of our shores on muddy and sandy areas near seagrass meadows.
 It is said that small juveniles have been found in freshwater.  
   
-**Features:** 8-12cm
+## Features
+ 8-12cm
 long. It can grow to 50cm-1m long! Big head is flat and smooth, mouth
 is large; with the lower jaw longer than the upper jaw. Eyes large
 and protruding, near the top of the head. A laplet eye-lid forms a
@@ -106,27 +126,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Bartail
-  Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Bartail
-  Flathead (*Platycephalus indicus*)](http://www.fishbase.org/summary/speciessummary.php?id=950) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -61,6 +61,25 @@ page_images:
   caption: |
     <p>St John's Island, Apr 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+links_references: |
+  **Links**  
+  - [*Periophthalmus
+    walailake*](http://www.mudskipper.it/SpeciesPages/wala.html) from [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
+    with lots of photos.
+  - [*Periophthalmus
+    walailake*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=61443) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Yellow-spotted
+    mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
+    photos and fact sheet.
+  **References**
+  - Theresa L. Su & Shirley S. L. Lim. 12 August 2016. *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*. Raffles Bulletin of Zoology 64: 220–228.
+  - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. Nov 2006. [Taxonomical and morphological notes on two species of mudskippers, *Periophthalmus walailakae* and *Periophthalmodon schlosseri* (Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043). Zoolog Science 23(11):1043-7.
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -68,7 +87,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walai
 spotted mudskipper is sometimes seen in our mangroves, or on mudflats
 and sandflats near mangroves.  
   
-**Features:** To about 13cm long,
+## Features
+ To about 13cm long,
 those seen about 8-10cm. It has a greyish body with scattered yellowish
 spots all over the 'cheeks' and body. There are brownish spots on
 the upper body. No irridescent blue spots. The
@@ -107,27 +127,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Periophthalmus
-  walailake*](http://www.mudskipper.it/SpeciesPages/wala.html) from [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
-  with lots of photos.
-- [*Periophthalmus
-  walailake*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=61443) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Yellow-spotted
-  mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
-  photos and fact sheet.
-
-**References**
-
-- Theresa L. Su & Shirley S. L. Lim. 12 August 2016. *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*. Raffles Bulletin of Zoology 64: 220–228.
-- Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. Nov 2006. [Taxonomical and morphological notes on two species of mudskippers, *Periophthalmus walailakae* and *Periophthalmodon schlosseri* (Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043). Zoolog Science 23(11):1043-7.
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -46,6 +46,38 @@ page_images:
   caption: |
     <p><a href="sarmatium">Mound crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+links_references: |
+  **Links**
+  - [Sesarmine
+    crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048), [Tree-climbing/Vinegar
+    crabs (*Episesarma* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049), [Mangrove
+    tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050), Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Sesarmine
+    Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198); *[Selatium
+    brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199)* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Marcus F. C. Ng. 28 Oct 2016. *A mangrove crab Perisesarma fasciatum at Pulau Ubin*. Singapore Biodiversity Records 2016: 156
+  - Tan Heok Hui. 5 December 2014. *Kusu rock crabs at Pulau Senang, Lithoselatium kusu*. Singapore Biodiversity Records 2014: 320.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -63,7 +95,8 @@ as many as 40 species of these crabs in our mangroves. They are often
 hard to spot as they are well camouflaged, although some may have
 colourful markings. They are more active at night.  
   
-**Features:** Body width 4-6cm. Sesarmid
+## Features
+ Body width 4-6cm. Sesarmid
 crabs are adapted for scrambling over slippery surfaces. They have
 well-developed hooks on the tips of their long legs that grip these
 surfaces. Their bodies and legs are flattened, allowing them to squeeze
@@ -162,40 +195,7 @@ crabs)
 
 ---
 
-**Links**
 
-- [Sesarmine
-  crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048), [Tree-climbing/Vinegar
-  crabs (*Episesarma* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049), [Mangrove
-  tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050), Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Sesarmine
-  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198); *[Selatium
-  brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199)* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Marcus F. C. Ng. 28 Oct 2016. *A mangrove crab Perisesarma fasciatum at Pulau Ubin*. Singapore Biodiversity Records 2016: 156
-- Tan Heok Hui. 5 December 2014. *Kusu rock crabs at Pulau Senang, Lithoselatium kusu*. Singapore Biodiversity Records 2014: 320.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

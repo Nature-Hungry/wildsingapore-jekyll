@@ -56,6 +56,21 @@ page_images:
   caption: |
     <p>Pulau Hantu, Mar 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5576242165722442&set=a.5576244332388892">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+links_references: |
+  **Links**  
+  - [Sleepy
+    goby](http://www.fishbase.org/summary/speciessummary.php?id=9946) [(*Psammogobius
+    biocellatus*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  - [*Psammogobius
+    biocellatus*](http://www.iucnredlist.org/details/9266/0)
+    on the IUCN Red List.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -65,7 +80,8 @@ meadows, or sandy lagoon bottoms. One was seen snatching another goby!
 Elsewhere, it is found in intertidal areas, estuaries, lagoons, coastal
 rivers and common in mangroves.  
   
-**Features:** Up to
+## Features
+ Up to
 12cm, those seen about 6-8cm long. The head is big but not as flat
 as in true flatheads, and rather triangular at the snout. Mouth
 is large; with the lower jaw slightly longer than the upper jaw. Eyes
@@ -116,23 +132,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Sleepy
-  goby](http://www.fishbase.org/summary/speciessummary.php?id=9946) [(*Psammogobius
-  biocellatus*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-- [*Psammogobius
-  biocellatus*](http://www.iucnredlist.org/details/9266/0)
-  on the IUCN Red List.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

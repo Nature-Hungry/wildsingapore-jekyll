@@ -78,11 +78,24 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg
+links_references: |
+  **Links**
+  - [*Callyspongia
+    diffusa*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-diffusa.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Callyspongia
+    diffusa*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=190269) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This group of champagne pink or lilac, rough thick walled sponges are sometimes
-seen on some of our Southern shores, growing on coral rubble. **Features:** Grouped
+seen on some of our Southern shores, growing on coral rubble. ## Features
+ Grouped
 on this page are small (10-15cm) sponges with rough thick walls and
 coloured a dull champagne pink or purplish pink (lilac). Texture a fine network
 angular polygons formed out of tiny spikes. Forms variable. Some have
@@ -137,20 +150,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Callyspongia
-  diffusa*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-diffusa.html)
-  on SeaLife Base: technical fact sheet.
-- [*Callyspongia
-  diffusa*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=190269) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

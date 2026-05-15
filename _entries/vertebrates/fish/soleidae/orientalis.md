@@ -69,10 +69,25 @@ page_images:
   caption: |
     <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3558524051/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
+links_references: |
+  **Links**  
+  - [Oriental
+    Sole (*Brachirus orientalis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp. Family Soleidae .
+  - [Oriental
+    sole (*Brachirus orientalis*)](http://www.fishbase.org/summary/8312) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
 ---
 
 ## Where seen?
- This large flattened fish is sometimes seen on some of our shore. **Features:** Usually
+ This large flattened fish is sometimes seen on some of our shore. ## Features
+ Usually
 10-12cm, it can grow to 30cm. Eyes on the right side with a small
 curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side.
 Dorsal and anal fins joined with the tail fin and uniformly dark.
@@ -135,20 +150,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Oriental
-  Sole (*Brachirus orientalis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp. Family Soleidae .
-- [Oriental
-  sole (*Brachirus orientalis*)](http://www.fishbase.org/summary/8312) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
 
 [links](../../../links)
 | [references](../../../references)

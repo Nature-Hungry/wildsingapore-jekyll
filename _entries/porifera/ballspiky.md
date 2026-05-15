@@ -52,12 +52,25 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg
+links_references: |
+  **Links**
+  - [*Dysidea
+    avara*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=51088&genusname=Dysidea&speciesname=avara)
+    on SeaLife Base: technical fact sheet.
+  - [*Dysidea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131745)
+    on the World Porifera Database
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This spiky ball- or cushion-shaped sponge is commonly seen on rock
-and rubble on our Northern shores. **Features:** 8-10cm in diameter, ball- or rounded, cushion
+and rubble on our Northern shores. ## Features
+ 8-10cm in diameter, ball- or rounded, cushion
 shape with lots of large holes. Sometimes also encrusting or with
 lobes, fingers, or even maze-like walls. The surface is often spiky
 with a net- or web-like texture. Often with thin membranous lips around
@@ -106,20 +119,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Dysidea
-  avara*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=51088&genusname=Dysidea&speciesname=avara)
-  on SeaLife Base: technical fact sheet.
-- [*Dysidea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131745)
-  on the World Porifera Database
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

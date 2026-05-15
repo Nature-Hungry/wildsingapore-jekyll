@@ -70,13 +70,30 @@ page_images:
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+links_references: |
+  **Links**
+  - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [Striped
+    Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299) on the Australian Biological
+    Resources Study website: photo, distribution, features, ecology,
+    interaction with humans, other comments.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
  This beautiful anemone resembles blown glass and is sometimes
 seen on sand and near seagrasses on our Northern shores. Sometimes on our Southern shores. Also called the Striped or Armed Anemone in Australia.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 20cm or more. The oral disk 5-8cm in diameter.
 Tentacles not many. One ring of about 20 long tentacles (10-20cm),
 another ring of about the same number of shorter tentacles (length
@@ -135,24 +152,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [Striped
-  Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299) on the Australian Biological
-  Resources Study website: photo, distribution, features, ecology,
-  interaction with humans, other comments.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

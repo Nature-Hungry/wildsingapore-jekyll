@@ -97,7 +97,8 @@ an odd, rather unpleasant smell. One of its Malay names is Buas-buas.
 'Buas' in Malay can mean fierce or wild. The plant seems harmless
 enough, so I'm not sure how its name came about.   
   
-**Features:** According to Corners,
+## Features
+ According to Corners,
 the species is "so variable that it is still undecided whether it
 does not consist of several species". The typical form is of those
 that grow on rocky and sandy coasts. The plant first starts as a climber

@@ -48,6 +48,20 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
+links_references: |
+  **Links**
+  - [*Solieria
+    robusta*](http://www.algaebase.org/search/species/detail/?species_id=2824)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
 ---
 
 ## Where seen?
@@ -55,7 +69,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solie
 clumps among living reefs, on rubble, also sandy areas near seagrass
 meadows.  
   
-**Features:** Cluster (10-15cm long)
+## Features
+ Cluster (10-15cm long)
 of thick, succulent cylindrical 'stems' with tapering tips and regular
 branches. Sometimes, there are bumps on the stems. These are the reproductive
 structures of the seaweed. Colours reddish or yellowish brown. The
@@ -103,22 +118,7 @@ robusta*
 
 ---
 
-**Links**
 
-- [*Solieria
-  robusta*](http://www.algaebase.org/search/species/detail/?species_id=2824)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
 
 [links](../../../links)
 | [references](../../../references)

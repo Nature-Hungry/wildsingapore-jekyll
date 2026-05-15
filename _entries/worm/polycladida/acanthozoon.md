@@ -136,7 +136,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/05
 on our Southern shores. On coral rubble, near living reefs. Seasonally,
 it can be plentiful, with many worms encountered during a single visit.  
   
-**Features:** 8-12cm long, the worm
+## Features
+ 8-12cm long, the worm
 can be as large as the palm of our hand! Body black with lots of little black bumps (known as papillae) that are yellow
 or orange tipped, some with a white base that gives the appearance of larger white spots. Margin white. Underside pale-whitish with a white outer margin and a black inner margin. It has a pair of small, pointed, ear-like pseudotentacles made up of simple folded
 edges of the body.

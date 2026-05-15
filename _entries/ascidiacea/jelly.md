@@ -56,6 +56,9 @@ page_images:
   caption: |
     <p>Terumbu Bemban, May 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441851942945&set=a.10158441969957945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
+links_references: |
+  **Links**
+  - [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 ---
 
 ## Where seen?
@@ -63,7 +66,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196
 translucent jelly-like animal is sometimes seen under stones on our
 Northern shores .  
   
-**Features:**  2-3cm. A smooth translucent blob stuck under a stone, usually alone.
+## Features
+  2-3cm. A smooth translucent blob stuck under a stone, usually alone.
 One opening is ringed with a fine circular red line and fine red bars.
 
  
@@ -119,9 +123,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
 [links](../links)
 | [references](../references)

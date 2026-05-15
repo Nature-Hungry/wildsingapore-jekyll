@@ -53,7 +53,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/hum
 of our shores near and on reefs, on seagrasses, coral rubble and soft
 corals.  
   
-**Features:** Less than 1cm long.
+## Features
+ Less than 1cm long.
 Body thick with an obvious humped back. A broad long 'nose'. It doesn't
 have long pincers. Usually green.  
   

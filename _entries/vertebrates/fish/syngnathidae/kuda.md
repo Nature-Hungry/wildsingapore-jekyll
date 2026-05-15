@@ -118,6 +118,47 @@ page_images:
   caption: |
     <p>Sentosa Serapong, Jun 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213576523699687&set=a.10213576506259251&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+links_references: |
+  **Links**
+  - [Seahorse
+    (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Spotted
+    Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [Spotted
+    seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  **References**
+  - Kelvin K. P. Lim. 22 November 2013. *Spotted seahorses at Changi Beach, Hippocampus kuda*. Singapore Biodiversity Records 2013: 71-73
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
+  - Kuiter, Rudie
+    H., 2000 (English edition). *Seahorses,
+    Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes* TMC Publishing, UK. 240 pp.
 ---
 
 ## Where seen?
@@ -127,7 +168,8 @@ it is found mainly in seagrass
 areas near sources of freshwater and found
 all around Singapore in shallow waters. 'Kuda' means 'horse' in Malay.  
   
-**Features:** 6-10cm long. Body without
+## Features
+ 6-10cm long. Body without
 large, obvious spines. Colours seen include yellow, brown, sometimes
 pinkish or even orangey. Some have spots on the body. Often seen in
 a pair near one another, not necessarily in the same colour: e.g,. one is bright yellow, the other is dark;
@@ -210,49 +252,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Seahorse
-  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Spotted
-  Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [Spotted
-  seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Kelvin K. P. Lim. 22 November 2013. *Spotted seahorses at Changi Beach, Hippocampus kuda*. Singapore Biodiversity Records 2013: 71-73
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
-- Kuiter, Rudie
-  H., 2000 (English edition). *Seahorses,
-  Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes* TMC Publishing, UK. 240 pp.
 
 [links](../../../links)
 | [references](../../../references)

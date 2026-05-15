@@ -46,7 +46,8 @@ slugs belong to [Phylum Mollusca](../../mollusca.htm) and [Class Gastropoda](../
 Sidegill slugs belong to Order Notaspidae are NOT [nudibranchs](../../nudibranchia.htm),
 which belong to a different Order Nudibranchia.  
   
-**Features:** These slugs have a large
+## Features
+ These slugs have a large
 plume-like gill between the mantle and the foot, usually on the right
 side of the body. They have a pair of tentacles (called rhinophores)
 made up of rolled up skin, and a plough-shaped structure (called the

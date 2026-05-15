@@ -31,6 +31,40 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on <a href="http://www.flickr.com/photos/brandonchia/3997936872/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
+links_references: |
+  **Links**
+  - [*Crocodylus porosus*](http://taxo4254.wikispaces.com/Crocodylus+porosus) (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012, on taxo4254.
+  - [Is
+    That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1) by Ramakrishnan Kolandavelu
+    in Wetlands, a publication of the Sungei Buloh Wetland Reserve,
+    Vol 13 No 3, 2006.
+  - [Estuarine
+    crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [*Crocodylus
+    porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosusl) (Crocodylia: Crocodylidae) Salt-water Crocodile
+    by Mohamed Hussain, 2012 on taxo4254.
+  - From the wild shores of singapore blog
+    - [Smile, Singapore got crocodile](http://wildshores.blogspot.sg/2018/01/smile-singapore-got-crocodilel)
+    - [Crocodile! What should I do?!](http://wildshores.blogspot.sg/2013/12/crocodile-what-should-i-dol)
+  **References**
+  - Marcus Ng and Robert W. Mendyk. 2012. [Predation of an Adult Malaysian Water monitor (*Varanus salvator macromaculatus*) by an Estuarine Crocodile (*Crocodylus porosus*)](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list). Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -48,7 +82,8 @@ Reservoir, and Pulau Tekong. Also called the Saltwater crocodile,
 it is the most widely distributed of the crocodiles and found in tropical
 Asia and the Pacific. It lives in b rackish and freshwater habitats.  
   
-**Features:** Up to 8m long.
+## Features
+ Up to 8m long.
 A large triangular head with broad and long snout and bulbous eyes
 at the top of the head. There is a pair of ridges along the centre
 of the snout. It uses its long muscular tail to propel itself in the
@@ -158,22 +193,6 @@ Tomistoma schlegelii* (Sunda gavial)
 
 ---
 
-**Links**
-
-- [*Crocodylus porosus*](http://taxo4254.wikispaces.com/Crocodylus+porosus) (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012, on taxo4254.
-- [Is
-  That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1) by Ramakrishnan Kolandavelu
-  in Wetlands, a publication of the Sungei Buloh Wetland Reserve,
-  Vol 13 No 3, 2006.
-- [Estuarine
-  crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [*Crocodylus
-  porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosusl) (Crocodylia: Crocodylidae) Salt-water Crocodile
-  by Mohamed Hussain, 2012 on taxo4254.
-- From the wild shores of singapore blog
-  - [Smile, Singapore got crocodile](http://wildshores.blogspot.sg/2018/01/smile-singapore-got-crocodilel)
-  - [Crocodile! What should I do?!](http://wildshores.blogspot.sg/2013/12/crocodile-what-should-i-dol)
 
 **Articles**
 
@@ -209,23 +228,3 @@ Tomistoma schlegelii* (Sunda gavial)
 - [Crocodile
   spotted at Pasir Ris Beach](http://wildsingaporenews.blogspot.com/2008/08/crocodile-spotted-at-pasir-ris-beachl) Straits Times 5 Aug 08 on the wildsingapore
   news blog.
-
-**References**
-
-- Marcus Ng and Robert W. Mendyk. 2012. [Predation of an Adult Malaysian Water monitor (*Varanus salvator macromaculatus*) by an Estuarine Crocodile (*Crocodylus porosus*)](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list). Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

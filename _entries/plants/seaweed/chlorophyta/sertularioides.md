@@ -60,6 +60,47 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
+links_references: |
+  **Links**
+  - *[Caulerpa
+    sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides)* from [Marine
+    Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
+    website: fact sheet with photos.
+  - [*Caulerpa
+    sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul) by the Smithsonian Marine Station at Fort
+    Pierce: fact sheet with photos.
+  - [*Caulerpa
+    settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides) coverage on Chek Jawa during the 2001 Chek
+    Jawa survey.
+  - [*Caulerpa
+    sertularioides*](http://www.algaebase.org/search/species/detail/?species_id=1412) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  - [*Caulerpa sertularioides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=490&menuentry=soorten) on Interactive Guide to Caribbean Diving, the Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011.
+  - Eric Coppejans
+    and Tom Beeckman. 1990. *[Caulerpa
+    (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
+    Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
+    R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
+    Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
+    how to tell apart similar *Caulerpa* species.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -68,7 +109,8 @@ growing on sand, coral rubble and among seagrasses. Usually found
 in clumps, which can cover an area of about 40-50cm. But it does not
 blanket the shore like other seasonally abundant seaweeds.  
   
-**Features:** A feathery structure
+## Features
+ A feathery structure
 5-7cm long. The central 'stem' of the feathery structure is cylindrical.
 The side 'branches' are long and cylindrical (not flattened) with
 pointed tips. Sometimes, the feathery structure has a 'waist' near
@@ -124,49 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Caulerpa
-  sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides)* from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
-  website: fact sheet with photos.
-- [*Caulerpa
-  sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul) by the Smithsonian Marine Station at Fort
-  Pierce: fact sheet with photos.
-- [*Caulerpa
-  settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides) coverage on Chek Jawa during the 2001 Chek
-  Jawa survey.
-- [*Caulerpa
-  sertularioides*](http://www.algaebase.org/search/species/detail/?species_id=1412) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-- [*Caulerpa sertularioides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=490&menuentry=soorten) on Interactive Guide to Caribbean Diving, the Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011.
-- Eric Coppejans
-  and Tom Beeckman. 1990. *[Caulerpa
-  (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
-  Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
-  R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
-  Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
-  how to tell apart similar *Caulerpa* species.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

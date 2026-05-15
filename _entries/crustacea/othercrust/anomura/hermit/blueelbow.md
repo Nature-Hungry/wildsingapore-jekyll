@@ -57,13 +57,25 @@ page_images:
   caption: |
     <p>](http://www.flickr.com/photos/artour_a/8453465066/ "Blue-spot hermit crab (Paguristes longirostris) by Arthur Anker, on Flickr") 24 Jan 2013, Comprehensive Marine Biodiversity Survey Photo shared by Arthur Anker on <a href="http://www.flickr.com/photos/artour_a/8453465066/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
+links_references: |
+  **Links**
+  - *[Paguristes
+    longirostris](http://www.sealifebase.org/summary/Paguristes-longirostrisl)*  on SeaLife Base: Technical fact sheet.
+  **References**
+  - Dwi Listyo
+    Rahayu, 2000. *Hermit
+    crabs from the South China Sea (Crustacea: Decapoda: Anomura:
+    Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
+    of Zoology 2000 Supplement No. 8: 377-404. The National University
+    of Singapore.
 ---
 
 ## Where seen?
  This beige hermit crab with bright blue 'elbows'
 is sometimes seen on silty shores.  
   
-**Features:** Body about 2-3cm long,
+## Features
+ Body about 2-3cm long,
 plain pinkish beige. Body and legs a pale pinkish beige, sparsely
 hairy. Both pincers stout, large and about the same size, with a 'scaly'
 texture. Bright blue patch on the inner 'elbow' of the pincers. Eyes
@@ -108,19 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Paguristes
-  longirostris](http://www.sealifebase.org/summary/Paguristes-longirostrisl)*  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Dwi Listyo
-  Rahayu, 2000. *Hermit
-  crabs from the South China Sea (Crustacea: Decapoda: Anomura:
-  Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
-  of Zoology 2000 Supplement No. 8: 377-404. The National University
-  of Singapore.
 
 [links](../../../../links)
 | [references](../../../../references)

@@ -85,13 +85,28 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg
+links_references: |
+  **Links**  
+  - *[Ceratosoma
+    gracillimum](http://www.seaslugforum.net/find/ceragrac)* on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 Preliminary
+    Checklist of The Molluscs of Singapore (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 ## Where seen?
  This large chunky hard nudibranch is more commonly seen by divers
 and sometimes seen on the intertidal on coral rubble near reefs.
 
-**Features:** 6-8cm long. The body is stiff, narrow with a long, slender tail.
+## Features
+ 6-8cm long. The body is stiff, narrow with a long, slender tail.
 There is a pair of elongated lobes on the sides (looks like 'wings'). At the body end over the tail, a large horn-like lobe, where the feathery
 gills emerge. The head is flat wedged-shaped with a pair rhinophores. The edges of the lobes and head are generally slightly wavy with a fine line of bright orange. The rest of the body generally speckled (orange, pink) with blotches of darker colour over a pale background.  
   
@@ -161,22 +176,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- *[Ceratosoma
-  gracillimum](http://www.seaslugforum.net/find/ceragrac)* on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 Preliminary
-  Checklist of The Molluscs of Singapore (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

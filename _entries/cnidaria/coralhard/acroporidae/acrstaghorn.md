@@ -61,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
  This hard coral with stout branches that resemble
 deer horns is sometimes seen on our undisturbed Southern shores.  
   
-**Features:**Colonies 15-20cm,
+## Features
+Colonies 15-20cm,
 usually small clumps. Rather thick stems that branch near the tips
 so that the colony resembles horns. The branches don't interlock.
 Generally, the axial corallite at the growing tip is large and cylindrical.

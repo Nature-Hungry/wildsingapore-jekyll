@@ -21,12 +21,23 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudoceros
+    felis*](http://polycladida.lifedesks.org/pages/3084) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  **References**
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
 ---
 
 ## Where seen?
  Seen once on a remote reef. Although it looks like *Pseudoceros felis*, its identity is still awaiting confirmation.  
   
-**Features:** 8-10cm long. Body mottled
+## Features
+ 8-10cm long. Body mottled
 cream or yellow with dark tiny blotches on a grey background. Edges
 with black irregular bars. Narrow orange with thin black margin. Underside
 uniformly grey with narrow orange and thin black margin. It
@@ -38,16 +49,3 @@ of the body.
 
 
 ---
-
-**Links**
-
-- [*Pseudoceros
-  felis*](http://polycladida.lifedesks.org/pages/3084) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-
-**References**
-
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.

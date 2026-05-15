@@ -50,7 +50,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd50
  This long pink ribbon worm is commonly seen at night
 on silty areas among seagrasses and near mangroves.   
   
-**Features:** Grouped in this entry
+## Features
+ Grouped in this entry
 are ribbon worms that are 20-50cm long with broad flat bodies coloured
 pink or reddish. Often the head and tail paler with dark or black
 tip. Sometimes, one is seen swimming vigorously in the water.

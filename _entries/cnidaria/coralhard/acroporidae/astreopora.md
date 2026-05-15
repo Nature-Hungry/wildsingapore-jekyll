@@ -108,13 +108,36 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889896678/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  **References**
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This hard coral with a pebbly surface is sometimes
 seen on some of our Southern shores.   
   
-**Features:**Colonies large
+## Features
+Colonies large
 (about 20cm or more). Colonies are solid (massive) and may be dome-shaped
 or encrusting, with a few species forming tiers of thick plates. Corallites
 small, circular opening (1cm or less), usually in a blunt conical
@@ -202,30 +225,7 @@ Astreopora incrustans**Astreopora listeri (NT Near Threatened)* (Starflower cora
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-
-**References**
-
-- *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -123,6 +123,56 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/40398360790/in/photolist-2eavK6y-27ezk23-26cQJLu-fv13PA-fv13z9-fv13i5-fuKKkt-27jFGEE-26cX1DE-24xSacU-7tAK1F-7tEGHE "Cone snail (Family Conidae)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
+links_references: |
+  **Links**
+  - [Geography
+    Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251.htm) (*Conus geographus*) and [Cone
+    Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148.htm) (*Conus consors*) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Textile
+    cone (*Conus textile*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=203) and [Singed
+    cone (*Conus consors*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=204) on the NParks Flora and Fauna
+    website.
+  - [Family
+    Conidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Conidae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on moon snails with photos.
+  - Family
+    Conidaein the Gastropods section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [Better
+    pain relief with cone snails](http://wildshores.blogspot.sg/2008/10/better-pain-relief-with-cone-snails.html) on the wild shores of singapore
+    blog.
+  - *A sighting of the turtle cone shell, Conus achatinus*, 22 January 2020, Calvin Jiah Jay Leow, Singapore Biodiversity Records, 2020: 8 ISSN 2345-7597, National University of Singapore.
+  **References**
+  - Ron K. H. Yeo & Tan Heok Hui. 30 April 2020. *Recent sightings of the textile cone in Singapore*. Singapore Biodiversity Records 2020: 41-42 ISSN 2345-7597
+  - Royston Koh Lai Peng. *Cone snail, Conus caracteristicus, at East Coast Park*. 31 July 2018. Singapore Biodiversity Records 2018: 75 ISSN 2345-7597. National University of Singapore.
+  - Toh Chay Hoon and Tan Siong Kiat. 12 September 2014. *Marbled cone snail at Pulau Hantu, Conus marmoreus*. Singapore Biodiversity Records 2014: 256.
+  - Toh Chay Hoon. 16 May
+    2014. *Cone
+    snail (Conus recluzianus) at Lazarus Island* Singapore Biodiversity Records 2014: 135-136
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -130,7 +180,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/con
 seen, living cone snails are rarely encountered. In Singapore's past,
 they were seen on rocky shores, reef flats and reefs.  
   
-**Features:** 5-10cm. Shell is heavy,
+## Features
+ 5-10cm. Shell is heavy,
 conical with a flattened end, somewhat like an ice-cream cone. Although
 some cone snails have pointed tips or are olive-shaped. The shell
 opening is a narrow slit. The operculum is a tiny long sliver of horn-like
@@ -331,58 +382,7 @@ in Family Raphitomidae
 
 ---
 
-**Links**
 
-- [Geography
-  Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251.htm) (*Conus geographus*) and [Cone
-  Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148.htm) (*Conus consors*) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Textile
-  cone (*Conus textile*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=203) and [Singed
-  cone (*Conus consors*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=204) on the NParks Flora and Fauna
-  website.
-- [Family
-  Conidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Conidae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on moon snails with photos.
-- Family
-  Conidaein the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [Better
-  pain relief with cone snails](http://wildshores.blogspot.sg/2008/10/better-pain-relief-with-cone-snails.html) on the wild shores of singapore
-  blog.
-- *A sighting of the turtle cone shell, Conus achatinus*, 22 January 2020, Calvin Jiah Jay Leow, Singapore Biodiversity Records, 2020: 8 ISSN 2345-7597, National University of Singapore.
-
-**References**
-
-- Ron K. H. Yeo & Tan Heok Hui. 30 April 2020. *Recent sightings of the textile cone in Singapore*. Singapore Biodiversity Records 2020: 41-42 ISSN 2345-7597
-- Royston Koh Lai Peng. *Cone snail, Conus caracteristicus, at East Coast Park*. 31 July 2018. Singapore Biodiversity Records 2018: 75 ISSN 2345-7597. National University of Singapore.
-- Toh Chay Hoon and Tan Siong Kiat. 12 September 2014. *Marbled cone snail at Pulau Hantu, Conus marmoreus*. Singapore Biodiversity Records 2014: 256.
-- Toh Chay Hoon. 16 May
-  2014. *Cone
-  snail (Conus recluzianus) at Lazarus Island* Singapore Biodiversity Records 2014: 135-136
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

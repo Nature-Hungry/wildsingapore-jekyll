@@ -45,6 +45,28 @@ page_images:
   caption: |
     <p><a href="cutcurvespine.htm">Curvespine cuttlefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
+    and the University of Texas Medical Branch website: everything
+    you could possibly want to know about cephalopods. Lots of info,
+    photos, articles and links to cephalopods. Lots of fabulous photos,
+    a delightful and exhaustive FAQ, and lots of cool articles for
+    the laymen, as well as lesson plans.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
+    A World Guide*.
+    ConchBooks, Germany. 319 pp
+  - Norman, Mark
+    and Amanda Reid. 2000. *A
+    Guide to Squid, Cuttlefish and Octopuses of Australasia*
+    The Gould League of Australia. 96pp.
 ---
 
 ## Where seen?
@@ -57,7 +79,8 @@ Mollusca) like snails, slugs and clams; and [cephalopods](../cephalopoda.htm) (C
 They belong to the Order Sepiida. The family has more than 100 species
 many of which are only identified from the internal cuttlebones.  
   
-**Features:** 5-10cm, but species
+## Features
+ 5-10cm, but species
 found in deeper waters can grow to 40cm and more. Members of this
 family have oval-shaped or rounded bodies. The fins are about the
 same width throughout and edge the entire sides of the body. Cuttlefishes
@@ -117,30 +140,7 @@ cuttlefish)
 
 ---
 
-**Links**
 
-- [The
-  Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
-  and the University of Texas Medical Branch website: everything
-  you could possibly want to know about cephalopods. Lots of info,
-  photos, articles and links to cephalopods. Lots of fabulous photos,
-  a delightful and exhaustive FAQ, and lots of cool articles for
-  the laymen, as well as lesson plans.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp
-- Norman, Mark
-  and Amanda Reid. 2000. *A
-  Guide to Squid, Cuttlefish and Octopuses of Australasia*
-  The Gould League of Australia. 96pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

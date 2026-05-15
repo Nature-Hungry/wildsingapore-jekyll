@@ -40,7 +40,8 @@ and roots, among and under rocks in interior or coastal fringes in
 mangroves. Sites included: Seletar Dam, Khatib Bongsu, Lim Chu Kang,
 Punggol and Pulau Ketam. It was previously known as *Nerita grayana*.  
   
-**Features:** 1.5-2cm. Shell thick heavy,
+## Features
+ 1.5-2cm. Shell thick heavy,
 hemispherical, the spire sticks out more prominently than other nerites
 found in Singapore. Thin, regular well-developed spiralling ribs.
 Shell colour purplish brown also pale, often with a pattern of three

@@ -77,6 +77,22 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750324987945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
+links_references: |
+  **Links**  
+  - [Segmented
+    worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Polynoidae "scale worms"](http://rmbr.nus.edu.sg/polychaete/Polynoideal) on [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
+    the Raffles Museum of Biodiversity Research website: fact sheets
+    and photos of polychaetes found in Singapore.
+  **References**
+  - Jones, R.E.
+    (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
+    Australian Biological Resources Study, Canberra. 465pp.
 ---
 
 ## Where seen?
@@ -91,7 +107,8 @@ segmented bristleworm belonging to the Family Polynoidae, Class [Polychaeta](pol
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm.  
   
-**Features:** About 1cm long. The
+## Features
+ About 1cm long. The
 worm is flat and broad with lots of short hairy bristles along its
 sides, and a pattern of overlapping scales the upper side of the body.
 It has a well developed head with relatively long tentacles. It creeps
@@ -153,22 +170,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**  
-
-- [Segmented
-  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Polynoidae "scale worms"](http://rmbr.nus.edu.sg/polychaete/Polynoideal) on [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
-  the Raffles Museum of Biodiversity Research website: fact sheets
-  and photos of polychaetes found in Singapore.
-
-**References**
-
-- Jones, R.E.
-  (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
-  Australian Biological Resources Study, Canberra. 465pp.

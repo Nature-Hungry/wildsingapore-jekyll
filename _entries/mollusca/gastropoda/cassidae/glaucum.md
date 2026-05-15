@@ -78,6 +78,41 @@ page_images:
   caption: |
     <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+links_references: |
+  **Links**
+  - [Grey
+    bonnet (*Phalium glaucum*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86956) on SeaLife Base: Technical
+    fact sheet.
+  - [Grey
+    bonnet (*Phalim glaucum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1233) on the NParks Flora and Fauna
+    website.
+  - Grey
+    bonnet (*Phalium glaucum*) in the Gastropods section by J.M.
+    Poutiers in the FAO Species Identification Guide for Fishery Purposes:
+    The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Heok Hui
+    and Tan Siong Kiat. 30 November 2016. *Grey bonnet preying on sand dollar at Changi*. Singapore Biodiversity Records 2016: 166-167.
+  - Tan Siong Kiat. 29 Nov 2013. *Grey
+    bonnet shell (Phalium glaucum) at Semakau Landfill.* Singapore Biodiversity Records 2013: 79.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
  ## Where seen?
@@ -87,7 +122,8 @@ on sandy bottoms, especially on exposed sand flats and close to dead
 coral areas. Intertidal and shallow subtidal zones to a depth of about
 10 m.   
   
-**Features:** 8-12cm long, elsewhere
+## Features
+ 8-12cm long, elsewhere
 about 9cm, up to 14cm. Shell typical helmet shape with a large body
 whorl and tiny spire, thus resembling a bonnet. The shell is smooth
 and grey without any markings. It has a notch in its shell so that
@@ -151,43 +187,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Grey
-  bonnet (*Phalium glaucum*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86956) on SeaLife Base: Technical
-  fact sheet.
-- [Grey
-  bonnet (*Phalim glaucum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1233) on the NParks Flora and Fauna
-  website.
-- Grey
-  bonnet (*Phalium glaucum*) in the Gastropods section by J.M.
-  Poutiers in the FAO Species Identification Guide for Fishery Purposes:
-  The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Heok Hui
-  and Tan Siong Kiat. 30 November 2016. *Grey bonnet preying on sand dollar at Changi*. Singapore Biodiversity Records 2016: 166-167.
-- Tan Siong Kiat. 29 Nov 2013. *Grey
-  bonnet shell (Phalium glaucum) at Semakau Landfill.* Singapore Biodiversity Records 2013: 79.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

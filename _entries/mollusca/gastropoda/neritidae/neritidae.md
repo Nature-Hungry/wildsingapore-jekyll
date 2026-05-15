@@ -110,6 +110,50 @@ page_images:
     <p>.</p>
     <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Common
+    nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm) and [Violet
+    nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Nerita*
+    sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Neritidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Neritidae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on Nerites with photos.
+  - Family Neritidae
+    in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *Disruption in shell colour patterns of nerite snails*. Singapore Biodiversity Records 2020: 181-182. The National University of Singapore.
+  - Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. *First Singapore record of Souverbie’s nerite, Smaragdia souverbiana*. Singapore Biodiversity Records 2017:140-141.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 if you
@@ -132,7 +176,8 @@ see them creeping about. Tan and Clements based on surveys of 31 sites
 over a period of 10 years reveals 19 species with 6 new records for
 Singapore!  
   
-**Features:** 2-4cm. Our nerites typically have a distinctive hemispherical shell, somewhat like half a marble. The shell is quite thick and heavy.
+## Features
+ 2-4cm. Our nerites typically have a distinctive hemispherical shell, somewhat like half a marble. The shell is quite thick and heavy.
 The streamlined shape probably helps the snail stick onto a slippery
 rock that is pounded by waves. It also makes it difficult for a crab
 (and a human) to grip the shell.  
@@ -238,52 +283,7 @@ Neritina sulculosa
 
 ---
 
-**Links**
 
-- [Common
-  nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm) and [Violet
-  nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Nerita*
-  sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Neritidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Neritidae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on Nerites with photos.
-- Family Neritidae
-  in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *Disruption in shell colour patterns of nerite snails*. Singapore Biodiversity Records 2020: 181-182. The National University of Singapore.
-- Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. *First Singapore record of Souverbie’s nerite, Smaragdia souverbiana*. Singapore Biodiversity Records 2017:140-141.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

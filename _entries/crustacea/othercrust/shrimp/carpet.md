@@ -63,7 +63,8 @@ are rarely seen during the day.
   
 Studies of some specimens found at Chek Jawa, Pulau Semakau and the Singapore Straits identified them as *Periclimenes* cf. *obscurus*. But this is suspected to be a species complex that contains more than one species and a more detailed study is required to identify them more precisely.  
   
-**Features:** To about 1cm. Almost
+## Features
+ To about 1cm. Almost
 completely transparent. Some with a dark stripe along the body length
 and blue eyes.
 

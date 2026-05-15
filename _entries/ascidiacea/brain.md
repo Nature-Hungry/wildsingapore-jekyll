@@ -47,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730
  These
 odd blue 'brains' are sometimes seen on our Southern shores, on rubble near reefs .  
   
-**Features:** 10-15cm
+## Features
+ 10-15cm
 in diameter. Rubbery blobs forming on hard surfaces or on stones,
 with meandering ridges that resembles the surface of a brain. A few
 small holes seen only when submerged. Usually beige with shades of pale

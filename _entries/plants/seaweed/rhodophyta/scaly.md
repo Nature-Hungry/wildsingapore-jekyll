@@ -70,6 +70,26 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
+links_references: |
+  **Links**
+  - [*Peyssonnelia
+    inamoena*](http://www.algaebase.org/search/species/detail/?species_id=1670) and
+    *[Peyssonnelia
+    rubra](http://www.algaebase.org/search/species/detail/?species_id=429)* on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -77,7 +97,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly
 On the intertidal, this flat hard circular seaweed encrusts hard surfaces
 near reefs, often overlapping like fish scales.  
   
-**Features:** Clusters of flat circular
+## Features
+ Clusters of flat circular
 encrusting (2-4cm) disks that have a slippery surface. The disks are
 hard because they incorporate calcium carbonate on the underside.
 Most of the disk is stuck to a hard surface, sometimes the edges are
@@ -143,28 +164,7 @@ rubra*
 
 ---
 
-**Links**
 
-- [*Peyssonnelia
-  inamoena*](http://www.algaebase.org/search/species/detail/?species_id=1670) and
-  *[Peyssonnelia
-  rubra](http://www.algaebase.org/search/species/detail/?species_id=429)* on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

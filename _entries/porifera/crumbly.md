@@ -30,11 +30,25 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
+links_references: |
+  **Links**
+  - *[Amorphinopsis excavans](http://142.103.81.136/summary/Amorphinopsis-excavans.html)* on SeaLife Base: technical fact sheet.
+  - *[Amorphinopsis excavans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=178562)* on the World Porifera Database.
+  **References**
+  - Swee-Cheng
+    Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
+    sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
+    22: 41-68, 30 Dec 2009 Pp. 41-58.
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near [Rainbow sponges](rainbow.htm) (*Suberites* sp.) **Features:** Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
+This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near [Rainbow sponges](rainbow.htm) (*Suberites* sp.) ## Features
+ Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
 
  
 
@@ -62,21 +76,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Amorphinopsis excavans](http://142.103.81.136/summary/Amorphinopsis-excavans.html)* on SeaLife Base: technical fact sheet.
-- *[Amorphinopsis excavans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=178562)* on the World Porifera Database.
-
-**References**
-
-- Swee-Cheng
-  Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
-  sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
-  22: 41-68, 30 Dec 2009 Pp. 41-58.
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

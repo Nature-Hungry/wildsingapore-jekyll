@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae
  This whelk with a white body speckled black is sometimes
 seen on our Southern shores. It is also known as *Nassarius limnaeformis*.  
   
-**Features:** About 2.5cm. Shell thick conical smooth. Shell pattern varies from plain brown to spiralling chevron band and/or fine red lines. Body white with black
+## Features
+ About 2.5cm. Shell thick conical smooth. Shell pattern varies from plain brown to spiralling chevron band and/or fine red lines. Body white with black
 speckles, very long siphon and short tentacles. Operculum orange.
  
 

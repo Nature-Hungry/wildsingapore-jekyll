@@ -32,13 +32,28 @@ page_images:
   caption: |
     <p>Changi, May 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+links_references: |
+  **Links**  
+  - [*Stichodactyla
+    tapetum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=tapetum&subspecies=&synseniorid=106) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Stichodactyla
+    tapetum*](http://www.sealifebase.org/summary/Stichodactyla-tapetum.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail
+    Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
+    Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
 ---
 
 ## Where seen?
  This tiny anemone is more commonly seen in our Northern shores such
 as Chek Jawa and Changi. Usually among seagrasses.  
   
-**Features:**  Oral disk 2-6cm in
+## Features
+  Oral disk 2-6cm in
 diameter. The tentacles are very short and look more like bumps. The
 tentacles are not so tightly packed together and especially in the
 centre, are neatly arranged into wedge-shaped groups, resembling the
@@ -73,22 +88,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Stichodactyla
-  tapetum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=tapetum&subspecies=&synseniorid=106) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Stichodactyla
-  tapetum*](http://www.sealifebase.org/summary/Stichodactyla-tapetum.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail
-  Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
-  Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
 
 [links](../../links.htm)
 | [references](../../references.htm)

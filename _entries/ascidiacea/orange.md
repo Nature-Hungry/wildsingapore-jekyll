@@ -53,6 +53,9 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg
+links_references: |
+  **Links**
+  - [*Botryllus* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000211) and [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 ---
 
 ## Where seen?
@@ -60,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833
 bright orange blobs are sometimes seen on coral rubble and other hard
 surfaces on our Northern shores. Usually near the mid-water mark.  
   
-**Features:** 5-10cm. Irregular blobs
+## Features
+ 5-10cm. Irregular blobs
 forming on coral rubble and big boulders. Usually bright orange. Out
 of water, this colonial ascidian appear as slimy layers. When submerged
 in water, it may expand into lobes or 'fingers' or mounds. Individual
@@ -115,9 +119,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [*Botryllus* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000211) and [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
 [links](../links)
 | [references](../references)

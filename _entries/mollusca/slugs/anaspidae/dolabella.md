@@ -58,12 +58,23 @@ page_images:
   caption: |
     <p>Pulau Semakau, Oct 09Video shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4036654188">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Dolabella auricularia](http://www.seaslugforum.net/find/dolaauri)* and [purple
+    ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This very large sea hare is sometimes seen on our Southern shores on in reefy areas well camouflaged among Sargassum seaweeds. Elsewhere found in sheltered lagoons, seagrass beds, sand or mud, and large intertidal rockpools.  
   
-**Features:** 20-25cm. An enormous sea hare that is sometimes mistaken for a cuttlefish! It is covered in short spikes and well camouflaged. Unlike other sea hares, it doesn't have two obvious flaps at the top of the body. The back side is a sloping disk-like shield with one large siphon in the middle - where the animal exhales and where purple ink is discharged. Buried in the tissue of this "back shield" is a large flattened, heavily calcified shell. In the midline, in front of the shield is a smaller groove housing the inhalant siphon which draws water in to the almost totally enclosed mantle cavity. It has a small head with really tiny rhinophores. Said to be variable in colour, usually mottled shades of green and brown which make it extremely well camouflaged. The foot is smooth and paler. Like some other sea hares, it produces a
+## Features
+ 20-25cm. An enormous sea hare that is sometimes mistaken for a cuttlefish! It is covered in short spikes and well camouflaged. Unlike other sea hares, it doesn't have two obvious flaps at the top of the body. The back side is a sloping disk-like shield with one large siphon in the middle - where the animal exhales and where purple ink is discharged. Buried in the tissue of this "back shield" is a large flattened, heavily calcified shell. In the midline, in front of the shield is a smaller groove housing the inhalant siphon which draws water in to the almost totally enclosed mantle cavity. It has a small head with really tiny rhinophores. Said to be variable in colour, usually mottled shades of green and brown which make it extremely well camouflaged. The foot is smooth and paler. Like some other sea hares, it produces a
 purple ink when disturbed.  
   
 **What does it eat?** It is apparently not fussy and will eat a variety of seaweeds: brown, red and green.
@@ -88,18 +99,7 @@ purple ink when disturbed.
 
 ---
 
-**Links**
 
-- [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Dolabella auricularia](http://www.seaslugforum.net/find/dolaauri)* and [purple
-  ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

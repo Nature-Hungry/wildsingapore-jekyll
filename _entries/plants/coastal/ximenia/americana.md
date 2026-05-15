@@ -71,6 +71,20 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
+links_references: |
+  **Links**
+  - *[Ximenia
+    americana](http://floraofsingapore.wordpress.com/2010/06/20/ximenia-americana/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Ximenia
+    americana](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2562)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
 ## Where seen?
@@ -80,7 +94,8 @@ Hsuan Keng, they were found in Changi, Jurong, Pasir Panjang and Pulau
 Seletar. According to Giersen, these plants are found throughout the
 tropics. It is also known as Tallow-wood or Tallowwood.  
   
- **Features:** A shrub or small tree
+ ## Features
+ A shrub or small tree
 up to 2-4m tall. Bark greyish brown with red cork and rounded lenticels.
   
   
@@ -127,20 +142,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- *[Ximenia
-  americana](http://floraofsingapore.wordpress.com/2010/06/20/ximenia-americana/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Ximenia
-  americana](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2562)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
 
 **Other
 references**

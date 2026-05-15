@@ -100,7 +100,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slendersea
 on our Northern shores among seagrasses. Usually purplish. Maroon
 ones with tiny white spots are sometimes seen.  
   
-**Features:** Head about 2-3cm long,
+## Features
+ Head about 2-3cm long,
 arms may be 10-12cm long. Some are hardly bigger than a seagrass blade!
 The head is tapering, relatively smooth sometimes with tiny bumps.
 Arms slender tapering, webbing not very extensive. Generally shades

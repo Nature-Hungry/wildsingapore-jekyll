@@ -32,6 +32,11 @@ page_images:
   caption: |
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
+links_references: |
+  **Links**
+  - Various *Eudistoma* sp. in the [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  **References**
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 ---
 
 ## Where seen?
@@ -39,7 +44,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m
 coral rubble on our Southern shores. Larger patches of pink coloured
 blobs were also seen in the past on the jetty pilings of Chek Jawa.  
   
-**Features:** Clusters of a few irregular blobs about 1-2cm long usually
+## Features
+ Clusters of a few irregular blobs about 1-2cm long usually
 bright pink. Sometimes, much larger blobs 4-5cm are seen. Each blob
 appears to be made up of many individual zooids embedded in a common
 tissue.   
@@ -91,13 +97,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**  
 Grateful thanks to Rene Ong for pointing out the identification of these animals.
 
-**Links**
 
-- Various *Eudistoma* sp. in the [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-
-**References**
-
-- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 
 [links](../links)
 | [references](../references)

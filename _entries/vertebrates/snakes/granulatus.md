@@ -86,6 +86,48 @@ page_images:
   caption: |
     <p>Terumbu Semakau, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157528082573660&set=a.10157528078183660&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
+links_references: |
+  **Links**
+  - [Banded
+    File Snakes](http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake) on the [Singapore
+    Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
+    and other posts.
+  - [Mangrove
+    snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
+    Singapore Science Centre. 168 pp.
+  - [Banded
+    File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile) on
+    Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+  - [*Acrochordus
+    granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatusl)
+    (Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011
+    from taxo2454.
+  - [*Acrochordus
+    granulatus*](http://www.iucnredlist.org/details/176769/0) on the IUCN Red List.
+  **References**
+  - Tan Heok Hui & Kelvin K. P. Lim (fish). 30 Jun 2017. *Banded file snake hunting and eating a goby*. Singapore Biodiversity Records 2017: 84-86.
+  - Jeffery Teo & Max Khoo De Yuan. 30 Dec 2016. *Smooth-coated otter interacting with banded file snake*. Singapore Biodiversity Records 2017: 182-184.
+  - David Groenewoud. 20 Mar 2015. *Banded file snake at Sembawang beach*. Singapore Biodiversity Records 2015: 40
+  - Law Ing Sind. 1 August 014. *Banded file snakes at Pasir Ris mangroves, Acrochordus granulatus*. Singapore Biodiversity Records 2014: 211
+  - Noel Thomas, Gina Barnett & Anders Zimny. 18 July 014. *Banded file snake at Pasir Ris mangroves, Acrochordus granulatus*. Singapore Biodiversity Records 2014: 191.
+  - Ng TH (2011) *A record of the banded file snake, Acrochordus granulatus (Reptilia: Squamata: Acrochordidae) in a freshwater habitat in Singapore*. Nature in Singapore, 4: 91–93.
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
 ---
 
 ## Where seen?
@@ -97,7 +139,8 @@ found out of water, hidden in [mudlobster
 mounds](../../crustacea/othercrust/lobster/thalassina). A nocturnal snake, it is usually seen in the late evening
 or early morning. It is widely distributed from India to Southeast
 Asia to southern China and northern Australia. It was previously known
-as *Chersydrus granulatus*. **Features:** To about 1m, but usually
+as *Chersydrus granulatus*. ## Features
+ To about 1m, but usually
 shorter. Body cylindrical, banded with black or brown bands on white
 or beige. The bands are broad on the top of the snake but narrows
 at the sides. It does not have a distinct 'neck', the head is small
@@ -223,48 +266,3 @@ javanicus
 \*Acrochordus granulatus*
 
 ---
-
-**Links**
-
-- [Banded
-  File Snakes](http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake) on the [Singapore
-  Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
-  and other posts.
-- [Mangrove
-  snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
-  Singapore Science Centre. 168 pp.
-- [Banded
-  File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile) on
-  Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
-- [*Acrochordus
-  granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatusl)
-  (Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011
-  from taxo2454.
-- [*Acrochordus
-  granulatus*](http://www.iucnredlist.org/details/176769/0) on the IUCN Red List.
-
-**References**
-
-- Tan Heok Hui & Kelvin K. P. Lim (fish). 30 Jun 2017. *Banded file snake hunting and eating a goby*. Singapore Biodiversity Records 2017: 84-86.
-- Jeffery Teo & Max Khoo De Yuan. 30 Dec 2016. *Smooth-coated otter interacting with banded file snake*. Singapore Biodiversity Records 2017: 182-184.
-- David Groenewoud. 20 Mar 2015. *Banded file snake at Sembawang beach*. Singapore Biodiversity Records 2015: 40
-- Law Ing Sind. 1 August 014. *Banded file snakes at Pasir Ris mangroves, Acrochordus granulatus*. Singapore Biodiversity Records 2014: 211
-- Noel Thomas, Gina Barnett & Anders Zimny. 18 July 014. *Banded file snake at Pasir Ris mangroves, Acrochordus granulatus*. Singapore Biodiversity Records 2014: 191.
-- Ng TH (2011) *A record of the banded file snake, Acrochordus granulatus (Reptilia: Squamata: Acrochordidae) in a freshwater habitat in Singapore*. Nature in Singapore, 4: 91–93.
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.

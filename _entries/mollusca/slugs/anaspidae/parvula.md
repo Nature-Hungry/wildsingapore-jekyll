@@ -32,12 +32,37 @@ page_images:
   caption: |
     <p>Large foramen ringed in black.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Aplysia
+    parvula](http://www.seaslugforum.net/factsheet/aplyparv)*
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Aplysia parvula](http://slugsite.us/bow/nudwk323.htm)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
  This small, well camouflaged sea hare is seldom spotted.  
   
-**Features:** About 5cm. A long thin
+## Features
+ About 5cm. A long thin
 body with a pair of small 'wings' in the middle and long oral tentacles
 and rhinophores. The hole between the wings (called the foramen) is
 large in this sea hare and is usually ringed in black. In other sea
@@ -79,32 +104,7 @@ Island, Feb 10
 
 ---
 
-**Links**
 
-- [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Aplysia
-  parvula](http://www.seaslugforum.net/factsheet/aplyparv)*
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Aplysia parvula](http://slugsite.us/bow/nudwk323.htm)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

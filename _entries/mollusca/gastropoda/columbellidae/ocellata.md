@@ -42,6 +42,28 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/4160163645/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
+links_references: |
+  **Links**
+  - [Pigeon
+    or Dove Shell (*Pyrene*)](http://mangrove.nus.edu.sg/pub/seashore/text/147.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Pictocolumbella
+    ocellata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102109)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -50,7 +72,8 @@ often seen in small groups on many of our Southern rocky shores. They
 may be found on top and under stones. It was formerly known as *Pyrene
 fulgurans*.   
   
-**Features:** 1.5-2cm. Shell thick,
+## Features
+ 1.5-2cm. Shell thick,
 black with white or yellow zig-zag stripes. Sometimes
 orange or red ones can be seen among the black ones. The lip of the narrow shell
 opening is thickened and is often purplish on the inner side. The
@@ -85,30 +108,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Pigeon
-  or Dove Shell (*Pyrene*)](http://mangrove.nus.edu.sg/pub/seashore/text/147.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Pictocolumbella
-  ocellata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102109)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

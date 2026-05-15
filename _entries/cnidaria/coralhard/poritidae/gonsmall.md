@@ -98,7 +98,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/go
 seen on many of of our shores, including some Northern shores. More
 commonly seen on our Southern shores.  
   
-**Features:** Colonies 10-15cm, small
+## Features
+ Colonies 10-15cm, small
 low dome-shaped or encrusting. The corallites are tiny (0.2cm) circular
 or polygonal, packed close to one another. Polyps tiny (0.5-1cm) with
 relatively medium length body column. Polyps can retract completely

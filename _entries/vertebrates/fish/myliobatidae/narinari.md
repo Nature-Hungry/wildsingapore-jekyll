@@ -59,6 +59,27 @@ page_images:
     <p>Periplus Editions.</p>
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+links_references: |
+  **Links**  
+  - [Family
+    Myliobatidae](http://www.fishbase.org/summary/FamilySummary.php?ID=22) and *[Aetobatus
+    narinari](http://www.fishbase.org/summary/1250)*[(Spotted eagle ray)](http://www.fishbase.org/summary/1250) and *[Aetomylaeus
+    nichofii](http://www.fishbase.org/summary/10120)*[(Banded eagle ray)](http://www.fishbase.org/summary/10120) and [*Aetomylaeus
+    maculatus* (Mottled eagle ray)](http://www.fishbase.org/summary/12594) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheets.
+  - [Spotted
+    eagle rays (*Aetobatus narinari*)](http://www.iucnredlist.org/apps/redlist/details/39415/0) on the IUCN Red List of Threatened Species website: fact sheet
+    with lots of details
+  - Rare sighting of 5 eagle rays casually swimming by Labrador Park, [Mothership](https://mothership.sg/2020/11/eagle-rays-labrador-park/), 7 Nov 2020.
+  - Two eagle rays were seen while diving Pulau Jong and St. John's Island on 25 Nov 2020 on [wild shores of singapore](https://wildshores.blogspot.com/2020/12/mega-fauna-sightings-sep-nov.html).
+  **References**
+  - Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020. *Spotted eagle rays (Aetobatus ocellatus) at Sentosa*. Singapore Biodiversity Records 2020: 209. The National University of Singapore.
+  - Ria Tan and Kelvin K. P. Lim. 18 Jul 2014. *White-spotted eagle ray at Tanah Merah*. Singapore Biodiversity Records 2014: 189 ISSN 2345-7597, The National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
 ---
 
 ## Where seen?
@@ -76,7 +97,8 @@ large platelike crushing teeth in several rows. The tail is much longer
 than disc; venomous spine(s) are found in some species. They have
 a small dorsal fin. Some are known for their leaping ability high
 into the air. These fishes bear live young (viviparous) giving birth
-to 2-6 fully developed young. **Features:** Grows to about 3m wide, 8m long with the tail,
+to 2-6 fully developed young. ## Features
+ Grows to about 3m wide, 8m long with the tail,
 weighing up to 230kgs. But more commonly about half that. One White-spotted eagle ray seen at Tanah Merah was about 60cm wide with a tail about three times longer. Triangular
 'wings', upper body dark with spots evenly distributed over the body
 (no pattern of bands). In some, the spots are eye-shaped. The underside
@@ -136,29 +158,7 @@ ray)
 
 ---
 
-**Links**  
 
-- [Family
-  Myliobatidae](http://www.fishbase.org/summary/FamilySummary.php?ID=22) and *[Aetobatus
-  narinari](http://www.fishbase.org/summary/1250)*[(Spotted eagle ray)](http://www.fishbase.org/summary/1250) and *[Aetomylaeus
-  nichofii](http://www.fishbase.org/summary/10120)*[(Banded eagle ray)](http://www.fishbase.org/summary/10120) and [*Aetomylaeus
-  maculatus* (Mottled eagle ray)](http://www.fishbase.org/summary/12594) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheets.
-- [Spotted
-  eagle rays (*Aetobatus narinari*)](http://www.iucnredlist.org/apps/redlist/details/39415/0) on the IUCN Red List of Threatened Species website: fact sheet
-  with lots of details
-- Rare sighting of 5 eagle rays casually swimming by Labrador Park, [Mothership](https://mothership.sg/2020/11/eagle-rays-labrador-park/), 7 Nov 2020.
-- Two eagle rays were seen while diving Pulau Jong and St. John's Island on 25 Nov 2020 on [wild shores of singapore](https://wildshores.blogspot.com/2020/12/mega-fauna-sightings-sep-nov.html).
-
-**References**
-
-- Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020. *Spotted eagle rays (Aetobatus ocellatus) at Sentosa*. Singapore Biodiversity Records 2020: 209. The National University of Singapore.
-- Ria Tan and Kelvin K. P. Lim. 18 Jul 2014. *White-spotted eagle ray at Tanah Merah*. Singapore Biodiversity Records 2014: 189 ISSN 2345-7597, The National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

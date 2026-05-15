@@ -117,7 +117,8 @@ corals. Larger ones are also sometimes seen. Elsewhere, they are found
 in silty lagoons, coastal reefs near coral outcrops and seagrass beds,
 near clear mangrove coasts among rubble.  
   
-**Features:** To about 11cm, those
+## Features
+ To about 11cm, those
 seen much smaller, about 4-6cm long. Small ones with 4 thick yellow
 bars and 5 thick black bars across the body. Juveniles are rather
 nervous and dart about quickly, making sudden changes in direction.

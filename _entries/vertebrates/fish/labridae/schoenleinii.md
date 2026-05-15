@@ -46,6 +46,36 @@ page_images:
     <p>Juvenile?</p>
     <p>Terumbu Semakau, Aug 17Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10155614374353119.1073741947.696593118&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
+links_references: |
+  **Links**  
+  - [Black-spot
+    Tuskfish (*Choerodon schoenleinii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [*Choerodon
+    schoenleinii*](http://www.iucnredlist.org/details/44669/0) on the IUCN Red List.
+  - [Black-spot
+    Tuskfish (*Choerodon schoenleinii*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=6433) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -53,7 +83,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoe
 shores. Usually
 found alone in sandy areas and those with seaweeds.  
   
- **Features:** To about 90cm and can
+ ## Features
+ To about 90cm and can
 weigh 9kgs! Those seen about 20cm long. It has a black spot
 at the middle of the dorsal fin base. Juveniles have a large white
 saddle spot after the black spot. Body scales each with a blue centre
@@ -92,38 +123,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Black-spot
-  Tuskfish (*Choerodon schoenleinii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [*Choerodon
-  schoenleinii*](http://www.iucnredlist.org/details/44669/0) on the IUCN Red List.
-- [Black-spot
-  Tuskfish (*Choerodon schoenleinii*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=6433) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

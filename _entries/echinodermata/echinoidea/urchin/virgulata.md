@@ -73,10 +73,20 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6119786227/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+links_references: |
+   **Links**
+  - [Banded
+    urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *A Guide to Seashore Life*. The Singapore
+    Science Centre, Singapore. 160 pp.
+  - [*Salmacis
+    virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulatal) on SeaLife Base: Technical fact sheet.
+  - P. Satheeshkumar, [First Record of Regular Sea Urchin *Salmacis virgulata* (L. Agassiz and Desor 1846) from the Pondicherry Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf) World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011
 ---
 
 ## Where seen?
- This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number. **Features:** Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm) uniformly maroon (not banded), except for those around the mouth (on the underside). Spines
+ This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number. ## Features
+ Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm) uniformly maroon (not banded), except for those around the mouth (on the underside). Spines
 on the upper side are short, slender and sharp. Spines on the sides and underside are longer, thicker and have flattened tips. Spines around the mouth may be banded white and maroon. Long white tube feet.  
  
 
@@ -118,15 +128,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowlegment**  
 Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.  
- **Links**
-
-- [Banded
-  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *A Guide to Seashore Life*. The Singapore
-  Science Centre, Singapore. 160 pp.
-- [*Salmacis
-  virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulatal) on SeaLife Base: Technical fact sheet.
-- P. Satheeshkumar, [First Record of Regular Sea Urchin *Salmacis virgulata* (L. Agassiz and Desor 1846) from the Pondicherry Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf) World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011
 
 [links](../../../links)
 | [references](../../../references)

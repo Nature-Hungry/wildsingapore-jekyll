@@ -45,13 +45,33 @@ page_images:
   caption: |
     <p>Marina East, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955899723593435&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
+links_references: |
+  **Links**
+  - [Red
+    berry snail (*Sphaerassiminea miniata*)](http://mangrove.nus.edu.sg/guidebooks/text/2083.htm) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Red
+    mangrove shell (*Assiminaea brevicula*)](http://mangrove.nus.edu.sg/pub/seashore/text/152.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *New Singapore record of the assiminid snail, Assiminea woodmasoniana*, 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 11-12 ISSN 2345-7597, National University of Singapore.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 27 March 2020. *Confirmation of the occurrence of the Shiny assiminid snail, Assiminea nitida, in Singapore*. Singapore Biodiversity Records 2020: 34-36 ISSN 2345-7597
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This tiny bright red round snail is commonly seen
 in groups on the surface of the mud in some of our back mangroves.  
   
-**Features:** 0.5-0.8cm. Shell thin,
+## Features
+ 0.5-0.8cm. Shell thin,
 smooth and spherical. Colour bright red, sometimes black. Operculum
 thin. The body is red too, with tiny eyes on short stumpy stalks.
 It breathes air through a lung (instead of through gills like most
@@ -115,27 +135,7 @@ Cyclotropis scalaris*
 
 ---
 
-**Links**
 
-- [Red
-  berry snail (*Sphaerassiminea miniata*)](http://mangrove.nus.edu.sg/guidebooks/text/2083.htm) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Red
-  mangrove shell (*Assiminaea brevicula*)](http://mangrove.nus.edu.sg/pub/seashore/text/152.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *New Singapore record of the assiminid snail, Assiminea woodmasoniana*, 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 11-12 ISSN 2345-7597, National University of Singapore.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 27 March 2020. *Confirmation of the occurrence of the Shiny assiminid snail, Assiminea nitida, in Singapore*. Singapore Biodiversity Records 2020: 34-36 ISSN 2345-7597
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -67,6 +67,35 @@ page_images:
     <p>May have stilt roots as well as pencil-like pneumatophores.</p>
     <p>Kranji Canal, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
+links_references: |
+  **Links**
+  - [Api-api
+    putih (*Avicennia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - [*Avicennia
+    alba*](http://floraofsingapore.wordpress.com/2010/04/08/avicennia-alba/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Avicennia
+    alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263) on NParks Flora and Fauna website: photos and fact
+    sheet.
+  - [*Avicennia alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Avicennia%20albal) (Lamiales: Avicenniaceae) Api-Api Putih by Tay Ying Ling Jessica, 2014, on taxo4254.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
 ---
 
 ## Where seen?
@@ -77,7 +106,8 @@ wind. It is usually found on newly formed mudbanks on the seaward
 side or along and near rivers. It is considered a pioneering species
 of sheltered shores.   
   
-**Features:** Shrub or tree up to
+## Features
+ Shrub or tree up to
 10-20m tall. Bark somewhat brown, may be smooth or slightly rough
 but not fissured. Pneumatophores pencil-like - thin cylindrical with
 rounded tip, not very tall (about 20cm). May have stilt roots emerging
@@ -137,37 +167,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Api-api
-  putih (*Avicennia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- [*Avicennia
-  alba*](http://floraofsingapore.wordpress.com/2010/04/08/avicennia-alba/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Avicennia
-  alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263) on NParks Flora and Fauna website: photos and fact
-  sheet.
-- [*Avicennia alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Avicennia%20albal) (Lamiales: Avicenniaceae) Api-Api Putih by Tay Ying Ling Jessica, 2014, on taxo4254.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

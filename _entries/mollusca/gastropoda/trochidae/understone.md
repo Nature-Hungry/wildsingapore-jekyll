@@ -86,7 +86,8 @@ tiny snail is often seen in small groups under stones on some of our
 shores. They
 were previously placed in [Family Trochidae](trochidae.htm).  
   
-**Features:** 1-1.5cm.
+## Features
+ 1-1.5cm.
 Shell globular with fine ribs and fine hairs. Shell opening has shiny
 mother of pearl and is ribbed. Colours black, greyish, dark red or
 orange. Operculum thin, made of a horn-like material, yellow or orange. Body

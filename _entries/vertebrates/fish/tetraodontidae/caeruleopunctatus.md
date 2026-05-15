@@ -26,10 +26,19 @@ page_images:
     <p>Dead fish washed ashore during mass fish death.</p>
     <p>Pasir Ris Park, Mar 15Photo by Sean Yap from Singapore Biodiversity Records 2015: 47</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+links_references: |
+  **Links**  
+  - [Blue-spotted puffer (*Arothron
+    caeruleopunctatus*)](https://www.fishbase.se/summary/13051) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  - Sean Yap and Sankar Ananthanarayanan. 3 Apr 2015. *New record of blue-spotted pufferfish (Arothron caeruleopunctatus) in Singapore*. Singapore Biodiversity Records 2015: 47
 ---
 
 ## Where seen?
- One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994. **Features:**  To
+ One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994. ## Features
+  To
 about 80cm. Yellowish brown on its back and sides, white on the belly, with blue stripes circling the eyes, and numerous small dark-edged blue spots all over the head, body and median fins. A black patch with white spots at the base of its pectoral fin.
  
 
@@ -43,16 +52,7 @@ about 80cm. Yellowish brown on its back and sides, white on the belly, with blue
 
 ---
 
-**Links**  
 
-- [Blue-spotted puffer (*Arothron
-  caeruleopunctatus*)](https://www.fishbase.se/summary/13051) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
-- Sean Yap and Sankar Ananthanarayanan. 3 Apr 2015. *New record of blue-spotted pufferfish (Arothron caeruleopunctatus) in Singapore*. Singapore Biodiversity Records 2015: 47
 
 [links](../../../links)
 | [references](../../../references)

@@ -66,6 +66,12 @@ page_images:
     <p>Sometimes one large 'tooth' at outer lip.</p>
     <p>No large 'tooth' at outer lip.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+links_references: |
+  **Links**
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
 ---
 
 These snails
@@ -96,12 +102,6 @@ nerite snail](histrio.htm)**
 
 ---
 
-**Links**
-
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

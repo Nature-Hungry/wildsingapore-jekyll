@@ -40,6 +40,20 @@ page_images:
   caption: |
     <p>Changi, Jul 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+links_references: |
+  **Links**
+  - [Flower
+    moon crab (*Matuta planipes*)](http://sealifebase.org/Summary/SpeciesSummary.php?id=83540) on [SeaLifeBase](http://sealifebase.org/):
+    technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -49,7 +63,8 @@ at night and is rarely seen by daytime visitors as they are then often
 buried in the sediments. 'Planipes' in Latin means 'actor who wears
 no shoes'.  
   
-**Features:** Body width 5-8cm. Body rather circular, with a pair of
+## Features
+ Body width 5-8cm. Body rather circular, with a pair of
 long spikes on the sides. Does not have bumps on the middle of the
 body. Colours beige to yellow with little maroon dots forming a net-like
 pattern with white spaces. Pincers short, sturdy, held against the
@@ -74,22 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Flower
-  moon crab (*Matuta planipes*)](http://sealifebase.org/Summary/SpeciesSummary.php?id=83540) on [SeaLifeBase](http://sealifebase.org/):
-  technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

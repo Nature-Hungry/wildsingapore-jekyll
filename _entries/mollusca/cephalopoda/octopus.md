@@ -114,6 +114,86 @@ page_images:
   caption: |
     <p>Pulau Tekukor, Nov 20Photo shares by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764485998158&set=a.10158764488663158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [The
+    Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
+    and the University of Texas Medical Branch website: everything
+    you could possibly want to know about cephalopods. Lots of info,
+    photos, articles and links to cephalopods. Lots of fabulous photos,
+    a delightful and exhaustive FAQ, and lots of cool articles for
+    the laymen, as well as lesson plans.
+  - [What
+    is the defense mechanism an octopus uses to spray its ink called?](http://www.madsci.org/posts/archives/dec2000/976583396.Zo.r.html)
+    on the [Mad Scientist](http://www.madsci.org/) website:
+    Allison J. Gong explains more about this behaviour
+  - [How
+    do octopuses know what colour to be?](http://www.madsci.org/posts/archives/jan2000/949243619.Zo.r.html) on the [Mad
+    Scientist](http://www.madsci.org/) website: Rochelle Ferris explains
+  - [Why
+    do octopus die after mating?](http://www.madsci.org/posts/archives/sep99/936404744.Zo.r.html) on the [Mad
+    Scientist](http://www.madsci.org/) website: Trevor Cotton explains why this makes sense
+  - [How
+    does an octopus change its skin colour?](http://www.madsci.org/posts/archives/nov99/942750683.Zo.r.html) on the [Mad
+    Scientist](http://www.madsci.org/) website: Kimberley Sander explains how this can
+    be done quickly by an octopus, while other animals take longer
+    to do so.
+  - From the
+    wild shores of singapore blog
+    - [Robo-octopus:
+      under construction](http://wildshores.blogspot.com/2009/03/robo-octopus-under-construction.html)
+    - [Octopuses
+      "tens of millions of years" older](http://wildshores.blogspot.com/2009/03/octopuses-tens-of-millions-of-years.html)
+    - [Octopus
+      in a box](http://wildshores.blogspot.com/2009/03/octopus-in-box.html)
+    - [Octopus
+      floods aquarium in escape bid](http://wildshores.blogspot.com/2009/03/octopus-floods-aquarium-in-escape-bid.html)
+    - [Wild
+      release: octopus returned to the wild for love](http://wildshores.blogspot.com/2009/02/wild-release-octopus-returned-to-wild.html)
+    - [Deep
+      sea octopus secrets](http://wildshores.blogspot.com/2008/11/deep-sea-octopus-secrets-and-more-from.html)
+    - [Hermit
+      crab juggling and other things bored octopuses do](http://wildshores.blogspot.com/2008/11/hermit-crab-juggling-and-other-things.html)
+    - [Cocopod:
+      when octopus meets coconut](http://wildshores.blogspot.com/2009/12/cocopod-when-octopus-meets-coconut.html)
+  **References**
+  - Diah Anggraini Saraswati, Carsten V. Steffensen & Zeehan Jaafar. 5 December 2014. *New record of mimic octopus in Singapore, Thaumoctopus mimicus*. Singapore Biodiversity Records 2014: 318
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
+    A World Guide*.
+    ConchBooks, Germany. 319 pp
+  - Norman,
+    Mark and Amanda Reid. 2000. *A
+    Guide to Squid, Cuttlefish and Octopuses of Australasia*
+    The Gould League of Australia. 96pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -284,88 +364,7 @@ Octopus vulgaris* (Common octopus)
 
 ---
 
-**Links**
 
-- [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [The
-  Cephalopod Page](http://www.thecephalopodpage.org/) by Dr James B Wood on the Dalhousie University
-  and the University of Texas Medical Branch website: everything
-  you could possibly want to know about cephalopods. Lots of info,
-  photos, articles and links to cephalopods. Lots of fabulous photos,
-  a delightful and exhaustive FAQ, and lots of cool articles for
-  the laymen, as well as lesson plans.
-- [What
-  is the defense mechanism an octopus uses to spray its ink called?](http://www.madsci.org/posts/archives/dec2000/976583396.Zo.r.html)
-  on the [Mad Scientist](http://www.madsci.org/) website:
-  Allison J. Gong explains more about this behaviour
-- [How
-  do octopuses know what colour to be?](http://www.madsci.org/posts/archives/jan2000/949243619.Zo.r.html) on the [Mad
-  Scientist](http://www.madsci.org/) website: Rochelle Ferris explains
-- [Why
-  do octopus die after mating?](http://www.madsci.org/posts/archives/sep99/936404744.Zo.r.html) on the [Mad
-  Scientist](http://www.madsci.org/) website: Trevor Cotton explains why this makes sense
-- [How
-  does an octopus change its skin colour?](http://www.madsci.org/posts/archives/nov99/942750683.Zo.r.html) on the [Mad
-  Scientist](http://www.madsci.org/) website: Kimberley Sander explains how this can
-  be done quickly by an octopus, while other animals take longer
-  to do so.
-- From the
-  wild shores of singapore blog
-  - [Robo-octopus:
-    under construction](http://wildshores.blogspot.com/2009/03/robo-octopus-under-construction.html)
-  - [Octopuses
-    "tens of millions of years" older](http://wildshores.blogspot.com/2009/03/octopuses-tens-of-millions-of-years.html)
-  - [Octopus
-    in a box](http://wildshores.blogspot.com/2009/03/octopus-in-box.html)
-  - [Octopus
-    floods aquarium in escape bid](http://wildshores.blogspot.com/2009/03/octopus-floods-aquarium-in-escape-bid.html)
-  - [Wild
-    release: octopus returned to the wild for love](http://wildshores.blogspot.com/2009/02/wild-release-octopus-returned-to-wild.html)
-  - [Deep
-    sea octopus secrets](http://wildshores.blogspot.com/2008/11/deep-sea-octopus-secrets-and-more-from.html)
-  - [Hermit
-    crab juggling and other things bored octopuses do](http://wildshores.blogspot.com/2008/11/hermit-crab-juggling-and-other-things.html)
-  - [Cocopod:
-    when octopus meets coconut](http://wildshores.blogspot.com/2009/12/cocopod-when-octopus-meets-coconut.html)
-
-**References**
-
-- Diah Anggraini Saraswati, Carsten V. Steffensen & Zeehan Jaafar. 5 December 2014. *New record of mimic octopus in Singapore, Thaumoctopus mimicus*. Singapore Biodiversity Records 2014: 318
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp
-- Norman,
-  Mark and Amanda Reid. 2000. *A
-  Guide to Squid, Cuttlefish and Octopuses of Australasia*
-  The Gould League of Australia. 96pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -75,7 +75,8 @@ natural cliffs at Lazarus Island. According to Corners, it was found
 in lowland forests, along rivers and seashores. According to Hsuan
 Keng, it was found in Bukit Timah.  
   
- **Features:** A strangling fig that
+ ## Features
+ A strangling fig that
 grows as a shrub. According to Corners, it is rarely large and "seldom
 standing without its host". Leaves stiff and leathery (7-27cm
 long), broad, oval with rounded or slightly pointed tip, base tapered

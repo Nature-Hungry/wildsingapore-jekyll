@@ -117,6 +117,18 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
+links_references: |
+  **Links**
+  - *[Pouteria
+    obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  **References**
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *[Growing
+    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
+    168pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -125,7 +137,8 @@ shores: natural cliffs, rocky and sandy shores as well as secondary
 forests. In the wild, it originally also grew in the back mangroves.
 It was previously known as *Planchonella obovata*.  
   
-**Features:** Small to medium-sized
+## Features
+ Small to medium-sized
 tree, to about 18m. Crown is conical and appears coppery. This is
 because the twigs, buds, leaf stalks and undersides of the young leaves
 are rusty brown and scrufy. Leaves (15-25cm) upward pointing and spaced
@@ -168,20 +181,7 @@ chest pains and poultices for lumbago.
 
 ---
 
-**Links**
 
-- *[Pouteria
-  obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[Growing
-  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-  168pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

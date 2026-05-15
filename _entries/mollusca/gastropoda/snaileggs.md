@@ -83,7 +83,8 @@ may die.
  Egg capsules and masses laid by shelled snails are seen on many of
 our shores. Often, these are laid on hard surfaces.  
   
-**Features:** Some snails lay egg
+## Features
+ Some snails lay egg
 capsules, little packages of several eggs. These are often attached
 to hard surfaces. Other snails may form other egg masses, such as
 the sand collar of the moon snail.

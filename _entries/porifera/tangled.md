@@ -42,11 +42,23 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
+links_references: |
+  **Links**
+  - [*Callyspongia
+    samarensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-samarensis.html) on SeaLife Base: technical fact sheet.
+  - [*Callyspongia
+    (Cladochalina) samarensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166225) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  Appearing like a bunch of tangles, this sponge is sometimes seen on
-our Southern shores. **Features:** 15-20cm
+our Southern shores. ## Features
+ 15-20cm
 long, 1cm in diameter. A clump 'stems' flatttened, slender (0.5cm),
 long and sparsely branched, often in a tangle. Small regular holes
 along the length. Colours bluish to olive green and yellowish green.
@@ -82,19 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Callyspongia
-  samarensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-samarensis.html) on SeaLife Base: technical fact sheet.
-- [*Callyspongia
-  (Cladochalina) samarensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166225) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

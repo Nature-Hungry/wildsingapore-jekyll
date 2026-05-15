@@ -49,6 +49,34 @@ page_images:
   caption: |
     <p>Changi, May 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/05/long-stretch-of-changi-shore-with-lotsl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
+links_references: |
+  **Links**
+  - [Marbled
+    Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Volume
+    6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00) by A. R. Rasmussen, edited by Kent E. Carpenter
+    and Volker H. Niem FAO Species Identification Guide for Fishery
+    Purposes: The Living Marine Resources of the Western Central Pacific
+    on the Food and Agriculture Organization of the United Nations
+    (FAO) website (pdf).
+  - [*Aipysurus
+    eydouxii*](http://www.iucnredlist.org/details/176757/0) on the IUCN Red List.
+  - [Injured Marbled
+    sea snake at Chek Jawa](http://wildshores.blogspot.sg/2015/08/injured-marbled-sea-snake-at-chek-jawal) on wild shores of singapore blog.
+  **References**
+  - Noel Thomas & Francis L. K. Lim. 7 February 2014. [Beaded
+    sea-snake (*Aipysurus eydouxii*) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Singapore%20Biodiversity/2014/sbr2014-038-039.pdf).
+    7 Feb 2014. Singapore Biodiversity Records 2014: 38-39.
+  - Ron K. H. Yeo. 21 February 2014. [Beaded
+    sea-snake (*Aipysurus eydouxii*) at Changi Beach](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-050.pdf).
+    Singapore Biodiversity Records 2014: 50
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
 ---
 
 ## Where seen?
@@ -58,7 +86,8 @@ was stranded there at low tide. It is considered uncommon and usually
 found in coastal areas and estuaries. It is also known as the Spine-tailed
 seasnake.  
   
-**Features:**About 1m long.
+## Features
+About 1m long.
 A fat cylindrical body, with large rounded scales. It is also called
 the Beaded sea snake and Olive sea snake. It has a small head with
 rather large eyes. Like other sea snakes, it has a flattened paddle-shaped
@@ -101,34 +130,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Marbled
-  Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Volume
-  6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00) by A. R. Rasmussen, edited by Kent E. Carpenter
-  and Volker H. Niem FAO Species Identification Guide for Fishery
-  Purposes: The Living Marine Resources of the Western Central Pacific
-  on the Food and Agriculture Organization of the United Nations
-  (FAO) website (pdf).
-- [*Aipysurus
-  eydouxii*](http://www.iucnredlist.org/details/176757/0) on the IUCN Red List.
-- [Injured Marbled
-  sea snake at Chek Jawa](http://wildshores.blogspot.sg/2015/08/injured-marbled-sea-snake-at-chek-jawal) on wild shores of singapore blog.
-
-**References**
-
-- Noel Thomas & Francis L. K. Lim. 7 February 2014. [Beaded
-  sea-snake (*Aipysurus eydouxii*) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Singapore%20Biodiversity/2014/sbr2014-038-039.pdf).
-  7 Feb 2014. Singapore Biodiversity Records 2014: 38-39.
-- Ron K. H. Yeo. 21 February 2014. [Beaded
-  sea-snake (*Aipysurus eydouxii*) at Changi Beach](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-050.pdf).
-  Singapore Biodiversity Records 2014: 50
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.

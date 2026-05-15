@@ -166,13 +166,27 @@ page_images:
     <p>With anemone shrimp.</p>
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719769650/">his flickr</a></p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Stichodactyla
+    mertensii*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=Mertensii&subspecies=&synseniorid=116&nameid=1243) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Stichodactyla
+    mertensii*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#merten) on
+    Fautin, Daphne G. and Gerald R. Allen, 1992. [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Stichodactyla
+    mertensii*](http://www.sealifebase.fisheries.ubc.ca/summary/Stichodactyla-mertensii.html) on SeaLife Base: technical fact sheet.
 ---
 
 ## Where seen?
  This enormous carpet anemone with short fat tentacles is sometimes
 seen on our undisturbed Southern shores.  
   
-**Features:**  Diameter to 1m or more.
+## Features
+  Diameter to 1m or more.
 The large oral disk covered with short tentacles so that it resembles
 a carpet. The oral disk is often held flat against the surface, unlike
 the [Giant carpet anemone](gigantea.htm) (*Stichodactyla
@@ -293,19 +307,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [*Stichodactyla
-  mertensii*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=Mertensii&subspecies=&synseniorid=116&nameid=1243) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Stichodactyla
-  mertensii*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#merten) on
-  Fautin, Daphne G. and Gerald R. Allen, 1992. [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Stichodactyla
-  mertensii*](http://www.sealifebase.fisheries.ubc.ca/summary/Stichodactyla-mertensii.html) on SeaLife Base: technical fact sheet.
 
 **Other
 references**

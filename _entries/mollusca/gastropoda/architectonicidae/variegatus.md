@@ -38,12 +38,28 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+links_references: |
+  **Links**
+  - [*Heliacus
+    variegatus*](http://www.sealifebase.fisheries.ubc.ca/summary/Heliacus-variegatus.html)
+    on SeaLife Base: technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
  ## Where seen?
   The snail with a unique operculum is sometimes seen on our Southern shores.  
   
-**Features:** Up to 2cm in diameter.
+## Features
+ Up to 2cm in diameter.
 Shell thick and coiled to form an overall conical shape. Coils have a beaded
 texture, colours usually alternating dark and light. The operculum is conical with regular grooves and resembles a drill! Body mottled with long tentacles.  
   
@@ -78,23 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 snail on [his
 flickr](http://www.flickr.com/photos/chimck/3340751579/).
 
-**Links**
 
-- [*Heliacus
-  variegatus*](http://www.sealifebase.fisheries.ubc.ca/summary/Heliacus-variegatus.html)
-  on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -46,6 +46,33 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species) on SeaLife Base: Technical factsheet.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
@@ -53,7 +80,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ci
 some of our Southern shores, lying unattached on shallow sandy or rubbly areas
 near living reefs.  
   
-**Features:** [Circular](circular.htm) *Fungia* species are more commonly seen, while some may be [elongtated or oval](oval.htm).
+## Features
+ [Circular](circular.htm) *Fungia* species are more commonly seen, while some may be [elongtated or oval](oval.htm).
 Species are only positively identified by the lines and teeth structures
 on the upper side, as well as the kind of surface on the underside.
 These features are often hidden by tissues in living specimens and
@@ -133,35 +161,7 @@ by Veron)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species) on SeaLife Base: Technical factsheet.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -83,6 +83,38 @@ page_images:
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Bursatella
+    leachii](http://www.seaslugforum.net/factsheet.cfm?base=bursleac)* and [purple
+    ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
+  **References**
+  - Tan Yong How Jonathan. 31 Mar 2016. *Congregation of hairy sea hares at Changi Point*. Singapore Biodiversity Records 2016: 46-47
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 if you
@@ -107,7 +139,8 @@ Or simply gathering around a good source of food?
 
 
 
-**Features:** 6-12cm. Body long, fleshy
+## Features
+ 6-12cm. Body long, fleshy
 with a short triangular tail which has white bars. It is covered with
 lots of flat branching finger-like projections. It has two pairs of
 tentacles, oral tentacles and rhinophores about the same size (you
@@ -170,40 +203,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Bursatella
-  leachii](http://www.seaslugforum.net/factsheet.cfm?base=bursleac)* and [purple
-  ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
-
-**References**
-
-- Tan Yong How Jonathan. 31 Mar 2016. *Congregation of hairy sea hares at Changi Point*. Singapore Biodiversity Records 2016: 46-47
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

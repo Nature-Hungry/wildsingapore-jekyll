@@ -57,6 +57,25 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
+links_references: |
+  **Links**
+  - *[Hypnea
+    pannosa](http://www.algaebase.org/search/species/detail/?species_id=2719)*
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
 ---
 
 ## Where seen?
@@ -64,7 +83,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/panno
 Dense balls of this seaweed is sometimes seen on some of our Southern
 shores, growing on coral rubble.  
   
-**Features:** Dense bushy balls about
+## Features
+ Dense bushy balls about
 6-8cm in diameter made up of very short cylindrical blades that branch
 thickly with tapering tips. Colours often blue or bluish, sometimes
 green. Usually in small clumps, but sometimes covering a larger area
@@ -115,27 +135,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Hypnea
-  pannosa](http://www.algaebase.org/search/species/detail/?species_id=2719)*
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
 
 [links](../../../links)
 | [references](../../../references)

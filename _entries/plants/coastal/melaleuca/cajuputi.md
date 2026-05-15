@@ -100,7 +100,8 @@ near the coasts." According to Hsuan Keng, Ridley observed that
 growing here". It was also found in Seletar. Also referred to
 as *M. leucadendron*.  
   
- **Features:** A tall tree (15-20m)
+ ## Features
+ A tall tree (15-20m)
 with a narrow, dense crown. Leaves (5-9cm long) dull green, thick,
 leathery smooth, oval or elongated with 5-7 longitudinal veins. The
 leaves resemble those of an *Acacia*. The leaves give off a typical

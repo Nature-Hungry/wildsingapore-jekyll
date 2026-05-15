@@ -38,7 +38,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vul
 shell opening appearing as a slit on the surface of the sponge. It
 was previously in [Family Malleidae](../malleidae/malleidae.htm) (Hammer oysters).  
   
-**Features:** Slit 1-2cm long, the
+## Features
+ Slit 1-2cm long, the
 clam is generally not seen outside a sponge in the wild. It has been
 seen in several kinds of sponges in Singapore.
 

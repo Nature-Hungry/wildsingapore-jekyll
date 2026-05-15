@@ -32,6 +32,12 @@ page_images:
     <p>Caught by a <a href="../arachnida/desis.htm">Marine spider</a>.</p>
     <p>Kusu Island, Apr 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
 ---
 
 ## Where seen?
@@ -39,7 +45,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m
 shores. On rocky shores near the mid- to high-water mark, and sandy areas nearby. Usually
 more active at night.  
   
-**Features:** Body about 1cm long.
+## Features
+ Body about 1cm long.
 A fat bodied insect with long back legs and very long antennae. Usually
 crawls slowly and only hops to escape
 predators. The [Marine spider](../arachnida/desis.htm) (*Desis martensi*) has been seen preying on these crickets.
@@ -60,12 +67,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Mangrove
-  cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
 
 [links](../links.htm)
 | [references](../references.htm)

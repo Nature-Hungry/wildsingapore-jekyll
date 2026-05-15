@@ -81,6 +81,40 @@ page_images:
   caption: |
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352607687/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Pleurobranchus
+    forskalii*](http://www.seaslugforum.net/factsheet.cfm?base=pleufors)
+  - [*Pleurobranchus
+    forskalii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Forskal%27s%20side-gilled%20slug%20%28Pleurobranchus%20forskalii%29.html)
+    (Pleurobranchomorpha: Pleurobranchidae) Forskal's side-gilled
+    slug by Woo Pui Min Henrietta, 2012 on taxo4254.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Colemanis Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -91,7 +125,8 @@ some times of the year. According to Dr Bill Rudman, it is often found
 in quite large populations in shallow lagoons, reef crests and pools
 and sea grass beds.  
   
-**Features:** 20-30cm. The large slug
+## Features
+ 20-30cm. The large slug
 has a body texture of flat polygonal bumps with faint white lines
 forming circles. Colour variable from black, dark maroon to lighter shades of
 brown and orange. It has a pair of tubular rhinophores on its head.
@@ -157,42 +192,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Pleurobranchus
-  forskalii*](http://www.seaslugforum.net/factsheet.cfm?base=pleufors)
-- [*Pleurobranchus
-  forskalii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Forskal%27s%20side-gilled%20slug%20%28Pleurobranchus%20forskalii%29.html)
-  (Pleurobranchomorpha: Pleurobranchidae) Forskal's side-gilled
-  slug by Woo Pui Min Henrietta, 2012 on taxo4254.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Colemanis Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -77,6 +77,43 @@ page_images:
   caption: |
     <p>East Coast Park, Jul 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158355544417906&set=a.10158355526527906&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
+links_references: |
+  **Links**
+  - [Melon
+    or Baler Shell (*Cymbium melo*)](http://mangrove.nus.edu.sg/pub/seashore/text/144.htm) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Melo
+    melo pearls](http://www.pearl-guide.com/melo-melo-pearls.shtml) at pearl.com: about the "pearls" that
+    form inside Bailer shells.
+  - [Indian
+    volute (*Melo melo*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87026) in SeaLife Base: Technical fact
+    sheet.
+  - Indian
+    volute (*Melo melo*) in the Gastropods section by J.M. Poutiers
+    in the FAO Species Identification Guide for Fishery Purposes:
+    The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Spencer Yau Jia Ming & Low Si Hui. 31 August 2020. *Baler volute at Changi Beach*. Singapore Biodiversity Records 2020:113-114 ISSN 2345-7597
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -93,7 +130,8 @@ seen on our Northern shores and is more common on undisturbed shores.
 It is usually found on muddy bottoms, near mangroves and seagrasses. It
 is also called the Indian volute.   
   
-**Features:** 15-20cm. Shell is rather thin and quite fragile for
+## Features
+ 15-20cm. Shell is rather thin and quite fragile for
 such a large snail. Colour beige to orange, sometimes with brown bands, others without any
 distinct markings. No operculum. Body huge fleshy, brown with white stripes, a
 large foot which is plain and pale on the underside. It has a pair
@@ -173,45 +211,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Melon
-  or Baler Shell (*Cymbium melo*)](http://mangrove.nus.edu.sg/pub/seashore/text/144.htm) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Melo
-  melo pearls](http://www.pearl-guide.com/melo-melo-pearls.shtml) at pearl.com: about the "pearls" that
-  form inside Bailer shells.
-- [Indian
-  volute (*Melo melo*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87026) in SeaLife Base: Technical fact
-  sheet.
-- Indian
-  volute (*Melo melo*) in the Gastropods section by J.M. Poutiers
-  in the FAO Species Identification Guide for Fishery Purposes:
-  The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Spencer Yau Jia Ming & Low Si Hui. 31 August 2020. *Baler volute at Changi Beach*. Singapore Biodiversity Records 2020:113-114 ISSN 2345-7597
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

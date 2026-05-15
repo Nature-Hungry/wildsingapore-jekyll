@@ -85,7 +85,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plag
 crab](../grapsidae/albolineatus) (*Grapsus albolineatus*) is sometimes seen on rocky shores in the North and South. Previously placed in [Family
 Grapsidae](../grapsidae/grapsidae).  
   
-**Features:** Body width 5-6cm. Body
+## Features
+ Body width 5-6cm. Body
 oval (not so circular), convex (not flat), covered with small bumps. Pincers short slender. Walking legs
 long fringed with short hairs, tipped with pointy claws. With these
 legs, the crab clings tightly so it doesn't get washed away in the

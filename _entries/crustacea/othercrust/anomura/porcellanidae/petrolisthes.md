@@ -69,6 +69,24 @@ page_images:
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.193758294008904.64196.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
+links_references: |
+  **Links**
+  - [Porcelain
+    Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Petrolisthes
+    hastatus](http://crust.biota.biodiv.tw/pages/3903)* and *[Petrolisthes
+    militaris](http://crust.biota.biodiv.tw/pages/3917)* and *[Petrolisthes
+    lamarckii](http://crust.biota.biodiv.tw/pages/3915)* on
+    BiotaTaiwanica: fact sheet and photos.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -77,7 +95,8 @@ on some of our rocky shores, hidden under stones. After having a look
 under a stone, be sure to replace the stone the way you found it.
 Do it carefully so you don't crush any living things.   
   
- **Features:** It's larger and more
+ ## Features
+ It's larger and more
 colourful than most porcelain crabs found under stones. Body width
 1-2cm. Body somewhat oval, not hairy. The pincers are much bigger
 than the body and have serrated edges. Antennae much longer than the
@@ -148,26 +167,7 @@ Petrolisthes teres*
 
 ---
 
-**Links**
 
-- [Porcelain
-  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Petrolisthes
-  hastatus](http://crust.biota.biodiv.tw/pages/3903)* and *[Petrolisthes
-  militaris](http://crust.biota.biodiv.tw/pages/3917)* and *[Petrolisthes
-  lamarckii](http://crust.biota.biodiv.tw/pages/3915)* on
-  BiotaTaiwanica: fact sheet and photos.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

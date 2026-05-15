@@ -91,6 +91,22 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
+links_references: |
+  **Links**
+  - [*Rhodomyrtus
+    tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *[Growing
+    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
+    168pp.
+  - Wee Yeow
+    Chin. 1992. *[A
+    Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
+    160pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -101,7 +117,8 @@ or sand banks by the rivers. As he puts it, "it delights in hot
 sandy places". In Singapore, it is commonly found in [adinandra
 belukar](../../others/adinandra/dumosa) and beach forest areas.  
   
-**Features:** Shrub about 3m tall.
+## Features
+ Shrub about 3m tall.
 The young parts are whitish and woolly. The leaves have three distinct
 parallel veins, oblong and white and woolly underneath, arranged opposite.
 The pretty pink flowers (3-4cm) fade to white and do not have a fragrance.
@@ -142,24 +159,7 @@ treat diarrhoea. In Indonesia, the leaves are used to treat wounds.
 
 ---
 
-**Links**
 
-- [*Rhodomyrtus
-  tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[Growing
-  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-  168pp.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

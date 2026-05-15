@@ -32,6 +32,46 @@ page_images:
   caption: |
     <p><a href="halbig">Big coin green seaweed</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+links_references: |
+  **Links**
+  - [Calcified
+    seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Halimeda*
+    spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda)
+    on the [Sea Slug Forum](http://www.seaslugforum.net/):
+    photo and description of the seaweed and the slugs that eat it.
+  - [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea:
+    The Life and Times of Labrador Beach*. Division of Biology,
+    School of Science, Nanyang Technological University & Department
+    of Zoology, the National University of Singapore. 160 pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore
+    Science Centre. 128 pages.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -42,7 +82,8 @@ on coral rubble or among living corals, as well as in sandy areas
 near reefs. Sometimes forming rather large 'thickets' covering an
 area of 40-50cm.  
   
-**Features:** An upright chain of
+## Features
+ An upright chain of
 joined up coin-like flattened segments. Each coin-like segment is
 hard as it is impregnated with calcium carbonate. These segments may
 be circular or other shapes, some are thick and flat, others thinner
@@ -111,48 +152,7 @@ Halimeda tuna*
 
 ---
 
-**Links**
 
-- [Calcified
-  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Halimeda*
-  spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda)
-  on the [Sea Slug Forum](http://www.seaslugforum.net/):
-  photo and description of the seaweed and the slugs that eat it.
-- [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea:
-  The Life and Times of Labrador Beach*. Division of Biology,
-  School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore
-  Science Centre. 128 pages.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

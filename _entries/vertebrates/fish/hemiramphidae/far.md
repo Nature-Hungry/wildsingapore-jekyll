@@ -41,6 +41,20 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
+links_references: |
+  **Links**
+  - [Black-barred
+    Halfbeak (*Hemiramphus far*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/238.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Black-barred
+    Halfbeak (*Hemiramphus far*)](http://fishbase.org.cn/Summary/SpeciesSummary.php?ID=5404&AT=Talos) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine
+    Resources of the Western Central Pacific.
 ---
 
 ## Where seen?
@@ -48,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/
 rather plump halfbeak with dark bars on the sides of its body
 is sometimes seen near reefs.  
   
-**Features:** Those seen about 20cm, can grow to 40cm long. Body long,
+## Features
+ Those seen about 20cm, can grow to 40cm long. Body long,
 cylindrical and plump. It has a forked tail, upper lobe of the tail
 is yellowish and shorter than the lower lobe. 3 to 9 short black
 bars on the side of the body. Lower jaw elongated but not very long
@@ -83,20 +98,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Black-barred
-  Halfbeak (*Hemiramphus far*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/238.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Black-barred
-  Halfbeak (*Hemiramphus far*)](http://fishbase.org.cn/Summary/SpeciesSummary.php?ID=5404&AT=Talos) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine
-  Resources of the Western Central Pacific.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

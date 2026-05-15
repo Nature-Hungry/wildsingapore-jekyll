@@ -57,7 +57,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031
 ## Where seen?
  This small flatworm is sometimes seen on some of our shores, on coral rubble near living reefs.  
   
-**Features:** 2-4cm long. Body light bluish-white to bluish (not solid blue and not white). One central line that is yellow with dark blue border. Has
+## Features
+ 2-4cm long. Body light bluish-white to bluish (not solid blue and not white). One central line that is yellow with dark blue border. Has
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   

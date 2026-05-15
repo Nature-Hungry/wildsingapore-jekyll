@@ -62,6 +62,22 @@ page_images:
   caption: |
     <p>Chek Jawa, Jan 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4262091226/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+links_references: |
+  **Links**  
+  - [*Scartelaos
+    histophorus*](http://www.mudskipper.it/SpeciesPages/hist.html) from [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
+    with lots of photos.
+  - [Walking
+    goby (*Scartelaos histophoru*)](http://fishbase.mnhn.fr/Summary/SpeciesSummary.php?id=7487) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Mudskippers
+    a-leaping at Chek Jawa](http://wildshores.blogspot.com/2009/12/mudskippers-leaping-at-chek-jawa.html) on the wild shores of singapore blog.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -74,7 +90,8 @@ bay shores. Also in estuarine areas, swamps, marshy areas and on tidal
 mud flats. It actively shuttles back and forth between rock pools
 and air.  
   
-**Features:** To about 14cm long,
+## Features
+ To about 14cm long,
 those seen about 7-10cm. Scales are tiny and partly embedded and thus
 not visible with the naked eye. The skin on the top of the head and
 on the back is full of blood vessels allowing the fish to respire
@@ -120,24 +137,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Scartelaos
-  histophorus*](http://www.mudskipper.it/SpeciesPages/hist.html) from [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
-  with lots of photos.
-- [Walking
-  goby (*Scartelaos histophoru*)](http://fishbase.mnhn.fr/Summary/SpeciesSummary.php?id=7487) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Mudskippers
-  a-leaping at Chek Jawa](http://wildshores.blogspot.com/2009/12/mudskippers-leaping-at-chek-jawa.html) on the wild shores of singapore blog.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

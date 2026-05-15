@@ -31,13 +31,33 @@ page_images:
   caption: |
     <p>Kusu Island, Feb 14Photo shared by Heng Pei Yan on <a href="http://peiyansesarma.blogspot.sg/2014/01/kusu-reef-reef-with-lion-city-viewl">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudobiceros
+    damawan*](http://polycladida.lifedesks.org/pages/3186) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
+    Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
+    Bulletin of Zoology vol 45.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
  Sometimes seen on remote reefs and also seen by divers
 on our reefs.  
   
-**Features:** 8-10cm long. Body mottled
+## Features
+ 8-10cm long. Body mottled
 grey and white background with tiny black spots. Thin black margin
 and wider orange margin crossed with white bars. The middle of the
 body usually raised with a light white stripe along the length. The
@@ -54,26 +74,4 @@ pair of pseudotentacles that are squarish and ruffled on the sides.
 ---
 
 **Acknowledgements**  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.  
-  
-**Links**
-
-- [*Pseudobiceros
-  damawan*](http://polycladida.lifedesks.org/pages/3186) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
-  Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
-  Bulletin of Zoology vol 45.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

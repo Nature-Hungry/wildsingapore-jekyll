@@ -78,6 +78,24 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
+links_references: |
+  **Links**  
+  - [Chequered
+    cardinalfish (*Apogon margaritophorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Chequered
+    Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish) on Ecology Asia: fact sheet with photos
+  - [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/) on Reef Fishes of Singapore by Jeffrey Low.
+  - [*Ostorhinchus
+    margaritophorus* (Red-striped cardinalfish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58156) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -86,7 +104,8 @@ on the Northern shores. Often seen in small groups, in pools among
 seagrasses and coral rubble. It was previously known as *Apogon
 margaritophorus*.  
   
-**Features:** Those seen about 3-4cm, grows to
+## Features
+ Those seen about 3-4cm, grows to
 about 5.5cm. Body slender. On the sides, white and reddish to
 brownish stripes. Between two stripes are narrow vertical lines that forms
 a window-like or chequered pattern - like a child's drawing of an airplane, with little squares for the windows.
@@ -147,26 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Chequered
-  cardinalfish (*Apogon margaritophorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Chequered
-  Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish) on Ecology Asia: fact sheet with photos
-- [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/) on Reef Fishes of Singapore by Jeffrey Low.
-- [*Ostorhinchus
-  margaritophorus* (Red-striped cardinalfish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58156) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

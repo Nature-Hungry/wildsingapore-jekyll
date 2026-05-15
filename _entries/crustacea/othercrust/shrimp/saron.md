@@ -83,7 +83,8 @@ well camouflaged on an encrusted surface. When it realises it has
 been spotted, it rapidly slinks away into a hiding place. It can also
 suddenly leap quite a distance away if alarmed.  
   
-**Features:** 4-5cm. Fat and short
+## Features
+ 4-5cm. Fat and short
 with a hump-back. Some have very hairy front legs. These shrimps come
 a swirl of various colours from brown, red, green to blue. It is also
 called the Marbled shrimp.

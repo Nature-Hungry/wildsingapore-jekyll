@@ -72,7 +72,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluit
 ## Where seen?
  This reddish crabs with a fuzzy growth is sometimes seen on good reefy shores in the South.  
   
-**Features:** Body width 3-5cm. Body
+## Features
+ Body width 3-5cm. Body
 oval, body and legs covered with sparse fuzz. Walking legs quite long, sparsely fuzzy. It has stout
 pincers, with black tips. Eyes bright
 red.   

@@ -91,6 +91,20 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
+links_references: |
+  **Links**
+  - *[Thespesia
+    populnea](http://floraofsingapore.wordpress.com/2010/10/17/thespesia-populnea/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -101,7 +115,8 @@ it is found on beaches, sandy and rocky coasts as well as back mangroves.
 It has a wide distribution as the seeds can stay alive in seawater
 for many months.  
   
- **Features:** A shrub that can grow
+ ## Features
+ A shrub that can grow
 to a rather tall tree (2-10m tall). Conical crown when young, becoming
 spreading with age. Leaves more triangular than heart-shaped. The
 leaves are fleshy and shiny with midribs and veins yellow, and are
@@ -149,22 +164,7 @@ photos](populnea1) of portia trees on Singapore shores
 
 ---
 
-**Links**
 
-- *[Thespesia
-  populnea](http://floraofsingapore.wordpress.com/2010/10/17/thespesia-populnea/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -59,6 +59,14 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
+links_references: |
+  **Links**
+  - [*Morinda
+    umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -68,7 +76,8 @@ also found inland. According to Hsuan Keng, it was found in open sandy
 places including Kranji, Changi and Pulau Ubin. 'Mengkudu akar' which
 means 'climbing Mengkudu'.  
   
-**Features:** A climbing shrub, it
+## Features
+ A climbing shrub, it
 has elegant leaves that are thin, leathery, narrow and 7-12cm long.
 The small white flowers appear in clusters on long stalks arranged
 like rays of a star. The little compound fruits are green and turn
@@ -90,16 +99,7 @@ used as ropes in Sri Lanka.
 
 ---
 
-**Links**
 
-- [*Morinda
-  umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

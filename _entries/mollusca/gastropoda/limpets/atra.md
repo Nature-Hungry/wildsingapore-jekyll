@@ -44,6 +44,19 @@ page_images:
   caption: |
     <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10153719048773660&set=a.10153713985548660.1073741906.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+links_references: |
+  **Links**
+  - [*Siphonaria
+    atra*](http://sealifebase.org/Summary/speciesSummary.php?id=1112) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -52,7 +65,8 @@ large rather flattened limpet is sometimes seen on large boulders
 on some of our Southern shores near reefs. Usually settles near the
 low water mark.  
   
-**Features:** 2-3cm
+## Features
+ 2-3cm
 long. Shell thick, rather flat (than pointed conical), with many (20 or more)
 thick ribs which are the same colour as the shell. There is no hole
 at the top the shell. Body plain white. A false limpet, it breathes
@@ -81,21 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Siphonaria
-  atra*](http://sealifebase.org/Summary/speciesSummary.php?id=1112) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

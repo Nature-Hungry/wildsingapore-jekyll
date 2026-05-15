@@ -128,6 +128,23 @@ page_images:
   caption: |
     <p>Pulau Berkas, May 10</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Stichodactyla
+    gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Stichodactyla
+    gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Stichodactyla
+    gigantea*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#gigent) on
+    Fautin, Daphne G. and Gerald R. Allen, 1992. [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Stichodactyla
+    gigantea*](http://www.sealifebase.org/summary/Stichodactyla-gigantea.html) on SeaLife Base: technical fact sheet.
 ---
 
 if you
@@ -144,7 +161,8 @@ They will instead hide deeper in the anemone.
 is commonly seen on our Southern shores, usually on coral rubble near reefs. It is also sometimes seen on coral
 rubble on our Northern shores.  
   
-**Features:**  Those seen about 40-50cm
+## Features
+  Those seen about 40-50cm
 in diameter when exposed out of water. The oral disk expands when
 submerged. The large oral disk covered with short tentacles so that
 it resembles a shaggy carpet. The oral disk is often folded and rarely
@@ -237,23 +255,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [*Stichodactyla
-  gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Stichodactyla
-  gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Stichodactyla
-  gigantea*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#gigent) on
-  Fautin, Daphne G. and Gerald R. Allen, 1992. [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Stichodactyla
-  gigantea*](http://www.sealifebase.org/summary/Stichodactyla-gigantea.html) on SeaLife Base: technical fact sheet.
 
 **Other
 references**

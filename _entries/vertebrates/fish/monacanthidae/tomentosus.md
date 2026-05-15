@@ -128,6 +128,33 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/33567889063/ "Seagrass filefish (Acreichthys tomentosus)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090606tmftd3135m3.jpg
+links_references: |
+  **Links**  
+  - [Seagrass
+    Filefish (*Acreichthys tomentosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Monocanthus*
+    sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Acreichthys tomentosus*](http://www.iucnredlist.org/details/full/69921254/0) on IUCN Red List.
+  - [Bristle-tailed
+    file-fish](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[(](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[*Acreichthys
+    tomentosus*](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet on the family, including fact sheet
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+    sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
+    Guide for Fishery Purposes The Living Marine Resources of the
+    Western Central Pacific.
+  **References**
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -135,7 +162,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/
 the body is commonly seen on many of our shores, among seagrasses and
 seaweeds on coral rubble.  
   
- **Features:** To 12cm, those seen about 7cm. An irregular curved yellow or
+ ## Features
+ To 12cm, those seen about 7cm. An irregular curved yellow or
 white line along the front of the body from the gill opening to the
 middle of the upper body, that resembles a 'smile'. Body in a wide
 variety of colours and patterns, usually irregular blotches. Adult
@@ -227,35 +255,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Seagrass
-  Filefish (*Acreichthys tomentosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Acreichthys tomentosus*](http://www.iucnredlist.org/details/full/69921254/0) on IUCN Red List.
-- [Bristle-tailed
-  file-fish](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[(](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[*Acreichthys
-  tomentosus*](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)[)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7849)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet on the family, including fact sheet
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
-  Guide for Fishery Purposes The Living Marine Resources of the
-  Western Central Pacific.
-
-**References**
-
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

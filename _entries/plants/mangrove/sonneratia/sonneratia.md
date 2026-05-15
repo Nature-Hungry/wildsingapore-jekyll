@@ -81,6 +81,44 @@ page_images:
   caption: |
     <p></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [*Sonneratia
+    alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739) and *[Sonneratia
+    caseolaris](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343)* and *[Sonneratia
+    ovata](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4740)* on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - *[Pteroptyx
+    valida](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=377)* and *[Macroglossus
+    minimus](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=10)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [Our
+    fireflies: in the latest issue of Wetlands](http://iyb2010singapore.blogspot.sg/2010/09/our-fireflies-in-latest-issue-ofl) on the Celebrating
+    Singapore's Biodiversity blog.
+  - [Life
+    in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5) by Halilah Ahmad in Wetland: about the the
+    Common long-tongued fruit bat (*Macroglossus minimus*).
+  - [No
+    bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a) by Lim Gaik Kee from Sahabat Alam Malaysia
+    in NatureWatch
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -97,7 +135,8 @@ It is sometimes referred to as the firefly mangrove because these
 insects gather on the trees at night. Formerly placed in Family Sonneratiaceae.
   
   
-**Features:** The produce sturdy conical
+## Features
+ The produce sturdy conical
 pneumatophores, although those growing in hard surfaces may not produce
 so many. The flowers are fluffy made up of a pom-pom white stamens
 in a cup-shaped calyx. These turn into globular fruits seated on a
@@ -232,46 +271,7 @@ lobes clasp the fruit.
 
 ---
 
-**Links**
 
-- [*Sonneratia
-  alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739) and *[Sonneratia
-  caseolaris](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343)* and *[Sonneratia
-  ovata](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4740)* on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- *[Pteroptyx
-  valida](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=377)* and *[Macroglossus
-  minimus](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=10)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [Our
-  fireflies: in the latest issue of Wetlands](http://iyb2010singapore.blogspot.sg/2010/09/our-fireflies-in-latest-issue-ofl) on the Celebrating
-  Singapore's Biodiversity blog.
-- [Life
-  in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5) by Halilah Ahmad in Wetland: about the the
-  Common long-tongued fruit bat (*Macroglossus minimus*).
-- [No
-  bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a) by Lim Gaik Kee from Sahabat Alam Malaysia
-  in NatureWatch
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -56,6 +56,51 @@ page_images:
   caption: |
     <p><a href="lithophyllon.htm">Lithophyllon mushroom coral</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species) on SeaLife Base: Technical factsheet.
+  - [Mushroom
+    coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html) on the wild shores of singapore
+    blog.
+  **References**
+  - Koh, Esther
+    G. L. and L. M. Chou. 1989. *The Mushroom Corals of Singapore*.
+    National University of Singapore. 45pp.
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Chou Loke
+    Meng. 1989. *Hard corals of Singapore*. Reef Ecology Study
+    Team, the National University of Singapore. A set of 4 posters.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if
@@ -78,7 +123,8 @@ Most members of the Family Fungiidae are solitary corals that are
 free-living (i.e., lie unattached) as adults. The Family Fungiidae
 is restricted to the Indo-Pacific.  
   
-**Features:** Unlike most other hard corals which are colonies of small polyps,
+## Features
+ Unlike most other hard corals which are colonies of small polyps,
 most mushroom corals are a single giant polyp. Some species have a
 circular disk-like skeleton, others are long and tongue-like. Most
 have short tentacles, except for the [Sunflower
@@ -186,53 +232,7 @@ mushroom coral)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species) on SeaLife Base: Technical factsheet.
-- [Mushroom
-  coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html) on the wild shores of singapore
-  blog.
-
-**References**
-
-- Koh, Esther
-  G. L. and L. M. Chou. 1989. *The Mushroom Corals of Singapore*.
-  National University of Singapore. 45pp.
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Chou Loke
-  Meng. 1989. *Hard corals of Singapore*. Reef Ecology Study
-  Team, the National University of Singapore. A set of 4 posters.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

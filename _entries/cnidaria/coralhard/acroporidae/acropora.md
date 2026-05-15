@@ -104,6 +104,39 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/19455986182/ "Elegant acropora coral (Acropora sp.)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  **References**
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -113,7 +146,8 @@ Sometimes seen on many of our Southern shores, larger colonies are
 more commonly seen on undisturbed and remote reefs. The genus *Acropora* has the largest number of species of all the hard corals. The scientific
 name is usually pronounced as 'ah-crop-or-ah'.  
   
-**Features:**Colonies seen
+## Features
+Colonies seen
 usually 15-20cm, but on undisturbed shores can be 50cm or larger.
 Many grow into branching forms that give rise to common names like
 'staghorn coral'. For some, the entire colony often has a flat top
@@ -257,41 +291,7 @@ Acropora willisae*
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-
-**References**
-
-- *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

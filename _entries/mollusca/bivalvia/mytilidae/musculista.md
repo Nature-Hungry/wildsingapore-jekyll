@@ -57,6 +57,28 @@ page_images:
     <p><a href="../../../plants/seagrass/decipiens.htm">Hairy spoon seagrass</a> growing on a nest mussel bed.</p>
     <p>Changi, Jun 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
+links_references: |
+  **Links**
+  - [Nest
+    mussel (*Musculista senhausii*)](http://mangrove.nus.edu.sg/guidebooks/text/2091.htm)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Green
+    mussel (*Musculista senhousia*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=47699) from SeaLife Base: Technical
+    fact sheet.
+  - Senhouse
+    horse mussel (*Musculista senhousia*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -78,7 +100,8 @@ unpredictably.
 
 
 
-**Features:** 1-2cm long. The two-part
+## Features
+ 1-2cm long. The two-part
 shell is thin, fragile and smooth. These tiny mussels build communal
 'nests' out of byssal threads incorporating sediments, bits of broken
 shells and other debris. Large areas can be covered in such 'nests',
@@ -123,30 +146,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Nest
-  mussel (*Musculista senhausii*)](http://mangrove.nus.edu.sg/guidebooks/text/2091.htm)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Green
-  mussel (*Musculista senhousia*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=47699) from SeaLife Base: Technical
-  fact sheet.
-- Senhouse
-  horse mussel (*Musculista senhousia*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

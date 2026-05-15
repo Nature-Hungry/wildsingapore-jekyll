@@ -71,6 +71,42 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
+links_references: |
+  **Links**
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [*Bruguiera
+    hainesii*](http://floraofsingapore.wordpress.com/2011/04/05/bruguiera-hainesii/) on the Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Bruguiera
+    hainesii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4002)* on
+    the NParks Flora and Fauna website: photos and fact sheet.
+  - [*Bruguiera
+    hainesii*](http://www.iucnredlist.org/apps/redlist/details/178834/0) on the IUCN Red List: detailed fact sheet.
+  - On the wild
+    shores of singapore blog
+    - [Mangroves
+      of the world and Singapore](http://wildshores.blogspot.com/2010/04/mangroves-of-world-and-singaporel)
+    - [IUCN
+      features Singapore's rare mangrove tree](http://wildshores.blogspot.com/2010/05/iucn-features-singapores-rare-mangrovel)
+    - [Rare
+      mangroves at Kranji, with special find?](http://wildshores.blogspot.com/2010/12/rare-mangroves-at-kranji-with-speciall) first encounter
+      with the tree at Kranji.
+    - [Homage
+      to the hainesii](http://wildshores.blogspot.com/2010/12/homage-to-hainesiil) revisiting the tree at Kranji
+  **References**
+  - Chiou-Rong
+    Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
+    Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
+    Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
+    50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
+    Research website).
+  - Tomlinson,
+    P. B., 1986. *The
 ---
 
 ## Where seen?
@@ -87,7 +123,8 @@ from south Myanmar and Thailand through the Malay archipelago to Papua
 New Guinea but it has not been recorded from Queensland. It is also
 known as Berus mata buaya.  
   
-**Features:** Tall tree to 33m with
+## Features
+ Tall tree to 33m with
 a trunk up to 70cm in diameter. Bark brown to grey with yellowish
 brown pimples (lenticels) from top to base, sometimes smooth. Short
 buttress often with lenticels, and knee roots.   
@@ -151,44 +188,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [*Bruguiera
-  hainesii*](http://floraofsingapore.wordpress.com/2011/04/05/bruguiera-hainesii/) on the Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Bruguiera
-  hainesii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4002)* on
-  the NParks Flora and Fauna website: photos and fact sheet.
-- [*Bruguiera
-  hainesii*](http://www.iucnredlist.org/apps/redlist/details/178834/0) on the IUCN Red List: detailed fact sheet.
-- On the wild
-  shores of singapore blog
-  - [Mangroves
-    of the world and Singapore](http://wildshores.blogspot.com/2010/04/mangroves-of-world-and-singaporel)
-  - [IUCN
-    features Singapore's rare mangrove tree](http://wildshores.blogspot.com/2010/05/iucn-features-singapores-rare-mangrovel)
-  - [Rare
-    mangroves at Kranji, with special find?](http://wildshores.blogspot.com/2010/12/rare-mangroves-at-kranji-with-speciall) first encounter
-    with the tree at Kranji.
-  - [Homage
-    to the hainesii](http://wildshores.blogspot.com/2010/12/homage-to-hainesiil) revisiting the tree at Kranji
-
-**References**
-
-- Chiou-Rong
-  Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
-  Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
-  Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
-  50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
-  Research website).
-- Tomlinson,
-  P. B., 1986. *The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

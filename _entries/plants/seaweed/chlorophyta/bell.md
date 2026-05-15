@@ -42,6 +42,21 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750328097945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    racemosa* var. *turbinata*](http://www.algaebase.org/search/species/detail/?species_id=4458) on [AlgaeBase](http://www.algaebase.org/):
+    technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia*
+    University of Western Australia Press. 300pp.
 ---
 
 ## Where seen?
@@ -49,7 +64,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell
 'grapes'. Small clumps sometimes seen on our Southern shores on rocks
 and coral rubble near reefs on our Southern shores.  
   
-**Features:** The seaweed resembles
+## Features
+ The seaweed resembles
 bunches of little bells, with a flattened top. Each bunch about 6-8cm
 long, with bell-shaped bead (the 'grapes') arranged on a vertical
 'stem'. These bunches of 'grapes' emerge from a long horizontal 'stem'
@@ -90,23 +106,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  racemosa* var. *turbinata*](http://www.algaebase.org/search/species/detail/?species_id=4458) on [AlgaeBase](http://www.algaebase.org/):
-  technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia*
-  University of Western Australia Press. 300pp.
 
 [links](../../../links)
 | [references](../../../references)

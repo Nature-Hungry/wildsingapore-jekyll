@@ -28,10 +28,19 @@ page_images:
   caption: |
     <p>Found in a large fish trap  Terumbu Pempang Tengah, Jun 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158485724658119&set=a.10158485764693119&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+links_references: |
+  **Links**  
+  - [Map puffer (*Arothron
+    mappa*)](https://www.fishbase.se/summary/7857) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  - Ng Boon Leong, Venus Tan, Tan Bok Leng & Kelvin K. P. Lim. 4 December 2015. *Juvenile map pufferfish (Arothron mappa) in the Singapore Strait*. Singapore Biodiversity Records 2015: 196
 ---
 
 ## Where seen?
- Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
+ Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. ## Features
+  To
 about 60cm. Body covered with fine prickles. Body whitish covered with a dense network of black, brown or greenish broken lines. Dark and pale streaks radiating outwards from the eyes. Black reticulations below pectoral fins. Black area around anus. Juveniles (around 5cm) seen while diving were black with large yellow spots.
  
 
@@ -49,16 +58,7 @@ about 60cm. Body covered with fine prickles. Body whitish covered with a dense 
 
 ---
 
-**Links**  
 
-- [Map puffer (*Arothron
-  mappa*)](https://www.fishbase.se/summary/7857) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
-- Ng Boon Leong, Venus Tan, Tan Bok Leng & Kelvin K. P. Lim. 4 December 2015. *Juvenile map pufferfish (Arothron mappa) in the Singapore Strait*. Singapore Biodiversity Records 2015: 196
 
 [links](../../../links)
 | [references](../../../references)

@@ -66,6 +66,34 @@ page_images:
   caption: |
     <p>Pulau Semakau, Feb 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg
+links_references: |
+  **Links**
+  - [Api-api
+    bulu (*Avicennia rumphiana*)](http://mangrove.nus.edu.sg/guidebooks/text/1052) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [*Avicennia
+    rumphiana*](http://floraofsingapore.wordpress.com/2011/02/27/avicennia-rumphiana/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Avicennia
+    rumphiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3589) on NParks Flora and Fauna website: photos and fact
+    sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
 ---
 
 ## Where seen?
@@ -78,7 +106,8 @@ species and it endemic to Southeast Asia. It can be common to very
 common where it is found, but it has a restricted range. It is also
 known as *Avicennia lantana*.  
   
-**Features:** Tree up to 30m tall
+## Features
+ Tree up to 30m tall
 and 3m girth, but usually much smaller. Bark dark grey and smooth.
 Pencil-like pneumatophores, often with buttress roots.   
   
@@ -135,36 +164,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Api-api
-  bulu (*Avicennia rumphiana*)](http://mangrove.nus.edu.sg/guidebooks/text/1052) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [*Avicennia
-  rumphiana*](http://floraofsingapore.wordpress.com/2011/02/27/avicennia-rumphiana/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Avicennia
-  rumphiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3589) on NParks Flora and Fauna website: photos and fact
-  sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

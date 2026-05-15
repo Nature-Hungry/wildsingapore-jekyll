@@ -77,6 +77,33 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+links_references: |
+  **Links**  
+  - [Pasir
+    or Silver Sand Whiting (*Sillago sihama*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Sillago (Smelt-whitings)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307) and [*Sillago
+    burrus* (Western trumpeter sillago)](http://www.fishbase.org/summary/8505) and [*Sillago
+    maculata* (Trumpeter sillago)](http://www.fishbase.org/summary/7925) and [*Sillago
+    sihama* (Silver sillago)](http://www.fishbase.org/summary/4544) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets on individual
+    species.
+  - [Family
+    Sillaginidae](http://research.kahaku.go.jp/zoology/FishGuide/summary/s187l) from [Coastal
+    Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
+    Matsuura, Seishi Kimura and Teguh Peristiwady on the National
+    Science Museum, Tokyo website: factsheets with photos and descriptions.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 if you
@@ -90,7 +117,8 @@ first glace.
 encountered on many of our sandy shores especially near reefs. **What are whitings?** Whitings belong to the Family Sillaginidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307):
 the family has 3 genera and 31 species, found mainly in the Indo-west
-Pacific.  **Features:** To about 30cm, those seen about 6-8cm. Long,
+Pacific.  ## Features
+ To about 30cm, those seen about 6-8cm. Long,
 slender silvery fishes with a torpedo-shaped body, large eyes and
 small mouth on a conical, sharp snout. Often without obvious markings,
 the various species of *Sillago* appear very similar in the field.
@@ -179,35 +207,7 @@ burrus* (Spotted sillago) *Sillago maculata* (Trumpeter sillago) *Sillago sihama
 
 ---
 
-**Links**  
 
-- [Pasir
-  or Silver Sand Whiting (*Sillago sihama*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Sillago (Smelt-whitings)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307) and [*Sillago
-  burrus* (Western trumpeter sillago)](http://www.fishbase.org/summary/8505) and [*Sillago
-  maculata* (Trumpeter sillago)](http://www.fishbase.org/summary/7925) and [*Sillago
-  sihama* (Silver sillago)](http://www.fishbase.org/summary/4544) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets on individual
-  species.
-- [Family
-  Sillaginidae](http://research.kahaku.go.jp/zoology/FishGuide/summary/s187l) from [Coastal
-  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
-  Matsuura, Seishi Kimura and Teguh Peristiwady on the National
-  Science Museum, Tokyo website: factsheets with photos and descriptions.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

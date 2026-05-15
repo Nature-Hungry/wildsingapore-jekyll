@@ -64,13 +64,42 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+links_references: |
+  **Links**
+  - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  - [*Sinularia*
+    images](http://science.naturalis.nl/research/people/cv/ofwegen/sinularia-images) on the Netherlands Centre for Biodiversity website:
+    photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Y. Benayahu
+    and L. P. van Ofwegen. Aug 2011. *New
+    species of the genus Sinularia (Octocorallia: Alcyonacea) from
+    Singapore, with notes on the occurrence of other species of the
+    genus*. The Raffles Bulletin of Zoology 2011 59(2). Pp. 117-125.
+  - Y. Benayahu
+    and L. M. Chou, 28 Feb 2010. *On
+    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+    with a description of a new Cladiella species*. The Raffles
+    Bulletin of Zoology 58(1) Pp. 1-13.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp
 ---
 
 ## Where seen?
  This large leathery soft coral may resemble a pile of smooth rubber gloves or cluster of blobs at low tide. It is
 seen on our Southern shores, on coral rubble.  
   
-**Features:** Colony 20-50cm or larger. Sinularia species have among the greatest
+## Features
+ Colony 20-50cm or larger. Sinularia species have among the greatest
 variation in colony shapes among soft corals. The colony may be encrusting
 with ridges, knobs or fingers, or tall with many lobes, branches,
 or flat disks, leafy or dish-shaped. The leathery common tissue usually
@@ -156,36 +185,7 @@ Sinularia triangula*
 
 ---
 
-**Links**
 
-- [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-- [*Sinularia*
-  images](http://science.naturalis.nl/research/people/cv/ofwegen/sinularia-images) on the Netherlands Centre for Biodiversity website:
-  photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Y. Benayahu
-  and L. P. van Ofwegen. Aug 2011. *New
-  species of the genus Sinularia (Octocorallia: Alcyonacea) from
-  Singapore, with notes on the occurrence of other species of the
-  genus*. The Raffles Bulletin of Zoology 2011 59(2). Pp. 117-125.
-- Y. Benayahu
-  and L. M. Chou, 28 Feb 2010. *On
-  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-  with a description of a new Cladiella species*. The Raffles
-  Bulletin of Zoology 58(1) Pp. 1-13.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
 
 [links](../../links.htm)
 | [references](../../references.htm)

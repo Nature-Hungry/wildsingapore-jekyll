@@ -54,6 +54,39 @@ page_images:
     <p>Hiding under a <a href="../../../cnidaria/actiniaria/pearly">Pearly anemone</a>.</p>
     <p>Changi East (Lost Coast), Jul 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2975970682545565&set=a.2975971539212146">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+links_references: |
+     **Links**
+  - [Swimming
+    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Crucifix
+    crab (*Charybdis feriatus*)](http://www.sealifebase.org/summary/Charybdis-feriatusl) on [SeaLifeBase](http://www.sealifebase.org/):
+    Technical fact sheet.
+  - [*Charybdis
+    feriatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1120) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  - Family
+    Portunidae in
+    the Crabs section by Peter K. L. Ng in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
+    the Food and Agriculture Organization of the United Nations
+    (FAO) website.
+  - [Crucifix
+    Crab, *Charybdis feriatus*, Spotted In The Straits Of Malacca](http://www.asianscientist.com/in-the-lab/crucifix-crab-charybdis-feriatus-straits-of-malacca-malaysia-092011/)
+    by Samantha Chan Asian Scientist 27 Sep 2011
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -63,7 +96,8 @@ to inhabit sandy-muddy bottoms. Sometimes seen hiding under sea anemones. Media 
 not often encountered in our part of the region. It is also known
 as *Charybdis feriatus*.  
   
-**Features:** Body width 5-7cm, to
+## Features
+ Body width 5-7cm, to
 20cm. Body somewhat fan-shaped, with 5 spines on the sides. The eyes
 not far apart. Last pair of legs are paddle-shaped and rotate like
 boat propellers. Body with bold wide dark lines often with a distinctive
@@ -108,41 +142,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-   **Links**
 
-- [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Crucifix
-  crab (*Charybdis feriatus*)](http://www.sealifebase.org/summary/Charybdis-feriatusl) on [SeaLifeBase](http://www.sealifebase.org/):
-  Technical fact sheet.
-- [*Charybdis
-  feriatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1120) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-- Family
-  Portunidae in
-  the Crabs section by Peter K. L. Ng in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
-  the Food and Agriculture Organization of the United Nations
-  (FAO) website.
-- [Crucifix
-  Crab, *Charybdis feriatus*, Spotted In The Straits Of Malacca](http://www.asianscientist.com/in-the-lab/crucifix-crab-charybdis-feriatus-straits-of-malacca-malaysia-092011/)
-  by Samantha Chan Asian Scientist 27 Sep 2011
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

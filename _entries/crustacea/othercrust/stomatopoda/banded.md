@@ -62,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopod
  This mantis shrimp is rarely seen. A pair was seen
 dead on Tanah Merah a day after the oil spill. One was seen in Changi.   
   
-**Features:** 6-10cm long. Body broad
+## Features
+ 6-10cm long. Body broad
 and long, colour plain grey or beige with wide dark bars.  
   
 The huge

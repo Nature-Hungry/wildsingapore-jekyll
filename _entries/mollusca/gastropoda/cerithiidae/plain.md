@@ -69,7 +69,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae
 in groups, on rocky and sandy areas near the mid-water mark. Sometimes
 near the high-water mark near shady sea walls. Commonly seen on our Southern shores.  
   
-**Features:**1.5-2cm long.
+## Features
+1.5-2cm long.
 Shell conical with fine spirals of small bumps. Usually plain without
 patterns, in dark and dull tones. Operculum made out of a horn-like
 material, whorls not easily seen.  

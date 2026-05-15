@@ -146,6 +146,34 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407093978713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
+links_references: |
+  **Links**  
+  - [Carpet
+    eel-blenny (*Congrogadus subducens*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Pseudochromidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=291) and [Karimunjawa dottyback (](http://www.fishbase.org/summary/57899)[*Pseudochromis
+    ransonneti*](http://www.fishbase.org/summary/57899)[)](http://www.fishbase.org/summary/57899) and [Carpet
+    eel-blenny (*Congrogadus subducens*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4419) from
+    [FishBase](http://www.fishbase.org/): Technical fact
+    sheet.
+  **References**
+  - Tan Yee Keat. *A yellowbelly dottyback (Pseudochromis ransonneti) off Pulau Satumu.* 31 October 2017. Singapore Biodiversity Records 2017: 148-149 ISSN 2345-7597. National University of Singapore.
+  - Heng Pei Yan. 7 March 2014. *Yellowbelly dottyback courtship behaviour, Pseudochromis ransonneti.* Singapore Biodiversity Records 2014: 65-66
+  - Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013. *Some noteworthy reef fishes at Pulau Hantu: Yellowbelly dottyback, Pseudrochromis ransonneti*. Singapore Biodiversity Records 2013: 65-67.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -174,7 +202,8 @@ shorter (about 10cm long or less), and some are very colourful. Carpet
 eel-blennies belong to the subfamily Congrogadinae (they were previously
 in a separate family Congrogadidae).  
   
-**Features:** Up to 30cm long, those
+## Features
+ Up to 30cm long, those
 seen are about 10-15cm long, but tiny ones 5cm or less can also be seen. Body cylindrical, somewhat flattened
 sideways, tapering to an eel-like tail, with the dorsal, anal and
 tail fins continous. Unlike true eels, it has pectoral fins and scales, and large gill covers.
@@ -292,36 +321,7 @@ ransonneti* (Yellowbelly dottyback) *\*Congrogadus subducens* (Carpet eel-blenny
 
 ---
 
-**Links**  
 
-- [Carpet
-  eel-blenny (*Congrogadus subducens*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [Family
-  Pseudochromidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=291) and [Karimunjawa dottyback (](http://www.fishbase.org/summary/57899)[*Pseudochromis
-  ransonneti*](http://www.fishbase.org/summary/57899)[)](http://www.fishbase.org/summary/57899) and [Carpet
-  eel-blenny (*Congrogadus subducens*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4419) from
-  [FishBase](http://www.fishbase.org/): Technical fact
-  sheet.
-
-**References**
-
-- Tan Yee Keat. *A yellowbelly dottyback (Pseudochromis ransonneti) off Pulau Satumu.* 31 October 2017. Singapore Biodiversity Records 2017: 148-149 ISSN 2345-7597. National University of Singapore.
-- Heng Pei Yan. 7 March 2014. *Yellowbelly dottyback courtship behaviour, Pseudochromis ransonneti.* Singapore Biodiversity Records 2014: 65-66
-- Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013. *Some noteworthy reef fishes at Pulau Hantu: Yellowbelly dottyback, Pseudrochromis ransonneti*. Singapore Biodiversity Records 2013: 65-67.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -57,6 +57,31 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
+links_references: |
+  **Links**  
+  - [Shadow
+    goby (*Yongeichthys nebulosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Shadow
+    goby (*Acentrogobius nebulosus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7228) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheet.
+  - [*Acentrogobius nebulosus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1209) on NParks Flora and Fauna website.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
@@ -65,7 +90,8 @@ mangroves, muddy bottoms near reefs, sandy pools and among coral rubble.
 On some shores, almost every pool has one! Sometimes, several are seen together. Its previous name was *Yongeichthys
 nebulosus*.   
   
-**Features:** Up to about 18cm, those
+## Features
+ Up to about 18cm, those
 seen from 4-6cm. It has large eyes and three large dark brown blotches
 on the sides of the body (not easily seen from the top).
 
@@ -115,33 +141,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Shadow
-  goby (*Yongeichthys nebulosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Shadow
-  goby (*Acentrogobius nebulosus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7228) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheet.
-- [*Acentrogobius nebulosus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1209) on NParks Flora and Fauna website.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

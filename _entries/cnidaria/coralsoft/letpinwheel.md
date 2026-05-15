@@ -79,13 +79,26 @@ page_images:
     <p>Bleaching.</p>
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+links_references: |
+  **Links**
+  - [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp
 ---
 
 ## Where seen?
  This large disc-shaped leathery coral that resembles
 a pinwheel is commonly seen on our Southern shores. On coral rubble.  
   
-**Features:** Colony 30-50cm or larger. The circular colony usually with a flat,
+## Features
+ Colony 30-50cm or larger. The circular colony usually with a flat,
 broad disk attached to a hard surface by a very short, very broad
 central base that is usually the same diameter as the upper disk.
 The base is often hidden by the disk.  
@@ -152,20 +165,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
 
 [links](../../links.htm)
 | [references](../../references.htm)

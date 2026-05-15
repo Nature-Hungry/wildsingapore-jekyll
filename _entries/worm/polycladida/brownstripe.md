@@ -158,6 +158,24 @@ page_images:
     <p>IKAN-Unterwasserachiv.</p>
     <p>723pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/brownstripe/060305sisg5452m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudobiceros
+    gratus*](http://polycladida.lifedesks.org/pages/3196) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  - [*Pseudobiceros
+    gratus*](http://taxo4254.wikispaces.com/Pseudobiceros_gratus)
+    (Polycladida: Pseudocerotidae) Brown Stripped flatworm from Wesley
+    Goi Chin Lui, 2011 on taxo4254.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
+    Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
+    Bulletin of Zoology vol 45.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
 ---
 
 ## Where seen?
@@ -166,7 +184,8 @@ is often encountered on coral rubble near living reefs. They appear
 to be seasonal, with several encountered during a visit, and then
 not at all for some time.   
   
-**Features:** 5-8cm long. Usually with deep ruffles. Body
+## Features
+ 5-8cm long. Usually with deep ruffles. Body
 light to dark brown with darker brown to black narrow margins (no inner white margin). Center of the body raised with one dark brown line with diffuse white
 edges. Underside uniformly paler colouration with same margin as the upperside of the body. It has a pair of pseudotentacles at the front that are square, ear-like, with white tips.  
   
@@ -279,24 +298,3 @@ on 10 Feb 09
 **Acknowledgement**  
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm.Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-
-**Links**
-
-- [*Pseudobiceros
-  gratus*](http://polycladida.lifedesks.org/pages/3196) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-- [*Pseudobiceros
-  gratus*](http://taxo4254.wikispaces.com/Pseudobiceros_gratus)
-  (Polycladida: Pseudocerotidae) Brown Stripped flatworm from Wesley
-  Goi Chin Lui, 2011 on taxo4254.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
-  Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
-  Bulletin of Zoology vol 45.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine

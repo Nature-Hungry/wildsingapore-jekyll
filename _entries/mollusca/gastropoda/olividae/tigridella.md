@@ -63,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/ti
 on our Northern shores. A burrowing snail, it is more
 often seen above the ground at night or with the incoming tide.   
   
-**Features:** 2-3.5cm. Shell thick
+## Features
+ 2-3.5cm. Shell thick
 heavy glossy, cylindrical bullet-shaped with tall conical spire. Shell pattern various from plain to dark speckles to large
 dark brown or black blotchy bars. The shell opening purplish brown.Body large beige with brownish spots all over. A
 long siphon sticks out of the notch in the shell. It does not have

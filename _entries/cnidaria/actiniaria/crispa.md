@@ -183,13 +183,32 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718898967/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg
+links_references: |
+  **Links**  
+  - [*Heteractis
+    crispa*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=crispa&subspecies=&synseniorid=89) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Heteractis
+    crispa*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#crispa) on Fautin, Daphne G. and Gerald R. Allen, 1992.
+    [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Radianthus
+    crispa*](http://www.sealifebase.fisheries.ubc.ca/summary/Heteractis-crispa.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
 ---
 
 ## Where seen?
  This large anemone is sometimes seen on the reef edges of our Southern shores. According to Dr Fautin, it is sometimes seen living on branching
 corals. It was previously known as *Heteractis cripsa*.  
   
-**Features:** Diameter
+## Features
+ Diameter
 expanded 20-30cm, up to 50cm when fully expanded. Many long tentacles
 (about 10cm) that are snake-like, evenly tapered to a point often
 with coloured tips: mauve, blue, sometimes yellow or green. The tentacles
@@ -300,26 +319,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Heteractis
-  crispa*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=crispa&subspecies=&synseniorid=89) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Heteractis
-  crispa*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#crispa) on Fautin, Daphne G. and Gerald R. Allen, 1992.
-  [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Radianthus
-  crispa*](http://www.sealifebase.fisheries.ubc.ca/summary/Heteractis-crispa.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
 
 U
 

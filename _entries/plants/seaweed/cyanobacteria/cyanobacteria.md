@@ -58,6 +58,46 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
+links_references: |
+  **Links**
+  - [Introduction
+    to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointrol) on the [Museum
+    of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
+    fossil record, life history and ecology, systematics and more
+    on morphology.
+  - [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria)
+    on the University of Hawai'i Manoa website: lots of photos and
+    lots of brief details on major aspects of the group, quite scientific
+    but the photos and diagrams make it easier to understand.
+  - [Cyanosite](http://www-cyanosite.bio.purdue.edu/)
+    a Webserver for Cyanobacterial Research: photos, taxonomy and
+    links.
+  - [Microbial
+    Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page) by Jurgen Schieber, University of Texas at Arlington
+    Department of Geology website: all about mats produced by microbes
+    with photos and links.
+  - [Hamelin
+    Pool Marine Nature Reserve](http://www.naturebase.net/component/option,com_hotproperty/task,view/id,56/Itemid,755/) in Australia is one of the few
+    places where you can see living stromatolites.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach*. Division of Biology, School
+    of Science, Nanyang Technological University & Department
+    of Zoology, the National University of Singapore. 160 pp.
+  - Sumich, James
+    L. 1999. *An
+    Introduction to the Biology of Marine Life*
+    7th ed., WCB/McGraw-Hill. 484 pp.
+  - Bell, Peter
+    R. and Hemsley, Alan R. 2000. *Green
+    Plants: Their Origin and Diversity*
+    2nd edition. Cambridge University Press. 349 pp.
 ---
 
 if you
@@ -90,7 +130,8 @@ and seaweeds. 90 species of cyanobacteria are recorded for Singapore
 by Pham (link below). Some live inside other animals such as sponges
 like [*Lamellodysidea herbacea*](../../../porifera/spatula).  
   
-**Features:** They have a bluish pigment
+## Features
+ They have a bluish pigment
 phycocyanin that is used to capture light for photosynthesis. They
 also contain chlorophyll.  **Big bacteria:** These microscopic organisms sometimes can
 aggregate to produce structures large enough for us to see and feel.
@@ -163,48 +204,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Introduction
-  to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointrol) on the [Museum
-  of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
-  fossil record, life history and ecology, systematics and more
-  on morphology.
-- [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria)
-  on the University of Hawai'i Manoa website: lots of photos and
-  lots of brief details on major aspects of the group, quite scientific
-  but the photos and diagrams make it easier to understand.
-- [Cyanosite](http://www-cyanosite.bio.purdue.edu/)
-  a Webserver for Cyanobacterial Research: photos, taxonomy and
-  links.
-- [Microbial
-  Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page) by Jurgen Schieber, University of Texas at Arlington
-  Department of Geology website: all about mats produced by microbes
-  with photos and links.
-- [Hamelin
-  Pool Marine Nature Reserve](http://www.naturebase.net/component/option,com_hotproperty/task,view/id,56/Itemid,755/) in Australia is one of the few
-  places where you can see living stromatolites.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach*. Division of Biology, School
-  of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
-- Sumich, James
-  L. 1999. *An
-  Introduction to the Biology of Marine Life*
-  7th ed., WCB/McGraw-Hill. 484 pp.
-- Bell, Peter
-  R. and Hemsley, Alan R. 2000. *Green
-  Plants: Their Origin and Diversity*
-  2nd edition. Cambridge University Press. 349 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -68,6 +68,51 @@ page_images:
   caption: |
     <p>Fruits oval with pointed tip smooth.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
+links_references: |
+  **Links**
+  - [Api-api
+    (*Avicennia*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - [*Avicennia
+    alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263) and [*Avicennia
+    marina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453) and [*Avicennia
+    officinalis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3267) and [*Avicennia
+    rumphiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3589) on NParks Flora and Fauna website: photos and fact
+    sheet
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -79,7 +124,8 @@ muddy coasts and estuaries or sheltered bays, sometimes standing out
 to sea. But according to Tomlison, there are 8 species found in tropical
 shores from the intertidal to back mangroves.  
   
-**Features:** Tree up to 30m tall,
+## Features
+ Tree up to 30m tall,
 those on our shores shorter, about 10-25m. Leaves simple, oval to
 pointed (8-12cm long), arranged opposite one another. The leaves have
 glands to secrete salt.   
@@ -170,53 +216,7 @@ ludat**](officinalis)  *Avicennia officinalis*
 
 ---
 
-**Links**
 
-- [Api-api
-  (*Avicennia*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- [*Avicennia
-  alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263) and [*Avicennia
-  marina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453) and [*Avicennia
-  officinalis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3267) and [*Avicennia
-  rumphiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3589) on NParks Flora and Fauna website: photos and fact
-  sheet
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

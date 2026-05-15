@@ -72,7 +72,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/0907
  These large anemones can be seen in numbers in very
 soft mud flats on the seaward side of mangroves and other soft silty sandy shores on our Northern shores.  
   
-**Features:** Diameter with tentacles expanded 5-12cm. Tentacles pale, many long
+## Features
+ Diameter with tentacles expanded 5-12cm. Tentacles pale, many long
 and tapering. Colours translucent beige or pinkish. Oral disk dark
 blue or black without any markings. Body column dark grey, dark blue
 with regular rows of large pale protruding bumps.

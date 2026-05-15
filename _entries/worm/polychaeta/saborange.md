@@ -66,7 +66,8 @@ and seldom in living corals. It is not as commonly encountered as
 the [banded fanworms](sabbanded) which are usually
 found in living corals.  
   
-**Features:** Fan 4-6cm in diameter.
+## Features
+ Fan 4-6cm in diameter.
 The fan is orange or yellowish, sometimes with portions that are paler
 or white. Some have white bands and might be a paler version of the [banded fanworms](sabbanded). Usually found alone,
 rarely a few next to one another.

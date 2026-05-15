@@ -49,7 +49,8 @@ occupied by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm). It is also sometimes found on the underside of [horseshoe
 crabs](../../../arthropoda/limulidae/limulidae.htm). It was previously known as *Crepidula walshi*.  
   
-**Features:** 1-3.5cm. Shell
+## Features
+ 1-3.5cm. Shell
 thin, conical or flat, usually white. It is usually found in pairs. The larger one is usually the female
 and the smaller one male. When the smaller one grows big enough, it
 will change into a female!  

@@ -53,6 +53,65 @@ page_images:
     <p>Mandai, Mar 11</p>
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3b.jpg
   caption: <p></p>
+links_references: |
+  **Links**  
+  - [Tiny
+    but Mighty: *Beccarii* 'Critically Endangered'](http://www.seagrasswatch.org/Info_centre/Magazine/pdf/issue44/SW_Magazine_Issue44_low_pp1-15.pdf) by Ria
+    Tan, Siti Maryam Yaakub and Andy Dinesh in the Seagrass-Watch
+    Magazine Issue 44 Nov 2011 (pdf)
+  - [*Halophila
+    beccarii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Halophila%20beccariil) (Alismatales: Hydrocharitaceae) Beccari's seagrass
+    by Lee Chengfa Benjamin, 2012 on taxo4254,
+  - [*Halophila
+    beccarii*](http://www.iucnredlist.org/details/173342/0) on the IUCN Red List: Taxonomy, assessment, geographic
+    range, population, habitat and ecology, threats, conservation
+    actions.
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Distribution
+    of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass) on the Porcupine Homepage of the Department
+    of Ecology & Biodiversity, The University of Hong Kong website:
+    brief description of *H. beccarii* and its possible role
+    as a nursery for horseshoe crabs.
+  - On the wild
+    shores of singapore blog
+    - [Beccari
+      the explorer and Singapore](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singaporel)
+    - [More
+      Beccari hunting from Kranji](http://wildshores.blogspot.sg/2013/07/more-beccari-hunting-from-kranjil)
+    - [Beccari
+      hunting at Mandai mangroves: Success!](http://wildshores.blogspot.sg/2013/07/beccari-hunting-at-mandai-mangrovesl)
+    - [Another
+      side of Mandai mangroves](http://wildshores.blogspot.sg/2012/06/another-side-of-mandai-mangrovesl)
+    - [Horseshoe
+      crab eggs seen at Mandai mangroves](http://wildshores.blogspot.com/2011/04/horseshoe-crab-eggs-seen-at-mandail)
+    - [First
+      time to Mandai mangroves](http://wildshores.blogspot.com/2011/03/first-time-to-mandai-mangrovesl)
+    - [Back
+      to the rare seagrass meadows at Kranji for a closer look](http://wildshores.blogspot.com/2011/02/back-to-rare-seagrass-meadows-at-kranjil)
+    - [Vast
+      meadows of rare seagrasses at Kranji](http://wildshores.blogspot.com/2011/02/vast-meadows-of-rare-seagrasses-atl)
+    - [Rare
+      seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-traill)
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
 ---
 
 if you
@@ -83,7 +142,8 @@ was discovered in Sarawak by the intrepid Italian botanist-explorer,
 [Odoardo
 Beccari](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singaporel) and named after him.   
   
-**Features:**Beccari's seagrass
+## Features
+Beccari's seagrass
 is the smallest seagrass found on our shores (0.5cm long). The long
 oval-shaped leaves emerge in a rosette of 5-10 tiny leaves on long
 thin stems. Each plant may bear both male and female flowers, but
@@ -134,67 +194,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- [Tiny
-  but Mighty: *Beccarii* 'Critically Endangered'](http://www.seagrasswatch.org/Info_centre/Magazine/pdf/issue44/SW_Magazine_Issue44_low_pp1-15.pdf) by Ria
-  Tan, Siti Maryam Yaakub and Andy Dinesh in the Seagrass-Watch
-  Magazine Issue 44 Nov 2011 (pdf)
-- [*Halophila
-  beccarii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Halophila%20beccariil) (Alismatales: Hydrocharitaceae) Beccari's seagrass
-  by Lee Chengfa Benjamin, 2012 on taxo4254,
-- [*Halophila
-  beccarii*](http://www.iucnredlist.org/details/173342/0) on the IUCN Red List: Taxonomy, assessment, geographic
-  range, population, habitat and ecology, threats, conservation
-  actions.
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- [Distribution
-  of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass) on the Porcupine Homepage of the Department
-  of Ecology & Biodiversity, The University of Hong Kong website:
-  brief description of *H. beccarii* and its possible role
-  as a nursery for horseshoe crabs.
-- On the wild
-  shores of singapore blog
-  - [Beccari
-    the explorer and Singapore](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singaporel)
-  - [More
-    Beccari hunting from Kranji](http://wildshores.blogspot.sg/2013/07/more-beccari-hunting-from-kranjil)
-  - [Beccari
-    hunting at Mandai mangroves: Success!](http://wildshores.blogspot.sg/2013/07/beccari-hunting-at-mandai-mangrovesl)
-  - [Another
-    side of Mandai mangroves](http://wildshores.blogspot.sg/2012/06/another-side-of-mandai-mangrovesl)
-  - [Horseshoe
-    crab eggs seen at Mandai mangroves](http://wildshores.blogspot.com/2011/04/horseshoe-crab-eggs-seen-at-mandail)
-  - [First
-    time to Mandai mangroves](http://wildshores.blogspot.com/2011/03/first-time-to-mandai-mangrovesl)
-  - [Back
-    to the rare seagrass meadows at Kranji for a closer look](http://wildshores.blogspot.com/2011/02/back-to-rare-seagrass-meadows-at-kranjil)
-  - [Vast
-    meadows of rare seagrasses at Kranji](http://wildshores.blogspot.com/2011/02/vast-meadows-of-rare-seagrasses-atl)
-  - [Rare
-    seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-traill)
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

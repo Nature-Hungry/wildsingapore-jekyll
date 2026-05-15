@@ -64,6 +64,36 @@ page_images:
   caption: |
     <p><a href="pink">Pink button zoanthids</a> (Zoanthus vietnamensis) Polyps with pink edges at the top of the body column, more obvious in retracted polyp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
+links_references: |
+  **Links**  
+  - [Colonial
+    anemones (Order Zoanthidae)](http://mangrove.nus.edu.sg/pub/seashore/text/121)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Palytoxin
+    and zoanthids of death](http://wildshores.blogspot.com/2008/10/palytoxin-and-zoanthids-of-deathl) on the wild shores of singapore blog:
+    more links to the discovery, uses and abuses of the toxin.
+  **References**
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -87,7 +117,8 @@ Zoanthid taxonomy is undergoing some review so the number of known
 zoanthids species range from 200 to 60 depending on how the species
 are defined.   
   
-**Features:** Zoanthids look like
+## Features
+ Zoanthids look like
 tiny sea anemones. But while true sea anemones are solitary polyps, most
 zoanthids live in colonies like corals do. But zoanthids don't produce
 a hard skeleton like the hard coral colonies. Instead, their tissues
@@ -183,38 +214,7 @@ With grateful thanks to Dr James Reimer of JAMSTEC (Japan Agency for
 Marine-Earth Science and Technology) for identification of the zoanthids.
   
   
-**Links**  
 
-- [Colonial
-  anemones (Order Zoanthidae)](http://mangrove.nus.edu.sg/pub/seashore/text/121)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Palytoxin
-  and zoanthids of death](http://wildshores.blogspot.com/2008/10/palytoxin-and-zoanthids-of-deathl) on the wild shores of singapore blog:
-  more links to the discovery, uses and abuses of the toxin.
-
-**References**
-
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links)
 | [references](../../../references)

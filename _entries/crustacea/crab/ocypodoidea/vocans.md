@@ -86,6 +86,36 @@ page_images:
   caption: |
     <p>Seringat Kias mangrove lagoon, Sep 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10162112840238693">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Uca
+    vocans*](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Porcelain
+    fiddler crabs (*Uca vocans*)](http://mangrove.nus.edu.sg/guidebooks/text/2053) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - *[Uca vocans](https://singapore.biodiversity.online/taxo4254/mainSpace/Uca%20vocansl)* (Decapoda: Ocypodidae) Orange fiddler crab by Koh Li Ling Cheryl, 2015, on taxo4254.
+  - [*Uca
+    vocans*](http://www.fiddlercrab.info/u_vocansl) on the www.fiddlercrab.info website: photos, info,
+    links and references.
+  - [*Uca
+    vocans*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1769) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Shirley S. L. Lim. *Foraging ecology of Uca vocans in a Singapore mangrove*. June 2010. 7th International Crustacean Congress, At Qingdao, China.
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -94,7 +124,8 @@ our natural undisturbed shores, usually on softer, muddier areas more
 exposed to wave action than other fiddler crabs. This includes the
 bottom of swimming lagoons, shores near large boulders. It was previously known as *Uca vocans*.  
   
-**Features:** Body width 2-3cm. Body
+## Features
+ Body width 2-3cm. Body
 squarish. The male fiddler crab's enlarged pincer almost twice as
 long as the body width. The enlarged pincer's outer palm is pimply
 with a large triangular depression. The movable upper finger meets
@@ -163,38 +194,7 @@ Ubin, May 08
 
 ---
 
-**Links**  
 
-- [*Uca
-  vocans*](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Porcelain
-  fiddler crabs (*Uca vocans*)](http://mangrove.nus.edu.sg/guidebooks/text/2053) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- *[Uca vocans](https://singapore.biodiversity.online/taxo4254/mainSpace/Uca%20vocansl)* (Decapoda: Ocypodidae) Orange fiddler crab by Koh Li Ling Cheryl, 2015, on taxo4254.
-- [*Uca
-  vocans*](http://www.fiddlercrab.info/u_vocansl) on the www.fiddlercrab.info website: photos, info,
-  links and references.
-- [*Uca
-  vocans*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1769) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Shirley S. L. Lim. *Foraging ecology of Uca vocans in a Singapore mangrove*. June 2010. 7th International Crustacean Congress, At Qingdao, China.
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

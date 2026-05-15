@@ -64,7 +64,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/e
 on our Nothern shores. Sometimes, groups of small ones are seen under
 large stones.  
   
-**Features:** 2-3cm. Shell thick but
+## Features
+ 2-3cm. Shell thick but
 not as thick as those of [Chunky drills](chunky.htm). With
 variable patterns, some with spiralling grooves, others with a
 spiral pattern of bumps or spiral of small blunt spines. Shell

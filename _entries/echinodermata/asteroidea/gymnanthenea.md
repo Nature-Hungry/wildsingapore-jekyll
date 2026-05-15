@@ -107,13 +107,32 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
+links_references: |
+  **Links**
+  - [*Gymnanthenea
+    laevis*](http://www.sealifebase.org/summary/Gymnanthenea-laevisl) in SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Coleman,
+    Neville. 2007. Sea
+    stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
 ---
 
 ## Where seen?
  This sea star is sometimes seen, usually on our Northern shores. In
 seagrass meadows and coral rubble.  
   
-**Features:** Diameter with arms 7-15cm.
+## Features
+ Diameter with arms 7-15cm.
 Usually five arms long with rounded tips. The body is bordered by
 large, block-like scalloped plates with huge pedicellaria (pincer-like
 structures), with many spiny bumps along the arms. On the upper side,
@@ -185,24 +204,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Gymnanthenea
-  laevis*](http://www.sealifebase.org/summary/Gymnanthenea-laevisl) in SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Coleman,
-  Neville. 2007. Sea
-  stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.

@@ -35,6 +35,22 @@ page_images:
   caption: |
     <p>Tanah Merah, Jun 12Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150891779053660&set=a.10150868048393660.403268.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
+links_references: |
+   **Links**
+  - [*Otopleura
+    auriscati*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=141427&genusname=Otopleura&speciesname=auriscati)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat. 31 Aug 2017. [Two species of pyramidelloid snails new to Singapore: *Leucotina casta* and *Monotygma amoena*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-109-110.pdf). Singapore Biodiversity Records 2017: 109-110.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -44,7 +60,8 @@ snails](../potamididae/zonalis.htm). According to Abbott, it is
 uncommon. It is among the larger of the [pyramid
 snails](pyramidellidae.htm), which are mostly very tiny parasitic snails.   
   
-**Features:** 2-2.5cm. Shell thick conical
+## Features
+ 2-2.5cm. Shell thick conical
 with a pointed tip. Shell opening large ear-shaped white.
 Shell texture ribbed spirals, colour white with spirals of brown smudged spots, sometimes plain
 orange. Operculum oval, thin, made of a horn-like material, yellowish.
@@ -117,24 +134,7 @@ Amathinidae**
 With grateful thanks to [James
 Box](http://www.flickr.com/photos/jamesbox/) for identifying this snail on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/4010808323/).   
- **Links**
 
-- [*Otopleura
-  auriscati*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=141427&genusname=Otopleura&speciesname=auriscati)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat. 31 Aug 2017. [Two species of pyramidelloid snails new to Singapore: *Leucotina casta* and *Monotygma amoena*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-109-110.pdf). Singapore Biodiversity Records 2017: 109-110.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -71,6 +71,19 @@ page_images:
     <p>McGraw-Hill Book Co., Singapore.</p>
     <p>578 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
+links_references: |
+  **Links**  
+  - [Acorn
+    worms](http://mangrove.nus.edu.sg/pub/seashore/text/225)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Class
+    Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen) in Zooplankton and Micronekton of the North
+    Sea on the Marine Species Identification Portal: Technical fact
+    sheet.
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 if you
@@ -100,7 +113,8 @@ quite different from the segmented worms that we are more familiar
 with such as earthworms and [bristleworms](../polychaeta/polychaeta).
 These belong to Phylum Annelida.  
   
-**Features:** 9-45cm long, some reaching
+## Features
+ 9-45cm long, some reaching
 over 2m long! They are usually slimy brown or pink worms. Acorn worms
 are burrowing animals. They live in shallow waters, in mucus-lined
 burrows in sandy or muddy bottoms. Some just hide under stones and
@@ -182,19 +196,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 
 ---
-
-**Links**  
-
-- [Acorn
-  worms](http://mangrove.nus.edu.sg/pub/seashore/text/225)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Class
-  Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen) in Zooplankton and Micronekton of the North
-  Sea on the Marine Species Identification Portal: Technical fact
-  sheet.
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate

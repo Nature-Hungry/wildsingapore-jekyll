@@ -44,6 +44,67 @@ page_images:
   caption: |
     <p><a href="dotted.htm">Dotted dove snail</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Family
+    Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html) on
+    The
+    Gladys Archerd Shell Collection at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - [Mangrove
+    dove shell (*Columbella duclosiana*)](http://mangrove.nus.edu.sg/guidebooks/text/2086.htm) Ng, Peter K. L.
+    & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Pigeon
+    or Dove Shell (*Pyrene*)](http://mangrove.nus.edu.sg/pub/seashore/text/147.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro.htm) on [The
+    Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
+    Australian Museum: family introductions with photos of shells
+    and detailed fact sheets for many species.
+  - Family
+    Columbellidae in the Gastropods section by J.M. Poutiers in the
+    FAO Species Identification Guide for Fishery Purposes: The Living
+    Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Chan Sow-Yan. *Two small species of dove-shells found at East Coast Park: Mitrella pudica and Retizafra intricata*. 30 August 2019. Singapore Biodiversity Records 2019: 110-111 ISSN 2345-7597. National University of Singapore.
+  - Chan Sow-Yan & Lau Wing Lup. *New record of adorned dove-shell, Zafra ornata, in Singapore*. 30 August 2019. Singapore Biodiversity Records 2019: 105-107 ISSN 2345-7597. National University of Singapore.
+  - Tan Siong
+    Kiat, Tan Heok Hui & Iffah Iesa. 31 Oct 2017. *First Singapore record of Essington dove shell, Mitrella essingtonensis*. Singapore Biodiversity Records 2017: 138-139.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wong, H. W., 2008. *A new record of Mitrella moleculina (Duclos, 1840) (Gastropoda: Columbellidae) in Singapore, with notes on colour forms*. Nature in Singapore, 1: 81–83..
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Bunjamin
+    Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
+    PT Sarana Graha. Indonesia. 111 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Coleman,
+    Neville. 2003. *2002
+    Sea Shells: Catalogue of Indo-Pacific Mollusca*
+    Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 if you
@@ -58,7 +119,8 @@ some of our natural rocky shores and also in our seagrass meadows.
 But they are usually overlooked, the pretty patterns on their shells
 sometimes hidden by algae and encrusting animals.  
   
-**Features:** 1-2cm. The thick shell
+## Features
+ 1-2cm. The thick shell
 has a narrow opening that is thickened. A crab would probably find
 it difficult to stick a pincer into the opening. The thick smooth
 shell is also likely to be a slippery tricky thing for a crab to try
@@ -125,69 +187,7 @@ Zafra minuscula
 
 ---
 
-**Links**
 
-- [Family
-  Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html) on
-  The
-  Gladys Archerd Shell Collection at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- [Mangrove
-  dove shell (*Columbella duclosiana*)](http://mangrove.nus.edu.sg/guidebooks/text/2086.htm) Ng, Peter K. L.
-  & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Pigeon
-  or Dove Shell (*Pyrene*)](http://mangrove.nus.edu.sg/pub/seashore/text/147.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro.htm) on [The
-  Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
-  Australian Museum: family introductions with photos of shells
-  and detailed fact sheets for many species.
-- Family
-  Columbellidae in the Gastropods section by J.M. Poutiers in the
-  FAO Species Identification Guide for Fishery Purposes: The Living
-  Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Chan Sow-Yan. *Two small species of dove-shells found at East Coast Park: Mitrella pudica and Retizafra intricata*. 30 August 2019. Singapore Biodiversity Records 2019: 110-111 ISSN 2345-7597. National University of Singapore.
-- Chan Sow-Yan & Lau Wing Lup. *New record of adorned dove-shell, Zafra ornata, in Singapore*. 30 August 2019. Singapore Biodiversity Records 2019: 105-107 ISSN 2345-7597. National University of Singapore.
-- Tan Siong
-  Kiat, Tan Heok Hui & Iffah Iesa. 31 Oct 2017. *First Singapore record of Essington dove shell, Mitrella essingtonensis*. Singapore Biodiversity Records 2017: 138-139.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wong, H. W., 2008. *A new record of Mitrella moleculina (Duclos, 1840) (Gastropoda: Columbellidae) in Singapore, with notes on colour forms*. Nature in Singapore, 1: 81–83..
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Bunjamin
-  Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
-  PT Sarana Graha. Indonesia. 111 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Coleman,
-  Neville. 2003. *2002
-  Sea Shells: Catalogue of Indo-Pacific Mollusca*
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

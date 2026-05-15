@@ -72,6 +72,40 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
+links_references: |
+  **Links**
+  - [Guamanian
+    nerite (*Clithon oualaniensis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90111&genusname=Clithon&speciesname=oualaniensis) on SeaLife Base: Technical
+    fact sheet.
+  - [Guamanian
+    nerite (*Clithon oualaniensis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=188) on the NParks Flora and
+    Fauna website.
+  - [*Clithon
+    oualaniensis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clithon%20oualaniensis.html)
+    (Neritopsina: Neritidae) Dubious nerite snail by Stella Tan Li
+    Ling, 2012 on taxo4254.
+  - [*Nerita*
+    sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -87,7 +121,8 @@ mud in mangroves. Sites included: Sarimbun, Punggol, Pulau Ubin, Pasir
 Ris, Sungei Changi, Changi, Tanah Merah, Sungei Bedok, Marina East,
 Kallang and Tuas.   
   
-**Features:** 0.3-0.5cm. Shell thin spherical with a large semi-circular shell opening. Shell smooth glossy.
+## Features
+ 0.3-0.5cm. Shell thin spherical with a large semi-circular shell opening. Shell smooth glossy.
 Shell pattern yellow or olive background with delicate black lines in various
 designs; from simple lines to more complex patterns. It is said no
 two shells are identical. Operculum thin smooth horn-like material
@@ -143,42 +178,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Guamanian
-  nerite (*Clithon oualaniensis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90111&genusname=Clithon&speciesname=oualaniensis) on SeaLife Base: Technical
-  fact sheet.
-- [Guamanian
-  nerite (*Clithon oualaniensis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=188) on the NParks Flora and
-  Fauna website.
-- [*Clithon
-  oualaniensis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clithon%20oualaniensis.html)
-  (Neritopsina: Neritidae) Dubious nerite snail by Stella Tan Li
-  Ling, 2012 on taxo4254.
-- [*Nerita*
-  sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

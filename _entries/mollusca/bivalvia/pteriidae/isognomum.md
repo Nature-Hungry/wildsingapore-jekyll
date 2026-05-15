@@ -43,11 +43,29 @@ page_images:
   caption: |
     <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641287967945&set=a.10158641345557945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+links_references: |
+  **Links**
+  - [Wader
+    tree oyster (*Isognomon isognomum*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84370&genusname=Isognomon&speciesname=isognomum) on SeaLife Base:
+    Technical fact sheet.
+  - Wader tree
+    oyster (*Isognomon isgonomum*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  Like tongue depressors, these narrow long clams are
-sometimes seen stuck upright to rocks and coral rubble near reefs. **Features:** 10-15cm.
+sometimes seen stuck upright to rocks and coral rubble near reefs. ## Features
+ 10-15cm.
 The two-part shell is thick, flat and usually long and narrow, sometimes
 with a T-shape near the bottom where it is stuck to a hard surface
 with byssus threads. Usually dark, the shell is often coated with
@@ -87,25 +105,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Wader
-  tree oyster (*Isognomon isognomum*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84370&genusname=Isognomon&speciesname=isognomum) on SeaLife Base:
-  Technical fact sheet.
-- Wader tree
-  oyster (*Isognomon isgonomum*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

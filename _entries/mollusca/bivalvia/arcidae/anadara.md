@@ -30,6 +30,41 @@ page_images:
   caption: |
     <p>Tanah Merah, Apr 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+links_references: |
+  **Links**
+  - [Blood
+    cockle (*Anandara granosa*)](http://mangrove.nus.edu.sg/guidebooks/text/1022a.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Blood
+    Cockle (*Anadara granosa*)](http://mangrove.nus.edu.sg/pub/seashore/text/156.htm) and the [pea
+    crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.htm) that lives in it. Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - *[Anadara
+    granosa](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83570)*
+    on SeaLife Base: technical fact sheet.
+  - *Anadara* species in the Bivalves section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [*Tegillarca granosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tegillarca%20granosa.html) (Arcoida: Arcidae) Blood Cockles on Taxo4254.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -46,7 +81,8 @@ is what locals call it. They are now no longer as common as they
 used to be in the past. Those sold in our markets and restaurants
 come mostly from Malaysia.  
   
-**Features:** 3-4cm. The two-part
+## Features
+ 3-4cm. The two-part
 shell is heavy, and may be quite spherical. The surface is ribbed
 with small, rounded beads on the ribs. The
 animal's body is usually orange or reddish. So
@@ -85,43 +121,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Blood
-  cockle (*Anandara granosa*)](http://mangrove.nus.edu.sg/guidebooks/text/1022a.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Blood
-  Cockle (*Anadara granosa*)](http://mangrove.nus.edu.sg/pub/seashore/text/156.htm) and the [pea
-  crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.htm) that lives in it. Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- *[Anadara
-  granosa](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83570)*
-  on SeaLife Base: technical fact sheet.
-- *Anadara* species in the Bivalves section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [*Tegillarca granosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tegillarca%20granosa.html) (Arcoida: Arcidae) Blood Cockles on Taxo4254.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

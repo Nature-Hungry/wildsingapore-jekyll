@@ -88,7 +88,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leuc
 sometimes seen on our Northern shores. Silty, sandy areas near seagrasses.
 They are usually buried under the sand.  
   
-**Features:** Body width 1-2cm. Body
+## Features
+ Body width 1-2cm. Body
 smooth somewhat rhomboid, indeed resembling a tiny pebble. The head
 forms a blunt pointed tip with a pair of tiny eyes. In this way, its
 eyes can peep out while the rest of the crab is buried underground.

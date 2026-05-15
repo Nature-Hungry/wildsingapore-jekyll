@@ -103,7 +103,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/mauda
  This goby lives with a shrimp and is sometimes seen on some of our
 shores, on rubbly areas near reefs and among seagrasses.   
   
-**Features:** To about 7cm, tiny ones
+## Features
+ To about 7cm, tiny ones
 about 1.5cm also seen. Tiny young ones are strikingly black-and-white with a bright white snout and at least 5 white 'saddles'
 across its back. Older
 larger ones have a long and narrow body, also with 5 or more 'saddles' which are paler, and dark spots

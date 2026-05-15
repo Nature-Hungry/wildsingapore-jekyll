@@ -99,7 +99,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/syn
 It is possibly seasonally common with many individuals
 encountered over a wide area during a single trip, then none for some time.   
   
-**Features:** 20-30cm to 50 cm
+## Features
+ 20-30cm to 50 cm
 long. Body cylindrical, thin skinned. Four rows of large almost spherical bumps ('bobbles') along the
 body. Bobbles usually mottled, often separated by four distinct plain lines. Feeding tentacles large flat and feathery. Each
 sea cucumber usually seen alone and not in groups. In various colours

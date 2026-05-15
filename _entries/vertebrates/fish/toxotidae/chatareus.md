@@ -32,12 +32,29 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+links_references: |
+  **Links**  
+  - *[Toxotes chatareus](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1232)* on NParks Flora and Fauna website.
+  - [Spotted
+    archerfish (*Toxotes chatareus*)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet
+  - [Seven-spot
+    archerfish (*Toxotes chatareus*)](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar) from the [Australian
+    Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo of fish and closeup
+    of the structure of the fish's mouth with groove on the roof and
+    shape of tongue.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
  It is not seen as often as [Banded archerfishes](jaculatrix), but sometimes seen together with these.
 Under jetties, bridges in streams near mangroves.  
- **Features:** About 20cm, to about
+ ## Features
+ About 20cm, to about
 40cm long. Smaller black spots between the broad black bands. Sometimes
 also called the Seven-spot archerfish. From above, their eyes have
 a golden sheen. Banded archerfishes lack these black spots and their
@@ -74,24 +91,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- *[Toxotes chatareus](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1232)* on NParks Flora and Fauna website.
-- [Spotted
-  archerfish (*Toxotes chatareus*)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet
-- [Seven-spot
-  archerfish (*Toxotes chatareus*)](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar) from the [Australian
-  Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo of fish and closeup
-  of the structure of the fish's mouth with groove on the roof and
-  shape of tongue.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -50,6 +50,55 @@ page_images:
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+links_references: |
+  **Links**
+  - [Edible
+    Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - [Pearls](http://www.amnh.org/exhibitions/pearls/)
+    on the American Museum of Natural History site: with details on
+    what are pearls, freshwater and marine pearls and pearls in human
+    history.
+  - [Pearl
+    Oyster Farming and Pearl Culture](http://www.fao.org/docrep/field/003/AB726E/AB726E00.htm) February 1991 on the UN FAO
+    website.
+  - Family Ostreidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - From the wild shores of singapore blog.
+    - [The
+      unexpected benefit of oysters](http://wildshores.blogspot.com/2008/12/unexpected-benefit-of-oysters.html)
+    - [Oyster
+      reefs: most severely impacted marine habitat on the planet](http://wildshores.blogspot.com/2009/05/oyster-reefs-most-severely-impacted.html)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Katherine Lam and Brian Morton. 31 Aug 2009. *Oysters (Bivalvia:
+    Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore*.
+    Raffles Bulletin of Zoology 57(2): Pp. 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 if you
@@ -69,7 +118,8 @@ other hard surfaces of many of our shores.
 **What are true oysters?** True oysters
 belong to the Family Osteridae.   
   
-**Features:** The two-part shell is
+## Features
+ The two-part shell is
 thick and chalky. In true oysters, the left valve is glued firmly
 to a hard surface. What we see is the right valve. A layer of barnacles
 and algae often eventually develops over the right valve so that the
@@ -173,57 +223,7 @@ Striostrea mytiloides*
 
 ---
 
-**Links**
 
-- [Edible
-  Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- [Pearls](http://www.amnh.org/exhibitions/pearls/)
-  on the American Museum of Natural History site: with details on
-  what are pearls, freshwater and marine pearls and pearls in human
-  history.
-- [Pearl
-  Oyster Farming and Pearl Culture](http://www.fao.org/docrep/field/003/AB726E/AB726E00.htm) February 1991 on the UN FAO
-  website.
-- Family Ostreidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- From the wild shores of singapore blog.
-  - [The
-    unexpected benefit of oysters](http://wildshores.blogspot.com/2008/12/unexpected-benefit-of-oysters.html)
-  - [Oyster
-    reefs: most severely impacted marine habitat on the planet](http://wildshores.blogspot.com/2009/05/oyster-reefs-most-severely-impacted.html)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Katherine Lam and Brian Morton. 31 Aug 2009. *Oysters (Bivalvia:
-  Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore*.
-  Raffles Bulletin of Zoology 57(2): Pp. 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

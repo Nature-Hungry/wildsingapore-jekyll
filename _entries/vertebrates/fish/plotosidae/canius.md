@@ -76,6 +76,22 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+links_references: |
+  **Links**
+  - [Black
+    eel-catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Black
+    eeltail catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp. online version of
+  - [Gray
+    eel-catfish (*Plotosus canius*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet, with a photo of a really HUGE specimen held
+    up by two people!
 ---
 
 if you
@@ -184,22 +200,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Black
-  eel-catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Black
-  eeltail catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp. online version of
-- [Gray
-  eel-catfish (*Plotosus canius*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet, with a photo of a really HUGE specimen held
-  up by two people!
 
 [links](../../../links)
 | [references](../../../references)

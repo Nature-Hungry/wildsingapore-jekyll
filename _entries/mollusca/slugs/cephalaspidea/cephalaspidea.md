@@ -58,7 +58,8 @@ group of sea slugs ([Subclass Opistobranchia](../../slug.htm))
 but most have retained shells as adults, although the shell may be
 reduced or internal. There are 31 families of headshield slugs.  
   
-**Features:** Most have shells that are indeed bubble-like; thin and round. While
+## Features
+ Most have shells that are indeed bubble-like; thin and round. While
 some have shells large enough to contain the entire animal, in others,
 the shell is reduced or internal. All have a well developed headshield,
 used to plough beneath the sand. They have no tentacles. Tailed-slugs

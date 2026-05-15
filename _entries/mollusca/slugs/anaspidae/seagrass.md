@@ -52,13 +52,24 @@ page_images:
   caption: |
     <p>Kusu Island, Aug 23Photo shared by Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161114098318713&set=a.10161114118923713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
+links_references: |
+  **Links**
+  - [*Phyllaplysia*
+    spp.](http://www.seaslugforum.net/phyllaply.htm) on the [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet.
+  **References**
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
  This tiny slug is sometimes seen in numbers on [Tape
 seagrass](../../../plants/seagrass/enhalus.htm) on our Southern shores.  
   
-**Features:** 1cm or less. Long
+## Features
+ 1cm or less. Long
 narrow, flat body. It has two pairs of
 tentacles and tiny black eyes. Some seen were translucent green with fine white lines. The internal organs show through as white or yellow blobs or strings. One was seen was solid green. Another had colours and patterns that perfectly matched the encrusted Tape seagrass. Sometimes, extremely tiny ones are seen among bigger ones.  
   
@@ -108,18 +119,7 @@ Hantu, Jan 11
 
 ---
 
-**Links**
 
-- [*Phyllaplysia*
-  spp.](http://www.seaslugforum.net/phyllaply.htm) on the [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet.
-
-**References**
-
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

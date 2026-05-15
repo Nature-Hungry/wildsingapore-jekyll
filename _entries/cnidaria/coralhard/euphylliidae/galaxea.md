@@ -115,6 +115,44 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Galaxea
+    fascicularis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45907)* on SeaLife Base: Technical fact sheets.
+  - [*Galaxea*](http://species-identification.org/species.php?species_group=corals&id=106&menuentry=groepen)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 ## Where seen?
@@ -123,7 +161,8 @@ corallites are commonly seen on many of our Southern shores. They used to be pla
 Danwei's paper, the species found on many of our shores is *Galaxea
 fascicularis*.  
   
-**Features:** Colonies (10-20cm),
+## Features
+ Colonies (10-20cm),
 elsewhere are said to reach 5m in diameter. Colonies are dome-shaped,
 forming irregular boulders and mounds. Polyps and corallites about
 1cm in diameter. Corallites made up of long tubes tipped with a distinctive
@@ -238,46 +277,7 @@ astreata* (Vulnerable) *Galaxea fascicularis\*\** (Near Threatened)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Galaxea
-  fascicularis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45907)* on SeaLife Base: Technical fact sheets.
-- [*Galaxea*](http://species-identification.org/species.php?species_group=corals&id=106&menuentry=groepen)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

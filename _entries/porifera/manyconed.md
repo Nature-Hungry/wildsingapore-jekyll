@@ -69,11 +69,23 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3.jpg
+links_references: |
+  **Links**
+  - [*Spheciospongia*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Spheciospongia)
+    on SeaLife Base: technical fact sheet.
+  - [*Spheciospongia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170525)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This yellow sponge capped with cones that look like mini-volcanos
-is commonly seen on many of our shores, growing among coral rubble.  **Features:** 10-15cm. The sponge has a large base, usually
+is commonly seen on many of our shores, growing among coral rubble.  ## Features
+ 10-15cm. The sponge has a large base, usually
 globular with many small knobs on the sides. It is topped with several
 tall cones with large holes at the tips. When submerged, the holes
 are often open wide producing a strong 'eruption' or outflow that
@@ -130,19 +142,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Spheciospongia*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Spheciospongia)
-  on SeaLife Base: technical fact sheet.
-- [*Spheciospongia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170525)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

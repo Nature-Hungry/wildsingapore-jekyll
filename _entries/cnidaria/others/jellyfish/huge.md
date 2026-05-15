@@ -75,13 +75,19 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162470123158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info
+    about jellyfishes in Class Scyphozoa.
 ---
 
 ## Where seen?
  Enormous jellyfishes are sometimes seen washed ashore on our
 shores. Several may be seen, and then none seen again for some time. These are probably different species but are grouped here for convenience of display.  
   
-**Features:** Bell about 25-50cm diameter, oral arms about the same length as bell diameter
+## Features
+ Bell about 25-50cm diameter, oral arms about the same length as bell diameter
 (they seldom extend much beyond the bell). Some have finger-like bumps on the bell.  
   
 **Jelly friends:** Small fish have been seen sheltering among their arms.
@@ -150,11 +156,6 @@ With grateful thanks to [Dr
 Michael N Dawson](http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=73) of the University of California, Merced for
 identification of this jellyfish.  
   
-**Links**
-
-- [The
-  Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info
-  about jellyfishes in Class Scyphozoa.
 
 [links](../../../links)
 | [references](../../../references)

@@ -42,6 +42,20 @@ page_images:
   caption: |
     <p>Punggol, Dec 10Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5268501204/in/album-72157625372847848/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
+links_references: |
+  **Links**
+  - [Black mussel (*Xenostrobus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.htm) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Atrate
+    mussel (*Xenostrobus atratus*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=80195) from SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 Preliminary
+    Checklist of The Molluscs of Singapore (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -51,7 +65,8 @@ and other encrusting animals there. Dull greyish ones are sometimes
 seen in small clusters on mangrove trees and their roots in the mangroves.
 These may be *Xenostrobus* cf. *atratus*.  
   
-**Features:** 1-2cm long. The two-part
+## Features
+ 1-2cm long. The two-part
 shell is shiny black, thin, fragile and smooth. Those growing on rocks
 produce byssus threads, sometimes these form a kind of nest in which
 the tiny mussels are embedded. But the 'nest' is not as thick and
@@ -83,22 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Black mussel (*Xenostrobus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.htm) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Atrate
-  mussel (*Xenostrobus atratus*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=80195) from SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 Preliminary
-  Checklist of The Molluscs of Singapore (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

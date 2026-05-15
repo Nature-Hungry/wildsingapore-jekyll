@@ -61,6 +61,42 @@ page_images:
   caption: |
     <p>Terumbu Raya, Sep 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+links_references: |
+  **Links**  
+  - [Freckled
+    goatfish (*Upeneus tragula*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/322.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Mullidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=332) and *[Parupeneus
+    forsskali](http://www.fishbase.org/summary/10994)*[(Red Sea goatfish)](http://www.fishbase.org/summary/10994) and *[Parupeneus
+    cyclostomus](http://www.fishbase.org/summary/5990)*[(Gold-saddle goatfish)](http://www.fishbase.org/summary/5990) and *[Parupeneus
+    trifasciatus](http://www.fishbase.org/summary/5988)*[(Doublebar goatfish)](http://www.fishbase.org/summary/5988) and *[Upeneus
+    sundaicus](http://www.fishbase.org/summary/6643)*[(Ochrebanded goatfish)](http://www.fishbase.org/summary/6643) and *[Upeneus
+    sulphureus](http://www.fishbase.org/summary/4445)*[(Sulphur goatfish)](http://www.fishbase.org/summary/4445) and *[Upeneus
+    tragula](http://www.fishbase.org/summary/5443)*[(Freckled goatfish)](http://www.fishbase.org/summary/5443) and *[Upeneus
+    vittatus](http://www.fishbase.org/summary/4821)*[(Yellowstriped goatfish)](http://www.fishbase.org/summary/4821) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species [Freckled
+    goatfish (*Upeneus tragula*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5443).
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -84,7 +120,8 @@ very different from adults.
  
 
 
-**Features:** The Freckled goatfish is up to 30cm long, those seen about 4-8cm long.
+## Features
+ The Freckled goatfish is up to 30cm long, those seen about 4-8cm long.
 Body long and somewhat cylindrical, with a blunt snout. The pair of
 barbels under the chin is hard to spot from above on a resting fish.
 Those seen tend to have broad dark bars across the body. In some,
@@ -169,44 +206,7 @@ Upeneus tragula* (Freckled goatfish)
 
 ---
 
-**Links**  
 
-- [Freckled
-  goatfish (*Upeneus tragula*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/322.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Mullidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=332) and *[Parupeneus
-  forsskali](http://www.fishbase.org/summary/10994)*[(Red Sea goatfish)](http://www.fishbase.org/summary/10994) and *[Parupeneus
-  cyclostomus](http://www.fishbase.org/summary/5990)*[(Gold-saddle goatfish)](http://www.fishbase.org/summary/5990) and *[Parupeneus
-  trifasciatus](http://www.fishbase.org/summary/5988)*[(Doublebar goatfish)](http://www.fishbase.org/summary/5988) and *[Upeneus
-  sundaicus](http://www.fishbase.org/summary/6643)*[(Ochrebanded goatfish)](http://www.fishbase.org/summary/6643) and *[Upeneus
-  sulphureus](http://www.fishbase.org/summary/4445)*[(Sulphur goatfish)](http://www.fishbase.org/summary/4445) and *[Upeneus
-  tragula](http://www.fishbase.org/summary/5443)*[(Freckled goatfish)](http://www.fishbase.org/summary/5443) and *[Upeneus
-  vittatus](http://www.fishbase.org/summary/4821)*[(Yellowstriped goatfish)](http://www.fishbase.org/summary/4821) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species [Freckled
-  goatfish (*Upeneus tragula*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5443).
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

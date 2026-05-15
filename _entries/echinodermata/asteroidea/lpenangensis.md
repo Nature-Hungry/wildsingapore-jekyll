@@ -41,13 +41,27 @@ page_images:
   caption: |
     <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158032773713660&set=a.10158032775418660">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+links_references: |
+  **Links**
+  - [*Luidia penangensis*](http://www.sealifebase.org/summary/Luidia-penangensisl) on SeaLife Base: Technical fact sheet.
+   **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
  This
 elegant sea star is seldom seen. So far, only our Northern shores at Chek Jawa and Changi. According to Lane, it was recorded from the Changi-Ubin-Tekong area.  
   
-**Features:** Diameter with arms to 8-10cm. Six arms. The
+## Features
+ Diameter with arms to 8-10cm. Six arms. The
 arms are long, with slight constriction at the base, slightly rounded, and tapered to a pointed tip, edged
 with tiny spines along the sides. The upper surface of the body is
 covered with special flat-topped, pillar-like structures called paxillae.
@@ -82,19 +96,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
  
 
 ---
-
-**Links**
-
-- [*Luidia penangensis*](http://www.sealifebase.org/summary/Luidia-penangensisl) on SeaLife Base: Technical fact sheet.
-
- **References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

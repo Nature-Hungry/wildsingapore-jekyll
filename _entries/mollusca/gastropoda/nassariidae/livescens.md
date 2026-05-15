@@ -72,6 +72,22 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160145331/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+links_references: |
+  **Links**
+  - [*Nassarius
+    livescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105145) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Bunjamin
+    Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
+    PT Sarana Graha. Indonesia. 111 pp.
 ---
 
 ## Where seen?
@@ -79,7 +95,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae
 at low tide among seaweeds or on the sand near seagrasses, especially
 at night. Commonly seen on many of our shores. 'Livescens' means 'black and blue' in Latin.  
   
-**Features:** 2-2.5cm. Shell conical,
+## Features
+ 2-2.5cm. Shell conical,
 long and slender with neat, regular fine ridges and narrow white bands
 alternative with broad bands of brown or dark blue. Shell opening
 edged with broad smooth white portion, towards the mouth, darker and
@@ -133,24 +150,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Nassarius
-  livescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105145) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Bunjamin
-  Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
-  PT Sarana Graha. Indonesia. 111 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

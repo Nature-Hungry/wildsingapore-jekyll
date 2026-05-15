@@ -70,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/
  This frilly anemone with banded tentacles is seen on many of
 our Southern shores. Usually among coral rubble.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 8-12cm. Tentacles with many fine 'branches'
 that are bright yellow or white, forming contrasting bars across the
 usually darker tentacles. Generally

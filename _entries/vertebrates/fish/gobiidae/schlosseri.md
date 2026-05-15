@@ -62,6 +62,43 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+links_references: |
+  **Links**  
+  - [Giant
+    mudskipper (*Periophthalmodon schlosseri*)](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm) Ng, Peter
+    K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Giant
+    mudskipper (*Periophthalmodon schlosseri*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/370.htm) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Periophthalmodon
+    schlosseri*](https://singapore.biodiversity.online/taxo4254/mainSpace/Periophthalmodon%20schlosseri.html) (Percifornes: Gobiidae) Giant mudskipper by
+    Melody Soh Ming Li, 2011 on taxo4254.
+  - [*Periophthalmodon
+    schlosseri*](http://www.mudskipper.it/SpeciesPages/schl.html) on [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
+    with lots of photos.
+  - [Giant
+    mudskipper (*Periophthalmodon schlosseri*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8414) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Giant
+    mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/giant-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
+    photos and fact sheet.
+  **References**
+  - Tan Heok Hui and Theresa Su
+    . 28 Oct 2016. *Possible courtship behaviour of the giant mudskipper*. Singapore Biodiversity Records 2016: 149-150.
+  - Theresa L. Su & Shirley S. L. Lim. 12 August 2016. *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*. Raffles Bulletin of Zoology 64: 220–228.
+  - Serin Subaraj. 23 October 2015. *Giant mudskipper preying on crab-eating water snake*. Singapore Biodiversity Records 2015: 163
+  - S.Z. Zulkifli, F. Mohamat-Yusuff, A. Ismail, N. Miyazaki. 30 April 2012.   
+    [Food preference of the giant mudskipper *Periophthalmodon schlosseri* (Teleostei: Gobiidae)](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf). Knowledge and Management of Aquatic Ecosystems (2012) 405, 07.
+  - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. Nov 2006. [Taxonomical and morphological notes on two species of mudskippers, *Periophthalmus walailakae* and *Periophthalmodon schlosseri* (Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043). Zoolog Science 23(11):1043-7.
+  - Larson,
+    Helen K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 if you
@@ -74,7 +111,8 @@ learn only 3 things about them ...
 mudskipper is often seen in mudflats and the back mangroves of our Northern shores. At low tide,
 large ones are often seen in or near their 'swimming pool'. At high tide, they may be seen clinging to mangrove tree roots.  
   
-**Features:** 15-27cm long, it is
+## Features
+ 15-27cm long, it is
 the largest of our mudskippers. It has a black stripe along the side
 of its body. At night, it may have additional dark bars across the
 back.   
@@ -138,45 +176,7 @@ Ris, Dec 10.
 
 ---
 
-**Links**  
 
-- [Giant
-  mudskipper (*Periophthalmodon schlosseri*)](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm) Ng, Peter
-  K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Giant
-  mudskipper (*Periophthalmodon schlosseri*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/370.htm) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Periophthalmodon
-  schlosseri*](https://singapore.biodiversity.online/taxo4254/mainSpace/Periophthalmodon%20schlosseri.html) (Percifornes: Gobiidae) Giant mudskipper by
-  Melody Soh Ming Li, 2011 on taxo4254.
-- [*Periophthalmodon
-  schlosseri*](http://www.mudskipper.it/SpeciesPages/schl.html) on [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
-  with lots of photos.
-- [Giant
-  mudskipper (*Periophthalmodon schlosseri*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8414) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Giant
-  mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/giant-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
-  photos and fact sheet.
-
-**References**
-
-- Tan Heok Hui and Theresa Su
-  . 28 Oct 2016. *Possible courtship behaviour of the giant mudskipper*. Singapore Biodiversity Records 2016: 149-150.
-- Theresa L. Su & Shirley S. L. Lim. 12 August 2016. *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*. Raffles Bulletin of Zoology 64: 220–228.
-- Serin Subaraj. 23 October 2015. *Giant mudskipper preying on crab-eating water snake*. Singapore Biodiversity Records 2015: 163
-- S.Z. Zulkifli, F. Mohamat-Yusuff, A. Ismail, N. Miyazaki. 30 April 2012.   
-  [Food preference of the giant mudskipper *Periophthalmodon schlosseri* (Teleostei: Gobiidae)](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf). Knowledge and Management of Aquatic Ecosystems (2012) 405, 07.
-- Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. Nov 2006. [Taxonomical and morphological notes on two species of mudskippers, *Periophthalmus walailakae* and *Periophthalmodon schlosseri* (Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043). Zoolog Science 23(11):1043-7.
-- Larson,
-  Helen K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

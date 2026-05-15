@@ -70,13 +70,37 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - [*Euphyllia
+    glabrescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46644) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This small hard coral that resembles a cluster of sea anemones
 is sometimes seen on our undisturbed Southern shores.  
   
-**Features:** The colony appears to
+## Features
+ The colony appears to
 be boulder-shaped, those seen 10-20cm, sometimes much larger. But
 the colony is not solid (massive). Hidden under the tentacles, the
 corallites are branching and trumpet-shaped (phaceloid): long narrow
@@ -150,31 +174,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- [*Euphyllia
-  glabrescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46644) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

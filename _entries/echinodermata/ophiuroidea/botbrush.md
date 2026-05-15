@@ -72,7 +72,8 @@ muddy silty areas among seagrasses and seaweeds. Also among coral
 rubble or on sponges. More active at night, it is fast moving and highly sensitive to light, scurrying swiftly into
 hiding. Sometimes, many are seen together.  
   
-**Features:** Disk
+## Features
+ Disk
 diameter less than 1cm, arms about 2-5cm long. Central disk thick
 and distinctly petal-shaped. Along the sides of the arms are long cylindrical
 blunt spines that are held in such a way that the arm resembles a

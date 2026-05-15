@@ -39,6 +39,36 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+links_references: |
+  **Links**
+  - [Oriental
+    Whip Snakes](http://singaporesnakes.blogspot.com/search/label/Oriental%20Whip%20Snake) on the [Singapore
+    Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
+    and other posts.
+  - [Oriental
+    Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Oriental
+    Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental) on
+    Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+  - [*Ahaetulla
+    prasina*](http://www.iucnredlist.org/details/176329/0) on the IUCN Red List.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
 ---
 
 ## Where seen?
@@ -49,7 +79,8 @@ as a green vine. Indeed, it is also called the Green vine snake. It
 is active during the day as well as at night. It is found throughout
 Southeast Asia. It was previously known as *Dryophis prasinus*.  
   
-**Features:**To about 2m long.
+## Features
+To about 2m long.
 Considered the largest and longest of the whip snakes, it is nevertheless
 still quite a slender snake. It has a long thin tail that can take
 up nearly 40% of the length of the snake.   
@@ -107,36 +138,3 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 
 ---
-
-**Links**
-
-- [Oriental
-  Whip Snakes](http://singaporesnakes.blogspot.com/search/label/Oriental%20Whip%20Snake) on the [Singapore
-  Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
-  and other posts.
-- [Oriental
-  Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Oriental
-  Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental) on
-  Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
-- [*Ahaetulla
-  prasina*](http://www.iucnredlist.org/details/176329/0) on the IUCN Red List.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.

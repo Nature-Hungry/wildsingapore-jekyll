@@ -29,7 +29,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.j
  There is a patch of these sponges at Chek Jawa, growing among coral
 rubble. The base of the sponges are usually covered with [tiny
 red sea cucumbers](../echinodermata/holothuroidea/tinyred.htm) and sometimes [sponge
-synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) as well. **Features:** Sponge is horn-shaped and smooth. There does
+synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) as well. ## Features
+ Sponge is horn-shaped and smooth. There does
 not seem to be a hole at the tip and no bits sticking out at the sides.
 Clumps of many horns may be spread over 30-40cm. Each conical, horn-shaped
 portion about 5cm tall and 3cm wide at the base. Colours beige to

@@ -34,6 +34,38 @@ page_images:
   caption: |
     <p>Narcine maculata Changi, Jun 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7156284007/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+links_references: |
+  **Links**  
+  - [Family
+    Narcinidae](http://www.fishbase.org/summary/FamilySummary.php?ID=503) (Numbfishes), [Family
+    Narkidae](http://www.fishbase.org/summary/FamilySummary.php?ID=672) (Sleeper rays) and [*Narke
+    dipterygia* (Numbray)](http://www.fishbase.org/summary/13689) and [*Temera
+    hardwickii* (Finless sleeper ray)](http://www.fishbase.org/summary/8400) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets on individual
+    species
+  - [Volume
+    3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) edited by Kent E. Carpenter and Volker H.
+    Niem FAO Species Identification Guide for Fishery Purposes: The
+    Living Marine Resources of the Western Central Pacific on the
+    Food and Agriculture Organization of the United Nations (FAO)
+    website (pdf).
+  **References**
+  - Chan Sow Yan. 17 Jan 2014. *Dark-spotted
+    numbfish (Narcine maculata) neonate at Changi Beach*.
+    Singapore Biodiversity Records 2014: 22
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -47,7 +79,8 @@ Torpediniformes. Some scientists group these fishes in the Family Narcinidae
 which according to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=503) has 9 genera and 24 species. They are found in the Atlantic, Indian
 and Pacific Oceans. Numbfishes are different from [stingrays](../dasyatidae/dasyatidae.htm) that belong to the Family Dasyatidae.  
   
-**Features:** 15-60cm in diameter.
+## Features
+ 15-60cm in diameter.
 Body flattened disc-shaped. Like other rays, it takes water in from
 gill openings on the upperside of the body, expelling water out from
 gill slits on the underside, enlarged pectoral fins along the body
@@ -92,40 +125,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Family
-  Narcinidae](http://www.fishbase.org/summary/FamilySummary.php?ID=503) (Numbfishes), [Family
-  Narkidae](http://www.fishbase.org/summary/FamilySummary.php?ID=672) (Sleeper rays) and [*Narke
-  dipterygia* (Numbray)](http://www.fishbase.org/summary/13689) and [*Temera
-  hardwickii* (Finless sleeper ray)](http://www.fishbase.org/summary/8400) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets on individual
-  species
-- [Volume
-  3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) edited by Kent E. Carpenter and Volker H.
-  Niem FAO Species Identification Guide for Fishery Purposes: The
-  Living Marine Resources of the Western Central Pacific on the
-  Food and Agriculture Organization of the United Nations (FAO)
-  website (pdf).
-
-**References**
-
-- Chan Sow Yan. 17 Jan 2014. *Dark-spotted
-  numbfish (Narcine maculata) neonate at Changi Beach*.
-  Singapore Biodiversity Records 2014: 22
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

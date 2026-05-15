@@ -70,6 +70,12 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32974945200/ "Snail-hitching sea anemones on Mud whelk (Nassarius jacksonianus)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
+links_references: |
+  **Links**  
+  - [*Paraiptasia radiata*](https://www.sealifebase.se/summary/Paraiptasia-radiata.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Fautin and Roger H. Goodwill. January 2009. *Neoaiptasia morbilla new species (Cnidaria: Actiniaria), a sea anemone symbiont of sand-dwelling gastropods on Saipan, Mariana Islands, with comments on some other such associations*. Micronesica.
 ---
 
 ## Where seen?
@@ -78,7 +84,8 @@ occupied by living snails such as [whelks](../../mollusca/gastropoda/nassariidae
 silty sandy shores. They are more frequently encountered on our Northern
 shores, but also sometimes seen on other shores.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 extended 1-1.5cm. Tentacles many, long and thin, usually transparent
 with white bands. On the oral disk, often fine white stripes radiating
 from the mouth. Sometimes, a pair of tentacles are of a contrasting colour so that
@@ -138,14 +145,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Paraiptasia radiata*](https://www.sealifebase.se/summary/Paraiptasia-radiata.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Fautin and Roger H. Goodwill. January 2009. *Neoaiptasia morbilla new species (Cnidaria: Actiniaria), a sea anemone symbiont of sand-dwelling gastropods on Saipan, Mariana Islands, with comments on some other such associations*. Micronesica.
 
 [links](../../links.htm)
 | [references](../../references.htm)

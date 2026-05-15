@@ -36,6 +36,61 @@ page_images:
   caption: |
     <p><a href="quoyanus">Honeycomb grouper</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+links_references: |
+  **Links**  
+  - [Marbled
+    Grouper (*Epinephalus tauvina*)](http://mangrove.nus.edu.sg/pub/seashore/text/243) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Orange-spotted
+    Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [IUCN
+    Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/indexl): Details on groupers
+    and the threats they face.
+  - [Family
+    Serranidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  - From
+    the wild shores of singapore
+    - [Eating
+      groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefsl)
+    - [Groupers
+      nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gonel)
+    - [Groupers
+      are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architectsl)
+  **References**
+  - Neo Mei Lin. *Giant grouper at Semakau*. 28 December 2017. Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of Singapore.
+  - Kelvin K. P. Lim. 28 Jul 2017. *Longfin grouper, Epinephelus quoyanus, in Sisters Islands Marine Park*. Singapore Biodiversity Records 2017: 93.
+  - Toh Chay Hoon. 27 May 2016. *Humpback grouper off Pulau Satumu, Cromileptes altivelis*. Singapore Biodiversity Records 2016: 69
+  - Tan Heok Hui. 18 December 2015. *Sabah grouper in Singapore, Epinephelus lanceolatus x Epinephelus fuscoguttatus*. Singapore Biodiversity Records 2015: 197-198.
+  - Brian Cabrera, Desmond Ong & Siti Maryam Yaakub. 9 October 2015. *Probable breeding pair of grouper*. Singapore Biodiversity Records 2015: 154-155.
+  - Toh Chay Hoon & Kelvin K. P. Lim. 24 July 2015. *Humpback grouper at Chek Jawa*. Singapore Biodiversity Records 2015: 101.
+  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    and Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -59,7 +114,8 @@ can enjoy them in a different way.
 to the Family Serranidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289):
 the family has 62 genera and 449 species, found in tropical and temperate
 seas, with some entering freshwater. They range from small fishes
-a few centimeters long as adults, to giants 3m long. **Features:** Groupers come in various shapes and colours and
+a few centimeters long as adults, to giants 3m long. ## Features
+ Groupers come in various shapes and colours and
 patterns. Generally, they have large mouths. Groupers are among the
 top predators in calm, shallow waters. They hunt alone, and either
 creep up on their prey or lie in ambush. They suck in prey by suddenly
@@ -173,63 +229,7 @@ scorpionfish)
 
 ---
 
-**Links**  
 
-- [Marbled
-  Grouper (*Epinephalus tauvina*)](http://mangrove.nus.edu.sg/pub/seashore/text/243) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [IUCN
-  Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/indexl): Details on groupers
-  and the threats they face.
-- [Family
-  Serranidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-- From
-  the wild shores of singapore
-  - [Eating
-    groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefsl)
-  - [Groupers
-    nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gonel)
-  - [Groupers
-    are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architectsl)
-
-**References**
-
-- Neo Mei Lin. *Giant grouper at Semakau*. 28 December 2017. Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of Singapore.
-- Kelvin K. P. Lim. 28 Jul 2017. *Longfin grouper, Epinephelus quoyanus, in Sisters Islands Marine Park*. Singapore Biodiversity Records 2017: 93.
-- Toh Chay Hoon. 27 May 2016. *Humpback grouper off Pulau Satumu, Cromileptes altivelis*. Singapore Biodiversity Records 2016: 69
-- Tan Heok Hui. 18 December 2015. *Sabah grouper in Singapore, Epinephelus lanceolatus x Epinephelus fuscoguttatus*. Singapore Biodiversity Records 2015: 197-198.
-- Brian Cabrera, Desmond Ong & Siti Maryam Yaakub. 9 October 2015. *Probable breeding pair of grouper*. Singapore Biodiversity Records 2015: 154-155.
-- Toh Chay Hoon & Kelvin K. P. Lim. 24 July 2015. *Humpback grouper at Chek Jawa*. Singapore Biodiversity Records 2015: 101.
-- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  and Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

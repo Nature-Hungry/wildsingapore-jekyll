@@ -47,7 +47,8 @@ from Edward E.
 Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*[Invertebrate
 Zoology](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FInvertebrate-Zoology-Functional-Evolutionary-Approach%2Fdp%2F0030259827%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175579272%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963   
   
-**Features:** 'Deca' means ten and 'poda' means foot. Indeed, members of this Order
+## Features
+ 'Deca' means ten and 'poda' means foot. Indeed, members of this Order
 have 10 leg-like appendages. 5 pairs are usually walking legs while
 1-3 may be tipped with claws. The abdomen may also have appendages called pleopods that are used
 in swimming. Or to generate water currents, particularly important

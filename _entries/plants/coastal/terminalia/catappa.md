@@ -57,6 +57,54 @@ page_images:
     <p>St.</p>
     <p>John's Island, Aug 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg
+links_references: |
+  **Links**
+  - *[Terminalia
+    catappa](http://floraofsingapore.wordpress.com/2010/10/17/terminalia-catappa/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - *[Terminalia
+    catappa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3181)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - *[Terminalia catappa](https://singapore.biodiversity.online/taxo4254/mainSpace/Terminalia%20catappal)* (Myrtales: Combretaceae) Sea Almond by Chua Ziying Emily, 2014, on taxo4254.
+  - [Know
+    10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=183&Itemid=161)
+    on the NParks website: fact sheet with lots of photos of various
+    parts of the tree.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [Autumn
+    colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shoresl) on the wild shores of singapore blob.
+  - [Larval host plant for butterflies: Sea Almond](http://butterflycircle.blogspot.com/2017/05/larval-host-plant-for-butterflies-seal) on the Butterflies of Singapore blog.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tee Swee
+    Ping and Wee Mei Lynn (eds). 2001. *Trees of our Garden City*.
+    National Parks Board. 202 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Wee Yeow
+    Chin. 1992. *A
+    Guide to Medicinal Plants*. The Singapore Science Centre.
+    160pp.
 ---
 
 ## Where seen?
@@ -80,7 +128,8 @@ tree is freshly green. The tree then flowers after the new leaves
 have developed. This habit occurs even in saplings 3-4 years old.
   
   
-**Features:** A tall tree (20-35m)
+## Features
+ A tall tree (20-35m)
 with a typical pagoda-shaped growth form: it sends out a single stem
 from the top centre. When the single stem reaches a good height, it
 sends out several horizontal branches. The bark is grey, fissured
@@ -153,56 +202,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Terminalia
-  catappa](http://floraofsingapore.wordpress.com/2010/10/17/terminalia-catappa/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- *[Terminalia
-  catappa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3181)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- *[Terminalia catappa](https://singapore.biodiversity.online/taxo4254/mainSpace/Terminalia%20catappal)* (Myrtales: Combretaceae) Sea Almond by Chua Ziying Emily, 2014, on taxo4254.
-- [Know
-  10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=183&Itemid=161)
-  on the NParks website: fact sheet with lots of photos of various
-  parts of the tree.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [Autumn
-  colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shoresl) on the wild shores of singapore blob.
-- [Larval host plant for butterflies: Sea Almond](http://butterflycircle.blogspot.com/2017/05/larval-host-plant-for-butterflies-seal) on the Butterflies of Singapore blog.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tee Swee
-  Ping and Wee Mei Lynn (eds). 2001. *Trees of our Garden City*.
-  National Parks Board. 202 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1992. *A
-  Guide to Medicinal Plants*. The Singapore Science Centre.
-  160pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

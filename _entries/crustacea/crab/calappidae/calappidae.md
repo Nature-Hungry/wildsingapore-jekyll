@@ -47,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepat
 ## Where seen?
  Box crabs are sometimes seen on some of our shores.  
   
-**Features:** Body width 8-10cm. The crab does look rather box-like with a
+## Features
+ Body width 8-10cm. The crab does look rather box-like with a
 semi-circular body and wing-like extensions on the sides and back
 that cover part of the walking legs. It holds its pincers in front
 of its body to form a boxy shape. So it is sometimes also called the

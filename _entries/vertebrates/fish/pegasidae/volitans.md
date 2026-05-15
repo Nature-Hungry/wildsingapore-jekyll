@@ -95,6 +95,41 @@ page_images:
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153934852983713.1073742004.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
+links_references: |
+  **Links**
+  - [Slender
+    Seamoth (*Pegasus volitans*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Pegasidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=286) amd [Longtail
+    Seamoth (](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4609)*[Pegasus
+    volitans)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4609)* from
+    [FishBase](http://www.fishbase.org/): Technical fact
+    sheet.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kelvin K. P. Lim & Jasond Ong. 9 October 2015. *New record of brick seamoth in Singapore*. Singapore Biodiversity Records 2015: 150
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -123,7 +158,8 @@ Some scientists place them with the seahorse in the [Family
 Syngnathidae](../syngnathidae/syngnathidae).Pegasus is the
 winged horse of Greek mythology. In one version of the myth, Pegasus
 was the son of Poseidon, God of the Sea and Medusa.  
- **Features:** 4-6cm. Body hard, enclosed by a bony skeleton
+ ## Features
+ 4-6cm. Body hard, enclosed by a bony skeleton
 of rigid plates. The tail is enclosed in bony rings. It has a long
 stiff pointed snout that is made up of modified nose bones. The small
 mouth is found under the snout. The mouth is protrusible, i.e., it
@@ -225,43 +261,7 @@ natans=\*\*Pegasus volitans* *+Pegasus laternarius* (Brick seamoth) *Pegasus vol
 
 ---
 
-**Links**
 
-- [Slender
-  Seamoth (*Pegasus volitans*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Pegasidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=286) amd [Longtail
-  Seamoth (](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4609)*[Pegasus
-  volitans)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4609)* from
-  [FishBase](http://www.fishbase.org/): Technical fact
-  sheet.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kelvin K. P. Lim & Jasond Ong. 9 October 2015. *New record of brick seamoth in Singapore*. Singapore Biodiversity Records 2015: 150
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

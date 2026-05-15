@@ -75,6 +75,28 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, May 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2931753916967242&set=a.2931754650300502">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
+links_references: |
+  **Links**  
+  - [Round-faced
+    Batfish (*Platax teira*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Ephippidae (Spadefishes, batfishes, scats)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=340) and [*Platax
+    batavianus* (Humpback batfish)](http://www.fishbase.org/summary/10547) and [*Platax
+    orbicularis* (Orbicular batfish)](http://www.fishbase.org/summary/5737) and [*Platax
+    teira* (Longfin batfish)](http://www.fishbase.org/summary/5739) from [FishBase](http://www.fishbase.org/).
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Koh Kwan Siong. 18 December 2015. *Batfishes off Pulau Hantu*. Singapore Biodiversity Records 2015: 205-206.
+  - Toh Chay Hoon. 31 October 2013. *Juvenile longfin batfish (Platax pinnatus) in the Singapore Straits*. Singapore Biodiversity Records 2013: 41
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
@@ -87,7 +109,8 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=340
 the family has 7 genera and 20 species, found in the Atlantic, Indian
 and Pacific Oceans. Those recorded for Singapore belong to *Platax* sp.   
   
-**Features:** The body is flattened
+## Features
+ The body is flattened
 sideways. The mouth is small. Adults are silvery and rather squarish.
 Hence their other common name of Spadefish. Juveniles may look very
 different in colour and pattern and have very elongated dorsal and
@@ -162,30 +185,7 @@ batavianus* (Batavia batfish) *Platax orbicularis
 
 ---
 
-**Links**  
 
-- [Round-faced
-  Batfish (*Platax teira*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Ephippidae (Spadefishes, batfishes, scats)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=340) and [*Platax
-  batavianus* (Humpback batfish)](http://www.fishbase.org/summary/10547) and [*Platax
-  orbicularis* (Orbicular batfish)](http://www.fishbase.org/summary/5737) and [*Platax
-  teira* (Longfin batfish)](http://www.fishbase.org/summary/5739) from [FishBase](http://www.fishbase.org/).
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Koh Kwan Siong. 18 December 2015. *Batfishes off Pulau Hantu*. Singapore Biodiversity Records 2015: 205-206.
-- Toh Chay Hoon. 31 October 2013. *Juvenile longfin batfish (Platax pinnatus) in the Singapore Straits*. Singapore Biodiversity Records 2013: 41
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

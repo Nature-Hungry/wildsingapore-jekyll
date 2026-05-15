@@ -39,7 +39,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128
 small blobs with bright orange spots are sometimes seen on some of
 our shores.  
   
-**Features:** Colony
+## Features
+ Colony
 about 5-8cm in diameter. Rubbery blobs found near seagrasses. Dark
 blue background with bright orange spots arranged in petal-like shapes.
 

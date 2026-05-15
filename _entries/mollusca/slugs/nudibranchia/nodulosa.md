@@ -83,6 +83,28 @@ page_images:
   caption: |
     <p>Big Sisters Island, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157035133476295&set=a.10157035131206295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m6l.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Hoplodoris
+    nodulosa*](http://www.seaslugforum.net/find/hoplnodu)
+  - *[Hoplodoris
+    nodulosa](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=87375&genusname=Hoplodoris&speciesname=nodulosa)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -90,7 +112,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nod
 seen on on our Northern shores among seagrasses and seaweeds. It appears
 to be seasonally common, often many seen during a single visit, then not seen again for some time.   
   
-**Features:** 4-5cm long. Hard broad
+## Features
+ 4-5cm long. Hard broad
 body covered with rounded bumps of different sizes. With a broad band down
 the centre of the body which has fewer or no bumps and is usually
 darker in colour. Colour usually pale beige, brown, pinkish. Sometimes with a few darker smudged bars perpendicular to the body margin. The body doesn't fall apart when handled. Gills
@@ -142,30 +165,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Hoplodoris
-  nodulosa*](http://www.seaslugforum.net/find/hoplnodu)
-- *[Hoplodoris
-  nodulosa](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=87375&genusname=Hoplodoris&speciesname=nodulosa)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

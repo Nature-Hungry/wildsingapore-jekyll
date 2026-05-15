@@ -70,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/bl
 neon inner tentacles is sometimes seen on some of our shores. Among
 coral rubble, near seagrasses.  
   
-**Features:** 12-15cm in diameter.
+## Features
+ 12-15cm in diameter.
 The very long tapering outer tentacles are transparent to pale white or beige.
 In some, the pale outer tentacles have fine darker stripes. The 'mouth'
 is very dark brown to black while the short inner tentacles are usually

@@ -82,13 +82,29 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
+links_references: |
+  **Links**
+  - [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp
 ---
 
 ## Where seen?
  This large leathery soft coral often resembles a pile of pimply rubber gloves at low tide. It is
 seen on our Southern shores, on coral rubble.  
   
-**Features:** Colony 20-40cm or larger. The colony usually looks like a mushroom;
+## Features
+ Colony 20-40cm or larger. The colony usually looks like a mushroom;
 with a flat, broad disk attached to a hard surface by a very short,
 very broad central base. The edge of the disk usually is fringed with
 long cylindrical finger-like protrusions. When out of water, the colony
@@ -179,23 +195,7 @@ Lobophytum sarcophytoides*
 
 ---
 
-**Links**
 
-- [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
 
 [links](../../links.htm)
 | [references](../../references.htm)

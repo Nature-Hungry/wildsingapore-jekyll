@@ -75,13 +75,41 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
+links_references: |
+  **Links**
+  - [Euphyllia](http://www.eol.org/pages/101073)
+    on the [Encyclopedia of Life](http://www.eol.org/):
+    facts and photos.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Chou Loke
+    Meng. 1989. *Hard corals of Singapore*. Reef Ecology Study
+    Team, the National University of Singapore. A set of 4 posters.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  These distinctive hard corals with long tentacles,
 most with U-shaped tips are sometimes seen on some of our shores.   
   
-**Features:** Euphyllia corals are
+## Features
+ Euphyllia corals are
 among the few hard corals that are identified by the shape of the
 polyp rather than just the skeleton. In fact, some *Euphyllia* species
 cannot be identified just by their skeleton alone. The polyps are
@@ -242,35 +270,7 @@ Group 2: Species forming brain-like colonies (flabello-meandroid)
 
 ---
 
-**Links**
 
-- [Euphyllia](http://www.eol.org/pages/101073)
-  on the [Encyclopedia of Life](http://www.eol.org/):
-  facts and photos.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Chou Loke
-  Meng. 1989. *Hard corals of Singapore*. Reef Ecology Study
-  Team, the National University of Singapore. A set of 4 posters.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

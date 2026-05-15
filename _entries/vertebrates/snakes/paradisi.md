@@ -34,6 +34,34 @@ page_images:
     <p>This one landed on the road from a tall tree.</p>
     <p>Pulau Ubin, Jan 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
+links_references: |
+  **Links**
+  - [Paradise
+    Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Paradise
+    Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree) on Chan Kwok Wai's Wildlife Singapore: fact sheet
+    with photos.
+  - [Flying
+    snake home page](http://www.flyingsnake.org/) by Jake Socha with lots of photos, videos
+    and information about this snake.
+  - *[Chrysopelea paradisi](https://singapore.biodiversity.online/taxo4254/mainSpace/Chrysopelea%20paradisil)* (Squamata: Colubridae) Paradise Gliding Snake on Taxo4254.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
 ---
 
 ## Where seen?
@@ -45,7 +73,8 @@ According to Nick Baker, in Singapore, commonly encountered in a variety
 of habitats including mangrove, secondary forest, and parks and gardens.
 An adept climber, its favoured haunt is the crown of coconut palms.  
   
-**Features:**To about 1.2m
+## Features
+To about 1.2m
 long. A long slender snake with a cylindrical body. The head is relatively
 flat and distinct from body with yellow spots in five bands. Colours
 upperside black 'netting' pattern on golden yellow or green, sometimes
@@ -104,36 +133,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Paradise
-  Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Paradise
-  Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree) on Chan Kwok Wai's Wildlife Singapore: fact sheet
-  with photos.
-- [Flying
-  snake home page](http://www.flyingsnake.org/) by Jake Socha with lots of photos, videos
-  and information about this snake.
-- *[Chrysopelea paradisi](https://singapore.biodiversity.online/taxo4254/mainSpace/Chrysopelea%20paradisil)* (Squamata: Colubridae) Paradise Gliding Snake on Taxo4254.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

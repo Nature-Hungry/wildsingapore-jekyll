@@ -41,6 +41,50 @@ page_images:
   caption: |
     <p><a href="javus">Streaked rabbitfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+links_references: |
+  **Links**  
+  - [White-spotted
+    Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) and [Double-barred
+    Rabbitfish (*Siganus virgatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Siganidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=413) and [*Siganus
+    canaliculatus* (White-spotted spinefoot)](http://www.fishbase.org/summary/4456) and [*Siganus
+    punctatus* (Goldspotted spinefoot)](http://www.fishbase.org/summary/4621) and [*Siganus
+    fuscescens* (Mottled spinefoot)](http://www.fishbase.org/summary/4616) and [*Siganus
+    guttatus* (Goldlined spinefoot)](http://www.fishbase.org/summary/4588) and [*Siganus
+    javus* (Streaked spinefoot)](http://www.fishbase.org/summary/4618) and [*Siganus
+    spinus* (Little spinefoot)](http://www.fishbase.org/summary/4457) and [*Siganus
+    stellatus* (Brown-spotted spinefoot)](http://www.fishbase.org/summary/4622) and [*Siganus
+    corallinus* (Blue-spotted spinefoot)](http://www.fishbase.org/summary/4611) and [*Siganus
+    vermiculatus* (Vermiculated spinefoot)](http://www.fishbase.org/summary/4561) and [*Siganus
+    virgatus* (Barhead spinefoot)](http://www.fishbase.org/summary/4624) and [*Siganus
+    vulpinus* (Foxface)](http://www.fishbase.org/summary/4629) from [FishBase](http://www.fishbase.org/):
+    Technical fact.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Jeffrey K. Y. Low. *Foxface rabbitfish, Siganus vulpinus, in the Singapore Strait* . 28 June 2019. Singapore Biodiversity Records 2019: 79 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -61,7 +105,8 @@ to Family Siganidae. According to [FishBase](http://www.fishbase.org/Summary/Fam
 the family has 2 genera and 25 species. They are found in the Indo-Pacific
 and Mediterranean seas.   
   
-**Features:** Can be quite small (about
+## Features
+ Can be quite small (about
 8cm or less) to quite large (about 15cm). It is named
 for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
@@ -127,52 +172,7 @@ Siganus virgatus* (Double-barred rabbitfish) *Siganus vulpinus* (Foxface rabbitf
 
 ---
 
-**Links**  
 
-- [White-spotted
-  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) and [Double-barred
-  Rabbitfish (*Siganus virgatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Siganidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=413) and [*Siganus
-  canaliculatus* (White-spotted spinefoot)](http://www.fishbase.org/summary/4456) and [*Siganus
-  punctatus* (Goldspotted spinefoot)](http://www.fishbase.org/summary/4621) and [*Siganus
-  fuscescens* (Mottled spinefoot)](http://www.fishbase.org/summary/4616) and [*Siganus
-  guttatus* (Goldlined spinefoot)](http://www.fishbase.org/summary/4588) and [*Siganus
-  javus* (Streaked spinefoot)](http://www.fishbase.org/summary/4618) and [*Siganus
-  spinus* (Little spinefoot)](http://www.fishbase.org/summary/4457) and [*Siganus
-  stellatus* (Brown-spotted spinefoot)](http://www.fishbase.org/summary/4622) and [*Siganus
-  corallinus* (Blue-spotted spinefoot)](http://www.fishbase.org/summary/4611) and [*Siganus
-  vermiculatus* (Vermiculated spinefoot)](http://www.fishbase.org/summary/4561) and [*Siganus
-  virgatus* (Barhead spinefoot)](http://www.fishbase.org/summary/4624) and [*Siganus
-  vulpinus* (Foxface)](http://www.fishbase.org/summary/4629) from [FishBase](http://www.fishbase.org/):
-  Technical fact.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Jeffrey K. Y. Low. *Foxface rabbitfish, Siganus vulpinus, in the Singapore Strait* . 28 June 2019. Singapore Biodiversity Records 2019: 79 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

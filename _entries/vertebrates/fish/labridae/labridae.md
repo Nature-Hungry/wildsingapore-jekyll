@@ -67,6 +67,63 @@ page_images:
   caption: |
     <p><a href="oligacanthus.htm">Singapore tuskfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - Tan, Leo
+    W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [IUCN
+    Grouper and Wrasse Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html) on the endangered members
+    of the Family Labridae with latest Red List for this group.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Adib Adris & Vincent Ting. 29 May 2020. *Floral wrasse at Seringat-Kias*. Singapore Biodiversity Records 2020: 56 ISSN 2345-7597
+  - Adib Adris. 30 April 2020. *Erdmann’s wrasse off Lazarus Island*. Singapore Biodiversity Records 2020: 45 ISSN 2345-7597
+  - Adib Adris. 20 December 2019. *A moon wrasse (Thalassoma lunare) off Lazarus Island.* Singapore Biodiversity Records 2019: 156 ISSN 2345-7597, National University of Singapore.
+  - Daisuke Taira. *A Singapore record of the cutribbon wrasse, Stethojulis interrupta*. 31 October 2018. Singapore Biodiversity Records 2018: 114 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. *A cheek-lined Maori-wrasse in the Singapore Strait*. 22 June 2018. Singapore Biodiversity Records 2018: 65 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. 29 Sep 2017. *Argus wrasses at Pulau Seringat*. Singapore Biodiversity Records 2017: 131-132.
+  - Marcus F. C. Ng. 31 Oct 2017. *Singapore tuskfish at Cyrene Reef* Singapore Biodiversity Records 2017: 147
+  - Jeffrey K. Y. Low & Koh Kwan Siong. 29 January 2016. *Recent sightings of shoulder-spot wrasse in Singapore waters, Leptojulis cyanopleura*. Singapore Biodiversity Records 2016: 12
+  - Jeffrey K. Y. Low. 21 August 2015. *Pastel-green wrasse in the Singapore Strait*. Singapore Biodiversity Records 2015: 114
+  - Jeffrey K. Y. Low. 29 May 2015. *Orangefin wrasse at Pulau Satumu*. Singapore Biodiversity Records 2015: 64
+  - Jeffrey K. Y. Low. 15 May 2015. *Slingjaw wrasse in the Singapore Strait*. Singapore Biodiversity Records 2015: 58
+  - Toh Chay Hoon, Jeffrey K. Y. Low & Debby Ng. 13 Feb 2015. *Bluestreak cleaner wrasse off Big Sister Island*. Singapore Biodiversity Records 2015: 27
+  - Tan Heok Hui & Kelvin K. P. Lim. 21 November 2014. *Moon wrasse off Kusu Island, Thalassoma lunarer*. Singapore Biodiversity Records 2014: 293.
+  - Ria Tan. 6 June 2014. *New record of triplebar razorfish in Singapore, Iniistius trivittatus*. Singapore Biodiversity Records 2014: 154
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Sparks,
+    John, 1999. *Battle
+    of the Sexes in the Animal World*
+    BBC Worldwide, London. 224 pp.
 ---
 
 if you
@@ -92,7 +149,8 @@ and Pacific oceans and coming in a wide range of sizes and colours.
 Being such a large family, wrasses come in a wide range of sizes and
 habits. They range from small fish 8cm long to large ones up to 40cm
 long. The Napolean wrasse (*Cheilinus undulatus*) can grow to
-2m long and weigh up to 180kgs!  **Features:** Many wrasses are brightly coloured, mostly greenish
+2m long and weigh up to 180kgs!  ## Features
+ Many wrasses are brightly coloured, mostly greenish
 but with patterns of blue, yellow and red. Often young fish are different
 from the adults, their colours and patterns changing as they develop.
 As adults, they also change colours during breeding season, the males
@@ -209,65 +267,7 @@ Thalassoma lunare* (Moon wrasse)
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- Tan, Leo
-  W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [IUCN
-  Grouper and Wrasse Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html) on the endangered members
-  of the Family Labridae with latest Red List for this group.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Adib Adris & Vincent Ting. 29 May 2020. *Floral wrasse at Seringat-Kias*. Singapore Biodiversity Records 2020: 56 ISSN 2345-7597
-- Adib Adris. 30 April 2020. *Erdmann’s wrasse off Lazarus Island*. Singapore Biodiversity Records 2020: 45 ISSN 2345-7597
-- Adib Adris. 20 December 2019. *A moon wrasse (Thalassoma lunare) off Lazarus Island.* Singapore Biodiversity Records 2019: 156 ISSN 2345-7597, National University of Singapore.
-- Daisuke Taira. *A Singapore record of the cutribbon wrasse, Stethojulis interrupta*. 31 October 2018. Singapore Biodiversity Records 2018: 114 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. *A cheek-lined Maori-wrasse in the Singapore Strait*. 22 June 2018. Singapore Biodiversity Records 2018: 65 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. 29 Sep 2017. *Argus wrasses at Pulau Seringat*. Singapore Biodiversity Records 2017: 131-132.
-- Marcus F. C. Ng. 31 Oct 2017. *Singapore tuskfish at Cyrene Reef* Singapore Biodiversity Records 2017: 147
-- Jeffrey K. Y. Low & Koh Kwan Siong. 29 January 2016. *Recent sightings of shoulder-spot wrasse in Singapore waters, Leptojulis cyanopleura*. Singapore Biodiversity Records 2016: 12
-- Jeffrey K. Y. Low. 21 August 2015. *Pastel-green wrasse in the Singapore Strait*. Singapore Biodiversity Records 2015: 114
-- Jeffrey K. Y. Low. 29 May 2015. *Orangefin wrasse at Pulau Satumu*. Singapore Biodiversity Records 2015: 64
-- Jeffrey K. Y. Low. 15 May 2015. *Slingjaw wrasse in the Singapore Strait*. Singapore Biodiversity Records 2015: 58
-- Toh Chay Hoon, Jeffrey K. Y. Low & Debby Ng. 13 Feb 2015. *Bluestreak cleaner wrasse off Big Sister Island*. Singapore Biodiversity Records 2015: 27
-- Tan Heok Hui & Kelvin K. P. Lim. 21 November 2014. *Moon wrasse off Kusu Island, Thalassoma lunarer*. Singapore Biodiversity Records 2014: 293.
-- Ria Tan. 6 June 2014. *New record of triplebar razorfish in Singapore, Iniistius trivittatus*. Singapore Biodiversity Records 2014: 154
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Sparks,
-  John, 1999. *Battle
-  of the Sexes in the Animal World*
-  BBC Worldwide, London. 224 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

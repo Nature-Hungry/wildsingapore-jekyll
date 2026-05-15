@@ -72,6 +72,59 @@ page_images:
   caption: |
     <p><a href="cymo">Hairy coral crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+links_references: |
+  **Links**  
+  - [Poisonous
+    Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252), *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*,
+     *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*,
+    [Common
+    Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208), *[Actaeodes
+    mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*, [Red
+    Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Tetrodotoxin
+    ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv) by Jim Johnson on Molecule
+    of the Month of the School of Chemistry, University of Bristol
+    website: lots of details about the toxin's effects, creatures
+    that carry it and how it came about, with LOTS of links to more
+    about tetrodotoxin.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Gopalakrishnakone
+    P., 1990. *A
+    Colour Guide to Dangerous Animals*.
+    Venom & Toxin Research Group, Faculty of Medicine, National
+    University of Singapore. 156 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai�'i
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -92,7 +145,8 @@ are only sometimes seen. They are more active at night, but nevertheless,
 usually slow moving and always near some hideaway into which they
 scuttle at the first sign of danger.  
   
-**Features:** Body
+## Features
+ Body
 width 5-10cm. Many members are colourful or strikingly patterned.
 This probably serves as a warning. The group includes among the
 most poisonous crabs in Singapore. Their
@@ -246,61 +300,7 @@ Endangered) *Zalasius horii* (Paddington Bear crab)
 
 ---
 
-**Links**  
 
-- [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252), *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*,
-   *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*,
-  [Common
-  Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208), *[Actaeodes
-  mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*, [Red
-  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Tetrodotoxin
-  ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv) by Jim Johnson on Molecule
-  of the Month of the School of Chemistry, University of Bristol
-  website: lots of details about the toxin's effects, creatures
-  that carry it and how it came about, with LOTS of links to more
-  about tetrodotoxin.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Gopalakrishnakone
-  P., 1990. *A
-  Colour Guide to Dangerous Animals*.
-  Venom & Toxin Research Group, Faculty of Medicine, National
-  University of Singapore. 156 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai�'i
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

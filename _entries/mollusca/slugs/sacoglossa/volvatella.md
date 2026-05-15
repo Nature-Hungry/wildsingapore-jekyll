@@ -99,13 +99,35 @@ page_images:
   caption: |
     <p>Terumbu Semakau, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg
+links_references: |
+  **Links**
+  - [*Volvatella
+    vigourouxi*](http://www.seaslugforum.net/factsheet.cfm?base=volvvigo) on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet.
+  **References**
+  - Kathe Jensen & Rene S. L. Ong
+    . 30 Sep 2016. *Shelled sacoglossa from Lazarus and Saint John’s Islands*. Singapore Biodiversity Records 2016: 120-121.
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe
+    R. Jensen. 30 Dec 2009. *Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  These tiny slugs with very fragile shells are sometimes seen among
 seaweeds on some of our shores.  
   
-**Features:** Fragile,
+## Features
+ Fragile,
 thin shell about 1cm long, that looks like a poorly folded cone that
 tapers into a spout at the end. The rhinophores are flattened, rounded
 and the animal has a pair of rounded oral lobes and a short foot.
@@ -200,29 +222,7 @@ Volvatella* sp.
 
 ---
 
-**Links**
 
-- [*Volvatella
-  vigourouxi*](http://www.seaslugforum.net/factsheet.cfm?base=volvvigo) on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet.
-
-**References**
-
-- Kathe Jensen & Rene S. L. Ong
-  . 30 Sep 2016. *Shelled sacoglossa from Lazarus and Saint John’s Islands*. Singapore Biodiversity Records 2016: 120-121.
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Kathe
-  R. Jensen. 30 Dec 2009. *Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

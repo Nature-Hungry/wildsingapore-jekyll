@@ -58,6 +58,62 @@ page_images:
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    taxifolia*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79162:caulerpa-taxifolia-vahl-c-agardh&catid=8:botanical-information&Itemid=113) on GlobinMed by the Institute for Medical Research,
+    Ministry of Health Malaysia: drawings and fact sheet.
+  - [*Caulerpa
+    taxifolia*](http://www.algaebase.org/search/species/detail/?species_id=1413) on [AlgaeBase](http://www.algaebase.org/):
+    technical fact sheet.
+  - [*Caulerpa
+    taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [*Caulerpa
+    taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia) from [Marine
+    Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
+    website: factsheetwith photos and details on description, structural
+    features, distribution in Hawai, ecology and impact, and links.
+  - [Alien
+    Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa) on the PBS website: a simple introduction
+    to the issues and problems of introduced *C. taxifolia* [history of *Caulerpa taxifolia*](http://www.botany.hawaii.edu/reefalgae/Algae%20in%20Hawaii%20pages/Life%20history%20images/Life%20history%20Caulerpa%20-%20color.jpg) on the [Hawaiian
+    Reef Algae](http://www.botany.hawaii.edu/reefalgae/) page of the University of Hawai`i at Manoa website.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim,
+    S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the
+    Sea: The Life and Times of Labrador Beach*. Division of
+    Biology, School of Science, Nanyang Technological University
+    & Department of Zoology, the National University of Singapore.
+    160 pp.
+  - Eric Coppejans
+    and Tom Beeckman. 1990. *[Caulerpa
+    (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
+    Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
+    R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
+    Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
+    how to tell apart similar *Caulerpa* species.
+  - Chou,
+    L. M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore
+    Science Centre. 128 pages.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -67,7 +123,8 @@ sandy bottoms. Usually found in clumps, which can cover an area of
 about 40-50cm. But it does not blanket the shore like other seasonally
 abundant seaweeds.  
   
-**Features**: Frond feather-like 3-15cm
+## Features
+ Frond feather-like 3-15cm
 long. The mid-rib or central 'stem' of the feathery structure is flat
 and usually with a width much narrower than the length of the side
 'branches'. Side 'branches' are somewhat flat with a pointed tip.
@@ -139,64 +196,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  taxifolia*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79162:caulerpa-taxifolia-vahl-c-agardh&catid=8:botanical-information&Itemid=113) on GlobinMed by the Institute for Medical Research,
-  Ministry of Health Malaysia: drawings and fact sheet.
-- [*Caulerpa
-  taxifolia*](http://www.algaebase.org/search/species/detail/?species_id=1413) on [AlgaeBase](http://www.algaebase.org/):
-  technical fact sheet.
-- [*Caulerpa
-  taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [*Caulerpa
-  taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia) from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
-  website: factsheetwith photos and details on description, structural
-  features, distribution in Hawai, ecology and impact, and links.
-- [Alien
-  Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa) on the PBS website: a simple introduction
-  to the issues and problems of introduced *C. taxifolia* [history of *Caulerpa taxifolia*](http://www.botany.hawaii.edu/reefalgae/Algae%20in%20Hawaii%20pages/Life%20history%20images/Life%20history%20Caulerpa%20-%20color.jpg) on the [Hawaiian
-  Reef Algae](http://www.botany.hawaii.edu/reefalgae/) page of the University of Hawai`i at Manoa website.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim,
-  S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the
-  Sea: The Life and Times of Labrador Beach*. Division of
-  Biology, School of Science, Nanyang Technological University
-  & Department of Zoology, the National University of Singapore.
-  160 pp.
-- Eric Coppejans
-  and Tom Beeckman. 1990. *[Caulerpa
-  (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
-  Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
-  R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
-  Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
-  how to tell apart similar *Caulerpa* species.
-- Chou,
-  L. M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore
-  Science Centre. 128 pages.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

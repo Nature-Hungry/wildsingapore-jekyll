@@ -123,6 +123,30 @@ page_images:
   caption: |
     <p>Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918031938713&set=a.10159918036293713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
+    *[Dendrodoris
+    fumata](http://www.seaslugforum.net/find/dendfuma)*
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Dendrodoris
+    fumata](http://slugsite.us/bow/nudwk256.htm)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -130,7 +154,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fum
 seen on our Northern shores, near boulders with sponges and other
 encrusting animals.  
   
-**Features:** 5-8cm
+## Features
+ 5-8cm
 long. Broad fleshy body smooth, generally all red or rose with irregular
 dark mottling, sometimes greyish-pink. Underside paler. It is said
 that it turns black as it matures, but some apparently remain red.  
@@ -221,32 +246,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-  *[Dendrodoris
-  fumata](http://www.seaslugforum.net/find/dendfuma)*
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Dendrodoris
-  fumata](http://slugsite.us/bow/nudwk256.htm)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

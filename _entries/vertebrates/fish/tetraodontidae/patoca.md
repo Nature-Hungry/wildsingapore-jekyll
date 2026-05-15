@@ -59,6 +59,27 @@ page_images:
   caption: |
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+links_references: |
+  **Links**  
+  - [Milk-spotted
+    Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
+    Science Centre. 163 pp.
+  - [Milkspotted
+    puffer (*Chelonodon patoca*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6610) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Chelonodon patoca*](http://www.iucnredlist.org/details/172416/0) from IUCN Red List.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
@@ -66,7 +87,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae
 our shores. One was seen half-buried in a sandy stretch at
 Tanah Merah near a freshwater outflow. Elsewhere, it is common in estuaries and shallow waters, in sand flats, mud flats and seagrass meadows, often in schools. Juveniles are common in mangroves,  
   
- **Features:**  Grows to about 33cm,
+ ## Features
+  Grows to about 33cm,
 but those seen were 8-12cm. The nasal organ has a pair of elongated
 flaps. It has a grey or brown back with large round or oval white
 spots. It has a yellow band along the lower side from chin to tail.
@@ -112,29 +134,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Milk-spotted
-  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
-  Science Centre. 163 pp.
-- [Milkspotted
-  puffer (*Chelonodon patoca*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6610) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Chelonodon patoca*](http://www.iucnredlist.org/details/172416/0) from IUCN Red List.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -32,6 +32,38 @@ page_images:
   caption: |
     <p><a href="albolineatus">Sally-light-foot crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+links_references: |
+  **Links**
+  - [Purple
+    climber crabs (*Metopograpsus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047), Ng, Peter K. L.
+    & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Metopograpsus](http://mangrove.nus.edu.sg/pub/seashore/text/196)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -51,7 +83,8 @@ the day, you will rarely see more than a purplish hairy leg peeking
 out from a crevice! The larger species are sometimes seen on the offshore
 Southern Islands.   
   
-**Features:** Body width 4-6cm. Grapsid
+## Features
+ Body width 4-6cm. Grapsid
 crabs are adapted for scrambling over rocks and other slippery surfaces.
 Many can stay out of the water for some time. Grapsid crabs are also
 sometimes called Shore crabs. They have well-developed hooks on the
@@ -100,40 +133,7 @@ for Singapore
 
 ---
 
-**Links**
 
-- [Purple
-  climber crabs (*Metopograpsus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047), Ng, Peter K. L.
-  & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Metopograpsus](http://mangrove.nus.edu.sg/pub/seashore/text/196)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -53,6 +53,34 @@ page_images:
   caption: |
     <p>St John's Island, Apr 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
+links_references: |
+  **Links**  
+  - [Pink-eared
+    emperor (Lethrinus lentjan)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/313) Lim, Kelvin K. P. & Jeffrey K.
+    Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Pink
+    ear emperor (*Lethrinus lentjan*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -61,7 +89,8 @@ large fish that looks like it has a bleeding wound near the gills
 is sometimes seen on some of our shores, near seagrasses. It is said that adults are found in deeper waters, but younger fishes
 hang about in loose groups in mangroves and among seagrasses.   
   
-**Features:** To about 50cm, those
+## Features
+ To about 50cm, those
 seen on the intertidal about 15cm. Like other members of the Family
 Lethrinidae, it has large scales in a 'distinctive pattern' -- a kind
 of diamond pattern. There is a red margin around its gill covers and
@@ -101,36 +130,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Pink-eared
-  emperor (Lethrinus lentjan)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/313) Lim, Kelvin K. P. & Jeffrey K.
-  Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Pink
-  ear emperor (*Lethrinus lentjan*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

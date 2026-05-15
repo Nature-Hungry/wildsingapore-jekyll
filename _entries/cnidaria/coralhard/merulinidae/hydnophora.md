@@ -52,6 +52,41 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
+links_references: |
+  **Links**
+  - *[Hydnophora
+    exesa](http://coral.aims.gov.au/speciesPages/species_metadata/0215/view#)* and *[Hydnophora
+    rigida](http://coral.aims.gov.au/speciesPages/species_metadata/0217/view#)* on Corals of the World online on the Australian
+    Institute of Marine Science website: Technical fact sheet.
+  - *[Hydnophora
+    exesa](http://www.iucnredlist.org/apps/redlist/details/133478/0)* and *[Hydnophora
+    rigida](http://www.iucnredlist.org/apps/redlist/details/132881/0)* on the IUCN Red List of Threatened Species website:
+    Technical fact sheet.
+  - [*Hydnophora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Hydnophora)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Hydnophora
+    exesa](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45905)* and *[Hydnophora
+    rigida](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45727)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. [*An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf) (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
@@ -59,7 +94,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/
 seen on some of our Southern shores, usually on remote and undisturbed
 reefs.   
   
-**Features:**
+## Features
+
 Colonies seen about 15-20cm across, sometimes 50cm in undisturbed
 shores. The unique feature of these corals are the small conical mounds
 (0.5cm or smaller), called monticules (also hydnae or hydnophores),
@@ -111,43 +147,7 @@ horn coral)
 
 ---
 
-**Links**
 
-- *[Hydnophora
-  exesa](http://coral.aims.gov.au/speciesPages/species_metadata/0215/view#)* and *[Hydnophora
-  rigida](http://coral.aims.gov.au/speciesPages/species_metadata/0217/view#)* on Corals of the World online on the Australian
-  Institute of Marine Science website: Technical fact sheet.
-- *[Hydnophora
-  exesa](http://www.iucnredlist.org/apps/redlist/details/133478/0)* and *[Hydnophora
-  rigida](http://www.iucnredlist.org/apps/redlist/details/132881/0)* on the IUCN Red List of Threatened Species website:
-  Technical fact sheet.
-- [*Hydnophora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Hydnophora)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Hydnophora
-  exesa](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45905)* and *[Hydnophora
-  rigida](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45727)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. [*An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf) (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 
 [www.**flickr**.com](http://www.flickr.com)  
 

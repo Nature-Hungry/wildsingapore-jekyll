@@ -123,6 +123,33 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Nov 18Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10156045666568576&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg
+links_references: |
+  **Links**  
+  - [*Macrodactyla
+    doreensis*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Macrodactyla&subgenus=&species=doorensis&subspecies=&synseniorid=77) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Macrodactyla
+    doreensis*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#doreen) on Fautin, Daphne G. and Gerald R. Allen, 1992.
+    [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Macrodactyla
+    doreensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Macrodactyla-doreensis.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Nicholas Wei Liang Yap *Taxonomy and Molecular Phylogeny of the Sea Anemone Macrodactyla (Haddon, 1898) (Cnidaria, Actiniaria), with a Description of a New Species from Singapore*. Zoological Studies 62:29 (2023) doi:10.6620/ZS.2023.62-29.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai� exclusive of the vertebrates
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -131,7 +158,8 @@ of our shores, on coral rubble and near seagrasses and reefs. Although
 generally only exposed at the lowest tides, it is said that the anemone
 is generally found no deeper than 5m. In 2023, it has been reassigned from *Macrodactyla* to *Heteractis doreensis*.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 extended said to reach up to 50cm but those seen usually smaller about
 20-30cm. Tentacles snaky, thick and long (about 10cm). Sometimes (not
 always), the tentacles may be tightly coiled or curled especially
@@ -242,35 +270,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Macrodactyla
-  doreensis*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Macrodactyla&subgenus=&species=doorensis&subspecies=&synseniorid=77) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Macrodactyla
-  doreensis*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#doreen) on Fautin, Daphne G. and Gerald R. Allen, 1992.
-  [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Macrodactyla
-  doreensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Macrodactyla-doreensis.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Nicholas Wei Liang Yap *Taxonomy and Molecular Phylogeny of the Sea Anemone Macrodactyla (Haddon, 1898) (Cnidaria, Actiniaria), with a Description of a New Species from Singapore*. Zoological Studies 62:29 (2023) doi:10.6620/ZS.2023.62-29.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai� exclusive of the vertebrates
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

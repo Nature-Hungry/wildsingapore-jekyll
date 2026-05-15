@@ -49,13 +49,34 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157786569762945&set=a.10157785669142945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
+links_references: |
+  **Links**
+  - *Barbatia* species in the Bivalves section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  This little clam is commonly seen stuck under stones
 on our Southern shores, sometimes a few clustered together. But it
 is often overlooked as its 'hairy' shell camouflages it well.  
- **Features:** About 2.5cm long. The sturdy two-part shell is
+ ## Features
+ About 2.5cm long. The sturdy two-part shell is
 oval with fine ribs. There is usually a layer of fine brown hairs
 (called the periostracum) covering the shell. The hairs grow particularly
 thickly towards the shell opening. The animal is usually firmly attached
@@ -95,28 +116,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *Barbatia* species in the Bivalves section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

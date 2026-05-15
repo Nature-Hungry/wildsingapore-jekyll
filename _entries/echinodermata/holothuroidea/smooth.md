@@ -65,13 +65,22 @@ page_images:
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5473833100/in/datetaken/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
+links_references: |
+  **Links**
+  - [*Acaudina* *leucoprocta*](http://www.sealifebase.org/summary/Acaudina-leucoproctal) on SeaLife Base: Technical
+    fact sheet.
+  - [*Acaudina* *leucoprocta*](http://species-identification.org/species.php?species_group=nasc&id=117) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 ---
 
 ## Where seen?
  These large smooth sausage-like sea cucumbers are commonly seen on our
 Northern shores, often found half buried in sand bars near seagrasses.   
   
- **Features:** 10-15 cm long. Body cylindrical and
+ ## Features
+ 10-15 cm long. Body cylindrical and
 smooth to the touch and somewhat slimy and slippery. One end usually pointed. The
 feeding tentacles short and stubby. Colours generally
 uniform: purplish, pale orange or white, with dark flecks and spots.
@@ -120,14 +129,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Acaudina* *leucoprocta*](http://www.sealifebase.org/summary/Acaudina-leucoproctal) on SeaLife Base: Technical
-  fact sheet.
-- [*Acaudina* *leucoprocta*](http://species-identification.org/species.php?species_group=nasc&id=117) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.

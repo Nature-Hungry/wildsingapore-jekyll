@@ -55,6 +55,31 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
+links_references: |
+  **Links**
+  - [*Stichopus
+    herrmanni* (Curryfish)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86834) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    Technical fact sheet.
+  - [*Stichopus
+    herrmanni* (Curryfish)](http://www.iucnredlist.org/details/180238/0) on the IUCN Red List: Techinal fact
+    sheet.
+  - [*Stichopus
+    herrmanni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermannil) (Asphidochirotida: Stichopodidae) Hermann's Sea
+    Cucumber by Carmon Kee, 2012 on taxo4254.
+  - *Stichopus herrmanni* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  - [Fisheries,
+    trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
+    by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
+    website.
+  - [Malaysia
+    lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
+    of singapore blog with an article about the trade in gamat on
+    Pulau Langkawi.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -63,7 +88,8 @@ is among the sea cucumbers that are edible and harvested for the restaurant
 trade. It was formerly known as *S. variegatus*. Elsewhere it
 prefers seagrass beds, rubble and sandy-muddy bottoms.   
   
-**Features:** 20-30cm, up to 50cm
+## Features
+ 20-30cm, up to 50cm
 long. Body
 hard heavy, squarish in cross-section blunt at the ends, with a wrinkled skin and distinct upper and underside. Small wart-like bumps in 2-4 rows along the sides of the body length. Colour uniform black, dark olive, brown to pale beige with dark brown to black spots
 scattered over the entire body. Elsewhere, also light mustard-yellow to orangey-brown or brown and olive green. Distinct flat underside, paler that upperside, with many
@@ -126,31 +152,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Stichopus
-  herrmanni* (Curryfish)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86834) on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  Technical fact sheet.
-- [*Stichopus
-  herrmanni* (Curryfish)](http://www.iucnredlist.org/details/180238/0) on the IUCN Red List: Techinal fact
-  sheet.
-- [*Stichopus
-  herrmanni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermannil) (Asphidochirotida: Stichopodidae) Hermann's Sea
-  Cucumber by Carmon Kee, 2012 on taxo4254.
-- *Stichopus herrmanni* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-- [Fisheries,
-  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
-  by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
-  website.
-- [Malaysia
-  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
-  of singapore blog with an article about the trade in gamat on
-  Pulau Langkawi.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

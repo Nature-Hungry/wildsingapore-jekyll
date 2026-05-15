@@ -104,7 +104,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/12
 ## Where seen?
  This black flatworm with orange and white ruffled margins is all ready for Halloween. It is sometimes seen on the reefs of some Southern shores.  
   
-**Features:** 5-8cm long. Body black with
+## Features
+ 5-8cm long. Body black with
 broad white and orange margins. Sometimes three narrow white parallel lines in the centre starting from the head, fading towards the end of the body, the two outer lines wider, the central line much narrower. Underside black with orange margins. It has a pair of
 pseudotentacles that are squarish and ruffled on the sides.
 

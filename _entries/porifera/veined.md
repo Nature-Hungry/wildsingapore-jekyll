@@ -23,11 +23,21 @@ page_images:
   caption: |
     <p>Berlayar Creek, Dec 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5241349152/in/album-72157625545414532/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
+links_references: |
+  **Links**
+  - [*Clathria (Microciona) mima*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167665)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  Considered the thinnest recorded sponge in Singapore, this fragile sponge is sometimes seen.  
- **Features:** Encrusting sheet, thin fragile, but broad (10-20cm). Surface smooth and glossy with distinct white branching 'veins'. Colour pale orange.  
+ ## Features
+ Encrusting sheet, thin fragile, but broad (10-20cm). Surface smooth and glossy with distinct white branching 'veins'. Colour pale orange.  
   
 **May be confused with** encrusting ascidians such as [Rock slime ascidians](../ascidiacea/rockslime.htm) and [Orange lobe ascidians](../ascidiacea/orange.htm). These ascidians do not have 'veins'.
 
@@ -58,17 +68,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Clathria (Microciona) mima*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167665)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

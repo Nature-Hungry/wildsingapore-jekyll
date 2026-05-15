@@ -34,13 +34,27 @@ page_images:
   caption: |
     <p>Mandai, Mar 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8124830898/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
+    *[Elysia
+    bangtawaensis](http://www.seaslugforum.net/find/elysbang)*.
+  - [New
+    mangrove slug named after Singapore](http://wildshores.blogspot.com/2011/03/new-mangrove-slug-named-after-singapore.html) on the wild shores of
+    singapore blog
+  - *[Elysia bangtawaensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Elysia%20bangtawaensis.html)* (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.
+  **References**
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Cornelis (Kees) Swennen. *Large Mangrove-dwelling Elysia species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)*. 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
 ---
 
 ## Where seen?
  This large leaf-like slug is sometimes seen in large numbers in our
 mangroves. They are named after Bangtawa in Thailand.  
   
-**Features:** 4-5cm. Body long with
+## Features
+ 4-5cm. Body long with
 a pair of very large 'wings' (called parapodia). Body green with tiny
 white spots all over. Yellow or orange spots along the edge of the
 body. Tips of rhinophores pale or white. The parapodia are often held
@@ -90,21 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-  *[Elysia
-  bangtawaensis](http://www.seaslugforum.net/find/elysbang)*.
-- [New
-  mangrove slug named after Singapore](http://wildshores.blogspot.com/2011/03/new-mangrove-slug-named-after-singapore.html) on the wild shores of
-  singapore blog
-- *[Elysia bangtawaensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Elysia%20bangtawaensis.html)* (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.
-
-**References**
-
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Cornelis (Kees) Swennen. *Large Mangrove-dwelling Elysia species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)*. 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

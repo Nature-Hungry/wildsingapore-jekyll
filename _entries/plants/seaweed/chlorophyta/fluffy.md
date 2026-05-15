@@ -33,6 +33,18 @@ page_images:
   caption: |
     <p>Circlet of short filaments.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    verticillata*](http://www.algaebase.org/search/species/detail/?species_id=4536)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 ---
 
 ## Where seen?
@@ -40,7 +52,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluf
 This small fluffy seaweed is sometimes seen on some of our shores,
 growing on coral rubble in sparse clumps covering an area of 10-20cm.  
   
-**Features:** Structures (1-2cm long)
+## Features
+ Structures (1-2cm long)
 comprising a stack of 2-4 circlets of short filaments. Light green to
 reddish green.  
   
@@ -72,20 +85,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  verticillata*](http://www.algaebase.org/search/species/detail/?species_id=4536)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
 [www.**flickr**.com](http://www.flickr.com)  
 

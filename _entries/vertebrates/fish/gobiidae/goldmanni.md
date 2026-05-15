@@ -52,12 +52,23 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
+links_references: |
+  **Links**  
+  - [Goldman's
+    goby (*Istigobius goldmanni*)](http://www.fishbase.org/summary/speciessummary.php?id=4327) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
  This pretty slender goby is seen on many of our shores, near reefs and rubble.  
   
-**Features:** To about 5cm. Body long slender, pale
+## Features
+ To about 5cm. Body long slender, pale
 sandy-white with many small black spots on the nape. Distinguished
 by a row of pairs of close-set round black spots along the side of the body.  
   
@@ -97,18 +108,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Goldman's
-  goby (*Istigobius goldmanni*)](http://www.fishbase.org/summary/speciessummary.php?id=4327) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

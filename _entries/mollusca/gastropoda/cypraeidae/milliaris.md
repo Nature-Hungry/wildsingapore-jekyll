@@ -92,13 +92,30 @@ page_images:
     <p>IKAN-Unterwasserachiv.</p>
     <p>723pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+links_references: |
+  **Links**
+  - *[Cypraea
+    milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 ---
 
 ## Where seen?
  This
 cowrie with a pretty beige spotted shell is commonly seen on our Northern
 shores, under and on rocks among sponges, sea fans. Also on sandy and silty areas among seagrass.
-It was previously known as *Cypraea miliaris*. **Features:** 2.5-4cm, up to 5cm. Shell is pear-shaped, beige
+It was previously known as *Cypraea miliaris*. ## Features
+ 2.5-4cm, up to 5cm. Shell is pear-shaped, beige
 to light brown with white spots all over it and a broad white margin
 around the base. Underside completely white (no markings) and the 'teeth' are not coloured.
 The living animal has a 'hairy' dark
@@ -165,24 +182,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Cypraea
-  milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

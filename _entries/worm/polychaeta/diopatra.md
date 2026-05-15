@@ -57,6 +57,35 @@ page_images:
   caption: |
     <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
+links_references: |
+  **Links**  
+  - [Tube
+    worms](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Family
+    Onuphidae](http://rmbr.nus.edu.sg/polychaete/Onuphidael) from [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
+    the Raffles Museum of Biodiversity Research website: fact sheets
+    and photos of tubeworms found in Singapore.
+  **References**
+  - Tong, T.L.
+    & Chou, L.M. [*Diopatra
+    bulohensis*,
+    a new species of Onuphidae (Polychaeta) from Sungei Buloh](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2044(2)/44rbz357-362.pdf),
+    Singapore. Pp. 357-362 on the The Raffles Bulletin of Zoology,
+    1928 - 2004 (launches PDF)
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Jones, R.E.
+    (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
+    Australian Biological Resources Study, Canberra. 465pp.
 ---
 
 ## Where seen?
@@ -75,7 +104,8 @@ but can leave their tubes. Not all tubeworms are polychaetes and not
 all polychaetes are tubeworms. More about [tubeworms
 in general](../tubeworm/tubeworms).  
   
-**Features:** The solitary tubeworm
+## Features
+ The solitary tubeworm
 makes a tube 1cm in diameter. The tube can be quite long, but usually
 only about 10cm of this is sticking out of the surface. The tube is
 tough, thick and leathery. Only the portion of the tube that sticks
@@ -155,36 +185,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgement**  
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
-and identification of the worm out of the tube!  
-  
-**Links**  
-
-- [Tube
-  worms](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Family
-  Onuphidae](http://rmbr.nus.edu.sg/polychaete/Onuphidael) from [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
-  the Raffles Museum of Biodiversity Research website: fact sheets
-  and photos of tubeworms found in Singapore.
-
-**References**
-
-- Tong, T.L.
-  & Chou, L.M. [*Diopatra
-  bulohensis*,
-  a new species of Onuphidae (Polychaeta) from Sungei Buloh](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2044(2)/44rbz357-362.pdf),
-  Singapore. Pp. 357-362 on the The Raffles Bulletin of Zoology,
-  1928 - 2004 (launches PDF)
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Jones, R.E.
-  (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
-  Australian Biological Resources Study, Canberra. 465pp.
+and identification of the worm out of the tube!

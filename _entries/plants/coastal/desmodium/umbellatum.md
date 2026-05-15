@@ -90,6 +90,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
+links_references: |
+  **Links**
+  - *[Desmodium
+    umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Trees
+    and Shrubs of the Maldives](http://www.fao.org/docrep/010/ai387e/ai387e00).
+    V. Selvam. 2007. On the FAO website.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -102,7 +113,8 @@ and tidal rivers on sandy, muddy and rocky ground. Elsewhere, it can
 forms dense stands along the coast. It also grows as an under story
 in low-elevation forests.   
   
- **Features:** A small tree to about
+ ## Features
+ A small tree to about
 3m, "often prostrate towards the sea". The leaves are made up of three
 leaflets that are oval or have a blunt tip, thinly leathery and hairy
 beneath. According to Selvam, the middle leaflet is always larger
@@ -143,19 +155,7 @@ after childbirth. It is also grown as an ornamental plant.
 
 ---
 
-**Links**
 
-- *[Desmodium
-  umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Trees
-  and Shrubs of the Maldives](http://www.fao.org/docrep/010/ai387e/ai387e00).
-  V. Selvam. 2007. On the FAO website.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

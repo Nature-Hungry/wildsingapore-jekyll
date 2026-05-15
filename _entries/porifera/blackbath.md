@@ -45,13 +45,25 @@ page_images:
   caption: |
     <p><a href="../mollusca/bivalvia/malleidae/vulsella.htm">Sponge finger oysters</a> embedded in the sponge.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
+links_references: |
+  **Links**
+  - [Spongiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2622)
+    on SeaLife Base: technical fact sheets.
+  - [Spongiidae](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131626&allchildren=1)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 A black sponge that is sometimes seen on some of our shores, often
 covered in sediments. These sponges are often seen on silty reef flats.
- **Features:** Generally
+ ## Features
+ Generally
 a globular dome-shaped or loaf-shaped sponge up to 15cm, some with
 lumps or knobs. Some have tiny holes, others with cones topped with
 large circular holes. Texture finely granular, some smooth and shiny
@@ -128,19 +140,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Spongiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2622)
-  on SeaLife Base: technical fact sheets.
-- [Spongiidae](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131626&allchildren=1)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

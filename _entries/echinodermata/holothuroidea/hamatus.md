@@ -67,13 +67,20 @@ page_images:
   caption: |
     <p>East Coast Park, May 16Photo shared by Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+links_references: |
+  **Links**
+  - [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatusl) on SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 ---
 
 ## Where seen?
  This large stiff sea cucumber feels rather plasticky. It is sometimes seen on
 our Northern shores half buried in silty sand among seagrasses.  
   
-**Features:** 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
+## Features
+ 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
 
  
 
@@ -115,12 +122,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatusl) on SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.

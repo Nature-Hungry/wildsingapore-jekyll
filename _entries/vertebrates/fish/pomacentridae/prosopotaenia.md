@@ -46,6 +46,31 @@ page_images:
   caption: |
     <p>Terumbu Hantu, Jul 19Photo shared by Liz Lim on <a href="https://www.facebook.com/liz.lim.568/media_set?set=a.2381236715232987&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+links_references: |
+  **Links**
+  - [Honey-head
+    damsel (*Dischistodus prosopotaenia*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Dischistodus
+    prosopotaenia*
+    (Honey-head damsel)](http://www.fishbase.org/summary/6608)
+    from [FishBase](http://www.fishbase.org/): fact sheet
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
@@ -54,7 +79,8 @@ of this fish are sometimes seen on near our reefs. Elsewhere, adults
 are found iin lagoons and coastal reefs, usually in silty areas, may
 be solitary or in groups.  
   
-**Features:** To 16cm, juveniles seen
+## Features
+ To 16cm, juveniles seen
 about 2cm long. Juveniles with a white body, two broad honey brown
 bars, one through the eyes, and another in the middle of the body,
 with a large gold-margined black spot on the dorsal fin. The adult
@@ -90,33 +116,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowlegement**  
 Thanks to Jeffrey Low for identifying the adult caught in a fishing net.
 
-**Links**
 
-- [Honey-head
-  damsel (*Dischistodus prosopotaenia*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Dischistodus
-  prosopotaenia*
-  (Honey-head damsel)](http://www.fishbase.org/summary/6608)
-  from [FishBase](http://www.fishbase.org/): fact sheet
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links)
 | [references](../../../references)

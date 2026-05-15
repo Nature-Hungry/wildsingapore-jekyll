@@ -124,6 +124,41 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
+links_references: |
+  **Links**
+  - [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Key
+    to the Southern Australian species of Sargassum](http://www.flora.sa.gov.au/efsa/algae_revealed/pdf/Sargassum.pdf) (pdf) on eFloraSA
+    by the Government of Southern Australia: photo key.
+  - [*Sargassum*](http://www.algaebase.org/search/genus/detail/?genus_id=77)
+    on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheets.
+  - [*Sargassum polycystum*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sargassum%20polycystuml) (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -148,7 +183,8 @@ that covers vast areas of the reefs, and washing up on the high tide
 line in huge heaps. At other times, only short, sparsely bladed specimens
 are seen, on coral rubble or rocks.   
   
- **Features:** Sargassum is the largest and most plant-like
+ ## Features
+ Sargassum is the largest and most plant-like
 brown seaweed on our shores. The seaweed may have a more permanent
 (perennial) portion that is usually short and tough, stuck onto hard
 surfaces. Seasonally, Sargassum blooms, and long 'stems' to 1m or
@@ -308,43 +344,7 @@ Sargassum vulgare*
 
 ---
 
-**Links**
 
-- [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Key
-  to the Southern Australian species of Sargassum](http://www.flora.sa.gov.au/efsa/algae_revealed/pdf/Sargassum.pdf) (pdf) on eFloraSA
-  by the Government of Southern Australia: photo key.
-- [*Sargassum*](http://www.algaebase.org/search/genus/detail/?genus_id=77)
-  on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheets.
-- [*Sargassum polycystum*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sargassum%20polycystuml) (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

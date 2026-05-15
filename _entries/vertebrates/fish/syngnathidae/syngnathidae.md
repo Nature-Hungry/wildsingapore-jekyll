@@ -54,6 +54,47 @@ page_images:
     <p>Very pregnant piepfish papa.</p>
     <p>Changi, Jun 13</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+links_references: |
+  **Links**  
+  - [Pipefish
+    (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230), [Seahorse
+    (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988, *A [Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [Blue-speckled
+    Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250), [Spotted
+    Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Project
+    Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses, it also
+    has lots of info about pipefish.
+  - [Save
+    our Seahorses](http://sosmalaysia.org/) focusing on seahorses and their habitats in
+    Pulai Johor
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -77,7 +118,8 @@ the family has 52 genera and 215 species. They are found in shallow
 tropical and temperate waters of the Atlantic, Indian and Pacific
 oceans.  
   
-**Features:** These are true fish,
+## Features
+ These are true fish,
 although they don't appear very fish-like! Members of this family
 are enclosed in an armour of bony rings just under the skin. They
 also have an internal skeleton just like other fish. While most retain
@@ -136,49 +178,7 @@ species recorded for Singapore
 
 ---
 
-**Links**  
 
-- [Pipefish
-  (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230), [Seahorse
-  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988, *A [Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [Blue-speckled
-  Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250), [Spotted
-  Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses, it also
-  has lots of info about pipefish.
-- [Save
-  our Seahorses](http://sosmalaysia.org/) focusing on seahorses and their habitats in
-  Pulai Johor
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -28,6 +28,24 @@ page_images:
   caption: |
     <p>Pulau Sekudu, Jul 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
+links_references: |
+  **Links**
+  - [Pouched
+    Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  **References**
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Nowak, Ronald
+    M. 1994. *Walker's
+    Bats of the World*The Johns Hopkins University Press. 287 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -35,7 +53,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus
 roosting in rocky places on our offshore islands. According to Baker,
 it is widespread and common in Singapore.  
   
-**Features:**Forearm length about 8cm. A small bat with a large ears and a
+## Features
+Forearm length about 8cm. A small bat with a large ears and a
 short muzzle without an elaborate 'nose leaf'. The upperside is blackish
 brown with white markings, the underside is white. The wings are distinctly
 white. There is a large pouch under the chin for both males and females.  
@@ -50,26 +69,7 @@ foraging for these high above the canopy of trees.
 
 ---
 
-**Links**
 
-- [Pouched
-  Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-
-**References**
-
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Nowak, Ronald
-  M. 1994. *Walker's
-  Bats of the World*The Johns Hopkins University Press. 287 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

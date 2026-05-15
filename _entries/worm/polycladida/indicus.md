@@ -104,13 +104,27 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudoceros
+    indicus*](http://polycladida.lifedesks.org/pages/4224) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Chim C. K., R. S. L. Ong & Gan B. Q. *Penis fencing, spawning, parental care and embryonic development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida: Pseudocerotidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 60-67.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
 ---
 
 ## Where seen?
  This little flatworm with blue dots on its body margin is often seen on many of our
 shores. On rocky shores, on boulders and under stones, also near reefs.  
   
-**Features:** 2-3cm long. Body uniformly white or cream with closely-set dark blue dots along the
+## Features
+ 2-3cm long. Body uniformly white or cream with closely-set dark blue dots along the
 body margin. When the worm is contracted, the dots merge so the worm appears to have a solid blue margin. The
 body margins are only slightly ruffled when the worm is in water.
 It has a pair of pseudotentacles at the front made up of simple folded
@@ -195,20 +209,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
 and its identification.  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.   
-
-**Links**
-
-- [*Pseudoceros
-  indicus*](http://polycladida.lifedesks.org/pages/4224) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Chim C. K., R. S. L. Ong & Gan B. Q. *Penis fencing, spawning, parental care and embryonic development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida: Pseudocerotidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 60-67.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

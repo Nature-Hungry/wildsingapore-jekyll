@@ -44,13 +44,41 @@ page_images:
   caption: |
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
+links_references: |
+  **Links**
+  - [*Boergesenia
+    forbesii*](http://www.algaebase.org/search/species/detail/?species_id=3715) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - A. C. Lee, Lawrence M. Liao and
+    K. S. Tan. [New records
+    of marine algae on artificial structures and intertidal flats
+    in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf). Pp. 5-40.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia*
+    University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
  These bright green bubbles are commonly seen on our Southern shores,
 growing on coral rubble in small scattered clusters.  
   
-**Features:** Clusters of elongated
+## Features
+ Clusters of elongated
 bubbles (3-4cm long and about 1cm wide) usually attached to hard surfaces.
 The bubbles are sometimes also pear-shaped. Bright green to yellowish
 green, the seaweed is smooth and shiny. The skin is thin so the entire
@@ -112,35 +140,7 @@ forbesii*
 
 ---
 
-**Links**
 
-- [*Boergesenia
-  forbesii*](http://www.algaebase.org/search/species/detail/?species_id=3715) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- A. C. Lee, Lawrence M. Liao and
-  K. S. Tan. [New records
-  of marine algae on artificial structures and intertidal flats
-  in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf). Pp. 5-40.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia*
-  University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

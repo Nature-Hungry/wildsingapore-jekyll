@@ -163,6 +163,29 @@ page_images:
     <p>IKAN-Unterwasserachiv.</p>
     <p>723pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
+links_references: |
+  **Links**
+  - [*Costasiella*
+    sp. 3](http://www.seaslugforum.net/costsp3.htm)
+    and [*Avrainvillea*
+    sp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea) on [The Sea Slug
+    Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
+  **References**
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe R. Jensen, Patrick J. Krug, Anne Dupont, Masayoshi Nishina. 21 October 2014. *A review of taxonomy and phylogenetic relationships in the genus Costasiella (Heterobranchia: Sacoglossa), with a description of a new species*. Journal of Molluscan Studies (2014) 80 (5): 562-574.
+  - Kathe
+    R. Jensen. 30 Dec 2009. *Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
 ---
 
 ## Where seen?
@@ -170,7 +193,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costa
 found on [solitary
 fan green seaweeds](../../../plants/seaweed/chlorophyta/avrerecta.htm) (*Avrainvillea* sp.) which they feed on. At low tide, many slugs are often seen on one sea fan, usually clustered near the base of this seaweed. It was previously in Family Limapontiidae. Divers sometimes call it 'Shaun the Sheep'.  
   
-**Features:** To about
+## Features
+ To about
 1cm or smaller. Short, soft body with lots of short finger-like projections
 (cerata) that are transparent at the tips and filled with green stuff.
 Some have black spots, others with white stripes on the cerata. Tiny
@@ -299,31 +323,7 @@ Costasiella usagi*
 
 ---
 
-**Links**
 
-- [*Costasiella*
-  sp. 3](http://www.seaslugforum.net/costsp3.htm)
-  and [*Avrainvillea*
-  sp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea) on [The Sea Slug
-  Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
-
-**References**
-
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Kathe R. Jensen, Patrick J. Krug, Anne Dupont, Masayoshi Nishina. 21 October 2014. *A review of taxonomy and phylogenetic relationships in the genus Costasiella (Heterobranchia: Sacoglossa), with a description of a new species*. Journal of Molluscan Studies (2014) 80 (5): 562-574.
-- Kathe
-  R. Jensen. 30 Dec 2009. *Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

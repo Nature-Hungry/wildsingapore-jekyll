@@ -71,7 +71,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
  Hard corals with small 'toothed' hexagonal corallites are sometimes
 seen on some of our shores.  
   
-**Features:** Colonies seen 10-15cm,
+## Features
+ Colonies seen 10-15cm,
 generally a smooth boulder-shape. The corallites have shared walls
 and form irregular hexagons. The walls are thick with rather large
 'teeth' compared to the corallite size. The result is a rather irregular

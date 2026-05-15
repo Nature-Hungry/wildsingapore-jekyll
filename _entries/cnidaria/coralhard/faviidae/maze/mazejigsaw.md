@@ -88,7 +88,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maz
  These corals with crooked maze-like corallites that look like jigsaw
 puzzles are often seen on many of our Southern shores.  
   
-**Features:** Colonies seen 10-25cm,
+## Features
+ Colonies seen 10-25cm,
 sometimes larger. Colonies are generally a smooth hemi-spherical shape.
 Some are nearly ball-shaped rather than hemi-spherical. The corallites
 have parallel walls that form long meandering valleys. The result

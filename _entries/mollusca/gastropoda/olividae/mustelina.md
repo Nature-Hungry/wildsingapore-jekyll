@@ -37,6 +37,25 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/27728472268/ "Weasel olive snail (Oliva mustelina)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+links_references: |
+  **Links**
+  - [*Oliva
+    mustelina*](http://www.sealifebase.org/summary/Oliva-mustelina.html) on SeaLife Base: Technical fact sheet and photo.
+  - Family
+    Olividae in the Gastropods section by J.M. Poutiers in the FAO
+    Species Identification Guide for Fishery Purposes: The Living
+    Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -44,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mu
 on Changi and our Northern shores. A burrowing snail, more
 often seen above the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath.  
   
-**Features:** 2-3.5cm. Shell thick
+## Features
+ 2-3.5cm. Shell thick
 heavy glossy, cylindrical bullet-shaped with conical spire. Shell pattern
 beige with closely set fine dark brown zig-zag lines. Shell opening
 violet. Body large beige with brownish spots all
@@ -78,27 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Oliva
-  mustelina*](http://www.sealifebase.org/summary/Oliva-mustelina.html) on SeaLife Base: Technical fact sheet and photo.
-- Family
-  Olividae in the Gastropods section by J.M. Poutiers in the FAO
-  Species Identification Guide for Fishery Purposes: The Living
-  Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

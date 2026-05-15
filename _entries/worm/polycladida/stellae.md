@@ -73,7 +73,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301
  This moderately large flatworm that looks like a starry night sky is sometimes seen, usually in numbers, and then not again for a while.
 Near living reefs on some of our Southern shores.   
   
-**Features:** 4-8cm long. Usually with deep ruffles. Body pale brown to black with white speckles and dots forming clusters of various sizes.
+## Features
+ 4-8cm long. Usually with deep ruffles. Body pale brown to black with white speckles and dots forming clusters of various sizes.
 A raised dark centre,
 sometimes with a white speckles and spots forming a white line. On the margin it has an interrupted, narrow white rim formed by white spots. The underside is light greyish-brown with white dots. It has a
 pair of pseudotentacles that are simple and made up of

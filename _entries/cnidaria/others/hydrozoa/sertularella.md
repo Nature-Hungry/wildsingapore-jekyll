@@ -63,7 +63,8 @@ seen on our Northern shores, but often overlooked as it resembles
 a plant. It grows on boulders and coral rubble. It is also often seen
 by divers on our Southern shores.  
   
-**Features:** Each 'frond' 10-15cm
+## Features
+ Each 'frond' 10-15cm
 long with regularly spaced branches that form a large elegant fern-like
 shape. Usually bright orange, but sometimes covered with encrusting
 organisms. This hydroid is eaten by the [Cuthona

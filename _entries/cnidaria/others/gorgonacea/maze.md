@@ -49,13 +49,32 @@ page_images:
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
+links_references: |
+  **Links**
+  - [*Echinogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Echinogorgia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
 ---
 
 ## Where seen?
  This sea fan with maze-like branching is sometimes
 seen on Beting Bronok. On coral rubble.  
   
-**Features:** 10-15cm tall. Colony
+## Features
+ 10-15cm tall. Colony
 comprises regular short branches that form a neat, maze-like pattern
 on one plane. Some of the side branches may fuse with nearby branches
 forming a net-like arrangement. Stems cylindrical and rather fat with
@@ -97,26 +116,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Echinogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Echinogorgia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
 
 [links](../../../links)
 | [references](../../../references)

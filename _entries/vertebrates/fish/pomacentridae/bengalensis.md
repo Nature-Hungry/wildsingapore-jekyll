@@ -73,6 +73,25 @@ page_images:
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
+links_references: |
+  **Links**  
+  - [Bengal
+    sergeant (*Abudefduf bengalensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Bengal
+    sergeant (*Abudefduf bengalensis*)](http://www.fishbase.se/Summary/SpeciesSummary.php?id=6517) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -83,7 +102,8 @@ a nervous fish and hides in crevices among coral rubble at the slightest
 sign of danger. It is sometimes called the Narrow-banded sergeant
 major.  
   
-**Features:** To about 14cm, those
+## Features
+ To about 14cm, those
 seen on the intertidal are much smaller, about 4-6cm long. Head and
 body white, with 6-7 black narrow bars across a yellowish body. Sometimes
 grey bars. The tail has rounded lobes (not pointed) and is plain (there
@@ -128,27 +148,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Bengal
-  sergeant (*Abudefduf bengalensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Bengal
-  sergeant (*Abudefduf bengalensis*)](http://www.fishbase.se/Summary/SpeciesSummary.php?id=6517) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

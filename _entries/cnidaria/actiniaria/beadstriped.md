@@ -64,7 +64,8 @@ crevices on rocks, on hard surfaces such as jetty pilings, boulders,
 rocks, and on small stones on the shores. When exposed at low tide,
 it tucks its tentacles into its body and looks like a blob.  
   
-**Features:** Diameter with tentacles 2-3cm. Many semi-transparent tentacles that
+## Features
+ Diameter with tentacles 2-3cm. Many semi-transparent tentacles that
 taper to a pointed tip. On the upper side of the tentacles, there
 is a pattern of white bars across a pair of dark parallel lines that
 run the length of each tentacle. The oral disk may be plain or have

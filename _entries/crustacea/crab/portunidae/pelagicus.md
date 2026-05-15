@@ -80,6 +80,51 @@ page_images:
     <p>pp.</p>
     <p>963.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+links_references: |
+  **Links**
+  - [Flower
+    Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Flower
+    Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - *[Portunus pelagicus](https://singapore.biodiversity.online/taxo4254/mainSpace/Portunus%20pelagicusl)* (Decapoda: Portunidae) Blue Swimming crab by Sharifah Nadia Alsagoff, 2015, on taxo4254.
+  - [Flower
+    Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045) on Crabs of Japan in Marine
+    Species Identification Portal: Technical fact sheet.
+  - [*Portunus
+    pelagicus*](http://www.fao.org/fishery/species/2629/en) on the FAO Fisheries and Aquaculture Department:
+    Technical fact sheet
+  **References**
+  - Joelle C.
+    Y. Lai, Peter K. L. Ng and Peter J. F. Davie. 31 Aug 2010. *A
+    revision of the Portunus pelagicus (Linnaeus, 1758) species
+    complex (Crustacea: Brachyura: Portunidae), with the recognition
+    of four species*. The Raffles Bulletin of Zoology 2010 58 (2):
+    199-237
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
 ---
 
 if you
@@ -97,7 +142,8 @@ If trapped in a pool at low tide, it buries itself in the sand or
 mud. Besides the larger adults, there are also lots of smaller juvenile
 flower crabs hiding among the seagrass and seaweeds.  
   
-**Features:** Body width 5-7cm to
+## Features
+ Body width 5-7cm to
 about 20cm. Body fan shaped, body sides with 9 white-tipped spines,
 increasing in size from the eye outward, the last spine a very large
 protruding horizontal spike. The eyes are not very far apart. Last
@@ -179,53 +225,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- *[Portunus pelagicus](https://singapore.biodiversity.online/taxo4254/mainSpace/Portunus%20pelagicusl)* (Decapoda: Portunidae) Blue Swimming crab by Sharifah Nadia Alsagoff, 2015, on taxo4254.
-- [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045) on Crabs of Japan in Marine
-  Species Identification Portal: Technical fact sheet.
-- [*Portunus
-  pelagicus*](http://www.fao.org/fishery/species/2629/en) on the FAO Fisheries and Aquaculture Department:
-  Technical fact sheet
-
-**References**
-
-- Joelle C.
-  Y. Lai, Peter K. L. Ng and Peter J. F. Davie. 31 Aug 2010. *A
-  revision of the Portunus pelagicus (Linnaeus, 1758) species
-  complex (Crustacea: Brachyura: Portunidae), with the recognition
-  of four species*. The Raffles Bulletin of Zoology 2010 58 (2):
-  199-237
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
 
 [links](../../../links)
 | [references](../../../references)

@@ -51,11 +51,23 @@ page_images:
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497035557945&set=a.10158495877737945">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg
+links_references: |
+  **Links**
+  - [*Callyspongia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2640)
+    on SeaLife Base: technical fact sheet.
+  - [*Callyspongia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131825)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-Like a little purple bush, this sponge is commonly seen on hard surfaces near the mid-water mark on our Northern shores. **Features:** A bunch of 'stems' slender (1-1.5cm thick) and
+Like a little purple bush, this sponge is commonly seen on hard surfaces near the mid-water mark on our Northern shores. ## Features
+ A bunch of 'stems' slender (1-1.5cm thick) and
 long (10-15cm), usually growing upright but sometimes sprawling horizontally
 hugging the surface. The stems are not extensively branched and cylindrical
 with rounded tips (not tapering). With small shallow holes regularly
@@ -107,19 +119,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Callyspongia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2640)
-  on SeaLife Base: technical fact sheet.
-- [*Callyspongia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131825)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

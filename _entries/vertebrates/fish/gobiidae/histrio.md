@@ -77,13 +77,44 @@ page_images:
   caption: |
     <p>Raffles Lighthouse, Nov 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
+links_references: |
+  **Links**  
+  - [Broad-barred
+    Acropora Goby (*Gobiodon histrio*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Broad-barred
+    goby (*Gobiodon histrio*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7216) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet with photo.
+  - [*Gobiodon
+    histrio*](http://www.iucnredlist.org/details/154641/0) on the IUCN Red List.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - [Coward
+    or braveheart: extreme habitat fidelity through hypoxia tolerance
+    in a coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33) by Goran E. Nilsson, Jean-Paul Hobbs,
+    Philip L. Munday and Sara Ostlund-Nilsson First published online
+    November 24, 2003 Journal of Experimental Biology 207, 33-39 (2004)
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  Found only in [Acropora
 hard corals](../../../cnidaria/coralhard/acroporidae/acropora.htm), it is often seen on many of our Southern islands.  
   
-**Features:** 3-4cm. It has a large rounded head, yellowish-green to blue-green body with orange broken stripes and bars and spots. Well hidden among the coral branches, it is hard to see the whole fish. Usually found at the base of the coral branches, so it is hard to spot and photograph. Members of the genus *Gobiodon* produce a bitter mucus.  
+## Features
+ 3-4cm. It has a large rounded head, yellowish-green to blue-green body with orange broken stripes and bars and spots. Well hidden among the coral branches, it is hard to see the whole fish. Usually found at the base of the coral branches, so it is hard to spot and photograph. Members of the genus *Gobiodon* produce a bitter mucus.  
   
 **Sometimes mistaken for**  the [Machine gun coral shrimp](../../../crustacea/othercrust/shrimp/coralliocaris.htm) which also lives in Acropora hard corals and is sometimes also green with orange stripes.
  
@@ -133,38 +164,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Broad-barred
-  Acropora Goby (*Gobiodon histrio*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Broad-barred
-  goby (*Gobiodon histrio*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7216) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet with photo.
-- [*Gobiodon
-  histrio*](http://www.iucnredlist.org/details/154641/0) on the IUCN Red List.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- [Coward
-  or braveheart: extreme habitat fidelity through hypoxia tolerance
-  in a coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33) by Goran E. Nilsson, Jean-Paul Hobbs,
-  Philip L. Munday and Sara Ostlund-Nilsson First published online
-  November 24, 2003 Journal of Experimental Biology 207, 33-39 (2004)
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

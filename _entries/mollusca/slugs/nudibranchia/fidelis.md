@@ -59,12 +59,23 @@ page_images:
   caption: |
     <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/great-reef-terumbu-raya.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
+links_references: |
+  **Links**  
+  - [*Chromodoris
+    fidelis*](http://www.seaslugforum.net/find/chrofide) on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheet with photos.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This small colourful nudibranch with this distinctive pattern is more
 often seen by divers. Sometimes seen on the intertidal. It was previously
-known as *Chromodoris fidelis*. **Features:** 1-2cm. Body broad usually
+known as *Chromodoris fidelis*. ## Features
+ 1-2cm. Body broad usually
 white with typical undulating edge pattern in red. Rhinophores and
 gills tipped in black.  
   
@@ -90,18 +101,7 @@ glands on their backs where they repel predators.
 
 ---
 
-**Links**  
 
-- [*Chromodoris
-  fidelis*](http://www.seaslugforum.net/find/chrofide) on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheet with photos.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

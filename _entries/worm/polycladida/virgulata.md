@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/0910
  Sometimes seen on some of our shores, among coral
 rubble near living reefs, usually at night. 'Virgulatus' in Latin means 'striped'.  
   
-**Features:** 5-7cm long. Body
+## Features
+ 5-7cm long. Body
 cream-white to beige with a pattern of fine black bars of unequal
 length along the edges with a thin broken
 orange or red line along the centre. Has a pair of tentacles that extend like flaps at the front of the body.  

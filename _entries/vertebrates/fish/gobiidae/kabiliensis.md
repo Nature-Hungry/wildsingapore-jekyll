@@ -35,6 +35,26 @@ page_images:
   caption: |
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+links_references: |
+  **Links**  
+  - [Bumblebee
+    goby (*Brachygobius kabillensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Kabili
+    bumblebee goby (*Brachygobius kabiliensis*)](http://www.fishbase.org/summary/speciessummary.php?id=25067)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  - [*Brachygobius
+    kabiliensis*](http://www.iucnredlist.org/details/181337/0)
+    on the IUCN Red List.
+  **References**
+  - Tan Heok Hui, Low Bi Wei & Jonathan Ho. 11 July 2014. *Lesser bumblebee goby in Upper Seletar Reservoir, Brachygobius sabanus*. Singapore Biodiversity Records 2014: 185.
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -43,7 +63,8 @@ at low tide. This goby is different from the Bumblebee goby (*Brachygobius
 doriae*) in the aquarium trade. Elsewhere, it is found in fresh
 and brackish water including in mangroves.  
   
-**Features:** Tiny, about 1.5cm long.
+## Features
+ Tiny, about 1.5cm long.
 With black and yellowish bands along
 its body, it does indeed resemble a bumble bee. There is often a black
 heart-shaped blotch on the head just behind the eyes!  
@@ -76,28 +97,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Bumblebee
-  goby (*Brachygobius kabillensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Kabili
-  bumblebee goby (*Brachygobius kabiliensis*)](http://www.fishbase.org/summary/speciessummary.php?id=25067)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-- [*Brachygobius
-  kabiliensis*](http://www.iucnredlist.org/details/181337/0)
-  on the IUCN Red List.
-
-**References**
-
-- Tan Heok Hui, Low Bi Wei & Jonathan Ho. 11 July 2014. *Lesser bumblebee goby in Upper Seletar Reservoir, Brachygobius sabanus*. Singapore Biodiversity Records 2014: 185.
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

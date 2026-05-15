@@ -64,6 +64,18 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
+links_references: |
+  **Links**
+  - [*Tacca
+    leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)
+    on The Total Vascular Flora of Singapore Online: photos and fact
+    sheet.
+  - [*Tacca
+    leontopetaloides*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2491) on the NParks Flora and Fauna website:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -74,7 +86,8 @@ shade immediately above the high water mark. It is a widely distributed
 pantropical plant. Its Malay name is *'Lukeh'*. According to
 Burkill, it was considered rare in Peninsular Malaysia.  
   
- **Features:** A low growing plant
+ ## Features
+ A low growing plant
 with bright green hand-shaped leaves (30-70cm wide, 120cm long) on
 long stalks (50cm-1m). At first glance, it looks a lot like giant
 celery. It has small flowers (1cm) and globular fruits (4-5cm) growing
@@ -120,20 +133,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Tacca
-  leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)
-  on The Total Vascular Flora of Singapore Online: photos and fact
-  sheet.
-- [*Tacca
-  leontopetaloides*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2491) on the NParks Flora and Fauna website:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -189,7 +189,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/17062
 encountered on many of our shores, on coral rubble near living reefs.
 'Concinnus' means 'elegant' in Latin.  
   
-**Features:** 2-4cm long. There is
+## Features
+ 2-4cm long. There is
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   

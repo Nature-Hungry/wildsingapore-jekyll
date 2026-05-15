@@ -57,7 +57,8 @@ Seagrasses in Singapore belong to either the Family Cymodoceaceae
 or Family Hydrocharitaceae.
 [![Seagrass meadows at East Coast Park](https://live.staticflickr.com/7844/46448551964_034a6ea771_z.jpg)](https://www.flickr.com/photos/wildsingapore/46448551964/ "Seagrass meadows at East Coast Park")  
 *Lush seagrass meadows at East Coast Park, Feb 2019*
-**Features:** Like other 'normal'
+## Features
+ Like other 'normal'
 land plants, seagrasses have green leaves where photosynthesis takes
 place. These leaves have veins to transport water around (called a
 vascular system).   

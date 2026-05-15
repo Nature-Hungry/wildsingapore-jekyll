@@ -133,13 +133,35 @@ page_images:
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918007278713&set=a.10159918036293713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheets and photos of
+     *[Gymnodoris
+    ceylonica](http://www.seaslugforum.net/find/gymnceyl)* including photos of them eating other slugs,
+    mating and laying eggs, *[Gymnodoris
+    citrina](http://www.seaslugforum.net/find/gymncitr)* including account of cannabalism during mating,
+    *[Gymnodoris
+    rubropapulosa](http://www.seaslugforum.net/find/gymnrubr).*
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
+    and distribution of [*Gymnodoris
+    alba*](http://rmbr.nus.edu.sg/nudibranch/nudipages/alba.html), *[Gymnodoris
+    citrina](http://rmbr.nus.edu.sg/nudibranch/nudipages/citrina.html)* and *[Gymnodoris
+    rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  These small nudibranchs with tiny yellow spots are sometimes seen
 on some of our shores.   
   
-**Features:** 1-2cm long. Body slender
+## Features
+ 1-2cm long. Body slender
 white, yellow or orange with yellow spots.
  
   
@@ -250,29 +272,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
   
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheets and photos of
-   *[Gymnodoris
-  ceylonica](http://www.seaslugforum.net/find/gymnceyl)* including photos of them eating other slugs,
-  mating and laying eggs, *[Gymnodoris
-  citrina](http://www.seaslugforum.net/find/gymncitr)* including account of cannabalism during mating,
-  *[Gymnodoris
-  rubropapulosa](http://www.seaslugforum.net/find/gymnrubr).*
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
-  and distribution of [*Gymnodoris
-  alba*](http://rmbr.nus.edu.sg/nudibranch/nudipages/alba.html), *[Gymnodoris
-  citrina](http://rmbr.nus.edu.sg/nudibranch/nudipages/citrina.html)* and *[Gymnodoris
-  rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

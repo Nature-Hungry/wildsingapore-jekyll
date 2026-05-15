@@ -61,6 +61,31 @@ page_images:
   caption: |-
     <p>Tiny organisms growing on leaflet.</p>
     <p>Changi, Nov 07</p>
+links_references: |
+  **Links**  
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
 ---
 
 if you
@@ -87,7 +112,8 @@ deeper, although in Singapore, this seagrass can be found right up
 to the edge of the rocky shore at Chek Jawa. It can tolerate a range
 of conditions so it is found in a wide range of habitats.   
   
-**Features:**This beautiful
+## Features
+This beautiful
 seagrass has tiny leaves that grow in opposite pairs on a long thin
 stem, forming a flat fern-like overall shape. 10-20 pairs of leaves
 may form on the stem, new leaves growing from the tip while older
@@ -144,33 +170,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

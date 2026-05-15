@@ -44,6 +44,38 @@ page_images:
     <p>St.</p>
     <p>John's Island, Jul 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
+links_references: |
+  **Links**
+  - [*Scyphiphora
+    hydrophyllacea*](http://floraofsingapore.wordpress.com/2010/07/25/scyphiphora-hydrophylacea/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Scyphiphora
+    hydrophyllacea*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2444) on the NParks Flora and Fauna website:
+    photos and fact sheet.
+  - [Chengam
+    (*Scyphiphora hydrophyllacea*)](http://mangrove.nus.edu.sg/guidebooks/text/1072)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
 ---
 
 ## Where seen?
@@ -54,7 +86,8 @@ and muddy shores and found in Jurong. Elsewhere, it is considered
 a very common plant among mangrove and sea shore vegetation and its
 fruits plentiful among flotsam on the shore.  
   
-**Features:** A shrub up to 3m, but
+## Features
+ A shrub up to 3m, but
 in Singapore, rarely more than 2m tall. Twigs reddish when young.
 Bark greyish black, ridged and fissured.   
   
@@ -103,40 +136,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Scyphiphora
-  hydrophyllacea*](http://floraofsingapore.wordpress.com/2010/07/25/scyphiphora-hydrophylacea/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Scyphiphora
-  hydrophyllacea*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2444) on the NParks Flora and Fauna website:
-  photos and fact sheet.
-- [Chengam
-  (*Scyphiphora hydrophyllacea*)](http://mangrove.nus.edu.sg/guidebooks/text/1072)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

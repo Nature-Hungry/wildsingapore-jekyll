@@ -142,6 +142,18 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Sep 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152381963996295.1073741841.542241294&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+links_references: |
+  **Links**  
+  - [Spotted-tail
+    Frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Three-spot
+    frogfish (*Lophiocharon trisignatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=10330) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet with photo.
+  **References**
+  - Tan Heok Hui. 29 August 2014. *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*. Singapore Biodiversity Records 2014; 237-238.
 ---
 
 ## Where seen?
@@ -152,7 +164,8 @@ near coral rubble and reefs as well as among rocks in deeper waters
 near seagrasses. One was seen 'climbing' among long Tape seagrass,
 clinging on with its 'paws'.  
   
-**Features:** Those seen about 6-10cm
+## Features
+ Those seen about 6-10cm
 long, can grow to 18cm. Distinguished by the pale translucent black-ringed spots on the tail fin.
 Body globular, colour is highly variable: usually mottled and matching the surroundings but also bright blue, orange, purple, green. Lacks scales and has a loose prickly
 skin instead. It waddles over the surface using its pectoral fins
@@ -285,20 +298,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Spotted-tail
-  Frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Three-spot
-  frogfish (*Lophiocharon trisignatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=10330) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet with photo.
-
-**References**
-
-- Tan Heok Hui. 29 August 2014. *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*. Singapore Biodiversity Records 2014; 237-238.
 
 [links](../../../links)
 | [references](../../../references)

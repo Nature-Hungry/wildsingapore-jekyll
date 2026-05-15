@@ -43,6 +43,24 @@ page_images:
   caption: |
     <p>Short tube feet.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+links_references: |
+  **Links**
+  - [*Stichopus
+    vastus* (Zebrafish)](http://www.sealifebase.org/summary/Stichopus-vastusl) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    Technical fact sheet.
+  - [*Stichopus
+    vastus* (Curryfish)](http://www.iucnredlist.org/details/180545/0) on the IUCN Red List: Techinal fact
+    sheet
+  - *Stichopus vastus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  - [Fisheries,
+    trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
+    by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
+    website.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -52,7 +70,8 @@ is among the sea cucumbers that are edible and harvested for the restaurant
 trade.
 Elsewhere, it is found in seagrass meadows, particularly [Tape seagrass](../../plants/seagrass/enhalus) and [Sickle seagrass](../../plants/seagrass/thalassia). It is also found under [coralline algae](../../plants/seaweed/rhodophyta/corallinaceae). Larger individuals live in deeper soft coral rubble areas outside of seagrass habitats. Also said to live on hard bottom and rubble.  
   
-**Features:** 20-30cm. Body
+## Features
+ 20-30cm. Body
 hard heavy, squarish in cross-section, blunt at the ends, With large conical bumps in 5 to 6 irregular rows, the base of these bumps surrounded by fine dark lines. Smaller bumps all over the upper surface. Colour usually sandy with darker patches and variable dark brown stripes between and around the large conical bumps. May also brownish, yellowish, reddish, greenish or greyish. Distinct flat underside is brown or yellow with short
 tube feet appearing in three rows along the body length. Mouth is downward facing with 18-20 feeding tentacles surrounded by a collar of bumps. The animal may disintegrate if it is handled or take out of water for a long time. So please don't touch it.  
   
@@ -66,24 +85,3 @@ Red List](http://www.iucnredlist.org/details/180545/0): "It is commercially harv
 
 
 ---
-
-**Links**
-
-- [*Stichopus
-  vastus* (Zebrafish)](http://www.sealifebase.org/summary/Stichopus-vastusl) on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  Technical fact sheet.
-- [*Stichopus
-  vastus* (Curryfish)](http://www.iucnredlist.org/details/180545/0) on the IUCN Red List: Techinal fact
-  sheet
-- *Stichopus vastus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-- [Fisheries,
-  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
-  by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
-  website.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

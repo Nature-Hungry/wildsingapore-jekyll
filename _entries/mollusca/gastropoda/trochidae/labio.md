@@ -40,6 +40,33 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160866040/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. [A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/). The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Monodonta labio*](https://singapore.biodiversity.online/taxo4254/mainSpace/Monodonta%20labio.html) (Vestigastropoda: Trochidae) Toothed top shell by Tan Wen Ting, 2014, on taxo4254.
+  - [Labio
+    monodont (*Monodontia labio*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86803) in SeaBase Life: Technical
+    fact sheet.
+  - Labio monodont
+    (*Monodontia labio*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Cedric Kai Wei Tan. 19 November 2009. *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*. Nature in Singapore 2009 2: 421–429.
+  - Tan, K. S.
+    & L. M. Chou, 2000. A
+    Guide to the Common Seashells of Singapore. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -47,7 +74,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/l
 seen on many of our shores. Often seen in groups on boulders, stones
 and seawalls on many of our shores. It is more active at night.  
   
-**Features:** 3-4cm. Shell thick heavy, an asymmetrical cone with spirals of rounded bumps.
+## Features
+ 3-4cm. Shell thick heavy, an asymmetrical cone with spirals of rounded bumps.
 Colour usually grey or greenish grey. *Mono
 donta* means 'one-toothed'. Indeed, there is a single large tooth-shaped
 structure at the shell opening which is white and smooth. Operculum,
@@ -92,35 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Family
-  Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. [A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/). The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Monodonta labio*](https://singapore.biodiversity.online/taxo4254/mainSpace/Monodonta%20labio.html) (Vestigastropoda: Trochidae) Toothed top shell by Tan Wen Ting, 2014, on taxo4254.
-- [Labio
-  monodont (*Monodontia labio*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86803) in SeaBase Life: Technical
-  fact sheet.
-- Labio monodont
-  (*Monodontia labio*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Cedric Kai Wei Tan. 19 November 2009. *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*. Nature in Singapore 2009 2: 421–429.
-- Tan, K. S.
-  & L. M. Chou, 2000. A
-  Guide to the Common Seashells of Singapore. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -87,6 +87,16 @@ page_images:
   caption: |
     <p>Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.185340548184012.60423.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+links_references: |
+  **Links**  
+  - [Estuarine
+    Moray (*Gymnothorax tile*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.htm) Lim,
+    Kelvin and Jeffrey K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
+    Centre.
+  - *[Gymnothorax
+    tile](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17266)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family with fact sheets on species
 ---
 
 ## Where seen?
@@ -94,7 +104,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/til
 slender snake-like fish with yellow speckles is sometimes seen on our undisturbed shores
 in rubbly areas near mangroves and seagrass meadows on many of our shores. It is more lively at night, where it can be seen actively wriggling around checking crevices for hidden prey.  
   
-**Features:** To about 60cm, those
+## Features
+ To about 60cm, those
 seen were about 15-30cm. Body long and cylindrical, only somewhat
 flattened sideways towards the tail. No pelvic or pectoral fins. Dorsal and anal fins extend over the entire length of the long body
 and are continuous with the tail fin, resulting in the typical eel-like
@@ -158,16 +169,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Estuarine
-  Moray (*Gymnothorax tile*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.htm) Lim,
-  Kelvin and Jeffrey K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
-  Centre.
-- *[Gymnothorax
-  tile](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17266)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family with fact sheets on species
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

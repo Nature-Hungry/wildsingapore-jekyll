@@ -60,6 +60,19 @@ page_images:
   caption: |
     <p>Seringat-Kias, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
+links_references: |
+  **Links**
+  - [*Holothuria
+    ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellatal)
+    on SeaLife Base: Technical fact sheet.
+  - [*Holothuria
+    ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71) in North Australian Sea Cucumbers on Marine Species
+    Identification Portal: Technical fact sheet.
+  **References**
+  - Siyang Teo and Chin
+    Soon Lionel Ng. *New record
+    of a sea cucumber, Holothuria ocellata (Jaeger, 1833) (Holothuroidea:
+    Aspidochirotida: Holothuriidae) in Singapore*. on Nature in Singapore on the Lee Kong Chiang Natural History Museum. Jun 2010 pp. 411–414.
 ---
 
 ## Where seen?
@@ -67,7 +80,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/pol
 seen on sandy areas among seagrasses at Changi. It was previously known
 as *Holothuria ocellata*.  
   
-**Features:** 6-8cm long. Body spindle-shaped (pointed at both ends) cylindrical
+## Features
+ 6-8cm long. Body spindle-shaped (pointed at both ends) cylindrical
 with an obvious flat underside, resulting in a ridge along the sides of
 the body. The polka dots comprise dark circles around very short pale
 conical bumps. The polka dots are found on the upper and underside.
@@ -116,20 +130,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Holothuria
-  ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellatal)
-  on SeaLife Base: Technical fact sheet.
-- [*Holothuria
-  ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71) in North Australian Sea Cucumbers on Marine Species
-  Identification Portal: Technical fact sheet.
-
-**References**
-
-- Siyang Teo and Chin
-  Soon Lionel Ng. *New record
-  of a sea cucumber, Holothuria ocellata (Jaeger, 1833) (Holothuroidea:
-  Aspidochirotida: Holothuriidae) in Singapore*. on Nature in Singapore on the Lee Kong Chiang Natural History Museum. Jun 2010 pp. 411–414.
 
 ---

@@ -60,12 +60,26 @@ page_images:
     <p>Porcelain crabs seen in a colony.</p>
     <p>Pulau Sekudu, Jun 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10160059111518119&set=a.10160059126633119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+links_references: |
+  **Links**
+  - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Tan Heok Hui & Tan Siong Kiat. 12 December 2014. *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*. Singapore Biodiversity Records 2014: 321-323.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
  This spherical soft coral is seen on our Northern shores. On coral rubble.  
   
-**Features:** Out of water, the colony
+## Features
+ Out of water, the colony
 spherical about 6-10cm in diameter. When submerged, may appear tubular
 or cylindrical. The colony has a fat central 'trunk' with many short
 branches. Polyps only found at these branch tips forming umbrella
@@ -115,21 +129,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Tan Heok Hui & Tan Siong Kiat. 12 December 2014. *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*. Singapore Biodiversity Records 2014: 321-323.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

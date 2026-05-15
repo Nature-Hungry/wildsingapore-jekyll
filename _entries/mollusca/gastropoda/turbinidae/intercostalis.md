@@ -78,7 +78,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/
  Among the most commonly encountered of our turban
 snails on our shores, this chubby snail is often seen on rocky shores
 and under coral rubble near living reefs. There are suggestions
-that *Turbo intercostalis=Turbo ticaonicus=Turbo bruneus.* **Features:** 3-5cm, up to 6cm. Shell
+that *Turbo intercostalis=Turbo ticaonicus=Turbo bruneus.* ## Features
+ 3-5cm, up to 6cm. Shell
 thick with many smooth spiral cords. Chalky operculum is hemi-spherical
 and smooth, dark green centre with yellowish and white margins. There
 is a fine ridge on the outside of the operculum and perforation in

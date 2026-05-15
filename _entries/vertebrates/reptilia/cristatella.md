@@ -30,6 +30,31 @@ page_images:
     <p>Lower Peirce Trail, Oct 03 What does it eat?</p>
     <p>It eats insects such as beetles, flies and ants.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+links_references: |
+  **Links**
+  - [Green
+    Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatellal) (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland.
+  - Das, Indraneil.
+    2004. *A
+    Pocket Guide: Lizards of Borneo*
+    Natural History Publications (Borneo). 83 pp.
 ---
 
 ## Where seen?
@@ -38,7 +63,8 @@ among the green vegetation where it may perch motionless. It is active
 during the day and is arboreal, found in bushes and trees usually
 in forested areas and inland wild places.   
   
-**Features:**Total length
+## Features
+Total length
 to 57cm. A slender body with small, bumpy (keeled) scales. It has
 a spiny crest on the back of its neck and a very long tail. Generally
 a plain bright bluish green although it may change to dark brown or
@@ -64,31 +90,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Bronchocela%2520cristatella/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-**Links**
-
-- [Green
-  Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatellal) (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland.
-- Das, Indraneil.
-  2004. *A
-  Pocket Guide: Lizards of Borneo*
-  Natural History Publications (Borneo). 83 pp.

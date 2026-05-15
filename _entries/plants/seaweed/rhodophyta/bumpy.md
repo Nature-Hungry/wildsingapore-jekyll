@@ -84,6 +84,27 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
+links_references: |
+  **Links**
+  - [*Eucheuma*](http://www.algaebase.org/search/genus/detail/?genus_id=D457ac0c2f3a3f13b)
+    and
+     *[Kappaphycus](http://www.algaebase.org/search/genus/detail/?genus_id=35125)*
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A Checklist of the Algae of Singapore, 2nd Edition*. Raffles Museum of Biodiversity Research, National University of Singapore, Singapore. 99 pp. Uploaded 1 Oct.2011.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia*
+    University of Western Australia Press. 300pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -91,7 +112,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy
 our undisturbed Southern shores, very firmly attached to coral rubble
 near reefs.  
   
-**Features:** Thick, hard 'fingers'
+## Features
+ Thick, hard 'fingers'
 about 8-20cm long that branch. Sometimes the 'fingers' are short and
 densely branched forming a bushy shape, others are longer and more
 sparsely branched. The tips are rounded. The surface is slimy and
@@ -169,29 +191,7 @@ striatus*
 
 ---
 
-**Links**
 
-- [*Eucheuma*](http://www.algaebase.org/search/genus/detail/?genus_id=D457ac0c2f3a3f13b)
-  and
-   *[Kappaphycus](http://www.algaebase.org/search/genus/detail/?genus_id=35125)*
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A Checklist of the Algae of Singapore, 2nd Edition*. Raffles Museum of Biodiversity Research, National University of Singapore, Singapore. 99 pp. Uploaded 1 Oct.2011.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia*
-  University of Western Australia Press. 300pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

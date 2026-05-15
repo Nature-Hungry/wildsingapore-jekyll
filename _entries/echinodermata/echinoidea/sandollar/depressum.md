@@ -122,6 +122,25 @@ page_images:
   caption: |
     <p>Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. With technical descriptions and
+    photos of [*Laganum*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=789).
+  - [*Jacksonaster
+    depressum*](http://www.sealifebase.org/summary/Jacksonaster-depressuml) in SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -132,7 +151,8 @@ hauls in the Southern islands. He also observed some at Pulau Semakau,
 using their spines to move over soft sediments and not for burrowing. It was previously
 known as *Laganum depressum*.   
   
-**Features:** Body diameter 4-6cm.
+## Features
+ Body diameter 4-6cm.
 Usually somewhat pentagonal rather than circular. On the upperside it is thick
 at the edges with a shallow depression around a raised centre. The
 thick edge is more obvious in a dead sand dollar. The petalloid is
@@ -209,27 +229,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. With technical descriptions and
-  photos of [*Laganum*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=789).
-- [*Jacksonaster
-  depressum*](http://www.sealifebase.org/summary/Jacksonaster-depressuml) in SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

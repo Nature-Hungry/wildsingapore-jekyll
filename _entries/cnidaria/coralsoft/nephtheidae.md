@@ -90,6 +90,43 @@ page_images:
   caption: |
     <p>Spherical, with spikes.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Soft
+    corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Heok Hui & Tan Siong Kiat. 12 December 2014. *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*. Singapore Biodiversity Records 2014: 321-323.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -105,7 +142,8 @@ animals may live in the colony. Look for them.
 our shores. They are usually attached to hard surfaces including boulders,
 jetty pilings and coral rubble.  
   
-**Features:**Colonies are
+## Features
+Colonies are
 usually 15- 20cm in diameter but may be larger. When submerged, these
 soft corals look like bushes. The common tissue is generally rubbery,
 stiff and rough to the touch. A thick 'main trunk' attaches to a hard
@@ -212,45 +250,7 @@ flowery soft coral)
 
 ---
 
-**Links**
 
-- [Soft
-  corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Heok Hui & Tan Siong Kiat. 12 December 2014. *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*. Singapore Biodiversity Records 2014: 321-323.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

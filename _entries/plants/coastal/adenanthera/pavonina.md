@@ -54,7 +54,8 @@ for roadsides as the tree is 'susceptible to damage in strong winds
 and becomes untidy with age, dropping large amounts of leaf litter'.
 According to Corners, the tree grows wild on rocky headlands and islets.  
   
- **Features:** A tall tree (up to
+ ## Features
+ A tall tree (up to
 20m) with pretty leaves. 'Pavo' means peacock, and the compound leaves
 are quite lovely. The leaves (10-40cm long) have 2-6 pairs of side
 stalks, each with 9-15 pairs of leaflets. The tree sheds its leaves

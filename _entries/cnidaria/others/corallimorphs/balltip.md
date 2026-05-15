@@ -94,6 +94,12 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972843858713&set=a.10159972857263713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
+links_references: |
+  **Links**
+  - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 ---
 
 ## Where seen?
@@ -101,7 +107,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/b
 its transparent tentacles is seen growing on hard surfaces. Rocks and coral rubble
 in clusters of a few individuals. Sometimes seen on some of our shores.  
   
-**Features:** Diameter with tentacles extended 1.5-4cm. Tentacles many, long thin,
+## Features
+ Diameter with tentacles extended 1.5-4cm. Tentacles many, long thin,
 transparent with a ball-shaped tip that is usually white or a bright
 colour. Body column smooth, colours seen include brown, orange,
 red, pink, bright blue. Oral disk usually brown with whitish or paler centre. Central mouth conical, often pale and usually protruding even when the tentacles
@@ -175,14 +182,7 @@ as a corallimorph.
 
 ---
 
-**Links**
 
-- [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

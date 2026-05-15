@@ -107,7 +107,8 @@ often seen on many of our shores, growing on stones and coral rubble,
 as well as under seagrasses in vast seagrass meadows. They may form a dense carpet that covers large areas of several square
 metres, making it difficult to walk at low tide without squashing them.   
   
-**Features:** Colonies 10-15cm, each polyp about 1cm in diameter. The polyps are
+## Features
+ Colonies 10-15cm, each polyp about 1cm in diameter. The polyps are
 embedded in a thin common tissue that is usually hidden by sediments,
 or joined to one another at the bases by underground stems (called
 stolons). The

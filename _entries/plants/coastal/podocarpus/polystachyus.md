@@ -50,6 +50,47 @@ page_images:
   caption: |
     <p>Sentosa, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
+links_references: |
+  **Links**
+  - [*Podocarpus
+    polystachyus*](http://floraofsingapore.wordpress.com/2010/05/02/podocarpus-polystachyus/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Podocarpus
+    polystachyus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3077) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [Sea
+    teak of Sentosa](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosal) on the wildfilms blog.
+  - [A
+    closer look at sea teak](http://teamseagrass.blogspot.com/2007/08/30-aug-fri-sentosal) on the teamseagrass blog.
+  - [Sea
+    teak (*Podocarpus polystachyus*)](http://mangrove.nus.edu.sg/guidebooks/text/1040) Ng, Peter K. L. & N.
+    Sivasothi, 1999. A Guide to the Mangroves of Singapore I (Plant
+    Diversity). Singapore Science Centre.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -68,7 +109,8 @@ at the high water mark, as well as on coastal cliff, swampy forests,
 and back mangroves. Inland, it is found on limestone hills. Its Malay
 name is '*Jati bukit*' which means 'hillside teak'.   
   
- **Features:** A shrub or small tree
+ ## Features
+ A shrub or small tree
 (1-20m tall). The trunk is sometimes fluted and sometimes has buttress
 roots.   
   
@@ -132,49 +174,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Podocarpus
-  polystachyus*](http://floraofsingapore.wordpress.com/2010/05/02/podocarpus-polystachyus/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Podocarpus
-  polystachyus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3077) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [Sea
-  teak of Sentosa](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosal) on the wildfilms blog.
-- [A
-  closer look at sea teak](http://teamseagrass.blogspot.com/2007/08/30-aug-fri-sentosal) on the teamseagrass blog.
-- [Sea
-  teak (*Podocarpus polystachyus*)](http://mangrove.nus.edu.sg/guidebooks/text/1040) Ng, Peter K. L. & N.
-  Sivasothi, 1999. A Guide to the Mangroves of Singapore I (Plant
-  Diversity). Singapore Science Centre.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

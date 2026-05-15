@@ -45,7 +45,8 @@ Elsewhere, it is commonly seen on the intertidal zone especially near
 mangroves and on mangrove roots, often forming thick bands in association
 with barnacles on the upper intertidal zone.   
   
-**Features:** Clusters of tiny feathery,
+## Features
+ Clusters of tiny feathery,
 fern-like blades (0.5-1cm), tightly packed together, forming a carpet
 on natural rocky shores at the high water mark. Colour brown, yellowish,
 reddish. Elsewhere may also be purplish. An astonishing variety of

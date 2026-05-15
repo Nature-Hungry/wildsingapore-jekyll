@@ -83,6 +83,37 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753887236295&set=a.10158753863266295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Heliofungia actiniformis*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heliofungia) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - *[Heliofungia
+    actiniformis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45862)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
@@ -91,7 +122,8 @@ is only commonly seen on some of our undisturbed Southern shores. They are often
 sometimes wedged among coral rubble. It used to be commonly seen on
 Beting Bronok in the north. It is the only species in the genus *Heliofungia* and is considered among the largest of hard coral polyps.  
   
-**Features:** Circular skeleton 10-20cm
+## Features
+ Circular skeleton 10-20cm
 in diameter with a flat smooth base (not concave). It is also sometimes called plate
 coral because its disk-shaped skeleton does resemble a dish. This
 coral is free-living (is not attached to the surface) as an adult
@@ -172,39 +204,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Heliofungia actiniformis*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heliofungia) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- *[Heliofungia
-  actiniformis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45862)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -106,13 +106,29 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472458013/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+links_references: |
+  **Links**
+  - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [Striped
+    Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299) on the Australian Biological
+    Resources Study website: photo, distribution, features, ecology,
+    interaction with humans, other comments.
+  **References**
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
  This beautiful anemone resembles blown glass and is sometimes
 seen on sand and near seagrasses on some of our shores.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 20cm or more. The oral disk 5-8cm in diameter.
 Tentacles not many. One ring of about 20 long tentacles (10-20cm),
 another ring of about the same number of shorter tentacles (length
@@ -182,23 +198,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [Striped
-  Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299) on the Australian Biological
-  Resources Study website: photo, distribution, features, ecology,
-  interaction with humans, other comments.
-
-**References**
-
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

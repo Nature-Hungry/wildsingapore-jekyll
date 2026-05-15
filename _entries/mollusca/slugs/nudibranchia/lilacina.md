@@ -107,6 +107,25 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5761057485/in/album-72157607751329669/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
+    [*Discodoris
+    lilacina*](http://www.seaslugforum.net/find/disclila)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
@@ -117,7 +136,8 @@ it. On coral rubble and encrusted rocks and under stones. Commonly
 seen on our Northern shores. It appears to be seasonally common. It
 was previously known as *Discodoris lilacina*.  
   
-**Features:** 8-10cm long. Broad,
+## Features
+ 8-10cm long. Broad,
 somewhat stiff body that looks like coral rubble. Body pattern camouflages
 it well against sand and rubble, usually grey or brown, sometimes
 pinkish. Faint dark ovals about 3-4 in three rows along the body surface.
@@ -189,27 +209,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
-  [*Discodoris
-  lilacina*](http://www.seaslugforum.net/find/disclila)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

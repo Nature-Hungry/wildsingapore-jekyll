@@ -55,7 +55,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentacula
  This small white flatworm with three stripes and red tipped pseudotentacles is sometimes seen on many of our shores,
 on coral rubble near living reefs.   
   
-**Features:** 2-4cm long. Body creamy-white with a blue margin. It has three non-connecting lines along the centre of the body, each line ocher bordered dark brown or purplish brown. There is
+## Features
+ 2-4cm long. Body creamy-white with a blue margin. It has three non-connecting lines along the centre of the body, each line ocher bordered dark brown or purplish brown. There is
 a pair of pseudotentacles made up of simple folded edges
 of the body, with orange tips.  
   

@@ -37,11 +37,32 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    periwinkle (*Littoraria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Periwinkle
+    Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
+    Life*. The Singapore Science Centre, Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K.
+    S. & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
  This rather large periwinkle is sometimes seen on
-mangrove tree trunks and sometimes even leaves. Usually seen alone. **Features:** 2-3cm. Shell conical with sharp tip, smooth, yellow with fine spiral pattern of brown dots.
+mangrove tree trunks and sometimes even leaves. Usually seen alone. ## Features
+ 2-3cm. Shell conical with sharp tip, smooth, yellow with fine spiral pattern of brown dots.
 Sometimes the shell is bleached white. Shell opening with black edge.
 "Melanostoma" means "black mouth". Operculum thin, circular, dark brown, made
 of a horn-like material. The animal is yellowish with short fat tentacles.   
@@ -75,28 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mangrove
-  periwinkle (*Littoraria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Periwinkle
-  Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
-  Life*. The Singapore Science Centre, Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K.
-  S. & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -40,6 +40,24 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+links_references: |
+  **Links**
+  - [*Ctenocella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Ctenocella)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
 ---
 
 ## Where seen?
@@ -47,7 +65,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre
 It is sometimes seen on Beting Bronok and Changi. In deeper water,
 they can grow to 1.5m across.  
   
-**Features:** 15-20cm long. Colony
+## Features
+ 15-20cm long. Colony
 comprises long unbranched stems emerging from a lower horizontal branch.
 The vertical stems arise parallel to one another, on one plane. The
 overall shape resembles a lyre or harp; or teeth of a comb.  The cylindrical
@@ -88,26 +107,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Ctenocella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Ctenocella)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
 
 [links](../../../links)
 | [references](../../../references)

@@ -97,7 +97,8 @@ may die.
 and can be seasonally common. These capsules were probably produced
 by [cephalopods](../cephalopoda.htm) which includes [octopuses](octopus.htm), [squids and cuttlefish](squid.htm).  
   
-**Features:** Some take the form of
+## Features
+ Some take the form of
 small tear-drop shaped capsules (1.5-2cm) joined together to form
 a 'string' about 10-15cm long. The entire assembly is usually attached
 to a firm structure or surface such as a [tubeworm](../../worm/tubeworm/tubeworms.htm)'s

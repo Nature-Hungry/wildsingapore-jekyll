@@ -89,6 +89,53 @@ page_images:
   caption: |
     <p><a href="berthelinia.htm">Singapore bivalve slug</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: [solar
+    powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how some slugs retain the chloroplasts
+    from their food. Including a description of [how
+    a slug sucked out](http://www.seaslugforum.net/display.cfm?id=12583) contents of algae.
+  - [How
+    does the solar-powered slug work?](http://wildshores.blogspot.com/2008/11/how-does-solar-powered-slug-work.html) on the wild shores of singapore
+    blog.
+  - [Solar-Powered
+    Slugs Are Not Solar-Powered](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/) by Ed Yong, Not Exactly Rocket
+    Science 20 Nov 2013 on the National Geographic website.
+  **References**
+  - Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug *Placida cremoniana*. Singapore Biodiversity Records 2016: 58
+  - K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe
+    R. Jensen. 30 Dec 2009. Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+  - Cornelis (Kees) Swennen. Large Mangrove-dwelling *Elysia* species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa). 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
  ## Where seen?
@@ -104,7 +151,8 @@ Like many other sea slugs ([Subclass Opistobranchia](../../slug.htm)),
 sap-sucking slugs lack external shells as adults. Sacoglossans are
 also called sap-sucking slugs because this is what they do (see below).  
   
-**Features:** Sap-sucking slugs come
+## Features
+ Sap-sucking slugs come
 in a wide variety of shapes and sizes. Many are tiny (1cm or less).
 They have one pair of 'rolled up' tentacles, not solid tentacles like
 other slugs. Some have small external shells, others have internal
@@ -255,55 +303,7 @@ recorded for Singapore.
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: [solar
-  powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how some slugs retain the chloroplasts
-  from their food. Including a description of [how
-  a slug sucked out](http://www.seaslugforum.net/display.cfm?id=12583) contents of algae.
-- [How
-  does the solar-powered slug work?](http://wildshores.blogspot.com/2008/11/how-does-solar-powered-slug-work.html) on the wild shores of singapore
-  blog.
-- [Solar-Powered
-  Slugs Are Not Solar-Powered](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/) by Ed Yong, Not Exactly Rocket
-  Science 20 Nov 2013 on the National Geographic website.
-
-**References**
-
-- Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug *Placida cremoniana*. Singapore Biodiversity Records 2016: 58
-- K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Kathe
-  R. Jensen. 30 Dec 2009. Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-- Cornelis (Kees) Swennen. Large Mangrove-dwelling *Elysia* species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa). 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

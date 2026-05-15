@@ -22,6 +22,28 @@ page_images:
     <p>Again seen with a worm.</p>
     <p>Chek Jawa, Jul 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+links_references: |
+  **Links**
+  - [Mussel
+    shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Introduction
+    to the Ostracoda](http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda/ostracodal)
+    on the [Phylogeny
+    Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
+    of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
+    fossil record, life history and ecology, systematics and more
+    on morphology.
+  **References**
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 ---
 
 ## Where seen?
@@ -34,7 +56,8 @@ Order [Decapoda](../../decapoda), mussel shrimps belong
 to Class Ostracoda. These tiny animals are poorly known. They are
 also sometimes called seed shrimps.  
   
- **Features:** 0.1-0.5cm. The
+ ## Features
+ 0.1-0.5cm. The
 body is enclosed in a two-part, hinged, hard translucent 'shell',
 somewhat like a clam. The shell is shed with each moult. It usually
 has a pair of long and hairy antennae. The antennae are used for swimming,
@@ -53,30 +76,7 @@ various species may be filter feeders, herbivores, predators and scavengers.
 
 ---
 
-**Links**
 
-- [Mussel
-  shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Introduction
-  to the Ostracoda](http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda/ostracodal)
-  on the [Phylogeny
-  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
-  of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
-  fossil record, life history and ecology, systematics and more
-  on morphology.
-
-**References**
-
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
 [links](../../../links)
 | [references](../../../references)

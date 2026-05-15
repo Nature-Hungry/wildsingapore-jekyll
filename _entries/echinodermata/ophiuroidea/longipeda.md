@@ -148,6 +148,16 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158910811482945&set=a.10158910873962945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/longipeda/050623cjg8293m3.jpg
+links_references: |
+  **Links**
+  - [*Macrophiothrix
+    longipeda*](http://www.sealifebase.org/summary/Macrophiothrix-longipedal)
+    on SeaLife Base: Technical fact sheets.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -164,7 +174,8 @@ in a tangle of its own arms. It's still not certain what this behaviour
 is about. But as soon as light falls on one, it will rapidly disappear
 into its hiding place.  
   
-**Features:** Disk
+## Features
+ Disk
 diameter about 1-2cm, arms about 20-30cm long and about 2cm broad.
 Disk thick and pentagonal. The very long arms are flat, generally
 of uniform width throughout, with long flat spines held flattened
@@ -254,16 +265,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Terumbu Pempang Laut, Jul 20 
 
 ---
-
-**Links**
-
-- [*Macrophiothrix
-  longipeda*](http://www.sealifebase.org/summary/Macrophiothrix-longipedal)
-  on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

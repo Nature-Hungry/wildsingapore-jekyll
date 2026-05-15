@@ -54,6 +54,30 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
+links_references: |
+  **Links**  
+  - [Orange-black
+    dragonet](http://www.fishbase.org/summary/60086) (*Dactylopus kuiteri*) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014. *New record of Kuiter’s dragonet from Singapore*. Singapore Biodiversity Records 2014: 103-104
+  - Ng, H. H.,
+    2012. *The
+    dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
+    Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -62,7 +86,8 @@ little curious fish with a flag on its back is sometimes seen on some of our Sou
 Elsewhere, they are considered common on shallow shetltered mud-sand
 flats, especially among seagrasses. Also in estuaries and deep water.
 They are usually buried during the day. Juveniles usually seen alone,
-adults may be seen in pairs or small groups. **Features:** Those seen on the intertidal
+adults may be seen in pairs or small groups. ## Features
+ Those seen on the intertidal
 about 2-3cm, grows to 15cm long. A portion of the dorsal fin is large and flag-like, which
 can be raised like a finger. The pelvic fins which are fan-like with
 the first ray detached from the rest of the fin. Body cylindrical
@@ -126,32 +151,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Orange-black
-  dragonet](http://www.fishbase.org/summary/60086) (*Dactylopus kuiteri*) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014. *New record of Kuiter’s dragonet from Singapore*. Singapore Biodiversity Records 2014: 103-104
-- Ng, H. H.,
-  2012. *The
-  dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
-  Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

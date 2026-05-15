@@ -68,7 +68,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyor
  This
 tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.  
   
-**Features:** Diameter about 2cm. Usually 5 arms, slender, equal in length. Upperside orange. Underside pale without markings.
+## Features
+ Diameter about 2cm. Usually 5 arms, slender, equal in length. Upperside orange. Underside pale without markings.
 
  
 

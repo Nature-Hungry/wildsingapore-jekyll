@@ -76,6 +76,34 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.168415093218197.41399.133291903397183">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
+links_references: |
+  **Links**
+  - [Saddle
+    oyster (*Placuna ephippium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)
+    and [Windowpane
+    oyster (*Placuna placenta*)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398) on SeaLife Base: Technical
+    fact sheets
+  - [Window
+    Pane shells (Family Anomiidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Anomiidae.html) on the [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website.
+  - Family Placunidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Peter K. L. Ng. Arcotheres placunicola, a new species of pea crab (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna ephippium Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles Bulletin of Zoology 66: 474–485
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 if you
@@ -94,7 +122,8 @@ on our Northern shores, and some of our Southern shores. Among seagrass
 meadows, lying loose on the ground. Elsewhere,
 abundant in muddy habitats such as quiet lagoons, protected bays and mangrove lagoons. Previously grouped with the [Family Anomiidae](../anomiidae/anomiidae.htm) (Jingle shell clams), the Window-pane clam is now in Family Placunidae.  
   
-**Features:** 6-12cm,
+## Features
+ 6-12cm,
 elsewhere to 18-20cm. The two-part shell is thin, translucent, may be
 circular or semi-circular with a straight base at the hinge. Colours white or beige. One
 valve may be smooth and flat or slightly concave and lies facing the
@@ -191,36 +220,7 @@ Placuna placenta*
 
 ---
 
-**Links**
 
-- [Saddle
-  oyster (*Placuna ephippium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)
-  and [Windowpane
-  oyster (*Placuna placenta*)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398) on SeaLife Base: Technical
-  fact sheets
-- [Window
-  Pane shells (Family Anomiidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Anomiidae.html) on the [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website.
-- Family Placunidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Peter K. L. Ng. Arcotheres placunicola, a new species of pea crab (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna ephippium Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles Bulletin of Zoology 66: 474–485
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

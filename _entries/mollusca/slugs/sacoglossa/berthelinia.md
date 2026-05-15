@@ -82,6 +82,24 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+links_references: |
+  **Links**  
+  - [*Berthelinia
+    caribbea*](http://www.seaslugforum.net/find/bertcari) on
+    [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman
+  **References**
+  - Kathe Jensen & Rene S. L. Ong
+    . 30 Sep 2016. *Shelled sacoglossa from Lazarus and Saint John's Islands*. Singapore Biodiversity Records 2016: 120-121.
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -89,7 +107,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berth
 sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell.htm) and [Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides.htm) on some of our shores.
 Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.  
   
-**Features:** A tiny
+## Features
+ A tiny
 well camouflaged slug (0.5-1cm long). A pair of oval transparent 'shells'
 with the slender slug in between. The slug is exactly the same colour
 as the seaweed that it is found on. It has a pair of slender tentacles (rhinophores) with a sprinkling of white spots.
@@ -136,26 +155,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Berthelinia
-  caribbea*](http://www.seaslugforum.net/find/bertcari) on
-  [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman
-
-**References**
-
-- Kathe Jensen & Rene S. L. Ong
-  . 30 Sep 2016. *Shelled sacoglossa from Lazarus and Saint John's Islands*. Singapore Biodiversity Records 2016: 120-121.
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

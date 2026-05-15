@@ -72,12 +72,27 @@ page_images:
   caption: |
     <p>Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10156654571338713.1073742153.619308712&type=3">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+links_references: |
+  **Links**
+  - [*Cryptopodia
+    fornicata*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1032) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  This strange crab is sometimes seen on our northern shores.  
   
-**Features:** Body width about 6cm.
+## Features
+ Body width about 6cm.
 A domed body covers the spindly walking legs. Eyes tiny and close
 together at the top of a rather triangular head. The pincers are large
 and angular.  
@@ -125,22 +140,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 grateful thanks to [Prof
 Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter) of the Lee Kong Chian Natural History Museum for identifying this crab.  
   
-**Links**
 
-- [*Cryptopodia
-  fornicata*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1032) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

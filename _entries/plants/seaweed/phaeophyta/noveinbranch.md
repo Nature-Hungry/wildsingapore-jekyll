@@ -34,13 +34,23 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
+links_references: |
+  **Links**
+  - [*Stypopodium zonale*](http://www.algaebase.org/search/species/detail/?species_id=e0f74cc64e0a94350&-session=abv4:3BBD35E0169c718B75VvF817F080) on [AlgaeBase](http://www.algaebase.org/):
+    technical fact sheet.
+  **References**
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 ---
 
 ## Where seen?
  This broad strap-like seaweed is sometimes seen on
 our Southern shores, attached to rocks and coral rubble.  
   
-**Features:** Clumps of flat blades
+## Features
+ Clumps of flat blades
 2-4cm wide and 10-15cm long. The broad strap-like blades branch irregularly
 near the ends on the same plane into flat strips. Tips squarish or
 irregularly ragged. There is no "vein" down the centre of
@@ -75,17 +85,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Stypopodium zonale*](http://www.algaebase.org/search/species/detail/?species_id=e0f74cc64e0a94350&-session=abv4:3BBD35E0169c718B75VvF817F080) on [AlgaeBase](http://www.algaebase.org/):
-  technical fact sheet.
-
-**References**
-
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
   
 

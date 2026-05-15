@@ -47,6 +47,57 @@ page_images:
   caption: |
     <p><a href="rockskipper">Rockskipper blenny</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+links_references: |
+  **Links**  
+  - [Striped
+    Fang-blenny (*Meiacanthus grammistes*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356), [Whitebar
+    Oyster-blenny (*Omobranchus ferox*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355), [Variable
+    Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Blennidae (Combtooth blennies)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Blenniidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family Blenniidae (Combtooth blennies)](http://fishbase.org/Summary/FamilySummary.cfm?ID=392) and *[Entomacrodus
+    lighti](http://www.fishbase.org/summary/60080)* and [*Meiacanthus
+    grammistes* (Striped poison-fang blenny)](http://www.fishbase.org/summary/6069) and [*Omobranchus
+    ferox* (Gossamer blenny)](http://www.fishbase.org/summary/7565) and [*Omobranchus
+    elongatus* (Cloister blenny)](http://www.fishbase.org/summary/8039) and [*Petroscirtes
+    variabilis* (Variable sabretooth blenny)](http://www.fishbase.org/summary/6076) and *[Omobranchus
+    zebra](http://www.fishbase.org/summary/25046)* and [*Salarias
+    ceramensis* (Seram blenny)](http://www.fishbase.org/summary/7749) and [*Istiblennius
+    dussumieri* (Streaky rockskipper)](http://www.fishbase.org/summary/7562) and [Salarias
+    fasciatus (Jewelled blenny)](http://www.fishbase.org/summary/6058) and [*Salarias
+    guttatus* (Breast-spot blenny)](http://www.fishbase.org/summary/11616) and [*Istiblennius
+    lineatus* (Lined rockskipper)](http://www.fishbase.org/summary/6050) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [The
+    sneaky fangblenny has changeable disguises](http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeablel) on the wild shores
+    of singapore blog.
+  **References**
+  - Daisuke Taira & Kelvin K. P. Lim. *Shorthead fang-blenny in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National University of Singapore.
+  - Kelvin K. P. Lim and Victor G. Springer. 31 Oct 2017. *Singapore records of the crescent oyster blenny, Omobranchus smithi.* Singapore Biodiversity Records 2017: 145.
+  - Kelvin Lim Kok Peng & Marcus F. C. Ng. 31 Mar 2017. *Records of the elongate oyster blenny, Omobranchus elongatus, in Singapore*. Singapore Biodiversity Records 2017: 58-59.
+  - Marcus F. C. Ng & Kelvin K. P. Lim
+    . 26 June 2015. *New record of the black-spotted rockskipper blenny in Singapore*. Singapore Biodiversity Records 2015: 87
+  - Kelvin K. P. Lim. 28 November 2014. *New record of the tasselled blenny in Singapore, Parablennius thysanius*. Singapore Biodiversity Records 2014: 303-304.
+  - Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014. *Stellar rockskipper blenny at Big Sister Island*. Singapore Biodiversity Records 2014: 86.
+  - Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013. *Yellowfin blenny at Semakau Landfill Enchelyurus flavipes*. Singapore Biodiversity Records 2013: 29.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -68,7 +119,8 @@ the family has 53 genera and 345 species. They are found in the Indian,
 Atlantic and Pacific Oceans mainly in tropical and subtropical marine
 habitats.   
   
-**Features:** Most blennies are small,
+## Features
+ Most blennies are small,
 10-15cm or smaller. They are generally elongated, lack
 scales and have a slimy skin. 'Blennos' means 'mucus-like' in Greek.
 Most have a continuous dorsal fin along the body length and are thus
@@ -145,59 +197,7 @@ Salarias lineatus=\*\*Istiblennius lineatus*
 
 ---
 
-**Links**  
 
-- [Striped
-  Fang-blenny (*Meiacanthus grammistes*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356), [Whitebar
-  Oyster-blenny (*Omobranchus ferox*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355), [Variable
-  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Blennidae (Combtooth blennies)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Blenniidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family Blenniidae (Combtooth blennies)](http://fishbase.org/Summary/FamilySummary.cfm?ID=392) and *[Entomacrodus
-  lighti](http://www.fishbase.org/summary/60080)* and [*Meiacanthus
-  grammistes* (Striped poison-fang blenny)](http://www.fishbase.org/summary/6069) and [*Omobranchus
-  ferox* (Gossamer blenny)](http://www.fishbase.org/summary/7565) and [*Omobranchus
-  elongatus* (Cloister blenny)](http://www.fishbase.org/summary/8039) and [*Petroscirtes
-  variabilis* (Variable sabretooth blenny)](http://www.fishbase.org/summary/6076) and *[Omobranchus
-  zebra](http://www.fishbase.org/summary/25046)* and [*Salarias
-  ceramensis* (Seram blenny)](http://www.fishbase.org/summary/7749) and [*Istiblennius
-  dussumieri* (Streaky rockskipper)](http://www.fishbase.org/summary/7562) and [Salarias
-  fasciatus (Jewelled blenny)](http://www.fishbase.org/summary/6058) and [*Salarias
-  guttatus* (Breast-spot blenny)](http://www.fishbase.org/summary/11616) and [*Istiblennius
-  lineatus* (Lined rockskipper)](http://www.fishbase.org/summary/6050) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [The
-  sneaky fangblenny has changeable disguises](http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeablel) on the wild shores
-  of singapore blog.
-
-**References**
-
-- Daisuke Taira & Kelvin K. P. Lim. *Shorthead fang-blenny in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National University of Singapore.
-- Kelvin K. P. Lim and Victor G. Springer. 31 Oct 2017. *Singapore records of the crescent oyster blenny, Omobranchus smithi.* Singapore Biodiversity Records 2017: 145.
-- Kelvin Lim Kok Peng & Marcus F. C. Ng. 31 Mar 2017. *Records of the elongate oyster blenny, Omobranchus elongatus, in Singapore*. Singapore Biodiversity Records 2017: 58-59.
-- Marcus F. C. Ng & Kelvin K. P. Lim
-  . 26 June 2015. *New record of the black-spotted rockskipper blenny in Singapore*. Singapore Biodiversity Records 2015: 87
-- Kelvin K. P. Lim. 28 November 2014. *New record of the tasselled blenny in Singapore, Parablennius thysanius*. Singapore Biodiversity Records 2014: 303-304.
-- Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014. *Stellar rockskipper blenny at Big Sister Island*. Singapore Biodiversity Records 2014: 86.
-- Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013. *Yellowfin blenny at Semakau Landfill Enchelyurus flavipes*. Singapore Biodiversity Records 2013: 29.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

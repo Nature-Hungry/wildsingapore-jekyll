@@ -46,6 +46,23 @@ page_images:
   caption: |
     <p>Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167207994730112&set=a.10167208042325112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
+links_references: |
+  **Links**  
+  - [Shortnose
+    boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399) Lim, Kelvin and Jeffrey
+    K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+    Centre.
+  - [Shortnose
+    boxfish (*Ostracion nasus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8192) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Tan Heok Hui
+    . 30 November 2016. *Sexual dimorphism in shortnose boxfish sold for food*. Singapore Biodiversity Records 2016: 169-170.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -53,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/na
 strange boxy fish is sometimes seen on some of our shores. It is also called the Small nosed boxfish. It was previously
 called *Ostracion nasus*.  
   
- **Features:**  To 30cm, those seen about 10cm long. Body cubical
+ ## Features
+  To 30cm, those seen about 10cm long. Body cubical
 boxy, which is enclosed in a protective hard shell (carapace) made up of
 bony plates with gaps for the various tiny fins, the tail and the
 mouth. No horns. A small bump on the 'nose' above the
@@ -97,25 +115,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Shortnose
-  boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399) Lim, Kelvin and Jeffrey
-  K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
-  Centre.
-- [Shortnose
-  boxfish (*Ostracion nasus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8192) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Tan Heok Hui
-  . 30 November 2016. *Sexual dimorphism in shortnose boxfish sold for food*. Singapore Biodiversity Records 2016: 169-170.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

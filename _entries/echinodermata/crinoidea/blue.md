@@ -81,7 +81,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/06
  This bluish feather star is sometimes seen on some
 of our shores. Usually on coral rubble or near living reefs.  
   
-**Features:** 10-12cm in diameter.
+## Features
+ 10-12cm in diameter.
 On the upperside, the centre is covered with many dark to black pinnules.
 The cirri on the underside is banded. With more than 20 arms. Arms
 are greenish blue, but some were seen with orange and pinkish arms.

@@ -93,6 +93,41 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467683158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+links_references: |
+  **Links**  
+  - [Blue-spotted
+    Fantail Ray (*Taeniura lymma*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - *[Taeniura lymma](https://wiki.nus.edu.sg/display/TAX/Taeniura+lymma+-+Blue-spotted+Fantail+Ray)* (Myliobatiformes: Dasyatidae) Blue-spotted Fantail Ray by Shelley Chan Hiang Ming, 2016, on taxo4254.
+  - [Bluespotted
+    ribbontail ray (*Taeniura lymma*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5399) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
+  - *[Taeniura lymma](http://www.iucnredlist.org/details/39412/0)* from IUCN Red List.
+  **References**  
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -102,7 +137,8 @@ shores. It is often also seen by divers. Sadly, it is also sometimes
 encountered trapped in a drift net. It is considered possibly the
 most abundant ray in coral reefs in our region.  
   
- **Features:** Grows to about 30cm
+ ## Features
+ Grows to about 30cm
 in diameter, those seen 15-20cm. Body oval with a rounded snout. Body
 colour brown, grey, yellow, olive-green to reddish brown; with lots
 of obvious bright blue spots.
@@ -191,43 +227,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Blue-spotted
-  Fantail Ray (*Taeniura lymma*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- *[Taeniura lymma](https://wiki.nus.edu.sg/display/TAX/Taeniura+lymma+-+Blue-spotted+Fantail+Ray)* (Myliobatiformes: Dasyatidae) Blue-spotted Fantail Ray by Shelley Chan Hiang Ming, 2016, on taxo4254.
-- [Bluespotted
-  ribbontail ray (*Taeniura lymma*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5399) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
-- *[Taeniura lymma](http://www.iucnredlist.org/details/39412/0)* from IUCN Red List.
-
-**References**  
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

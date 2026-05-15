@@ -174,7 +174,8 @@ near our reefs and coral rubble areas. It is frequently encountered
 on many of our Southern shores and it is a rare night visit where
 one is not seen in a suitable habitat. It is more active at night.  
   
-**Features:** Head about 5-8cm long,
+## Features
+ Head about 5-8cm long,
 arms may be 15-30cm long. Arms tapering. Webbing extends to about
 half the arm's length. It can change colours
 and the texture of the skin.  

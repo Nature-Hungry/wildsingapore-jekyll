@@ -39,12 +39,31 @@ page_images:
   caption: |
     <p>Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159224479928713&set=a.10159224523503713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+links_references: |
+  **Links**  
+  - [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
+    on *[Phidiana
+    militaris](http://www.seaslugforum.net/find/phidmili)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
  This pretty nudibranch is seldom seen, so far, on our Northern shores.  
   
-**Features:** About 2cm long. Long,
+## Features
+ About 2cm long. Long,
 narrow, soft body with many long finger-like structures (called cerata) arranged in rows
 across the body. It
 is identified by the orange lines running along the side of the body
@@ -79,26 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
-  on *[Phidiana
-  militaris](http://www.seaslugforum.net/find/phidmili)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

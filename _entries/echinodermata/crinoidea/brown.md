@@ -142,7 +142,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/1
  This brown feather star is sometimes seen near living
 reefs on Pulau Hantu.   
   
-**Features:** 12-15cm in diameter.
+## Features
+ 12-15cm in diameter.
 With more than 20 arms. The cirri on the underside is banded. Included
 on this page are animals that are mostly brown as well as banded brown
 or orange.

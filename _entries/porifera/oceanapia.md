@@ -49,11 +49,24 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158223552443660&set=a.10158223378038660">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
+links_references: |
+  **Links**
+  - [*Oceanapia
+    sagittaria*](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Oceanapia&speciesname=sagittaria)
+    on SeaLife Base: Technical fact sheet
+  - [*Oceanapia
+    sagittaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166994) on the World Porifera Database
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This small pink puff is sometimes seen on some of our shores among
-coral rubble. It's just the tip of an enormous buried sponge! **Features:** Small delicate
+coral rubble. It's just the tip of an enormous buried sponge! ## Features
+ Small delicate
 prickly ball about 1-2cm in diameter, on a short conical stem (called
 the capitate structure). The ball has fine sheets between the prickles.
 Seen singly but sometimes a few seen near one another growing on coral
@@ -100,20 +113,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Oceanapia
-  sagittaria*](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Oceanapia&speciesname=sagittaria)
-  on SeaLife Base: Technical fact sheet
-- [*Oceanapia
-  sagittaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166994) on the World Porifera Database
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

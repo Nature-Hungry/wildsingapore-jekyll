@@ -44,7 +44,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/whi
  This plain smooth whitish clam is sometimes seen
 on some of our shores, lying loose among coral rubble and under stones.  
   
-**Features:**About
+## Features
+About
 4cm. Shell thick, squarish, quite smooth with very fine ridges in concentric rings. Usually
 plain, mostly white with dark irregular blotches.
  

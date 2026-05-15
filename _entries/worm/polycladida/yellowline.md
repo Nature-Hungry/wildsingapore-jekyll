@@ -188,7 +188,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/17062
  This small pale flatworm elegantly edged in blue with a central blue line is regularly
 encountered on many of our shores, on coral rubble near living reefs.  
   
-**Features:** 2-4cm long. There is
+## Features
+ 2-4cm long. There is
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   

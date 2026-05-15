@@ -40,6 +40,22 @@ page_images:
   caption: |
     <p>Mandai, Feb 13</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+links_references: |
+  **Links**
+  - [Orange
+    signaller crab (*Metaplax elegans*)](http://mangrove.nus.edu.sg/guidebooks/text/2051)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Orange
+    signaller crab (*Metaplax elegans*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742) on Crabs of Japan in
+    Marine Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
 ---
 
 ## Where seen?
@@ -47,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metapl
 orange pincers is found in the back mangroves in very soft mud. Often in large groups
 near stream banks, digging out burrows to live in.  
   
-**Features:** Body width about 2cm.
+## Features
+ Body width about 2cm.
 Body somewhat rectangular, eyes on short eyestalks. Pincers long large,
 bright orange, about equal sized. Long flattened legs with pointed
 tips. Males wave their distinctive long orange pincers, and 'bounce'
@@ -72,24 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Orange
-  signaller crab (*Metaplax elegans*)](http://mangrove.nus.edu.sg/guidebooks/text/2051)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Orange
-  signaller crab (*Metaplax elegans*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742) on Crabs of Japan in
-  Marine Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
 
 [links](../../../links)
 | [references](../../../references)

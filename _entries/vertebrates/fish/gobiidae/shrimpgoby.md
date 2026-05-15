@@ -102,12 +102,21 @@ page_images:
     <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
     <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+links_references: |
+   **Links**  
+  - [The
+    Shrimp-Goby Chronicles](http://www.explorebiodiversity.com/Hawaii/Shrimp-goby/general/) with lots of details on the shrimps,
+    the gobies, their burrows and more.
+  **References**
+  - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
+  - Toh Chay Hoon & Kelvin K. P. Lim. 21 November 2014. *Blue-tailed dartfish sharing burrow with shrimp and goby*. Singapore Biodiversity Records 2014: 299-300.
 ---
 
 ## Where seen?
  These fish and shrimp partnership is seen on some of our shores. Their co-operation is so good that both animals usually quickly disappear into their shared burrow at the slightest sign of danger. Be patient and still, and soon, they will emerge once again.  
   
-**Features:** The
+## Features
+ The
 shrimp goby lives in the same burrow with a [snapping
 shrimp](../../../crustacea/othercrust/shrimp/alpheidae.htm). With keener eyesight, the goby keeps a look-out while
 the shrimp busily digs out and maintains their shared home. The shrimp
@@ -171,16 +180,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
- **Links**  
 
-- [The
-  Shrimp-Goby Chronicles](http://www.explorebiodiversity.com/Hawaii/Shrimp-goby/general/) with lots of details on the shrimps,
-  the gobies, their burrows and more.
-
-**References**
-
-- Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
-- Toh Chay Hoon & Kelvin K. P. Lim. 21 November 2014. *Blue-tailed dartfish sharing burrow with shrimp and goby*. Singapore Biodiversity Records 2014: 299-300.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

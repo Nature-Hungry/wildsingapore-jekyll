@@ -77,11 +77,48 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467848158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
+links_references: |
+  **Links**
+  - [*Xestospongia
+    testudinaria*](http://www.sealifebase.fisheries.ubc.ca/summary/Xestospongia-testudinaria.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Xestospongia
+    testudinaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166902) on the World Porifera Database.
+  - [Sponges](http://mangrove.nus.edu.sg/pub/seashore/text/113.htm)
+    Tan, Leo W.
+    H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Singapore sponges and Henry Carter](http://wildshores.blogspot.sg/2013/01/singapore-sponges-and-henry-carter.html) on the wild shores of singapore blog.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
  This maroon barrel-shaped sponge is sometimes seen on many of our
-shores, near and in reefs. **Features:** Large ones
+shores, near and in reefs. ## Features
+ Large ones
 have a deep cavity in the centre so they are generally vase- or barrel-shaped.
 The inside of the cavity has an uneven and rough texture. The outside
 may be smooth, bumpy or with regular fingers, ridges or 'wings'. Younger,
@@ -151,44 +188,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Xestospongia
-  testudinaria*](http://www.sealifebase.fisheries.ubc.ca/summary/Xestospongia-testudinaria.html)
-  on SeaLife Base: technical fact sheet.
-- [*Xestospongia
-  testudinaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166902) on the World Porifera Database.
-- [Sponges](http://mangrove.nus.edu.sg/pub/seashore/text/113.htm)
-  Tan, Leo W.
-  H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Singapore sponges and Henry Carter](http://wildshores.blogspot.sg/2013/01/singapore-sponges-and-henry-carter.html) on the wild shores of singapore blog.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../links.htm)
 | [references](../references.htm)

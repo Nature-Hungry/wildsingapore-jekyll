@@ -59,6 +59,18 @@ page_images:
     <p>'Feet' of the barnacle.</p>
     <p>Changi West, Sep 20</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
+links_references: |
+  **Links**
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -67,7 +79,8 @@ large smooth barnacles are sometimes seen on our rocky shores, on
 large boulders where there is more water movement and where they are
 shaded from the sun at low tide.  
   
-**Features:** To about 3cm across.
+## Features
+ To about 3cm across.
 Outer shell thick, smoothly conical and not made up of plates. The
 outer shell has a ridged patten of bumps or short lines. The shell
 opening is rather small and the operculum recessed. Some were seen
@@ -113,20 +126,7 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=1
 
 ---
 
-**Links**
 
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

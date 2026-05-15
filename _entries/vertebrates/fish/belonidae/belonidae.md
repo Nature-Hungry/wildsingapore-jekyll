@@ -60,6 +60,51 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24889021225/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
+links_references: |
+  **Links**  
+  - [Spot-tail
+    Needlefish (*Strongylura strongylura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242) and [Banded/Slender
+    Needlefish (*Strongylura leiura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243) Lim, Kelvin and Jeffrey
+    K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+    Centre.
+  - [Spot-tail
+    needlefish (*Strongylura strongylura*)](http://mangrove.nus.edu.sg/guidebooks/text/2104) Ng, Peter K. L.
+    & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Belonidae (Needlefishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Beloniformes-Belonidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish) on Ecology Asia.
+  - [Family
+    Belonidae (Needlefishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=207) and [*Platybelone
+    argalus argalus* (Keeltail needlefish)](http://www.fishbase.org/summary/973) and [*Strongylura
+    strongylura* (Spottail needlefish)](http://www.fishbase.org/summary/1316) and [*Strongylura
+    leiura* (Banded needlefish)](http://www.fishbase.org/summary/1315) and [*Tylosurus
+    crocodilus crocodilus* (Hound needlefish)](http://www.fishbase.org/summary/977) and [*Tylosurus
+    acus melanotus* (Keel-jawed needle fish)](http://www.fishbase.org/summary/1317) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kelvin K. P. Lim. 26 February 2016. *Large congregation of yellowfin needlefish at Harbourfront*. Singapore Biodiversity Records 2016: 26-27
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -72,7 +117,8 @@ belong to the Family Belonidae. According to [FishBase](http://www.fishbase.org/
 the family has 10 genera and 34 species. Besides marine species, some
 species are found in freshwater.  
   
-**Features:** 50cm-1m long or more,
+## Features
+ 50cm-1m long or more,
 these fishes have a long silvery body. In some, the cross-section
 of the body is circular, in others rectangular. They usually
 have a dark blue stripe along the body length, and the tip of the
@@ -160,53 +206,7 @@ Tylosorus strongylurus=\*\*Strongylura strongylura*
 
 ---
 
-**Links**  
 
-- [Spot-tail
-  Needlefish (*Strongylura strongylura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242) and [Banded/Slender
-  Needlefish (*Strongylura leiura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243) Lim, Kelvin and Jeffrey
-  K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
-  Centre.
-- [Spot-tail
-  needlefish (*Strongylura strongylura*)](http://mangrove.nus.edu.sg/guidebooks/text/2104) Ng, Peter K. L.
-  & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Belonidae (Needlefishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Beloniformes-Belonidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish) on Ecology Asia.
-- [Family
-  Belonidae (Needlefishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=207) and [*Platybelone
-  argalus argalus* (Keeltail needlefish)](http://www.fishbase.org/summary/973) and [*Strongylura
-  strongylura* (Spottail needlefish)](http://www.fishbase.org/summary/1316) and [*Strongylura
-  leiura* (Banded needlefish)](http://www.fishbase.org/summary/1315) and [*Tylosurus
-  crocodilus crocodilus* (Hound needlefish)](http://www.fishbase.org/summary/977) and [*Tylosurus
-  acus melanotus* (Keel-jawed needle fish)](http://www.fishbase.org/summary/1317) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kelvin K. P. Lim. 26 February 2016. *Large congregation of yellowfin needlefish at Harbourfront*. Singapore Biodiversity Records 2016: 26-27
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

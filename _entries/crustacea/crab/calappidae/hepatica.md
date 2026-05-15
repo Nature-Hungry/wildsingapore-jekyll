@@ -67,13 +67,32 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5701985501/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+links_references: |
+  **Links**
+  - [Reef
+    box crab (*Calappa hepatica*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21137&genusname=Calappa&speciesname=hepatica) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  This small boxy crab is rarely seen. Usually near
 reefs on our Southern shores.  
   
-**Features:** Body width about 4cm. It has small bumps all over its body
+## Features
+ Body width about 4cm. It has small bumps all over its body
 giving it a beaded look that matches perfectly with the surrounding
 sand!  
   
@@ -117,26 +136,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Reef
-  box crab (*Calappa hepatica*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21137&genusname=Calappa&speciesname=hepatica) on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

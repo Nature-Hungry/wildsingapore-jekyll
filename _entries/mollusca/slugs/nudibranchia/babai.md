@@ -42,6 +42,17 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
+    [*Armina
+    babai*](http://www.seaslugforum.net/find/armibaba).
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -51,7 +62,8 @@ burrowing in soft silty areas near seagrasses. When seen, usually
 several individuals are encountered. Then they are not seen again
 for some time.  
   
-**Features:** Among the large nudibranchs
+## Features
+ Among the large nudibranchs
 on our shores, it is reported to grow to 50cm long! But those seen
 were about 8-10cm long. Somewhat squat for an armina, being broad
 and almost oval in shape. Fleshy body smooth and plain without any
@@ -88,19 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-  [*Armina
-  babai*](http://www.seaslugforum.net/find/armibaba).
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

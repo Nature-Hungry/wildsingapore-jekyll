@@ -66,7 +66,8 @@ coral rubble on our Northern and Southern shores. On Pulau Sekudu, they are some
 carpeting the ground. Elsewhere, they are seen alone or in smaller
 numbers.   
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 extended 3-4cm. Many short tentacles reddish brown, paler at the base.
 Tentacle tips may be slightly bulbous. Oral disk large relative to
 the tentacles, same colour as tentacles. Body column smooth and pale.  

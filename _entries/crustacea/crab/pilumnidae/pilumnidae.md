@@ -39,13 +39,44 @@ page_images:
   caption: |
     <p><a href="featherstar">Feather star crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+links_references: |
+  **Links**
+  - [Hairy
+    Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Heok Hui. 16 May 2014. *Horned crinoid crab in the Singapore Straits, Ceratocarcinus longimanus*. Singapore Biodiversity Records 2014: 132.
+  - Lee BY & Ng NK (2012) *New record of the mangrove crab, Heteropilumnus sasekumari (Serene, 1971) (Crustacea: Brachyura: Pilumnidae) from Singapore*. Nature in Singapore, 5: 57–59.
+  - Tan HH (2012) *A recent Singapore record of the crinoid crab, Harrovia longipes Lanchester (Crustacea: Brachyura: Pilumnidae)*. Nature in Singapore, 5: 237–240
+  - Jose Christopher E. Mendoza, Peter K. L. Ng. *[Leelumnus radium,](https://mapress.com/j/zt/article/view/10850)* [a new genus and species of pilumnid crab from marine encrusting communities in Singapore (Crustacea: Decapoda: Brachyura: Pilumnidae)](https://mapress.com/j/zt/article/view/10850). 5 Apr. 2011. Zootaxa Vol 2809, No 1.
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  The most commonly seen member of this family on our
 shores are the [Common hairy crabs](pilumnus) (*Pilumnus* sp.) near rubble and reefs.  
   
-**Features:** Not all pilumnid crabs
+## Features
+ Not all pilumnid crabs
 are hairy. They come in a wide variety of shapes and features and
 some are difficult to tell apart.  
   
@@ -148,38 +179,7 @@ Endangered)
 
 ---
 
-**Links**
 
-- [Hairy
-  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Heok Hui. 16 May 2014. *Horned crinoid crab in the Singapore Straits, Ceratocarcinus longimanus*. Singapore Biodiversity Records 2014: 132.
-- Lee BY & Ng NK (2012) *New record of the mangrove crab, Heteropilumnus sasekumari (Serene, 1971) (Crustacea: Brachyura: Pilumnidae) from Singapore*. Nature in Singapore, 5: 57–59.
-- Tan HH (2012) *A recent Singapore record of the crinoid crab, Harrovia longipes Lanchester (Crustacea: Brachyura: Pilumnidae)*. Nature in Singapore, 5: 237–240
-- Jose Christopher E. Mendoza, Peter K. L. Ng. *[Leelumnus radium,](https://mapress.com/j/zt/article/view/10850)* [a new genus and species of pilumnid crab from marine encrusting communities in Singapore (Crustacea: Decapoda: Brachyura: Pilumnidae)](https://mapress.com/j/zt/article/view/10850). 5 Apr. 2011. Zootaxa Vol 2809, No 1.
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

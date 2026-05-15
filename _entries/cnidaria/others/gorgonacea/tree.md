@@ -58,6 +58,31 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171384768158&set=a.10159171388568158">facenook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
+links_references: |
+  **Links**
+  - [*Melithea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Melithaea)
+    and [*Acabaria*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Acabaria)
+    and *[Mopsella](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Mopsella)*
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
+  - Ofwegen,
+    L.P. van, N.K.C. Goh & L.M. Chou. [The
+    Melithaeidae (Coelenterata: Octocorallia) of Singapore](http://www.repository.naturalis.nl/record/216175).
+    Zool. Med. Leiden 73 (19), 6.iii.2000: 285-304, figs 1-13. ISSN
+    0024-0672.
 ---
 
 ## Where seen?
@@ -66,7 +91,8 @@ of a large spreading tree is sometimes seen our Northern and Southern shores on
 coral rubble. It also grows on artificial surfaces where it is dark,
 such as on jetty legs.  
   
-**Features:** 10-15cm tall. A thick
+## Features
+ 10-15cm tall. A thick
 sturdy 'trunk' at the base, that branches into increasingly finer
 stems, resulting in an elegant tree-like shape along one plane. There
 are swollen nodes at the points where the stems branch. Colours seen
@@ -119,33 +145,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 thanks to Haruka Shikiba of Ryukyu University, Japan for suggesting
 the identification of these sea fans.
 
-**Links**
 
-- [*Melithea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Melithaea)
-  and [*Acabaria*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Acabaria)
-  and *[Mopsella](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Mopsella)*
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
-- Ofwegen,
-  L.P. van, N.K.C. Goh & L.M. Chou. [The
-  Melithaeidae (Coelenterata: Octocorallia) of Singapore](http://www.repository.naturalis.nl/record/216175).
-  Zool. Med. Leiden 73 (19), 6.iii.2000: 285-304, figs 1-13. ISSN
-  0024-0672.
 
 [links](../../../links)
 | [references](../../../references)

@@ -69,6 +69,42 @@ page_images:
   caption: |
     <p><a href="far.htm">Black-barred halfbeak</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - Ng, Peter
+    K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/contents.htm)*.
+    Singapore Science Centre. 168 pp.
+  - [Family
+    Hemiramphidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475) (Halfbeaks) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheet on individual
+    species.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific
+  - [*Dermogenys collettei*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dermogenys%20collettei.html) (Beloniformes: Hemiramphidae) Pygmy Halfbeak on Taxo4254.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -88,7 +124,8 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475
 the family has 12 genera and 85 species. They are found in the Atlantic,
 Indian and Pacific Oceans.  
   
-**Features:** To about 10cm long.
+## Features
+ To about 10cm long.
 Body long and stick-like; generally cylindrical. The halfbeak is so
 named because its lower jaw is much longer, while its upper jaw is
 short and triangular. 'Hemi' means half; while 'rhamphos' means beak
@@ -190,44 +227,7 @@ Zenarchopterus ectuntio*
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- Ng, Peter
-  K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/contents.htm)*.
-  Singapore Science Centre. 168 pp.
-- [Family
-  Hemiramphidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475) (Halfbeaks) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheet on individual
-  species.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific
-- [*Dermogenys collettei*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dermogenys%20collettei.html) (Beloniformes: Hemiramphidae) Pygmy Halfbeak on Taxo4254.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

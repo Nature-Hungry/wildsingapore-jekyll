@@ -42,7 +42,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quo
 seen at Tanah Merah. Elsewhere, they are seen in silty reefs, in shallow
 and intertidal waters.  
   
-**Features:** To about 35-40cm. There are many species of groupers with a mosaic-like
+## Features
+ To about 35-40cm. There are many species of groupers with a mosaic-like
 pattern. The Honeycomb grouper is distinguished by having less dense
 spotting, larger polygonal spots, thin or no white margin on the tail.
 It also has oblique dark bands just below the pectoral fin base. Often

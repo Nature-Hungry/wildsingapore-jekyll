@@ -51,7 +51,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prp
  This long ribbon worm is sometimes seen on some of
 our rocky shores. It is more active at night.  
   
-**Features:** Grouped in this entry
+## Features
+ Grouped in this entry
 are ribbon worms that are 20-30cm long upperside with dark stripes,
 underside plain pale or white. They probably include different kinds
 of ribbon worms.   

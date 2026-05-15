@@ -58,6 +58,37 @@ page_images:
   caption: |
     <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on facebook.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+links_references: |
+  **Links**
+  - [Green
+    Mussel (*Perna viridis*)](http://mangrove.nus.edu.sg/pub/seashore/text/158.htm) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Green
+    mussel (*Perna viridis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835) from SeaLife Base: Technical
+    fact sheet.
+  - Asian brown
+    mussel (*Perna viridis*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip Obbard. June 2004. [Organochlorine Pesticides and Heavy Metals in Green Mussel, *Perna viridis* in Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55). Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103–116T
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -73,7 +104,8 @@ is considered a pest outside its natural range.
 forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted
 to waters that are murky and sediment laden.  
   
-**Features:** 5-8cm. The two-part
+## Features
+ 5-8cm. The two-part
 shell is thin, smooth. Young clams often all bright green, older clams usually brownish edged in green. The animal
 attaches to hard surfaces with byssus threads, usually in clusters
 of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
@@ -131,39 +163,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Green
-  Mussel (*Perna viridis*)](http://mangrove.nus.edu.sg/pub/seashore/text/158.htm) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Green
-  mussel (*Perna viridis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835) from SeaLife Base: Technical
-  fact sheet.
-- Asian brown
-  mussel (*Perna viridis*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip Obbard. June 2004. [Organochlorine Pesticides and Heavy Metals in Green Mussel, *Perna viridis* in Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55). Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103–116T
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

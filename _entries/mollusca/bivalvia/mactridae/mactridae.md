@@ -32,6 +32,27 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+links_references: |
+  **Links**
+  - [Surf
+    clams (Family Mactridae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html) on the [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website.
+  - Family Mactridae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wong, H.
+    W., 2009. *The Mactridae (Mollusca: Bivalvia) of East Coast Park,
+    Singapore*. Nature in Singapore, 2: 283-296.
 ---
 
 ## Where seen?
@@ -41,7 +62,8 @@ often seen on our northern shores.
 **What are surf clams?** Surf clams
 belong to the Family Mactridae. They are also called Trough clams.  
   
-**Features:** About 6cm. The two-part
+## Features
+ About 6cm. The two-part
 shells are thick and smooth. They are active burrowers of sandy and
 muddy bottoms.  
   
@@ -94,29 +116,7 @@ Spisula transversa*
 
 ---
 
-**Links**
 
-- [Surf
-  clams (Family Mactridae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html) on the [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website.
-- Family Mactridae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wong, H.
-  W., 2009. *The Mactridae (Mollusca: Bivalvia) of East Coast Park,
-  Singapore*. Nature in Singapore, 2: 283-296.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

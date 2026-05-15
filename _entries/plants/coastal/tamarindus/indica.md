@@ -86,6 +86,14 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
+links_references: |
+  **Links**
+  - [*Tamarindus
+    indica*](http://floraofsingapore.wordpress.com/2010/03/27/tamarindus-indica/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -101,7 +109,8 @@ a conspicuous or 'successful' tree in Malaya, according to Corners.
 According to Burkill, the Arabs called the tree the Indian date (tamar)
 from which the name Tamarind came about.  
   
-**Features:** A tall tree (20-25m).
+## Features
+ A tall tree (20-25m).
 The compound leaves (6-12cm long) are made up of little leaflets.
 The leaflet tips are minutely notched and the leaflets fold together
 at dusk. The beautiful small flowers are rose red in the bud and when
@@ -159,16 +168,7 @@ height 22m.
 
 ---
 
-**Links**
 
-- [*Tamarindus
-  indica*](http://floraofsingapore.wordpress.com/2010/03/27/tamarindus-indica/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

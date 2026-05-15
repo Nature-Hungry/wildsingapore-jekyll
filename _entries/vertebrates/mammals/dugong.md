@@ -37,6 +37,55 @@ page_images:
   caption: |
     <p>Gracie the captive dugong at Underwater World Sentosa on her 12th birthday Jan 09, from <a href="http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl">Channel NewsAsia</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
+links_references: |
+  **Links**
+  - [Latest
+    media reports about dugongs](http://wildsingaporenews.blogspot.com/search/label/dugongs) on the wildsingapore news blog.
+    See also [seagrasses](http://wildsingaporenews.blogspot.com/search/label/seagrasses).
+  - ["Mermaids":
+    Urgent Action Needed to Save them from Habitat Destruction, Pollution
+    and Entanglement in Fishing Nets](http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=235&ArticleID=3009&l=en) UNEP 12 Feb 02: about the
+    first global study of dugongs led by Prof Helene Marsh: full details
+    on global distribution, conservation and legislation on dugongs
+    including for Singapore and Johor. With a [summary
+    of the report](http://www.unep.org/dewa/reports/dugongreport.asp) and [full
+    report](http://www.unep.org/dewa/Docs/DUGONG.pdf) (PDF).
+  - [Dugong:
+    Status Report and Action Plans for Countries and Territories](http://www.tesag.jcu.edu.au/dugong/doc/dugongactplan.pdf)
+    (PDF file) by Helen Marsh, IUCN/SSC Sirenia Specialist Group:
+    full details on global distribution, conservation and legislation
+    on dugongs.
+  - [Rescued
+    dugong at Underwater World celebrates 12th birthday](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl) Imelda
+    Saad, Channel NewsAsia 13 Jan 09.
+  - *[Dugong dugon](https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugonl)* (Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.
+  - From the
+    wild shores of singapore blog
+    - [2011
+      is Pacific Year of the Dugong](http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugongl)
+    - [Dugongs
+      hunted in Thailand are smuggled to Singapore](http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggledl)
+    - [Dugong's
+      last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-forl)
+    - [Dugong
+      blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulail)
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Ripple, Jeff,
+    1999. *Manatees
+    and Dugongs of the World*
+    Voyageur Press, USA. 144 pp.
+  - Nowak, Ronald
+    M. 2003. *Walker's
+    Marine Mammals of the World*. The Johns Hopkins University
+    Press. 263 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -61,7 +110,8 @@ that live in the area.
  
 
 
-**Features:** Adults 2.4-2.7m long and weighing 230-360kgs.
+## Features
+ Adults 2.4-2.7m long and weighing 230-360kgs.
 It is an air-breathing mammal that is well adapted to its underwater
 lifestyle and seagrass diet. A
 dugong's mouth faces downwards to munch on seagrass and it has large,
@@ -195,55 +245,3 @@ dugong sightings in Singapore**
   carcass found on the East Coast in Jul 01](http://rmbr.nus.edu.sg/newsletter/issue_02/02_page03.pdf) on "The Body-snatchers"
   (PDF) by N. Sivasothi. Raffles Museum Newsletter No. 2, 15 April
   2002
-
-**Links**
-
-- [Latest
-  media reports about dugongs](http://wildsingaporenews.blogspot.com/search/label/dugongs) on the wildsingapore news blog.
-  See also [seagrasses](http://wildsingaporenews.blogspot.com/search/label/seagrasses).
-- ["Mermaids":
-  Urgent Action Needed to Save them from Habitat Destruction, Pollution
-  and Entanglement in Fishing Nets](http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=235&ArticleID=3009&l=en) UNEP 12 Feb 02: about the
-  first global study of dugongs led by Prof Helene Marsh: full details
-  on global distribution, conservation and legislation on dugongs
-  including for Singapore and Johor. With a [summary
-  of the report](http://www.unep.org/dewa/reports/dugongreport.asp) and [full
-  report](http://www.unep.org/dewa/Docs/DUGONG.pdf) (PDF).
-- [Dugong:
-  Status Report and Action Plans for Countries and Territories](http://www.tesag.jcu.edu.au/dugong/doc/dugongactplan.pdf)
-  (PDF file) by Helen Marsh, IUCN/SSC Sirenia Specialist Group:
-  full details on global distribution, conservation and legislation
-  on dugongs.
-- [Rescued
-  dugong at Underwater World celebrates 12th birthday](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl) Imelda
-  Saad, Channel NewsAsia 13 Jan 09.
-- *[Dugong dugon](https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugonl)* (Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.
-- From the
-  wild shores of singapore blog
-  - [2011
-    is Pacific Year of the Dugong](http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugongl)
-  - [Dugongs
-    hunted in Thailand are smuggled to Singapore](http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggledl)
-  - [Dugong's
-    last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-forl)
-  - [Dugong
-    blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulail)
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Ripple, Jeff,
-  1999. *Manatees
-  and Dugongs of the World*
-  Voyageur Press, USA. 144 pp.
-- Nowak, Ronald
-  M. 2003. *Walker's
-  Marine Mammals of the World*. The Johns Hopkins University
-  Press. 263 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.

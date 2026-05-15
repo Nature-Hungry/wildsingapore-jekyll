@@ -36,13 +36,24 @@ page_images:
   caption: |
     <p>St John's Island, Oct 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10163153532268654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+links_references: |
+  **Links**  
+  - [*Acentrogobius
+    caninus* (Tropical sand goby)](http://fishbase.org/summary/4894) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Larson,
+    Helen K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
  This little goby is sometimes seen on our Northern shores among
 seagrasses and mangroves.  
   
-**Features:** Up to about 10cm, those
+## Features
+ Up to about 10cm, those
 seen about 3-5cm. It is identified by the large dark spot on its 'shoulder',
 above its pectoral fins.
 
@@ -74,18 +85,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Acentrogobius
-  caninus* (Tropical sand goby)](http://fishbase.org/summary/4894) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Larson,
-  Helen K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

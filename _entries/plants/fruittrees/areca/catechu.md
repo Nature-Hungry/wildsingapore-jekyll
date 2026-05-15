@@ -64,6 +64,18 @@ page_images:
     <p>White Lotus.</p>
     <p>136 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
+links_references: |
+  **Links**
+  - [*Areca
+    catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  **References**
+  - Wee Yeow
+    Chin. 1992. *[A
+    Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
+    160pp.
+  - Burkill,
+    I. H., 1993. *[A
 ---
 
 ## Where seen?
@@ -74,7 +86,8 @@ part of Malaysia as its home.' According to Whitmore, 'no one has
 ever found a wild betel palm' in Malaya. It has since been cultivated
 in places as far away as Africa and the Pacific islands.  
   
- **Features:** A tall elegant palm
+ ## Features
+ A tall elegant palm
 (to 10m). Leaves rather short with stiff leaflets. Tiny pale flowers
 appear in an inflorescence on zig-zag 'stems'. The small oval fruits
 are green turning orange and are miscalled 'nuts'.   
@@ -99,20 +112,7 @@ in a treatment for diarrhoea in children.
 
 ---
 
-**Links**
 
-- [*Areca
-  catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-
-**References**
-
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp.
-- Burkill,
-  I. H., 1993. *[A
 
 [www.**flickr**.com](http://www.flickr.com)  
 

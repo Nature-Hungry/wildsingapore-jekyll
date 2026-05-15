@@ -45,6 +45,33 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Jan 20Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827011994009331&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+links_references: |
+  **Links**
+  - [Leaf
+    oyster (*Isognomon ephippium*)](http://mangrove.nus.edu.sg/guidebooks/text/2093.htm) Ng,
+    Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Saddle
+    tree oyster (*Isognomon ephippium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84369) on SeaLife Base:
+    Technical fact sheet.
+  - Saddle tree
+    oyster (*Isognomon ephippium*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*. Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -54,7 +81,8 @@ also seen growing in clusters on rocks or sea walls in sheltered areas near fres
 inflows (brackish water). It is also called the Saddle tree oyster.  
   
 *Isognomon spathulatus* looks very much like *Isognomon ephippium* but they can be distinguished by features of their shells, these are outlined in Singapore Biodiversity Records 2020: 183-186.
-*Isognomon spathulatus* is usually found on higher shores settling among mangrove vegetation, while *Isognomon ephippium* is usually found on lower shores and exposed on mudflats as well as estuarine sections of man-made canals. **Features:** 6-10cm.
+*Isognomon spathulatus* is usually found on higher shores settling among mangrove vegetation, while *Isognomon ephippium* is usually found on lower shores and exposed on mudflats as well as estuarine sections of man-made canals. ## Features
+ 6-10cm.
 The two-part shell is flat, thin but strong, and usually semi-circular, with a flat base where the hinge is. Usually white or greyish. It sticks to tree roots with byssus threads,
 thus giving the common name of tree oyster. Often found in clusters.  
   
@@ -91,35 +119,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Leaf
-  oyster (*Isognomon ephippium*)](http://mangrove.nus.edu.sg/guidebooks/text/2093.htm) Ng,
-  Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Saddle
-  tree oyster (*Isognomon ephippium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84369) on SeaLife Base:
-  Technical fact sheet.
-- Saddle tree
-  oyster (*Isognomon ephippium*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*. Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

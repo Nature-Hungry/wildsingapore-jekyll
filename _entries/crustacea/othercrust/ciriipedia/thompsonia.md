@@ -37,6 +37,23 @@ page_images:
   caption: |
     <p>Tiny egg sacs emerging through the joints.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+links_references: |
+  **Links**
+  - [Parasitic
+    barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Crab
+    Parasitism](http://www.mesa.edu.au/friends/seashores/crab_parasitisml) on the Life on Australian Seashores website by
+    Keith Davey: explanation with diagrams of parasitism of a crab
+    by the Sacculina barnacle.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -46,7 +63,8 @@ crabs](../../crab/portunidae/pelagicus) (*Portunus pelagicus*). Infected crabs a
 encrusted with non-parasitic barnacles and other animals and seaweeds.
 They usually move weakly and are generally in poor shape.  
   
-**Features:** This barnacle grows
+## Features
+ This barnacle grows
 through the body of the host crab like a root system. The parasite
 does not kill the crab but it does affect the crab's reproductive
 system such that the crab becomes infertile.   
@@ -77,26 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Parasitic
-  barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Crab
-  Parasitism](http://www.mesa.edu.au/friends/seashores/crab_parasitisml) on the Life on Australian Seashores website by
-  Keith Davey: explanation with diagrams of parasitism of a crab
-  by the Sacculina barnacle.
-
-**References**
-  
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

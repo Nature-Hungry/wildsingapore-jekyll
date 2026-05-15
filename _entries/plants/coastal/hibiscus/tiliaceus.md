@@ -105,6 +105,27 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
+links_references: |
+  **Links**
+  - [*Talipariti
+    tiliaceum*](http://floraofsingapore.wordpress.com/2010/07/11/talipariti-tiliaceum/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Sea
+    hibiscus (*Hibiscus tiliaceus*)](http://mangrove.nus.edu.sg/guidebooks/text/1063.htm) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [An
+    overview of Malvaceae classification](http://www.malvaceae.info/Classification/overview.html) and [Sections
+    and segregates of Hibiscus](http://www.malvaceae.info/Genera/Hibiscus/sections.php) on the [Malvaceae
+    Info website](http://www.malvaceae.info/): more about *Talipariti* and other sections
+    of Hibiscus.
 ---
 
 ## Where seen?
@@ -124,7 +145,8 @@ The Sea hibiscus has been regrouped and renamed as *Talipariti tiliaceum*
 based on DNA studies. But the old name *Hibiscus tiliaceus*.is
 still widely used.  
   
- **Features:** A shrub to a tall tree
+ ## Features
+ A shrub to a tall tree
 growing to 10-15m. Leaves (10-15cm) heart-shaped, dark green and shiny
 above, white and finely furry beneath. The leaves have tiny slits
 on the main veins on the underside of the leaf. Secretions from these
@@ -182,27 +204,6 @@ fresh bark soaked in water is used to treat dysentery.
 
 ---
 
-**Links**
-
-- [*Talipariti
-  tiliaceum*](http://floraofsingapore.wordpress.com/2010/07/11/talipariti-tiliaceum/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Sea
-  hibiscus (*Hibiscus tiliaceus*)](http://mangrove.nus.edu.sg/guidebooks/text/1063.htm) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [An
-  overview of Malvaceae classification](http://www.malvaceae.info/Classification/overview.html) and [Sections
-  and segregates of Hibiscus](http://www.malvaceae.info/Genera/Hibiscus/sections.php) on the [Malvaceae
-  Info website](http://www.malvaceae.info/): more about *Talipariti* and other sections
-  of Hibiscus.
 
 **Other
 references**

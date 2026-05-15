@@ -93,6 +93,34 @@ page_images:
   caption: |
     <p>Terumbu Raya, Aug 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-rayal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+links_references: |
+  **Links**  
+  - [Fan-bellied
+    Filefish (*Monacanthus chinensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
+    Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Monocanthus*
+    sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Fan-bellied
+    leatherjacket (*Monacanthus chinensis*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7976) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+    sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
+    Guide for Fishery Purposes The Living Marine Resources of the
+    Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -100,7 +128,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/
 in sheltered areas with seagrasses and near reefs. It often remains motionless next to seaweeds or rocks, sometimes flattening out against or 'wrapping around'
 sponges, rubble and other large objects.  
   
-**Features:** To about 38cm, but those seen were 5-8cm long. Large triangular
+## Features
+ To about 38cm, but those seen were 5-8cm long. Large triangular
 skin flap on the belly that can be greatly expanded, but often tucked
 close to the body. Body with lots of small circular dots and broad
 diagonal bars on the sides, in some these bars may be indistinct.
@@ -169,36 +198,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Fan-bellied
-  Filefish (*Monacanthus chinensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Fan-bellied
-  leatherjacket (*Monacanthus chinensis*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7976) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
-  Guide for Fishery Purposes The Living Marine Resources of the
-  Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

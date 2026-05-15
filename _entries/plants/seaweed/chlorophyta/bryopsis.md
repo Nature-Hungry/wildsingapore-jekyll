@@ -72,6 +72,31 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [*Bryopsis*:
+    who eats this algae?](http://www.seaslugforum.net/factsheet.cfm?base=bryopsis) on the [Sea
+    Slug Forum](http://www.seaslugforum.net/): a compilation of messages about slugs that eat
+    *Bryopsis*.
+  - [*Bryopsis*](http://www.algaebase.org/search/genus/detail/?genus_id=8&sk=0) on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 if you
@@ -94,7 +119,8 @@ At times, vast areas of the intertidal zone may be blanketed in a
 thick green carpet of this seaweed which disappear after a few weeks. These blooms are suspected to be related to high nutrient concentrations.
 It is reported that this seaweed can tolerate low salinities.  
   
-**Features:** A clump of fine filaments
+## Features
+ A clump of fine filaments
 (6-8cm long) attached to a hard surface, such as small stones and
 coral rubble. In some, the filaments form long feather-like structures
 that taper at the tips. In others, the filaments are long, single
@@ -176,33 +202,7 @@ Bryopsis plumosa*
 
 ---
 
-**Links**
 
-- [*Bryopsis*:
-  who eats this algae?](http://www.seaslugforum.net/factsheet.cfm?base=bryopsis) on the [Sea
-  Slug Forum](http://www.seaslugforum.net/): a compilation of messages about slugs that eat
-  *Bryopsis*.
-- [*Bryopsis*](http://www.algaebase.org/search/genus/detail/?genus_id=8&sk=0) on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

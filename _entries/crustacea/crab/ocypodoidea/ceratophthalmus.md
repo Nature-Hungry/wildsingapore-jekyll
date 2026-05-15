@@ -94,6 +94,46 @@ page_images:
   caption: |
     <p>Small SIsters, Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158470463901295&set=a.10158470457921295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+links_references: |
+  **Links**
+  - [Ghost
+    Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
+    ceratophthalmus* and *Ocypode cordimana*
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Horned
+    ghost crab (*Ocypode ceratophthalma*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=21486&genusname=Ocypode&speciesname=ceratophthalma)
+    on SeaLife Base: Technical fact sheet.
+  - [*Ocypode
+    ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmusl)
+    (Decapoda: Ocypodidae) Horn-eyed ghost crab by Wong Ze Lin, 2011
+    on taxo4254.
+  - [Sand
+    crab (*Ocypode ceratophthalmus*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1756) in Crabs of Japan on
+    Marine Species Identification Portal: Technical fact sheet.
+  - [Horned
+    ghost crabs change camouflage from day to night](http://www.bbc.co.uk/nature/22025789)
+    Ella Davies, BBC Nature 5 Apr 13.
+  - [Animal
+    Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympiansl) by Petra H. Lenz on the University of Hawaii website:
+    listing of records of animal performance, and the Ghost crab ranks
+    among the top fastest terrestrial animals.
+  - From the
+    wild shores of singapore blog
+    - [Ghosts
+      as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-ourl)
+  **References**
+  - Shirley S. L. Lim\* & Adeline Y. P. Yong. *Rapid population recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae) after an oil spill in Singapore*. 26 June 2015. Raffles Bulletin of Zoology 63: 270–278.
+  - Martin Stevens Cheo Pei Rong Peter A. Todd, *Colour change and camouflage in the horned ghost crab Ocypode ceratophthalmus*. 02 April 2013. Biological Journal of the Linnean Society, 109: 257-270.
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -110,7 +150,8 @@ our shores. Yet, it is hard to spot. It probably got its common name
 because it is active only at night, and it moves so swiftly over the
 sand that you usually literally only get a ghostly glimpse as it skitters away in the darkness.   
   
-**Features:** Body width 6-8cm. Body
+## Features
+ Body width 6-8cm. Body
 squarish box-like. Usually bluish grey with brown markings on the
 back, often in the shape of an "H". But a variety of other
 patterns also seen. Pincers long, downward pointing often with white
@@ -208,48 +249,7 @@ Jan 10
 
 ---
 
-**Links**
 
-- [Ghost
-  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
-  ceratophthalmus* and *Ocypode cordimana*
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Horned
-  ghost crab (*Ocypode ceratophthalma*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=21486&genusname=Ocypode&speciesname=ceratophthalma)
-  on SeaLife Base: Technical fact sheet.
-- [*Ocypode
-  ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmusl)
-  (Decapoda: Ocypodidae) Horn-eyed ghost crab by Wong Ze Lin, 2011
-  on taxo4254.
-- [Sand
-  crab (*Ocypode ceratophthalmus*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1756) in Crabs of Japan on
-  Marine Species Identification Portal: Technical fact sheet.
-- [Horned
-  ghost crabs change camouflage from day to night](http://www.bbc.co.uk/nature/22025789)
-  Ella Davies, BBC Nature 5 Apr 13.
-- [Animal
-  Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympiansl) by Petra H. Lenz on the University of Hawaii website:
-  listing of records of animal performance, and the Ghost crab ranks
-  among the top fastest terrestrial animals.
-- From the
-  wild shores of singapore blog
-  - [Ghosts
-    as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-ourl)
-
-**References**
-
-- Shirley S. L. Lim\* & Adeline Y. P. Yong. *Rapid population recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae) after an oil spill in Singapore*. 26 June 2015. Raffles Bulletin of Zoology 63: 270–278.
-- Martin Stevens Cheo Pei Rong Peter A. Todd, *Colour change and camouflage in the horned ghost crab Ocypode ceratophthalmus*. 02 April 2013. Biological Journal of the Linnean Society, 109: 257-270.
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

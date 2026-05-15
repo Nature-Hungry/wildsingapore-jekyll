@@ -32,13 +32,31 @@ page_images:
   caption: |
     <p>Admiralty Park, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+links_references: |
+  **Links**  
+  - [Grey
+    knight-goby (*Stigmatogobius sadanundio*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Grey
+    knight-goby (*Stigmatogobius sadanundio*)](http://www.fishbase.tw/summary/speciessummary.php?id=25119)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby.htm)* from EcologyAsia.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
  This large greyish goby with spots is sometimes seen in our mangrove
 streams.  
   
-**Features:** About 6cm long. Pearly
+## Features
+ About 6cm long. Pearly
 grey with 3-4 rows of small round black spots on the sides. Spots
 and streaks also on the fins and tail.  
   
@@ -60,25 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Grey
-  knight-goby (*Stigmatogobius sadanundio*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Grey
-  knight-goby (*Stigmatogobius sadanundio*)](http://www.fishbase.tw/summary/speciessummary.php?id=25119)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-- *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby.htm)* from EcologyAsia.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

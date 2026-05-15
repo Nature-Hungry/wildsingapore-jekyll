@@ -148,6 +148,50 @@ page_images:
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655323543/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/atromarginata/050529sjig7134.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and factsheet of
+    *[Glossodoris
+    atromarginata](http://www.seaslugforum.net/factsheet.cfm?base=glosatro)*.
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
+    and distribution [*Glossodoris
+    atromarginata*](http://rmbr.nus.edu.sg/nudibranch/nudipages/atromarginata.html)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'i
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -157,7 +201,8 @@ Commonly encountered on many of our Southern
 shores, on rubble near reefs, sometimes in rather large numbers. It is also sometimes seen on our northern shores. It was previously known
 as *Glossodoris atromarginata*.  
   
-**Features:** 3-5cm long. A hard lemon-yellow
+## Features
+ 3-5cm long. A hard lemon-yellow
 body with an ruffled margin that is elegantly edged in black. It holds
 this portion of its body raised. The black edging is also found on
 the feathery gills and feathery rhinopores. There are black rings
@@ -272,52 +317,7 @@ blog](http://psychedelic-nature.blogspot.com/2011/12/videos-slugs-on-our-shores.
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and factsheet of
-  *[Glossodoris
-  atromarginata](http://www.seaslugforum.net/factsheet.cfm?base=glosatro)*.
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
-  and distribution [*Glossodoris
-  atromarginata*](http://rmbr.nus.edu.sg/nudibranch/nudipages/atromarginata.html)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'i
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

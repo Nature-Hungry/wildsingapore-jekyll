@@ -51,7 +51,8 @@ is often seen on the a shell occupied by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm), usually on the outside of the shell. It is not seen as often as the [Flat slipper snail](crepidula.htm), which is white and usually found on the inside of the shell. It was previously known as *Calyptraea
 extinctorium*.  
   
-**Features:** 1-2cm. The shell is
+## Features
+ 1-2cm. The shell is
 thin, usually forming a pointed conical shape. May be white, pinkish
 or even reddish, with fine lines.  
   

@@ -63,13 +63,26 @@ page_images:
     <p>Periplus Editions.</p>
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
+links_references: |
+  **Links**  
+  - [Chocolate
+    hind (*Cephalopholis boenak*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6444) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet
+  - [*Cephalopholis boenak*](http://www.iucnredlist.org/details/39773/0) from IUCN Red List.
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *A Guide to the Common Marine
+    Fishes of Singapore*. Singapore Science Centre. 163 pp.  [Chocolate Hind or Indian Grouper (*Cephalopholis boenak*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/266.htm)
+  **References**
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
 ---
 
 ## Where seen?
  This rather large fish with chocolate brown bars is sometimes seen on our some of our shores. Surprisingly common near seawalls, also near reefs and rubble, small ones sometimes seen among seagrasses. Elsewhere, this fish is found in
 silty sheltered waters or reefs, usually alone.  
   
- **Features:** To about 20-30cm, but
+ ## Features
+ To about 20-30cm, but
 those seen usually about 10-15cm. Brownish to
 greenish with dusky vertical bands on the body. A dark spot on the upper edge of the gill cover.
 
@@ -107,20 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Chocolate
-  hind (*Cephalopholis boenak*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6444) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet
-- [*Cephalopholis boenak*](http://www.iucnredlist.org/details/39773/0) from IUCN Red List.
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *A Guide to the Common Marine
-  Fishes of Singapore*. Singapore Science Centre. 163 pp.  [Chocolate Hind or Indian Grouper (*Cephalopholis boenak*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/266.htm)
-
-**References**
-
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

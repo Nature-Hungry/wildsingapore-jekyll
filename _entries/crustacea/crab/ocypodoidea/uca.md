@@ -126,6 +126,41 @@ page_images:
     <p>Hong Kong University Press.</p>
     <p>350 pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Fiddler
+    crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Fiddler
+    crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053) with descriptions of four species.Ng,
+    Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [www.fiddlercrab.info](http://www.fiddlercrab.info/)
+    by M.S. Rosenberg: list of all fiddler crab species with updates
+    on taxonomy, photos, video and links.
+  - From the
+    wild shores of singapore blog
+    - [Dishonest
+      fiddler crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fakel)
+    - [Eye
+      of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddlerl)
+    - [How
+      do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-theirl)
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Jocelyn Crane.
+    1975. Fiddler
+    Crabs of the World. Ocypodidae: Genus *Uca*, Princeton
+    University Press. 737pp
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 if you
@@ -147,7 +182,8 @@ wait patiently near their burrows without moving. They will soon re-emerge
 and you will be rewarded with their amusing behaviour: frantically
 feeding, squabbling and courting, all at the same time.   
   
-**Features:** Body width 2-3cm. The
+## Features
+ Body width 2-3cm. The
 male fiddler crab has one huge pincer, often highlighted in a bright
 colour. The enlarged pincer may be as large or larger and as heavy
 as the rest of the crab's body! This enormous pincer is not used to
@@ -262,43 +298,7 @@ fiddler crab)
 
 ---
 
-**Links**  
 
-- [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053) with descriptions of four species.Ng,
-  Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [www.fiddlercrab.info](http://www.fiddlercrab.info/)
-  by M.S. Rosenberg: list of all fiddler crab species with updates
-  on taxonomy, photos, video and links.
-- From the
-  wild shores of singapore blog
-  - [Dishonest
-    fiddler crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fakel)
-  - [Eye
-    of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddlerl)
-  - [How
-    do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-theirl)
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Jocelyn Crane.
-  1975. Fiddler
-  Crabs of the World. Ocypodidae: Genus *Uca*, Princeton
-  University Press. 737pp
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 
 [links](../../../links)
 | [references](../../../references)

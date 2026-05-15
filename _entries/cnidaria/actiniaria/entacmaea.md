@@ -155,6 +155,34 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700480158158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Entacmea
+    quadricolor*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail_for_nosyn.cfm?genus=Entacmea&subgenus=&species=quadricolor&subspecies=) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Entacmea
+    quadricolor*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#entac) on Fautin, Daphne G. and Gerald R. Allen,
+    1992. [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Entacmea
+    quadricolor*](http://www.sealifebase.org/summary/Entacmaea-quadricolor.html) on SeaLife Base: technical fact sheets.
+  - *[Entacmea quadricolor](https://singapore.biodiversity.online/taxo4254/mainSpace/Entacmaea%20quadricolor.html)* by Shu Yi on taxo4254.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -174,7 +202,8 @@ it is often mistaken for a hard coral.
 Sometimes, several small ones are seen clustered together. Larger
 ones are usually alone, and found in deeper water.  
   
-**Features:** Diameter
+## Features
+ Diameter
 of anemone with tentacles extended 10-20cm although large ones
 about 30-40cm have been seen. Tentacles 4-6cm long. The tentacles
 may have bulbous tips (although not always).
@@ -291,36 +320,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Entacmea
-  quadricolor*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail_for_nosyn.cfm?genus=Entacmea&subgenus=&species=quadricolor&subspecies=) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Entacmea
-  quadricolor*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#entac) on Fautin, Daphne G. and Gerald R. Allen,
-  1992. [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Entacmea
-  quadricolor*](http://www.sealifebase.org/summary/Entacmaea-quadricolor.html) on SeaLife Base: technical fact sheets.
-- *[Entacmea quadricolor](https://singapore.biodiversity.online/taxo4254/mainSpace/Entacmaea%20quadricolor.html)* by Shu Yi on taxo4254.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

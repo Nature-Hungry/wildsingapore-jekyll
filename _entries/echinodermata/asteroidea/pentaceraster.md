@@ -89,6 +89,20 @@ page_images:
   caption: |
     <p>Photo shared by Marcus Ng n on <a href="https://www.facebook.com/media/set/?set=a.10160729071928660&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
+links_references: |
+  **Links**
+  - [A
+    new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-seal)   
+    Discovery of large five-rayed sea star adds to marine biodiversity
+    here David J.W. Lane , Robin Ngiam & Ivan Tan, Straits Times
+    3 May 08
+  - [Pentaceraster
+    mammilatus](http://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatusl) on the creatures big and small blog.
+  - [Super
+    star of the echinoderm hunt](http://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-iil) on the nature scouter blog.
+  - [Stars
+    of Cyrene](http://wildfilms.blogspot.com/2008/04/stars-of-cyrenel) about the discovery of the star on the wildfilms
+    blog.
 ---
 
 ## Where seen?
@@ -98,7 +112,8 @@ a submerged reef in the middle of our port. This sea star was previously known t
 Ocean and the Red Sea, so its presence in Singapore waters represents
 a considerable range increase.  
   
-**Features:**  Diameter with arms
+## Features
+  Diameter with arms
 to about 15cm. Hard, heavy body with long tapering arms that are thick and triangular
 in cross-section. It has a regular pattern of white rounded knobs
 on the upper surface. The underside is pale and it has pink tube feet.  
@@ -152,18 +167,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [A
-  new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-seal)   
-  Discovery of large five-rayed sea star adds to marine biodiversity
-  here David J.W. Lane , Robin Ngiam & Ivan Tan, Straits Times
-  3 May 08
-- [Pentaceraster
-  mammilatus](http://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatusl) on the creatures big and small blog.
-- [Super
-  star of the echinoderm hunt](http://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-iil) on the nature scouter blog.
-- [Stars
-  of Cyrene](http://wildfilms.blogspot.com/2008/04/stars-of-cyrenel) about the discovery of the star on the wildfilms
-  blog.

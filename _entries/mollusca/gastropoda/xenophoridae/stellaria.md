@@ -38,13 +38,40 @@ page_images:
   caption: |
     <p>Changi, Oct 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html) on [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website: brief fact sheet with
+    photos.
+  - [Sunburst
+    carrier shell (*Xenophora solaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86893) on SeaLife Base:
+    Technical fact sheet.
+  - Sunburst
+    carrier shell (*Xenophora solaris*) Family Xenophoridae in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  Only the empty shells of these snails have been seen
 washed up on our shores. It is considered uncommon and usually found
 in deep water.  
- **Features:** 8-10cm in diameter. Shell
+ ## Features
+ 8-10cm in diameter. Shell
 flat coiled with 14 long spines on the last outer whorl.
 Underside with fine spiraling lines. Objects are rarely attached to
 the shell, except on early whorls.  
@@ -100,34 +127,7 @@ Stellaria solaris* (Sunburst shell carrier)
 
 ---
 
-**Links**
 
-- [Family
-  Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html) on [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website: brief fact sheet with
-  photos.
-- [Sunburst
-  carrier shell (*Xenophora solaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86893) on SeaLife Base:
-  Technical fact sheet.
-- Sunburst
-  carrier shell (*Xenophora solaris*) Family Xenophoridae in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

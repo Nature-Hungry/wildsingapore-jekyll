@@ -73,6 +73,31 @@ page_images:
   caption: |
     <p><a href="balltip.htm">Ball-tip corallimorphs</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+links_references: |
+  **Links**
+  - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.
+    *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -96,7 +121,8 @@ There are about 50 species of known corallimorphs. They are found
 in all parts of the ocean, from shallow to deep waters, from the tropics
 to even the poles. Some deeper water species can reach 1m in diameter!  
   
-**Features:** Those seen on our shores
+## Features
+ Those seen on our shores
 have oral disks 1-2cm in diameter. Like sea anemones, corallimorphs
 are solitary polyps, although they are usually found in groups and may
 sometimes carpet large areas of coral rubble.   
@@ -194,33 +220,7 @@ Ricordeidae**
 
 ---
 
-**Links**
 
-- [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.
-  *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

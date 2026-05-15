@@ -46,6 +46,31 @@ page_images:
     <p>Tanah Merah, Sep 11</p>
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
   caption: <p>Tanah Merah, Sep 11</p>
+links_references: |
+  **Links**  
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  **References**
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -68,7 +93,8 @@ a short time during low spring tide. It is fast growing and believed
 to play a role in habitat recovery. It is not as well studied as [Serrated
 ribbon seagrass](cymodoceaceae/serrulata) (*Cymodocea serrulata*).  
   
-**Features:**Long ribbon-like leaves (0.5-1cm wide and 7-15cm long),
+## Features
+Long ribbon-like leaves (0.5-1cm wide and 7-15cm long),
 with blunt, rounded tips that are smooth and not serrated. There are
 continuous leaf scars around the upright stem. It has thick rhizomes
 (underground stems). At intervals along the rhizome, a short stem
@@ -124,33 +150,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-
-**References**
-
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

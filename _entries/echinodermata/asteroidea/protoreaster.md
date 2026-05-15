@@ -203,7 +203,8 @@ water for too long.
 seen in coral rubble areas, sometimes many individuals gathered together. These spectacular
 animals are the highlight of a shore trip! According to Marsh and Fromont, it is found on mud, sand, seagrass flats, sandy coral reef flats in Australia.  
   
-**Features:**  Diameter with arms,
+## Features
+  Diameter with arms,
 adults to 30cm, juveniles 8-15cm. Hard, heavy body that is calcified. Arms long tapering to rounded
 tip, thick and triangular in cross-section. Although their arms appear
 stiff, these can bend quite extensively. When submerged tiny transparent

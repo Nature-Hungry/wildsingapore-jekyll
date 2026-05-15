@@ -50,6 +50,35 @@ page_images:
   caption: |
     <p>Pulau Ubin, Oct 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
+links_references: |
+  **Links**
+  - [*Durio
+    zibethinus*](http://floraofsingapore.wordpress.com/2010/03/29/durio-zibethinus/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Eonycteris spelaea](http://taxo4254.wikispaces.com/Eonycteris+spelaea+%28Cave+Nectar+Bat%29+%28Kelly+Tan%2C+2014%29)* (Chiroptera: Pteropodidae) Cave Nectar Bat by Kelly Tan Siang Ting, 2014, on taxo4254.
+  - [If
+    you drink, don't durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durianl) on the wild shores of singapore blog:
+    Your mom was right: eating durians and drinking booze at the same
+    time can kill!
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
 ---
 
 ## Where seen?
@@ -62,7 +91,8 @@ There are 13 species in Malaya found in lowland forest. The scientific
 name comes from the Italian 'zibetto' or [civet
 cat](../../../vertebrates/mammals/hermaphroditus) which also has a noxious smell.  
   
- **Features:** Tall tree with sparse,
+ ## Features
+ Tall tree with sparse,
 long branches. Leaves narrow and pointed, silvery or coppery scales
 on the underside, arranged alternately. Flowers pom-pom shaped with
 a lot of stamens and 4-5 pale petals. The flowers open in the afternoon
@@ -119,37 +149,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Durio
-  zibethinus*](http://floraofsingapore.wordpress.com/2010/03/29/durio-zibethinus/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Eonycteris spelaea](http://taxo4254.wikispaces.com/Eonycteris+spelaea+%28Cave+Nectar+Bat%29+%28Kelly+Tan%2C+2014%29)* (Chiroptera: Pteropodidae) Cave Nectar Bat by Kelly Tan Siang Ting, 2014, on taxo4254.
-- [If
-  you drink, don't durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durianl) on the wild shores of singapore blog:
-  Your mom was right: eating durians and drinking booze at the same
-  time can kill!
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

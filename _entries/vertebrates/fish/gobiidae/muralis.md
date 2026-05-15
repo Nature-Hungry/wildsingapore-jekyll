@@ -54,12 +54,31 @@ page_images:
   caption: |
     <p>Terumbu Raya, Jun 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158268063682906&set=a.10158268061907906&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+links_references: |
+   **Links**  
+  - [Mural goby (*Valenciennea muralis*)](http://www.fishbase.org/summary/7226)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet including fact sheet.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This beautiful goby is sometimes seen on our shores.  
   
-**Features:** To 10-13cm long. It has a large underslung mouth. 2 narrow bright orange stripes along the body, many fine orange stripes on the head that extend less brightly along the body. Black spot near the back of the first dorsal fin.  
+## Features
+ To 10-13cm long. It has a large underslung mouth. 2 narrow bright orange stripes along the body, many fine orange stripes on the head that extend less brightly along the body. Black spot near the back of the first dorsal fin.  
   
 Usually found in small groups or pairs over the bottom near reefs. They dig out burrows with their mouth and shelter in them.
  
@@ -95,26 +114,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
- **Links**  
 
-- [Mural goby (*Valenciennea muralis*)](http://www.fishbase.org/summary/7226)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet including fact sheet.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

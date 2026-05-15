@@ -60,6 +60,32 @@ page_images:
   caption: |
     <p>Kusu Island, May 16Photo shared by Dayna Cheah on <a href="https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.923408607775916.1073741852.100003203558241&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+links_references: |
+  **Links**  
+
+  - [Segmented
+    worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
+  - [*Chloeia
+    flava*](http://www.sealifebase.org/summary/Chloeia-flaval) on SeaLife Base: Technical fact sheet.
+
+  **References**
+
+  - Jones, R.E.
+    (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
+    Australian Biological Resources Study, Canberra. 465pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gopalakrishnakone
+    P., 1990. *A Colour Guide to Dangerous Animals*. Venom &
+    Toxin Research Group, Faculty of Medicine, National University
+    of Singapore. 156 pp.
 ---
 
 ## Where seen?
@@ -76,7 +102,8 @@ Annelida includes the more familiar earthworm. Many members of the
 Family Amphinomidae are known as fireworms because of the burning
 pain they produce when handled.  
   
-**Features:** About 10cm long. The
+## Features
+ About 10cm long. The
 worm is flat and broad with lots of elaborate hairy bristles along
 its sides, and a pattern of triangles or spots along the centre of
 the upper side of the body. According to Leslie Harris, the one with
@@ -99,64 +126,9 @@ to water. Do not touch bristleworms.
 
 
 
----
-
-**Beautiful
-fireworms on Singapore shores**
-
----
-
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?text=Chloeia&sort=date-taken-desc&user_id=54527470%40N00) for free
-  download
-- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Chloeia/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
-
----
-
-**Other sightings on Singapore shores**
-
----
 
 
+**Acknowledgement**
 
+With grateful thanks to Leslie H. Harris of the [Natural History Museum of Los Angeles County](http://www.nhm.org/) for comments about these worms and identification of *Chloeia flava*. 
 
----
-
-
-
----
-
-
-
----
-
-**Acknowledgement**With
-grateful thanks to Leslie H. Harris of the [Natural
-History Museum of Los Angeles County](http://www.nhm.org/) for comments about these
-worms. and identification of *Chloeia flava*. **Links**  
-
-- [Segmented
-  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
-- [*Chloeia
-  flava*](http://www.sealifebase.org/summary/Chloeia-flaval) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Jones, R.E.
-  (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
-  Australian Biological Resources Study, Canberra. 465pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gopalakrishnakone
-  P., 1990. *A Colour Guide to Dangerous Animals*. Venom &
-  Toxin Research Group, Faculty of Medicine, National University
-  of Singapore. 156 pp.

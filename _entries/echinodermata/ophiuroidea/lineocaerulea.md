@@ -61,6 +61,16 @@ page_images:
   caption: |
     <p>Changi, May 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14036443733/in/album-72157607622389163/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+links_references: |
+  **Links**
+  - [*Macrophiothrix
+    lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaeruleal)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -68,7 +78,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineo
 rubbly areas near seagrasses on our Northern shores, especially at
 night. It was previously known as *Ophiothrix lineocaerulea*.  
   
-**Features:** Disk
+## Features
+ Disk
 diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat
 pentagonal. Long blunt cylindrical spines along the length of the
 arms, held in a bristley manner so the arm resembles a bottle brush.
@@ -117,16 +128,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Macrophiothrix
-  lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaeruleal)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

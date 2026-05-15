@@ -99,13 +99,53 @@ page_images:
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Holothuria (Metriatyla) scabra](https://singapore.biodiversity.online/taxo4254/mainSpace/holothuriametriatylascabral)* (Aspidochirotida: Holothuriidae) Sandfish Sea Cucumber by Aleron Lin Yunian, 2016, on taxo4254.
+  - [*Holothuria
+    scabra* (Sandfish)](http://www.sealifebase.org/summary/Holothuria-scabral) on SeaLife Base: Technical fact sheet.
+  - [*Holothuria
+    scabra*](http://species-identification.org/species.php?species_group=nasc&id=75&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
+    Identification Portal: Technical fact sheet.
+  - [*Holothuria
+    scabra* (Golden sandfish)](http://www.iucnredlist.org/details/180257/0) on IUCN Red List: Technical fact
+    sheet.
+  - *Holothuria scabra* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  - [Sea
+    cucumber ranching](http://wildshores.blogspot.com/2009/02/sea-cucumber-ranchingl) about cultivation of *Holothuria scabra*
+    on the wild shores of singapore blog.
+  - [The
+    Ecology of Holothuria scabra! The Cuke-Seagrass Connection!](http://echinoblog.blogspot.com/2010/06/the-ecology-of-holothuria-scabra-cukel)
+    on the echinoblog.
+  - [Role
+    of *Holothuria scabra* in seagrass health](http://teamseagrass.blogspot.com/2011/02/pulau-semakau-19-feb-11l) on the TeamSeagrass
+    blog.
+  **References**
+  - Svea-Mara
+    Wolkenhauer et al. 2009. [The
+    ecological role of *Holothuria scabra* (Echinodermata: Holothuroidea)
+    within subtropical seagrass beds.](https://www.researchgate.net/publication/231856189_The_ecological_role_of_Holothuria_scabra_Echinodermata_Holothuroidea_within_subtropical_seagrass_beds)
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  This large loaf-shaped sea cucumber is commonly seen in numbers in seagrass
 meadows of our Northern and Southern shores. Sometimes buried just beneath the sand, but also above ground.  
   
-**Features:** 15-20cm long, elsewhere
+## Features
+ 15-20cm long, elsewhere
 said to grow to 40cm. Loaf-shaped body, square-ended with
 a distinct upper and underside. Upperside darker and often
 has wrinkles and sometimes, black bars; thus resembling a Garlic bread. Underside flat, pale or white. Tube feet tiny and short, regularly distributed all over the body. It does not produce Cuvierian tubules.  
@@ -218,45 +258,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Holothuria (Metriatyla) scabra](https://singapore.biodiversity.online/taxo4254/mainSpace/holothuriametriatylascabral)* (Aspidochirotida: Holothuriidae) Sandfish Sea Cucumber by Aleron Lin Yunian, 2016, on taxo4254.
-- [*Holothuria
-  scabra* (Sandfish)](http://www.sealifebase.org/summary/Holothuria-scabral) on SeaLife Base: Technical fact sheet.
-- [*Holothuria
-  scabra*](http://species-identification.org/species.php?species_group=nasc&id=75&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
-  Identification Portal: Technical fact sheet.
-- [*Holothuria
-  scabra* (Golden sandfish)](http://www.iucnredlist.org/details/180257/0) on IUCN Red List: Technical fact
-  sheet.
-- *Holothuria scabra* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-- [Sea
-  cucumber ranching](http://wildshores.blogspot.com/2009/02/sea-cucumber-ranchingl) about cultivation of *Holothuria scabra*
-  on the wild shores of singapore blog.
-- [The
-  Ecology of Holothuria scabra! The Cuke-Seagrass Connection!](http://echinoblog.blogspot.com/2010/06/the-ecology-of-holothuria-scabra-cukel)
-  on the echinoblog.
-- [Role
-  of *Holothuria scabra* in seagrass health](http://teamseagrass.blogspot.com/2011/02/pulau-semakau-19-feb-11l) on the TeamSeagrass
-  blog.
-
-**References**
-
-- Svea-Mara
-  Wolkenhauer et al. 2009. [The
-  ecological role of *Holothuria scabra* (Echinodermata: Holothuroidea)
-  within subtropical seagrass beds.](https://www.researchgate.net/publication/231856189_The_ecological_role_of_Holothuria_scabra_Echinodermata_Holothuroidea_within_subtropical_seagrass_beds)
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

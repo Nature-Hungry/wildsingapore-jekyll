@@ -52,6 +52,41 @@ page_images:
   caption: |
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+links_references: |
+  **Links**  
+  - [Pickhandle
+    Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352) (*Sphyraena jello*) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360) (Barracudas) and [*Sphyraena
+    barracuda* (Great barracuda)](http://www.fishbase.org/summary/1235) and [*Sphyraena
+    jello* (Pickhandle barracuda)](http://www.fishbase.org/summary/4827) and [*Sphyraena
+    obtusata* (Obtuse barracuda)](http://www.fishbase.org/summary/4493) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Zeehan Jaafar. *Great barracuda at Sisters’ Islands Marine Park*. 31 July 2019. Singapore Biodiversity Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
  ## Where seen?
@@ -64,7 +99,8 @@ the family has 1 genera and 18 species. They are found in the Atlantic,
 Indian and Pacific Oceans. Tropical and subtropical. Distribution:
 Atlantic, Indian, and Pacific Oceans.   
   
-**Features:** Enormous adults are found in deeper water. Those seen on the intertidal
+## Features
+ Enormous adults are found in deeper water. Those seen on the intertidal
 are juveniles usually 5-8cm long. Body short and cylindrical
 with regular pale bars on a greenish or olive background. Large eyes.
 Both jaws seem to be about the same length, the upper jaw only a little
@@ -143,43 +179,7 @@ Sphyraena obtusata*
 
 ---
 
-**Links**  
 
-- [Pickhandle
-  Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352) (*Sphyraena jello*) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360) (Barracudas) and [*Sphyraena
-  barracuda* (Great barracuda)](http://www.fishbase.org/summary/1235) and [*Sphyraena
-  jello* (Pickhandle barracuda)](http://www.fishbase.org/summary/4827) and [*Sphyraena
-  obtusata* (Obtuse barracuda)](http://www.fishbase.org/summary/4493) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Zeehan Jaafar. *Great barracuda at Sisters’ Islands Marine Park*. 31 July 2019. Singapore Biodiversity Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

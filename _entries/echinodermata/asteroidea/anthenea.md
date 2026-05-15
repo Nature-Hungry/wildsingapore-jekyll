@@ -106,6 +106,30 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
+links_references: |
+  **Links**
+  - [*Anthenea
+    aspera*](http://www.sealifebase.org/summary/Anthenea-asperal)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Coleman,
+    Neville. 2007. *Sea
+    stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
 ---
 
 ## Where seen?
@@ -119,7 +143,8 @@ Semakau. They are considered rare in the Indo-Pacific (only known
 from North Australia, southern Japan, China, Indonesia and Singapore)
 and little is known about them. According to Marsh and Fromont, it is found on muddy sand in Australia.  
   
-**Features:**Diameter with
+## Features
+Diameter with
 arms 10-20cm. Stiff body, the upperside usually slightly convex. Ams
 are short with rounded tips. Large, neat marginal plates all around
 the edges. The upperside is covered with tiny pedicellariae (pincer-like
@@ -194,30 +219,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   
 
 ---
-
-**Links**
-
-- [*Anthenea
-  aspera*](http://www.sealifebase.org/summary/Anthenea-asperal)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Coleman,
-  Neville. 2007. *Sea
-  stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.

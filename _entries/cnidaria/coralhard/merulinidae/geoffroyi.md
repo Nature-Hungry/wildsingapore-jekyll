@@ -91,6 +91,43 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Trachyphyllia
+    geoffroyi](http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen)*
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Trachyphyllia
+    geoffroyi](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45504)*
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 ## Where seen?
@@ -100,7 +137,8 @@ coral is said to be found with other free-living corals like [mushroom
 corals](../fungiidae/fungiidae.htm) (Family Fungidae) in muddy bottoms of protected lagoons,
 in seagrass beds, and sandy bottoms near the base of reefs. It used to be in the Family Trachyphylliidae.   
   
-**Features:** The skeleton has a meandering
+## Features
+ The skeleton has a meandering
 folded form (flabello-meandroid) such that the entire coral resembles
 a cabbage (15-20cm). Walls are tall, thin forming deep, wide valleys.
 The walls have fine teeth. While young ones may be attached to a hard
@@ -171,45 +209,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Trachyphyllia
-  geoffroyi](http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen)*
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Trachyphyllia
-  geoffroyi](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45504)*
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

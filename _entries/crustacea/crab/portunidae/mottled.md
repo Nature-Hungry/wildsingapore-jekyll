@@ -89,6 +89,22 @@ page_images:
   caption: |
     <p>Sisters Islands, May 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/523245950/in/photolist-wdhFSn-yngDTM-ygjwiq-ukuT7j-aoWA6q-yJSJ2g-t8q56f-7yXeE6-62Mg1i-pZ21bf-oJzTCN-nxLYgd-qqqmJC-kfqMdK-o8Qubf-i4JhGW-zbis4W-wm1sxL-8hThmy-CKfweV-cicceJ-94ydb3-94v7Ze-NeLNo-8ezigo-8hD93G-2ErDYy-2EneBP-ckfYfd-ckfYz5-2u9bCi-89VVSM-86J5SN-86rCS7-85Ezgm-9ShSS9-NeLMU-7o69dy-5v6heg-84MEXB-7BqhAV-aoWETq-aoWBc1-BsNgYr-7kG2DQ-7kG1GW-7kC7oV-7kFZ31-7kuYps-7kr3fK/">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
+links_references: |
+    **Links**
+  - [Swimming
+    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -96,7 +112,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottl
 of our shores on coral rubble and reefs. It is particularly active
 at night.  
   
-**Features:** Body width 4-5cm. Body
+## Features
+ Body width 4-5cm. Body
 rectangular, sides of the body with 5 dark blue-light blue-brown tipped
 spines, the fourth spine is tinier than the others.The eyes are very
 wide apart, between the eyes are 4-6 rounded lobes. Last pair of legs
@@ -148,24 +165,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-  **Links**
 
-- [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -52,7 +52,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/ba
  This rather small and often well camouflaged cerianthid
 is commonly seen on some of our Northern shores.Silty sand near seagrasses.  
   
-**Features:** 2-5cm in diameter. The
+## Features
+ 2-5cm in diameter. The
 outer long tentacles have bands of blue, brown and yellow, sometimes
 light green too. The inner ring of tentacles are very short and rather
 sparse. The smooth long body column is often purplish.

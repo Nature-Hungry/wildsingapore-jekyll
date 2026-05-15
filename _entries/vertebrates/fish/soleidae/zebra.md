@@ -44,11 +44,31 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/36704530105/in/photolist-BVbkeb-WFYYLa-WFYYHp-WFYYPB-XVsj2X-cmuNj5-cmuNnQ-9HPHxz-9HPHAM-89H6x3-fsLzZk-89H6Bh "Zebra sole (Zebrias zebra)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+links_references: |
+  **Links**  
+  - [Zebra
+    Sole (*Zebrias zebra*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388) Lim, Kelvin K. P. & Jeffrey K.
+    Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp. Family Soleidae .
+  - [Zebra
+    sole (*Zebrias zebra*)](http://www.fishbase.org/summary/8999) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp
 ---
 
 ## Where seen?
  This wacky striped flatfish is sometimes seen on
-sandy areas near seagrasses. **Features:** Those seen
+sandy areas near seagrasses. ## Features
+ Those seen
 6-10cm, can grow to abot 20cm. Eyes on the right side. Tail fin joined
 to dorsal and anal fins. Body oval, it has a tiny pectoral fin on
 the eyed-side. The eyed-side has 10-12 pairs of dark-and-white stripes
@@ -75,27 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Zebra
-  Sole (*Zebrias zebra*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388) Lim, Kelvin K. P. & Jeffrey K.
-  Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp. Family Soleidae .
-- [Zebra
-  sole (*Zebrias zebra*)](http://www.fishbase.org/summary/8999) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp
 
 [links](../../../links)
 | [references](../../../references)

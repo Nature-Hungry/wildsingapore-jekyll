@@ -46,6 +46,28 @@ page_images:
   caption: |
     <p>Tanah Merah, May 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3523575195/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
+links_references: |
+  **Links**  
+  - [Brown
+    shore goby (*Drombus triangularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Drombus
+    triangularis* (Brown drombus)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=9944) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Drombus
+    triangularis*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1211) from NParks Flora and Fauna website.
+  **References**
+  - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
+  - Larson,
+    Helen K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -53,7 +75,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/trian
 of our shores from sandy to silty shores near reefs, also among seagrasses
 and mangroves. Sometimes, in a group of several individuals of different sizes.  
   
-**Features:** Up to about 5cm, those
+## Features
+ Up to about 5cm, those
 seen about 3-5cm. It has a chubby face with small eyes and a camouflaging
 pattern of a dark head and body with irregular pale spots and blotches
 that break up the body outline.
@@ -87,30 +110,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Brown
-  shore goby (*Drombus triangularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Drombus
-  triangularis* (Brown drombus)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=9944) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Drombus
-  triangularis*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1211) from NParks Flora and Fauna website.
-
-**References**
-
-- Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
-- Larson,
-  Helen K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

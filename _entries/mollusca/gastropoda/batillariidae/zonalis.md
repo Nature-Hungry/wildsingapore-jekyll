@@ -56,6 +56,26 @@ page_images:
   caption: |
     <p>Seringat-Kias, Nov 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157847404988660&set=a.10157847412818660">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
+links_references: |
+  **Links**
+  - [Creeper
+    Shell (*Batillaria zonalis*)](http://mangrove.nus.edu.sg/pub/seashore/text/138.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -66,7 +86,8 @@ of man-made lagoons, usually near
 the mid-water mark. It is said that they can reach densities of hundreds of snails per square metre. It
 was previously placed in the Family Potamididae.  
   
-**Features:** 2-3cm. Shell
+## Features
+ 2-3cm. Shell
 conical with pattern of white spiralling lines with finer lines and
 large bumps. Shell opening oval, large, flared with upturned
 spout at the tip.
@@ -128,28 +149,7 @@ zonalis* (Bazillion snails)
 
 ---
 
-**Links**
 
-- [Creeper
-  Shell (*Batillaria zonalis*)](http://mangrove.nus.edu.sg/pub/seashore/text/138.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

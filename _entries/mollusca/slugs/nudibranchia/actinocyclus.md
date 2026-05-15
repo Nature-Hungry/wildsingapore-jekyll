@@ -64,6 +64,31 @@ page_images:
   caption: |
     <p>Pulau Hantu, May 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159047498247945&set=a.10159048140602945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of *[Actinocyclus
+    papillatus](http://www.seaslugforum.net/find/actipapi)*, [*Actinocyclus
+    verrucosus* (previously *A. japonicus*)](http://www.seaslugforum.net/find/activerr).
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+    [*Actinocyclus
+    verrucosus*](http://slugsite.us/bow/nudwk336.htm)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -72,7 +97,8 @@ seen. The ones encountered were on coral rubble. It is possible that
 they are not all that rare and that these very well camouflaged nudibranchs
 are just overlooked?  
   
-**Features:** 10-12cm
+## Features
+ 10-12cm
 long. Body tough and leathery. Gills short in a circle so they resemble
 a 'bubble'. The gills sit in a shallow cup or depression on the back
 of the body. The gills are actually branching, but appear smooth.
@@ -128,33 +154,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of *[Actinocyclus
-  papillatus](http://www.seaslugforum.net/find/actipapi)*, [*Actinocyclus
-  verrucosus* (previously *A. japonicus*)](http://www.seaslugforum.net/find/activerr).
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-  [*Actinocyclus
-  verrucosus*](http://slugsite.us/bow/nudwk336.htm)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

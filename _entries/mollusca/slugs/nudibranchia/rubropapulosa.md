@@ -83,6 +83,52 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
+links_references: |
+  **Links**  
+  - *[Gymnodoris
+    rubropapulosa](http://www.seaslugforum.net/find/gymnrubr)* and *[Gymnodoris ceylonica](http://www.seaslugforum.net/find/gymnceyl)* on the [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheets and photos
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Gymnodoris rubropapulosa](http://slugsite.us/bow/nudwk511.htm)*
+    eating a Ceratosoma with a commensal shrimp on its back.
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
+    and distribution of *[Gymnodoris
+    rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
+  **References**
+  - Tan Yee Keat. 26 June 2015. *Apparent mimicry of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.; Nudibranch, Gymnodoris impudica*. Singapore Biodiversity Records 2015: 85-86.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -90,7 +136,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rub
 seen on our more remote Southern shores. They appear to be seasonally common; at
 some times, several can be seen during a visit.  
   
-**Features:** 2.5-4cm long. Body white
+## Features
+ 2.5-4cm long. Body white
 with orange bumps. Rhinophores orange, the 'face' with orange bumps
 on the edge, gills edged in orange. According to Bill Rudman,
 compared to *Gymnodoris ceylonica*, it has much larger orange
@@ -152,54 +199,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- *[Gymnodoris
-  rubropapulosa](http://www.seaslugforum.net/find/gymnrubr)* and *[Gymnodoris ceylonica](http://www.seaslugforum.net/find/gymnceyl)* on the [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: fact sheets and photos
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Gymnodoris rubropapulosa](http://slugsite.us/bow/nudwk511.htm)*
-  eating a Ceratosoma with a commensal shrimp on its back.
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: photo
-  and distribution of *[Gymnodoris
-  rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
-
-**References**
-
-- Tan Yee Keat. 26 June 2015. *Apparent mimicry of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.; Nudibranch, Gymnodoris impudica*. Singapore Biodiversity Records 2015: 85-86.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

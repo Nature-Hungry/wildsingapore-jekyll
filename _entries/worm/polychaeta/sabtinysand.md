@@ -63,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/tiny
 fanworm is sometimes seen on some of our shores, usually in silty
 sandy sheltered lagoons, often in small groups of 2-3 individuals near burrows.  
   
-**Features:** On this page are included
+## Features
+ On this page are included
 small fanworms with spots found in sandy areas. Fan
 about 1cm in diameter. The
 small fan is a single spiral, white with brown portions that result

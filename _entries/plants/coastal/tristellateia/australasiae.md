@@ -50,6 +50,20 @@ page_images:
     <p>Singapore University Press.</p>
     <p>222 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
+links_references: |
+  **Links**
+  - [*Tristellateia
+    australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -59,7 +73,8 @@ the wild, it originally grew in back mangroves, tidal swamps, coasts
 and forests. Widely distributed from Taiwan through Southeast Asia
 to Australia.  
   
- **Features:** It is a liana (3-6m
+ ## Features
+ It is a liana (3-6m
 up to 10m long). The twigs are puple with bumps (lenticels). The leaves
 (7-12cm) a fresh green, arranged opposite one another. The star-shaped
 flowers (2-3cm) are bright yellow appearing in clusters (4-30cm long).
@@ -78,22 +93,7 @@ tupai](../caesalpinia/crista) (*Caesalpinia crista*) when in bloom.
 
 ---
 
-**Links**
 
-- [*Tristellateia
-  australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

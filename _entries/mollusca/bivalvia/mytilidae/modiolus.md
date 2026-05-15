@@ -43,12 +43,27 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/40863986093/ "Horse mussels (Modiolus sp.)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+links_references: |
+  **Links**
+  - [*Modiolus*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Modiolus)
+    from SeaLife Base: Technical fact sheet.
+  - [Clam takeover at Changi](https://wildshores.blogspot.com/2019/02/clam-takeover-at-changi.html) (Feb 2019) on the wild shores of singapore.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
  This large angular brown mussel is usually only sometimes seen in small numbers in seagrass meadows. In 2019, however, they formed dense patches on large areas on Changi Beach. They were also seen in large clusters on Pulau Semakau South in 2020.  
   
-**Features:** 3-4cm long. The two-part
+## Features
+ 3-4cm long. The two-part
 shell is shiny brown, thin, fragile and smooth. The shell is rather
 triangular, the older part of the shell seems to have hairs. It lies
 on the ground, sometimes partially buried, and produces byssus threads
@@ -80,22 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Modiolus*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Modiolus)
-  from SeaLife Base: Technical fact sheet.
-- [Clam takeover at Changi](https://wildshores.blogspot.com/2019/02/clam-takeover-at-changi.html) (Feb 2019) on the wild shores of singapore.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

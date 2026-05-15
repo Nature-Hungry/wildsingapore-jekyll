@@ -159,6 +159,33 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700484513158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Heteractis
+    magnifica*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=magnifica&subspecies=&synseniorid=83) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Heteractis
+    magnifica*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#magnifica) on Fautin, Daphne G. and Gerald R. Allen, 1992.
+    [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Heteractis
+    magnifica*](http://www.sealifebase.fisheries.ubc.ca/summary/Heteractis-magnifica.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -175,7 +202,8 @@ seen on our Southern shores, attached to large boulders of dead coral or other s
 of these anemones may be found next to one another. The
 anemone was previously known as *Radianthus ritteri*.  
   
-**Features:** Diameter
+## Features
+ Diameter
 when expanded 30-50cm, but can reach 1m. Body column uniformly coloured. Those seen were white, pink, maroon,
 purple. The body column has longitudinal rows of translucent verrucae
 of the same colour or slightly lighter or darker than the body column.   
@@ -269,35 +297,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Heteractis
-  magnifica*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=magnifica&subspecies=&synseniorid=83) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Heteractis
-  magnifica*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#magnifica) on Fautin, Daphne G. and Gerald R. Allen, 1992.
-  [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Heteractis
-  magnifica*](http://www.sealifebase.fisheries.ubc.ca/summary/Heteractis-magnifica.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -145,6 +145,28 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09 Shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171815132/">his flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [*Boloceroides
+    mcmurrichi*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Boloceroides&subgenus=&species=macmurrichi&subspecies=&synseniorid=2314) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Boloceroides
+    mcmurrichi*](http://www.sealifebase.org/summary/Boloceroides-mcmurrichi.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail
+    Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
+    Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates.
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -164,7 +186,8 @@ a trip) and then none at all. Once, we encountered an explosion of
 countless tiny swimming anemones (less than 1cm across) in the seagrass
 meadows of Chek Jawa.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 5-8cm. The tentacles (3-4cm long) are thick
 at the base, tapering to slender tips. There are LOTS of tentacles
 (commonly more than 400). These hide the small oral disk and the mouth,
@@ -266,30 +289,7 @@ Reef, Dec 10.
 
 ---
 
-**Links**
 
-- [*Boloceroides
-  mcmurrichi*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Boloceroides&subgenus=&species=macmurrichi&subspecies=&synseniorid=2314) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Boloceroides
-  mcmurrichi*](http://www.sealifebase.org/summary/Boloceroides-mcmurrichi.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail
-  Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
-  Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates.
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

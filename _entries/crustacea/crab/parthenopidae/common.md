@@ -84,6 +84,33 @@ page_images:
   caption: |
     <p>St John's Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/02/lunar-new-year-day-1-st-johns-islandl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
+links_references: |
+   **Links**
+  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -99,7 +126,8 @@ see one, look carefully at every bit of 'rubbish'.
 seaweeds. Look very carefully to find them. Elbow crabs are commonly
 seen on our Northern shores, among seagrasses and seaweeds.   
   
-**Features:** Body width 1-2cm. An
+## Features
+ Body width 1-2cm. An
 obvious feature of the crab (once you can actually see the crab) is
 its elbows: highly elongated large pincers that stick way out from
 the sides of its body. The upper finger is moveable and curved towards
@@ -167,35 +195,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgement**
   
 Grateful thanks to Ondrej Radosta for identification help with these crabs.
- **Links**
 
-- [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

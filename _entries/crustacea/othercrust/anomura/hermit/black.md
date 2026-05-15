@@ -51,7 +51,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
  This pretty hermit crab that is mostly black all
 over is sometimes seen on rocky or rubbly areas near reefs.   
   
-**Features:** Body about 1-1.5cm long,
+## Features
+ Body about 1-1.5cm long,
 plain dark blue. Both pincers are more or less equal in size and held
 so that the 'fingers' open horizontally in front of the animal. Pincers
 sparsely hairy, black with tiny white dots and orange joints. Walking

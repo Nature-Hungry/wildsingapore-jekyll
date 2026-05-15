@@ -33,6 +33,27 @@ page_images:
     <p>It seems to feed mainly on insects that have fallen into the water.</p>
     <p>Which is probably why this fish 'hangs around' in small groups under mangrove vegetation.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+links_references: |
+  **Links**
+  - [Striped-nose
+    Halfbeak (*Zenarchopterus buffonis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Surface-dwelling
+    fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Stripe-nosed
+    halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak.htm) on the Ecology Asia website: fact sheet with photos.
+  - [Buffon's
+    river-garfish (*Zenarchopterus buffonis*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17041) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -41,7 +62,8 @@ stick-like fish with a luminous tip at the end of the long pointed
 lower jaw is almost always seen under the main bridge at Sungei
 Buloh Wetland Reserve, floating at the water surface. Usually in
 groups of many individuals.   
- **Features:** To about 23cm long. Body long, cylindrica silvery.
+ ## Features
+ To about 23cm long. Body long, cylindrica silvery.
 Lower jaw elongated with a narrow sharp point. The tip is bright white that seems to glow in the water. It has a prominent dark line along the
 centre of the lower jaw so it does appear to have a stripe on its
 'nose'. Upper jaw very short. Tail fin is not forked.
@@ -60,29 +82,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Striped-nose
-  Halfbeak (*Zenarchopterus buffonis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Surface-dwelling
-  fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Stripe-nosed
-  halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak.htm) on the Ecology Asia website: fact sheet with photos.
-- [Buffon's
-  river-garfish (*Zenarchopterus buffonis*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17041) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

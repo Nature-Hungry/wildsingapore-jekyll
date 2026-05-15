@@ -27,13 +27,24 @@ page_images:
   caption: |
     <p>Tuas, May 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
+links_references: |
+  **Links**
+  - [*Gafrarium
+    dispar* (Discrepant venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86642) from SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
+    Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This clam is sometimes seen on sandy shores.
 Elsewhere, they are found on intertidal shores with sand.   
   
-**Features:** About
+## Features
+ About
 4-6cm. Shell thick with fine ribs and usually a pattern of fine broken
 lines.
 
@@ -51,18 +62,7 @@ display.*
 With grateful thanks to Andr� Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/)
 on EOL's Life Desk for identifying this clam.  
   
-**Links**
 
-- [*Gafrarium
-  dispar* (Discrepant venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86642) from SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
-  Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

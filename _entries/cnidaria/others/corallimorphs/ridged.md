@@ -79,7 +79,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/r
  These little ridged disk-like animal is sometimes
 seen on our Southern shores, growing on coral rubble.  
   
-**Features:** Each polyp about 4-5cm
+## Features
+ Each polyp about 4-5cm
 in diameter, in a group of 5-10. Oral disk has a ridged surface. In
 some the ridges form a maze-like pattern, in others the ridges radiate
 in a straight line from the central mouth. The mouth is usually held

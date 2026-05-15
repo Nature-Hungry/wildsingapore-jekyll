@@ -93,13 +93,26 @@ page_images:
   caption: |
     <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157664272801295&set=a.10157664270651295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
+links_references: |
+  **Links**
+  - [*Stereonephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Stereonephthya)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
  This flowery soft coral with spikes common on some
 of our shores. On coral rubble near living reefs.  
   
-**Features:** Colony bushy about 6-12cm.
+## Features
+ Colony bushy about 6-12cm.
 Colony is branched with 'stems' emerging from a central 'trunk'. The
 'stem' white or transparent, with sclerites embedded in the tissues.
 The polyps appear in clusters at the tips of the branches. Polyps
@@ -160,20 +173,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Stereonephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Stereonephthya)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

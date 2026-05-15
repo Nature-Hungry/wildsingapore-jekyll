@@ -52,6 +52,20 @@ page_images:
   caption: |
     <p>Little Sisters Island, Mar 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6829487302/in/album-72157607725632221/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+links_references: |
+  **Links**
+  - [*Diadumene
+    lineata*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Diadumene&subgenus=&species=lineata&subspecies=&synseniorid=20813) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Diadumene
+    lineata*](http://www.sealifebase.org/summary/Diadumene-lineata.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail
+    Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
+    Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf) Raffles Bulletin of Zoology Supplement No. 22: 121-143.
 ---
 
 ## Where seen?
@@ -60,7 +74,8 @@ on hard surfaces near the high water mark. Usually in clusters
 of many individuals rocky shores, jetty legs among encrusting animals like oysters, barnacles
 and even inside the shells of dead barnacles.  
   
-**Features:** Tiny blobs less than 0.5cm. At low tide, they usually tuck their tentacles
+## Features
+ Tiny blobs less than 0.5cm. At low tide, they usually tuck their tentacles
 into their greyish body column and look like tiny blobs with fine
 stripes in white, orange, yellow or red. You will seldom see one with
 its tentacles expanded at low tide.   
@@ -106,22 +121,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Diadumene
-  lineata*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Diadumene&subgenus=&species=lineata&subspecies=&synseniorid=20813) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Diadumene
-  lineata*](http://www.sealifebase.org/summary/Diadumene-lineata.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail
-  Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
-  Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf) Raffles Bulletin of Zoology Supplement No. 22: 121-143.
 
 [links](../../links.htm)
 | [references](../../references.htm)

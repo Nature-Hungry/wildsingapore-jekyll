@@ -86,6 +86,13 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
+links_references: |
+  **Links**
+  - [Virgulariidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgulariidae)
+    including *[Virgularia](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgularia)*and *[Scytalium](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Scytalium)*
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
 ---
 
 ## Where seen?
@@ -93,7 +100,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/vi
 elegant colony of animals is commonly encountered on our Northern
 shores, and sometimes on our Southern shores too. On silty sand and among seagrasses.  
   
-**Features:** Colony resembles narrow
+## Features
+ Colony resembles narrow
 feather. 15-20cm long, slender, stiff 'stem' - the central primary polyp. With short thin leaf-like
 structures (1-2cm) that have no spikes on the edges. The leaves are
 symmetrically arranged on both sides of the 'stem',. Tiny feeding
@@ -179,13 +187,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Virgulariidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgulariidae)
-  including *[Virgularia](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgularia)*and *[Scytalium](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Scytalium)*
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
 
 **eferences**
 

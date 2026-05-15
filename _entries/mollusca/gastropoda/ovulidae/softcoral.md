@@ -108,7 +108,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/so
 ## Where seen?
  These snails are sometimes seen in pairs on [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.htm) on many of our shores. They closely resemble the clumps of polyps of the soft corals that they eat. Often a pair is seen in one colony of soft corals.  
   
-**Features:** 1.5-2cm. Shell oval,
+## Features
+ 1.5-2cm. Shell oval,
 white smooth. Some have a fine orange line along the edge, others
 with blotchy orange bars. Mantle transparent with irregular brownish
 blotches outlined in darker brown and short white finger-like protrusions.

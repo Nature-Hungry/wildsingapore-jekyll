@@ -39,13 +39,26 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This slug is sometimes seen on mangrove trees trunks
 and branches on some of our shores.  
   
-**Features:** 2-3cm. Body hard, long
+## Features
+ 2-3cm. Body hard, long
 or circular, slightly rounded with small bumps arranged in concentric
 circles. Generally greyish or brown. The underside of the body is
 grey, it has a narrow foot that has horizontal ridges. Eyes on long
@@ -89,20 +102,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mangrove
-  slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
   
 

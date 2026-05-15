@@ -79,6 +79,47 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889929146/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+links_references: |
+  **Links**
+  - [Soldier
+    crab (*Dotilla* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Soldier
+    crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Dotilla
+    myctiroides*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=2381111) and *[Dotilla
+    wichmanni](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381110)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Satoshi Takeda,
+    Masatoshi Matsumasa, Hoi-Sen Yong, Minoru Murai. 15 June 1996.
+    ['Igloo'
+    construction by the ocypodid crab, *Dotilla myctiroides*
+    (Milne-Edwards) (Crustacea; Brachyura): the role of an air chamber
+    when burrowing in a saturated sandy substratum](http://www.sciencedirect.com/science/article/pii/002209819600007X) Journal of
+    Experimental Marine Biology and Ecology Volume 198, Issue 2, Pages
+    237-247.
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -100,7 +141,8 @@ next to a burrow. Stay low and avoid casting a shadow over the burrow.
 In a few minutes, it and its neighbours will appear. If you stay still,
 they will go about their amusing business  
   
-**Features:** Body width to about 1.5cm. Body spherical, greenish eyes on short
+## Features
+ Body width to about 1.5cm. Body spherical, greenish eyes on short
 thick reddish stalks. Pincers very long, slender and folded downward
 with the claws pointed towards itself. The crab is well adapted for
 life out of water: it can absorb air through special parts of its
@@ -163,49 +205,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Soldier
-  crab (*Dotilla* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Soldier
-  crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Dotilla
-  myctiroides*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=2381111) and *[Dotilla
-  wichmanni](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381110)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Satoshi Takeda,
-  Masatoshi Matsumasa, Hoi-Sen Yong, Minoru Murai. 15 June 1996.
-  ['Igloo'
-  construction by the ocypodid crab, *Dotilla myctiroides*
-  (Milne-Edwards) (Crustacea; Brachyura): the role of an air chamber
-  when burrowing in a saturated sandy substratum](http://www.sciencedirect.com/science/article/pii/002209819600007X) Journal of
-  Experimental Marine Biology and Ecology Volume 198, Issue 2, Pages
-  237-247.
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

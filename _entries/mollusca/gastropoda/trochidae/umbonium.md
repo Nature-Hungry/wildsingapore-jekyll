@@ -50,6 +50,43 @@ page_images:
   caption: |
     <p>Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/cyrene-reef-with-teamseagrass.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
+links_references: |
+  **Links**
+  - [Family
+    Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Common
+    button top (*Umbonium vestiarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86800) in SeaLife Base: Technical
+    fact sheet.
+  - [Common
+    button top (*Umbonium vestiarium*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=187) on the NParks Flora
+    and Fauna website.
+  - *[Umbonium vestiarium](https://singapore.biodiversity.online/taxo4254/mainSpace/Umbonium%20vestiarium.html)* (Vestigastropoda: Trochidae) Button snail by Jenny, 2015, on taxo4254.
+  - Common button
+    top (*Umbonium vestiarium*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [*Umbonium
+    vestiarium*,
+    a filter-feeding trochid](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1975.tb02258.x/abstract)
+    by Vera Fretter In Journal of Zoology (20 Aug 2009).
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -59,7 +96,8 @@ shores, on sand bars or sandy shores. In the past, however, they were
 more common on many of our mainland shores. Elsewhere, they are abundant
 on fine sandy bottoms.  
   
-**Features:** 0.8-1cm. Shell thin, circular, glossy with an amazing variety
+## Features
+ 0.8-1cm. Shell thin, circular, glossy with an amazing variety
 of colours and patterns. It is said that no two button snails are
 alike! These snails are so enchanting that the guides call them the
 'Jewels of Chek Jawa'. Operculum,
@@ -122,45 +160,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Family
-  Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Common
-  button top (*Umbonium vestiarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86800) in SeaLife Base: Technical
-  fact sheet.
-- [Common
-  button top (*Umbonium vestiarium*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=187) on the NParks Flora
-  and Fauna website.
-- *[Umbonium vestiarium](https://singapore.biodiversity.online/taxo4254/mainSpace/Umbonium%20vestiarium.html)* (Vestigastropoda: Trochidae) Button snail by Jenny, 2015, on taxo4254.
-- Common button
-  top (*Umbonium vestiarium*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [*Umbonium
-  vestiarium*,
-  a filter-feeding trochid](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1975.tb02258.x/abstract)
-  by Vera Fretter In Journal of Zoology (20 Aug 2009).
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

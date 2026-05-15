@@ -44,12 +44,34 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    mexicana*](http://www.algaebase.org/search/species/detail/?species_id=1409) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Eric Coppejans
+    and Tom Beeckman. 1990. *[Caulerpa
+    (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
+    Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
+    R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
+    Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
+    how to tell apart similar *Caulerpa* species.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
 ---
 
 ## Where seen?
  This feathery green seaweed is sometimes seen in small patches on our Southern shores. It was also called *Caulerpa crassifolia*.  
   
-**Features:** A feather-like structure about 2cm long. The mid-rib or central 'stem' of the feathery structure
+## Features
+ A feather-like structure about 2cm long. The mid-rib or central 'stem' of the feathery structure
 is flat and usually with a width wider or the same as the length of
 the side 'branches'. The side 'branches' are short, flat and have
 rounded to bluntly pointed tips. These little feathery structures
@@ -97,29 +119,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  mexicana*](http://www.algaebase.org/search/species/detail/?species_id=1409) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Eric Coppejans
-  and Tom Beeckman. 1990. *[Caulerpa
-  (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
-  Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
-  R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
-  Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
-  how to tell apart similar *Caulerpa* species.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
 
 [links](../../../links)
 | [references](../../../references)

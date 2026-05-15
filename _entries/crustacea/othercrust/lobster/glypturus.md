@@ -72,6 +72,25 @@ page_images:
   caption: |
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Callianassidae](http://species-identification.org/species.php?species_group=lobsters&id=9&menuentry=groepen)
+    on Marine Lobsters of the World on Marine Species Identification
+    Portal.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 ## Where seen?
@@ -82,7 +101,8 @@ you might glimpse is just the tip of a bright orange claw in the distinctive
 burrow. At night, however, you may spot one near the burrow entrance
 as it does some housekeeping, or even wandering about outside.  
   
-**Features:**  4-6cm long. Long abdomen
+## Features
+  4-6cm long. Long abdomen
 with broad tail, a pair of larger pincers, usually one much larger
 than the other. Pincers usually bright orange, smaller appendages
 and antennae banded orange. Body translucent, white or yellowish.   
@@ -135,27 +155,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**  
 Grateful thanks to Dominik Kneer for correcting the identification of these animals. Those with orange claws are not *Glypturus* as originally stated, but a species of *Corallianassa*. One of the animals is identified as *Axiopsis serratifrons* in another Family Axiidea. Family Callianassidae and Family Axiidae belong in infraorder Axiidae.  
   
-**Links**
 
-- [Family
-  Callianassidae](http://species-identification.org/species.php?species_group=lobsters&id=9&menuentry=groepen)
-  on Marine Lobsters of the World on Marine Species Identification
-  Portal.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -126,6 +126,44 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250486295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
+links_references: |
+  **Links**  
+  - [Copperband
+    butterflyfish (*Chelmon rostratus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/331.htm) Lim,
+    Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Copper
+    Banded Butterflyfish (*Chelmon rostratus*)](http://mangrove.nus.edu.sg/pub/seashore/text/235.htm) Tan, Leo W.
+    H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Copperband
+    butterflyfish (*Chelmon rostratus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5483) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Chelmon
+    rostratus*](http://www.iucnredlist.org/details/165659/0) on the IUCN Red List.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -142,7 +180,8 @@ more active during the day, but those seen at night can be quite frisky.
 Elsewhere, they are found on rocky shores, coral reefs, estuaries
 and silty inner reefs.  
   
-**Features:** To about 20cm, those
+## Features
+ To about 20cm, those
 seen during low tide usually about 4-8cm. Body
 flat, circular disk-shaped, snout is long and pointed. It is sometimes called the Beaked coralfish.
 4 bands which are orange or yellow edged in black and white. White-ringed black eye spot on the dorsal fin, white-edged black bar at the base of the tail. The
@@ -236,46 +275,7 @@ Laut, Apr 11
 
 ---
 
-**Links**  
 
-- [Copperband
-  butterflyfish (*Chelmon rostratus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/331.htm) Lim,
-  Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Copper
-  Banded Butterflyfish (*Chelmon rostratus*)](http://mangrove.nus.edu.sg/pub/seashore/text/235.htm) Tan, Leo W.
-  H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Copperband
-  butterflyfish (*Chelmon rostratus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5483) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Chelmon
-  rostratus*](http://www.iucnredlist.org/details/165659/0) on the IUCN Red List.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

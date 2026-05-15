@@ -53,6 +53,35 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2946766671/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+links_references: |
+  **Links**
+  - [Order
+    Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Warty
+    pill-bug (*Sphaeroma terebrans*)](http://mangrove.nus.edu.sg/guidebooks/text/2035) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Isopods
+    and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet, diagrams.
+  **References**
+  - Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield & Barbara F. Nowak, Redescription of the fish parasitic “tongue biter” Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331–342
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -72,7 +101,8 @@ on other marine creatures.
  
 
 
-**Features:** 1cm or less.
+## Features
+ 1cm or less.
 Their segmented body is flattened downwards (instead of sideways for
 amphipods such as [amphipods](../amphipoda/amphipoda))
 with legs that are more or less similar. Isopoda meaning 'same feet'
@@ -116,37 +146,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Order
-  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Warty
-  pill-bug (*Sphaeroma terebrans*)](http://mangrove.nus.edu.sg/guidebooks/text/2035) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet, diagrams.
-
-**References**
-
-- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield & Barbara F. Nowak, Redescription of the fish parasitic “tongue biter” Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331–342
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

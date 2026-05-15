@@ -85,6 +85,40 @@ page_images:
   caption: |
     <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Galeodidae (*Melongena pugilina*)](http://mangrove.nus.edu.sg/pub/seashore/text/145.htm) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Melongenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Melongenidae.html) on The [Gladys
+    Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/) at Washington State University Tri-Cities
+    Natural History Museum website: brief fact sheet with photos.
+  - [Spiral
+    melongena (*Pugilina cochlidium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87011) on SeaLife Base: Technical
+    fact sheet.
+  - Spiral
+    melongena (*Pugilina cochlidium*) in the Gastropods section
+    by J.M. Poutiers in the FAO Species Identification Guide for Fishery
+    Purposes: The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Chan, S.-Y., 2009.  *The Melongenidae (Mollusca: Gastropoda) of Singapore*. Nature in Singapore, 2: 63–67.
+  - Tan, K. S.; Phuah, C. L. November 1999. [Diet and feeding habits of *Pugilina cochlidium* (Neogastropoda: Melongenidae) in Singapore](http://connection.ebscohost.com/c/articles/44402978/diet-feeding-habits-pugilina-cochlidium-neogastropoda-melongenidae-singapore). Journal of Molluscan Studies; Nov1999, Vol. 65 Issue 4, p499.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -101,7 +135,8 @@ lay large and and interesting egg capsules.
 shores particularly on our Northern shores, on rocky shores and seagrass
 meadows and near mangroves.  
   
-**Features:**  8-12cm. Shell large,
+## Features
+  8-12cm. Shell large,
 thick with a long siphonal canal. Operculum teardrop-shaped and made
 out of a horn-like material. Body all black.   
   
@@ -177,42 +212,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Family
-  Galeodidae (*Melongena pugilina*)](http://mangrove.nus.edu.sg/pub/seashore/text/145.htm) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Melongenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Melongenidae.html) on The [Gladys
-  Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/) at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
-- [Spiral
-  melongena (*Pugilina cochlidium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87011) on SeaLife Base: Technical
-  fact sheet.
-- Spiral
-  melongena (*Pugilina cochlidium*) in the Gastropods section
-  by J.M. Poutiers in the FAO Species Identification Guide for Fishery
-  Purposes: The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Chan, S.-Y., 2009.  *The Melongenidae (Mollusca: Gastropoda) of Singapore*. Nature in Singapore, 2: 63–67.
-- Tan, K. S.; Phuah, C. L. November 1999. [Diet and feeding habits of *Pugilina cochlidium* (Neogastropoda: Melongenidae) in Singapore](http://connection.ebscohost.com/c/articles/44402978/diet-feeding-habits-pugilina-cochlidium-neogastropoda-melongenidae-singapore). Journal of Molluscan Studies; Nov1999, Vol. 65 Issue 4, p499.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

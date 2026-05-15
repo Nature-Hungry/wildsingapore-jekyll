@@ -32,10 +32,19 @@ page_images:
     <p>St.</p>
     <p>John's Island, Dec 16Photo shared by Rene Ong on <a href="https://www.facebook.com/photo.php?fbid=10154297935466848&set=a.10150265860361848.333002.650781847&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+links_references: |
+  **Links**  
+  - [Stellate puffer (*Arothron
+    stellatus*)](http://www.fishbase.org/summary/6526) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  - Tan Heok Hui. 29 July 2016. Starry pufferfish (*Arothon stellatus*) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records 2016: 102-103
 ---
 
 ## Where seen?
- Sometimes seen by divers. On the intertidal, a dead and dying one was seen at St John's Island. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  Those seen about 30cm, may grow to
+ Sometimes seen by divers. On the intertidal, a dead and dying one was seen at St John's Island. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. ## Features
+  Those seen about 30cm, may grow to
 about 50cm to 1.2m! It is indeed considered the giant among puffers. Body covered with fine prickles. Pale grey with dense black spots on its head and around the eyes, also on the fins. Juveniles with dark stripes on belly, becoming spots with growth; adults with or without spots on fins.
  
 
@@ -60,16 +69,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Stellate puffer (*Arothron
-  stellatus*)](http://www.fishbase.org/summary/6526) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
-- Tan Heok Hui. 29 July 2016. Starry pufferfish (*Arothon stellatus*) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records 2016: 102-103
 
 [links](../../../links)
 | [references](../../../references)

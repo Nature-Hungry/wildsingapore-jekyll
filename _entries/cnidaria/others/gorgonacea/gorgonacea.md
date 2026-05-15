@@ -107,7 +107,8 @@ the more familiar sea anemones, hard corals and jellyfishes. Gorgonians
 are members of the soft coral group (Subclass Alcyonaria/Octocorallia).
 There are about 18 families of gorgonians.  
   
-**Features:**  A gorgonian is a colony
+## Features
+  A gorgonian is a colony
 of small polyps. Each polyps is about 0.5cm or smaller, usually white
 or transparent. Like other soft corals, each polyp has 8 branched
 tentacles.   

@@ -47,13 +47,23 @@ page_images:
   caption: |
     <p>Beting Bronok, Jul 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
+links_references: |
+  **Links**  
+  - Toh Chay Hoon and Jianlin Liu Biodiversity Record: The nudibranch, Chromodoris orientalis, at Changi Beach, NATURE IN SINGAPORE 14: e2021077 31 August 2021 DOI: 10.26107/NIS-2021-0077  
+    National University of Singapore.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This small colourful nudibranch with a cow-like pattern is sometimes
 seen on our Northern shores. On rocky shores with silty sandy bottoms.  
   
-**Features:** 2-3cm. Body broad usually
+## Features
+ 2-3cm. Body broad usually
 white with black spots. Edges of the body are orange with no black spots. The feathery gills and rhinophores
 tips are orange. According to Bill Rudman, they have tiny glands
 around the edge of the mantle that secretes defensive substances to
@@ -94,17 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- Toh Chay Hoon and Jianlin Liu Biodiversity Record: The nudibranch, Chromodoris orientalis, at Changi Beach, NATURE IN SINGAPORE 14: e2021077 31 August 2021 DOI: 10.26107/NIS-2021-0077  
-  National University of Singapore.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

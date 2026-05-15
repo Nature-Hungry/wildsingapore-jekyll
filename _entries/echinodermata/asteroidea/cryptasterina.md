@@ -77,7 +77,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/crypta
  This little sea star hides under stones near the mid-water mark. At
 low tide it clamps tight to the surface almost like a limpet. It is found on natural rocky shores of our Southern shores.   
   
-**Features:** Diameter with arms (3-4cm).
+## Features
+ Diameter with arms (3-4cm).
 5 arms that are so short that the animal appears almost pentagonal. Clamping
 tight to the surface, the body is sometimes in a hump in the centre.
 Upperside with tiny holes through which short stubby transparent finger-like structures (papulae) emerge

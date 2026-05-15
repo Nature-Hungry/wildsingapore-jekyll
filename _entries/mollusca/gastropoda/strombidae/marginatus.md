@@ -76,13 +76,36 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Nov 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152497513118660.1073741850.624178659&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+links_references: |
+  **Links**
+  - [Marginate
+    conch (*Strombus marginatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86887) on SeaLife Base: Technical
+    fact sheet.
+  - Marginate
+    conch (*Strombus marginatus*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chim, C.
+    K., M. L. Neo & K. S. Loh, 2009. *The status in Singapore of
+    Strombus (Dolomena) marginatus sowerbyorum Visser & Man In't Veld,
+    2005* (Mollusca: Gastropoda: Strombidae). Nature in Singapore,
+    2: 379-384.
 ---
 
  ## Where seen?
   This conch with wavy lips is sometimes seen
 on sandy shores and near seagrasses.  
   
-**Features:** 3-5cm long. Shell thick heavy, lip slightly flared. Sometimes with a low ridge on side
+## Features
+ 3-5cm long. Shell thick heavy, lip slightly flared. Sometimes with a low ridge on side
 opposite to the flared lip.
 Upperside smooth with a pattern of brown bars, sometimes plain, sometimes covered with encrusting organisms. Shell opening pearly white. Body mottled. Large eyes on
 eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
@@ -136,30 +159,7 @@ blog](http://psychedelic-nature.blogspot.com/2011/11/videos-molluscs-on-our-shor
 
 ---
 
-**Links**
 
-- [Marginate
-  conch (*Strombus marginatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86887) on SeaLife Base: Technical
-  fact sheet.
-- Marginate
-  conch (*Strombus marginatus*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chim, C.
-  K., M. L. Neo & K. S. Loh, 2009. *The status in Singapore of
-  Strombus (Dolomena) marginatus sowerbyorum Visser & Man In't Veld,
-  2005* (Mollusca: Gastropoda: Strombidae). Nature in Singapore,
-  2: 379-384.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

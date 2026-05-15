@@ -179,7 +179,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
  Hard corals with irregular hexagonal favid corallites are commonly
 seen on many of our shores.  
   
-**Features:** Colonies seen 10-20cm,
+## Features
+ Colonies seen 10-20cm,
 sometimes larger. The colony is generally a smooth boulder shape,
 but somewhat irregular and not perfectly spherical. Some form an encrusting
 hemi-spherical colony. The corallites have shared walls and form irregular

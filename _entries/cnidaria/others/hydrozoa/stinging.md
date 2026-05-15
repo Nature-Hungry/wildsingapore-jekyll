@@ -102,12 +102,22 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250426295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
+links_references: |
+  **Links**
+  - [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina) (Leptothecata: Aglaopheniidae) White stinger by Claire Guérin, 2014, on taxo4254.
+  **References**
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp
 ---
 
 ## Where seen?
  This colony of tiny animals can be common on some offshore Northern shores, forming alarming large colonies. Sometimes also seen on our Southen shores. It grows on coral rubble or hard surfaces.  
   
-**Features:** Colonies can be 20-30cm wide. Made up of black thin branches
+## Features
+ Colonies can be 20-30cm wide. Made up of black thin branches
 (4-20cm long) with feathery side branches. Some look like clumps
 of grass with long, sparsely branched or unbranched stems (10-20cm).
 Others are bushier with stems that have more branches and fern-like
@@ -191,17 +201,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina) (Leptothecata: Aglaopheniidae) White stinger by Claire Guérin, 2014, on taxo4254.
-
-**References**
-
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp
 
 [links](../../../links)
 | [references](../../../references)

@@ -69,6 +69,42 @@ page_images:
   caption: |
     <p><a href="sabwhite">White spiral fanworm</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
+links_references: |
+  **Links**
+  - [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Sabellidae](http://rmbr.nus.edu.sg/polychaete/Sabellidael) by Lim Yun Ping 1997-2000 [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
+    Research website: fact sheet and photos of sabellids found in
+    Singapore.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -212,42 +248,3 @@ Pseudopotamilla reniformis
 Sabella* sp. *Sabellastarte indica=\*\*Sabellastarte spectabilis*
 
 ---
-
-**Links**
-
-- [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Sabellidae](http://rmbr.nus.edu.sg/polychaete/Sabellidael) by Lim Yun Ping 1997-2000 [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
-  Research website: fact sheet and photos of sabellids found in
-  Singapore.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.

@@ -27,6 +27,35 @@ page_images:
   caption: |
     <p>Lim Chu Kang, Aug 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+links_references: |
+  **Links**
+  - [Flatspired
+    nerite (*Nerita planospira*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838) on SeaBase Life: Technical
+    fact sheet.
+  - Flatspired
+    nerite (*Nerita planospira*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -40,7 +69,8 @@ Clements, this snail appears to be moderately uncommon and occurs
 in relatively low densities. The largest local population of *Nerita
 planospira* appears to be located in the mangroves of Pulau Ubin.  
   
-**Features:** About 2cm. Shell thick heavy,
+## Features
+ About 2cm. Shell thick heavy,
 hemispherical with a sunken spire. Rough thick cords on the shell, the
 earlier whorls of the shell is flattened thus giving its common name
 (*Planus* means 'flat', *spira* refer to 'spiral'). It has
@@ -72,37 +102,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Flatspired
-  nerite (*Nerita planospira*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838) on SeaBase Life: Technical
-  fact sheet.
-- Flatspired
-  nerite (*Nerita planospira*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

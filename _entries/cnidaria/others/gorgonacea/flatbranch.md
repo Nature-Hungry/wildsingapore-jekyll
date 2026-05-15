@@ -52,13 +52,36 @@ page_images:
   caption: |
     <p>An ovulid snail on the sea fan.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
+links_references: |
+  **Links**
+  - [*Subergorgia
+    suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosal)
+    and *[Subergorgia
+    mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollisl)* on SeaLife Base: technical fact sheet.
+  - [*Subergorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Subergorgia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
 ---
 
 ## Where seen?
  This sea fan with flat branches is sometimes seen
 on some of our Northern shores on coral rubble.  
   
-**Features:** 10-20cm long. Colony
+## Features
+ 10-20cm long. Colony
 comprises many long sturdy stems that randomly branch forming an elegant
 tree-like silhouette on one plane, with some branches overlapping.
 The stems are flattened, often with a groove along the length. Dull
@@ -98,30 +121,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Subergorgia
-  suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosal)
-  and *[Subergorgia
-  mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollisl)* on SeaLife Base: technical fact sheet.
-- [*Subergorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Subergorgia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
 
 [links](../../../links)
 | [references](../../../references)

@@ -150,6 +150,41 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159162466843158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
+links_references: |
+  **Links**
+  - [Arabian
+    cowrie (*Cypraea arabica*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86894) on SeaLife Base: Technical
+    fact sheet.
+  - [Arabian
+    cowrie (*Cypreae arabica*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=197) on the NParks Flora and Fauna
+    website.
+  - Arabian cowrie
+    (*Cypraea arabica*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -158,7 +193,8 @@ amazing snail is among the large cowries sometimes seen near reefs
 on our Southern shores. It is more active at night. It was previously
 known as *Cypraea arabica*.  
   
-**Features:** 5-8cm.
+## Features
+ 5-8cm.
 Shell
 egg-shaped,
 generally bluish with pattern of fine dotted brown lines, but patterns vary. Underside pale beige to light orange with brown spots and brown or orange 'teeth'. The living animal has a mantle covered with fine white 'hairs'. Siphon and tentacles black. So far, we have not encountered a living animal with the mantle covering the entire shell.
@@ -257,43 +293,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Arabian
-  cowrie (*Cypraea arabica*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86894) on SeaLife Base: Technical
-  fact sheet.
-- [Arabian
-  cowrie (*Cypreae arabica*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=197) on the NParks Flora and Fauna
-  website.
-- Arabian cowrie
-  (*Cypraea arabica*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -49,13 +49,22 @@ page_images:
   caption: |
     <p>Pulau Ubin, Jul 24Photo by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161672400203713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
+links_references: |
+  **Links**
+  - [Family Psolidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=106) on SeaLife Base: Technical
+    fact sheet.
+  - [Family Psolidae](http://species-identification.org/species.php?species_group=nasc&id=27&menuentry=groepen) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 ---
 
 ## Where seen?
  This small sea cucumber is seen stuck very firmly
 onto rocks in dark places, so far at Changi and Pulau Ubin.  
   
-**Features:** About 1cm long. Body oval with distinct flat underside. Upperside covered with hard calcareous plates. Colours light maroon, bright orange, brown. Much like a limpet,
+## Features
+ About 1cm long. Body oval with distinct flat underside. Upperside covered with hard calcareous plates. Colours light maroon, bright orange, brown. Much like a limpet,
 it clamps tightly onto a hard surface with several rows of tiny tube
 feet on the underside. Mouth and anus facing upwards on conical protrusions. When submerged,
 short feeding tentacles emerge from the mouth and tiny tube
@@ -95,14 +104,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Family Psolidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=106) on SeaLife Base: Technical
-  fact sheet.
-- [Family Psolidae](http://species-identification.org/species.php?species_group=nasc&id=27&menuentry=groepen) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.

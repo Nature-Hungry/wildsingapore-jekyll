@@ -78,7 +78,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/p
 is sometimes encountered on some of our shores near and among seagrass
 meadows.  
   
-**Features:** 2-3cm. Shell smooth thick spherical
+## Features
+ 2-3cm. Shell smooth thick spherical
 (not flat) with the spiral tip sticking out a little. Shell pattern plain
 orangey brown sometimes with smudged bars and faded stripes near the
 spiral. On the underside, a shallow depression. Operculum plain pearly white (no markings), with

@@ -62,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/red
 seen on many of our Southern shores, on coral rubble and near seagrasses.
 It is more active at night and usually seen alone.  
   
-**Features:** 2-3cm long. Body short
+## Features
+ 2-3cm long. Body short
 and plump. Body may be transparent or red, with six red bands. Tail
 with reddish tips. Sometimes with white spots on the head and upper
 body, and a white band on the body. Eyes large are far apart. Short

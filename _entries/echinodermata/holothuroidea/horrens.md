@@ -58,6 +58,21 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
+links_references: |
+  **Links**
+  - [*Stichopus
+    horrens (*Selenka's sea cucumber)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83495) on SeaLifeBase: Technical fact
+    sheet.
+  - [*Stichopus
+    horrens*](http://www.iucnredlist.org/details/180488/0) on the IUCN Red List: Technical fact sheet.
+  - [*Stichopus
+    horrens*](http://species-identification.org/species.php?species_group=nasc&id=79&menuentry=soorten) in North Australian Sea Cucumber on Marine Species
+    Identification Portal: Technical fact sheet.
+  - *Stichopus horrens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  - [Malaysia
+    lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
+    of singapore blog with an article about the trade in gamat on
+    Pulau Langkawi.
 ---
 
 ## Where seen?
@@ -66,7 +81,8 @@ it is common on rubble and sandy areas; hidden under rocks or dead
 corals. Sea cucumbers that look very similar include *S. monotuberculatus,
 S. naso* and *S. quadrifasciatus*. Precise identification can only be determined by looking at microscopic internal parts of the body.  
   
-**Features:** About 20cm long, but
+## Features
+ About 20cm long, but
 can grow to 50cm long up to half a kilo in weight! Body
 hard heavy, squarish in cross-section, blunt at the ends.
 Upperside
@@ -129,19 +145,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Stichopus
-  horrens (*Selenka's sea cucumber)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83495) on SeaLifeBase: Technical fact
-  sheet.
-- [*Stichopus
-  horrens*](http://www.iucnredlist.org/details/180488/0) on the IUCN Red List: Technical fact sheet.
-- [*Stichopus
-  horrens*](http://species-identification.org/species.php?species_group=nasc&id=79&menuentry=soorten) in North Australian Sea Cucumber on Marine Species
-  Identification Portal: Technical fact sheet.
-- *Stichopus horrens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-- [Malaysia
-  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
-  of singapore blog with an article about the trade in gamat on
-  Pulau Langkawi.

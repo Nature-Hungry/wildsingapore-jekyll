@@ -71,6 +71,24 @@ page_images:
   caption: |
     <p>Pulau Hantu, Jul 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/683914653/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+links_references: |
+  **Links**
+  - [Glass
+    Shrimp (*Palaemon*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Estuarine
+    prawn (*Macrobrachium equidens*)](http://mangrove.nus.edu.sg/guidebooks/text/2037) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -79,7 +97,8 @@ of our shores. At low tide in pools, in small groups on rubble and
 reefs. Also on sandy silty shores among seaweeds, as well as near
 mangroves.  
   
-**Features:** About 1-2cm long. The
+## Features
+ About 1-2cm long. The
 body is transparent, plain or with thin dark bands across the body.
 Has a sharp pointed 'nose' and the eyes are not very far apart. Pincers
 long. Pincers and walking legs with yellow joints. Some have a pair
@@ -132,26 +151,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Glass
-  Shrimp (*Palaemon*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Estuarine
-  prawn (*Macrobrachium equidens*)](http://mangrove.nus.edu.sg/guidebooks/text/2037) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -43,7 +43,8 @@ nesting sites.
 Pulau
 Ubin, Jan 05*
 
-**Features:** A large bird (about
+## Features
+ A large bird (about
 70cm) with black-and-white plumage. The hornbill's trademark is its
 large, long bill. The bill, however, is not as heavy as it appears.
 It is not made of solid bone but of a honeycombed tissue. An adult

@@ -59,13 +59,27 @@ page_images:
   caption: |
     <p>Flat-topped, pillar-like structures called paxillae.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+links_references: |
+  **Links**
+  - [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. [The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2046(2)/46rbz431-470.pdf). The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
  These sea stars are sometimes encountered on our Northern shores.
 In sandy or silty shores. Sometimes, many are seen gathered together.  
   
-**Features:** The
+## Features
+ The
 arms are long, slightly rounded, and tapered to a pointed tip, edged
 with tiny spines along the sides. The upper surface of the body is
 covered with special flat-topped, pillar-like structures called paxillae.
@@ -122,19 +136,3 @@ Luidiidae**
 *Luidia prionota*
 
 ---
-
-**Links**
-
-- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. [The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2046(2)/46rbz431-470.pdf). The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

@@ -31,13 +31,33 @@ page_images:
   caption: |
     <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24290195313/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+links_references: |
+  **Links**
+  - *[Philinopsis
+    reticulata](http://www.seaslugforum.net/philreti.htm)* on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
+  - [*Philinopsis reticulata*](http://www.sealifebase.org/summary/Philinopsis-reticulata.html) on SeaLife Base.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2008. *Nudibranchs
+    Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
+    Neville Coleman's World of Water, Australia. 415pp.
 ---
 
 ## Where seen?
  This small slug was seen at Cyrene in a sandy area
 near seagrasses and reefs.  
   
-**Features:** 2-3cm. A long, cylindrical
+## Features
+ 2-3cm. A long, cylindrical
 body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. Dark body with tiny pale yellow spots. Flaps on the front and back of the body that are black or blue with large pale blobs.  
   
 **What does it eat?** Some species
@@ -67,27 +87,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Philinopsis
-  reticulata](http://www.seaslugforum.net/philreti.htm)* on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
-- [*Philinopsis reticulata*](http://www.sealifebase.org/summary/Philinopsis-reticulata.html) on SeaLife Base.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2008. *Nudibranchs
-  Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
-  Neville Coleman's World of Water, Australia. 415pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

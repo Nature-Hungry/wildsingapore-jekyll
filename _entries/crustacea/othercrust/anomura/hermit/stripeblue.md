@@ -111,6 +111,21 @@ page_images:
   caption: |
     <p>St John's Island, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
+links_references: |
+  **Links**
+  - *[Clibanarius
+    longitarsus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130080)*
+    on SeaLife Base: Technical fact sheet.
+  - [*Clibanarius
+    longitarsus*](http://crust.biota.biodiv.tw/pages/4897) on BiotaTaiwanica: Technical fact sheet with
+    photo.
+  **References**
+  - Dwi Listyo
+    Rahayu, 2000. *Hermit
+    crabs from the South China Sea (Crustacea: Decapoda: Anomura:
+    Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
+    of Zoology 2000 Supplement No. 8: 377-404. The National University
+    of Singapore.
 ---
 
  ## Where seen?
@@ -122,7 +137,8 @@ rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen i
 
 
 
-**Features:** Body 1-2cm long, mostly
+## Features
+ Body 1-2cm long, mostly
 plain pale. Both pincers are more or less equal in size and held so
 that the 'fingers' open horizontally in front of the animal. Pincers
 sparsely hairy, no stripes, olive or brown with paler blue or bluish-green
@@ -199,23 +215,7 @@ With grateful thanks to [liwaliw](http://www.flickr.com/people/13027552@N03/)
 for identifying this hermit crab on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/3229964397/).  
   
-**Links**
 
-- *[Clibanarius
-  longitarsus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130080)*
-  on SeaLife Base: Technical fact sheet.
-- [*Clibanarius
-  longitarsus*](http://crust.biota.biodiv.tw/pages/4897) on BiotaTaiwanica: Technical fact sheet with
-  photo.
-
-**References**
-
-- Dwi Listyo
-  Rahayu, 2000. *Hermit
-  crabs from the South China Sea (Crustacea: Decapoda: Anomura:
-  Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
-  of Zoology 2000 Supplement No. 8: 377-404. The National University
-  of Singapore.
 
 [links](../../../../links)
 | [references](../../../../references)

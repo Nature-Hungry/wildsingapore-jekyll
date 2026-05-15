@@ -61,6 +61,53 @@ page_images:
   caption: |
     <p><a href="mappa">Map pufferfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+links_references: |
+  **Links**  
+  - [Yelloweye
+    Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395), [Rough
+    Golden Toadfish (*Lagocephalus lunaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396), [Milk-spotted
+    Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) and [Spotted
+    Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Puffer
+    or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Tetraodontidae (Puffers)](http://www.fishbase.org/summary/FamilySummary.php?ID=448) and [*Arothron
+    immaculatus* (Immaculate puffer)](http://www.fishbase.org/summary/7188) and [*Arothron
+    mappa* (Map puffer)](http://www.fishbase.org/summary/7857) and [*Arothron
+    stellatus* (Stellate puffer)](http://www.fishbase.org/summary/6526) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Don't
+    eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-ballsl)
+    on the wild shores of singapore blog: about a case of pufferfish
+    poisoning and other uses of pufferfish toxins.
+  - [Why
+    pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-notl) on the wild shores of
+    singapore
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  - Tan Heok Hui. 1 October 2013. *Stars-and-stripes pufferfish in Singapore Straits  
+    Arothron hispidus*. Singapore Biodiversity Records 2013: 1.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -82,7 +129,8 @@ and subtropical ares of the Atlantic, Indian and Pacific oceans. Other
 similar fishes belong to different families: boxfishes and cowfishes
 to [Family Ostraciidae](../ostraciidae/ostraciidae),
 and porcupinefishes to [Family Diodontidae](../diodontidae/diodontidae).  
- **Features:**  10-30cm. Pufferfishes are slow moving fish that
+ ## Features
+  10-30cm. Pufferfishes are slow moving fish that
 are hardly designed for fast swimming. When relaxed, they are generally
 elongated bulbous fishes. Pufferfishes get their common name from
 their ability to inflate the body greatly by swallowing water (or
@@ -160,55 +208,7 @@ green pufferfish) *Tetraodon palembangensis*
 
 ---
 
-**Links**  
 
-- [Yelloweye
-  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395), [Rough
-  Golden Toadfish (*Lagocephalus lunaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396), [Milk-spotted
-  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) and [Spotted
-  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Puffer
-  or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Tetraodontidae (Puffers)](http://www.fishbase.org/summary/FamilySummary.php?ID=448) and [*Arothron
-  immaculatus* (Immaculate puffer)](http://www.fishbase.org/summary/7188) and [*Arothron
-  mappa* (Map puffer)](http://www.fishbase.org/summary/7857) and [*Arothron
-  stellatus* (Stellate puffer)](http://www.fishbase.org/summary/6526) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Don't
-  eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-ballsl)
-  on the wild shores of singapore blog: about a case of pufferfish
-  poisoning and other uses of pufferfish toxins.
-- [Why
-  pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-notl) on the wild shores of
-  singapore
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
-- Tan Heok Hui. 1 October 2013. *Stars-and-stripes pufferfish in Singapore Straits  
-  Arothron hispidus*. Singapore Biodiversity Records 2013: 1.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

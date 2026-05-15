@@ -68,7 +68,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/
  This
 pretty cowrie is sometimes seen on our Northern shores, on rocks, also on
 rubble among seagrasses in a sandy lagoon. Often seen in a pair. It is considered uncommon
-elsewhere. It was previously known as *Cypraea gracilis*. **Features:** 2.5cm.
+elsewhere. It was previously known as *Cypraea gracilis*. ## Features
+ 2.5cm.
 Shell
 pear-shaped, bluish-grey with irregular
 brownish speckles or small darkish brown blotches or dark brown broken

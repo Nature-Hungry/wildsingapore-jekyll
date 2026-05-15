@@ -52,13 +52,42 @@ page_images:
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Caulastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Caulastrea)*on
+    Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Caulastrea
+    echinulata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46673)* and *[Caulastrea
+    furcata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46674)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  These smooth pillows of hard corals with round to
 oval corallites are sometimes seen on some of our Southern shores. It was previously in Family Faviidae.  
   
-**Features:** The colony appears to
+## Features
+ The colony appears to
 be boulder-shaped, those seen 10-20cm or larger. But the colony is
 not solid (massive). The corallites are branching and trumpet-shaped
 (phaceloid): long narrow column flaring out at the top to a circular
@@ -139,36 +168,7 @@ Genus *Caulastrea***
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Caulastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Caulastrea)*on
-  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Caulastrea
-  echinulata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46673)* and *[Caulastrea
-  furcata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46674)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

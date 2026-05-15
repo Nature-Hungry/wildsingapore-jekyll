@@ -63,6 +63,23 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, May 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
+links_references: |
+  **Links**
+  - *[Ophiactis
+    savignyi](http://www.sealifebase.org/summary/Ophiactis-savignyil)*[(Savigny's brittle star)](http://www.sealifebase.org/summary/Ophiactis-savignyil)
+    on SeaLife Base: Technical fact sheet
+  - [*Ophiactis
+    savignyi* (Little Brittle star)](http://www.thecephalopodpage.org/MarineInvertebrateZoology/Ophiactissavignyil) by Kara McKeton and James
+    B. Wood (Ed) on Marine Invertebrates of Bermuda: fact sheet.
+  - ["The
+    Most Common brittle star in the world"?? The tropical-global invasion
+    of *Ophiactis savignyi*!!](http://echinoblog.blogspot.sg/2010/07/most-common-brittle-star-in-worldl)
+    on the Echinoblog by Dr Chris Mah.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -71,7 +88,8 @@ tiny brittle stars are commonly seen in living [Chocolate
 sponges](../../porifera/suberites) on many of
 our shores. They are sometimes also seen in other kinds of sponges.  
   
-**Features:** Whole animal 1-2cm.
+## Features
+ Whole animal 1-2cm.
 5-6 arms. Arms banded with short spines lying flat arong the arms.
 Central disk rarely seen outside its hiding place. Sometimes, larger
 brittle stars with white arms are also seen in the same sponge. A
@@ -128,23 +146,3 @@ Hantu on 12 Apr 09
 [condo sponge w brittlestars 12Apr2009](http://vimeo.com/4149067) from [SgBeachBum](http://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
 ---
-
-**Links**
-
-- *[Ophiactis
-  savignyi](http://www.sealifebase.org/summary/Ophiactis-savignyil)*[(Savigny's brittle star)](http://www.sealifebase.org/summary/Ophiactis-savignyil)
-  on SeaLife Base: Technical fact sheet
-- [*Ophiactis
-  savignyi* (Little Brittle star)](http://www.thecephalopodpage.org/MarineInvertebrateZoology/Ophiactissavignyil) by Kara McKeton and James
-  B. Wood (Ed) on Marine Invertebrates of Bermuda: fact sheet.
-- ["The
-  Most Common brittle star in the world"?? The tropical-global invasion
-  of *Ophiactis savignyi*!!](http://echinoblog.blogspot.sg/2010/07/most-common-brittle-star-in-worldl)
-  on the Echinoblog by Dr Chris Mah.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

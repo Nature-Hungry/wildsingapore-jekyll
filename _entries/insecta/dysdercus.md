@@ -53,6 +53,13 @@ page_images:
     <p>A mating pair.</p>
     <p>Seringat-Kias, Nov 2019Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156844575433660&set=a.10156844574398660&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
+links_references: |
+  **Links**
+  - [Cotton
+    stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [*Dysdercus cingulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dysdercus%20cingulatus.html) (Hemiptera: Pyrrhocoridae) Cotton Stainer Bug on Taxo4254.
 ---
 
 ## Where seen?
@@ -65,7 +72,8 @@ plant. Another related *Dysdercus* feeds on the [Portia
 tree](../plants/coastal/thespesia/populnea.htm) (*Thespesia populnea*); it looks similar but has a black
 head.  
   
-**Features:** Body about 1cm long.
+## Features
+ Body about 1cm long.
 The adult has a red or black head with distinctive yellow cross on
 black wing cases with red bodies and black legs. The juveniles are
 all red, wingless with black legs and a black head.
@@ -115,13 +123,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Cotton
-  stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [*Dysdercus cingulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dysdercus%20cingulatus.html) (Hemiptera: Pyrrhocoridae) Cotton Stainer Bug on Taxo4254.
 
 [links](../links.htm)
 | [references](../references.htm)

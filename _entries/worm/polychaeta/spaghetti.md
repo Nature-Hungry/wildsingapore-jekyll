@@ -57,12 +57,18 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118127263062825&__cft__[0]=AZY0pEOr_b17fEceoBDGxpGHUQju9GReSGEceCZJ6salWo3inu03jsB9Ub95tfJkGVJ4BQDlU8Lbkt_K8dITljHBJ-3QHTYEsSJBxCCXLz23Qv9EMpVzcdi-nZSzv47agvinp2Zvx6JPNy7gnjwrLqLs8564MyRojJS8OgdHVPjzAw&__tn__=-R">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidael) and [Family Terebellidae](http://lkcnhm.nus.edu.sg/polychaete/Terebellidael) by Lim Yun Ping 1997-2000 [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
 ---
 
 ## Where seen?
  Worms with long tentacles are sometimes seen.   
   
-**Features:** Displayed on this page
+## Features
+ Displayed on this page
 are worms with long tentacles. They may belong to various different
 families and groups such as Family Terebellidae and Family Cirratulidae.  
   
@@ -115,9 +121,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
 and a tentative identification.
-
-**Links**
-
-- [Family
-  Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidael) and [Family Terebellidae](http://lkcnhm.nus.edu.sg/polychaete/Terebellidael) by Lim Yun Ping 1997-2000 [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).

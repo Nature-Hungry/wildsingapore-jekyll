@@ -29,7 +29,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m
  These
 rounded blob-shaped animals are commonly seen on our Northern shores .  
   
-**Features:** Colony
+## Features
+ Colony
 about 5-10cm in diameter. Rubbery blobs forming on hard surfaces or
 on stones near
 the mid-water mark. In various shades

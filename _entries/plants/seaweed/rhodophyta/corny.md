@@ -34,13 +34,21 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
+links_references: |
+  **Links**
+  - [*Palisada perforata*](http://www.algaebase.org/search/species/detail/?species_id=133994)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
 ---
 
 ## Where seen?
 
 This purple maroon seaweed with tiny rows of bumps is sometimes seen on our Southern shores.  
   
-**Features:** Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
+## Features
+ Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
 
  
 
@@ -70,15 +78,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Palisada perforata*](http://www.algaebase.org/search/species/detail/?species_id=133994)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

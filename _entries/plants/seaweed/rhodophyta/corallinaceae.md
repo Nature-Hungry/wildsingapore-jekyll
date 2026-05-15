@@ -49,6 +49,30 @@ page_images:
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+links_references: |
+  **Links**
+  - [Red
+    Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Introduction
+    to Coralline Algae](http://www.botany.uwc.ac.za/clines/) on the University of Western Cape website:
+    A somewhat technical introduction to their shapes, importance
+    to the habitat, reproduction, taxonomy with links to other sites
+    on coralline algae.
+  - [Coralline
+    Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael) on the US Geological Survey website:
+    photos of some coralline algae
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Chou, L.
+    M., 1998. *[A
+    Guide to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. Singapore Science
+    Centre. 128 pages.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*[Field
 ---
 
 ## Where seen?
@@ -56,7 +80,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encru
 Forming pinkish encrusting growths on coral rubble, coralline algae
 are commonly seen, especially on our Southern shores.  
   
-**Features:** These red seaweeds are
+## Features
+ These red seaweeds are
 hard because they incorporate calcium carbonate. Being hard, they
 are sometimes also called coralline algae. Some kinds of coralline
 algae cover hard surfaces in a thin, slow- growing layer. They grow
@@ -103,32 +128,7 @@ Amphiroa rigida*
 
 ---
 
-**Links**
 
-- [Red
-  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Introduction
-  to Coralline Algae](http://www.botany.uwc.ac.za/clines/) on the University of Western Cape website:
-  A somewhat technical introduction to their shapes, importance
-  to the habitat, reproduction, taxonomy with links to other sites
-  on coralline algae.
-- [Coralline
-  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael) on the US Geological Survey website:
-  photos of some coralline algae
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Chou, L.
-  M., 1998. *[A
-  Guide to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. Singapore Science
-  Centre. 128 pages.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*[Field
 
 [www.**flickr**.com](http://www.flickr.com)  
 

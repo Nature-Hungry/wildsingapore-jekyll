@@ -82,6 +82,27 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+links_references: |
+  **Links**
+  - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet
+    and photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Y. Benayahu
+    and L. M. Chou, 28 Feb 2010. *On
+    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+    with a description of a new Cladiella species*. The Raffles
+    Bulletin of Zoology 58(1) Pp. 1-13.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and
+    Art Gallery of the Northern Territoriy. 264 pp
 ---
 
 ## Where seen?
@@ -89,7 +110,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/1107
 little stars is sometimes seen on some of our shores. Among
 coral rubble and sandy areas near reefs.  
   
-**Features:** The colony about
+## Features
+ The colony about
 10-15cm in diameter. Sometimes covering large areas of 50cm or more. The
 colony may be thick, disk-like with a highly ruffled edge, or encrusting
 with knobs, lobes and fingers. The surface of the leathery common
@@ -155,29 +177,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet
-  and photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Y. Benayahu
-  and L. M. Chou, 28 Feb 2010. *On
-  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-  with a description of a new Cladiella species*. The Raffles
-  Bulletin of Zoology 58(1) Pp. 1-13.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and
-  Art Gallery of the Northern Territoriy. 264 pp
 
 [links](../../links.htm)
 | [references](../../references.htm)

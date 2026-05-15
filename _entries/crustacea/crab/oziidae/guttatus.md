@@ -84,7 +84,8 @@ shores, sea walls and among coral rubble and near living reefs. It
 is more active at night, but even so, very quick to scuttle back into
 hiding when disturbed. 'Gutta' in Latin means 'spots'.  
   
-**Features:** Body width 6-9cm. Body
+## Features
+ Body width 6-9cm. Body
 oval smooth upper surface. Edge smooth with a few (about 4) very shallow
 notches. Upperside reddish to dark brown, plain without patterns,
 underside pale orange with lots of tiny dark spots on its belly. Large

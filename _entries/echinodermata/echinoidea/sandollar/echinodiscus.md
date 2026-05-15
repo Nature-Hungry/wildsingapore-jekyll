@@ -87,6 +87,24 @@ page_images:
   caption: |
     <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. With descriptions of [*Echinodiscus.*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=846)
+  - [*Echinodiscus
+    bisperforatus*](http://www.sealifebase.org/summary/Echinodiscus-bisperforatusl) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -95,7 +113,8 @@ sandy areas near seagrasses on Chek Jawa and Changi. It is not found
 in large groups like the [Cake sand dollar](arachnoides),
 usually alone. It was previously known as *Echinodiscus bisperforatus*.  
   
- **Features:** Body diameter 8-10cm, somewhat polygonal,
+ ## Features
+ Body diameter 8-10cm, somewhat polygonal,
 with a pair of slots perpendicular to the edge. The flower-like petalloid
 is obvious even in living specimens. Usually maroon-purple, sometimes
 yellowish brown.  
@@ -156,26 +175,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. With descriptions of [*Echinodiscus.*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=846)
-- [*Echinodiscus
-  bisperforatus*](http://www.sealifebase.org/summary/Echinodiscus-bisperforatusl) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

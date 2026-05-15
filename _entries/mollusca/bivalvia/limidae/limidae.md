@@ -42,6 +42,41 @@ page_images:
   caption: |
     <p><a href="vulgaris.htm">Common file clam</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Limidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Limidae.html) on The
+    Gladys Archerd Shell Collection at Washington State University Tri-Cities
+    Natural History Museum website:
+    brief description and photos.
+  - [File
+    shells (*Lima lima*)](http://mangrove.nus.edu.sg/pub/seashore/text/162.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore
+    Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - Family Limidae in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the Western
+    Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and Agriculture
+    Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong Kiat
+    and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles Museum
+    of Biodiversity Research, National University of Singapore.
+  - Tan, K. S. &
+    L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore Science
+    Centre. 160 pp.
+  - Chou, L. M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Wee Y.C. and Peter
+    K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National
+    Council on the Environment. 163pp.
+  - Abbott, R. Tucker,
+    1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -52,7 +87,8 @@ near reefs.
 are [bivalves](../../bivalvia.htm) that belong to Family
 Limidae.   
   
-**Features:** 4- 6cm. Long, fleshy
+## Features
+ 4- 6cm. Long, fleshy
 tentacles fringe the mantle which are sticky and detach easily when
 touched. Some species are attached to a hard surface by byssus threads,
 or building a nest lined with mingled byssal threads.   
@@ -113,43 +149,7 @@ Limatula bullata*
 
 ---
 
-**Links**
 
-- [Family
-  Limidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Limidae.html) on The
-  Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website:
-  brief description and photos.
-- [File
-  shells (*Lima lima*)](http://mangrove.nus.edu.sg/pub/seashore/text/162.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore
-  Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
-- Family Limidae in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and Agriculture
-  Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong Kiat
-  and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles Museum
-  of Biodiversity Research, National University of Singapore.
-- Tan, K. S. &
-  L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore Science
-  Centre. 160 pp.
-- Chou, L. M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Wee Y.C. and Peter
-  K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National
-  Council on the Environment. 163pp.
-- Abbott, R. Tucker,
-  1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

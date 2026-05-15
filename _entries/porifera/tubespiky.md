@@ -49,11 +49,23 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
+links_references: |
+  **Links**
+  - [*Gelliodes*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2645)
+    on SeaLife Base: technical fact sheet.
+  - [*Gelliodes*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131842)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This tubular with spikes sponge is sometimes seen on Beting Bronok and other undisturbed Northern shores.  
- **Features:** A neat small
+ ## Features
+ A neat small
 bush (about 20cm) with closely packed narrow tubes (about 1-2cm wide)
 regularly ringed with large neat spikes, forming a star-like shape
 around the large hole at the tip of the tube. There is a transparent
@@ -90,19 +102,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Gelliodes*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2645)
-  on SeaLife Base: technical fact sheet.
-- [*Gelliodes*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131842)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

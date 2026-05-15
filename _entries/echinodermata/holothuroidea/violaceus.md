@@ -66,13 +66,32 @@ page_images:
   caption: |
     <p>East Coast PCN, Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168623896515112&set=a.10168623886845112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    apples](http://www.advancedaquarist.com/issues/mar2003/invert) on Aquarium Invertebrates by Dr Rob Toonen on the Advanced
+    Aquarist's Online Magazine: details the toxic nature and low success
+    rate of keeping these animals in captivity.
+  - *[Pseudocolochirus violaceus](https://singapore.biodiversity.online/taxo4254/mainSpace/Pseudocolochirus%20violaceus%20%28Th%C3%A9el%2C%201886%29l)* (Dendrochirotida: Cucumariidae) Sea Apple Cucumber by Lee Sui Kei Rachel, 2016, on taxo4254.
+  - [*Pseudocolochirus violaceus*](http://www.sealifebase.org/summary/Pseudocolochirus-violaceusl) on SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  This amazing technicolour sea cucumber is sometimes
 seen on our Northern shores, among seagrasses or attached to rubble.  
   
-**Features:** 10-20cm long. Body long
+## Features
+ 10-20cm long. Body long
 or spherical with five rows of tube feet that are bright yellow long slender, but the two rows
 on the upper side of the body are usually less distinct. Body usually
 red on the upperside, shading to lilac and white to the underside.
@@ -123,24 +142,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Sea
-  apples](http://www.advancedaquarist.com/issues/mar2003/invert) on Aquarium Invertebrates by Dr Rob Toonen on the Advanced
-  Aquarist's Online Magazine: details the toxic nature and low success
-  rate of keeping these animals in captivity.
-- *[Pseudocolochirus violaceus](https://singapore.biodiversity.online/taxo4254/mainSpace/Pseudocolochirus%20violaceus%20%28Th%C3%A9el%2C%201886%29l)* (Dendrochirotida: Cucumariidae) Sea Apple Cucumber by Lee Sui Kei Rachel, 2016, on taxo4254.
-- [*Pseudocolochirus violaceus*](http://www.sealifebase.org/summary/Pseudocolochirus-violaceusl) on SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

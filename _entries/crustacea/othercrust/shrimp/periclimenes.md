@@ -49,6 +49,33 @@ page_images:
     <p>About 1cm, a pair seen on a <a href="../../../cnidaria/others/pennatulacea/veretillidae">Flowery sea pen</a>.</p>
     <p>Changi, May 05</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Glass
+    Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 if you
@@ -69,7 +96,8 @@ groups on the ground and among seaweeds. These shrimps are hard to
 spot as they are small and transparent; and usually only active at
 night and when their host is submerged.  
   
-**Features:** 1-3cm long. These little
+## Features
+ 1-3cm long. These little
 shrimps are usually transparent. They are thus sometimes also called
 glass shrimps. Sometimes, all that can be seen of them are their beady
 little eyes! At night, the shine from their eyes make them easy to
@@ -141,35 +169,7 @@ Periclimenes suvaensis*
 
 ---
 
-**Links**  
 
-- [Glass
-  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

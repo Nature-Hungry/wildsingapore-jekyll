@@ -104,7 +104,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/galeommatidae
 ---
 
 ## Where seen?
- This tiny clam can move like snails, crawling on a foot holding the shell on its back. It is found under stones, often several together, on many of our shores. **Features:** 1-2cm. Shell
+ This tiny clam can move like snails, crawling on a foot holding the shell on its back. It is found under stones, often several together, on many of our shores. ## Features
+ 1-2cm. Shell
 oval, thin and white. The mantle sometimes covers the entire
 valves. When submerged, little finger-like structures appear
 from the mantle. Some have a wide 'foot' created from fused

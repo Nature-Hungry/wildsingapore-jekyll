@@ -59,6 +59,22 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg
+links_references: |
+  **Links**
+  - [*Halymenia
+    maculata*](http://www.algaebase.org/search/species/detail/?species_id=3310)on
+    [AlgaeBase](http://www.algaebase.org/): Technical fact
+    sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - A. C. Lee, Lawrence M. Liao
+    and K. S. Tan. *[New records
+    of marine algae on artificial structures and intertidal flats
+    in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)*. Pp. 5-40. in the Raffles Bulletin of Zoology.
 ---
 
 ## Where seen?
@@ -66,7 +82,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/macul
 Like frilly sheets, clumps of this seaweed is often seen on our Southern
 shores, attached to coral rubble.  
   
-**Features:** Each blade about 8-10cm
+## Features
+ Each blade about 8-10cm
 long, not translucent, leathery (not slippery) and somewhat stiff.
 The portion near the base is flat but towards the edges it forms short
 flat branches with very frilly edges. The surface has little, regular
@@ -110,24 +127,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Halymenia
-  maculata*](http://www.algaebase.org/search/species/detail/?species_id=3310)on
-  [AlgaeBase](http://www.algaebase.org/): Technical fact
-  sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- A. C. Lee, Lawrence M. Liao
-  and K. S. Tan. *[New records
-  of marine algae on artificial structures and intertidal flats
-  in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)*. Pp. 5-40. in the Raffles Bulletin of Zoology.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -46,6 +46,52 @@ page_images:
   caption: |
     <p><a href="elysianoid.htm">Unidentified leaf slugs</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
+links_references: |
+  **Links**
+  - [Leaf
+    Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
+    *[Elysia
+    ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)* as well as [solar
+    powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how some slugs retain the chloroplasts
+    from their food.
+  **References**
+  - K. R. Jensen. [Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement31/S31rbz226-249.pdf). 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe
+    R. Jensen. 30 Dec 2009. [Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz207-223.pdf). The Raffles Bulletin of Zoology. Pp. 207-223.
+  - Cornelis (Kees) Swennen. [Large Mangrove-dwelling *Elysia* species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)](http://lkcnhm.nus.edu.sg/rbz/biblio/59/59rbz029-037.pdf). 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
+    Checklist of The Molluscs of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH%20Museum%20Books/LKCNHM%20Books/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman�s Underwater Geographic Pty Ltd, Australia.144pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
@@ -54,7 +100,8 @@ especially during a 'bloom' of their seaweed food. They appear to
 be seasonal. Sometimes they are everywhere, at other times, none are
 to be seen. They were previously in Family Elysiidae.  
   
-**Features:**They
+## Features
+They
 range from tiny ones 1cm long to larger ones 4cm long that resemble
 seaweeds. One
 pair of 'rolled up' tentacles, not solid tentacles like other slugs.
@@ -128,54 +175,7 @@ Elysia* cf.
 
 ---
 
-**Links**
 
-- [Leaf
-  Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-  *[Elysia
-  ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)* as well as [solar
-  powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how some slugs retain the chloroplasts
-  from their food.
-
-**References**
-
-- K. R. Jensen. [Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement31/S31rbz226-249.pdf). 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Kathe
-  R. Jensen. 30 Dec 2009. [Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz207-223.pdf). The Raffles Bulletin of Zoology. Pp. 207-223.
-- Cornelis (Kees) Swennen. [Large Mangrove-dwelling *Elysia* species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)](http://lkcnhm.nus.edu.sg/rbz/biblio/59/59rbz029-037.pdf). 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
-  Checklist of The Molluscs of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH%20Museum%20Books/LKCNHM%20Books/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman�s Underwater Geographic Pty Ltd, Australia.144pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

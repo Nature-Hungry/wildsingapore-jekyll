@@ -42,7 +42,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/03
 of our shores, hidden among seagrasses and seaweeds. They require
 a very keen eye indeed to spot.  
   
-**Features:** Body width 0.5cm or
+## Features
+ Body width 0.5cm or
 less. Body teardrop-shaped or triangular. The body and spindly walking
 legs often covered with filaments to which tiny bits of rubbish or
 delicate algae are stuck. Pincers short and tiny. Slow moving.

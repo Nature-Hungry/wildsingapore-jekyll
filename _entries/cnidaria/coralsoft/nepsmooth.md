@@ -37,6 +37,17 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+links_references: |
+  **Links**
+  - *[Litophyton](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Litophyton)*on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
@@ -44,7 +55,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/05
 seen on Tuas and sometimes seen on our other shores too. On coral
 rubble.  
   
-**Features:** Colony bushy about 6-12cm
+## Features
+ Colony bushy about 6-12cm
 long. Colony has several long fat cylindrical 'stems' with many short
 widely-spaced branches along the 'stem'. The 'stem' pale, with sclerites
 embedded in the tissues. There are clusters of polyps all along these
@@ -80,19 +92,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Litophyton](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Litophyton)*on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

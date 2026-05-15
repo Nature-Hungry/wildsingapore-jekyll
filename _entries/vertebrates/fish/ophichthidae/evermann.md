@@ -107,6 +107,11 @@ page_images:
   caption: |
     <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19953839440/in/album-72157645656582534/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
+links_references: |
+  **Links**
+  - *[Ophichthus
+    lithinus](http://www.fishbase.us/Summary/SpeciesSummary.php?ID=64829&AT=Ebi)* [(Evermann's
+    snake eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=64829) from [FishBase](http://www.fishbase.org/).
 ---
 
 ## Where seen?
@@ -114,7 +119,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/e
 fishes were seen hunting among the corals! It was previously known as *Ophichthus
 evermanni*.  
   
-**Features:** 30-40cm long. Body long thick cylindrical and is only
+## Features
+ 30-40cm long. Body long thick cylindrical and is only
 flattened towards the very tip of the tail. Distinguished by a yellowish chin
 and two yellowish rings around the body, one behind the eyes and another at the pectoral fins. Body pattern of irregular large
 dark brown or purple blotches over a pale yellowish background. It lacks scales. The snout
@@ -209,11 +215,6 @@ Beting Bemban Besar, Jul 20
 to Kelvin K. P. Lim of the [Raffles
 Museum of Biodiversity Research](http://rmbr.nus.edu.sg/) for identifying this fish.
 
-**Links**
-
-- *[Ophichthus
-  lithinus](http://www.fishbase.us/Summary/SpeciesSummary.php?ID=64829&AT=Ebi)* [(Evermann's
-  snake eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=64829) from [FishBase](http://www.fishbase.org/).
 
 **Reference**
 

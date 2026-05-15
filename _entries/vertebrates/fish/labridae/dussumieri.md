@@ -102,6 +102,28 @@ page_images:
   caption: |
     <p>Pulau Biola, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4655512782/in/album-72157624047023581/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg
+links_references: |
+  **Links**  
+  - [Diamond
+    Tuskfish (*Halichoeres dussumieri*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/349.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - *[Halichoeres
+    nigrescens](http://www.iucnredlist.org/details/187600/0)*
+    on the IUCN Red List.
+  - [Bubblefin
+    wrasse (*Halichoeres nigrescens*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58179) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet. Formerly named *Halichoeres dussumieri*.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -109,7 +131,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussu
 seen on our Northern shores, among coral rubble near seagrasses. Sometimes seen high and dry on sand or stuck inside coral rubble or
 sponges. Some seen were very pale, others were more brightly coloured. It was previously known as *Halichoeres dussumieri*.  
   
- **Features:** To about 16cm, but
+ ## Features
+ To about 16cm, but
 those seen are usually about 5-8cm long. Usually colourful: silvery
 to greenish with red, yellow and blue markings forming 4-5 broad bars
 across the body. Dark spot in the middle of the front
@@ -179,30 +202,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Diamond
-  Tuskfish (*Halichoeres dussumieri*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/349.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- *[Halichoeres
-  nigrescens](http://www.iucnredlist.org/details/187600/0)*
-  on the IUCN Red List.
-- [Bubblefin
-  wrasse (*Halichoeres nigrescens*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58179) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet. Formerly named *Halichoeres dussumieri*.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

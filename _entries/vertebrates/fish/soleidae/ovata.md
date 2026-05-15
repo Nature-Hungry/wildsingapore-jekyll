@@ -44,12 +44,28 @@ page_images:
   caption: |
     <p>Kusu Island, Jan 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160943180917906&set=a.10160943176927906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+links_references: |
+  **Links**  
+  - [Ovate
+    Sole (*Solea ovata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386) Lim, Kelvin K. P. & Jeffrey K. Y.
+    Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Ovate
+    sole (*Solea ovata*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=14391)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
 ---
 
 ## Where seen?
  This small flat fish is commonly seen on Changi,
 in sandy areas near seagrasses.  
- **Features**: To about 9cm long, those seen 4-5cm. Eyes on
+ ## Features
+ To about 9cm long, those seen 4-5cm. Eyes on
 right side. Small, highly curved mouth. Body oval and very flat. Tail
 fin joined to the dorsal and anal fins only at the base. Dark pectoral
 fin. Sand-coloured with speckles and spots.
@@ -84,21 +100,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Ovate
-  Sole (*Solea ovata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386) Lim, Kelvin K. P. & Jeffrey K. Y.
-  Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Ovate
-  sole (*Solea ovata*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=14391)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
 
 [links](../../../links)
 | [references](../../../references)

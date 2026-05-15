@@ -53,6 +53,21 @@ page_images:
   caption: |
     <p>Big Sisters Island, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174366637675112&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+links_references: |
+  **Links**
+  - [*Cellana
+    radiata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130651)
+    and *[Cellana
+    testudinaria](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86794)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -62,7 +77,8 @@ numbers as other limpets. It is often seen on the smooth surfaces
 of recently opened oyster shells stuck on boulders, especially in
 shady places. So far, more commonly seen on our Northern shores.  
   
-**Features:** About 2-3cm long. Thin
+## Features
+ About 2-3cm long. Thin
 shell smooth with fine grooves. There is no hole at the top of the
 shell. Body plain white or yellow. The
 smooth limpet is a true limpet that breathes through gills.
@@ -96,23 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cellana
-  radiata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130651)
-  and *[Cellana
-  testudinaria](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86794)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

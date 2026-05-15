@@ -97,6 +97,37 @@ page_images:
   caption: |
     <p>Pulau Salu, Jun 10</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Oulastrea
+    crispata*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Oulastrea) on Reef Corals of the Indo-Malayan Seas, the
+    Marine Species Identification Portal: Technical fact sheet.
+  - [*Oulastrea
+    crispata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46785) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 if you
@@ -116,7 +147,8 @@ exposed to air at low tide. Elsewhere, the colonies are encrusting
 and grow only to a few centimetres. *Oulastrea crispata*  is
 the only species in the genus. It was previously under Family Faviidae but is now placed in Family Oulastreidae.  
   
-**Features:** Colonies about 10-15cm,
+## Features
+ Colonies about 10-15cm,
 sometimes much smaller. The colony tends to be encrusting, sometimes
 a small boulder-shape. Corallites small (about 0.5cm) circular rings
 with thick white radiating wall partitions (septa) on a black background.
@@ -173,39 +205,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Oulastrea
-  crispata*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Oulastrea) on Reef Corals of the Indo-Malayan Seas, the
-  Marine Species Identification Portal: Technical fact sheet.
-- [*Oulastrea
-  crispata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46785) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

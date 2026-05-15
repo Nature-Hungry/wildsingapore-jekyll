@@ -52,7 +52,8 @@ you might come across this stalked barnacle growing on objects that
 used to float in the open sea, such as large logs washed ashore. Goose
 barnacles usually die once they are stranded on the beach.  
   
-**Features:** To about 2cm across.
+## Features
+ To about 2cm across.
 The outer shell is clam-like made up of five thin white plates. The
 opening may be red, orange or bright yellow. A leathery stalk attaches
 the animal to a hard surface. Unlike the more commonly seen shore

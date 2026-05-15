@@ -72,6 +72,38 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482983158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
+links_references: |
+  **Links**
+  - [Little
+    pitcher conch (*Strombus urceus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879) on SeaLife Base: Technical
+    fact sheet.
+  - [Black-lipped
+    conch (*Strombus urceus*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199) on the NParks Flora and Fauna
+    website.
+  - Little pitcher
+    conch (*Strombus urceus*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -90,7 +122,8 @@ or sandy mud bottoms, sometimes associated with sparse algae. Often
 occurring in colonies. Intertidal and sublittoral zones to a depth
 of about 40 m. It was previously known as *Strombus urceus*.  
   
-**Features:** 3-5cm long. Shell heavy thick,
+## Features
+ 3-5cm long. Shell heavy thick,
 long and narrow, lip slightly flared quite wavy. The flared
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits. Upperside smooth often covered in silt and sometimes with encrusting plants and animals. Shell opening
@@ -152,40 +185,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Little
-  pitcher conch (*Strombus urceus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879) on SeaLife Base: Technical
-  fact sheet.
-- [Black-lipped
-  conch (*Strombus urceus*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199) on the NParks Flora and Fauna
-  website.
-- Little pitcher
-  conch (*Strombus urceus*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

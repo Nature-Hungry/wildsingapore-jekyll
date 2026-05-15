@@ -45,7 +45,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menathe
 among seagrasses and seaweeds. It is probably quite common but overlooked
 because it is so well camouflaged.  
   
-**Features:** Body width 0.5-1cm.
+## Features
+ Body width 0.5-1cm.
 Body rather flat and quite triangular with a sharp pointed tip between
 the eyes. Walking legs and pincers long. May be brown or green. Slow
 moving.  

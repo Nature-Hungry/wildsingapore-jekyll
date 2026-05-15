@@ -72,6 +72,33 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407084428713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
+links_references: |
+  **Links**  
+  - [Deepbody
+    Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304.htm) (*Gerres abbreviatus*) and [Slender
+    Mojarra/Silver-biddy (*Gerres oyena*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305.htm) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Gerreidae (Mojarras)](http://www.fishbase.org/Summary/FamilySummary.php?ID=326) and [*Gerres
+    erythrourus* (Deep-bodied mojarra)](http://www.fishbase.org/summary/5800) and [*Gerres
+    filamentosus* (Whipfin silver-biddy)](http://www.fishbase.org/summary/4463) and [*Gerres
+    oyena* (Common silver-biddy)](http://www.fishbase.org/summary/5996) and [*Gerres
+    limbatus* (Saddleback silver-biddy)](http://www.fishbase.org/summary/14295) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -81,7 +108,8 @@ reefs and rubble. Sometimes in groups of many small individuals with small fishe
 bellies, they belong to Family Gerridae (some place them in the Family
 Ambassidae). According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=326):
 The family Gerreidae has 8 genera and 40 species. They are found in
-most tropical seas. The Common mojarra is the most commonly seen of the family on the intertidal. **Features:** Those seen about 5-10cm, can grow to 25cm. Body slender,
+most tropical seas. The Common mojarra is the most commonly seen of the family on the intertidal. ## Features
+ Those seen about 5-10cm, can grow to 25cm. Body slender,
 long and silvery. Head with scales but with a smooth upper surface. The tail fin is
 deeply forked. Dorsal fin single with long and blackish tip and not deeply notched.
 Juveniles have
@@ -161,35 +189,7 @@ silver-biddy) *Gerres punctatus=\*Gerres filamentosus*
 
 ---
 
-**Links**  
 
-- [Deepbody
-  Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304.htm) (*Gerres abbreviatus*) and [Slender
-  Mojarra/Silver-biddy (*Gerres oyena*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Gerreidae (Mojarras)](http://www.fishbase.org/Summary/FamilySummary.php?ID=326) and [*Gerres
-  erythrourus* (Deep-bodied mojarra)](http://www.fishbase.org/summary/5800) and [*Gerres
-  filamentosus* (Whipfin silver-biddy)](http://www.fishbase.org/summary/4463) and [*Gerres
-  oyena* (Common silver-biddy)](http://www.fishbase.org/summary/5996) and [*Gerres
-  limbatus* (Saddleback silver-biddy)](http://www.fishbase.org/summary/14295) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

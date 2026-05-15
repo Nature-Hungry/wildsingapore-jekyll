@@ -36,6 +36,26 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Solenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Solenacea.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - Family Solenidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 if you
@@ -121,28 +141,7 @@ Solen vagina*
 
 ---
 
-**Links**
 
-- [Family
-  Solenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Solenacea.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- Family Solenidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

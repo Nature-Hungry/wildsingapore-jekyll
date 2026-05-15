@@ -67,6 +67,14 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg
+links_references: |
+  **Links**
+  - [Sapodilla
+    (*Manilkara zapota*)](http://www.hort.purdue.edu/newcrop/morton/sapodillal) New Crop Resource Online Program
+    at Purdue University.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -77,7 +85,8 @@ It is a native of tropical America and is believed to have been first
 brought by the Spaniards to the Philippines. It was previously known
 as *Achras zapota*.   
   
- **Features:** A small tree (to about
+ ## Features
+ A small tree (to about
 10m). Leaves oval with pointed tips (6-15cm long) arranged in a spiral
 at the branch tips. Flowers small, white with brownish or greyish
 woolly calyx. The fruit is oval or round (6-7cm). The sweet flesh
@@ -102,16 +111,7 @@ of the mouth'. It has since been replaced by synthetic gums.
 
 ---
 
-**Links**
 
-- [Sapodilla
-  (*Manilkara zapota*)](http://www.hort.purdue.edu/newcrop/morton/sapodillal) New Crop Resource Online Program
-  at Purdue University.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

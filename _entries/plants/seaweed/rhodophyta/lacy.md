@@ -85,6 +85,11 @@ page_images:
   caption: |
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
+links_references: |
+  **Links**
+  - [*Martensia
+    elegans*](http://www.algaebase.org/search/species/detail/?species_id=3272) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
 ---
 
 ## Where seen?
@@ -92,7 +97,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/
 This odd seaweed is sometimes seen on some of our Southern shores,
 in small clumps of a few blades, attached to coral rubble near reefs.  
   
-**Features:** Cluster of a few circular
+## Features
+ Cluster of a few circular
 fan-shaped blades about 5-8cm across, smooth and solid, unperforated at the base, a
 lacy net-like mesh at the outer edges which are often ruffled.
 Sometimes, with little balls attached to the lacy surface. Young blades mostly solid and not lacy. Colours
@@ -153,11 +159,6 @@ elegans*
 
 ---
 
-**Links**
-
-- [*Martensia
-  elegans*](http://www.algaebase.org/search/species/detail/?species_id=3272) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
 
 **References**.  
 

@@ -108,6 +108,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
+links_references: |
+  **Links**
+  - [*Ficus
+    microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Ng, Angie
+    et. al. 2005. *A guide to the fabulous figs of Singapore*.
+    Singapore Science Centre.152 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -121,7 +132,8 @@ limestone hills but in Malaya it was mostly found along tidal river
 banks. Here, the trees form 'an impassable thicket' in the back mangroves.
 Sometimes confused with *Ficus benjamina* and *Ficus retusa*.  
   
- **Features:** A strangling fig that
+ ## Features
+ A strangling fig that
 can grow into enormous trees. Young saplings often grow in cracks
 in old drains and walls and on delapidated buildings. They can grow
 into large trees with stout prop roots and a curtain of slender aerial
@@ -171,19 +183,7 @@ Birds in a figging Jejawi
 
 ---
 
-**Links**
 
-- [*Ficus
-  microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Ng, Angie
-  et. al. 2005. *A guide to the fabulous figs of Singapore*.
-  Singapore Science Centre.152 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [links](../../../links) |
 [references](../../../references)

@@ -71,6 +71,35 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171059945/">his flickr</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [*Uca
+    annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Porcelain
+    fiddler (*Uca annulipes*)](http://mangrove.nus.edu.sg/guidebooks/text/2053) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Uca
+    annulipes*](http://www.fiddlercrab.info/u_annulipesl) on the www.fiddlercrab.info website: photos,
+    info, links and references.
+  - [*Uca
+    annulipes*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1770) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -78,7 +107,8 @@ coverimg: ../../../../Templates/fornatureguides.gif
 is sometimes seen on some of our shores. Sandy, silty shores near
 the low water mark, often near mangroves. It was previously known as *Uca annulipes*.  
   
-**Features:** Body width 1.5-2cm.
+## Features
+ Body width 1.5-2cm.
 Body squarish. The male fiddler crab's enlarged pincer almost twice
 as long as the body width. The enlarged pincer's outer palm is smooth
 and does not have a triangular depression. The movable upper finger
@@ -131,37 +161,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Uca
-  annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Porcelain
-  fiddler (*Uca annulipes*)](http://mangrove.nus.edu.sg/guidebooks/text/2053) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Uca
-  annulipes*](http://www.fiddlercrab.info/u_annulipesl) on the www.fiddlercrab.info website: photos,
-  info, links and references.
-- [*Uca
-  annulipes*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1770) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

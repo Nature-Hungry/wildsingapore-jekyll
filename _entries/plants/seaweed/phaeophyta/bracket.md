@@ -48,6 +48,33 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
+links_references: |
+  **Links**
+  - [*Lobophora
+    variegata*](http://www.algaebase.org/search/species/detail/?species_id=27002) on
+    [AlgaeBase](http://www.algaebase.org/): Technical fact
+    sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - A. C. Lee, Lawrence M. Liao and
+    K. S. Tan. [New records
+    of marine algae on artificial structures and intertidal flats
+    in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf). Pp. 5-40. in the Raffles Bulletin of Zoology.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -56,7 +83,8 @@ Forming flat, fan-shaped clusters encrusting hard surfaces. Some resemble
 terrestrial bracket fungi or fish scales. They are sometimes seen
 on our Southern shores, growing on coral rubble near reefs.  
   
-**Features:** Thin, flat stiff leathery
+## Features
+ Thin, flat stiff leathery
 disks about 2-4cm in diameter, growing in clusters. Only the central
 portion is attached to the hard surface, the edges are free. Forming
 disks sometimes with a cleft or notch becoming fan-shaped to kidney-shaped.
@@ -111,35 +139,7 @@ variegata*
 
 ---
 
-**Links**
 
-- [*Lobophora
-  variegata*](http://www.algaebase.org/search/species/detail/?species_id=27002) on
-  [AlgaeBase](http://www.algaebase.org/): Technical fact
-  sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- A. C. Lee, Lawrence M. Liao and
-  K. S. Tan. [New records
-  of marine algae on artificial structures and intertidal flats
-  in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf). Pp. 5-40. in the Raffles Bulletin of Zoology.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

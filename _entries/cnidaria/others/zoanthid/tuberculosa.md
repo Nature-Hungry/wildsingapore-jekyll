@@ -120,7 +120,8 @@ of animals is commonly seen on our Southern shores. It is often
 found in areas where waves crash onto the rocks in shallow waters.
 When the animals find a happy spot, the colony can cover a large area.  
   
-**Features:** Colony 20-40cm, each
+## Features
+ Colony 20-40cm, each
 polyp about 1-2cm in diameter embedded in a common tissue. The polyp
 has a thick and short body column, topped by a wide oral disk edged
 with tentacles in two rows. When the polyps are expanded, their oral

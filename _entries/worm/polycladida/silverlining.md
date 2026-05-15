@@ -38,7 +38,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/1
 ## Where seen?
  This black flatworm like a storm cloud with a silver lining is sometimes seen on reefs in our Southern shores.  
   
-**Features:** 5-8cm long. Body black with inner
+## Features
+ 5-8cm long. Body black with inner
 broad white margin and a yellow rim.
 
  

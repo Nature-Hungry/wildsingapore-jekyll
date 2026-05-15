@@ -71,11 +71,32 @@ page_images:
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655944682/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: with discussions of [the
+    blue sponge that Jorunna funebris eats](http://www.seaslugforum.net/display.cfm?id=6646).
+  - [*Neopterosia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166798)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
 ---
 
 ## Where seen?
  This bright blue sponge is sometimes seen on some of our shores. On
-coral rubble. **Features:** About 6-10cm sometimes larger. Is generally encrusting,
+coral rubble. ## Features
+ About 6-10cm sometimes larger. Is generally encrusting,
 with small (5cm in diameter) knobs and bumps all over. Each knob or
 lump has a large hole at the tip with a narrow membraneous lip, seen
 when the sponge is submerged. Texture somewhat rough. Usually electric
@@ -131,28 +152,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: with discussions of [the
-  blue sponge that Jorunna funebris eats](http://www.seaslugforum.net/display.cfm?id=6646).
-- [*Neopterosia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166798)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
 
 [links](../links.htm)
 | [references](../references.htm)

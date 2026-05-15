@@ -97,7 +97,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/rin
  This boulder-shaped hard coral with small circular corallites are
 often seen on many of our shores.  
   
-**Features:** Colonies seen 10-15cm,
+## Features
+ Colonies seen 10-15cm,
 sometimes larger. The colony is generally a smooth boulder shape.
 The corallites have separate walls, are generally circular and packed
 closely to one another. The result is a regular pattern of small O-shapes.

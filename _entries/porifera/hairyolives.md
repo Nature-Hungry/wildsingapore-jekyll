@@ -62,6 +62,17 @@ page_images:
   caption: |
     <p>Terumbu Berkas, May 10</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
+links_references: |
+  **Links**
+  - [*Stelletta
+    clavosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106052)
+    on SeaLife Base: technical fact sheet.
+  - [*Stelletta
+    clavosa*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169915) on the World Porifera Database.
+  **References**
+  - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
@@ -69,7 +80,8 @@ coverimg: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brk
 filaments are sometimes seen sprinkled on coral rubble or even stuck on
 other sponges. This sponge is highly tolerant of silt and can be found
 on most reefs.  
- **Features:** About 2cm in diameter, spherical covered with
+ ## Features
+ About 2cm in diameter, spherical covered with
 short, fine spines. May be slightly flattened at the top. There is
 a single large hole at the top. Called the oscule, this is where water
 is expelled from the tiny sponge. Colour usually dull olive green,
@@ -122,19 +134,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Stelletta
-  clavosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106052)
-  on SeaLife Base: technical fact sheet.
-- [*Stelletta
-  clavosa*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169915) on the World Porifera Database.
-
-**References**
-
-- Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

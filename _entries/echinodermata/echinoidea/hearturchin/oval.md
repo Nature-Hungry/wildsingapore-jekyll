@@ -137,7 +137,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/heartu
 only at night. They are usually buried in the sand. In seagrass meadows near reefs, also under stones
 in submerged reefs.  
   
-**Features:** 8-10cm long. Body oval
+## Features
+ 8-10cm long. Body oval
 egg-shaped, without a deep groove in the front. A large petaloid that
 can be seen even in living animals, with plain (unbanded) medium length
 to short spines densely covering the body.

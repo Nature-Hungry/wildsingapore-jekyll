@@ -52,6 +52,23 @@ page_images:
     <p>Fruit on very short stalk, almost stuck to the branch.</p>
     <p>Sungei Buloh Wetland Reserve, Mar 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3.jpg
+links_references: |
+  **Links**
+  - [*Rhizophora
+    apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [*Rhizophora apiculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clione%20limacinal) (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
+  - [Bakau
+    minyak (*Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
 ## Where seen?
@@ -66,7 +83,8 @@ and Bajau. It was formerly known as *R. conjugata*. It is also
 known as 'Bakau putih' (white Bakau) and 'Bakau tandok' (horned Bakau).
   
   
-**Features:** Tree 20-30m tall. Bark
+## Features
+ Tree 20-30m tall. Bark
 dark grey and chequered. Conspicuous arching stilt roots that can
 extend 5m up the stem. Often also with lots of aerial roots emerging
 from the branches so that the tree appears to have a skirt of roots
@@ -121,23 +139,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
-
-- [*Rhizophora
-  apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [*Rhizophora apiculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clione%20limacinal) (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
-- [Bakau
-  minyak (*Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
 
 **Other
 references**

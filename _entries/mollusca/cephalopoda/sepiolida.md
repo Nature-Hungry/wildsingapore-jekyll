@@ -84,6 +84,36 @@ page_images:
   caption: |
     <p>Tanah Merah, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Sepiolidae](http://www.sealifebase.fisheries.ubc.ca/Summary/FamilySummary.php?ID=1899) on SeaLife Base: Technical fact sheets for [Mimika
+    bobtail squid (*Euprymna morsei*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886), [Butterfly
+    bobtail (*Sepiola birostrata*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725) and *[Sepiola
+    trirostrata](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57910)*
+  - Family
+    Sepiolidae in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
+    A World Guide*.
+    ConchBooks, Germany. 319 pp
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
 ---
 
 ## Where seen?
@@ -95,7 +125,8 @@ like snails, slugs and clams; and [cephalopods](../cephalopoda.htm) (Class Cepha
 They belong to the Suborder Sepiolida. Bobtail squids belong to the
 Family Sepiolidae while Bottletail squids belong to the Family Sepiadariidae.  
   
-**Features:** 2-4cm. These squids
+## Features
+ 2-4cm. These squids
 are generally rather spherical with a pair of rounded fins that make
 them look a little like an aquatic version of Dumbo the Flying Elephant!
 These squids can only be positively identified by examining the arm
@@ -181,38 +212,7 @@ Sepiola trirostrata*
 
 ---
 
-**Links**
 
-- [Family
-  Sepiolidae](http://www.sealifebase.fisheries.ubc.ca/Summary/FamilySummary.php?ID=1899) on SeaLife Base: Technical fact sheets for [Mimika
-  bobtail squid (*Euprymna morsei*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886), [Butterfly
-  bobtail (*Sepiola birostrata*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725) and *[Sepiola
-  trirostrata](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57910)*
-- Family
-  Sepiolidae in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
 
 [links](../../links.htm)
 | [references](../../references.htm)

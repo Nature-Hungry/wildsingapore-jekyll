@@ -61,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/e
  These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucumbers and sea
 urchins.  
   
-**Features:** 0.1-0.5cm. Long
+## Features
+ 0.1-0.5cm. Long
 conical shell, usually white some have brownish patterns. When not attached to a host, they may float on the water
 surface, often forming 'rafts' sticking to one another.
 

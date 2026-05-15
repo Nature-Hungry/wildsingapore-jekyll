@@ -117,7 +117,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/s
 seen on sandy areas near reefs on some of our Southern shores. It
 is also known as Gualtieri's moon snail.  
   
-**Features:** 2-3cm. Shell smooth thick spherical
+## Features
+ 2-3cm. Shell smooth thick spherical
 (not flat) with the spiral tip sticking out. Shell pattern beige, grey or
 orange sometimes with broad darker bands overlaid with many thin dark bands. On
 the underside, a small comma-shaped depression. Operculum pearly white with a dark smudge where the whorl starts, smooth (no grooves).

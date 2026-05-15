@@ -66,6 +66,21 @@ page_images:
   caption: |
     <p>Changi, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10160711617693158&set=a.10160711621108158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. With technical descriptions and
+    photos of *[Peronella](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=792)*.
+  - [*Peronella
+    lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuril) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -76,7 +91,8 @@ According to
 Lane, this is an uncommon species that was only found south of the
 mainland. But we have yet to find this on the intertidal in the South.  
   
-**Features:** Body diameter 6-8cm.
+## Features
+ Body diameter 6-8cm.
 Circular to oval, bright pink, the petalloid is obvious even in living
 specimens. The centre of upperside is slightly raised.
 
@@ -108,23 +124,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. With technical descriptions and
-  photos of *[Peronella](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=792)*.
-- [*Peronella
-  lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuril) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
 
 [links](../../../links)
 | [references](../../../references)

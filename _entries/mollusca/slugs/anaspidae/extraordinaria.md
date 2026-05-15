@@ -94,6 +94,28 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Aplysia
+    extraordinaria](http://www.seaslugforum.net/find/aplyextr)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -101,7 +123,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extrao
 our Southern shores, among seagrasses near reefs. Sometimes, half buried in soft sediments. Elsewhere, it is
 considered common.  
   
-**Features:** 8-10cm, elsewhere it
+## Features
+ 8-10cm, elsewhere it
 can grow to 40cm long! Body large, fleshy and smooth, various shades
 of brown with small white spots. The inner surface of the 'wings'
 (called parapodia) dark with a pattern of irregular white blotchy
@@ -171,30 +194,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: photos and fact sheet on *[Aplysia
-  extraordinaria](http://www.seaslugforum.net/find/aplyextr)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

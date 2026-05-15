@@ -90,7 +90,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/spoke/05050
 our shores, on silty sandy shores, such as inside sheltered swimming
 lagoons. It is shy and retracts rapidly into the sand when alarmed.  
   
-**Features:** Tentacles few (about 16) held straight and flat against the ground,
+## Features
+ Tentacles few (about 16) held straight and flat against the ground,
 resembling spokes of a wheel. One ring of shorter tentacles (about
 2cm diameter) and another ring much longer (about 3-5cm diameter).
 Each transparent tentacle (both long and short ones) with fine

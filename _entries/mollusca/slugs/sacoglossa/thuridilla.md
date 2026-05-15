@@ -50,6 +50,20 @@ page_images:
   caption: |
     <p>Pulau Jong, Jan 23Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10159413147171295&set=a.10159413154211295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
+links_references: |
+  **Links**
+  - [*Thuridilla
+    gracilis*](http://www.seaslugforum.net/find/thurgrac)
+    on [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman: photos and fact sheets.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Kathe
+    R. Jensen. 30 Dec 2009. *Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
 ---
 
 ## Where seen?
@@ -57,7 +71,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuri
 is sometimes seen on the intertidal near reefs on our Southern shores.
 Some consider *Thuridilla gracilis* and *Thuridilla ratna* to be the same species.   
   
-**Features:** 1-2cm.
+## Features
+ 1-2cm.
 Body long, slender, with a pair of very short 'wings' (called parapodia).
 Dark to black with very thin white stripes along the body and a thin
 orange edge on the short 'wings'. It has two long tentacles with orange
@@ -120,22 +135,7 @@ Thuridilla ratna*
 
 ---
 
-**Links**
 
-- [*Thuridilla
-  gracilis*](http://www.seaslugforum.net/find/thurgrac)
-  on [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: photos and fact sheets.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Kathe
-  R. Jensen. 30 Dec 2009. *Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

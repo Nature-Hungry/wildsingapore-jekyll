@@ -61,13 +61,31 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972839228713&set=a.10159972857263713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
+links_references: |
+  **Links**
+  - [*Briareum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Briareum)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  - [*Briareum
+    stechei*](https://www.sealifebase.se/summary/Briareum-stechei.html) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
  This colony of tiny animals is seen on our Southern shores, but is often overlooked. The colony grows on stones
 and hard surfaces, including litter on the shores! *Briareum stechei* might be the accepted current name.  
   
-**Features:** Colony about 10-15cm,
+## Features
+ Colony about 10-15cm,
 sometimes much larger. Polyps about 1cm in diameter, on stalks about
 1cm long emerging from low to tubular mounds (calyces). The eight
 skinny tentacles have short thin brown branches in 1 row on both sides
@@ -123,25 +141,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Briareum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Briareum)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-- [*Briareum
-  stechei*](https://www.sealifebase.se/summary/Briareum-stechei.html) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

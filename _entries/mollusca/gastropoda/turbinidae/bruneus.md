@@ -48,13 +48,45 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158004673/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+links_references: |
+  **Links**
+  - [Dwarf
+    Turban Shell (*Turbo brunneus*)](http://mangrove.nus.edu.sg/pub/seashore/text/133.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Brown
+    Pacific turban (*Turbo bruneus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86825) in
+    SeaLife Base: Technical fact sheet.
+  - Brown Pacific
+    turban (*Turbo bruneus*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Cedric Kai Wei Tan. 19 November 2009. *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*. Nature in Singapore 2009 2: 421–429.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  This large turban snail is sometimes seen on our
 rocky shores. It is also sometimes called the Brown turban snail and
 the scientific name is sometimes spelt as *Turbo brunneus*.  
- **Features:** 3-5cm. Shell thick with
+ ## Features
+ 3-5cm. Shell thick with
 spiral cords made up of tiny scales which feel rough. Chalky operculum
 is hemi-spherical with many tiny bumps, dark green with greyish and
 white margins. Body with brown mottles, a pair of slender tentacles.  
@@ -104,39 +136,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity
 Research for identifying this snail.  
   
-**Links**
 
-- [Dwarf
-  Turban Shell (*Turbo brunneus*)](http://mangrove.nus.edu.sg/pub/seashore/text/133.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Brown
-  Pacific turban (*Turbo bruneus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86825) in
-  SeaLife Base: Technical fact sheet.
-- Brown Pacific
-  turban (*Turbo bruneus*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Cedric Kai Wei Tan. 19 November 2009. *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*. Nature in Singapore 2009 2: 421–429.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

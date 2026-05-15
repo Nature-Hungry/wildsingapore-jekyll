@@ -50,6 +50,16 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827012330675964&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
+links_references: |
+  **Links**
+  - [*Chondrilla
+    australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170360)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
@@ -58,7 +68,8 @@ rubbery sheet is commonly seen on our Northern shores, coating rocks
 and stones near the mid-water mark. People often carelessly step on
 them, not realising that they are animals.  
   
-**Features:** Thin layer encrusting
+## Features
+ Thin layer encrusting
 small areas 15cm sometimes large areas 1m or more. Texture smooth
 rubbery glossy. They coat coral rubble, stones and boulders, as well
 as artificial walls and structures. Tiny holes (0.1cm) with a membranous
@@ -111,18 +122,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Chondrilla
-  australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170360)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

@@ -98,13 +98,20 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
+links_references: |
+  **Links**
+  - [*Alicia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Alicia%20Johnson%2C%201861)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
 ---
 
 ## Where seen?
  This strange anemone is sometimes seen on some of
 our shores, among seagrasses, rubble and reefs. Usually only one is seen.  
   
-**Features:** Those seen were 2-10cm. Out of water, it is just a blob. But when submerged, it expands into
+## Features
+ Those seen were 2-10cm. Out of water, it is just a blob. But when submerged, it expands into
 a beautiful animal. It has long elegant translucent tentacles emerging from a long translucent body column. The tentacles are dotted with small bumps which are probably batteries of stingers. The body column is studded with clusters of large colourful bumps that look like cauliflowers. These are probably also batteries of stingers.   
   
 **Powerful Stinger:** Some Alicia anemones
@@ -178,12 +185,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [*Alicia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Alicia%20Johnson%2C%201861)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
 
 **Reference**
 

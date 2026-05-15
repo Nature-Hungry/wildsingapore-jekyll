@@ -61,6 +61,27 @@ page_images:
     <p>Cyrene Reef, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153833643184000.1073741985.589418999&type=3">facebook</a>.</p>
     <p>Berlayar Creek, Nov 2020</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062) Ng, Peter
+    K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Hermit
+    Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -79,7 +100,8 @@ of our shores, on silty or sandy areas and among seagrasses. Sometimes
 in groups of many individuals, even when the tide is not very low.
 Many but not all of these hermit crabs may be *Diogenes* sp.  
   
-**Features:** Body about 1-2cm long.
+## Features
+ Body about 1-2cm long.
 Body and limbs not very hairy. Colour grey, brown or white without
 obvious markings. The left pincer is usually much larger than the
 right.
@@ -121,29 +143,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mangrove
-  hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062) Ng, Peter
-  K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

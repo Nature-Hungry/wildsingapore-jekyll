@@ -146,7 +146,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/ne
 fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Northern
 shores.   
   
-**Features:** 2-3cm. Shell thin
+## Features
+ 2-3cm. Shell thin
 and pointed at the ends. Shell colour peach or orange with white margins near the shell opening and white bars across the shell. Body white with maroon margin or all maroon, tentacles banded white and maroon. The mantle is maroon with yellow protruding bumps arising from white circles. The white circles may merge, forming bands across the body. The mantle is also sprinkled with darker maroon spots.  
   
 Similar looking spindle cowrie species include *Phenacovolva rosea.*

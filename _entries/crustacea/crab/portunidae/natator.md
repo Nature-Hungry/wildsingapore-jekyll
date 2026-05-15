@@ -77,13 +77,44 @@ page_images:
   caption: |
     <p>Cyrene, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159405838038158&set=a.10159405840358158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
+links_references: |
+     **Links**
+  - [Swimming
+    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Family
+    Portunidae in
+    the Crabs section by Peter K. L. Ng in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
+    the Food and Agriculture Organization of the United Nations
+    (FAO) website.
+  - [Ridged
+    swimming crab (*Charybdis natator*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=83562) on [SeaLifeBase](http://www.sealifebase.org/):
+    technical fact sheet.
+  - [*Charybdis
+    natator*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1126) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  This swimming crab is not often encountered, under
 stones on sandy shores.  
   
-**Features:** Body width 5-7cm, to
+## Features
+ Body width 5-7cm, to
 17cm. Body somewhat fan-shaped with 6 spines on the sides. The eyes
 not very far apart. Between the eyes there are 8 small rounded lobes.
 Last pair of legs are paddle-shaped and rotate like boat propellers,
@@ -141,38 +172,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-   **Links**
 
-- [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Family
-  Portunidae in
-  the Crabs section by Peter K. L. Ng in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
-  the Food and Agriculture Organization of the United Nations
-  (FAO) website.
-- [Ridged
-  swimming crab (*Charybdis natator*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=83562) on [SeaLifeBase](http://www.sealifebase.org/):
-  technical fact sheet.
-- [*Charybdis
-  natator*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1126) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

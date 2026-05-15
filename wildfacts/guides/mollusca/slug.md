@@ -62,7 +62,8 @@ slugs are found further down where it is almost always covered in
 water. Some are burrowing and many are found on or near their food.
 Some sea slugs are stunningly beautiful, among them, nudibranchs.   
   
-**Features:** Sea
+## Features
+ Sea
 slugs range from large sea hares of 10cm to tiny nudibranchs 1cm or
 less. Sea slugs generally lack large external shells. Some many have
 external shells but cannot fully retract their bodies into these shells

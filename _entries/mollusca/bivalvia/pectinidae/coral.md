@@ -57,13 +57,39 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749232887/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+links_references: |
+  **Links**
+  - [*Pedum
+    spondyloideum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103724)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Patrick Scaps. *Associations between the Scallop Pedum spondyloideum (Bivalvia, Pteriomorphia, Pectinidae) and Hard Corals on the West Coast of Thailand.* March 21, 2011. Zoological Studies 50(4): 466-474 (2011).
+  - Patrick Scaps and Vianney Denis. 31 Aug 2007. *Association between the scallop, Pedum spondyloideum, (Bivalvia: Pteriomorphia: Pectinidae) and scleractinian corals from the Wakatobi Marine National Park (Southeastern Sulawesi, Indonesia)*. Raffles Bulletin of Zoology 55(2):Pp 371-380 .
+  - Coleman,
+    Neville. 2003. *2002
+    Sea Shells: Catalogue of Indo-Pacific Mollusca*
+    Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This little clam is often seen embedded in living hard corals
 on many of our Southern shores. Sometimes, one coral colony can host many of these tiny clams. It is also called the Iridescent clam, probably because of its sometimes colourful and iridescent mantle?  
   
-**Features:** Diameter 1-1.5cm. A
+## Features
+ Diameter 1-1.5cm. A
 circular two-part shell, thin. In some the shell is covered with encrusting
 fluff, in others, a pattern of spots may be seen. When submerged, a fringe of tiny tentacles emerge with many tiny, well developed eyes along the
 mantle edge.
@@ -120,33 +146,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Pedum
-  spondyloideum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103724)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Patrick Scaps. *Associations between the Scallop Pedum spondyloideum (Bivalvia, Pteriomorphia, Pectinidae) and Hard Corals on the West Coast of Thailand.* March 21, 2011. Zoological Studies 50(4): 466-474 (2011).
-- Patrick Scaps and Vianney Denis. 31 Aug 2007. *Association between the scallop, Pedum spondyloideum, (Bivalvia: Pteriomorphia: Pectinidae) and scleractinian corals from the Wakatobi Marine National Park (Southeastern Sulawesi, Indonesia)*. Raffles Bulletin of Zoology 55(2):Pp 371-380 .
-- Coleman,
-  Neville. 2003. *2002
-  Sea Shells: Catalogue of Indo-Pacific Mollusca*
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

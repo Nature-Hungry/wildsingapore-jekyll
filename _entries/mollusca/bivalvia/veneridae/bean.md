@@ -52,7 +52,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bea
  This pretty clam that with striking lines patterns
 is sometimes seen on our Northern shores, on sandy areas near seagrasses.  
   
-**Features:** 3-4cm. Shell thick,
+## Features
+ 3-4cm. Shell thick,
 relatively smooth, oval, longer than broad and somewhat bean-shaped.
 Often with a pattern of fine V-shapes. Some *Paphia* species
 have this shape, but other venus clams species may also have this

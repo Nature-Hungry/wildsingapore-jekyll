@@ -70,6 +70,16 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg
+links_references: |
+  **Links**
+  - *[Theobroma
+    cacao](http://floraofsingapore.wordpress.com/2010/08/23/theobroma-cacao/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Theobroma
+    cacao*](http://www.hort.purdue.edu/newcrop/duke_energy/Theobroma_cacaol) New Crop Resource Online Program at Purdue University
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -78,7 +88,8 @@ in Singapore. There are several trees on Pulau Ubin, that often carry
 large fruits. According to Hsuan Keng, they were cultivated in Singapore
 in small plantations.  
   
- **Features:** A tall 'bushy' tree
+ ## Features
+ A tall 'bushy' tree
 (4-8m), with large leaves. The tiny flowers emerge from the trunk
 and thicker branches. Few of the hundreds of flowers set into fruits.
 Corners attributed this to the lack of pollinators. The large fruit
@@ -98,18 +109,7 @@ seen in villages.
 
 ---
 
-**Links**
 
-- *[Theobroma
-  cacao](http://floraofsingapore.wordpress.com/2010/08/23/theobroma-cacao/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Theobroma
-  cacao*](http://www.hort.purdue.edu/newcrop/duke_energy/Theobroma_cacaol) New Crop Resource Online Program at Purdue University
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -82,6 +82,33 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162930972213119&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg
+links_references: |
+  **Links**
+  - [Order
+    Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Gonodactylus
+    chiragra*](http://www.sealifebase.ca/summary/Gonodactylus-chiragral) on SeaLife Base.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -91,7 +118,8 @@ at night, it zooms around rapidly and is hard to photograph. Elsewhere it is fou
 zone in reef flats under rocks and boulder, or inside coral and rock
 crevices. It moves actively between coral heads hunting for prey. It was previously known as *Gonodactylus chiragra*.  
   
-**Features:** 5-7cm long, up to 10.5cm
+## Features
+ 5-7cm long, up to 10.5cm
 long. Body long, cylindrical, plain with lines of white spots on the
 narrow tail. Males
 are dark green while females are whitish green. The huge front pincers are modified
@@ -158,35 +186,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Order
-  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Gonodactylus
-  chiragra*](http://www.sealifebase.ca/summary/Gonodactylus-chiragral) on SeaLife Base.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

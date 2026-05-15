@@ -64,7 +64,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
 seen on some of our shores near reefs, rocky shores and even artificial
 seawalls.   
   
-**Features:** Body about 1-1.5cm long,
+## Features
+ Body about 1-1.5cm long,
 body with bold black bars and two large bright pink spots or bars
 on the sides near the eyes. Right pincer usually larger than the left,
 darker at the claws. Legs sparsely hairy, with longer black bars in

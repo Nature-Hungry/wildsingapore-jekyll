@@ -37,13 +37,25 @@ page_images:
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Chaetopteridae">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridael) by Lim Yun Ping 1997-2000 [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
+    Research website: fact sheet and photos of sabellids found in
+    Singapore.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
   This worm is commonly seen on sand bars at the low water mark. The
 tubes resemble drinking straws.   
   
-**Features:** The tubes are medium, about 0.5cm in diameter, similar in dimension
+## Features
+ The tubes are medium, about 0.5cm in diameter, similar in dimension
 to a typical drinking straw. Often found in large numbers covering
 large areas, the tubes usually regularly separated from one another
 (not tightly clustered).  
@@ -80,17 +92,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Family
-  Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridael) by Lim Yun Ping 1997-2000 [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
-  Research website: fact sheet and photos of sabellids found in
-  Singapore.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.

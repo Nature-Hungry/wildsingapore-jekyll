@@ -34,6 +34,23 @@ page_images:
     <p>What does it eat?</p>
     <p>It eats sponges, ascidians and filamentous algae.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+links_references: |
+   **Links**  
+  - [Yellowtail
+    or Vermiculated angelfish (*Chaetodontoplus mesoleucus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334.htm)
+    Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - *[Chaetodontoplus mesoleucus](http://www.iucnredlist.org/details/165884/0)* from the IUCN Red List.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -41,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/
 sometimes seen in fish traps. The adults
 are found solitary or in pairs, in silty reefs and sheltered lagoons.  
   
-**Features:** To about 18cm. Body
+## Features
+ To about 18cm. Body
 oval with yellow tail, blackish, purplish brown rear portion and dorsal
 and anal fins, and a black bar on the head over the eyes. Large spine
 on the gill cover. Juveniles are bluish-black with white and blue
@@ -64,25 +82,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
- **Links**  
 
-- [Yellowtail
-  or Vermiculated angelfish (*Chaetodontoplus mesoleucus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334.htm)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- *[Chaetodontoplus mesoleucus](http://www.iucnredlist.org/details/165884/0)* from the IUCN Red List.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

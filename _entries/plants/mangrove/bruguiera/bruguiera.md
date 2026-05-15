@@ -80,6 +80,41 @@ page_images:
   caption: |
     <p>Sepals clasp the propagule.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg
+links_references: |
+  **Links**
+  - [Bakau
+    putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053), [Tumu
+    (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054), [Lenggadai
+    (*Bruguiera parviflora*)](http://mangrove.nus.edu.sg/guidebooks/text/1055) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - [*Bruguiera
+    cylindrica*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3264) and [*Bruguiera
+    gymnorhiza*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3260) and *[Bruguiera
+    hainesii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4002)* and [*Bruguiera
+    parviflora*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6265) and [*Bruguiera
+    sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  **References**
+  - Chiou-Rong
+    Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
+    Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
+    Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
+    50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
+    Research website).
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -87,7 +122,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymno
 (*Bruguiera cylindrica*) is one of the most commonly seen trees
 in our mangroves, others are less common, and some are quite rare.  
   
-**Features:** A tree generally with
+## Features
+ A tree generally with
 knee roots, sometimes without. Leaves eye-shaped, shiny green and
 stiff, lacking the tiny black spots on the underside that is typical
 of *[Rhizophora](../rhizophora/rhizophora)*. Flowers
@@ -162,43 +198,7 @@ berau**
 
 ---
 
-**Links**
 
-- [Bakau
-  putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053), [Tumu
-  (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054), [Lenggadai
-  (*Bruguiera parviflora*)](http://mangrove.nus.edu.sg/guidebooks/text/1055) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- [*Bruguiera
-  cylindrica*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3264) and [*Bruguiera
-  gymnorhiza*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3260) and *[Bruguiera
-  hainesii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4002)* and [*Bruguiera
-  parviflora*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6265) and [*Bruguiera
-  sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-
-**References**
-
-- Chiou-Rong
-  Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
-  Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
-  Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
-  50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
-  Research website).
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

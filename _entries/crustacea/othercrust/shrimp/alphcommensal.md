@@ -46,7 +46,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alp
 tiny snapping shrimp is often found under stones and inside sponges.
 Often found in pairs.   
   
-**Features:** Body 1-2cm long. Usually translucent pale with tiny dark spots.  
+## Features
+ Body 1-2cm long. Usually translucent pale with tiny dark spots.  
   
 [White snapping shrimps](alphballsoft) are also often
 seen in ball soft corals.

@@ -48,13 +48,35 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+links_references: |
+  **Links**
+  - [Ghost
+    Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
+    ceratophthalmus* and *Ocypode cordimana* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Ocypode
+    cordimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1757) Crabs of Japan, on Marine Species Identification
+    Portal: Technical fact sheet.
+  - [*Ocypode
+    cordimanus*](http://www.sealifebase.org/summary/speciessummary.php?id=92211) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  This crab is seldom seen, usually on the higher shore.
 It was previously also called *Ocypode cordimana*.  
   
-**Features:** Body width about 5cm.
+## Features
+ Body width about 5cm.
 Body squarish box-like. Pale greyish blue without dark markings on
 the back of the body. Pincers long, downward pointing. It lacks ridges
 on the inside of the 'palm'. Legs long with pointed tips. Large eyes
@@ -86,29 +108,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Ghost
-  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
-  ceratophthalmus* and *Ocypode cordimana* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Ocypode
-  cordimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1757) Crabs of Japan, on Marine Species Identification
-  Portal: Technical fact sheet.
-- [*Ocypode
-  cordimanus*](http://www.sealifebase.org/summary/speciessummary.php?id=92211) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

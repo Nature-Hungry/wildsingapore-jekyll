@@ -88,12 +88,30 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154252104998119.1073741910.696593118&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
+links_references: |
+  **Links**
+  - [Calf
+    moon snail (*Natica vitellus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86930) on SeaLife Base: Technical
+    fact sheet.
+  - Calf
+    moon snail (*Natica vitellus*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 [Preliminary
+    Checklist of The Molluscs of Singapore](https://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH%20Museum%20Books/LKCNHM%20Books/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This large moon snail is sometimes seen on our sandy Northern shores. *Vitulus* means calf in Latin.  
   
-**Features:** 3-4cm. Shell thick smooth spherical
+## Features
+ 3-4cm. Shell thick smooth spherical
 (not flat), the spiral tip hardly sticks out. Shell beige, brown or orange with
 1-3 darker spiralling bands of various widths, this is usually more
 obvious on the underside. On
@@ -148,25 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Calf
-  moon snail (*Natica vitellus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86930) on SeaLife Base: Technical
-  fact sheet.
-- Calf
-  moon snail (*Natica vitellus*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 [Preliminary
-  Checklist of The Molluscs of Singapore](https://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH%20Museum%20Books/LKCNHM%20Books/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

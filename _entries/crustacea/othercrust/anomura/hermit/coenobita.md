@@ -87,6 +87,36 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
+links_references: |
+  **Links**
+  - [Land
+    hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Hermit
+    Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Coenobita
+    violascens*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-violascensl) and [*Coenobita
+    cavipes*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-cavipesl) on SeaLife Base: Technical fact sheet with photo.
+  - [*Coenobita cavipes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Coenobita%20cavipesl) (Decapoda: Coenobitidae) Land hermit crab on Taxo4254.
+  **References**
+  - D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016. *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -105,7 +135,8 @@ the high water mark among rocks, boulders and marine debris, and even
 some distance inland among grass and under trees. But it is only active
 at night.   
   
-**Features:** Boday 3-6cm long, 1cm
+## Features
+ Boday 3-6cm long, 1cm
 wide. Left pincer usually larger than the right. Pincers and walking
 legs "squarish" thick, not very hairy. May be brownish to
 pale or dark purple. Eyes on very short flattened stalks. Short antennae
@@ -215,38 +246,7 @@ Coenobitidae**
 
 ---
 
-**Links**
 
-- [Land
-  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Coenobita
-  violascens*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-violascensl) and [*Coenobita
-  cavipes*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-cavipesl) on SeaLife Base: Technical fact sheet with photo.
-- [*Coenobita cavipes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Coenobita%20cavipesl) (Decapoda: Coenobitidae) Land hermit crab on Taxo4254.
-
-**References**
-
-- D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016. *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

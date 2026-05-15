@@ -79,6 +79,14 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
+links_references: |
+  **Links**
+  - [*Leucaena
+    leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -86,7 +94,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucoce
 is often seen on our 'wastelands' and near our shores. It was also
 known as *Leucaena glauca* and *Leucaena latisiliqua*.  
   
-**Features:** A shrub to small tree
+## Features
+ A shrub to small tree
 (to about 10m). Feathery compound leaves made up of leaflets. Puff-ball
 shaped flowers made up of pale green petals and lots of creamy white
 stamens. Thin, flat pods green and nearly transparent when young,
@@ -117,16 +126,7 @@ only be used for small objects, such as fish-traps.
 
 ---
 
-**Links**
 
-- [*Leucaena
-  leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

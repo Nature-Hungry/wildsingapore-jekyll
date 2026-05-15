@@ -42,6 +42,30 @@ page_images:
   caption: |
     <p>Tanah Merah, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6194874235/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
+links_references: |
+  **Links**  
+  - [Bearded
+    leatherjacket (*Anacanthus barbatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8178) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Anacanthus
+    barbatus*](http://www.iucnredlist.org/details/154935/0)
+    on the IUCN Red List.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+    sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
+    Guide for Fishery Purposes The Living Marine Resources of the
+    Western Central Pacific.
+  **References**
+  - Sam Shu Qin. *Bearded leatherjacket at Sentosa*. 31 July 2018. Singapore Biodiversity Records 2018: 72-73 ISSN 2345-7597. National University of Singapore.
+  - Tan Heok Hui and Lee Bee Yan. 31 October 2014. *Bearded leatherjacket from Changi*. Singapore Biodiversity Records 2014: 290
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -53,7 +77,8 @@ large stringy-type sponges, as well as mangrove roots. It
 may also float over the open bottom and may
 stand on its head. In this way, it may mimic mangrove propagules, sea pens and probably seagrass.  
   
-**Features:** To 35cm. Highly elongated
+## Features
+ To 35cm. Highly elongated
 fish with a long body flattened sideways, and a long large tail fin. It
 has an upturned mouth and a barbel under its chin that it can straighten
 out so that the fish looks like a pointed stick. Like other filefishs, it has a flap under its body but it is tiny.  
@@ -89,32 +114,7 @@ Sentosa Marina, May 2018
 
 ---
 
-**Links**  
 
-- [Bearded
-  leatherjacket (*Anacanthus barbatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8178) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Anacanthus
-  barbatus*](http://www.iucnredlist.org/details/154935/0)
-  on the IUCN Red List.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
-  Guide for Fishery Purposes The Living Marine Resources of the
-  Western Central Pacific.
-
-**References**
-
-- Sam Shu Qin. *Bearded leatherjacket at Sentosa*. 31 July 2018. Singapore Biodiversity Records 2018: 72-73 ISSN 2345-7597. National University of Singapore.
-- Tan Heok Hui and Lee Bee Yan. 31 October 2014. *Bearded leatherjacket from Changi*. Singapore Biodiversity Records 2014: 290
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

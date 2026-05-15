@@ -65,7 +65,8 @@ shores. Seen among seagrasses, hovering slowly close to the ground.
 'Recurvirostra' means 'curved spine' referring the shape of the spine
 on its cuttlebone, not visible in a living animal.  
   
-**Features:** 4-6cm long, grows up
+## Features
+ 4-6cm long, grows up
 to 17cm long and weighs 0.4kg. Squat oval body with short tapered
 arms. Narrow transparent fins all around the body. There is a pattern
 of small bumps extending into the fins along the edge where the fins

@@ -100,6 +100,24 @@ page_images:
   caption: |
     <p>Tanah Merah, May 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+links_references: |
+  **Links**
+  - [Spectacled
+    box crab (*Calappa philargius*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -109,7 +127,8 @@ It is more active at night and are rarely seen by daytime visitors
 as it is then usually buried in the sediments. Once, several pairs
 were seen half buried near one another.  
   
-**Features:** Body width 8-10cm. It does look rather box-like with a
+## Features
+ Body width 8-10cm. It does look rather box-like with a
 semi-circular body and wing-like extensions on the sides and back
 that cover part of the walking legs. The adult Spotted box crab has
 a total of six spots: two dark spots on each pincer and a dark ring
@@ -160,26 +179,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Spectacled
-  box crab (*Calappa philargius*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545) on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

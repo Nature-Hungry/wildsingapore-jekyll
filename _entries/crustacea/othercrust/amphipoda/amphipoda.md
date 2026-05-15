@@ -56,6 +56,34 @@ page_images:
   caption: |
     <p>Sisters, May 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
+links_references: |
+  **Links**
+  - [Sandhoppers
+    (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [Mangrove
+    mudhopper (*Microrchestria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2036) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Isopods
+    and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet, diagrams.
+  - [World
+    Amphipoda Database](http://www.marinespecies.org/amphipoda/)
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -69,7 +97,8 @@ the most numerous and most diverse of bottom-dwelling crustaceans,
 they are sometimes also called amphipods, sand hoppers or sandfleas.
 While most beachfleas are tiny, one monstrous beachflea (*Alicella
 gigantea*) grows to 25cm! Fortunately, we are unlikely to encounter
-it as it lives at the bottom of the deep sea. **Features:** 0.5cm or less. Their bodies are flattened sideways
+it as it lives at the bottom of the deep sea. ## Features
+ 0.5cm or less. Their bodies are flattened sideways
 (instead of downwards as in  [isopods](../isopoda/beachisopod)). Their eyes are NOT on stalks. They have seven pairs
 of limbs, the first two pairs may have claws and are used for feeding
 and in mating. The remainder are walking legs. Amphipoda means 'different
@@ -130,36 +159,7 @@ took a video clip of some amphipods flourescing under black light!
 
 ---
 
-**Links**
 
-- [Sandhoppers
-  (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [Mangrove
-  mudhopper (*Microrchestria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2036) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet, diagrams.
-- [World
-  Amphipoda Database](http://www.marinespecies.org/amphipoda/)
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

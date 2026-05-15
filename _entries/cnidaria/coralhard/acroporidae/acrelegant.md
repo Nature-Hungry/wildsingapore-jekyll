@@ -121,7 +121,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
  This branching hard coral with elegant tapered branches
 is sometimes seen on some of our Southern shores.  
   
-**Features:**Colonies 15-20cm.
+## Features
+Colonies 15-20cm.
 Neat, tapering branches that do not interlock, forming a neat elegant
 bush. In some the neat branches emerge from a flat base. The axial
 corallite at the tip of the branch is prominently large and cylindrical.

@@ -66,13 +66,55 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg
+links_references: |
+  **Links**
+  - [*Caulerpa
+    serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [*Caulerpa
+    serrulata*](http://www.algaebase.org/search/species/detail/?species_id=3771) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  - [*Caulerpa serrulata*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=488&menuentry=soorten) on Interactive Guide to Caribbean Diving, the Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
+    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011.
+  - Eric Coppejans
+    and Tom Beeckman. 1990. *[Caulerpa
+    (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
+    Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
+    R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
+    Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
+    how to tell apart similar *Caulerpa* species.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach*. Division of Biology, School
+    of Science, Nanyang Technological University & Department
+    of Zoology, the National University of Singapore. 160 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
  This coiled, serrated seaweed is sometimes seen on some of our shores,
 growing in small clumps on coral rubble.  
   
-**Features:** 4-6cm long, but often
+## Features
+ 4-6cm long, but often
 tightly coiled and thus shorter. The central 'stem' is strap-like,
 flat but thick. The 'stem' has serrated edges of blunt spikes. In
 some, the 'stem' is tightly coiled. These spiky strap-like structures
@@ -127,49 +169,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Caulerpa
-  serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [*Caulerpa
-  serrulata*](http://www.algaebase.org/search/species/detail/?species_id=3771) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-- [*Caulerpa serrulata*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=488&menuentry=soorten) on Interactive Guide to Caribbean Diving, the Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-  Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011.
-- Eric Coppejans
-  and Tom Beeckman. 1990. *[Caulerpa
-  (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)* (pdf).
-  Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten
-  R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the [Phycology
-  Research website](http://www.phycology.ugent.be/): identification key and useful diagrams on
-  how to tell apart similar *Caulerpa* species.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach*. Division of Biology, School
-  of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -69,6 +69,22 @@ page_images:
   caption: |
     <p><a href="smallmouth.htm">Small-mouth cerianthid</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+links_references: |
+  **Links**  
+  - [Snakelock
+    or cerianthid (*Cerianthus*)](http://mangrove.nus.edu.sg/pub/seashore/text/122.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -98,7 +114,8 @@ come in a wide range of colours and patterns and are thus sometimes
 called peacock anemones. However, they are not true anemones, which
 belong to [Order Actiniaria](../../actiniaria/actiniaria.htm).  
   
-**Features:** Up to 30cm in diameter
+## Features
+ Up to 30cm in diameter
 with tentacles expanded, those seen from 5-15cm in diameter. The cerianthid
 is a large, solitary polyp that burrows in soft ground and lives permanently
 in a tube. So it is also sometimes called the tube anemone or the
@@ -219,24 +236,7 @@ Cerianthidae**
 
 ---
 
-**Links**  
 
-- [Snakelock
-  or cerianthid (*Cerianthus*)](http://mangrove.nus.edu.sg/pub/seashore/text/122.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

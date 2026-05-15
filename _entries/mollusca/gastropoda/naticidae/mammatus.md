@@ -42,6 +42,19 @@ page_images:
   caption: |
     <p>Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160361848338158&set=a.10160361852213158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
+links_references: |
+  **Links**
+  - [*Polinices
+    mammatus*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381338&GenusName=Polinices&SpeciesName=mammatus) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -49,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/m
 shores among seagrasses. Elsewhere, they
 are found in deeper water and considered uncommon. *Mamma* means 'breast' in Latin.  
   
-**Features:** 1.5-3cm. Shell thin,
+## Features
+ 1.5-3cm. Shell thin,
 flat with three broad bands of dark brown stripes. On the underside, a dark chocolate
 brown lip. Operculum is made of a thin horn-like material, orange
 or brown. Body plain white. When alive, the body is much larger than the shell, usually enveloping the entire shell making it hard to see the shell.
@@ -80,21 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Polinices
-  mammatus*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381338&GenusName=Polinices&SpeciesName=mammatus) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

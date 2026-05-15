@@ -66,6 +66,29 @@ page_images:
   caption: |
     <p>East Coast Park, Jul 16 on a sea fan.Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+links_references: |
+  **Links**
+  - [*Balanus
+    amphitrite*](https://wiki.nus.edu.sg/display/TAX/Balanus+amphitrite+-+Purple+Acorn+Barnacle)
+    (Sessila: Balanidae) Purple Acorn Barnacle by Leong Chin Rick,
+    2011 on taxo4254.
+  - [*Megabalanus coccopoma*](https://singapore.biodiversity.online/taxo4254/mainSpace/Megabalanus%20coccopomal) (Sessila: Balanidae) Titan Acorn Barnacle on Taxo4254.
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
+    [barnacles
+    on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -77,7 +100,8 @@ crevices where it is wetter. Unlike the hardier [star
 barnacles](euraphia) (*Euraphia* sp.) which are found higher up where
 it is drier.  
   
-**Features:** To about 1 cm across,
+## Features
+ To about 1 cm across,
 conical outer shell made up of several wall plates.
 
  
@@ -123,32 +147,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Balanus
-  amphitrite*](https://wiki.nus.edu.sg/display/TAX/Balanus+amphitrite+-+Purple+Acorn+Barnacle)
-  (Sessila: Balanidae) Purple Acorn Barnacle by Leong Chin Rick,
-  2011 on taxo4254.
-- [*Megabalanus coccopoma*](https://singapore.biodiversity.online/taxo4254/mainSpace/Megabalanus%20coccopomal) (Sessila: Balanidae) Titan Acorn Barnacle on Taxo4254.
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
-  [barnacles
-  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-  
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

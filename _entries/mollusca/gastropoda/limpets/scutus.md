@@ -89,6 +89,32 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889894214/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
+links_references: |
+  **Links**
+  - [*Scutus*
+    sp.](http://www.seaslugforum.net/scutus.htm) on the Slug Site by Dr Rudman: fact sheet and photos.
+  - [*Scutus
+    unguis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=9007) on SeaLife Base: Technical fact sheet.
+  - [*Scutus
+    unguis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=183) on the NParks Flora and Fauna website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -96,7 +122,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scu
 large slug-like limpet is sometimes encountered on our Northern shores,
 under stones usually alone.'Scutus' comes
 from the word 'suctum' which is the name of the Roman shield that
-the shell resembles. **Features:** Oval shaped animal (3-5cm). The body is a lot
+the shell resembles. ## Features
+ Oval shaped animal (3-5cm). The body is a lot
 larger than its shell, usually folded up around the edges of the shell
 and may cover most of the shell. In fact, the shell might be completely
 covered by the mantle, so that it appears to be a slug at first glance.
@@ -175,34 +202,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Scutus*
-  sp.](http://www.seaslugforum.net/scutus.htm) on the Slug Site by Dr Rudman: fact sheet and photos.
-- [*Scutus
-  unguis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=9007) on SeaLife Base: Technical fact sheet.
-- [*Scutus
-  unguis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=183) on the NParks Flora and Fauna website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

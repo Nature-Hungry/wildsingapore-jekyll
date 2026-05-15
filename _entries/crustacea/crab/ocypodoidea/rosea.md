@@ -66,7 +66,8 @@ coverimg: ../../../../Templates/fornatureguides.gif
 enlarged pincer is rarely seen, usually in the back mangroves under
 vegetation. It was previously known as *Uca rosea*.  
   
-**Features:** Body width 1-1.5cm.
+## Features
+ Body width 1-1.5cm.
 Body squarish. The male fiddler crab's enlarged pincer length about
 the same as the body width. The enlarged pincer's outer palm is pimply
 with a groove on the lower edge to the immovable finger. The tips

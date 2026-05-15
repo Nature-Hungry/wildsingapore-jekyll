@@ -54,6 +54,25 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+links_references: |
+  **Links**
+  - [*Goniodiscaster
+    scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaberl)
+    on SeaLife Base: Technical fact sheet
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Coleman,
+    Neville. 2007. *Sea
+    stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
 ---
 
 ## Where seen?
@@ -63,7 +82,8 @@ adults on rubble, smaller ones and tiny juveniles among seagrasses,
 usually alone or widely spaced apart. There are times, however, when
 large numbers of this sea star are seen.  
   
-**Features:** Diameter with arms 5-15cm,
+## Features
+ Diameter with arms 5-15cm,
 sometimes really small ones about 2-3cm are seen. Body flat but thick.
 Almost always five arms, rather short with rounded tips and smooth
 sides (no spines) so that the sea star looks like it was cut out with
@@ -115,25 +135,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Goniodiscaster
-  scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaberl)
-  on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Coleman,
-  Neville. 2007. *Sea
-  stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.

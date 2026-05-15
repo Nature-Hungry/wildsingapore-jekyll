@@ -134,6 +134,18 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
+links_references: |
+  **Links**
+  - [Gorgoniidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Gorgoniidae)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
@@ -141,7 +153,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leat
 sometimes seen on reefs on our Southern shores. On the reef flats and
 at reef edges, usually among living corals. Usually only one colony is seen at a location.  
   
-**Features:** Colony bushy 20-30m wide, with stems that are long and not frequently
+## Features
+ Colony bushy 20-30m wide, with stems that are long and not frequently
 branched. Each stem is cylindrical, thick (about 1cm in diameter)
 and fleshy with a texture that resembles [leathery
 soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae) (Family Alcyoniidae). Usually dusky pinkish beige.
@@ -247,20 +260,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Gorgoniidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Gorgoniidae)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../../links)
 | [references](../../../references)

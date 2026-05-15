@@ -77,6 +77,20 @@ page_images:
   caption: |
     <p>Pulau Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8185003782/in/album-72157607751329669/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
+links_references: |
+  **Links**
+  - [*Afrocucumis
+    africana*](http://www.sealifebase.org/summary/Afrocucumis-africanal)
+    on SeaLife Base: Technical fact sheet.
+  - [*Afrocucumis
+    africana*](http://species-identification.org/species.php?species_group=nasc&id=104&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
+    Identification Portal: Technical fact sheet.
+  **References**
+  - Teo, S.,
+    L. C. S. Ng, S. M. Suen, A. F. S. L. Lok & P. X. Ng, 2010. *Notes
+    on the sea cucumber, Afrocucumis africana (Semper, 1868)
+    (Holothuroidea: Dendrochirotida: Sclerodactylidae) in Singapore*.
+    Nature in Singapore, 3: 65-68.
 ---
 
 ## Where seen?
@@ -88,7 +102,8 @@ waters from East Africa, India, Southeast Asia, China, Japan and Taiwan
 to Australia and the Pacific Islands. It was previously known as *Pseudocucumis
 africanus*.  
   
-**Features:** 3-8cm long. Body cylindrical. Colour uniform purple (some lilac, others deep purple). Short tube feet in rows along the length. Tube feet are used
+## Features
+ 3-8cm long. Body cylindrical. Colour uniform purple (some lilac, others deep purple). Short tube feet in rows along the length. Tube feet are used
 to cling to the underside of the stone as well as to hold debris all
 over the body. Feeding tentacles can be larger than the body when expanded underwater, translucent white with dark branched tips.   
   
@@ -144,20 +159,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   
 
 ---
-
-**Links**
-
-- [*Afrocucumis
-  africana*](http://www.sealifebase.org/summary/Afrocucumis-africanal)
-  on SeaLife Base: Technical fact sheet.
-- [*Afrocucumis
-  africana*](http://species-identification.org/species.php?species_group=nasc&id=104&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
-  Identification Portal: Technical fact sheet.
-
-**References**
-
-- Teo, S.,
-  L. C. S. Ng, S. M. Suen, A. F. S. L. Lok & P. X. Ng, 2010. *Notes
-  on the sea cucumber, Afrocucumis africana (Semper, 1868)
-  (Holothuroidea: Dendrochirotida: Sclerodactylidae) in Singapore*.
-  Nature in Singapore, 3: 65-68.

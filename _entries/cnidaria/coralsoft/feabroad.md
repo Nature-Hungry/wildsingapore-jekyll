@@ -80,6 +80,23 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+links_references: |
+  **Links**
+  - [*Sansibia*](http://species-identification.org/species.php?species_group=corals&id=211&menuentry=groepen)
+    and *[Anthelia](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Anthelia)*
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet
+    and photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and
+    Art Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
@@ -88,7 +105,8 @@ is often overlooked. However, they are commonly seen on our
 Southern shores and may cover large areas in scattered clumps. Near the mid-water mark, on rocky shores and among
 coral rubble.  
   
-**Features:** Colony about 5-10cm
+## Features
+ Colony about 5-10cm
 in area. Only one kind of polyp (autozooids) emerging from a thin
 soft common membrane which can also be ribbon-like (stolons) although
 this is usually hidden under sand and sediment. Polyps 1cm in diameter,
@@ -154,25 +172,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Sansibia*](http://species-identification.org/species.php?species_group=corals&id=211&menuentry=groepen)
-  and *[Anthelia](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Anthelia)*
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet
-  and photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and
-  Art Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

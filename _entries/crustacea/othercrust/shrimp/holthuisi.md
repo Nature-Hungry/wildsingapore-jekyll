@@ -41,7 +41,8 @@ coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/ho
  This slender shrimp is rarely seen, sometimes in large sea anemones. It 'dances'
 in a waggling way: 'gelek' means dance in Malay.  
   
-**Features:** About 2cm. Body almost
+## Features
+ About 2cm. Body almost
 transparent with a brown-spotted white patch behind its head, a white
 patch on its 'butt', with purplish-blue tips on its tail and pincers.  
   

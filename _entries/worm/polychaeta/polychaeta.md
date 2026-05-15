@@ -74,7 +74,8 @@ Annelida like the more familiar earthworm. There are about 8,000 species
 of polychaete worms, making them the largest class of the segmented
 worms.  
   
-**Features:** These worms have bodies
+## Features
+ These worms have bodies
 that are divided into segments. Except for the head and last segment,
 all the segments are generally similar. Each segment has a pair of
 flattened extensions called parapodia. These appendages are usually

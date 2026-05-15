@@ -38,7 +38,8 @@ Nov 08***
 seen?**
 This beautiful sea star was seen once on Beting Bronok.  
   
-**Features:** Diameter with arms about
+## Features
+ Diameter with arms about
 10cm. A flat sea star with elegant tapered arms. The upper surface
 of the body is covered with special flat-topped, pillar-like structures
 called paxillae. The body edges are bordered with large, wide marginal

@@ -40,12 +40,30 @@ page_images:
   caption: |
     <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+links_references: |
+  **Links**
+  - [Spotted
+    reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus) [(*Carpilius
+    maculatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
+    on [SeaLifeBase](http://www.sealifebase.org/search.php)
+    by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact
+    sheet.
+  **References**
+  - Lee Bee Yan and Tan Heok Hui. 10 January 2014. *Spotted reef crab at Pulau Tekukor*. Singapore Biodiversity Records 2014: 4
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
  This crab with big red round spots is seldom seen on our shores. So far, on reefy southern shores.  
   
-**Features:** Body width to about
+## Features
+ Body width to about
 9cm. This crab has a distinctive pattern of large spots on a beige
 to pink body. It has four blunt spines between the eyes. It is more active at night.   
   
@@ -90,25 +108,7 @@ maculatus*
 
 ---
 
-**Links**
 
-- [Spotted
-  reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus) [(*Carpilius
-  maculatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
-  on [SeaLifeBase](http://www.sealifebase.org/search.php)
-  by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact
-  sheet.
-
-**References**
-
-- Lee Bee Yan and Tan Heok Hui. 10 January 2014. *Spotted reef crab at Pulau Tekukor*. Singapore Biodiversity Records 2014: 4
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

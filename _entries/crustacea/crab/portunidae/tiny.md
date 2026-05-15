@@ -50,7 +50,8 @@ shores, especially in areas with seaweeds and seagrasses. They particularly
 active at night. They are probably juvenile [Flower
 crabs](pelagicus) (*Portunus pelagicus*).   
   
-**Features:** Body width 2-6cm. Generally
+## Features
+ Body width 2-6cm. Generally
 beige, brown with light spots but no striking markings or patterns.
 Their eyes are wide apart and they have 8-9 spines on the sides of
 their bodies.

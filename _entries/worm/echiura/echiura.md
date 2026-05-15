@@ -49,6 +49,17 @@ page_images:
     <p>pp.</p>
     <p>963</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
+links_references: |
+  **Links**  
+  - [Introduction
+    to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny
+    Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
+    of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
+    fossil record, life history and ecology, systematics and more
+    on morphology.
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 ## Where seen?
@@ -62,7 +73,8 @@ Spoon worms are not segmented like other annelids. There are only
 about 150 species of spoon worms, but they can be quite common in
 some marine ecosystems.   
   
-**Features:** Those seen on our shores
+## Features
+ Those seen on our shores
 about 10cm long. Body unsegmented and sausage-like. In front of its
 mouth, it has a spoon-shaped thing, called a prostomium. The prostomium
 can extend up to 10 times its retracted length, in some species, reaching
@@ -126,17 +138,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
  
 
 ---
-
-**Links**  
-
-- [Introduction
-  to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny
-  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
-  of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
-  fossil record, life history and ecology, systematics and more
-  on morphology.
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate

@@ -44,6 +44,35 @@ page_images:
   caption: |
     <p>Pasir Ris, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/back-to-pasir-ris-shore.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+links_references: |
+  **Links**  
+  - [Blue-spotted
+    mudskipper (*Boleophthalmus boddarti*)](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm) Ng, Peter K. L.
+    & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Blue-spotted
+    mudskipper (*Boleophthalmus boddarti*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369.htm) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - *[Boleophthalmus
+    boddarti](http://www.iucnredlist.org/details/166990/0)* on the IUCN Red List.
+  - *[Boleophthalmus
+    boddarti](http://www.mudskipper.it/SpeciesPages/bodd.html)* on the [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
+    with lots of photos.
+  - [Boddart's
+    goggle-eyed goby (*Boleophthalmus boddarti*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4901) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Blue-spotted
+    mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/blue-spotted-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
+    photos and fact sheet.
+  **References**
+  - Larson,
+    Helen K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -51,7 +80,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bodda
 spotted mudskipper is sometimes seen in the back mangroves of our Northern shores.
 Large adults often seen on very very soft mud. During high tide, it hides in its burrow with a bubble of air.   
   
-**Features:** To 22cm long, those
+## Features
+ To 22cm long, those
 seen about 6-8cm. Brown with 6-7 dark diagonal bars along the body.
 Lots of tiny blue spots on the 'cheeks', along the sides of the body
 and on the dorsal and other fins. In adult females, the first dorsal fin has elongated
@@ -88,37 +118,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Blue-spotted
-  mudskipper (*Boleophthalmus boddarti*)](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm) Ng, Peter K. L.
-  & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Blue-spotted
-  mudskipper (*Boleophthalmus boddarti*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- *[Boleophthalmus
-  boddarti](http://www.iucnredlist.org/details/166990/0)* on the IUCN Red List.
-- *[Boleophthalmus
-  boddarti](http://www.mudskipper.it/SpeciesPages/bodd.html)* on the [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
-  with lots of photos.
-- [Boddart's
-  goggle-eyed goby (*Boleophthalmus boddarti*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4901) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Blue-spotted
-  mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/blue-spotted-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
-  photos and fact sheet.
-
-**References**
-
-- Larson,
-  Helen K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

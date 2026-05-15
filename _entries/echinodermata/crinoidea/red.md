@@ -113,6 +113,15 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234251961295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/080425cyrd1818m3.jpg
+links_references: |
+  **Links**
+  - [*Himerometra
+    robustipinna*](http://www.sealifebase.org/summary/Himerometra-robustipinnal) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -121,7 +130,8 @@ living reefs on our Southern shores. Sometimes many small ones are
 seen on one visit, and then not seen again for some time. At other
 times, a single large one may be seen. At Sentosa Serapong, more than 20 can be seen clinging to hard corals.  
   
-**Features:** 6-12cm in diameter.
+## Features
+ 6-12cm in diameter.
 With more than 30 arms. The cirri on the underside is banded. The
 entire animal usually uniformly red, sometimes bright red, sometimes
 very dark red. Or mostly red with some yellowish body parts.  
@@ -212,15 +222,3 @@ Hantu, Apr 10
 [red crinoid](http://vimeo.com/11300254) from [SgBeachBum](http://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
 ---
-
-**Links**
-
-- [*Himerometra
-  robustipinna*](http://www.sealifebase.org/summary/Himerometra-robustipinnal) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

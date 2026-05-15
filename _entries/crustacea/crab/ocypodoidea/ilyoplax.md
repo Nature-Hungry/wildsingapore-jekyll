@@ -43,6 +43,22 @@ page_images:
   caption: |
     <p>Sungei Buloh, Nov 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6362277335/in/album-72157607922679778/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+links_references: |
+  **Links**
+  - [Semaphore
+    crabs (*Ilyoplax* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Ilyoplax
+    delsmani*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381113&genusname=Ilyoplax&speciesname=delsmani) and *[Ilyoplax
+    obliqua](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381116&genusname=Ilyoplax&speciesname=obliqua)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
 ---
 
 ## Where seen?
@@ -53,7 +69,8 @@ system used by sailors in the past to send messages over long distances.
 In the crab, this behaviour probably serves to declare territory and
 to attract mates.  
   
-**Features:** Body width 0.5cm. Body
+## Features
+ Body width 0.5cm. Body
 somewhat round, eyestalks short. Pincers equal sized and rather bulbous.
 The White semaphore crab (Ilyoplax delsmani) changes its colour to
 white to communicate with other semaphore crabs. When they are resting,
@@ -83,24 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Semaphore
-  crabs (*Ilyoplax* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Ilyoplax
-  delsmani*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381113&genusname=Ilyoplax&speciesname=delsmani) and *[Ilyoplax
-  obliqua](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381116&genusname=Ilyoplax&speciesname=obliqua)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
 
 [links](../../../links)
 | [references](../../../references)

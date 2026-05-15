@@ -78,7 +78,8 @@ of our undisturbed Southern shores. The coral is free-living (it is not attached
 to the surface) and large ones may be seen on shallow sandy or rubbly areas
 near living reefs. Usually seen alone.  
   
-**Features:** Oval to elongated convex
+## Features
+ Oval to elongated convex
 disks with rounded ends, to about 15-25cm long. Prominent central
 furrow. Some species may have only one mouth, while the other species
 may have several, found both in and outside the central furrow. Upper

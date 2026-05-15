@@ -53,6 +53,58 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
+links_references: |
+  **Links**
+  - [The
+    only truly 'wild' hornbills](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f.htm) by Lim Kim Seng on the Nature
+    Watch website: brief explanation of the hornbills sighted in Singapore.
+  - [Nesting
+    Observations of the Oriental Pied Hornbill](http://members.fortunecity.com/mnsperak/oph/nesting.html) by Dr Chan Kai
+    Soon of the Malayan Nature Society: a fascinating record of observations
+  - [Oriental pied-hornbill](https://singapore.biodiversity.online/taxo4254/mainSpace/Anthracoceros albirostris.html) on Taxo4254.
+  - [Hornbills
+    can thrive in urban Singapore](http://wildsingaporenews.blogspot.com/2009/04/hornbills-can-thrive-in-urban-singapore.html)
+    Straits Times Forum 6 Apr 09;
+  - [Wild
+    hornbill seeks Mr Right](http://wildsingaporenews.blogspot.com/2009/03/wild-hornbill-seeks-mr-right.html) Grace Chua, Straits Times 24 Mar 09;
+  - ['Intelligent
+    nests' for pied hornbills in Singapore](http://wildsingaporenews.blogspot.com/2009/01/intelligent-nests-for-pied-hornbills-in.html)
+    Grace Chua, Straits Times 8 Jan 09;
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Strange,
+    Morten & Allan Jeyarajasingam, 1999. *Birds
+    : A Photographic Guide to the Birds of Peninsular Malaysia and
+    Singapore*.
+    Sun Tree Publishing Limited, Singapore. 258 pp.
+  - Strange,
+    Morten, 1998. *Birds
+    of South-East Asia: A Photographic Guide to the Birds of Thailand,
+    Malaysia, Singapore, the Philippines and Indonesia.*
+    New Holland Publishers. 112 pp.
+  - Strange,
+    Morten, 2000. *Tropical
+    Birds of Malaysia and Singapore.
+    Periplus Editions, Hong Kong. 64 pp.*
+  - Lim, Kim
+    Seng and Dana Gardner, 1997. *An
+    Illustrated Field Guide to the Birds of Singapore*.
+    Sun Tree Publishing Limited, Singapore. 226 pp.
+  - Davidson,
+    G. W. H. & Chew Yen Fook, 1995. *A
+    Photographic Guide to Birds of Peninsular Malaysia and Singapore*
+    New Holland Publishers, UK. 144 pp.
+  - Madoc, G.
+    C., 1947 (1992 4th ed). *An
+    Introduction to Malayan Birds*.
+    The Malayan Nature Society, Kuala Lumpur. 227 pp.
+  - Bucknill,
+    John A. S. & Chasen, F. N., 1927 (1990 ed.). *Birds
+    of Singapore and South-east Asia*.
+    Tynron Press, Scotland. 247 pp.
 ---
 
 ## Where seen?
@@ -65,7 +117,8 @@ nesting sites.
 
  
 
-**Features:** A large bird (about
+## Features
+ A large bird (about
 70cm) with black-and-white plumage. The hornbill's trademark is its
 large, long bill. The bill, however, is not as heavy as it appears.
 It is not made of solid bone but of a honeycombed tissue. An adult
@@ -137,60 +190,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [The
-  only truly 'wild' hornbills](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f.htm) by Lim Kim Seng on the Nature
-  Watch website: brief explanation of the hornbills sighted in Singapore.
-- [Nesting
-  Observations of the Oriental Pied Hornbill](http://members.fortunecity.com/mnsperak/oph/nesting.html) by Dr Chan Kai
-  Soon of the Malayan Nature Society: a fascinating record of observations
-- [Oriental pied-hornbill](https://singapore.biodiversity.online/taxo4254/mainSpace/Anthracoceros albirostris.html) on Taxo4254.
-- [Hornbills
-  can thrive in urban Singapore](http://wildsingaporenews.blogspot.com/2009/04/hornbills-can-thrive-in-urban-singapore.html)
-  Straits Times Forum 6 Apr 09;
-- [Wild
-  hornbill seeks Mr Right](http://wildsingaporenews.blogspot.com/2009/03/wild-hornbill-seeks-mr-right.html) Grace Chua, Straits Times 24 Mar 09;
-- ['Intelligent
-  nests' for pied hornbills in Singapore](http://wildsingaporenews.blogspot.com/2009/01/intelligent-nests-for-pied-hornbills-in.html)
-  Grace Chua, Straits Times 8 Jan 09;
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Strange,
-  Morten & Allan Jeyarajasingam, 1999. *Birds
-  : A Photographic Guide to the Birds of Peninsular Malaysia and
-  Singapore*.
-  Sun Tree Publishing Limited, Singapore. 258 pp.
-- Strange,
-  Morten, 1998. *Birds
-  of South-East Asia: A Photographic Guide to the Birds of Thailand,
-  Malaysia, Singapore, the Philippines and Indonesia.*
-  New Holland Publishers. 112 pp.
-- Strange,
-  Morten, 2000. *Tropical
-  Birds of Malaysia and Singapore.
-  Periplus Editions, Hong Kong. 64 pp.*
-- Lim, Kim
-  Seng and Dana Gardner, 1997. *An
-  Illustrated Field Guide to the Birds of Singapore*.
-  Sun Tree Publishing Limited, Singapore. 226 pp.
-- Davidson,
-  G. W. H. & Chew Yen Fook, 1995. *A
-  Photographic Guide to Birds of Peninsular Malaysia and Singapore*
-  New Holland Publishers, UK. 144 pp.
-- Madoc, G.
-  C., 1947 (1992 4th ed). *An
-  Introduction to Malayan Birds*.
-  The Malayan Nature Society, Kuala Lumpur. 227 pp.
-- Bucknill,
-  John A. S. & Chasen, F. N., 1927 (1990 ed.). *Birds
-  of Singapore and South-east Asia*.
-  Tynron Press, Scotland. 247 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

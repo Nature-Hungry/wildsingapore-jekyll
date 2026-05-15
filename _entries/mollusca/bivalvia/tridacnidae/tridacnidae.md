@@ -75,6 +75,82 @@ page_images:
   caption: |
     <p><a href="crocea.htm">Burrowing giant clam</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+links_references: |
+  **Links**
+  - [Giant
+    Clam (*Tridacna squamosa*)](http://mangrove.nus.edu.sg/pub/seashore/text/267.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Dr Neo Mei Lin's blog](https://meilin5giantclam.wordpress.com/about-2/) about her work on Giant clams.
+  - [*Tridacna squamosa* (Veneroida: Cardiidae) Fluted giant clam](https://taxo4254.wikispaces.com/Tridacna+squamosa), Tricia Poh Shi Min, 2015, on taxo4254.
+  - [Family
+    Tridacnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tridacnidae.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - Family
+    Tridacnidae in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [Do
+    Giant clams trap divers in their shells?](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html) this myth dispelled
+    on the Psychedelic Nature blog..
+  - [Bid
+    to repopulate giant clams on Singapore's reefs](http://wildsingaporenews.blogspot.sg/2012/04/bid-to-repopulate-giant-clams-on.html) Team of biologists
+    aims to put back hundreds to add to marine diversity Jose Hong
+    Straits Times 21 Apr 12;
+  - On wild shores of singapore
+    - [Dr Neo Mei Lin's talk about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html) (28 May 2020)
+    - [Giant
+      clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)
+  **References**
+  - Mei Lin Neo and Peter A. Todd. 25 June 2013. *Conservation Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*. Nature in Singapore 2013 6: 125–133
+  - Mei Lin Neo, Paul L. A. Erftemeijer, Jan K. L. van Beek, Dirk S. van Maren, Serena L-M. Teo, Peter A. Todd. 13 March 2013. [Recruitment constraints in Singapore's fluted giant clam (Tridacna squamosa) population—A dispersal model approach](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058819). PLOS one.
+  - M. L. Neo and Peter A. Todd. Jun 2012. *Giant
+    clams (Mollusca: Bivalvia: Tridacninae) in Singapore: History,
+    research and conservation*. Raffles Bulletin of Zoology 2012 Supplement No.
+    25: 67-78.
+  - Mei Lin Neo, Peter A. Todd. 6 Mar 2012. [Population density and genetic structure of the giant clams Tridacna crocea and T. squamosa on Singapore’s reefs](http://www.int-res.com/articles/ab2011/14/b014p265.pdf). Aquatic Biology Vol. 14: 265–275.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - [Can
+    artificial substrates enriched with crustose coralline algae enhance
+    larval settlement and recruitment in the fluted giant clam (*Tridacna
+    squamosa*)?](http://www.springerlink.com/content/q86201023445t0gp/?p=37e63309393a415fa89ff1e5bda94407&pi=0) a study of Singapore's fluted giant clams by
+    Mei Lin Neo, Peter A. Todd, Serena Lay-Ming Teo and Loke Ming
+    Chou on Hydrobiologia, Jun 2009.
+  - James R. Guest, Peter A. Todd, Eugene Goh, Balasubramaniam S. Sivalonganathan,   
+    Konda P. Reddy. 10 August 2007. [Can giant clam (*Tridacna squamosa*) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full) Aquatic Conservation.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp..
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -194,84 +270,7 @@ giant clam) (EN: Endangered) *Tridacna maxima* (EN: Endangered) *[Tridacna squam
 
 ---
 
-**Links**
 
-- [Giant
-  Clam (*Tridacna squamosa*)](http://mangrove.nus.edu.sg/pub/seashore/text/267.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Dr Neo Mei Lin's blog](https://meilin5giantclam.wordpress.com/about-2/) about her work on Giant clams.
-- [*Tridacna squamosa* (Veneroida: Cardiidae) Fluted giant clam](https://taxo4254.wikispaces.com/Tridacna+squamosa), Tricia Poh Shi Min, 2015, on taxo4254.
-- [Family
-  Tridacnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tridacnidae.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- Family
-  Tridacnidae in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [Do
-  Giant clams trap divers in their shells?](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html) this myth dispelled
-  on the Psychedelic Nature blog..
-- [Bid
-  to repopulate giant clams on Singapore's reefs](http://wildsingaporenews.blogspot.sg/2012/04/bid-to-repopulate-giant-clams-on.html) Team of biologists
-  aims to put back hundreds to add to marine diversity Jose Hong
-  Straits Times 21 Apr 12;
-- On wild shores of singapore
-  - [Dr Neo Mei Lin's talk about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html) (28 May 2020)
-  - [Giant
-    clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)
-
-**References**
-
-- Mei Lin Neo and Peter A. Todd. 25 June 2013. *Conservation Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*. Nature in Singapore 2013 6: 125–133
-- Mei Lin Neo, Paul L. A. Erftemeijer, Jan K. L. van Beek, Dirk S. van Maren, Serena L-M. Teo, Peter A. Todd. 13 March 2013. [Recruitment constraints in Singapore's fluted giant clam (Tridacna squamosa) population—A dispersal model approach](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058819). PLOS one.
-- M. L. Neo and Peter A. Todd. Jun 2012. *Giant
-  clams (Mollusca: Bivalvia: Tridacninae) in Singapore: History,
-  research and conservation*. Raffles Bulletin of Zoology 2012 Supplement No.
-  25: 67-78.
-- Mei Lin Neo, Peter A. Todd. 6 Mar 2012. [Population density and genetic structure of the giant clams Tridacna crocea and T. squamosa on Singapore’s reefs](http://www.int-res.com/articles/ab2011/14/b014p265.pdf). Aquatic Biology Vol. 14: 265–275.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- [Can
-  artificial substrates enriched with crustose coralline algae enhance
-  larval settlement and recruitment in the fluted giant clam (*Tridacna
-  squamosa*)?](http://www.springerlink.com/content/q86201023445t0gp/?p=37e63309393a415fa89ff1e5bda94407&pi=0) a study of Singapore's fluted giant clams by
-  Mei Lin Neo, Peter A. Todd, Serena Lay-Ming Teo and Loke Ming
-  Chou on Hydrobiologia, Jun 2009.
-- James R. Guest, Peter A. Todd, Eugene Goh, Balasubramaniam S. Sivalonganathan,   
-  Konda P. Reddy. 10 August 2007. [Can giant clam (*Tridacna squamosa*) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full) Aquatic Conservation.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp..
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -67,6 +67,30 @@ page_images:
   caption: |
     <p>East Coast Park, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233458373158&set=a.10159233461703158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif
+links_references: |
+  **Links**  
+  - [Moss
+    animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Flowers
+    of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoanl) by Jean-Marie Cavanihac on the Microscopy
+    UK website: fact sheet on bryozoans with lots of lovely super
+    close look at tiny bryozoans.
+  - [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoal) on the Museum of Paleontology, University of California, Berkeley
+    website: details with photos.
+  **References**
+  - K. J. Tilbrook & D. P. Gordon. 29 June 2016. *Checklist of Singapore Bryozoa and Entoprocta*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 593-603.
+  - K. J. Tilbrook & D. P. Gordon. *Bryozoa from the Straits of Johor, Singapore, with the description of new species*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
+    Zoology : A Functional Evolutionary Approach*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if
@@ -89,7 +113,8 @@ Indeed, they often look like moss, mats of algae or lacy, branching
 seaweed. Bryozoans are often mistaken for plants. There are about
 5,000 species of bryozoans.  
   
-**Features:** Bryozoans are colonies
+## Features
+ Bryozoans are colonies
 of minute individual animals called zooids. Each zooid is about the
 size of a pinhead but has distinct organs and ring of tentacles (called
 the lophophore) forming a funnel around a mouth. Each zooid builds
@@ -170,32 +195,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Moss
-  animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Flowers
-  of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoanl) by Jean-Marie Cavanihac on the Microscopy
-  UK website: fact sheet on bryozoans with lots of lovely super
-  close look at tiny bryozoans.
-- [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoal) on the Museum of Paleontology, University of California, Berkeley
-  website: details with photos.
-
-**References**
-
-- K. J. Tilbrook & D. P. Gordon. 29 June 2016. *Checklist of Singapore Bryozoa and Entoprocta*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 593-603.
-- K. J. Tilbrook & D. P. Gordon. *Bryozoa from the Straits of Johor, Singapore, with the description of new species*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology : A Functional Evolutionary Approach*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../links)
 | [references](../references)

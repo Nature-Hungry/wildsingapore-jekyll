@@ -58,6 +58,38 @@ page_images:
   caption: |
     <p>Pulau Semakau, Nov 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
+links_references: |
+  **Links**
+  - *[Barringtonia
+    asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)* on the NParks Flora and Fauna website: photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Lok, A. F.
+    S. L., W. F. Ang, K. Y. Chong, P. X. Ng, S. Teo, T. K. Yee, C.
+    K. Yeo & H. T. W. Tan, 2011. [The status of *Caesalpinia bonduc*
+    (L.) Roxb. in Singapore](http://lkcnhm.nus.edu.sg/nis/bulletin2011/2011nis043-048.pdf). Nature
+    in Singapore, 4: 43-48.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -69,7 +101,8 @@ According to Giesen, it is recorded throughout Southeast Asia but
 is scarce in Sumatra, Borneo and the Philippines. Elsewhere, it is
 also called the Grey nicker bean plant, refering to the seeds.  
   
- **Features:** A coarse climbing vine
+ ## Features
+ A coarse climbing vine
 (5-15m long) to a prickly shrub. The compound leaf is bipinnate, i.e.,
 resembles a feather, with 12-24 leaflets (2-4cm long) arranged on
 side branches on a main leaf branch. The entire compound leaf is up
@@ -118,40 +151,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Barringtonia
-  asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)* on the NParks Flora and Fauna website: photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Lok, A. F.
-  S. L., W. F. Ang, K. Y. Chong, P. X. Ng, S. Teo, T. K. Yee, C.
-  K. Yeo & H. T. W. Tan, 2011. [The status of *Caesalpinia bonduc*
-  (L.) Roxb. in Singapore](http://lkcnhm.nus.edu.sg/nis/bulletin2011/2011nis043-048.pdf). Nature
-  in Singapore, 4: 43-48.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

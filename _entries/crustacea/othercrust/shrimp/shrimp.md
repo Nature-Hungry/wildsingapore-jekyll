@@ -90,6 +90,33 @@ page_images:
   caption: |
     <p><a href="hippolytidae">Humpbacked shrimp</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Belachan
+    Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179), [Glass
+    Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180), [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Marine
+    prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038), [Estuarine
+    prawn (*Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037), [Mangrove
+    hairy-handed prawn (*Caridina propinqua*)](http://mangrove.nus.edu.sg/guidebooks/text/2039) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Ong, Jin
+    Eong & Gong, Wooi Khoon (eds.), 2001. The
+    Encyclopedia of Malaysia (Vol. 6): The Seas
+    Didier Millet, Malaysia. 144 pp.
 ---
 
 if you
@@ -113,7 +140,8 @@ They are adapted for bottom dwelling.
 There are no clear scientific differences between prawns and shrimps.
 Generally, smaller ones are called shrimps while larger ones prawns.  
   
-**Features:** Usually less than 5cm
+## Features
+ Usually less than 5cm
 long. Unlike crabs which have stiff shells to protect their abdomen,
 a shrimp has a thin, flexible shell over a long abdomen that ends
 in a broad fan-like tail. A quick contraction of the muscular abdomens
@@ -256,35 +284,7 @@ hispidus*
 
 ---
 
-**Links**
 
-- [Belachan
-  Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179), [Glass
-  Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180), [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Marine
-  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038), [Estuarine
-  prawn (*Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037), [Mangrove
-  hairy-handed prawn (*Caridina propinqua*)](http://mangrove.nus.edu.sg/guidebooks/text/2039) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Ong, Jin
-  Eong & Gong, Wooi Khoon (eds.), 2001. The
-  Encyclopedia of Malaysia (Vol. 6): The Seas
-  Didier Millet, Malaysia. 144 pp.
 
 [links](../../../links)
 | [references](../../../references)

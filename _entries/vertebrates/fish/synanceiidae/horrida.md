@@ -148,6 +148,41 @@ page_images:
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918014158713&set=a.10159918036293713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+links_references: |
+  **Links**  
+  - [Hollow-cheek
+    Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Stonefish
+    (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Synanceia horrida*](https://singapore.biodiversity.online/taxo4254/mainSpace/synanceia%20horridal) (Scorpaeniformes: Synanceiidae) Estuarine Stonefish by Sze Yue, 2015, on taxo4254.
+  - [*Synanceia
+    horrida (*Estuarine stonefish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6389) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet
+  - [Stepping on Stonefish: A Year On (Part 1)](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-1l) and [Part 2](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-2l) from Lazy Lizard Tales.
+  - [How many stonefishes at Sentosa?](http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosal) on wild shores of singapore.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if
@@ -164,7 +199,8 @@ squat grumpy-looking, ugly fish is, to our discomfort, quite commonly
 encountered on many of our shores including our recreational beaches. It is particularly abundant near artificial seawalls. It is also present in living reefs and rubbly areas nearby. Resembling a encrusted stone, it is often overlooked. When spotted,
 however, a stonefish is often the subject of morbid fascination due
 to its hideous appearance and potent venom. Also called
-the Estuarine stonefish, it is also found in muddy places and estuaries.  **Features:** The fish really looks
+the Estuarine stonefish, it is also found in muddy places and estuaries.  ## Features
+ The fish really looks
 like a stone. It grows
 to nearly 50cm, those seen about 15-20cm. The eyes are close together
 with a bony ridge between them. It has a deep depression below each
@@ -268,43 +304,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Hollow-cheek
-  Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Stonefish
-  (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Synanceia horrida*](https://singapore.biodiversity.online/taxo4254/mainSpace/synanceia%20horridal) (Scorpaeniformes: Synanceiidae) Estuarine Stonefish by Sze Yue, 2015, on taxo4254.
-- [*Synanceia
-  horrida (*Estuarine stonefish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6389) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet
-- [Stepping on Stonefish: A Year On (Part 1)](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-1l) and [Part 2](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-2l) from Lazy Lizard Tales.
-- [How many stonefishes at Sentosa?](http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosal) on wild shores of singapore.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -98,7 +98,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandor
 large sea star with a startling orange underside is sometimes seen
 on sandy shores.  
   
-**Features:** Diameter with arms 10-15cm. Body rather flat. Arms
+## Features
+ Diameter with arms 10-15cm. Body rather flat. Arms
 long, tapered to a sharp tip. Along the sides of the arms are large
 marginal plates and stout long sharp spines. These spines resemble
 the teeth of a comb and members of this family are sometimes called

@@ -44,6 +44,41 @@ page_images:
   caption: |
     <p>Mandai, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
+links_references: |
+  **Links**
+  - [*Brownlowia
+    tersa*](http://floraofsingapore.wordpress.com/2011/01/02/brownlowia-tersa/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Brownlowia tersa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5441) on NParks Flora and Fauna website: photos and fact
+    sheet.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -61,7 +96,8 @@ sea' probably because the green-above-silvery-below leaves resemble
 those of the Durian tree. Other than that, it doesn't have much resemblance
 to the true Durian tree.  
   
-**Features:** A shrub 1.5-2 m tall.
+## Features
+ A shrub 1.5-2 m tall.
 Leaves narrow and oval, thin or leathery (8-12cm long). The upper
 surface is glossy and smooth, while the lower surface is grey-green
 and covered with a dense layer of tiny, hairy scales. The leaves are
@@ -112,43 +148,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Brownlowia
-  tersa*](http://floraofsingapore.wordpress.com/2011/01/02/brownlowia-tersa/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Brownlowia tersa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5441) on NParks Flora and Fauna website: photos and fact
-  sheet.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

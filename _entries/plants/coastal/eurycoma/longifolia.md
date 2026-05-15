@@ -47,6 +47,34 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
+links_references: |
+  **Links**
+  - [*Eurycoma
+    longifolia*](https://singapore.biodiversity.online/taxo4254/mainSpace/Eurycoma%20longifolial) (Sapindales: Simaroubaceae) Tongkat Ali by
+    Seah Wei Wei, 2013 on taxo4254.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *Growing
+    the Native Plants of Singapore*. BP Science Centre Guidebook.
+    168pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -56,7 +84,8 @@ seen growing wild on some of our natural places, including on our
 shores and rocky cliffs. It was also found in our primary and secondary
 forests including Tanglin and Bukit Timah.  
   
- **Features:** A small tree or a shrub
+ ## Features
+ A small tree or a shrub
 (2-3m tall) with an umbrella-like rosette of leaves at the tips of
 the branches. The leaf (50-60cm long) is made up of 45-80 leaflets.
 The tiny, hairy cup-shaped flowers are purplish-crimson, and according
@@ -99,36 +128,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Eurycoma
-  longifolia*](https://singapore.biodiversity.online/taxo4254/mainSpace/Eurycoma%20longifolial) (Sapindales: Simaroubaceae) Tongkat Ali by
-  Seah Wei Wei, 2013 on taxo4254.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *Growing
-  the Native Plants of Singapore*. BP Science Centre Guidebook.
-  168pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

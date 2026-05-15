@@ -80,6 +80,63 @@ page_images:
   caption: |
     <p>Adult</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Damselfishes](http://ikanfish.wordpress.com/damselfishes/)
+    on Reef Fishes of Singapore by Jeffrey Low.
+  - [Family
+    Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family with fact sheets on many members
+    of the family.
+  **References**
+  - Daisuke Taira. 30 October 2020. *A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*. Singapore Biodiversity Records 2020: 170. The National University of Singapore.
+  - Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020. *The silty damselfish, Pomacentrus cheraphilus, in Singapore*. Singapore Biodiversity Records 2020: 119-120 ISSN 2345-7597
+  - Daisuke Taira. 22 January 2020. *The blueback damselfish, Pomacentrus simsiang, in Singapore*. Jovena Chun Ling Seah & Aaron Teo, Singapore Biodiversity Records 2020: 1 ISSN 2345-7597, National University of Singapore
+  - Jeffrey K. Y. Low. *Staghorn damselfish in the Singapore Strait*. 21 December 2018. Singapore Biodiversity Records 2018: 134 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. *White damselfish in the Singapore Strait*. 31 October 2018. Singapore Biodiversity Records 2018: 118 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. *A Singapore record of the yellowtail sergeant, Abudefduf notatus*. 31 October 2018. Singapore Biodiversity Records 2018: 115 ISSN 2345-7597. National University of Singapore.
+  - Jeffrey K. Y. Low. *Three species of sergeant damselfishes off Pulau Satumu*. 30 November 2017. Singapore Biodiversity Records 2017: 167-168 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. 30 Jun 2017. *Western gregory, Stegastes obreptus, at Sultan Shoal*. Singapore Biodiversity Records 2017: 75.
+  - Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017. *Regal demoiselles, Neopomacentrus cyanomos, in Sisters Islands Marine Park*. Singapore Biodiversity Records 2017: 76.
+  - Jeffrey K. Y. Low
+    . 30 Sep 2016. *Behn’s damselfish in the Singapore Strait. Neoglyphidodon nigroris*. Singapore Biodiversity Records 2016: 119.
+  - Jeffrey K. Y. Low. 30 June 2016. *New record of reticulated dascyllus in Singapore* *Dascyllus reticulatus* (Teleostei: Pomacentridae). Singapore Biodiversity Records 2016: 77.
+  - Jeffrey K. Y. Low. 21 August 2015. *Smoky damselfish off Pulau Satumu*. Singapore Biodiversity Records 2015: 115
+  - Kelvin K. P. Lim. 8 August 014. *Silver demoiselle in the Singapore Straits, Neopomacentrus anabatoides.* Singapore Biodiversity Records 2014: 216.
+  - Toh Chay Hoon. 11 April 2014. *Spawn of the saddleback anemonefish*. Singapore Biodiversity Records 2014: 96
+  - Toh Chay Hoon & Kelvin K. P. Lim
+    . 14 March 2014. *Aggregation of two species of demoiselle fishes at Pulau Hantu*. Singapore Biodiversity Records 2014: 7
+  - Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
+  - Jeffrey Low J.K.Y., Randall, J.E. and Chou, L.M. *New localities for the wedge-spot damselfish, Pomacentrus cuneatus Allen, 1991 (Teleostei: Pomacentridae) in Southeast Asia*. Raffles Bulletin of Zoology 43(1):45-50.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -95,7 +152,8 @@ the Indo-Pacific oceans, some are found in brackish waters. Anemonefishes
 (made famous by the cartoon 'Nemo') are among the better known members
 of this family.  
   
- **Features:** Damselfishes vary widely
+ ## Features
+ Damselfishes vary widely
 in size, colour and shape. Some species can grow to 35cm, others are
 1cm or smaller. Those that eat algae tend to be duller while plankton-feeders
 tend to be more colourful.
@@ -266,65 +324,7 @@ Pomacentrus xanthus=\*\*Stegastes variabilis
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Damselfishes](http://ikanfish.wordpress.com/damselfishes/)
-  on Reef Fishes of Singapore by Jeffrey Low.
-- [Family
-  Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family with fact sheets on many members
-  of the family.
-
-**References**
-
-- Daisuke Taira. 30 October 2020. *A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*. Singapore Biodiversity Records 2020: 170. The National University of Singapore.
-- Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020. *The silty damselfish, Pomacentrus cheraphilus, in Singapore*. Singapore Biodiversity Records 2020: 119-120 ISSN 2345-7597
-- Daisuke Taira. 22 January 2020. *The blueback damselfish, Pomacentrus simsiang, in Singapore*. Jovena Chun Ling Seah & Aaron Teo, Singapore Biodiversity Records 2020: 1 ISSN 2345-7597, National University of Singapore
-- Jeffrey K. Y. Low. *Staghorn damselfish in the Singapore Strait*. 21 December 2018. Singapore Biodiversity Records 2018: 134 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. *White damselfish in the Singapore Strait*. 31 October 2018. Singapore Biodiversity Records 2018: 118 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. *A Singapore record of the yellowtail sergeant, Abudefduf notatus*. 31 October 2018. Singapore Biodiversity Records 2018: 115 ISSN 2345-7597. National University of Singapore.
-- Jeffrey K. Y. Low. *Three species of sergeant damselfishes off Pulau Satumu*. 30 November 2017. Singapore Biodiversity Records 2017: 167-168 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. 30 Jun 2017. *Western gregory, Stegastes obreptus, at Sultan Shoal*. Singapore Biodiversity Records 2017: 75.
-- Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017. *Regal demoiselles, Neopomacentrus cyanomos, in Sisters Islands Marine Park*. Singapore Biodiversity Records 2017: 76.
-- Jeffrey K. Y. Low
-  . 30 Sep 2016. *Behn’s damselfish in the Singapore Strait. Neoglyphidodon nigroris*. Singapore Biodiversity Records 2016: 119.
-- Jeffrey K. Y. Low. 30 June 2016. *New record of reticulated dascyllus in Singapore* *Dascyllus reticulatus* (Teleostei: Pomacentridae). Singapore Biodiversity Records 2016: 77.
-- Jeffrey K. Y. Low. 21 August 2015. *Smoky damselfish off Pulau Satumu*. Singapore Biodiversity Records 2015: 115
-- Kelvin K. P. Lim. 8 August 014. *Silver demoiselle in the Singapore Straits, Neopomacentrus anabatoides.* Singapore Biodiversity Records 2014: 216.
-- Toh Chay Hoon. 11 April 2014. *Spawn of the saddleback anemonefish*. Singapore Biodiversity Records 2014: 96
-- Toh Chay Hoon & Kelvin K. P. Lim
-  . 14 March 2014. *Aggregation of two species of demoiselle fishes at Pulau Hantu*. Singapore Biodiversity Records 2014: 7
-- Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
-- Jeffrey Low J.K.Y., Randall, J.E. and Chou, L.M. *New localities for the wedge-spot damselfish, Pomacentrus cuneatus Allen, 1991 (Teleostei: Pomacentridae) in Southeast Asia*. Raffles Bulletin of Zoology 43(1):45-50.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

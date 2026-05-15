@@ -79,6 +79,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
+links_references: |
+  **Links**
+  - [*Averrhoa
+    carambola*](http://floraofsingapore.wordpress.com/2010/03/26/averrhoa-carambola/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Carambola
+    (*Averrhoa carambola*)](http://www.hort.purdue.edu/newcrop/morton/carambolal) New Crop Resource Online Program
+    at Purdue University.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -88,7 +99,8 @@ to be. According to Hsuan Keng, it possibly originated from South
 India. According to Burkill and Corners, it is native to Java and
 eastwards.  
   
- **Features:** A small tree (to about
+ ## Features
+ A small tree (to about
 10m), profusely branched. Compound leaves made up of (3-5 pairs of
 small (5-10cm long) leaftlets, the end leaflets rather large. Flowers
 small, bell-shaped, pink or red. The fruit is star-shaped in cross
@@ -114,19 +126,7 @@ clean metal.
 
 ---
 
-**Links**
 
-- [*Averrhoa
-  carambola*](http://floraofsingapore.wordpress.com/2010/03/26/averrhoa-carambola/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Carambola
-  (*Averrhoa carambola*)](http://www.hort.purdue.edu/newcrop/morton/carambolal) New Crop Resource Online Program
-  at Purdue University.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

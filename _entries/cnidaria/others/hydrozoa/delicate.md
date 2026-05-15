@@ -69,7 +69,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delica
  Colonies of these tiny animals are often encountered
 on our Southern shores, but often overlooked. In coral rubble areas.  
   
-**Features:** Clusters of many tiny
+## Features
+ Clusters of many tiny
 fans, that can cover an area of about 5-10cm. Each tiny fan about
 0.5cm in diameter. A long thin body column topped by a tiny ring of
 delicate tentacles. Often only the feathery fan is seen above the

@@ -77,6 +77,23 @@ page_images:
     <p><a href="http://www.nevillecoleman.com.au/">Nudibranchs of the South Pacific Vol 1</a>.</p>
     <p>64 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: though
+    without any description of the nudibranchs, there are lots of
+    photos and locations where the species are found and a list of
+    Singapore nudibranchs.
+  **References**
+  - J. van Alphen,
+    N. J. de Voogd and B. W. Hoeksema *[Differential
+    feeding strategies in phyllidiid nudibranchs on coral reefs at
+    Halmahera, northern Moluccas](http://www.springerlink.com/content/2354121t23720028/)* Coral Reefs Volume 30, Number
+    1 (2011), 59.
+  - Debelius,
+    Helmut, 2001. *[Nudibranchs
 ---
 
 ## Where seen?
@@ -139,26 +156,7 @@ applications such as in human medicine and anti-fouling uses.
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: though
-  without any description of the nudibranchs, there are lots of
-  photos and locations where the species are found and a list of
-  Singapore nudibranchs.
-
-**References**
-  
-
-- J. van Alphen,
-  N. J. de Voogd and B. W. Hoeksema *[Differential
-  feeding strategies in phyllidiid nudibranchs on coral reefs at
-  Halmahera, northern Moluccas](http://www.springerlink.com/content/2354121t23720028/)* Coral Reefs Volume 30, Number
-  1 (2011), 59.
-- Debelius,
-  Helmut, 2001. *[Nudibranchs
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

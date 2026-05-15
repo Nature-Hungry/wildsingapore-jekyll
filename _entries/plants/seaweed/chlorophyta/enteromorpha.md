@@ -67,6 +67,39 @@ page_images:
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
+links_references: |
+  **Links**
+  - [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103)
+    Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index)
+    by Ram�n Bouchet Roullard on the Monterey Bay Aquarium Research
+    Institute website: an excellent site with everything you could
+    possibly want to know about *Enteromorpha* from morphology,
+    life history, ecology, taxonomy. Lots of photos including of microscopic
+    features.
+  - [*Enteromorpha*](http://www.algaebase.org/search/genus/detail/?genus_id=30)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist_second_edition.pdf), 2nd Edition. [Raffles
+    Museum of Biodiversity Research](http://rmbr.nus.edu.sg/raffles_museum_pub/raffles_museum_checklistsl), National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB]
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Chou, L.
+    M., 1998. *[A
+    Guide to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. Singapore Science
+    Centre. 128 pages.
+  - Huisman,
+    John M. 2000. *[Marine
 ---
 
 ## Where seen?
@@ -76,7 +109,8 @@ The seaweed may dominate some shores at certain times of the year,
 to form a bright green furry, short-pile carpet over rocks and stones.
 Clumps are sometimes seen on sandy areas.  
   
-**Features:** Clumps of flexible,
+## Features
+ Clumps of flexible,
 translucent tubes about 3-8cm to 10cm long, 0.2-0.5cm in diameter.
 The tubes only branch at the base. Usually bright green. This seaweed
 grows abundantly in nutrient-rich waters.  
@@ -136,41 +170,7 @@ ovata*
 
 ---
 
-**Links**
 
-- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103)
-  Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index)
-  by Ram�n Bouchet Roullard on the Monterey Bay Aquarium Research
-  Institute website: an excellent site with everything you could
-  possibly want to know about *Enteromorpha* from morphology,
-  life history, ecology, taxonomy. Lots of photos including of microscopic
-  features.
-- [*Enteromorpha*](http://www.algaebase.org/search/genus/detail/?genus_id=30)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist_second_edition.pdf), 2nd Edition. [Raffles
-  Museum of Biodiversity Research](http://rmbr.nus.edu.sg/raffles_museum_pub/raffles_museum_checklistsl), National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB]
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Chou, L.
-  M., 1998. *[A
-  Guide to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. Singapore Science
-  Centre. 128 pages.
-- Huisman,
-  John M. 2000. *[Marine
 
 [www.**flickr**.com](http://www.flickr.com)  
 

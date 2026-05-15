@@ -59,7 +59,8 @@ some of our Northern shores, but often overlooked as it resembles
 a plant. It grows on large boulders, jetty pillings and other hard
 surfaces.   
   
-**Features:** 5-8cm long. The colony
+## Features
+ 5-8cm long. The colony
 comprises a cluster of sparsely branched 'stems', forming short bushes
 or bushy fringes on hard surfaces. Each long stem is a primary polyp
 bearing large secondary polyps in capsules (about 1cm long) regularly

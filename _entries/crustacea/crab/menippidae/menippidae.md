@@ -52,7 +52,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardw
 crabs are commonly seen on our Northern shores, sheltering among stones,
 coral rubble, rubbish and other hiding places.   
   
-**Features:** Body width 10-12cm,
+## Features
+ Body width 10-12cm,
 smaller ones also often seen. Large rounded body with large pincers.  
   
 The common [Stone crab](hardwickii) (*Myomenippe

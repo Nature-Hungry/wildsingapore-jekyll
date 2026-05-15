@@ -72,6 +72,25 @@ page_images:
   caption: |
     <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237851498/">his flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Banded
+    bead anemone (*Epiactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -95,7 +114,8 @@ delicate animals and to accidentally step on them.
 To see one with the tentacles expanded at low tide, look for pools where some
 might still remain submerged.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 1-2cm. One ring of tapering tentacles with a banded pattern.
 The oral disk is relatively large compared to the tentacles and is
 sometimes patterned. The entire animal is usually in shades of brown
@@ -167,27 +187,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Banded
-  bead anemone (*Epiactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

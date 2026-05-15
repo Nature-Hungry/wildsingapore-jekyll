@@ -114,6 +114,20 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
+links_references: |
+  **Links**
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - From the
+    wild shores of singapore: [Pong
+    pong tree yields oil that can replace kerosene](http://wildshores.blogspot.com/2011/01/pong-pong-tree-yields-oil-that-canl).
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -122,7 +136,8 @@ tree in our parks and roadsides and is also sometimes seen growing
 wild on our shores. But the beautiful Pink-eyed pong pong tree is
 rare and only sometimes seen on our shores and coastal forests.  
   
- **Features:** Tree up to 15m tall,
+ ## Features
+ Tree up to 15m tall,
 but in Singapore usually shorter. Bark fissured, flaky, grey to brown
 with lenticels. Produces a white sap.   
   
@@ -179,22 +194,7 @@ pong trees on Singapore shores****
 
 ---
 
-**Links**
 
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- From the
-  wild shores of singapore: [Pong
-  pong tree yields oil that can replace kerosene](http://wildshores.blogspot.com/2011/01/pong-pong-tree-yields-oil-that-canl).
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

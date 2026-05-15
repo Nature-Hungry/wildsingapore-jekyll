@@ -116,13 +116,24 @@ page_images:
   caption: |
     <p>Terumbu Raya, Feb 09Photos shared by Steven von Peltz.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg
+links_references: |
+  **Links**
+  - [*Actinostephanus
+    haekeli*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Actinostephanus%20Kwietniewski%2C%201897)  on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Actinostephanus
+    haekeli*](http://www.sealifebase.org/summary/Actinostephanus-haeckeli.html)  on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 ---
 
 ## Where seen?
  This bizarre and scary-looking anemone is sometimes
 seen on our shores in sand near reefs. Usually, only one is seen in a large area. It can retract completely into the sand at low tide.  
   
-**Features:** 10-20cm in diameter. It has about 12 long fat cylindrical tentacles
+## Features
+ 10-20cm in diameter. It has about 12 long fat cylindrical tentacles
 that taper at the tips, and below these, another ring of much shorter,
 slimmer tentacles. With body column short,
 smooth, with regular stripes. The tentacles are studded with large striped cones that look like batteries of stingers.   
@@ -213,18 +224,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Actinostephanus
-  haekeli*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Actinostephanus%20Kwietniewski%2C%201897)  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Actinostephanus
-  haekeli*](http://www.sealifebase.org/summary/Actinostephanus-haeckeli.html)  on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -54,7 +54,8 @@ a few square metres. They settle on seaweeds and coral rubble areas,
 clinging to sponges, seaweeds, even other larger sea cucumbers and
 encrusting organisms covering the coral rubble.  
   
-**Features:** About 1cm or shorter.
+## Features
+ About 1cm or shorter.
 Often mistaken for worms, each has all the features that bigger sea
 cucumbers have. Body bright red, squarish or quadrangular in cross-section, backside tip translucent white. Tiny tube feet, very long, white. Feeding
 tentacles dark at the base becoming yellowish at tips, branched tips translucent white.

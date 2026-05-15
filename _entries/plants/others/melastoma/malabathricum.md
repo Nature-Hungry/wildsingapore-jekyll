@@ -84,6 +84,24 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
+links_references: |
+  **Links**
+  - *[Melastoma
+    malabathricum](http://floraofsingapore.wordpress.com/2010/08/09/melastoma-malabathricum/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [When
+    the Melastoma Blooms](http://butterflycircle.blogspot.com/2009/11/when-melastoma-bloomsl) from Butterflies of Singapore blog: about
+    the butterflies attracted to the plant when it is in bloom.
+  **References**
+  - Foo Toik
+    Shiew, 1985. *Guide to the Wildflowers of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Yeow
+    Chin. 1992. *[A
+    Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
+    160pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -92,7 +110,8 @@ seen in many of our open wild places, including coastal areas. It
 is sometimes called the Singapore rhododendron although it is not
 a rhododendron and is not confined to Singapore.  
   
-**Features:** Shrub 1-2m tall, though
+## Features
+ Shrub 1-2m tall, though
 they can grow into small trees if left uncut. Leaves narrow and pointed
 at both ends (5-9cm long) with 3-5 longitudinal veins. Stems reddish
 and covered with bristly scales. Flowers purplish-pink, large (5-7cm)
@@ -126,26 +145,7 @@ of the plant is used to fix dyes.
 
 ---
 
-**Links**
 
-- *[Melastoma
-  malabathricum](http://floraofsingapore.wordpress.com/2010/08/09/melastoma-malabathricum/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [When
-  the Melastoma Blooms](http://butterflycircle.blogspot.com/2009/11/when-melastoma-bloomsl) from Butterflies of Singapore blog: about
-  the butterflies attracted to the plant when it is in bloom.
-
-**References**
-
-- Foo Toik
-  Shiew, 1985. *Guide to the Wildflowers of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [links](../../../links)
 | [references](../../../references)

@@ -79,13 +79,31 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233794787/in/album-72157624104220316/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+links_references: |
+  **Links**
+  - [*Physogyra lichtensteini*](https://www.sealifebase.org/summary/Physogyra-lichtensteini.html) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This hard coral covered in bubbles
 is sometimes seen on the intertidal shores in southern Singapore. Elsewhere, they are found in reefs protected from strong waves, especially in murky water. It was previously placed in Family Euphyllidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.  
   
-**Features:** Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks.   
+## Features
+ Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks.   
   
 This hard coral is unique in having large bubbles that obscure the skeleton.
 When fully inflated, the bubbles are translucent, sometimes with pale stripes and resemble grapes in shape and size (1-2cm). When not fully inflated, the bubbles may be less translucent and have one or two white
@@ -155,25 +173,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Physogyra lichtensteini*](https://www.sealifebase.org/summary/Physogyra-lichtensteini.html) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -40,6 +40,29 @@ page_images:
   caption: |
     <p><a href="fornicata">Domed elbow crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
+links_references: |
+  **Links**
+  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Swee Hee and Martyn E. Y. Low. 20 December 2013. *Daldorfia horrida rediscovered in Singapore after a century*. Singapore Biodiversity Records 2013: 128-129
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -47,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/co
 or junk among seaweeds. Some species are larger, more grotesque and
 less often encountered.  
   
-**Features:** Most have highly elongated
+## Features
+ Most have highly elongated
 pincers that stick way out from the sides of its body. Others have
 less obvious 'elbows'.  
   
@@ -115,31 +139,7 @@ Vulnerable)
 
 ---
 
-**Links**
 
-- [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Swee Hee and Martyn E. Y. Low. 20 December 2013. *Daldorfia horrida rediscovered in Singapore after a century*. Singapore Biodiversity Records 2013: 128-129
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

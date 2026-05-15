@@ -59,7 +59,8 @@ coverimg: ../../../../Templates/fornatureguides.gif
  This fiddler crab with a rather short and stout enlarged
 pincer is seen in the back mangroves.  
   
-**Features:** Body width 1-1.5cm.
+## Features
+ Body width 1-1.5cm.
 Body squarish. The male fiddler crab's enlarged pincer about one and
 half time as long as the body width. The enlarged pincer's outer palm
 is pimply with groove on the lower edge. The movable upper finger

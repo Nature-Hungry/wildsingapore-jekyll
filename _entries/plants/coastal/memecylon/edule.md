@@ -49,6 +49,33 @@ page_images:
     <p>Leaves dip in seawater at high tide.</p>
     <p>Chek Jawa, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
+links_references: |
+  **Links**
+  - [*Memecylon
+    edule*](http://floraofsingapore.wordpress.com/2010/08/10/memecylon-edule/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Memecylon
+    edule*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3993) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
  ## Where seen?
@@ -58,7 +85,8 @@ and Labrador, as well as some at our offshore islands including Sentosa Tg Rimau
 The Malay name for the *Memecylon* trees is 'Nipis Kulit' which
 means 'thin skin' refering to their thin bark.  
   
-**Features:** A small tree (3-7m tall).
+## Features
+ A small tree (3-7m tall).
 Bark greyish brown, finely ridged and very thin.  
   
 Leaves eye-shaped (3-7cm) so leathery that the veins are hard to see,
@@ -101,35 +129,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Memecylon
-  edule*](http://floraofsingapore.wordpress.com/2010/08/10/memecylon-edule/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Memecylon
-  edule*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3993) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

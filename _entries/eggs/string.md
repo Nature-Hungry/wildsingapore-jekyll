@@ -69,7 +69,8 @@ may die.
  These noodle-like egg masses are sometimes seen among seagrasses and
 seaweeds in clumps.   
   
-**Features:** Some may be large, about
+## Features
+ Some may be large, about
 0.3cm wide, very long and noodle-like. These may be laid in clumps
 among seagrasses and seaweeds, on on rocks and hard surfaces. Others
 may be very tiny, laid in neat spirals on seagrass blades.

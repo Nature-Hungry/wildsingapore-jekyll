@@ -246,7 +246,8 @@ living by hunting down and eating other animals.
 **Sometimes confused with:** [nudibranchs](../../mollusca/nudibranchia) and [slugs](../../mollusca/slug). More on [how
 to tell them apart](../../glossary/flatwormslug).  
   
-**Features:**  Most are about 1cm
+## Features
+  Most are about 1cm
 long or less, although some 'monster' species 8-10cm long are also
 commonly seen. There are also countless minute free-living flatworms
 that live among sand grains. These flatworms stick onto the sand grains

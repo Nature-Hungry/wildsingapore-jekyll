@@ -38,7 +38,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagra
  Tiny feathery creatures that grow on the leaf blades
 of seagrasses.  
   
-**Features:** 0.5cm long or shorter.
+## Features
+ 0.5cm long or shorter.
 Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
 
  

@@ -44,6 +44,34 @@ page_images:
   caption: |
     <p><a href="isognomum.htm">Elongated toothed oyster</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+links_references: |
+  **Links**
+  - Family Pteriidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*. Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Gosliner,
+    Terrence M., David W. Berens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -53,7 +81,8 @@ fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) and sponges, as well a
 **What are winged oysters?** Winged
 oysters belong to the Family Pteriidae.   
   
- **Features:** 1-8cm. Unlike
+ ## Features
+ 1-8cm. Unlike
 other bivalves, they have comb-like teeth in the hinge, a feature
 of this family. They stick to hard surfaces by byssus threads.  
  **Human uses:** Some species are collected
@@ -120,36 +149,7 @@ oysters) ^Previously in Family Malleidae
 
 ---
 
-**Links**
 
-- Family Pteriidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*. Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Gosliner,
-  Terrence M., David W. Berens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

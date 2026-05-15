@@ -79,6 +79,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
+links_references: |
+  **Links**
+  - *[Szyzigium
+    malaccense](http://floraofsingapore.wordpress.com/2010/04/29/syzygium-malaccense/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Malay
+    apple (*Szyzigium malaccense*)](http://www.hort.purdue.edu/newcrop/morton/malay_applel) New Crop Resource Online
+    Program at Purdue University.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -88,7 +99,8 @@ such as the area near Chek Jawa, Pulau Ubin. A native tree, it was
 brought by early traders to India and Africa. Formerly known as *Eugenia
 malaccense*.   
   
- **Features:** Tall tree (6-10m).
+ ## Features
+ Tall tree (6-10m).
 Leaves are large, arranged opposite one another. Young leaves are
 pinkish. Flowers are large (6cm) and fluffy, in a bright almost painful
 shade of pink, in clusters on branches behind the leaves. Fruits are
@@ -110,19 +122,7 @@ is also made of the seeds and fruits.
 
 ---
 
-**Links**
 
-- *[Szyzigium
-  malaccense](http://floraofsingapore.wordpress.com/2010/04/29/syzygium-malaccense/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Malay
-  apple (*Szyzigium malaccense*)](http://www.hort.purdue.edu/newcrop/morton/malay_applel) New Crop Resource Online
-  Program at Purdue University.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

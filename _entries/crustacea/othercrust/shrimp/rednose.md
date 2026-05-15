@@ -89,7 +89,8 @@ on the bottom of shallow sandy or silty pools left behind at low tide,
 or in small groups among other living animals. They are more active
 at night.  
   
-**Features:** About 1cm long. The
+## Features
+ About 1cm long. The
 tiny shrimp is rather 'fat' and not as slender as other shrimps. The
 large blue eyes are rather far apart. The female has a brownish or
 greenish body, with a white bar and white spots, and often, a red

@@ -44,7 +44,8 @@ of boulders, under jetties on pilings) on our Northern shores near
 the mid-water mark,
 as well as on coral rubble among sponges.  
   
-**Features:** 5-15cm
+## Features
+ 5-15cm
 in diameter. Irregular rubbery layers with many tiny well-spaced holes
 and a few large holes. When in water, inflates into more rounded shapes.
 In various shades of white, pink, lilac and orange. Out of water,

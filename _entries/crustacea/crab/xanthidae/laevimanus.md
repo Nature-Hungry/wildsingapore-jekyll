@@ -113,6 +113,25 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719445406/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg
+links_references: |
+   **Links**  
+  - [Common
+    Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Etisus
+    laevimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1336) in Crabs of Japan on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -121,7 +140,8 @@ is commonly seen on our Southern shores among coral rubble and near
 living reefs. 'Laevi' in Latin means 'left', while 'manus' means hand.
 Indeed, the left pincer is usually larger than the right.  
   
-**Features:** Body width 8-10cm. Body
+## Features
+ Body width 8-10cm. Body
 fan-shaped, rather flat, with 4 blunt teeth on the edges of the shell.
 Colours and patterns in a wide variety; basically brown, beige or
 grey. Plain or with patterns which include pale or yellow mottles,
@@ -205,27 +225,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowledgements**With
 grateful thanks to Ondrej Radosta for identifying the species of the crabs on this page.  
- **Links**  
 
-- [Common
-  Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Etisus
-  laevimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1336) in Crabs of Japan on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

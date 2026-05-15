@@ -41,6 +41,23 @@ page_images:
     <p>Singapore University Press.</p>
     <p>222 pp..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
+links_references: |
+  **Links**
+  - *[Clerodendrum
+    inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Volkameria
+    inermis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1823) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -52,7 +69,8 @@ found along coasts including mangroves. Found from India to Sri Lanka,
 throughout Southeast Asia to southern China, Australia and Polynesia.
 Also known as *Volkameria inermis*.  
   
- **Features:** A shrub (1-4m) with
+ ## Features
+ A shrub (1-4m) with
 drooping stems (0.5-3m), sometimes a small tree (up to 10m). Stems
 woody and smooth.   
   
@@ -88,25 +106,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Clerodendrum
-  inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Volkameria
-  inermis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1823) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -42,13 +42,24 @@ page_images:
   caption: |
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235741628158&set=a.10159235746118158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+links_references: |
+  **Links**
+  - [*Volachlamys
+    singaporina* (Singapore scallop)](http://www.sealifebase.org/summary/speciessummary.php?genusname=Volachlamys&speciesname=singaporina) on SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This small clam is often seen on our Northern
 shores among seagrasses, sometimes attached to other animals like [Window-pane shells](../placunidae/placuna.htm).  
   
-**Features:** Diameter 3-6cm. A circular
+## Features
+ Diameter 3-6cm. A circular
 two-part shell. When submerged, sparse long tentacles emerge, with
 dense shorter tentacles at the edge of the mantle. In some the shell
 is covered with encrusting organisms. When submerged, a fringe of tentacles emerge, some long and
@@ -89,18 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Volachlamys
-  singaporina* (Singapore scallop)](http://www.sealifebase.org/summary/speciessummary.php?genusname=Volachlamys&speciesname=singaporina) on SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

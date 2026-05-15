@@ -48,13 +48,21 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Family
+    Agariciidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Agariciidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal with species factsheets.
 ---
 
 ## Where seen?
  These hard corals with intricately patterned surfaces
 are sometimes seen on our undisturbed Southern shores.  
   
-**Features:**These corals
+## Features
+These corals
 have intricate patterns on their surfaces. Colonies may be boulder-shaped
 (massive) or plate-like (laminar). The polyps are tiny and lack tentacles.
 They rely on mucus
@@ -118,13 +126,6 @@ Leptoseris scabra\*\**
 
 ---
 
-**Links**
-
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Family
-  Agariciidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Agariciidae) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal with species factsheets.
 
 **R****eferences**
 

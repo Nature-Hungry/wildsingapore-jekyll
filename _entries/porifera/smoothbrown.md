@@ -69,11 +69,24 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
+links_references: |
+  **Links**
+  - [*Neopetrosia
+    exigua*](http://www.sealifebase.fisheries.ubc.ca/summary/Neopetrosia-exigua.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Neopetrosia
+    exigua*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166805) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This smooth brown sponge forms a ridged layer over coral rubble and
-is sometimes seen on our Southern shores. **Features:** Thin layer
+is sometimes seen on our Southern shores. ## Features
+ Thin layer
 encrusting small areas 10-20cm sometimes larger. Often with irregular
 low 'walls', folds, knobs and lobes. In deeper water, it may have
 taller lobes or turrets (to 30cm). Texture smooth and velvety (not
@@ -129,20 +142,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Neopetrosia
-  exigua*](http://www.sealifebase.fisheries.ubc.ca/summary/Neopetrosia-exigua.html)
-  on SeaLife Base: technical fact sheet.
-- [*Neopetrosia
-  exigua*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166805) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

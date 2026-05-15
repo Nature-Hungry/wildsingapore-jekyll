@@ -33,6 +33,46 @@ page_images:
   caption: |
     <p>Chek Jawa, Oct 07</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
+links_references: |
+  **Links**
+  - [Paradoxurus
+    hermaphroditus](http://www.iucnredlist.org/details/41693/0) on the IUCN Red List website..
+  - [Common
+    Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Common
+    Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm) on Chan Kwok Wai's Wildlife Singapore website:
+    fact sheet with photos.
+  - [*Paradoxurus hermaphroditus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Paradoxurus%20hermaphroditusl) (Carnivora: Viverridae) Common Palm Civet by Alicia Ng Chiew Rong, 2015, on taxo4254
+  - [Common Palm Civets of Singapore](https://www.facebook.com/singaporecivet/) facebook page.
+  - [Project
+    LUWAK SG facebook page](https://www.facebook.com/projectluwaksg?fref=ts): Love oUr Wild civets, Avoid Kopi luwak.
+    A movement aimed at generating awareness about the kopi luwak
+    trade in Singapore.
+  - [A
+    furry encounter](http://wildshores.blogspot.com/2009/07/tgif-furry-encounterl) with a baby civet cat hand raised by Adelle
+    on the wild shores of singapore blog.
+  - [Raining
+    cats at Chek Jawa](http://wildfilms.blogspot.com/2007/10/raining-cats-at-chek-jawal) an encounter with a civet cat on the wildfilms
+    blog.
+  - [The
+    great 'musang' stakeout](http://wildsingaporenews.blogspot.com/2009/11/great-musang-stakeoutl) The aim: To observe the Toddy Cat's
+    population size and habits Ang Yiying, Straits Times 30 Nov 09
+    on the wildsingapore news blog.
+  **References**
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - [Animal
+    origins of SARS coronavirus: possible links with the international
+    trade in small carnivores](http://rstb.royalsocietypublishing.org/content/359/1447/1107.full.pdf) (PDF) Diana Bell1, Scott Roberton
+    and Paul R. Hunter, 3 Jun 04 on the Royal Society website.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -48,7 +88,8 @@ trees. It is also found in forest, scrubland, parks and mangroves.
 It is more active at night and tends to stay in the trees and high
 places (arboreal).   
   
-**Features:**Head and body to 59cm, tail to 53cm. Long sleek body with short
+## Features
+Head and body to 59cm, tail to 53cm. Long sleek body with short
 limbs and a long tail. It has a long muzzle and small ears. Body dark
 greyish brown with three fine, broken black stripes along the back
 and black spots on the sides. It has a black 'mask' across a pale
@@ -127,48 +168,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Paradoxurus
-  hermaphroditus](http://www.iucnredlist.org/details/41693/0) on the IUCN Red List website..
-- [Common
-  Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Common
-  Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm) on Chan Kwok Wai's Wildlife Singapore website:
-  fact sheet with photos.
-- [*Paradoxurus hermaphroditus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Paradoxurus%20hermaphroditusl) (Carnivora: Viverridae) Common Palm Civet by Alicia Ng Chiew Rong, 2015, on taxo4254
-- [Common Palm Civets of Singapore](https://www.facebook.com/singaporecivet/) facebook page.
-- [Project
-  LUWAK SG facebook page](https://www.facebook.com/projectluwaksg?fref=ts): Love oUr Wild civets, Avoid Kopi luwak.
-  A movement aimed at generating awareness about the kopi luwak
-  trade in Singapore.
-- [A
-  furry encounter](http://wildshores.blogspot.com/2009/07/tgif-furry-encounterl) with a baby civet cat hand raised by Adelle
-  on the wild shores of singapore blog.
-- [Raining
-  cats at Chek Jawa](http://wildfilms.blogspot.com/2007/10/raining-cats-at-chek-jawal) an encounter with a civet cat on the wildfilms
-  blog.
-- [The
-  great 'musang' stakeout](http://wildsingaporenews.blogspot.com/2009/11/great-musang-stakeoutl) The aim: To observe the Toddy Cat's
-  population size and habits Ang Yiying, Straits Times 30 Nov 09
-  on the wildsingapore news blog.
-
-**References**
-
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- [Animal
-  origins of SARS coronavirus: possible links with the international
-  trade in small carnivores](http://rstb.royalsocietypublishing.org/content/359/1447/1107.full.pdf) (PDF) Diana Bell1, Scott Roberton
-  and Paul R. Hunter, 3 Jun 04 on the Royal Society website.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -75,13 +75,37 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Jun 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161175291733654&set=a.10161175268323654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
+links_references: |
+  **Links**
+  - [Poisonous
+    Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Platypodia
+    granulosa*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1266)
+    Crabs of Japan, on Marine Species Identification Portal: Technical
+    fact sheet.
+  - [*Platypodia
+    granulosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21450) on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  This brown crab with distinctive notches on the side
 of its body is sometimes seen on our reefs and coral rubble, usually well camouflaged.  
   
-**Features:** Body width 4-6cm. Body
+## Features
+ Body width 4-6cm. Body
 and claws chocolate brown and covered with large rounded bumps. Smooth
 sides on the body edges with regular notches highlighted in pale bars
 that make the creature resemble a curry puff or pie. Pincers large
@@ -136,31 +160,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Platypodia
-  granulosa*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1266)
-  Crabs of Japan, on Marine Species Identification Portal: Technical
-  fact sheet.
-- [*Platypodia
-  granulosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21450) on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

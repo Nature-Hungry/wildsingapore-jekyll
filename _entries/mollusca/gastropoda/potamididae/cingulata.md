@@ -35,6 +35,31 @@ page_images:
   caption: |
     <p>Flared shell opening with spout-like tip.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+links_references: |
+  **Links**
+  - [Girdled
+    horn snail (*Cerithidea cingulata*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86861) on SeaLife Base:
+    Technical fact sheet.
+  - Girdled horn
+    snail (*Cerithidea cingulata*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -42,7 +67,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae
 sheltered places and monsoon drains near the sea, also on mangrove
 mudflats.  
   
-**Features:** 2-3cm. Shell conical
+## Features
+ 2-3cm. Shell conical
 with spirals of large beads. Shell opening large and flared with a
 spout-like tip. Operculum thin, dark with tight spirals.  
   
@@ -71,33 +97,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Girdled
-  horn snail (*Cerithidea cingulata*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86861) on SeaLife Base:
-  Technical fact sheet.
-- Girdled horn
-  snail (*Cerithidea cingulata*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

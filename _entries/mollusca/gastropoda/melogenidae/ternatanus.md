@@ -43,7 +43,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae
 ## Where seen?
  This large snail is rarely seen alive, so far only on our Northern shores. Although the empty shell is sometimes seen, usually occupied by a hermit crab.  
   
-**Features:**  7-12cm. Shell large,
+## Features
+  7-12cm. Shell large,
 thick with a long siphonal canal. Operculum teardrop-shaped and made
 out of a horn-like material. Body pale with black speckles.   
   

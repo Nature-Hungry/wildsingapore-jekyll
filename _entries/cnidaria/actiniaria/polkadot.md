@@ -65,7 +65,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/08
  This small anemone with large polka dots on its
 body column is sometimes seen in seagrass meadows.  
   
-**Features:** Diameter 3-4cm with tentacles expanded. Many tentacles, tapering translucent
+## Features
+ Diameter 3-4cm with tentacles expanded. Many tentacles, tapering translucent
 with tiny white spots. Body column short translucent with large white
 edged circular spots. Broad foot which it uses to cling onto seagrass
 blades.

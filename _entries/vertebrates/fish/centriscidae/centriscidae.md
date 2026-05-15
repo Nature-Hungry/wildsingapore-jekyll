@@ -102,6 +102,43 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653907722906&set=a.10160653901047906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg
+links_references: |
+  **Links**  
+  - [Longspine
+    Razorfish (*Aeoliscus strigatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/246.htm) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Centriscidae (Razorfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Syngnathiformes-Centriscidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family
+    Centriscidae (Snipefishes and shrimpfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=256) and [*Aeoliscus
+    strigatus* (Razorfish)](http://www.fishbase.org/summary/6503) and [*Centriscus
+    scutatus* (Grooved razor-fish)](http://www.fishbase.org/summary/6510) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Toh Chay Hoon. 7 March 2015. Longspine
+    razorfish (*Aeoliscus strigatus*) at Pulau Hantu. 7 Mar
+    2014. Singapore Biodiversity Records 2014: 63
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -112,7 +149,8 @@ found in muddy bottoms near mangroves to inshore reefs. They often swim head dow
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=256):
 there are 5 genera and 15 species, and these are found in the Indo-Pacific.
 They are sometimes also called Shrimpfishes, probably because at first
-glance they look more like shrimps than fishes. **Features:** Those seen 6-10cm, up to 15cm long. Body long pointed on both ends, flattened knife-like with narrow pointed snout and small toothless mouth. Upper side covered in transparent thin plate-like armour that are extensions
+glance they look more like shrimps than fishes. ## Features
+ Those seen 6-10cm, up to 15cm long. Body long pointed on both ends, flattened knife-like with narrow pointed snout and small toothless mouth. Upper side covered in transparent thin plate-like armour that are extensions
 of the vertebrate. The first dorsal spine is long and sharp and located
 at the end of the body. There are two short spines next to it. In
 *Aoeliscus* the dorsal spine is hinged,
@@ -205,45 +243,7 @@ strigatus* (Longspined razorfish) *Centriscus scutatus*
 
 ---
 
-**Links**  
 
-- [Longspine
-  Razorfish (*Aeoliscus strigatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/246.htm) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Centriscidae (Razorfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Syngnathiformes-Centriscidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family
-  Centriscidae (Snipefishes and shrimpfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=256) and [*Aeoliscus
-  strigatus* (Razorfish)](http://www.fishbase.org/summary/6503) and [*Centriscus
-  scutatus* (Grooved razor-fish)](http://www.fishbase.org/summary/6510) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Toh Chay Hoon. 7 March 2015. Longspine
-  razorfish (*Aeoliscus strigatus*) at Pulau Hantu. 7 Mar
-  2014. Singapore Biodiversity Records 2014: 63
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

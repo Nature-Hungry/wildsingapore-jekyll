@@ -107,7 +107,8 @@ are small and may retract at low tide. Don't step on them!
 on many of our shores. On coral rubble and among seagrasses in large
 seagrass meadows.   
   
-**Features:** Colonies generally 5-10cm,
+## Features
+ Colonies generally 5-10cm,
 each polyp about 1-2cm in diameter with a wide oral disk on a long
 stout body column. This zoanthid incorporates sand in its body so
 the body column feels rough to the touch. The wide oral disk has furrows

@@ -68,6 +68,37 @@ page_images:
     <p>Leaves covered with other plants and animals Labrador, Oct 04</p>
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050513labg6440m3.jpg
   caption: <p>Thick underground stemLabrador, May 05</p>
+links_references: |
+  **Links**  
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - *[Thalassia hemprichii](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassia%20hemprichiil)* (Hydrocharitales: Hydrocharitaceae) by Cheok Zi Yu, 2016, on taxo4254.
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach*. Division of Biology, School
+    of Science, Nanyang Technological University & Department
+    of Zoology, the National University of Singapore. 160 pp.
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
 ---
 
 if you
@@ -93,7 +124,8 @@ found from shallow subtidal areas to 10m and deeper. It does not tolerate
 long periods of exposure and does not appear to do well in areas with
 freshwater runoff.   
   
-**Features:**The seagrass
+## Features
+The seagrass
 has strap or curved, sickle-shaped leaves (0.5-1cm wide and 7-40cm
 long, usually less than 25cm). The tips are usually rounded and smooth.
 The leaves may appear speckled due to tannin cells that appear red,
@@ -160,39 +192,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- *[Thalassia hemprichii](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassia%20hemprichiil)* (Hydrocharitales: Hydrocharitaceae) by Cheok Zi Yu, 2016, on taxo4254.
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach*. Division of Biology, School
-  of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)

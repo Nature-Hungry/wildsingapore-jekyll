@@ -73,6 +73,22 @@ page_images:
   caption: |
     <p>East Coast, May 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl">his blog</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. With descriptions of [*Temnopleurus*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/TEMNOPLE/TEMNOPLE.jsp)
+  - [*Temnopleurus
+    toreumaticus* (Striped spine urchin)](http://www.sealifebase.org/summary/Temnopleurus-toreumaticusl) and *[Temnotrema
+    siamense](http://www.sealifebase.org/summary/Temnotrema-siamensel)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Jeffrey K. Y. Low. 29 May 2015. *Globe urchin in the Singapore Strait, Mespilia globulus*. Singapore Biodiversity Records 2015: 65
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
+    Other Echinoderms of Singapore*. Singapore Science Centre.
+    187pp.
 ---
 
 ## Where seen?
@@ -81,7 +97,8 @@ our Northern shores. Large heaps of many individuals are sometimes
 seen. At other times, there are none to be seen. Sandy areas near
 seagrasses as well as coral rubble and rocky shores and under jetties.   
   
-**Features:** Body diameter 4-5cm,
+## Features
+ Body diameter 4-5cm,
 sometimes tiny ones about 1cm in diameter are seen among seaweeds.
 Short slender spines (1-2cm) with long translucent tube feet that
 may extend past the spines. The spines on the upperside are black
@@ -147,24 +164,7 @@ Temnopleurus siamensis=^Temnotrema siamense?*
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. With descriptions of [*Temnopleurus*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/TEMNOPLE/TEMNOPLE.jsp)
-- [*Temnopleurus
-  toreumaticus* (Striped spine urchin)](http://www.sealifebase.org/summary/Temnopleurus-toreumaticusl) and *[Temnotrema
-  siamense](http://www.sealifebase.org/summary/Temnotrema-siamensel)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Jeffrey K. Y. Low. 29 May 2015. *Globe urchin in the Singapore Strait, Mespilia globulus*. Singapore Biodiversity Records 2015: 65
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
-  Other Echinoderms of Singapore*. Singapore Science Centre.
-  187pp.
 
 [links](../../../links)
 | [references](../../../references)

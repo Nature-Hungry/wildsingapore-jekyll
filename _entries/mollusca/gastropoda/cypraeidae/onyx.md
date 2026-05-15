@@ -52,6 +52,38 @@ page_images:
   caption: |
     <p>East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+links_references: |
+  **Links**
+  - [Onyx
+    cowrie (*Cypraea onyx*)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923) on SeaLife Base: Technical
+    fact sheet.
+  - Onyx cowrie
+    (*Cypraea onyx*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food
+    and Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to
+    Hawaii exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -61,7 +93,8 @@ undisturbed Northern shores, in silty sandy areas near seagrasses
 and coral rubble. Elsewhere, it is found in coral rubble and muddy
 areas including mangroves. It was previously known as *Cypraea onyx*.  
   
-**Features:**3-4cm, up to 6cm. Shell pear-shaped, dark
+## Features
+3-4cm, up to 6cm. Shell pear-shaped, dark
 brown to orange with 2 or 3 bands of gold. The underside
 is black with an orange tinge on the 'teeth'. The living animal has a mantle with a dark to golden
 yellow base, usually mottled but sometimes uniform.   
@@ -108,40 +141,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Onyx
-  cowrie (*Cypraea onyx*)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923) on SeaLife Base: Technical
-  fact sheet.
-- Onyx cowrie
-  (*Cypraea onyx*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food
-  and Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to
-  Hawaii exclusive of the vertebrates* Sea Challengers. 314pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -85,6 +85,19 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
+links_references: |
+  **Links**
+  - [*Fagraea
+    auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)
+    on the Total Vascular Plants of Singapore blog: photos and fact
+    sheet.
+  **References**
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *[A
+    Guide to Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science
+    Centre Guidebook. 168pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -95,7 +108,8 @@ Pulau Biola. According to Hsuan Keng, it was found at Pulau Pawai.
 It is also widely cultivated as an ornamental because of its large
 pretty flowers.  
   
- **Features:** A climbing shrub or
+ ## Features
+ A climbing shrub or
 epiphyte (growing on other trees). According to Burkill, it starts
 life as an epiphyte, extending its roots to the ground in the process
 killing the host tree. Leaves leathery and large (25-35cm) with a
@@ -132,21 +146,7 @@ plants of Singapore.
 **Acknowledgements**  
 With grateful thanks to Andrew Tay for identifying this plant.
 
-**Links**
 
-- [*Fagraea
-  auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)
-  on the Total Vascular Plants of Singapore blog: photos and fact
-  sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[A
-  Guide to Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science
-  Centre Guidebook. 168pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -81,6 +81,30 @@ page_images:
   caption: |
     <p>Terumbu Raya, Jun 15Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.949142245137168.1073741842.109257872458947&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudoceros
+    laingensis*](http://polycladida.lifedesks.org/pages/3101) on Encyclopedia of Life, LifeDesks, Marine
+    Flatworms - Polycladida: Technical fact sheet.
+  **References**
+  - *[Mating behavior, spawning, parental care, and embryonic development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore](https://doi.org/10.1111/ivb.12293)*.
+    Samantha Jia Wen Tong and Rene S.L. Ong. 27 June 2020. Invertebrate Biology.
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve
+    new species from Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 1998 Pp. 293-323.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -89,7 +113,8 @@ on our Northern shores, among coral rubble. It seems to be seasonally
 common, with many of worms seen on one visit, and none later on. It
 is more active at night. The flatworm is named after Laing Island in Papua New Guinea.  
   
-**Features:** 4-6cm long. Body cream with scattered purple spots. Some have very few spots
+## Features
+ 4-6cm long. Body cream with scattered purple spots. Some have very few spots
 on the body, in others, there are portions with spots and portions
 without. On the body margin are purple spots close to one another, margin usually not very ruffled. Underside uniformly
 cream. It has a pair of
@@ -155,31 +180,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 **Acknowledgement**  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.  
-  
-**Links**
-
-- [*Pseudoceros
-  laingensis*](http://polycladida.lifedesks.org/pages/3101) on Encyclopedia of Life, LifeDesks, Marine
-  Flatworms - Polycladida: Technical fact sheet.
-
-**References**
-
-- *[Mating behavior, spawning, parental care, and embryonic development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore](https://doi.org/10.1111/ivb.12293)*.
-  Samantha Jia Wen Tong and Rene S.L. Ong. 27 June 2020. Invertebrate Biology.
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve
-  new species from Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 1998 Pp. 293-323.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

@@ -66,6 +66,41 @@ page_images:
     <p>Pulau Hantu, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/34186266745/">flickr</a>.</p>
     <p>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg
+links_references: |
+  **Links**  
+  - [Squaretail
+    mullet (*Ellochelon vaigensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/233.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Mullets](http://www.ecologyasia.com/verts/fishes/mullets.htm) on Ecology Asia.
+  - [Family
+    Mugilidae](http://www.fishbase.org/summary/FamilySummary.php?ID=359) and [*Chelon
+    macrolepis* (Largescale mullet)](http://www.fishbase.org/summary/4816) and [*Chelon
+    subviridis* (Greenback mullet)](http://www.fishbase.org/summary/4819) and *[Ellochelon
+    vaigiensis](http://www.fishbase.org/summary/5656)*[(Squaretail mullet)](http://www.fishbase.org/summary/5656) and *[Moolgarda
+    seheli](http://www.fishbase.org/summary/5659)*[(Bluespot mullet)](http://www.fishbase.org/summary/5659) and *[Moolgarda
+    cunnesius](http://www.fishbase.org/summary/4700)*[(Longarm mullet)](http://www.fishbase.org/summary/4700) and *[Myxus
+    elongatus](http://www.fishbase.org/summary/12823)*[(Sand grey mullet)](http://www.fishbase.org/summary/12823) and *[Moolgarda
+    engeli](http://www.fishbase.org/summary/5658)*[(Kanda)](http://www.fishbase.org/summary/5658) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.HTM) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kelvin K. P. Lim & Tan Heok Hui. 30 April 2020. *New Singapore record of the fringelip mullet, Crenimugil heterocheilus*. Singapore Biodiversity Records 2020: 46 ISSN 2345-7597
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -81,7 +116,8 @@ and 72 species. They are found in tropical and temperate seas. Species
 can look very similar and are hard to tell apart in the field. Some
 can reach 90cm long.  
   
-**Features:** On the intertidal,
+## Features
+ On the intertidal,
 tiny to small juveniles (1-4cm) can be seen. Body long and cylindrical with
 a broad flat blunt head and a small mouth. Two dorsal fins, wide apart
 from one another. Colour generally silvery, some with stripes.
@@ -160,43 +196,7 @@ Valamugil seheli=\*\*Moolgarda seheli*
 
 ---
 
-**Links**  
 
-- [Squaretail
-  mullet (*Ellochelon vaigensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/233.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Mullets](http://www.ecologyasia.com/verts/fishes/mullets.htm) on Ecology Asia.
-- [Family
-  Mugilidae](http://www.fishbase.org/summary/FamilySummary.php?ID=359) and [*Chelon
-  macrolepis* (Largescale mullet)](http://www.fishbase.org/summary/4816) and [*Chelon
-  subviridis* (Greenback mullet)](http://www.fishbase.org/summary/4819) and *[Ellochelon
-  vaigiensis](http://www.fishbase.org/summary/5656)*[(Squaretail mullet)](http://www.fishbase.org/summary/5656) and *[Moolgarda
-  seheli](http://www.fishbase.org/summary/5659)*[(Bluespot mullet)](http://www.fishbase.org/summary/5659) and *[Moolgarda
-  cunnesius](http://www.fishbase.org/summary/4700)*[(Longarm mullet)](http://www.fishbase.org/summary/4700) and *[Myxus
-  elongatus](http://www.fishbase.org/summary/12823)*[(Sand grey mullet)](http://www.fishbase.org/summary/12823) and *[Moolgarda
-  engeli](http://www.fishbase.org/summary/5658)*[(Kanda)](http://www.fishbase.org/summary/5658) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.HTM) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kelvin K. P. Lim & Tan Heok Hui. 30 April 2020. *New Singapore record of the fringelip mullet, Crenimugil heterocheilus*. Singapore Biodiversity Records 2020: 46 ISSN 2345-7597
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

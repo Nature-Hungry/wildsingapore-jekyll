@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia
  These
 tiny burrowing animals pock-mark some hard corals.  
   
-**Features:** Often, all that can
+## Features
+ Often, all that can
 be seen on the surface of the hard coral are tiny slits (0.2cm), sometimes
 bright blue.  
 

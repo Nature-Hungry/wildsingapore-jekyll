@@ -79,6 +79,24 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4186902707/in/pool-1329734@N22">her flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
+links_references: |
+  **Links**  
+  - [Gold-spotted
+    mudskipper (*Periophthalmus chrysospilos*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371.htm) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Periophthalmus
+    chrysospilos*](http://www.mudskipper.it/SpeciesPages/chry.html) from [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
+    with lots of photos.
+  - [*Periophthalmus
+    chrysospilos*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=25085) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Gold-spotted
+    mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/gold-spotted-mudskipper.htm)
+    on [EcologyAsia](http://www.ecologyasia.com/): photos
+    and fact sheet.
 ---
 
 ## Where seen?
@@ -87,7 +105,8 @@ our shores. On all kinds of shores including rocky shores, sandy areas
 near mangroves and seagrasses, as well as on coral rubble areas near
 reefs.  
   
-**Features:** 6-12cm. Gaily speckled
+## Features
+ 6-12cm. Gaily speckled
 with orange-yellow spots on 'cheeks' and the sides of the body. Often with many dark bars along the body too. The male
 raises his bright orange-and-black dorsal fin to court females and
 intimidate rival males. Unlike females, males have elongated spikes
@@ -138,24 +157,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Gold-spotted
-  mudskipper (*Periophthalmus chrysospilos*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371.htm) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Periophthalmus
-  chrysospilos*](http://www.mudskipper.it/SpeciesPages/chry.html) from [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
-  with lots of photos.
-- [*Periophthalmus
-  chrysospilos*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=25085) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Gold-spotted
-  mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/gold-spotted-mudskipper.htm)
-  on [EcologyAsia](http://www.ecologyasia.com/): photos
-  and fact sheet.
 
 **Other
 references**

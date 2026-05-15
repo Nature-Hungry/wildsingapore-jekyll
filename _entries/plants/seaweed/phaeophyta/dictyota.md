@@ -74,13 +74,27 @@ page_images:
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+links_references: |
+  **Links**
+  - [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf) (pdf). Raffles Museum
+    of Biodiversity Research, National University of Singapore, Singapore.
+    100 pp. Uploaded 1 August 2011.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*[Field
 ---
 
 ## Where seen?
  This flat strap-like brown seaweed is sometimes seen
 on many of our shores, often anchored in bare sand.  
   
-**Features:** A bunch of several to
+## Features
+ A bunch of several to
 many strap-like blades about 1-2cm wide and 10-15cm long, branching
 on one plane forming Y-shapes with rounded or squarish tips. The seaweed
 does not have a prominent midrib or vein. Usually a plain translucent
@@ -156,21 +170,7 @@ Dictyota lata*
 
 ---
 
-**Links**
 
-- [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf) (pdf). Raffles Museum
-  of Biodiversity Research, National University of Singapore, Singapore.
-  100 pp. Uploaded 1 August 2011.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*[Field
 
 [links](../../../links)
 | [references](../../../references)

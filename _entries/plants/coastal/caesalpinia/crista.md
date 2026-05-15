@@ -55,6 +55,38 @@ page_images:
   caption: |
     <p>Pulau Ubin, Nov 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
+links_references: |
+  **Links**
+  - *[Caesalpinia
+    crista](http://floraofsingapore.wordpress.com/2010/06/01/caesalpinia-crista/)* on the The Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Caesalpinia
+    crista](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5731)* on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -68,7 +100,8 @@ by angry little squirrels! According to Hsuan Keng, it was found on
 sandy beaches and fringes of mangroves at Kranji and Jurong. It was
 previously known as *C. nuga*.  
   
- **Features:** A climber (5-20m long)
+ ## Features
+ A climber (5-20m long)
 that can scramble over tall trees. The plant is armed with tiny little
 thorns which are often black on a long, strong usually green stem.
 Young stems are red turning green.  
@@ -123,40 +156,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Caesalpinia
-  crista](http://floraofsingapore.wordpress.com/2010/06/01/caesalpinia-crista/)* on the The Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Caesalpinia
-  crista](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5731)* on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

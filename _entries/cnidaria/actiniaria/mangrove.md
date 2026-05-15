@@ -56,7 +56,8 @@ mouth is sometimes seen on our Northern shores. Can be seen in large
 numbers in very soft silty mudflats near mangroves. A few individuals
 may be seen in other silty sandy shores near freshwater inputs.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 3-6cm. Tentacles many, with pointed tips, generally pale
 white to beige, some with broad, diffuse bands. One upper ring of
 longer, thicker tentacles. Below, another ring of many shorter, thinner

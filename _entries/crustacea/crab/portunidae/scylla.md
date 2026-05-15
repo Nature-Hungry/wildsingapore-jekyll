@@ -73,6 +73,47 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
+links_references: |
+  **Links**
+  - [Mud
+    Crab (*Scylla serrata*)](http://mangrove.nus.edu.sg/pub/seashore/text/203)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Family Portunidae
+    in
+    the Crabs section by Peter K. L. Ng in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on the
+    Food and Agriculture Organization of the United Nations (FAO)
+    website.
+  - [Mud
+    Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044) descriptions of various species of
+    Mud crabs.
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Orange
+    mud crab (*Scylla olivacea*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1082&menuentry=soorten) and [*Scylla
+    paramamosain*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1083) and [Mangrove
+    crab (*Scylla serrata*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1084&menuentry=soorten) and *[Scylla
+    tranquebarica](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1085&menuentry=soorten)* on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Kelvin K. P. Lim. 3 October 2014. *Orange mud-crab at Pasir Ris mangrove, Scylla olivacea*. Singapore Biodiversity Records 2014: 270.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -83,7 +124,8 @@ likely to be fully grown adults that were taken from seafood markets
 and released as part of religious rituals, unfortunately, usually
 in unsuitable habitats.  
   
-**Features:** Body width to about
+## Features
+ Body width to about
 20cm. Body somewhat fan-shaped with 9 spines on the sides but the
 last tooth is not enlarged as it is in [flower
 crabs](pelagicus).
@@ -153,49 +195,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mud
-  Crab (*Scylla serrata*)](http://mangrove.nus.edu.sg/pub/seashore/text/203)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Family Portunidae
-  in
-  the Crabs section by Peter K. L. Ng in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on the
-  Food and Agriculture Organization of the United Nations (FAO)
-  website.
-- [Mud
-  Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044) descriptions of various species of
-  Mud crabs.
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Orange
-  mud crab (*Scylla olivacea*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1082&menuentry=soorten) and [*Scylla
-  paramamosain*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1083) and [Mangrove
-  crab (*Scylla serrata*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1084&menuentry=soorten) and *[Scylla
-  tranquebarica](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1085&menuentry=soorten)* on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Kelvin K. P. Lim. 3 October 2014. *Orange mud-crab at Pasir Ris mangrove, Scylla olivacea*. Singapore Biodiversity Records 2014: 270.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -37,6 +37,21 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
+links_references: |
+  **Links**
+  - [*Canavalia
+    cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -45,7 +60,8 @@ green leaves is sometimes seen on our wild coastal areas. According
 to Hsuan Keng, it was common on our sandy shores. It was previously
 known as *Canavalia turgida, C. obtusifolia*.  
   
- **Features:** A twinning climber.
+ ## Features
+ A twinning climber.
 Compound leaf made up of three leaflets eye-shaped (4-9cm) thin. Flowers
 (2-2.5cm) rose-pink to dark purple. Several flowers on a long stalk.
 Fruits are oval pods (3-5cm long) with 3 keels pointed tip, flat green
@@ -79,23 +95,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Canavalia
-  cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

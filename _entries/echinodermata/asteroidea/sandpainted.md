@@ -71,6 +71,11 @@ page_images:
   caption: |
     <p>St John's Island, Oct 20 Photo shared by JIanlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806535786295&set=a.10157806532326295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
+links_references: |
+  **Links**
+  - [*Astropecten vappa*](https://www.sealifebase.ca/summary/Astropecten-vappal) on SeaLife Base: Technical fact sheet
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
 ---
 
 ## Where seen?
@@ -78,7 +83,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpa
 large colourful fast moving sea star is sometimes encountered on our
 Northern shores. In sandy or silty shores, near seagrasses. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.  
   
-**Features:** Diameter with arms 6-8cm. Body rather flat. Usually 5 arms
+## Features
+ Diameter with arms 6-8cm. Body rather flat. Usually 5 arms
 long, tapered to a sharp tip. Along the sides of the arms are large
 marginal plates and stout flat long spines. These spines resemble
 the teeth of a comb and members of this family are sometimes called
@@ -133,11 +139,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Astropecten vappa*](https://www.sealifebase.ca/summary/Astropecten-vappal) on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.

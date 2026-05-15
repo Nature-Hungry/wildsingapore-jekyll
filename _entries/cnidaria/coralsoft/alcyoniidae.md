@@ -113,6 +113,60 @@ page_images:
     <p>No siphonozooids.</p>
     <p>Prickly surface due to tiny spicules.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Soft
+    corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Alcyoniidae](http://species-identification.org/species.php?species_group=corals&id=137&menuentry=groepen)
+    on on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Y. Benayahu
+    and L. P. van Ofwegen. Aug 2011. *New
+    species of the genus Sinularia (Octocorallia: Alcyonacea) from
+    Singapore, with notes on the occurrence of other species of the
+    genus*. The Raffles Bulletin of Zoology 2011 59(2). Pp. 117-125.
+  - Y. Benayahu
+    and L. M. Chou, 28 Feb 2010. *On
+    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+    with a description of a new Cladiella species*. The Raffles
+    Bulletin of Zoology 58(1) Pp. 1-13.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -134,7 +188,8 @@ to the Family Alcyoniidae which has about 15 genera, the more commonly
 encountered ones on our shores being: *Sinularia, Sacrophyton* and *Lobophytum*. Together with the genera *Alcyonium* and *Cladiella*, these five genera make up the vast majority of octocorals
 found throughout the world.  
   
-**Features:**A colony is made
+## Features
+A colony is made
 up of tiny polyps embedded in a common leathery tissue. Members of
 the family may have two kinds of polyps.   
   
@@ -270,62 +325,7 @@ leathery soft coral) with species recorded for Singapore
 
 ---
 
-**Links**
 
-- [Soft
-  corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Alcyoniidae](http://species-identification.org/species.php?species_group=corals&id=137&menuentry=groepen)
-  on on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Y. Benayahu
-  and L. P. van Ofwegen. Aug 2011. *New
-  species of the genus Sinularia (Octocorallia: Alcyonacea) from
-  Singapore, with notes on the occurrence of other species of the
-  genus*. The Raffles Bulletin of Zoology 2011 59(2). Pp. 117-125.
-- Y. Benayahu
-  and L. M. Chou, 28 Feb 2010. *On
-  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-  with a description of a new Cladiella species*. The Raffles
-  Bulletin of Zoology 58(1) Pp. 1-13.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -47,6 +47,54 @@ page_images:
   caption: |
     <p><a href="quadrata.htm">Black Chut-chut</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+links_references: |
+  **Links**
+  - [Mud
+    creepers (*Cerithidea obtusa*)](http://mangrove.nus.edu.sg/guidebooks/text/2081.htm), [Belitong
+    (*Terebralia sulcata*)](http://mangrove.nus.edu.sg/guidebooks/text/2082.htm), [Rodong/Berongan
+    (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Telescope
+    Creeper Shell (*Telescopium telescopium*), Obtuse creeper
+    (*Cerithidae obtusa*), Sulcate creeper (*Terebralia sulcata*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm)
+    [Creeper
+    Shell (*Batillaria zonalis*)](http://mangrove.nus.edu.sg/pub/seashore/text/138.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Potamididae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Potamididae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on Nerites with photos.
+  - Family Potamididae
+    in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -61,7 +109,8 @@ are edible and were eaten in the past, less so these days.
 ## Where seen?
  Horn snails are common in our mangroves but often overlooked. Small ones creep on mangrove tree trunks and leaves, larger ones are found on mud.  
   
-**Features:** Shell long and conical.
+## Features
+ Shell long and conical.
 Operculum is made of a horn-like material usually with a tight
 spiral pattern. Some have a third eye on their mantle margin, in addition to a pair of
 eyes on tentacles. Here's
@@ -122,56 +171,7 @@ snail) *[Telescopium telescopium](telescopium.htm)* (Rodong) *Terebralia palustr
 
 ---
 
-**Links**
 
-- [Mud
-  creepers (*Cerithidea obtusa*)](http://mangrove.nus.edu.sg/guidebooks/text/2081.htm), [Belitong
-  (*Terebralia sulcata*)](http://mangrove.nus.edu.sg/guidebooks/text/2082.htm), [Rodong/Berongan
-  (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Telescope
-  Creeper Shell (*Telescopium telescopium*), Obtuse creeper
-  (*Cerithidae obtusa*), Sulcate creeper (*Terebralia sulcata*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm)
-  [Creeper
-  Shell (*Batillaria zonalis*)](http://mangrove.nus.edu.sg/pub/seashore/text/138.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Potamididae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Potamididae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on Nerites with photos.
-- Family Potamididae
-  in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

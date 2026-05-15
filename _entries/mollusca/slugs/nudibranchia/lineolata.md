@@ -141,6 +141,45 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594437945&set=a.10158447654442945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of *[Chromodoris
+    lineolata](http://www.seaslugforum.net/find/chroline)* and the similar *[Chromodoris
+    striatella](http://www.seaslugforum.net/find/chrstria)*
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: Photo
+    and distribution of *[Chromodoris
+    lineolata](http://rmbr.nus.edu.sg/nudibranch/nudipages/lineolata.html)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chou,
+    L. M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
 ---
 
 ## Where seen?
@@ -148,7 +187,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lin
 on our Southern shores among living reefs and on coral rubble. Towards the late 2010's, they have also become commonly seen on our Northern shores. Sometimes,
 it can be seen in large numbers.  
   
-**Features:** 2-3cm long. Long body
+## Features
+ 2-3cm long. Long body
 with broad tail, black with fine white lines. The body and the foot
 are edged in a broad yellow or orange border with a black line along
 the inner edge of the orange border. The tips of the flower-like gills
@@ -248,47 +288,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of *[Chromodoris
-  lineolata](http://www.seaslugforum.net/find/chroline)* and the similar *[Chromodoris
-  striatella](http://www.seaslugforum.net/find/chrstria)*
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: Photo
-  and distribution of *[Chromodoris
-  lineolata](http://rmbr.nus.edu.sg/nudibranch/nudipages/lineolata.html)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chou,
-  L. M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

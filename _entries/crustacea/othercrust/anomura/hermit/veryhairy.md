@@ -154,13 +154,18 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695060251/in/album-72157624263311376/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5289m3.jpg
+links_references: |
+  **Links**
+  - *[Dardanus
+    lagopodes](http://www.sealifebase.org/summary/SpeciesSummary.php?id=21039)* on SeaLife Base: Technical fact sheet.
 ---
 
 ## Where seen?
  This very hairy and large hermit crab is sometimes seen, on
 reefs and rubble of our Southern shores.  
   
-**Features:** Body 4-8cm long, among
+## Features
+ Body 4-8cm long, among
 the largest of our hermit crabs. Body not hairy, paler on top, sides
 colourful (red with a purple stripe) with pale dots. The left pincer is slightly larger than
 the right pincer, both rather slender. Walking legs and pincers very
@@ -271,10 +276,6 @@ With grateful thanks to [liwaliw](http://www.flickr.com/people/13027552@N03/)
 for identifying this hermit crab on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/4992879985/).  
   
-**Links**
-
-- *[Dardanus
-  lagopodes](http://www.sealifebase.org/summary/SpeciesSummary.php?id=21039)* on SeaLife Base: Technical fact sheet.
 
 [links](../../../../links)
 | [references](../../../../references)

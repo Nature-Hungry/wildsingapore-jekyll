@@ -44,13 +44,24 @@ page_images:
   caption: |
     <p>Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10158761616278713&set=a.10158761681943713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
+links_references: |
+  **Links**  
+  - [False
+    stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including a fact sheet on
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
  This rock-like fish is seldom seen, usually our southern
 shores on coral rubble areas near reefs or rocky shores.  
   
- **Features:** 15-30cm long with a
+ ## Features
+ 15-30cm long with a
 humped back. Small eyes that don't stick out of the head, with small
 shallow depression near the eyes, not as large and deep as the true [Hollow-cheeked stonefish](../synanceiidae/horrida) (*Synanceia horrida*). Wide horizontal mouth on a large rather
 flattened head. Large pectoral fins sometimes colourful. Spiky dorsal
@@ -88,18 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 
-**Links**  
 
-- [False
-  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including a fact sheet on
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

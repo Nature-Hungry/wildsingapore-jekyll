@@ -100,13 +100,31 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, May 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5804702146209775&set=a.5804702629543060">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
+links_references: |
+  **Links**
+  - [*Aplysia
+    oculifera*](http://www.seaslugforum.net/find/aplyocul)  on the [Sea
+    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
  This large spotted sea hare is sometimes seen on many of our shores,
 on sandy sheltered areas among or near seagrasses. Sometimes, half buried in soft sediments.   
   
-**Features:** 8-10cm. Large, long,
+## Features
+ 8-10cm. Large, long,
 fleshy body smooth, brownish sometimes with a greenish or bluish,
 with a mottled pattern made up of tiny white spots clustered into small irregular patches. The inner surface of the
 'wings' (called parapodia) has white spots which form short thin white
@@ -179,25 +197,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Aplysia
-  oculifera*](http://www.seaslugforum.net/find/aplyocul)  on the [Sea
-  Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

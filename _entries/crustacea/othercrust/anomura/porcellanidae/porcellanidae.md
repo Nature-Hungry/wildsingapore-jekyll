@@ -62,6 +62,56 @@ page_images:
   caption: |
     <p>Kusu Island, Jul 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541501661295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+links_references: |
+  **Links**
+  - [Porcelain
+    Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mangrove
+    porcelain crab (*Petrolisthes kranjiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2066) Ng, Peter
+    K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - Krystal L.
+    Rypien and A. Richard Palmer, [The
+    effects of sex, size and habitat on the incidence of puncture
+    wounds in the claws of the porcelain crab Petrolisthes cinctipes
+    (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1). Journal of Crustacean Biology 27(1):59-64.
+    2007 doi: http://dx.doi.org/10.1651/S-2728.1
+  - Roy K. Kropp.[Additional Porcelain Crab Feeding Methods (Decapoda, Porcellanidae)](http://www.jstor.org/discover/10.2307/20103620?uid=3738992&uid=2&uid=4&sid=21102952517301)
+    Crustaceana Vol. 40, No. 3 (May, 1981), pp. 307-310.
+  **References**
+  - M. Osawa & P. K. L. Ng. 29 June 2016. *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae), with descriptions of three new species*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 499-518.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -81,7 +131,8 @@ Some porcelain crabs live on or with other larger animals.
 **What are porcelain crabs?** Porcelain
 crabs belong to the subgroup Anomura of the Order [Decapoda](../../../decapoda).
 Anomurans includes [hermit crabs](../hermit/hermit).
-Porcelain crabs belong to Family Porcellanidae. **Features:** Body width 1cm or less. Body and pincers really
+Porcelain crabs belong to Family Porcellanidae. ## Features
+ Body width 1cm or less. Body and pincers really
 flat, giving them a cartoonish appearance. But this form allows them
 to squeeze into nooks and crannies, and shelter in narrow places like
 under a stone.   
@@ -198,58 +249,7 @@ Porcellana corallicola=^Enosteoides ornatus
 
 ---
 
-**Links**
 
-- [Porcelain
-  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mangrove
-  porcelain crab (*Petrolisthes kranjiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2066) Ng, Peter
-  K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- Krystal L.
-  Rypien and A. Richard Palmer, [The
-  effects of sex, size and habitat on the incidence of puncture
-  wounds in the claws of the porcelain crab Petrolisthes cinctipes
-  (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1). Journal of Crustacean Biology 27(1):59-64.
-  2007 doi: http://dx.doi.org/10.1651/S-2728.1
-- Roy K. Kropp.[Additional Porcelain Crab Feeding Methods (Decapoda, Porcellanidae)](http://www.jstor.org/discover/10.2307/20103620?uid=3738992&uid=2&uid=4&sid=21102952517301)
-  Crustaceana Vol. 40, No. 3 (May, 1981), pp. 307-310.
-
-**References**
-
-- M. Osawa & P. K. L. Ng. 29 June 2016. *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae), with descriptions of three new species*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 499-518.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../../links)
 | [references](../../../../references)

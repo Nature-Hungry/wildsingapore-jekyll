@@ -68,6 +68,47 @@ page_images:
     <p>Male flowers with pollinators.</p>
     <p>Admiralty Park, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
+links_references: |
+  **Links**
+  - *[Nypa fruticans](http://floraofsingapore.wordpress.com/2010/03/14/nypa-fruticans/)* on Total Vascular Flora of Singapore Online: photos and fact sheet.
+  - *[Nypa fruticans](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2658)* on the NParks Flora and Fauna website: photos and fact sheet.
+  - [*Nypa
+    fruticans*](https://singapore.biodiversity.online/taxo4254/mainSpace/Nypa%20fruticansl) (Arecales: Arecaceae) Nipah Palm by Erika I.
+    Halim, 2013 on taxo4254.
+  - [Nipah (*Nypa fruticans*)](http://mangrove.nus.edu.sg/guidebooks/text/1068) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Nipah
+    or Attap Palm (*Nypa fruticans*)](http://mangrove.nus.edu.sg/pub/seashore/text/109) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Teo, S.,
+    W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya & H. T. W. Tan,
+    2010. [The
+    status and distribution of the nipah palm, Nypa fruticans Wurmb
+    (Arecaceae), in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf). Nature in Singapore, 3: 45-52.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons* Singapore University Press. 215 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -79,7 +120,8 @@ and shallow lagoons with permanent and high inflows of freshwater.
 It does not occur on shores exposed to waves or in areas with high
 salinity, and is also not found far beyond the intertidal influence.  
   
-**Features:** Palm-shaped leaves very long (5-9m). The base of the frond is filled
+## Features
+ Palm-shaped leaves very long (5-9m). The base of the frond is filled
 with air so it can remain upright even when submerged. The 'stem'
 of this palm is mostly horizontal and even underground. Thus called
 the rhizome, this is very stout (up to 70cm in diameter), creeping
@@ -177,49 +219,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Nypa fruticans](http://floraofsingapore.wordpress.com/2010/03/14/nypa-fruticans/)* on Total Vascular Flora of Singapore Online: photos and fact sheet.
-- *[Nypa fruticans](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2658)* on the NParks Flora and Fauna website: photos and fact sheet.
-- [*Nypa
-  fruticans*](https://singapore.biodiversity.online/taxo4254/mainSpace/Nypa%20fruticansl) (Arecales: Arecaceae) Nipah Palm by Erika I.
-  Halim, 2013 on taxo4254.
-- [Nipah (*Nypa fruticans*)](http://mangrove.nus.edu.sg/guidebooks/text/1068) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Nipah
-  or Attap Palm (*Nypa fruticans*)](http://mangrove.nus.edu.sg/pub/seashore/text/109) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Teo, S.,
-  W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya & H. T. W. Tan,
-  2010. [The
-  status and distribution of the nipah palm, Nypa fruticans Wurmb
-  (Arecaceae), in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf). Nature in Singapore, 3: 45-52.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons* Singapore University Press. 215 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

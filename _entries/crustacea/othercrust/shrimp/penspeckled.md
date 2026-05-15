@@ -62,7 +62,8 @@ seen on some of our shores. In sandy areas near reefs. It is more
 active at night and usually seen alone. It is probably quite common
 but overlooked because it is so well camouflaged.  
   
-**Features:** 5-8cm long. Body speckled
+## Features
+ 5-8cm long. Body speckled
 with small spots all over, reddish, greyish or brown. There may be
 faint bands on the body.
  

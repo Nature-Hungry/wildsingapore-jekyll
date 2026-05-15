@@ -75,6 +75,26 @@ page_images:
   caption: |
     <p>Hypocotyl not so long.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
+links_references: |
+  **Links**
+  - [Bakau
+    (*Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - [*Rhizophora
+    apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265) and [*Rhizophora
+    mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639) and [*Rhizophora
+    stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [Cork
+    warts and aerenchyma pressurize internal airflow: mangrove](http://www.asknature.org/strategy/f03594e44137da289a46047291aafc17)
+    on AskNature.
 ---
 
 ## Where seen?
@@ -85,7 +105,8 @@ them as growing so densely 'as to make almost pure forest' behind
 a 'protective belt' of *Avicennia* which faces the open sea.
   
   
-**Features:** Leaves eye-shaped (8-15cm
+## Features
+ Leaves eye-shaped (8-15cm
 long), shiny green. Older leaves with tiny evenly distributed black
 spots on the underside. These are cork warts, openings through which
 air enters. The air is then stored in specialised air spaces within
@@ -159,26 +180,6 @@ pasir](stylosa)**
 
 ---
 
-**Links**
-
-- [Bakau
-  (*Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- [*Rhizophora
-  apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265) and [*Rhizophora
-  mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639) and [*Rhizophora
-  stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [Cork
-  warts and aerenchyma pressurize internal airflow: mangrove](http://www.asknature.org/strategy/f03594e44137da289a46047291aafc17)
-  on AskNature.
 
 **Other
 references**

@@ -120,13 +120,31 @@ page_images:
     <p>Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy.</p>
     <p>264 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
+links_references: |
+  **Links**
+  - [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - Y. Benayahu
+    and L. M. Chou, 28 Feb 2010. *On
+    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+    with a description of a new Cladiella species*. The Raffles
+    Bulletin of Zoology 58(1) Pp. 1-13.
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
 ---
 
 ## Where seen?
  This striking leathery coral is commonly seen on
 our Southern shores. On coral rubble.  
   
-**Features:** Colony usually 10-20cm, sometimes much larger. Sometimes several are
+## Features
+ Colony usually 10-20cm, sometimes much larger. Sometimes several are
 near one another, these are probably clones. The colony may be encrusting
 or attached to hard surface by a broad short column. Colony has bumps, blobs
 or 'fingers' which are generally short and closely packed. The leathery
@@ -223,25 +241,7 @@ Cladiella pachyclados*
 
 ---
 
-**Links**
 
-- [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- Y. Benayahu
-  and L. M. Chou, 28 Feb 2010. *On
-  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-  with a description of a new Cladiella species*. The Raffles
-  Bulletin of Zoology 58(1) Pp. 1-13.
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
 
 [links](../../links.htm)
 | [references](../../references.htm)

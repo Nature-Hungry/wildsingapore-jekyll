@@ -85,6 +85,38 @@ page_images:
   caption: |
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353335158/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+links_references: |
+  **Links**  
+  - [Striped
+    eeltail catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Striped
+    eel-catfish (*Plotosus lineatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Tan Heok Hui, Zeehan Jaafar & Hennig Seerdof. *A large school of striped eel-tail catfish at Changi*. 28 February 2019. Singapore Biodiversity Records 2019: 26-27 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -100,7 +132,8 @@ has venomous spines. Don't touch it!
  This eel-like fish in pajamas is often seen on many of our shores,
 among seagrasses, coral rubble and near reefs. Tiny to small ones often a ball
 of many squirming individuals, while larger ones are seen in smaller
-groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide. **Features:** Adults can reach about 30cm long, those seen
+groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide. ## Features
+ Adults can reach about 30cm long, those seen
 on the intertidal range from tiny ones about 1cm, to juveniles about
 15cm long. Body long and cylindrical, flattening into an eel-like
 tail. Colour black, brown or even maroon. Two or three stripes along
@@ -207,40 +240,7 @@ Hantu in Apr 10
 
 ---
 
-**Links**  
 
-- [Striped
-  eeltail catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Striped
-  eel-catfish (*Plotosus lineatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Tan Heok Hui, Zeehan Jaafar & Hennig Seerdof. *A large school of striped eel-tail catfish at Changi*. 28 February 2019. Singapore Biodiversity Records 2019: 26-27 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

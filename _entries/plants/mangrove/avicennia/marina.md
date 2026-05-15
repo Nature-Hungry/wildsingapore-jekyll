@@ -64,6 +64,35 @@ page_images:
     <p>Bark greenish, pneumatophores very tall.</p>
     <p>Pulau Semakau, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
+links_references: |
+  **Links**
+  - [Api-api
+    jambu (*Avicennia marina*)](http://mangrove.nus.edu.sg/guidebooks/text/1050) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - [*Avicennia
+    marina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453) on NParks Flora and Fauna website: photos and fact
+    sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -81,7 +110,8 @@ Sea (the type locality) along the coasts of the Indian Ocean, South
 China Sea, much of Australia into Polynesia as far as Fiji, and to
 North Island in New Zealand.  
   
-**Features:** In Singapore, the tree
+## Features
+ In Singapore, the tree
 may be tall (2-3m) or short (under 2m). Bark mottled greenish yellow,
 flaky and peeling in patches. Pneumatophores slender with pointed
 tips (10-15cm). Stems squarish
@@ -142,37 +172,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Api-api
-  jambu (*Avicennia marina*)](http://mangrove.nus.edu.sg/guidebooks/text/1050) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- [*Avicennia
-  marina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453) on NParks Flora and Fauna website: photos and fact
-  sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

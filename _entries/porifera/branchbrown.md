@@ -81,12 +81,24 @@ page_images:
   caption: |
     <p>Terumbu Bukom, Nov 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg
+links_references: |
+  **Links**
+  - [Irciniidae](http://www.sealifebase.fisheries.ubc.ca/identification/specieslist.php?famcode=2621&areacode=)
+    on SeaLife Base: technical fact sheet.
+  - [*Ircinia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131751)
+    on the World Porifera Database
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This brown branching sponge with a prickly surface is often seen on
-coral rubble on some of our Southern shores. **Features:** 10-15cm.
+coral rubble on some of our Southern shores. ## Features
+ 10-15cm.
 The sponge may be dome shaped without any protrusions, or have knobs,
 rounded fingers, lobes or branching (4-10cm) emerging from an encrusting
 base. Few small holes at the tips of the rounded branches, as well
@@ -144,19 +156,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Irciniidae](http://www.sealifebase.fisheries.ubc.ca/identification/specieslist.php?famcode=2621&areacode=)
-  on SeaLife Base: technical fact sheet.
-- [*Ircinia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131751)
-  on the World Porifera Database
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

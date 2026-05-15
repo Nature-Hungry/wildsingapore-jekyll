@@ -29,6 +29,21 @@ page_images:
     <p>Pectoral fins are reddish at the edges Pulau Semakau, Oct 05 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+links_references: |
+  **Links**  
+  - [*Periophthalmus
+    variabilis*](http://www.mudskipper.it/SpeciesPages/vari.html) from [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
+    with lots of photos.
+  - [*Periophthalmus
+    variabilis*](http://www.fishbase.org/summary/65362) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Dusky-gilled
+    mudskipper](http://www.ecologyasia.com/verts/fishes/dusky-gilled-mudskipper.htm)
+    on [EcologyAsia](http://www.ecologyasia.com/): photo
+    and fact sheet
+  **References**
+  - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009. [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of *Periophthalmus novemradiatus*](http://www.bioone.org/doi/abs/10.2108/zsj.26.309). Zoological Science 26(4):309-314.
 ---
 
 ## Where seen?
@@ -36,7 +51,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/varia
 seen near mangroves and other silty shores. Sometimes also seen on
 seawalls and rocky shores. Previously identified as *Periophthalmus novemradiatus* (Pearse's mudskipper).  
   
-**Features:** 4-6cm. A small mudskipper
+## Features
+ 4-6cm. A small mudskipper
 with iridiscent bluish speckles on their head and body. Its pectoral
 and tail fins are reddish at the edges. The fish is only positively
 identified by looking at their underside, to see the blackish area
@@ -55,23 +71,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Periophthalmus%2520variabilis/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
-**Links**  
 
-- [*Periophthalmus
-  variabilis*](http://www.mudskipper.it/SpeciesPages/vari.html) from [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
-  with lots of photos.
-- [*Periophthalmus
-  variabilis*](http://www.fishbase.org/summary/65362) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Dusky-gilled
-  mudskipper](http://www.ecologyasia.com/verts/fishes/dusky-gilled-mudskipper.htm)
-  on [EcologyAsia](http://www.ecologyasia.com/): photo
-  and fact sheet
-
-**References**
-
-- Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009. [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of *Periophthalmus novemradiatus*](http://www.bioone.org/doi/abs/10.2108/zsj.26.309). Zoological Science 26(4):309-314.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

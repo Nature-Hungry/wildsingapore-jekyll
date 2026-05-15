@@ -83,6 +83,22 @@ page_images:
   caption: |
     <p>Pulau Hantu, Oct 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161644181639264&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
+links_references: |
+  **Links**
+  - [*Nassarius
+    olivaceus*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105149) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -90,7 +106,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae
 on sandy and muddy areas near seagrasses and mangroves. Commonly seen
 especially on our Northern shores.  
   
-**Features:** 3-4 cm. Largest of the
+## Features
+ 3-4 cm. Largest of the
 commonly encountered whelks on our shores. Shell conical, smooth with
 spiralling ridges. Colour brown to olive green sometimes with a pale
 spiral around the shell. Body pinkish with dark speckles and dark
@@ -149,24 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Nassarius
-  olivaceus*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105149) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

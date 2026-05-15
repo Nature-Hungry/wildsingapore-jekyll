@@ -92,6 +92,39 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg
+links_references: |
+  **Links**  
+  - [White-spotted
+    Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [White-spotted
+    spinefoot (*Siganus canaliculatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4456) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [White-spotted
+    spinefoot (*Siganus canaliculatus*)](http://research.kahaku.go.jp/zoology/FishGuide/data/fish291l) from [Coastal
+    Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
+    Matsuura, Seishi Kimura and Teguh Peristiwady on the National
+    Science Museum, Tokyo website: factsheets with photos and descriptions.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -101,7 +134,8 @@ Juveniles may school in large numbers, the numbers reducing as the
 fishes grow bigger. Adults may be found in large groups at spawning
 time.   
   
-**Features:** Can be quite small (about
+## Features
+ Can be quite small (about
 8cm or less) to quite large (about 15cm). It is named
 for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
@@ -183,41 +217,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [White-spotted
-  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [White-spotted
-  spinefoot (*Siganus canaliculatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4456) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [White-spotted
-  spinefoot (*Siganus canaliculatus*)](http://research.kahaku.go.jp/zoology/FishGuide/data/fish291l) from [Coastal
-  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
-  Matsuura, Seishi Kimura and Teguh Peristiwady on the National
-  Science Museum, Tokyo website: factsheets with photos and descriptions.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

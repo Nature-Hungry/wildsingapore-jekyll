@@ -78,6 +78,28 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234252246295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+links_references: |
+  **Links**
+  - [Swimming
+    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Spiny
+    claw swimming crab (*Thalamita spinimana*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83573) on [SeaLifeBase](http://www.sealifebase.org/):
+    Technical fact sheet.
+  - [*Thalamita
+    prymna*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1155) and [*Thalamita pelsarti*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1153) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -85,7 +107,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blues
 is commonly seen on many of our shores, especially those with coral
 rubble and reefs. It is particularly active at night.  
   
-**Features:** Body width 5-7cm. Body
+## Features
+ Body width 5-7cm. Body
 rectangular, body sides with 5 bright blue-black tipped spines, the
 fourth spine is much tinier than the others so it may appear to have
 only 4 spines. The eyes are wide apart. Between the eyes are 6 rounded
@@ -148,30 +171,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 thanks to [Crabhunter](http://www.flickr.com/photos/crabhunter-ii/)
 for identification of some of these crabs.  
   
-**Links**
 
-- [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Spiny
-  claw swimming crab (*Thalamita spinimana*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83573) on [SeaLifeBase](http://www.sealifebase.org/):
-  Technical fact sheet.
-- [*Thalamita
-  prymna*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1155) and [*Thalamita pelsarti*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1153) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

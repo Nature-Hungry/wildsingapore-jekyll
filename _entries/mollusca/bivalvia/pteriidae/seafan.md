@@ -64,7 +64,8 @@ fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm). They are sometimes se
 oysters belong to the Family Pteriidae. , but those attached to sea fans
 do not produce pearls.  
   
-**Features:** 2-6cm long. The two-part
+## Features
+ 2-6cm long. The two-part
 shell is thin, and an asymmetrical winged shape, somewhat resembling a sailing boat. Those with small shells may be shiny and smooth. Those with large shells seem to be 'hairy' and thus covered in sediments and well camouflaged. It attaches to the sea fan with strong byssus threads.
  
   

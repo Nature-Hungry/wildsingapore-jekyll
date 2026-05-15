@@ -75,7 +75,8 @@ coral rubble on some of our shores: mainly Chek Jawa and Cyrene Reef. More activ
 seen moving about during the day. Usually, many individuals are seen,
 and then not seen again for a long time.  
   
-**Features:** 3-4cm long. The small
+## Features
+ 3-4cm long. The small
 flatworm is plain red or orange (also described elsewhere as orange-brown
 or rusty) with tiny white dots all over the upper surface (underside
 uniformly plain without dots). The body margin is often highly ruffled and has no coloured margin.

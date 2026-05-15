@@ -41,7 +41,8 @@ become quite large. Very large ones are sometimes found on boulders
 close to the low water mark. The shell is often covered with encrusting
 lifeforms and they are thus overlooked.  
   
-**Features:** 8-15cm. The two-part
+## Features
+ 8-15cm. The two-part
 shell is thick and chalky. Individual shells may form a shape like
 a shallow box with a lid. Others may form smooth slightly domed circular
 shapes.  

@@ -119,6 +119,42 @@ page_images:
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Phylum
+    Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm) and [Sea
+    anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mangrove
+    anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science
+    Centre. 168 pp.
+  - [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin: all about sea anemones,
+    corals and their allies with classification, distribution, biological
+    associations and more.
+  - From the
+    wild shores of singapore blog.
+    - [Warrior
+      anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)
+    - [Sea
+      anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)
+    - [Sea
+      anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)
+    - [Can
+      eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp.
+  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*. 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 if you
@@ -146,7 +182,8 @@ are about 1,350 known species of anemones. They are found from
 deep to shallow waters, attached to hard surfaces or burrowing into
 the ground.  
   
-**Features:** Most anemones are small, from 1.5-10cm long and 1-5cm in diameter. But
+## Features
+ Most anemones are small, from 1.5-10cm long and 1-5cm in diameter. But
 some can be 50cm in diameter or more! Unlike hard corals which are
 colonies of small polyps connected to one another that produce a hard
 skeleton, anemones are larger solitary polyps that don't produce
@@ -272,44 +309,7 @@ Thalassianthidae**
 
 ---
 
-**Links**  
 
-- [Phylum
-  Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm) and [Sea
-  anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mangrove
-  anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science
-  Centre. 168 pp.
-- [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin: all about sea anemones,
-  corals and their allies with classification, distribution, biological
-  associations and more.
-- From the
-  wild shores of singapore blog.
-  - [Warrior
-    anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)
-  - [Sea
-    anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)
-  - [Sea
-    anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)
-  - [Can
-    eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp.
-- D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*. 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 
 [links](../../links.htm)
 | [references](../../references.htm)

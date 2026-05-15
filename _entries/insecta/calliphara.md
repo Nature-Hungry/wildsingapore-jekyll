@@ -44,13 +44,21 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
+links_references: |
+  **Links**
+  - [Shield/Stink
+    bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*. Singapore
+    Science Centre. 168 pp.
 ---
 
 ## Where seen?
  This colourful insect is sometimes seen in numbers
 in our mangroves.  
   
-**Features:** Adults about 1-1.5cm
+## Features
+ Adults about 1-1.5cm
 long. The larvae are only found on [Buta
 buta trees](../plants/mangrove/excoecaria/excoecaria.htm) (*Excoecaria algallocha*), where they feed on
 the developing seeds. But the adults may be found in groups under
@@ -81,13 +89,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Shield/Stink
-  bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*. Singapore
-  Science Centre. 168 pp.
 
 [links](../links.htm)
 | [references](../references.htm)

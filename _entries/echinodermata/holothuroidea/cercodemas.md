@@ -48,6 +48,19 @@ page_images:
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940592948158&set=a.10159940599688158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+links_references: |
+  **Links**
+  - [*Cercodemas
+    anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)
+    on SeaLife Base: Technical fact sheet.
+  - [*Pentacta
+    anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten) in North Australian Sea Cucumbers on the Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -58,7 +71,8 @@ There are times where many individuals are seen, jammed next to one
 another. At other times, few are seen, widely separated from one another. Among seagrasses, clinging to tubeworm
 tubes, fan clam shells or other hard surfaces, sometimes half buried in sediments.  
   
-**Features:** 6- 8cm long. Body short, squarish or quadrangular in cross-section with a distinct
+## Features
+ 6- 8cm long. Body short, squarish or quadrangular in cross-section with a distinct
 upperside and underside. Underside is flat with three rows of tiny short pink tube feet emerging from pink stripes. Upper side bright yellow with rounded (not pointed)
 warty bumps. Usually two bright pink irregular stripes along the sides with scattered bright pink spots/blotches. Feeding tentacles, dark red at the base, base colour bright yellow or white covered with bright yellow spots/blotches and tiny red speckles, branched tips white or translucent. Anus is surrounded by five tiny teeth-like structures.   
   
@@ -93,20 +107,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-**Links**
-
-- [*Cercodemas
-  anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)
-  on SeaLife Base: Technical fact sheet.
-- [*Pentacta
-  anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten) in North Australian Sea Cucumbers on the Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

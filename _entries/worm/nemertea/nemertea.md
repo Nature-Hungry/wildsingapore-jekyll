@@ -45,6 +45,45 @@ page_images:
   caption: |
     <p><a href="verylong">Very long ribbon worm</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
+links_references: |
+  **Links**  
+  - [Ribbon
+    worm](http://mangrove.nus.edu.sg/pub/seashore/text/125)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mangrove
+    ribbon worm (*Pantinonemertes*)](http://mangrove.nus.edu.sg/guidebooks/text/2003) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Bootlace
+    and ribbon worms: Nemertea](http://www.seaslugforum.net/showall/nemertea) on the Sea Slug Forum by Dr Bill
+    Rudman: photos and introduction to these worms.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -70,7 +109,8 @@ species of ribbon worms, with possibly several times this number that
 remain to be named or discovered! Ribbon worms are found in oceans,
 freshwaters, and also on land.   
   
-**Features:** Ribbon worms range in
+## Features
+ Ribbon worms range in
 length from 1mm to very long ones indeed. Some species can reach 30m!
 Those we have seen range from short ones 10-15cm long, longer ones
 30-40cm long and some more than 1m long. Ribbon worms are NOT segmented
@@ -160,45 +200,3 @@ Valenciniidae**
 quinquelineatus*](verylong) (Very long ribbon worm)
 
 ---
-
-**Links**  
-
-- [Ribbon
-  worm](http://mangrove.nus.edu.sg/pub/seashore/text/125)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mangrove
-  ribbon worm (*Pantinonemertes*)](http://mangrove.nus.edu.sg/guidebooks/text/2003) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Bootlace
-  and ribbon worms: Nemertea](http://www.seaslugforum.net/showall/nemertea) on the Sea Slug Forum by Dr Bill
-  Rudman: photos and introduction to these worms.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.

@@ -71,6 +71,32 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155368581973713.1073742086.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+links_references: |
+  **Links**
+  - [Wandering
+    Cowrie (*Cypraea errones*)](http://mangrove.nus.edu.sg/pub/seashore/text/141.htm) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Cypraea
+    errones*](http://www.sealifebase.org/Summary/speciesSummary.php?id=90271&lang=hindi) on SeaLife Base: Techincal fact sheet.
+  - [*Erronea errones*](https://singapore.biodiversity.online/taxo4254/mainSpace/Erronea%20errones.html) (Littorinimorpha: Cypraeidae) Wandering cowrie by Tan Zong Rui, 2015, on taxo4254.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 if you
@@ -90,7 +116,8 @@ stones, but sometimes crawling about in the open. Sometimes also seen
 on our Southern shores among coral rubble. It was previously known
 as *Cypraea errones*.  
   
-**Features:**  2-3cm. Shell
+## Features
+  2-3cm. Shell
 cylindrical, generally pale blue with 3 broad pale brown bands and small brown speckles all over. Sometimes, but not always, with a big brown blotch in the middle. There may be one or two brown spots
 at the front tip of the shell, sometimes no spots. Underside white without
 coloured 'teeth'. The living animal has a dark
@@ -147,34 +174,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Wandering
-  Cowrie (*Cypraea errones*)](http://mangrove.nus.edu.sg/pub/seashore/text/141.htm) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Cypraea
-  errones*](http://www.sealifebase.org/Summary/speciesSummary.php?id=90271&lang=hindi) on SeaLife Base: Techincal fact sheet.
-- [*Erronea errones*](https://singapore.biodiversity.online/taxo4254/mainSpace/Erronea%20errones.html) (Littorinimorpha: Cypraeidae) Wandering cowrie by Tan Zong Rui, 2015, on taxo4254.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

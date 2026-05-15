@@ -68,7 +68,8 @@ animals, usually [cnidarians](../../cnidaria/cnidaria) such as [hard corals](../
 are unsegmented worms that belong to Class Acoela. Some put them in
 Phylum Platyhelminthes like the other larger [flatworms](../polycladida/polycladida).  
   
-**Features:** 1cm long or less. Often
+## Features
+ 1cm long or less. Often
 circular in shape and brown, sometimes with a white stripe or short
 white line or a yellow spot. The brown colour comes from the symbiotic
 algae in their bodies. Many species reproduce asexually by fragmentation.  

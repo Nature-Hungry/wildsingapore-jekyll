@@ -63,13 +63,20 @@ page_images:
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830725953158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
+    *[Dendrodoris
+    nigra](http://www.seaslugforum.net/find/dendnigr)*.
 ---
 
 ## Where seen?
  This blackish nudibranch is sometimes seen on some
 of our seagrass meadows.  
   
-**Features:**5-8cm
+## Features
+5-8cm
 long. Broad fleshy body smooth, generally blackish with whitish speckles.
 According to Bill Rudman, the white spots are of two different kinds.
 Some spots are simply pigment spots on the skin while others are small
@@ -120,12 +127,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-  *[Dendrodoris
-  nigra](http://www.seaslugforum.net/find/dendnigr)*.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

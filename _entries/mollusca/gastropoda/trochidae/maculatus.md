@@ -93,13 +93,42 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158429561797945&set=a.10158429573917945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/130923tmftd3526m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Trochus
+    maculatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tectus%20Maculatus.html) (Trochidae) Spotted top shell snail by Jamie
+    Low Su Lin, 2011 on taxo4254.
+  - [Maculated
+    top (*Tectus maculatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86798)
+    on SeaLife Base: Technical fact sheet.
+  - Maculated
+    top (*Trochus maculatus*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
  This snail with a conical shell is commonly seen
 on our Southern shores. On large boulders, rocky shores and artificial sea walls. Usually alone or groups of a few individuals. Elsewhere, they are common in coral reefs and rocky shores.  
   
-**Features:** 3-5cm, to 7cm. Shell thick heavy, conical with texture of spiraling thick
+## Features
+ 3-5cm, to 7cm. Shell thick heavy, conical with texture of spiraling thick
 beads usually hidden under encrusting lifeforms. Underside yellow with
 a pretty spiral pattern of brown spots. Operculum thin, flexible usually withdrawn deep into the coils of the
 shell. Body
@@ -175,36 +204,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Family
-  Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Trochus
-  maculatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tectus%20Maculatus.html) (Trochidae) Spotted top shell snail by Jamie
-  Low Su Lin, 2011 on taxo4254.
-- [Maculated
-  top (*Tectus maculatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86798)
-  on SeaLife Base: Technical fact sheet.
-- Maculated
-  top (*Trochus maculatus*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -85,7 +85,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/1502
  This anemone is sometimes
 seen on sand and seagrasses on our Northern shores. *Aspera* means 'rough' in Latin.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 20cm or more. The oral disk 5-8cm in diameter.
 Tentacles not many. About 48 long tentacles (10cm) translucent, on the upper side covered in scattered small brown spots. Oral disk with thick brown splotches radiating outwards, mouth edge white. The upper body column has rows of bumps (verrucae) that are sticky - bits of sand and stuff often stuck on them.   
   

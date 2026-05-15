@@ -40,11 +40,27 @@ page_images:
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
+links_references: |
+  **Links**
+  - [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
+    on SeaLife Base: technical fact sheets.
+  - [*Mycale*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131907)
+    on the World Porifera Database.
+  **References**
+  - Swee-Cheng
+    Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
+    sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
+    22: 41-68, 30 Dec 2009 Pp. 41-58.
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This pale to bright orange prickly sponge is sometimes seen on our
-Northern rocky shores and rubbly areas. **Features:** Usually
+Northern rocky shores and rubbly areas. ## Features
+ Usually
 about 8-10cm in area, with prickly surface, the sponge may be thinly
 encrusting or form upright branches up to 30cm long. With small holes
 (0.5cm) where water is expelled. Colour pale orange to bright reddish
@@ -83,23 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
-  on SeaLife Base: technical fact sheets.
-- [*Mycale*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131907)
-  on the World Porifera Database.
-
-**References**
-
-- Swee-Cheng
-  Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
-  sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
-  22: 41-68, 30 Dec 2009 Pp. 41-58.
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

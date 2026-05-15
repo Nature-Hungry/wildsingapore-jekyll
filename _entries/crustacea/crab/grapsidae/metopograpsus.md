@@ -83,6 +83,36 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on <a href="http://www.facebook.com/media/set/?set=a.541764784148.43593.227700992">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+links_references: |
+  **Links**
+  - [Purple
+    Climber Crabs (*Metopograpsus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047) Ng, Peter K. L.
+    & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Metopograpsus*](http://mangrove.nus.edu.sg/pub/seashore/text/196)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Metopograpsus
+    latifrons*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1660) and [*Metopograpsus
+    messor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1661) and [*Metopograpsus
+    quadridentatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1662) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -98,7 +128,8 @@ pincers have scalloped edges and are used to scrape algae.
 small purple crab is commonly seen on our rocky shores in the North and South. Usually only active at
 night. During the day, it is usually well hidden in crevices.  
   
-**Features:** Body width 2-4cm. Body
+## Features
+ Body width 2-4cm. Body
 somewhat squarish, eyes set wide apart. Colours vary from purplish,
 bluish to greenish, yellowish, grey. It has stout purplish pincers. The walking
 legs are very long and tipped with well developed hooks. With these
@@ -188,38 +219,7 @@ Metopograpsus quadridentatus*
 
 ---
 
-**Links**
 
-- [Purple
-  Climber Crabs (*Metopograpsus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047) Ng, Peter K. L.
-  & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Metopograpsus*](http://mangrove.nus.edu.sg/pub/seashore/text/196)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Metopograpsus
-  latifrons*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1660) and [*Metopograpsus
-  messor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1661) and [*Metopograpsus
-  quadridentatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1662) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

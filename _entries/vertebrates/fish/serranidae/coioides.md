@@ -40,13 +40,49 @@ page_images:
   caption: |
     <p>Beting Bronok, Jun 12Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.397549506963114.103141.109257872458947/397556670295731/?type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+links_references: |
+  **Links**  
+  - [Orange-spotted
+    Grouper (*Epinephelus coioides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268) Lim,
+    Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Orange-spotted
+    Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Orange-spotted
+    grouper (*Epinephelus coioides*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6465) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Orange-spotted
+    grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02bl) on [Fishes
+    of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/indexl) (West Coast of Southern Thailand) by Keiichi
+    Matsuura and Seishi Kimura (eds.) on the National Science Museum,
+    Tokyo website: factsheets with photos and descriptions with details
+    on similar families.
+  - [Orange-spotted
+    grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02bl) from [Fishes
+    of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
+    and Keiichi Matsuura (eds.) factsheets with photos.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
  Gaily spotted juveniles are sometimes seen on our
 Northern shores, among rubble. Small ones sometimes seen among seagrasses.  
   
- **Features:** Adults to about 95cm.
+ ## Features
+ Adults to about 95cm.
 Juveniles seen are much smaller. The adult is brown with darker bars
 and small orange spots on the sides. It is found in coastal areas
 including estuaries, usually alone.
@@ -82,43 +118,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268) Lim,
-  Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Orange-spotted
-  grouper (*Epinephelus coioides*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6465) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Orange-spotted
-  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02bl) on [Fishes
-  of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/indexl) (West Coast of Southern Thailand) by Keiichi
-  Matsuura and Seishi Kimura (eds.) on the National Science Museum,
-  Tokyo website: factsheets with photos and descriptions with details
-  on similar families.
-- [Orange-spotted
-  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02bl) from [Fishes
-  of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
-  and Keiichi Matsuura (eds.) factsheets with photos.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links)
 | [references](../../../references)

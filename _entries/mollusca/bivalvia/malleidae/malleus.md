@@ -74,6 +74,29 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158429561582945&set=a.10158429573917945">facebok</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
+links_references: |
+  **Links**
+  - [*Malleus albus*](https://www.sealifebase.se/summary/Malleus-albus.html) (White hammer oyster), [*Malleus malleus*](https://www.sealifebase.se/summary/Malleus-malleus.html) (Black hammer oyster), [*Malleus regula*](https://www.sealifebase.se/summary/Malleus-regula.html) (Straight hammer oyster) on SeaLife Base.
+  - [Hammer
+    Oysters (Family Malleidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html) on the [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website.
+  - Family Malleidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -85,7 +108,8 @@ are said to be found in colonies. According to The Gladys Archerd website, most 
 of coral rocks or on reef flats in tropical regions. *Malleus* are NOT true oysters which belong to [Family
 Ostreidae](../ostreidae/osteridae.htm).  
   
-**Features:** 8-12cm. The two-part
+## Features
+ 8-12cm. The two-part
 shell is thick and some are obviously T-shaped. 'Malleus' means 'hammer'
 or 'mallet' in Latin. The hinge is on the 'horizontal' portion of
 the 'T' and the valves held shut by one large adductor muscle that
@@ -169,31 +193,7 @@ Malleus regula*
 
 ---
 
-**Links**
 
-- [*Malleus albus*](https://www.sealifebase.se/summary/Malleus-albus.html) (White hammer oyster), [*Malleus malleus*](https://www.sealifebase.se/summary/Malleus-malleus.html) (Black hammer oyster), [*Malleus regula*](https://www.sealifebase.se/summary/Malleus-regula.html) (Straight hammer oyster) on SeaLife Base.
-- [Hammer
-  Oysters (Family Malleidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html) on the [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website.
-- Family Malleidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

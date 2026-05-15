@@ -44,6 +44,28 @@ page_images:
     <p>Safe closer encounters are possible!</p>
     <p>Chek Jawa, Dec 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
+links_references: |
+  **Links**
+  - [Wild
+    Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)  on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  - [*Sus
+    scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boarl)
+    (Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.
+  - [Memories
+    of Priscilla the Pig](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawal) on the wild shores of singapore blog.
+  - [Chek Jawa wild boar: Thousands of peaceful interactions](http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-ofl) on the wild shores of singapore blog.
+  **References**
+  - Yong DL, Lee BPY-H, Ang A & Tan KH (2010) [The status on Singapore Island of the Eurasian wild pig *Sus scrofa* (Mammalia: Suidae)](http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2010/2010nis227-237.pdf). Nature in Singapore, 3: 227–237.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -62,7 +84,8 @@ Area and also recorded in Changi, Lim Chu Kang and the Central Catchment
 Area. Globally, these wild boar are found from Europe, north Africa
 and most of Asia.  
   
-**Features:**Head and body
+## Features
+Head and body
 1.5-2m, up to 200kg. Typical pig-shaped covered with bristly hairs
 with a mane on the neck and back that bristles upright when the animal
 is threatened. Adults have long canine teeth (tusks) and are generally
@@ -120,30 +143,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Wild
-  Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)  on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-- [*Sus
-  scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boarl)
-  (Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.
-- [Memories
-  of Priscilla the Pig](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawal) on the wild shores of singapore blog.
-- [Chek Jawa wild boar: Thousands of peaceful interactions](http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-ofl) on the wild shores of singapore blog.
-
-**References**
-
-- Yong DL, Lee BPY-H, Ang A & Tan KH (2010) [The status on Singapore Island of the Eurasian wild pig *Sus scrofa* (Mammalia: Suidae)](http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2010/2010nis227-237.pdf). Nature in Singapore, 3: 227–237.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

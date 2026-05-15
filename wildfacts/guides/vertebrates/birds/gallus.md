@@ -35,7 +35,8 @@ Oct 2016*
 seen?** These wild 'chickens' are commonly encountered on
 Pulau Ubin. They are now also seen in some of our coastal parks such
 as Sungei Buloh Wetland Reserve and Pasir Ris Park. The
-Red junglefowl is the wild ancestor of domesticated chickens. **Features:** The colourful male (about 80cm) has white ear
+Red junglefowl is the wild ancestor of domesticated chickens. ## Features
+ The colourful male (about 80cm) has white ear
 patches and a white puff at the base of his tail. The drab female
 (about 40cm) has dull brown streaky plumage. She also has white ear
 patches and lacks a comb or wattles on her head. Their feet are lead-grey.

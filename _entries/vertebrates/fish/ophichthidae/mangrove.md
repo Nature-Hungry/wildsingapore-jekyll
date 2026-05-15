@@ -53,7 +53,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/m
  This large snake-like fish is sometimes seen foraging in shallow water of the incoming tide
 in the mangroves at Pasir Ris at night. One was seen on Chek Jawa seagrass meadows during daylight emerging from a burrow. Others seen on seagrass meadows on the Northern shores.  
   
-**Features:** About 30cm long. A long
+## Features
+ About 30cm long. A long
 tubular body pale with a dark stripe along the length at the top.
 A pair of small rounded pectoral fins. Head large, with small eyes
 near the tip of the head. It has a pointed tail. Body pattern uniform, those seen were bluish or pinkish grey, beige and yellow. The dorsal fin dark, forming a dark strip along the body length.  

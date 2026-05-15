@@ -64,13 +64,42 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520885806/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Lithophyllon undulatum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lithophyllon) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - [*Lithophyllon
+    undulatum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45866) on SeaLife Base: Technical fact sheets.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
  This plate-like coral that is stuck to a hard surface
 is sometimes seen on our Southern shores.  
   
-**Features:** Flat plate-like about
+## Features
+ Flat plate-like about
 20cm in diameter, attached at the base with a stalk but wavy with lobes at the
 edges. May also be encrusting. The corallites form a distinctive pattern
 of thick parallel lines perpendicular to the edge. There is a 'waist'
@@ -128,36 +157,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Lithophyllon undulatum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lithophyllon) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- [*Lithophyllon
-  undulatum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45866) on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -58,6 +58,16 @@ page_images:
   caption: |
     <p>Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
+links_references: |
+  **Links**
+  - [*Cypraea
+    quadrimaculata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104986)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -65,7 +75,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/
 little cowrie is sometimes seen on our Southern shores among coral
 rubble near living reefs. It was previously known as *Cypraea quadrimaculata*.  
   
-**Features:**  2-3cm. Shell
+## Features
+  2-3cm. Shell
 cylindrical, generally pale blue with 4 very pale brown bands and small brown speckles all over. There are four large
 rather triangular brown spots on the shell, two spots at the front
 end of the shell and two at the back end. The underside is white,
@@ -117,18 +128,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 grateful thanks to Tan Siong Kiat of the [Raffles
 Museum of Biodiversity Research](http://rmbr.nus.edu.sg/) for identifying this cowrie.  
   
-**Links**
 
-- [*Cypraea
-  quadrimaculata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104986)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

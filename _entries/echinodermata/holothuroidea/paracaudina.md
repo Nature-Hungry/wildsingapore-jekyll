@@ -49,6 +49,17 @@ page_images:
   caption: |
     <p>East Coast (G), Dec 2022Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167869234980112&set=a.10167869237595112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
+links_references: |
+  **Links**
+  - *[Paracaudina
+    australis](http://species-identification.org/species.php?species_group=nasc&id=118)*
+    in North Australian Sea Cucumbers on the Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -58,7 +69,8 @@ or among seagrasses on some of our Northern shores. Sometimes also
 seen buried in sand near seagrasses. When seen, many individuals are
 encountered, and then none for a long time.  
   
-**Features:**  10-15cm long. Body
+## Features
+  10-15cm long. Body
 cylindrical and sausage-like. It does not have tube feet and thus
 feels smooth and slippery. The skin is thin and translucent so it's
 possible to see the double stripes of muscles along the length of
@@ -104,17 +116,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- *[Paracaudina
-  australis](http://species-identification.org/species.php?species_group=nasc&id=118)*
-  in North Australian Sea Cucumbers on the Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

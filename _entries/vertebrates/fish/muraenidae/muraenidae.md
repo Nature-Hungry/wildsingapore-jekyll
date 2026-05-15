@@ -51,6 +51,58 @@ page_images:
   caption: |
     <p>White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25Photo and ID shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122101681779062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+links_references: |
+  **Links**  
+  - [Estuarine
+    Moray (*Gymnothorax tile*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.htm) and [Brown-spotted
+    Moray (*Gymnothorax reevesii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211.htm) Lim, Kelvin and Jeffrey
+    K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
+    Centre.
+  - [Moray
+    eel](http://mangrove.nus.edu.sg/pub/seashore/text/248.htm) Tan, Leo W. H. and Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Muraenidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=56) and [*Gymnothorax
+    afer* (Dark moray)](http://www.fishbase.org/summary/9032) and [*Echidna
+    nebulosa* (Snowflake moray)](http://www.fishbase.org/summary/5388) and [*Gymnothorax
+    favagineus* (Laced moray)](http://www.fishbase.org/summary/5391) and [*Gymnothorax
+    flavimarginatus* (Yellow-edged moray)](http://www.fishbase.org/summary/5392) and *[Gymnothorax
+    javanicus](http://www.fishbase.org/summary/6380)*[(Giant moray)](http://www.fishbase.org/summary/6380) and [*Gymnothorax
+    meleagris* (Turkey moray)](http://www.fishbase.org/summary/5394) and [*Gymnothorax
+    nudivomer* (Starry moray)](http://www.fishbase.org/summary/7465) and [*Gymnothorax
+    reevesii* (Reeve's moray)](http://www.fishbase.org/summary/10159) and *[Gymnothorax
+    tile](http://www.fishbase.org/summary/17266)* [(Indian
+    mud moray)](http://www.fishbase.org/summary/17266) and *[Gymnothorax
+    undulatus](http://www.fishbase.org/summary/4905)*[(Undulated moray)](http://www.fishbase.org/summary/4905) and [*Uropterygius
+    concolor* (Unicolor snake moray)](http://www.fishbase.org/summary/7283) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheets.
+  - From the
+    wild shores of singapore blog
+    - [Moray
+      mysteries: champion colonisers](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/O3I4v5tLMP4/moray-mysteries-champion-colonisers.html)
+    - [How
+      to eat octopus if you don't have hands](http://wildshores.blogspot.com/2008/09/how-to-eat-slippery-octopus-if-you-dont.html) links to scientific
+      findings of how the moray eel uses its second set of jaws.
+  **References**
+  - *New record of the ringed moray, Gymnothorax annulatus*, in Singapore. 28 June 2019. Tan Heok Hui, Dedrick T. W. Yoon, Lee Co Sin & Kelvin K. P. Lim, Singapore Biodiversity Records 2019: 83-84 ISSN 2345-7597, National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -74,7 +126,8 @@ belong to the Family Muraenidae, which belongs to the Order Anguilliformes (True
 the family has 15 genera and 200 species. They are found worldwide
 in both tropical and temperate seas.   
   
-**Features:** Moray eels are extremely
+## Features
+ Moray eels are extremely
 long fishes with muscular bodies. Their bodies are compressed sideways
 (they are not tubular). They have no pelvic or pectoral fins. The
 dorsal and anal fins extend over the entire length of the long body
@@ -163,60 +216,7 @@ moray eel)
 
 ---
 
-**Links**  
 
-- [Estuarine
-  Moray (*Gymnothorax tile*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.htm) and [Brown-spotted
-  Moray (*Gymnothorax reevesii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211.htm) Lim, Kelvin and Jeffrey
-  K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
-  Centre.
-- [Moray
-  eel](http://mangrove.nus.edu.sg/pub/seashore/text/248.htm) Tan, Leo W. H. and Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Muraenidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=56) and [*Gymnothorax
-  afer* (Dark moray)](http://www.fishbase.org/summary/9032) and [*Echidna
-  nebulosa* (Snowflake moray)](http://www.fishbase.org/summary/5388) and [*Gymnothorax
-  favagineus* (Laced moray)](http://www.fishbase.org/summary/5391) and [*Gymnothorax
-  flavimarginatus* (Yellow-edged moray)](http://www.fishbase.org/summary/5392) and *[Gymnothorax
-  javanicus](http://www.fishbase.org/summary/6380)*[(Giant moray)](http://www.fishbase.org/summary/6380) and [*Gymnothorax
-  meleagris* (Turkey moray)](http://www.fishbase.org/summary/5394) and [*Gymnothorax
-  nudivomer* (Starry moray)](http://www.fishbase.org/summary/7465) and [*Gymnothorax
-  reevesii* (Reeve's moray)](http://www.fishbase.org/summary/10159) and *[Gymnothorax
-  tile](http://www.fishbase.org/summary/17266)* [(Indian
-  mud moray)](http://www.fishbase.org/summary/17266) and *[Gymnothorax
-  undulatus](http://www.fishbase.org/summary/4905)*[(Undulated moray)](http://www.fishbase.org/summary/4905) and [*Uropterygius
-  concolor* (Unicolor snake moray)](http://www.fishbase.org/summary/7283) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheets.
-- From the
-  wild shores of singapore blog
-  - [Moray
-    mysteries: champion colonisers](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/O3I4v5tLMP4/moray-mysteries-champion-colonisers.html)
-  - [How
-    to eat octopus if you don't have hands](http://wildshores.blogspot.com/2008/09/how-to-eat-slippery-octopus-if-you-dont.html) links to scientific
-    findings of how the moray eel uses its second set of jaws.
-
-**References**
-
-- *New record of the ringed moray, Gymnothorax annulatus*, in Singapore. 28 June 2019. Tan Heok Hui, Dedrick T. W. Yoon, Lee Co Sin & Kelvin K. P. Lim, Singapore Biodiversity Records 2019: 83-84 ISSN 2345-7597, National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

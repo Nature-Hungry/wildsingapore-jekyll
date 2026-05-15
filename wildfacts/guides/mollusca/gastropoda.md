@@ -98,7 +98,8 @@ Order Sacoglossa
 Order Anaspidea
 ![](slugs/onchidiidae/bigpimply/040123sisd0022m.jpg)  
 [Onch sea slugs](slugs/onchidiidae/onchidiidae.htm)
-**Features:** The snails that most
+## Features
+ The snails that most
 of us are familiar with typically have a large muscular foot supporting
 a visceral mass (the rest of the body and internal organs). In most
 snails, the entire body can be retracted into a protective shell.

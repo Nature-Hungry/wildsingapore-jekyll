@@ -76,6 +76,45 @@ page_images:
   caption: |
     <p>Terumbu Benban, Jun 14Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bembanl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
+links_references: |
+  **Links**
+  - [Yellow-lipped
+    Sea Kraits](http://singaporesnakes.blogspot.com/search/label/Yellow-lipped%20Sea%20Krait) on the [Singapore
+    Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
+    and other posts.
+  - [Amphibious
+    Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [*Laticauda
+    colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrinal#Laticauda%20colubrina) (Squamata: Hydrophiidae) Yellow-lipped Sea Krait
+    by Lui Chun Yih Gerald, 2011 on taxo4254.
+  - [The
+    'two-headed' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-kraitl) on the wild shores of
+    singapore blog.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
 ---
 
 ## Where seen?
@@ -89,7 +128,8 @@ According to Baker, in Singapore, it is only found on our Southern
 Islands. It can crawl about on land (not helpless like other sea snakes).
 It is widely distributed in the Indo-Pacific.    
   
-**Features:**To about 1.4m
+## Features
+To about 1.4m
 long. Males are smaller (rarely more than 1m in length) while females
 are heavier bodied and longer. Bluish-grey with distinct smooth scales
 and regularly spaced, equal-sized black bands that circle the entire
@@ -190,45 +230,3 @@ Semakau on 6 Nov 09
 Sea Krait @ Semakau 06Nov2009](http://vimeo.com/7518707) from [BeachBum](http://vimeo.com/user466756) on [Vimeo](http://vimeo.com).
 
 ---
-
-**Links**
-
-- [Yellow-lipped
-  Sea Kraits](http://singaporesnakes.blogspot.com/search/label/Yellow-lipped%20Sea%20Krait) on the [Singapore
-  Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
-  and other posts.
-- [Amphibious
-  Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [*Laticauda
-  colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrinal#Laticauda%20colubrina) (Squamata: Hydrophiidae) Yellow-lipped Sea Krait
-  by Lui Chun Yih Gerald, 2011 on taxo4254.
-- [The
-  'two-headed' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-kraitl) on the wild shores of
-  singapore blog.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.

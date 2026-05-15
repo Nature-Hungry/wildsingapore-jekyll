@@ -75,13 +75,22 @@ page_images:
   caption: |
     <p>Pulau Semakau, Aug 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6059259840/in/album-72157607751329669/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
+links_references: |
+  **Links**
+  - [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventerl) on SeaLife Base: Technical
+    fact sheet.
+  - [*Holothuria albiventer*](http://species-identification.org/species.php?species_group=nasc&id=53) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 ---
 
 ## Where seen?
  This unassuming sea cucumber is sometimes seen on
 our Northern shores, among seagrasses.  
   
-**Features:** 6-12cm long.
+## Features
+ 6-12cm long.
 Body cylindrical, spindle-shaped (pointed at both ends) with a distinct
 upperside and underside. Underside is flat with rows of short tube feet.
 The sea cucumber appears to be but is not actually
@@ -139,14 +148,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventerl) on SeaLife Base: Technical
-  fact sheet.
-- [*Holothuria albiventer*](http://species-identification.org/species.php?species_group=nasc&id=53) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.

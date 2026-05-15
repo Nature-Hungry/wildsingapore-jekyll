@@ -88,6 +88,46 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467653158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
+links_references: |
+  **Links**  
+  - [Three-spined
+    Toadfish (*Batrachomoeus trispinosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Toadfish
+    (*Batrachus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*[.
+    The Singapore Science Centre](http://mangrove.nus.edu.sg/pub/seashore/), Singapore. 160 pp.
+  - [Batrachoididae (Toadfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Batrachoidiformes-Batrachoididae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family Batrachoididae](http://eol.org/pages/8249/details) on Encyclopedia of Life.
+  - [Family
+    Batrachoididae (Toadfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=189) and *[Allenbatrachus
+    grunniens](http://www.fishbase.org/summary/6391)* [(Grunting
+    toadfish)](http://www.fishbase.org/summary/6391) and [*Halophryne
+    diemensis* (Banded toadfish)](http://www.fishbase.org/summary/10748) and [*Batrachomoeus
+    trispinosus* (Three-spined frogfish)](http://www.fishbase.org/summary/10747) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family with fact sheets on members
+    of the family.
+  - [Order
+    Batrachoidiformes Batrachoididae Toadfishes](ftp://ftp.fao.org/docrep/fao/009/y4161e/y4161e28.pdf) by B.B. Collette,
+    National Marine Fisheries Service, National Museum of Natural
+    History, Washington D.C., USA on the FAO website (pdf).
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 if you
@@ -115,7 +155,8 @@ They are commonly called toadfishes instead of frogfishes because
 the [Frogfish](../antennariidae/antennariidae) is another
 kind of fish.   
   
-**Features:** A toadfish is basically an enormous
+## Features
+ A toadfish is basically an enormous
 head on a small body! It has a broad, flat head with large eyes near
 the top of the head.   
   
@@ -225,48 +266,7 @@ trispinosus* (Three-spined toadfish)
 
 ---
 
-**Links**  
 
-- [Three-spined
-  Toadfish (*Batrachomoeus trispinosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Toadfish
-  (*Batrachus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*[.
-  The Singapore Science Centre](http://mangrove.nus.edu.sg/pub/seashore/), Singapore. 160 pp.
-- [Batrachoididae (Toadfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Batrachoidiformes-Batrachoididae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family Batrachoididae](http://eol.org/pages/8249/details) on Encyclopedia of Life.
-- [Family
-  Batrachoididae (Toadfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=189) and *[Allenbatrachus
-  grunniens](http://www.fishbase.org/summary/6391)* [(Grunting
-  toadfish)](http://www.fishbase.org/summary/6391) and [*Halophryne
-  diemensis* (Banded toadfish)](http://www.fishbase.org/summary/10748) and [*Batrachomoeus
-  trispinosus* (Three-spined frogfish)](http://www.fishbase.org/summary/10747) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family with fact sheets on members
-  of the family.
-- [Order
-  Batrachoidiformes Batrachoididae Toadfishes](ftp://ftp.fao.org/docrep/fao/009/y4161e/y4161e28.pdf) by B.B. Collette,
-  National Marine Fisheries Service, National Museum of Natural
-  History, Washington D.C., USA on the FAO website (pdf).
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

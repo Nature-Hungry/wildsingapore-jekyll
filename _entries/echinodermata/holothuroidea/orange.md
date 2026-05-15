@@ -95,6 +95,18 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750326577945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
+links_references: |
+  **Links**
+  - [*Mensamaria* *intercedens*](http://www.sealifebase.org/summary/Mensamaria-intercedensl) on SeaLife Base: Technical
+    fact sheet.
+  - [*Mensamaria* *intercedens*](http://species-identification.org/species.php?species_group=nasc&id=108&menuentry=soorten) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -103,7 +115,8 @@ on our Northern shores, usually attached to coral rubble, often near
 sponges, sometimes partially covered by sediments, nestled up among
 hydroids, draped with synaptid sea cucumbers or smaller sea cucumbers. In Australia, they are found on intertidal shores in 'U-shaped' burrows or entwined in rhizomes of seagrasses.  
   
-**Features:** 8-12cm long. Body spindle-shaped (pointed at both ends) somewhat squarish or quadrangular in cross-section. Doesn't have a clear upper and underside.
+## Features
+ 8-12cm long. Body spindle-shaped (pointed at both ends) somewhat squarish or quadrangular in cross-section. Doesn't have a clear upper and underside.
 Tube feet orange, long and thin, appearing from orange rows along the body length. Actually, the body is dark blue with orange tube feet and orange stripes along its length. But sometimes the orange stripes are wide so that the animal appears mostly orange with fainter dark blue stripes. The feeding tentacles all white or white at the base, black towards the tips, black speckled in between; branched tips pinkish or pale orange.
 
  
@@ -160,18 +173,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Mensamaria* *intercedens*](http://www.sealifebase.org/summary/Mensamaria-intercedensl) on SeaLife Base: Technical
-  fact sheet.
-- [*Mensamaria* *intercedens*](http://species-identification.org/species.php?species_group=nasc&id=108&menuentry=soorten) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

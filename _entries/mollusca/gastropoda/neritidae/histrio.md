@@ -49,6 +49,23 @@ page_images:
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
+links_references: |
+  **Links**
+  - *[Nerita
+    histrio](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=137341)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -62,7 +79,8 @@ Sungei Loyang, Changi, Kallang Basin, Marina South, Sentosa, St. John's
 Island, Pulau Hantu, Tuas. This snail was previously known as *Nerita
 histrio*.  
   
-**Features:** 1.5-2.5cm. Shell thick heavy, hemispherical, the spire doesn't stick out and may be depressed. Thick,
+## Features
+ 1.5-2.5cm. Shell thick heavy, hemispherical, the spire doesn't stick out and may be depressed. Thick,
 spiralling ribs, which are uneven and much rougher than other kinds
 of nerites often with tiny or large horizontal ridges across the ribs.
 Shell colour and patterns highly variable.
@@ -104,25 +122,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Nerita
-  histrio](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=137341)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

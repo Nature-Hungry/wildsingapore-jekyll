@@ -69,6 +69,20 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
+links_references: |
+  **Links**
+  - [*Flagellaria
+    indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -78,7 +92,8 @@ it is also a common climber in moist forests, swamp forests, peat
 swamp forests and river forests, from sea level to about 1,600m. 'Rotan
 tikus' means 'Rat's rattan' in Malay.  
   
- **Features:** A climber with a thin
+ ## Features
+ A climber with a thin
 long stem (2-15m long), woody at the base but generally green along
 most of its length. Leaves narrow and long (6-7cm) with a curling
 tip that winds around other plants. Small white flowers in clusters
@@ -102,22 +117,7 @@ leaves may be used as a plaster on wounds.
 
 ---
 
-**Links**
 
-- [*Flagellaria
-  indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

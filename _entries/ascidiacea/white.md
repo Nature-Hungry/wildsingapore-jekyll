@@ -44,7 +44,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m
  These
 white blobs are sometimes seen on some of our shores. On coral rubble or seagrasses and seaweeds.  
   
-**Features:** Irregular
+## Features
+ Irregular
 blobs 2-5cm across. Usually white or
 pinkish. Smooth and slippery looking when out of water. When submerged,
 tiny regularly-spaced holes can be seen. Some slightly larger holes

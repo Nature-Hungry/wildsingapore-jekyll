@@ -53,6 +53,38 @@ page_images:
   caption: |
     <p>Chek Jawa, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg
+links_references: |
+  **Links**
+  - [*Dischidia
+    major*](http://floraofsingapore.wordpress.com/2010/05/13/dischidia-major/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Dischidia
+    major*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5288) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -64,7 +96,8 @@ complicated flowers, more so than even that of orchids and the family
 is considered on of the most highly evolved among flowering plants".
 You wouldn't quite think that looking at this rather stringy plant.  
   
- **Features:** An epiphyte that grows
+ ## Features
+ An epiphyte that grows
 on trees and shrubs. There are two kinds of leaves, arranged opposite
 one another. Small circular flat thick leaves (2-2.5cm) and larger
 hollow leaves (7-12cm long) that are oval. The large leaves are yellowish
@@ -113,40 +146,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Dischidia
-  major*](http://floraofsingapore.wordpress.com/2010/05/13/dischidia-major/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Dischidia
-  major*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5288) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

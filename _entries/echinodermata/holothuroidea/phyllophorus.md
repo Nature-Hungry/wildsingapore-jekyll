@@ -72,6 +72,25 @@ page_images:
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5465053154/in/album-72157612002594170/">flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Sea
+    cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Phyllophorus
+    spiculata](http://www.sealifebase.org/summary/Phyllophorus-spiculatal)*[(Tennis-ball sea cucumber)](http://www.sealifebase.org/summary/Phyllophorus-spiculatal) on SeaLife Base: Technical fact
+    sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -79,7 +98,8 @@ coverimg: ../../../Templates/fornatureguides.gif
 Sometimes, it may also be found washed up on the shore hidden among
 the seaweeds. Be careful not to step on these.   
   
-**Features:** 10-15cm. Body spherical. Those freshly dug-up are more
+## Features
+ 10-15cm. Body spherical. Those freshly dug-up are more
 U-shaped ovals with the mouth and backside facing the surface. Colour white, beige, brownish
 and sometimes orangey. Many tube feet and tiny filaments
 (papulae) evenly cover the entire body. These help grip the sand and
@@ -135,25 +155,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   
 
 ---
-
-**Links**
-
-- [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Phyllophorus
-  spiculata](http://www.sealifebase.org/summary/Phyllophorus-spiculatal)*[(Tennis-ball sea cucumber)](http://www.sealifebase.org/summary/Phyllophorus-spiculatal) on SeaLife Base: Technical fact
-  sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

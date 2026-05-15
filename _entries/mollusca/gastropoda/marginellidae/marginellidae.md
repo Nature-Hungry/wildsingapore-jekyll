@@ -38,7 +38,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellid
 ## Where seen?
   Seen twice on sandy shores at Changi East and East Coast.  
   
-**Features:** About 2cm.
+## Features
+ About 2cm.
 Smooth tear-drop shaped smooth shell. The open has 'plaits' near the tip. The living animal has a large foot with mottled markings, a long siphon and eyes on stalks.
 
  

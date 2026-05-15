@@ -45,7 +45,8 @@ a plant. It grows among seaweeds and seagrasses. Sometimes, seen in
 large tangled mats, growing from hard surfaces such as rocks and jetty
 pilings.   
   
-**Features:** Branching stems about
+## Features
+ Branching stems about
 10-20cm long. The thick short 'stems' branch extensively on one plane.
 The entire colony is often transparent to beige. Sometimes covered
 with encrusting organisms. Polyps very very tiny, emerging from the

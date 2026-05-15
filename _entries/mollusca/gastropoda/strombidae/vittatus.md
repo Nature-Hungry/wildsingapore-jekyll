@@ -43,7 +43,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/
  ## Where seen?
   This conch snail was seen alive at St John's Island among seagrases. And Beting Bronok among seagrasses growing on soft silty ground..  
   
-**Features:** 6-8cm, elsewhere up
+## Features
+ 6-8cm, elsewhere up
 to 10cm. Shell thick, heavy, long and narrow, lip flared slightly wavy. The flared
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits. Large eyes on

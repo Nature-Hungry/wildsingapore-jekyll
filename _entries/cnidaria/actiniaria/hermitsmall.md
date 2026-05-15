@@ -66,7 +66,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
  This small anemone is sometimes seen on shells occupied
 by hermit crabs on our Northern shores.   
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 extended 1-2cm. Many short tapering tentacles, semi-transparent some
 with pale brown bands. Body column short, smooth and not covered in
 sediments, pale some with faint stripes. Oral disk white or with white

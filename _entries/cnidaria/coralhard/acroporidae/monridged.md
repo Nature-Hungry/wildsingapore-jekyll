@@ -95,7 +95,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
  This hard coral with an obvious ridged texture is
 sometimes seen on some of our Southern shores.  
   
-**Features:** Colonies seen
+## Features
+ Colonies seen
 15-20cm, sometimes much larger. Branches, columns or knobs arising
 from the centre of an encrusting base. Branches angular, flattened
 and irregular. The tips of the branches may be squarish and flattened,

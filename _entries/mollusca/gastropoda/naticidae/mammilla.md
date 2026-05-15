@@ -88,6 +88,35 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on  <a href="http://www.flickr.com/photos/koksheng/4168850620/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
+links_references: |
+  **Links**
+  - [Pear-shaped
+    moon snail (*Polinices mammilla*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86934) on SeaLife Base: Technical
+    fact sheet.
+  - Pear-shaped
+    moon snail (*Polinices mammilla*) in the Gastropods
+    section by J.M. Poutiers in the FAO Species Identification Guide
+    for Fishery Purposes: The Living Marine Resources of the Western
+    Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [Moon
+    Snail (*Polinices* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.htm) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 Preliminary
+    Checklist of The Molluscs of Singapore (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -95,7 +124,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/m
 on many our Southern sandy shores. Elsewhere, it is abundant on sandy
 bottoms associated with coral reefs.   
   
-**Features:** 5-6cm. Shell smooth glossy, thick heavy,
+## Features
+ 5-6cm. Shell smooth glossy, thick heavy,
 oval, the spiral tip smoothly sticking out so the overall shape resembles
 a teardrop or breast (*Mamma* means 'breast' in Latin). Shell pattern plain white, sometimes with large
 irregular patches of brown, black, orange or yellow. On
@@ -159,37 +189,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Pear-shaped
-  moon snail (*Polinices mammilla*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86934) on SeaLife Base: Technical
-  fact sheet.
-- Pear-shaped
-  moon snail (*Polinices mammilla*) in the Gastropods
-  section by J.M. Poutiers in the FAO Species Identification Guide
-  for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [Moon
-  Snail (*Polinices* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.htm) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 Preliminary
-  Checklist of The Molluscs of Singapore (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

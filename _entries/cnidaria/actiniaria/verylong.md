@@ -63,6 +63,12 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
+links_references: |
+  **Links**  
+  - [*Actinoporus
+    elongatus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Actinoporus&subgenus=&species=elongatus&subspecies=&synseniorid=7473) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
 ---
 
 ## Where seen?
@@ -70,7 +76,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/10
 and Southern shores. Usually alone in sand bars and sandy stretches
 near reefs and seagrasses and in sandy artificial swimming lagoons.  
   
-**Features:** Diameter 6-8cm. Body column very long (50cm or longer).Tentacles
+## Features
+ Diameter 6-8cm. Body column very long (50cm or longer).Tentacles
 very short hardly extending beyond the oral disk. Rows of tiny bumps
 on the oral disk. Body column pale, smooth
 with a short row of large circular bumps near the top. It can tuck
@@ -120,12 +127,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**Grateful
 thanks to Prof Daphne Fautin for identifiying this anemone.  
   
-**Links**  
-
-- [*Actinoporus
-  elongatus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Actinoporus&subgenus=&species=elongatus&subspecies=&synseniorid=7473) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
 
 **Reference**
 

@@ -87,7 +87,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/0
  This elegant black-and-white feather star is sometimes
 seen, on coral rubble and near living reefs on undisturbed shores.   
   
-**Features:** 10-12cm in diameter
+## Features
+ 10-12cm in diameter
 with arms. Black pinnules on pale arms. More than 20 arms. On the
 upperside, the central disk is covered with many dark to black pinnules.
 The cirri on the underside is banded.

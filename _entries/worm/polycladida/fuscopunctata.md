@@ -52,13 +52,33 @@ page_images:
   caption: |
     <p>Terumbu Bemban, May 21 Shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159415592553713&set=a.10159415623518713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
+links_references: |
+  **Links**
+  - [*Maritigrella
+    fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)
+    on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida:
+    Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
  This well camouflaged worm is so far most commonly seen at Chek Jawa, among coral
 rubble usually at night.  
   
-**Features:** 5-7cm long. Body
+## Features
+ 5-7cm long. Body
 cream-white to beige with a pattern of black bars or spots in bars
 along the edges with a
 broad pale centre with orange or darker spots in a honey-comb pattern.
@@ -114,26 +134,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
 and its identification.  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.   
-  
-**Links**
-
-- [*Maritigrella
-  fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida:
-  Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

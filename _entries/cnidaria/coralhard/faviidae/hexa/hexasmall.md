@@ -160,7 +160,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
  Hard coral with small hexagonal corallites are commonly seen on many
 of our shores.  
   
-**Features:** Colonies seen 10-20cm,
+## Features
+ Colonies seen 10-20cm,
 sometimes larger. The colony is generally a smooth boulder shape,
 but somewhat irregular and not perfectly spherical. The corallites
 (1cm) have shared walls, angular generally form hexagonal cells. The

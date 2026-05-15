@@ -44,13 +44,26 @@ page_images:
   caption: |
     <p>Terumbu Raya, Aug 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152318355246295.1073741840.542241294&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg
+links_references: |
+  **Links**
+  - [*Haliclona
+    baeri*](http://www.sealifebase.fisheries.ubc.ca/summary/Haliclona-baeri.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This brightly coloured sponge is commonly on many of our shores, growing
 on rocky shores near the low water mark, as well as coral rubble near
-reefs. **Features:** 10-15cm
+reefs. ## Features
+ 10-15cm
 in diameter, may be encrusting on rocks or forming small clumps. Clusters
 of knobs with large deep holes at the tips. In some, the knobs can
 be rather tall so they are tubular. May also form short branches.
@@ -94,20 +107,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Haliclona
-  baeri*](http://www.sealifebase.fisheries.ubc.ca/summary/Haliclona-baeri.html)
-  on SeaLife Base: technical fact sheet.
-- [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

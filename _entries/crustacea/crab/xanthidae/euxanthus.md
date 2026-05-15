@@ -78,6 +78,15 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+links_references: |
+  **Links**  
+  - [*Euxanthus
+    exsculptus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106149)
+    on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  - [*Euxanthus
+    exsculptus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1223) in Crabs of Japan on Marine Species Indentification
+    Portal" Technical fact sheet.
 ---
 
 ## Where seen?
@@ -85,7 +94,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxant
 is sometimes seen among coral rubble and near living reefs. 'Exsculptus'
 means 'carved' in Latin.  
   
-**Features:** Body width 3-5cm. Body
+## Features
+ Body width 3-5cm. Body
 somewhat rectangular, with short pincers. Body and pincers are densely
 covered with smooth lumps and bumps. Pincers very short with dark
 tips, and folds under the body. Walking legs not hairy, with pointy
@@ -128,15 +138,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [*Euxanthus
-  exsculptus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106149)
-  on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-- [*Euxanthus
-  exsculptus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1223) in Crabs of Japan on Marine Species Indentification
-  Portal" Technical fact sheet.
 
 [links](../../../links)
 | [references](../../../references)

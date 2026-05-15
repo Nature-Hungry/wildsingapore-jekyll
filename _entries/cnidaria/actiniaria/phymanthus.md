@@ -74,6 +74,24 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
+links_references: |
+  **Links**  
+  - [*Phymanthus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Phymanthus)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Nicholas Wei Liang Yap et. al. "Sea anemones (Cnidaria, Actiniaria) of Singapore: redescription and taxonomy of *Phymanthus pinnulatus* Martens in Klunzinger, 1877" ZooKeys 840:1-20 <https://doi.org/10.3897/zookeys.840.31390>
+  - Erhardt,
+    Harry and Daniel Knop. 2005. Corals:
+    Indo-Pacific Field Guide
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life
+    and Times of Labrador Beach. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -81,7 +99,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/
 tentacles are often seen on many of our shores. Among coral rubble,
 usually with the body column wedged in crevices.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles expanded 8-12cm. Tentacles about 3-5cm long with elaborate
 'branches'. Only one side of the tentacle appears to bear the 'branches'.
 The anemones
@@ -175,26 +194,7 @@ of display*
 
 ---
 
-**Links**  
 
-- [*Phymanthus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Phymanthus)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Nicholas Wei Liang Yap et. al. "Sea anemones (Cnidaria, Actiniaria) of Singapore: redescription and taxonomy of *Phymanthus pinnulatus* Martens in Klunzinger, 1877" ZooKeys 840:1-20 <https://doi.org/10.3897/zookeys.840.31390>
-- Erhardt,
-  Harry and Daniel Knop. 2005. Corals:
-  Indo-Pacific Field Guide
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life
-  and Times of Labrador Beach. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

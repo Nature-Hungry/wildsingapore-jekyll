@@ -39,6 +39,34 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
+links_references: |
+  **Links**
+  - [Diana
+    conch (*Strombus aurisdianae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86872) on SeaLife Base: Technical
+    fact sheet.
+  - [Dark
+    diana conch (*Strombus aratrum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=198) on the NParks Flora
+    and Fauna website.
+  - Diana conch
+    (*Strombus aurisdianae*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
  ## Where seen?
@@ -47,7 +75,8 @@ in a lush seagrass meadow. Elsewhere it is considered moderately common
 in shallow water near reefs, grassy sand flats and coral rubble to
 10m deep. It was previously known as *Strombus aratrum*.  
   
-**Features:** 7-9cm long. Shell thick heavy large, lip flared with one prong. Upperside usually covered with encrusting plants and animals, hiding a pattern of dark brown bars. The inner portion of shell opening
+## Features
+ 7-9cm long. Shell thick heavy large, lip flared with one prong. Upperside usually covered with encrusting plants and animals, hiding a pattern of dark brown bars. The inner portion of shell opening
 is pearly and orange and there are brown stains on the underside. The flared
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits. Large eyes on
@@ -91,36 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Diana
-  conch (*Strombus aurisdianae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86872) on SeaLife Base: Technical
-  fact sheet.
-- [Dark
-  diana conch (*Strombus aratrum*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=198) on the NParks Flora
-  and Fauna website.
-- Diana conch
-  (*Strombus aurisdianae*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

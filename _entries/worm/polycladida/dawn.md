@@ -97,6 +97,29 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353284804/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudoceros
+    uniarborensis*](http://polycladida.lifedesks.org/pages/3215) on Encyclopedia of Life, LifeDesks, Marine
+    Flatworms - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
+    Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
+    Bulletin of Zoology vol 45.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -105,7 +128,8 @@ rubble near living reefs on many of our Southern shores. Like the
 first light of dawn, the dark to black flatworm has orange and white
 edges. Previously known as *Pseudobiceros uniarborensis*.  
   
-**Features:** 5-8cm long. Usually with deep ruffles. Body
+## Features
+ 5-8cm long. Usually with deep ruffles. Body
 dark brown to black. Margin in three colours: thin white line on the outermost edge, a transparent greyish
 band in the middle and orange band innermost next to black body. Centre of the body is raised, with a short grey or white stripe
 on the head. Underside uniformly semi-translucent grey with same marginal markings as the upper side. It has a pair of pseudotentacles that are ear-like and pointed. The pseudotentacles are all black, bordered only by the opaque white rim (no orange) and has conspicuous white tips.
@@ -175,30 +199,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
 and its identification.  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.   
-
-**Links**
-
-- [*Pseudoceros
-  uniarborensis*](http://polycladida.lifedesks.org/pages/3215) on Encyclopedia of Life, LifeDesks, Marine
-  Flatworms - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
-  Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
-  Bulletin of Zoology vol 45.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

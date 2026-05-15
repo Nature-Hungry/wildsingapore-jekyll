@@ -60,6 +60,41 @@ page_images:
   caption: |
     <p>East Coast Park, Jul 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24266792294/in/album-72157607719316847/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
+    [*Polybranchia
+    orientalis*](http://www.seaslugforum.net/factsheet.cfm?base=polyorie).
+  - [The
+    Slug Site](http://slugsite.us/)
+    Branch of the Week: photo and fact sheet on *[Polybranchia
+    orientalis](http://slugsite.us/bow/nudwk353.htm)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman�s Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -69,7 +104,8 @@ seen on our Northern shores moving among seaweeds at night. This slug
 was previously called *Phyllobranchus* or *Phyllobranchillus
 orientalis*.  
   
-**Features:**  4-5cm.
+## Features
+  4-5cm.
 Body with a lot of large leaf-like extensions (called cerata). So
 it does appear like a tiny bush. The cerata contain fine branching
 digestive glands. The cerata drop off easily when the animal is handled,
@@ -119,43 +155,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-  [*Polybranchia
-  orientalis*](http://www.seaslugforum.net/factsheet.cfm?base=polyorie).
-- [The
-  Slug Site](http://slugsite.us/)
-  Branch of the Week: photo and fact sheet on *[Polybranchia
-  orientalis](http://slugsite.us/bow/nudwk353.htm)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman�s Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

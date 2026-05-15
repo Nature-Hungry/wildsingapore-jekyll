@@ -49,7 +49,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lys
 of our shores. It is not as commonly seen as other shrimps. Sometimes
 seen in small groups near coral rubble or large debris and other crevices.   
   
-**Features:** About 1-2cm long. The
+## Features
+ About 1-2cm long. The
 body is transparent or white with many close-set thin dark lines along
 the body. A sharp pointed 'nose' and the eyes are close together.
 It doesn't have long pincers.   

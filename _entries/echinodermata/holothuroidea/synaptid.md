@@ -67,6 +67,20 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)
+    in North Australian Sea Cucumbers on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June 2016. *Sea cucumbers (Echinodermata: Holothuroidea) collected from the Singapore Strait*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 666-717.
+  - P. M. O’Loughlin and Ong J. Y. *New tropical caudinid and synaptid sea cucumbers from the Johor Straits (Echinodermata: Holothuroidea)*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31,Pp. 292-302.
+  - Ong J. Y. and H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -81,7 +95,8 @@ They might even be seen crawling (slowly) on the sand.
 
 
 
-**Features:** Synaptids have a thin
+## Features
+ Synaptids have a thin
 body wall and are more delicate than other sea cucumbers. Synaptid
 sea cucumbers don't have tube feet. Instead, they may stick to things
 with tiny hooked sclerites that poke out of their soft bodies. This
@@ -160,20 +175,3 @@ Synaptula* sp. 1
   
 
 ---
-
-**Links**
-
-- [Family
-  Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)
-  in North Australian Sea Cucumbers on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June 2016. *Sea cucumbers (Echinodermata: Holothuroidea) collected from the Singapore Strait*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 666-717.
-- P. M. O’Loughlin and Ong J. Y. *New tropical caudinid and synaptid sea cucumbers from the Johor Straits (Echinodermata: Holothuroidea)*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31,Pp. 292-302.
-- Ong J. Y. and H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

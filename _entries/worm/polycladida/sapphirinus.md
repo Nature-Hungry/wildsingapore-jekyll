@@ -33,7 +33,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/05
 ## Where seen?
  This beautiful worm is rarely seen.   
   
-**Features:** About 4cm long. Body
+## Features
+ About 4cm long. Body
 black to reddish brown, margin bright blue, the outer margin comprising black with a very fine white outermost margin. Underside uniformly black with a fine white
 margin. The body is usually not highly ruffled. It has a pair of
 pseudotentacles that are simple and made up of folded edges of the body.

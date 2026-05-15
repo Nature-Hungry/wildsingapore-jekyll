@@ -110,6 +110,20 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
+links_references: |
+  **Links**
+  - *[Cerbera
+    manghas](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2799)*
+    on the NParks Flora and Fauna website: photos and fact sheets.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -122,7 +136,8 @@ to Giesen, it is found in coastal swamp forests or on beaches, preferring
 well drained sandy soils, exposure to sea breezes but not regularly
 inundated by tides.  
   
- **Features:** Tree up to 15-20m tall,
+ ## Features
+ Tree up to 15-20m tall,
 but in Singapore usually shorter. Produces a white sap from all broken
 plant parts. Bark fissured, flaky, grey to brown with lenticels.   
   
@@ -173,22 +188,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Cerbera
-  manghas](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2799)*
-  on the NParks Flora and Fauna website: photos and fact sheets.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -98,7 +98,8 @@ on all sandy and rocky coasts of Malaya and was rarely found inland.
 It was previously known as *Gelonium glomerulatum* and Corners
 called it *S. glomerulata*.  
   
- **Features:** A small tree. Fleshy
+ ## Features
+ A small tree. Fleshy
 leaves narrow and oval (5-7cm). Flowers small in clusters, male flowers
 a little larger than the female flowers. Fruits
 resemble small limes (1-2cm), with three 'shoulders', green turning

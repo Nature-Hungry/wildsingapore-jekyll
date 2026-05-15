@@ -96,13 +96,53 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158234252311295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of *[Pteraeolidia
+    ianthina](http://www.seaslugforum.net/find/pteriant)* including
+    photos of juveniles and egg-laying.
+  - [A
+    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: Photo
+    and distribution of *[Pteraeolidia
+    ianthina](http://rmbr.nus.edu.sg/nudibranch/nudipages/ianthina.html)*
+  **References**
+  - Nathaniel Soon, Z B Randolph Quek, Sebastian Pohl, Benjamin J Wainwright. "More than meets the eye: characterizing the cryptic species complex and Symbiodiniaceae communities in the reef-dwelling nudibranch Pteraeolidia ‘semperi’ (Nudibranchia: Aeolidioidea) from Singapore"
+    Journal of Molluscan Studies, Volume 89, Issue 2, June 2023, https://doi.org/10.1093/mollus/eyad011.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Coleman,
+    Neville, 1989. *Nudibranchs
+    of the South Pacific Vol 1*. 64 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'I
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This brilliant nudibranch is often seen on many of our shores, in
 coral rubble and near reefs. It is also commonly seen by divers.  
   
-**Features:** 3-5cm.
+## Features
+ 3-5cm.
 Long, narrow, soft body with finger-like projections (called cerata)
 arranged in hand-like clusters along the length of the body. Those encountered were mostly blue, sometimes also mostly brown with blue tipped cerata. Elsewhare, various colours are reported from yellow
 to green. It is identified by the purple bands
@@ -182,47 +222,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of *[Pteraeolidia
-  ianthina](http://www.seaslugforum.net/find/pteriant)* including
-  photos of juveniles and egg-laying.
-- [A
-  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: Photo
-  and distribution of *[Pteraeolidia
-  ianthina](http://rmbr.nus.edu.sg/nudibranch/nudipages/ianthina.html)*
-
-**References**
-
-- Nathaniel Soon, Z B Randolph Quek, Sebastian Pohl, Benjamin J Wainwright. "More than meets the eye: characterizing the cryptic species complex and Symbiodiniaceae communities in the reef-dwelling nudibranch Pteraeolidia ‘semperi’ (Nudibranchia: Aeolidioidea) from Singapore"
-  Journal of Molluscan Studies, Volume 89, Issue 2, June 2023, https://doi.org/10.1093/mollus/eyad011.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai'I
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -66,7 +66,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/06
  This pale feather star is sometimes seen near living
 reefs.  
   
-**Features:** 12-15cm in diameter.
+## Features
+ 12-15cm in diameter.
 On the upperside, the darker centre is covered with many pale pinnules.
 The cirri on the underside is banded. With more than 20 arms. Arms
 are in pale pastel shades. Each pinnule is often variagated. The overall

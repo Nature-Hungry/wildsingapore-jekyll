@@ -57,6 +57,17 @@ page_images:
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+links_references: |
+  **Links**  
+  - [Kops'
+    Glass Perchlet (*Ambassis kopsii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Asiatic glassfish (Ambassidae)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Ambassidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet.htm) on Ecology Asia.
+  - [Singapore glassy perchlet (*Ambassis kopsii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
 ---
 
 if you
@@ -73,7 +84,8 @@ tide near seagrasses on many of our shores. Elsewhere, they are found in mangrov
 estuaries and freshwater. They form groups during the day among mangrove
 roots and submerged plants. They disperse at night to feed. **What are perchlets?** Perchlets belong to Family Ambassidae (previously Family Chandidae). According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=509):
 The family has 8 genera and 41 species. They are found in Asia and
-Oceania and the Indo-west Pacific oceans. **Features:** To about 10cm. Body nearly transparent covered with thin
+Oceania and the Indo-west Pacific oceans. ## Features
+ To about 10cm. Body nearly transparent covered with thin
 scales. Thus it is sometimes called the Glassfish. Mouth is upturned
 with a projecting jaw and large eyes. A single dorsal fin, deeply
 notched before the last spine. These fishes are often seen in small
@@ -148,17 +160,6 @@ Parambassis punctulatus=*\*\*Parambassis siamensis** (Non native freshwater)
 
 ---
 
-**Links**  
-
-- [Kops'
-  Glass Perchlet (*Ambassis kopsii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Asiatic glassfish (Ambassidae)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Ambassidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet.htm) on Ecology Asia.
-- [Singapore glassy perchlet (*Ambassis kopsii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

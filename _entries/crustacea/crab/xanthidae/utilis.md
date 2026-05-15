@@ -102,12 +102,19 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753868531295&set=a.10158753863266295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+links_references: |
+  **Links**  
+  - [Sawedged
+    spooner (*Etisus utilis*)](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Etisus&speciesname=utilis)
+    on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
 ---
 
 ## Where seen?
  This crab with distinctive saw-like teeth on the edge of its body is sometimes seen near reefs with lots of corals.  
   
-**Features:** Body width 4-6cm. Body
+## Features
+ Body width 4-6cm. Body
 somewhat circular with large teeth on the edges that resembles a saw.
 Pincers large with short spines and black tips. Red or reddish brown, sometimes with white patterns.
  
@@ -166,12 +173,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Sawedged
-  spooner (*Etisus utilis*)](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Etisus&speciesname=utilis)
-  on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
 
 [links](../../../links)
 | [references](../../../references)

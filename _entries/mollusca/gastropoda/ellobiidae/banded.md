@@ -36,6 +36,30 @@ page_images:
   caption: |
     <p>Coney Island, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
+links_references: |
+  **Links**
+  - [*Cassidula
+    nucleus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Cassidula&speciesname=nucleus)
+    from SeaLife Base: Technical fact sheet.
+  - [Belongkeng
+    (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Mangrove
+    helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -43,7 +67,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/
 on and around the base of mangrove trees. It breathes air (instead of through gills like
 most other marine snails). It was previously known as *Cassidula mustelina.* The shell opening resembles an ear.  
   
-**Features:** 2-3cm.
+## Features
+ 2-3cm.
 Shell thick
 and oval, with wide dark and light brown spiralling bands. Underside pinkish violet around the shell opening. Species of mangrove ear snails are not easy to tell apart in the field  
   
@@ -74,32 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cassidula
-  nucleus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Cassidula&speciesname=nucleus)
-  from SeaLife Base: Technical fact sheet.
-- [Belongkeng
-  (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Mangrove
-  helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

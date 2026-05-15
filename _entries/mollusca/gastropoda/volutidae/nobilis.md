@@ -134,6 +134,22 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
+links_references: |
+  **Links**
+  - [Noble
+    volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205) on the NParks Flora and Fauna
+    website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 ---
 
 if you
@@ -155,7 +171,8 @@ Peninsular Malaysia. Empty
 shells of dead noble volutes are quickly taken over by large hermit
 crabs.  
   
-**Features:** 12-20cm. Shell thick heavy, conical. Shell orange, yellow or beige with red or brown zig-zag patterns.
+## Features
+ 12-20cm. Shell thick heavy, conical. Shell orange, yellow or beige with red or brown zig-zag patterns.
 Sometimes all black. A wide variety of patterns can be seen, although
 in some, the pattern may be obscured by encrusting lifeforms. No operculum. Body large fleshy, black with bright orange or yellow spots. It has a long siphon
 that sticks out above the sand when the animal is buried.
@@ -232,24 +249,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Noble
-  volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205) on the NParks Flora and Fauna
-  website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

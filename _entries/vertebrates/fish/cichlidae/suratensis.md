@@ -30,6 +30,22 @@ page_images:
   caption: |
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+links_references: |
+  **Links**  
+  - [Green
+    chromide (*Etroplus suratensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/335.htm) from Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Pearlspot
+    (*Etroplus suratensis*)](http://www.fishbase.org/summary/Etroplus-suratensis.html) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on the
+    species.
+  - [*Etroplus
+    suratensis*](http://www.iucnredlist.org/details/172368/0)
+    on the IUCN Red List.
+  **References**
+  - Tan Heok Hui and Lionel Ng Chin Soon. 28 Oct 2016. *Green chromides spawning at Sentosa*. Singapore Biodiversity Records 2016: 141-142.
 ---
 
  ## Where seen?
@@ -39,7 +55,8 @@ Buloh Wetland Reserve and Pasir Ris. The fish is native to India and
 Sri Lanka and was introduced to Singapore, possibly through the aquarium
 trade. It has since escaped and are now breeding in our waters.  
   
-**Features:** Up to 30cm, usually
+## Features
+ Up to 30cm, usually
 about 20cm long. Oval with a short snout and small mouth. Greyish
 green with 6 to 8 dark bars, a dark spot at the base of the pectoral
 fins, many scales with a pearly spot. It is sometimes called the Pearlspot.
@@ -78,24 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Green
-  chromide (*Etroplus suratensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/335.htm) from Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Pearlspot
-  (*Etroplus suratensis*)](http://www.fishbase.org/summary/Etroplus-suratensis.html) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on the
-  species.
-- [*Etroplus
-  suratensis*](http://www.iucnredlist.org/details/172368/0)
-  on the IUCN Red List.
-
-**References**
-
-- Tan Heok Hui and Lionel Ng Chin Soon. 28 Oct 2016. *Green chromides spawning at Sentosa*. Singapore Biodiversity Records 2016: 141-142.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

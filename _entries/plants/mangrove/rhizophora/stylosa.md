@@ -45,6 +45,22 @@ page_images:
   caption: |
     <p>Pulau Semakau, Feb 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
+links_references: |
+  **Links**
+  - [Bakau
+    pasir (*Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [*Rhizophora
+    stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
 ## Where seen?
@@ -61,7 +77,8 @@ on the coast and landward margins of mangroves. It occurs primarily
 in Southeast Asia and has been found in tropical Australia as well
 as Taiwan and northern Australia.  
   
-**Features:** Tree with single or
+## Features
+ Tree with single or
 multiple-trunks up to 10m tall. Aerial roots from the lower branches.
 Stilt roots up to 3m long, often forming extensive loops to some distance
 from the trunk. Bark grey to black and fissured.   
@@ -122,22 +139,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
-
-- [Bakau
-  pasir (*Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [*Rhizophora
-  stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
 
 **Other
 references**

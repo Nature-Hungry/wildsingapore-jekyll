@@ -64,7 +64,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/syn
 ## Where seen?
  This rather long sea cucumber is sometimes seen burrowing in or on mudflats or muddy areas near mangroves on our Northern shores.  
   
-**Features:** About 20-30cm long, long
+## Features
+ About 20-30cm long, long
 thin body without bumps along the body. Feeding
 tentacles short and feathery. Colours uniform white, pink, purplish with stripes.  
   

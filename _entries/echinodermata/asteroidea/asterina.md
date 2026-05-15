@@ -84,7 +84,8 @@ especially at night. In some locations at some times of the year,
 they can be found in large numbers, but usually well spaced apart. According to Marsh and Fromont, it is found under boulders on mud and silty sand in Australia.
 It was previously known as *Asterina coronata*.   
   
-**Features:** Diameter with arms 3-5cm.
+## Features
+ Diameter with arms 3-5cm.
 A plump sea star (not flat). Usually 5 arms, short fat semi-cylindrical with rounded tips. Upperside has tiny holes through which
 short stubby transparent finger-like structures (papulae) emerge.
 Colours plain or mottled beige, brown or grey. Sometimes, bright orange

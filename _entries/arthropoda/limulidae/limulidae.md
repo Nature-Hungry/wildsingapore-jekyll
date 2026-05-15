@@ -125,7 +125,8 @@ Horseshoe crabs are sometimes encountered on our shores, more often on our north
 # What is a horseshoe crab?
 The horseshoe crab is a strange, ancient creature that has been around since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea). It is more closely related to spiders and scorpions of the Class Arachnida.   
   
-There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast Asia there are three: the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are found the Chinese horseshoe (*Tachypleus tridentatus*).  **Features:** Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the
+There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast Asia there are three: the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are found the Chinese horseshoe (*Tachypleus tridentatus*).  ## Features
+ Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the
 bottom in rough water. It probably got its common name because its
 shell resembles a horse's hoof.   
   

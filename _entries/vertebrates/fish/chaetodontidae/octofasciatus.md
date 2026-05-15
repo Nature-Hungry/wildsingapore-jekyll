@@ -69,13 +69,39 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://farm3.static.flickr.com/2748/4187712094_52a7771ee4_m.jpg">her flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
+links_references: |
+  **Links**  
+  - [Eight-banded
+    butterflyfish (*Chaetodon octofasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/330.htm) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Eightband
+    butterflyfish (*Parachaetodon ocellatus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5570) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - *[Chaetodon
+    octofasciatus](http://www.iucnredlist.org/details/165623/0)*
+    on the IUCN Red List.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This disc-shaped fish with eight bars is sometimes seen on some of our Southern shores among
 live corals.  
   
-**Features:** To about 12cm. Body
+## Features
+ To about 12cm. Body
 flat, circular disk-shaped, snout slightly pointed. 8 black bands, sometimes a broad black horizontal bar between the middle narrow bars, sometimes yellowish or brownish between 2 pair of bands nearer the tail. Yellow pectoral fins, yellowish base of fins, belly and mouth. White-ringed black spot at the base of the tail. Juveniles often seen in
 groups among branching corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora.htm). Adults seen in pairs.
@@ -130,33 +156,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Eight-banded
-  butterflyfish (*Chaetodon octofasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/330.htm) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Eightband
-  butterflyfish (*Parachaetodon ocellatus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5570) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- *[Chaetodon
-  octofasciatus](http://www.iucnredlist.org/details/165623/0)*
-  on the IUCN Red List.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

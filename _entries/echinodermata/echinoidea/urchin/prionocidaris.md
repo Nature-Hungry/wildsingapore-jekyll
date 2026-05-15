@@ -62,6 +62,22 @@ page_images:
   caption: |
     <p>Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830726948158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. Lots of technical descriptions
+    of [*Prionocidaris*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CIDAROID/CIDIDAE/CIDARINAE/PRIONOCID.jsp)
+  - [*Prionocidaris
+    baculosa*](http://www.sealifebase.org/summary/Prionocidaris-baculosal) and *[Prionocidaris
+    bispinosa](http://www.sealifebase.org/summary/Prionocidaris-bispinosal)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
+    Other Echinoderms of Singapore*. Singapore Science Centre.
+    187pp.
 ---
 
 ## Where seen?
@@ -70,7 +86,8 @@ common on some of our Northern shores, in seagrass meadows. Sometimes
 many are seen during a visit, and then none for a while. Broken spines
 of this sea urchin may also be seen washed ashore.  
   
-**Features:** Body diameter 4-5cm.
+## Features
+ Body diameter 4-5cm.
 It has spines on its spines! The thick spines are long (4-5cm to 10-12cm),
 armed with small spines and may be colourful and banded in pink and
 yellow or beige. Because of its thick spines, it is sometimes called
@@ -144,24 +161,7 @@ Vulnerable) *Prionocidaris bispinosa*
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. Lots of technical descriptions
-  of [*Prionocidaris*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CIDAROID/CIDIDAE/CIDARINAE/PRIONOCID.jsp)
-- [*Prionocidaris
-  baculosa*](http://www.sealifebase.org/summary/Prionocidaris-baculosal) and *[Prionocidaris
-  bispinosa](http://www.sealifebase.org/summary/Prionocidaris-bispinosal)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
-  Other Echinoderms of Singapore*. Singapore Science Centre.
-  187pp.
 
 [links](../../../links)
 | [references](../../../references)

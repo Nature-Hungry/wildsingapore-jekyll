@@ -49,6 +49,26 @@ page_images:
     <p>Adult Giant shield bug (Pycanum sp.).</p>
     <p>Pulau Ubin, Feb 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
+links_references: |
+  **Links**
+  - [*Dillenia
+    suffruticosa*](http://floraofsingapore.wordpress.com/2010/08/21/dillenia-suffruticosa/)
+    on The Total Vascular Flora of Singapore Online: photos and fact
+    sheet.
+  - [*Dillenia
+    suffruticosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2847) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia suffruticosal)* (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 ---
 
 ## Where seen?
@@ -63,7 +83,8 @@ thankful that there is such a fascinating plant ready to clothe the
 wasteland". Considered a pioneering species, among the few that
 can grow on 'white sands'. It was formerly known as *Wormia suffruticosa*.  
   
- **Features:** A large shrub to shrubby
+ ## Features
+ A large shrub to shrubby
 tree 6-7m tall. It has very deep taproots to reach underground water
 sources and thus their presence is believed to suggest an available
 underground water source.   
@@ -138,28 +159,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Dillenia
-  suffruticosa*](http://floraofsingapore.wordpress.com/2010/08/21/dillenia-suffruticosa/)
-  on The Total Vascular Flora of Singapore Online: photos and fact
-  sheet.
-- [*Dillenia
-  suffruticosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2847) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia suffruticosal)* (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
 [links](../../../links)
 | [references](../../../references)

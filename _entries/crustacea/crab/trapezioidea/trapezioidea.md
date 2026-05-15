@@ -41,7 +41,8 @@ corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [
 corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.). They are well hidden and quick,
 and thus hard to spot and photograph.  
   
-**Features:** Body width about 1cm.
+## Features
+ Body width about 1cm.
 The body is flat and usually pentagonal (hard to see this on living
 crabs which are usually well hidden). The pincers are large (relative
 to the body), with pointed pincers. The legs are short with pointed

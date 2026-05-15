@@ -87,6 +87,17 @@ page_images:
   caption: |
     <p>East Coast Park, Jul 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24100087406/in/album-72157607719316847/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Hypselodoris
+    kanga*](http://www.seaslugforum.net/find/hypskang).
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -94,7 +105,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hyk
 shores. On coral rubble and rocky shores with sponges and encrusting
 animals.   
   
-**Features:** 2-3cm. Body long, narrow
+## Features
+ 2-3cm. Body long, narrow
 with a long tail. A bluish background with short dark blue lines and
 yellow or orange spots. Large flower-like gills on the back and large
 rhinophores (relative to the body size). The gills have a triangular
@@ -159,19 +171,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Hypselodoris
-  kanga*](http://www.seaslugforum.net/find/hypskang).
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

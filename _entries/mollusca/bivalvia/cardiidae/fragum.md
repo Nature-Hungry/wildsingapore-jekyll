@@ -95,13 +95,37 @@ page_images:
   caption: |
     <p>Pulau Semakau West, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158197906877945&set=a.10158197958107945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
+links_references: |
+  **Links**
+  - [Pacific
+    strawberry cockle (*Fragum unedo*)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=84532)
+    from SeaLife Base: Technical fact sheet.
+  - Pacific
+    strawberry cockle (*Fragum unedo*) in the Bivalves section
+    by J.M. Poutiers in the FAO Species Identification Guide for Fishery
+    Purposes: The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  This pretty clam is not often seen, usually on sandy
 shores near reefs. Possibly they are more common but hidden beneath the sand. Elsewhere, they are shallow burrowers in sandy
 bottoms, often occuring in dense populations.  
- **Features:** 4-6cm. The sturdy two-part shell is heavy, squarish
+ ## Features
+ 4-6cm. The sturdy two-part shell is heavy, squarish
 with strong ribs marked with little red beads.
 
  
@@ -167,31 +191,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Pacific
-  strawberry cockle (*Fragum unedo*)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=84532)
-  from SeaLife Base: Technical fact sheet.
-- Pacific
-  strawberry cockle (*Fragum unedo*) in the Bivalves section
-  by J.M. Poutiers in the FAO Species Identification Guide for Fishery
-  Purposes: The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

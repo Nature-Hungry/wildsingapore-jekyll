@@ -88,6 +88,37 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
+links_references: |
+  **Links**
+  - [True
+    heart cockle (*Corculum cardissa*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84534) on SeaBase Life: Technical
+    fact sheet.
+  - True
+    heart cockle (*Corculum cardissa*) in the Bivalves section
+    by J.M. Poutiers in the FAO Species Identification Guide for Fishery
+    Purposes: The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [Weird Clam Profile: The Heart Cockles](https://dantheclamman.blog/2018/06/13/weird-clam-profile-the-heart-cockles/) on Clamsplaining by Dan Killam, Jun 13, 2018.
+  - [Heart cockle accommodates algae that require light](https://blog.willyvanstrien.nl/2024/12/10/shell-with-windows/) by Willy van Strien.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -96,7 +127,8 @@ shores, near reefs. Sometimes on the sand, on rubble or among seagrasses.
 Elsewhere, often found on sandy bottoms often
 associated with reefs, sometimes in dense colonies.  
   
-**Features:** 4-6cm. The two-part
+## Features
+ 4-6cm. The two-part
 shell is thin and heart-shaped with the opening of the valves down
 the centre of the 'heart'. The colour may be dull yellowish, pinkish to white, sometimes with
 bright flecks of red and yellow. Sometimes with bright blue underside and rose-pink upperside. The clam attaches itself to a hard
@@ -149,39 +181,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [True
-  heart cockle (*Corculum cardissa*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84534) on SeaBase Life: Technical
-  fact sheet.
-- True
-  heart cockle (*Corculum cardissa*) in the Bivalves section
-  by J.M. Poutiers in the FAO Species Identification Guide for Fishery
-  Purposes: The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [Weird Clam Profile: The Heart Cockles](https://dantheclamman.blog/2018/06/13/weird-clam-profile-the-heart-cockles/) on Clamsplaining by Dan Killam, Jun 13, 2018.
-- [Heart cockle accommodates algae that require light](https://blog.willyvanstrien.nl/2024/12/10/shell-with-windows/) by Willy van Strien.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -60,6 +60,20 @@ page_images:
     <p>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs.</p>
     <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of *[Crosslandia
+    daedali](http://www.seaslugforum.net/find/crosdaed)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
 ---
 
 ## Where seen?
@@ -67,7 +81,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cro
 among [Sargassum
 seaweeds](../../../plants/seaweed/phaeophyta/sargassum.htm) (*Sargassum* sp.) at St. John's Island.   
   
-**Features:** About 3cm long. It has
+## Features
+ About 3cm long. It has
 a pair of 'flaps' (mantle lobes) in the middle of the body. There
 are fluffy structures (dendritic gill-like structures) inside the
 mantle lobes. The brush-like rhinophores are tiny and are at the tip
@@ -109,22 +124,7 @@ Big Sisters Islands, Jan 2019
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of *[Crosslandia
-  daedali](http://www.seaslugforum.net/find/crosdaed)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -32,6 +32,38 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, May 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
+links_references: |
+  **Links**
+  - [Reticulated
+    pythons](http://singaporesnakes.blogspot.com/search/label/Reticulated%20Python) on the [Singapore
+    Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
+    and other posts.
+  - [Reticulated
+    python](http://www.ecologyasia.com/verts/snakes/reticulated_python) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  - [Reticulated
+    python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython) on Chan Kwok Wai's Wildlife Singapore: fact sheet with
+    photos.
+  - [*Python
+    reticulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Python%20reticulatusl)
+    (Squamata: Pythonidae) Reticulated Python by Johanna Johan Adam
+    Chin, 2011 on taxo4254.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
 ---
 
 ## Where seen?
@@ -44,7 +76,8 @@ reticulatus*. According to [Catalogue
 of Life 20 Jan 2014](http://www.catalogueoflife.org/col/details/species/id/13206537/synonym/13233203) its scientific name is *Broghammerus reticulatus*.
 According to EcologyAsia, its scientific name is *Malayopython reticulatus*.  
   
-**Features:**To about 10m long, but those we might see are usually much shorter
+## Features
+To about 10m long, but those we might see are usually much shorter
 and rarely exceed 5m. Among the longest snakes in the world, this
 powerfully muscled snake is non-venomous and kills by constricting
 its victims in its coils. Large adults can be dangerous to humans.
@@ -91,40 +124,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Reticulated
-  pythons](http://singaporesnakes.blogspot.com/search/label/Reticulated%20Python) on the [Singapore
-  Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
-  and other posts.
-- [Reticulated
-  python](http://www.ecologyasia.com/verts/snakes/reticulated_python) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-- [Reticulated
-  python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython) on Chan Kwok Wai's Wildlife Singapore: fact sheet with
-  photos.
-- [*Python
-  reticulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Python%20reticulatusl)
-  (Squamata: Pythonidae) Reticulated Python by Johanna Johan Adam
-  Chin, 2011 on taxo4254.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

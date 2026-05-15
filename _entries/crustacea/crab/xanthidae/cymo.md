@@ -60,6 +60,19 @@ page_images:
   caption: |
     <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
+links_references: |
+  **Links**
+  - [Hairy
+    coral crab (*Cymo andreossyi*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=106153&genusname=Cymo&speciesname=andreossyi)
+    on SeaLife Base.
+  - [*Cymo
+    andreossyi*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1180&menuentry=soorten) Crabs of Japan, on Marine Species Identification
+    Portal.
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -68,7 +81,8 @@ seen on our some of our shores living in branching corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Cauliflower
 corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.).They are small and well-camouflaged.  
   
-**Features:** Body width about 1cm.
+## Features
+ Body width about 1cm.
 Body, legs and pincers hairy, a drab beige or grey. It usually has
 a layer of algae growing on its body.  
   
@@ -109,21 +123,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Hairy
-  coral crab (*Cymo andreossyi*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=106153&genusname=Cymo&speciesname=andreossyi)
-  on SeaLife Base.
-- [*Cymo
-  andreossyi*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1180&menuentry=soorten) Crabs of Japan, on Marine Species Identification
-  Portal.
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

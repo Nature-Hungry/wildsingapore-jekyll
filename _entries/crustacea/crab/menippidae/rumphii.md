@@ -68,6 +68,19 @@ page_images:
   caption: |
     <p>East Coast PCN, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169198521795112&set=a.10169198519290112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/080619chgd5706m3.jpg
+links_references: |
+  **Links**
+  - *[Menippe
+    rumphii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1454&menuentry=soorten)* on Crabs of Japan, the Marine Species Identification
+    Portal: technical fact sheet with photos.
+  - [Maroon
+    stone crab (*Menippe rumphii*)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83550) on [SeaLifeBase](http://www.sealifebase.org/search.php).
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world.* The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
 ---
 
 ## Where seen?
@@ -75,7 +88,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumph
 sturdy crab is seen in rocky and rubbly areas on our Northern shores. Elsewhere, it is found in sandy-muddy areas usually
 under rocks.  
   
-**Features:** Body width to about
+## Features
+ Body width to about
 9cm. Large oval body, edge smooth with four blunt points or 'teeth'.
 Between the eyes are four tiny bumps arranged in a square. Reddish
 to pinkish brown and maroon in adults; young crabs maroon to reddish
@@ -127,21 +141,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Menippe
-  rumphii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1454&menuentry=soorten)* on Crabs of Japan, the Marine Species Identification
-  Portal: technical fact sheet with photos.
-- [Maroon
-  stone crab (*Menippe rumphii*)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83550) on [SeaLifeBase](http://www.sealifebase.org/search.php).
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world.* The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
 
 [links](../../../links)
 | [references](../../../references)

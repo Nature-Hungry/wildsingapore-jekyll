@@ -54,12 +54,30 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+links_references: |
+  **Links**
+  - [Family
+    Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
+    Washington State University Tri-Cities Natural History Museum
+    website: brief fact sheet with photos.
+  - [*Architectonica
+    perdix*](http://www.sealifebase.fisheries.ubc.ca/summary/Architectonica-perdix.html) in SeaLife Base: Technical fact sheet.
+  **References**  
+  - Neo Mei Lin. 29 Sep 2017. *Possible mating and spawning behaviour of partridge sundial snails*. Singapore Biodiversity Records 2017: 121-122.
+  - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
+  - Tan
+    Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott,
+    R. Tucker, 1991. *Seashells
 ---
 
  ## Where seen?
   Sometimes seen on sandy areas near seagrasses on some of our shores.  
   
-**Features:** 6-8cm in diameter. Shell thick and coils to fom a disc with a
+## Features
+ 6-8cm in diameter. Shell thick and coils to fom a disc with a
 flat base. Shell pattern of spirals of brown bars on a paler background. Body and fat tentacles are plain (not striped). Operculum thin, flat and made
 of a horn-like material.  
   
@@ -94,25 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Family
-  Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
-  Washington State University Tri-Cities Natural History Museum
-  website: brief fact sheet with photos.
-- [*Architectonica
-  perdix*](http://www.sealifebase.fisheries.ubc.ca/summary/Architectonica-perdix.html) in SeaLife Base: Technical fact sheet.
-
-**References**  
-
-- Neo Mei Lin. 29 Sep 2017. *Possible mating and spawning behaviour of partridge sundial snails*. Singapore Biodiversity Records 2017: 121-122.
-- Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
-- Tan
-  Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott,
-  R. Tucker, 1991. *Seashells
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -100,6 +100,19 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171056019/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
+links_references: |
+  **Links**  
+  - [*Peachia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Peachia%20Gosse%2C%201855)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Nicholas Wei Liang Yap, Daphne Gail Fautin, Dino Angelo Ramos, and Ria Tan (*2014*) *Sea anemones of Singapore: Synpeachia temasek new genus, new species, and redescription of Metapeachia tropica (Cnidaria: Actiniaria: Haloclavidae)*. Proceedings of the Biological Society of Washington: October 2014, Vol. 127, No. 3, pp. 439-454.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -108,7 +121,8 @@ spread out flat on the surface. It is seen on some of our shores, especially in 
 sandy areas. It is small and usually retracted into the sand at low
 tide so it may actually be quite common but overlooked.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 4-5cm. One ring of 16 tentacles that
 are thick at the base and tapering at the tips. It has a cream-coloured body column. It is usually seen
 with its tentacles flat on the surface, spaced out equally so that
@@ -176,21 +190,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Peachia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Peachia%20Gosse%2C%201855)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Nicholas Wei Liang Yap, Daphne Gail Fautin, Dino Angelo Ramos, and Ria Tan (*2014*) *Sea anemones of Singapore: Synpeachia temasek new genus, new species, and redescription of Metapeachia tropica (Cnidaria: Actiniaria: Haloclavidae)*. Proceedings of the Biological Society of Washington: October 2014, Vol. 127, No. 3, pp. 439-454.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -39,6 +39,18 @@ page_images:
     <p>Tiny porcelain crab.</p>
     <p>Beting Bronok, Jun 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+links_references: |
+  **Links**
+  - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
@@ -46,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/0807
 seen on our Northern shores. Attached to coral rubble, boulders or
 other hard surfaces.  
   
-**Features:** Colony tree-like about
+## Features
+ Colony tree-like about
 10-15cm. Colony is branched with sturdy 'stems' emerging from a stout
 central 'trunk'. The 'stem' white or transparent, with red or pink
 sclerites embedded in the tissues. Polyps tiny (about 0.5cm) with
@@ -86,20 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

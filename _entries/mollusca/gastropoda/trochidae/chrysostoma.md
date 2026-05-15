@@ -36,7 +36,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/c
  This snail is sometimes seen on rocky areas near
 living reefs.  
   
-**Features:** 2.5cm. Shell thick heavy, quite spherical with a pointed tip. Shell
+## Features
+ 2.5cm. Shell thick heavy, quite spherical with a pointed tip. Shell
 smooth, pattern of mottled shades of white and pastel colours with spiralling fine lines. Opening bright orange. Operculum, thin, made
 of a horn-like material with concentric rings, yellow.
 The flexible operculum allows the animal to withdraw deep into the

@@ -84,12 +84,23 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+links_references: |
+  **Links**
+  - [*Comatula
+    purpurea*](http://www.sealifebase.org/summary/Comatula-purpureal)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
  This large 10-armed feather star is sometimes seen on rubbly areas.  
   
-**Features:** About 15cm in diameter
+## Features
+ About 15cm in diameter
 with 10 thick arms. The oral disk is bulbous and surrounded by short structures (pinnules)
 that are tipped with combs to keep the disk clean. It has several
 hooked structures (cirri) on the underside that form a 'claw' that
@@ -150,16 +161,3 @@ Lin on [her
 blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shoresl)
 
 ---
-
-**Links**
-
-- [*Comatula
-  purpurea*](http://www.sealifebase.org/summary/Comatula-purpureal)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

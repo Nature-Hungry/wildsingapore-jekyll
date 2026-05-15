@@ -77,6 +77,29 @@ page_images:
     <p>Reed New Holland.</p>
     <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
+links_references: |
+  **Links**
+  - [Order
+    Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mangrove
+    sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical) (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
+  - [Isopods
+    and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and [Marine
+    slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl) on the [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet, diagrams.
+  - *[Ligia
+    exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)* by
+    J. Masterson on Smithsonian Marine Station at Fort Pierce.
+  **References**
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 if you
@@ -93,7 +116,8 @@ They are common on rocky shores, also among mangroves.
   
 **What are sea slaters?** Sea slaters
 are sometimes called sea cockroaches. Although sea slaters are also [arthropods](../../../arthropoda/arthropoda), they
-are not insects! They are [crustaceans](../../crustacea) like crabs and prawns; but are very happy out of water. **Features:** 2-3cm. Sea slaters have seven pairs of legs and
+are not insects! They are [crustaceans](../../crustacea) like crabs and prawns; but are very happy out of water. ## Features
+ 2-3cm. Sea slaters have seven pairs of legs and
 move very fast! They have huge eyes and very long antennae. They are
 well adapted for life out of water, breathing air directly through
 'pseudo-lungs'.
@@ -139,31 +163,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Order
-  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mangrove
-  sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical) (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
-- [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and [Marine
-  slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet, diagrams.
-- *[Ligia
-  exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)* by
-  J. Masterson on Smithsonian Marine Station at Fort Pierce.
-
-**References**
-
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 
 [links](../../../links)
 | [references](../../../references)

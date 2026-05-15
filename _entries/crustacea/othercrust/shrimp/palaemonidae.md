@@ -56,12 +56,46 @@ page_images:
   caption: |
     <p><a href="palaemon">Glass shrimp</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Glass
+    Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Toh Chay Hoon. 20 December 2013. *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*. Singapore Biodiversity Records 2013: 126-127.
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Miyake, Sadayoshi,
+    and Takahiro Fujino. "[Pontoniid
+    shrimps from the Palau Islands (Crustacea, Decapoda, Palaemonidae).](http://decapoda.nhm.org/pdfs/26215/26215.pdf)"
+    Journal of the Faculty of Agriculture, Kyushu University 14.3
+    (1968): 399-431.
 ---
 
 **What
 are Palaemonid shrimps?** Palaemonid shrimps are [crustaceans](../../crustacea) that belong
 to Family Palaemonidae.    
-**Features:** This family is large and includes a wide range of shimps found in a wide range of habitats. On our shores, these include tiny (1-3cm) shrimps seen living on other animals such as sea anemones,
+## Features
+ This family is large and includes a wide range of shimps found in a wide range of habitats. On our shores, these include tiny (1-3cm) shrimps seen living on other animals such as sea anemones,
 sea cucumbers, feather stars, and hard and soft corals. Some are also seen in small
 groups on the ground and among seaweeds. These shrimps are hard to
 spot as they are small and transparent; and usually only active at
@@ -194,41 +228,7 @@ Periclimenes suvaensis
 
 ---
 
-**Links**  
 
-- [Glass
-  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Toh Chay Hoon. 20 December 2013. *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*. Singapore Biodiversity Records 2013: 126-127.
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Miyake, Sadayoshi,
-  and Takahiro Fujino. "[Pontoniid
-  shrimps from the Palau Islands (Crustacea, Decapoda, Palaemonidae).](http://decapoda.nhm.org/pdfs/26215/26215.pdf)"
-  Journal of the Faculty of Agriculture, Kyushu University 14.3
-  (1968): 399-431.
 
 [links](../../../links)
 | [references](../../../references)

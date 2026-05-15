@@ -32,13 +32,31 @@ page_images:
   caption: |
     <p>Chek Jawa, Dec 2016Photo shared by Ivan Kwan on <a href="https://www.facebook.com/photo.php?fbid=10154149205526179&set=a.10154149196226179.1073741851.602806178&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+links_references: |
+  **Links**
+  - [*Clypeomorus
+    pellucida*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130664&genusname=Clypeomorus&speciesname=pellucida) in SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
  This rather gnarled creeper snail is sometimes seen near and on mangrove
 tree roots or stuck to logs near the low water mark.  
   
-**Features:**About 2-3cm long.
+## Features
+About 2-3cm long.
 Shell thick with irregular ribbing and rather knobbly look. It is
 believed to eat microalgae.
 
@@ -66,25 +84,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Clypeomorus
-  pellucida*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130664&genusname=Clypeomorus&speciesname=pellucida) in SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -71,7 +71,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maz
  Other kinds of corals with maze-like corallites are sometimes seen
 on many of our Southern shores.  
   
-**Features:** Colonies seen 15-30cm.
+## Features
+ Colonies seen 15-30cm.
 Colonies may be encrusting orboulder-shaped. The corallites have shared
 meandering walls sometimes with long valleys, in others, short irregular
 polygons. The overall pattern is coarse and not as fine as in some

@@ -151,6 +151,20 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, May 12Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/06/03/120511/">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
+links_references: |
+  **Links**
+  - [Tiger
+    tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Hippocampus
+    comes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Hippocampus%20comesl)
+    (Gasterosteiformes: Syngnathidae) Tiger-tailed seahorse by Lim
+    Xinjie, 2011 on taxo4254.
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -159,7 +173,8 @@ tail is often seen on our Southern shores, with one seen at Changi in 2019. Acco
 Red Data Book, the Tiger-tailed seahorse is usually found in coral
 reefs, in Singapore, mainly around the Southern Islands.   
   
-**Features:** 6-10cm long. Body without
+## Features
+ 6-10cm long. Body without
 large, obvious spines. Colours seen include black, brown or yellowish
 with speckles. The tail is banded black and yellow. There are little
 white dots around the eye and on the cheeks.   
@@ -250,22 +265,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Tiger
-  tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Hippocampus
-  comes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Hippocampus%20comesl)
-  (Gasterosteiformes: Syngnathidae) Tiger-tailed seahorse by Lim
-  Xinjie, 2011 on taxo4254.
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

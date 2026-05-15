@@ -67,6 +67,29 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+links_references: |
+  **Links**
+  - [Family Galaxauraceae](http://www.algaebase.org/browse/taxonomy/detail/?taxonid=v8397b0dd6848acdb&-session=abv4:3BBD37D318d53140DFOr35D3FFEA) on [AlgaeBase](http://www.algaebase.org/): Technical fact
+    sheet.
+  - J. M. Huisman and M. A. Borowitzka [A revision of the Australian species of Galaxaura (Rhodophyta,
+    Galaxauraceae), with a description of Tricleocarpa gen. nov.](http://algae.thu.edu.tw/lab/2013_Meeting_JulyAugust/PeiHusan/1990_A_revision_Australian_species_Galaxaura.pdf) Phycologia (1990) Volume 29 (2), 150-172
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -74,7 +97,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomth
 growing among living corals, or on rubble near living reefs. Usually
 seen alone, not forming carpets or covering large areas.  
   
-**Features:** A bushy cluster (3-6cm)
+## Features
+ A bushy cluster (3-6cm)
 of many stiff, thick, cylindrical 'stems' that are regularly branched.
 The 'stem' tips with blunt rounded tips often with a darker pink dot at the tips.
 The spherical bushy shape may be dense or rather loose. The seaweed
@@ -138,31 +162,7 @@ Tricleocarpa fragilis=Galaxaura oblongata*
 
 ---
 
-**Links**
 
-- [Family Galaxauraceae](http://www.algaebase.org/browse/taxonomy/detail/?taxonid=v8397b0dd6848acdb&-session=abv4:3BBD37D318d53140DFOr35D3FFEA) on [AlgaeBase](http://www.algaebase.org/): Technical fact
-  sheet.
-- J. M. Huisman and M. A. Borowitzka [A revision of the Australian species of Galaxaura (Rhodophyta,
-  Galaxauraceae), with a description of Tricleocarpa gen. nov.](http://algae.thu.edu.tw/lab/2013_Meeting_JulyAugust/PeiHusan/1990_A_revision_Australian_species_Galaxaura.pdf) Phycologia (1990) Volume 29 (2), 150-172
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
   
   

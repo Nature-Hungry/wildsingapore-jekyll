@@ -98,6 +98,36 @@ page_images:
   caption: |
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
+links_references: |
+  **Links**
+  - [Polyplacophora](http://animaldiversity.ummz.umich.edu/site/accounts/information/Polyplacophora.html)
+    on the [Animal
+    Diversity Web](http://animaldiversity.ummz.umich.edu/site/index.html) on the University of Michigan Museum of Zoology
+    website: information, pictures, specimens and classification.
+  - [Polyplacophora](http://www.seaslugforum.net/factsheet.cfm?base=chitons)
+    on [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman:
+  **References**
+  - Tan, S. K.
+    & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs
+    of Singapore*. Lee Kong Chian Natural History Museum, National
+    University of Singapore, Singapore. 78 pp.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 ---
 
 if you
@@ -120,7 +150,8 @@ slugs and clams. They belong to a separate Class Polyplacophora. About
 half the chiton species are found in shallow waters, while the rest
 are found in deep water.  
   
-**Features:** Ranging from 3mm to
+## Features
+ Ranging from 3mm to
 40cm, most are about 3-12cm long. Those on our shores tend to be 3cm
 or less. These sluggish animals are adapted for clinging tenaciously
 to a hard surface. A chiton is basically just a large flat foot. The
@@ -242,38 +273,7 @@ Endangered)
 
 ---
 
-**Links**
 
-- [Polyplacophora](http://animaldiversity.ummz.umich.edu/site/accounts/information/Polyplacophora.html)
-  on the [Animal
-  Diversity Web](http://animaldiversity.ummz.umich.edu/site/index.html) on the University of Michigan Museum of Zoology
-  website: information, pictures, specimens and classification.
-- [Polyplacophora](http://www.seaslugforum.net/factsheet.cfm?base=chitons)
-  on [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman:
-
-**References**
-
-- Tan, S. K.
-  & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs
-  of Singapore*. Lee Kong Chian Natural History Museum, National
-  University of Singapore, Singapore. 78 pp.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
 [links](../../links.htm)
 | [references](../../references.htm)

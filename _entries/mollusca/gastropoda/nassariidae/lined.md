@@ -32,7 +32,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae
 around its shell is sometimes seen in sandy areas on our Northern
 shores.  
   
-**Features:** About 1cm. Shell
+## Features
+ About 1cm. Shell
 thick conical with regular ridges, and smoother portion
 near the front. Shell pattern pale yellow with fine purple spirals.
 Body pale with white spots, very long siphon and short tentacles.

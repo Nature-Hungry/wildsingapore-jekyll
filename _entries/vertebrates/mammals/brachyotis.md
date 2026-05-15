@@ -32,6 +32,27 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
+links_references: |
+  **Links**
+  - [Lesser
+    Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat) on Nick Baker's EcologyAsia website: fact
+    sheet with photos.
+  - [*Cynopterus
+    brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotisl) (Chiroptera: Pteropodidae) Lesser Dog-faced
+    Fruit Bat by Tan Xiao Rui Joanna, 2013 on taxo4254.
+  **References**
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Nowak, Ronald
+    M. 1994. *Walker's
+    Bats of the World*The Johns Hopkins University Press. 287 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -40,7 +61,8 @@ most commonly seen bats. According to Baker, it is widespread and
 common even in urban areas. According to Nowak, they are found in
 forests and open country.  
   
-**Features:**Forearm length about 6.5cm. It has white wing bones and white
+## Features
+Forearm length about 6.5cm. It has white wing bones and white
 ear edges. A small bat with a long muzzle without an elaborate 'nose
 leaf'. Instead, it has prominent tubular nostrils. Together with large
 eyes, it has a dog-like face. It is sometimes called the Lesser Dog-faced
@@ -92,29 +114,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Lesser
-  Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat) on Nick Baker's EcologyAsia website: fact
-  sheet with photos.
-- [*Cynopterus
-  brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotisl) (Chiroptera: Pteropodidae) Lesser Dog-faced
-  Fruit Bat by Tan Xiao Rui Joanna, 2013 on taxo4254.
-
-**References**
-
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Nowak, Ronald
-  M. 1994. *Walker's
-  Bats of the World*The Johns Hopkins University Press. 287 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

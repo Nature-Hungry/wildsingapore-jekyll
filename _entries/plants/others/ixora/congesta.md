@@ -57,6 +57,16 @@ page_images:
   caption: |
     <p>Chek Jawa, Nov 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
+links_references: |
+  **Links**
+  - *[Ixora
+    congesta](http://floraofsingapore.wordpress.com/2010/05/02/ixora-congesta/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *[Growing
+    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
+    168pp.
 ---
 
 ## Where seen?
@@ -67,7 +77,8 @@ it as "the most conspicuous of our wild Ixoras". According
 to Hsuan Keng, they were found in forests such as at Bukit Timah and
 Chua Chu Kang.  
   
- **Features:** A shrub to small tree
+ ## Features
+ A shrub to small tree
 (up to 7m). Leaves large (12-30cm long), dark green. Flowers bright
 orange, trumpet shaped and appear in bunches 15-20cm across. The Malay
 name 'Jarum-jarum' means 'bunch of needles' which is what the unopened
@@ -87,18 +98,7 @@ for this plant.
 
 ---
 
-**Links**
 
-- *[Ixora
-  congesta](http://floraofsingapore.wordpress.com/2010/05/02/ixora-congesta/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[Growing
-  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-  168pp.
 
 [links](../../../links) |
 [references](../../../references)

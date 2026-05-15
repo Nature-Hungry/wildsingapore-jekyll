@@ -41,6 +41,33 @@ page_images:
     <p>Grey heron.</p>
     <p>Kranji Nature Trail, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
+links_references: |
+  **Links**
+  - [Migratory
+    birds: supremely designed for travel](http://wildshores.blogspot.com/2009/09/migratory-birds-supremely-designed-for.html) on the wild shores of
+    singapore blog.
+  - [Comprehensive
+    guide on Singapore's migratory birds launched](http://wildsingaporenews.blogspot.com/2009/10/comprehensive-guide-on-singapores.html) Dylan Loh, Channel
+    NewsAsia 10 Oct 09;
+  - [Migratory
+    birds and Mangroves at Sungei Buloh](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/4cfzUJiwWJQ/migratory-birds-and-mangroves-at-sungei.html) from wild shores of singapore
+  - [8
+    May (Sat) is World Migratory Bird Day](http://iyb2010singapore.blogspot.com/2010/05/8-may-sat-is-world-migratory-bird-day.html) from Celebrating Singapore's
+    BioDiversity!
+  - on the wild
+    shores of singapore blog
+    - [Documenting
+      seabirds that pass through Singapore](http://wildshores.blogspot.com/2011/01/documenting-seabirds-that-pass-through.html)
+    - [Bird
+      poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damage.html)
+  **References**
+  - *Mysterious entrapment of a sand-plover on a sandbar at Chek Jawa*,
+    22 January 2020, Joleen Chan & Ria Tan, Singapore Biodiversity Records 2020: 4-5 ISSN 2345-7597, National University of Singapore.
+  - Cheah, J. W. K. & A. Ng, 2008. [Breeding ecology of the little tern, *Sterna albifrons* Pallas, 1764](http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2008/2008nis69-73.pdf) in Singapore. Nature in Singapore, 1: 69–73.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -117,35 +144,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Migratory
-  birds: supremely designed for travel](http://wildshores.blogspot.com/2009/09/migratory-birds-supremely-designed-for.html) on the wild shores of
-  singapore blog.
-- [Comprehensive
-  guide on Singapore's migratory birds launched](http://wildsingaporenews.blogspot.com/2009/10/comprehensive-guide-on-singapores.html) Dylan Loh, Channel
-  NewsAsia 10 Oct 09;
-- [Migratory
-  birds and Mangroves at Sungei Buloh](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/4cfzUJiwWJQ/migratory-birds-and-mangroves-at-sungei.html) from wild shores of singapore
-- [8
-  May (Sat) is World Migratory Bird Day](http://iyb2010singapore.blogspot.com/2010/05/8-may-sat-is-world-migratory-bird-day.html) from Celebrating Singapore's
-  BioDiversity!
-- on the wild
-  shores of singapore blog
-  - [Documenting
-    seabirds that pass through Singapore](http://wildshores.blogspot.com/2011/01/documenting-seabirds-that-pass-through.html)
-  - [Bird
-    poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damage.html)
-
-**References**
-
-- *Mysterious entrapment of a sand-plover on a sandbar at Chek Jawa*,
-  22 January 2020, Joleen Chan & Ria Tan, Singapore Biodiversity Records 2020: 4-5 ISSN 2345-7597, National University of Singapore.
-- Cheah, J. W. K. & A. Ng, 2008. [Breeding ecology of the little tern, *Sterna albifrons* Pallas, 1764](http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2008/2008nis69-73.pdf) in Singapore. Nature in Singapore, 1: 69–73.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

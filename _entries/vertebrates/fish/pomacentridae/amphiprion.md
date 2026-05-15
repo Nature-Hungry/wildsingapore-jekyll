@@ -71,6 +71,68 @@ page_images:
   caption: |
     <p><a href="frenatus.htm">Tomato anemonefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+links_references: |
+  **Links**  
+  - [Field
+    Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html) by Dr
+    Daphne G. Fautin and Dr Gerald R. Allen: tons of information and
+    photos of anemonefishes and their sea anemone hosts. Lots of details
+    about how anemonefish develop immunity to sea anemone hosts, their
+    life history and how fish and anemone affect each other.
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp
+  - [Anemonefish](https://ikanfish.wordpress.com/damselfishes/damselfishes-anemonefish/) on Reef fishes of Singapore by Jeffrey Low.
+  - [Clownfish
+    don't need 'Nemo,' they are stars](http://www.susanscott.net/OceanWatch2004/jan30-04.html) on SusanScott.net: an easy-to-read
+    and amusing article about gender switching among anemonefishes.
+  - [Family
+    Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family including fact sheets on the
+    various species.
+  - From the wild shores of singapore
+    blog.
+    - [Nemo
+      leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)
+    - [Acid
+      oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)
+    - [Clown
+      anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html): about how these fishes find their way to a suitable sea
+      anemone host
+  **References**
+  - Toh Chay Hoon. 11 April 2014. *Spawn of the saddleback anemonefish*. Singapore Biodiversity Records 2014: 96.
+  - Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
+  - Toh Chay Hoon. 20 December 2013. *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*. Singapore Biodiversity Records 2013: 126-127.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -93,7 +155,8 @@ high and dry.
   
 **What are anemonefishes?** Anemonefishes
 belong to the [Family Pomacentridae](pomacentridae.htm).
-Anemonefishes are in the subgroup Amphiprioninae in this family. **Features:** To about 9cm. An eye-catching red-and-white pattern, rounded fins, and 'wriggling' deep among a sea anemone's tentacles makes this fish quite unmistakable. Indeed, the most amazing feature of anemonefishes is that they
+Anemonefishes are in the subgroup Amphiprioninae in this family. ## Features
+ To about 9cm. An eye-catching red-and-white pattern, rounded fins, and 'wriggling' deep among a sea anemone's tentacles makes this fish quite unmistakable. Indeed, the most amazing feature of anemonefishes is that they
 can live happily among the tentacles of sea anemones that would
 otherwise kill (and eat) other fishes, including larger fishes.  
   
@@ -200,70 +263,7 @@ Vulnerable)
 
 ---
 
-**Links**  
 
-- [Field
-  Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html) by Dr
-  Daphne G. Fautin and Dr Gerald R. Allen: tons of information and
-  photos of anemonefishes and their sea anemone hosts. Lots of details
-  about how anemonefish develop immunity to sea anemone hosts, their
-  life history and how fish and anemone affect each other.
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp
-- [Anemonefish](https://ikanfish.wordpress.com/damselfishes/damselfishes-anemonefish/) on Reef fishes of Singapore by Jeffrey Low.
-- [Clownfish
-  don't need 'Nemo,' they are stars](http://www.susanscott.net/OceanWatch2004/jan30-04.html) on SusanScott.net: an easy-to-read
-  and amusing article about gender switching among anemonefishes.
-- [Family
-  Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family including fact sheets on the
-  various species.
-- From the wild shores of singapore
-  blog.
-  - [Nemo
-    leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)
-  - [Acid
-    oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)
-  - [Clown
-    anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html): about how these fishes find their way to a suitable sea
-    anemone host
-
-**References**
-
-- Toh Chay Hoon. 11 April 2014. *Spawn of the saddleback anemonefish*. Singapore Biodiversity Records 2014: 96.
-- Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
-- Toh Chay Hoon. 20 December 2013. *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*. Singapore Biodiversity Records 2013: 126-127.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

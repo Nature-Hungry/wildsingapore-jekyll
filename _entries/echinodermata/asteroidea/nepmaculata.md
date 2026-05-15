@@ -50,7 +50,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmac
 to Lane, this sea star is rather rare in Singapore. It was only first
 recorded for Singapore in 1991. According to Marsh and Fromont, it is found on muddy to coarse sand with rubble or coral in sheltered waters in Australia.  
   
-**Features:** Diameter with arms about
+## Features
+ Diameter with arms about
 11cm. A rounded star (not flat) with long plump arms like half a cylinder
 with a flat base and rounded tips. The
 upper side is covered with 'scales'. When

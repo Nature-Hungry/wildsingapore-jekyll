@@ -44,6 +44,21 @@ page_images:
     <p>The Gould League of Australia.</p>
     <p>96pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+links_references: |
+  **Links**
+  - Family Loliginidae
+    in the Cephalopod section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
 ---
 
 ## Where seen?
@@ -54,7 +69,8 @@ They typically gather near the bottom during the day, dispersing in
 the water at night to hunt. Many are attracted to light and they are
 often fished at night using a light.  
   
-**Features:** Those seen 8-12cm long,
+## Features
+ Those seen 8-12cm long,
 but other species of this family that live in deeper waters can grow
 to 40cm. Those we have seen in the intertidal zone are rather short
 and squat. Some are long and slender with triangular fins at the rear
@@ -104,23 +120,7 @@ squid) *Uroteuthis sibogae*
 
 ---
 
-**Links**
 
-- Family Loliginidae
-  in the Cephalopod section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
 
 [links](../../links.htm)
 | [references](../../references.htm)

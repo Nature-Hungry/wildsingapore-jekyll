@@ -42,6 +42,33 @@ page_images:
   caption: |
     <p>Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+links_references: |
+  **Links**  
+  - [Threespot
+    dascyllus (*Dascyllus trimaculatus*)](http://www.fishbase.org/summary/speciessummary.php?id=5112) from [FishBase](http://www.fishbase.org/):
+    fact sheet
+  - [*Dascyllus
+    trimaculatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2l#trima) from the
+    [the
+    Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/introl)
+    by Dr Daphne
+    G. Fautin and Dr Gerald R. Allen: brief fact sheet
+    with photo.
+  **References**
+  - Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -51,7 +78,8 @@ reefs, living in a [Giant
 carpet anemone](../../../cnidaria/actiniaria/gigantea), often sharing the anemone with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis). Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals.
 Adults found in pairs or small groups around coral mounds or rocks.  
   
-**Features:** To 11cm. Juveniles are
+## Features
+ To 11cm. Juveniles are
 jet black with white blotch on forehead and on the sides near the
 upperside of the body. As they age, the spots fade. Adults are greyish
 with variable 'spottiness', some with no spot on forehead; or very
@@ -98,35 +126,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Threespot
-  dascyllus (*Dascyllus trimaculatus*)](http://www.fishbase.org/summary/speciessummary.php?id=5112) from [FishBase](http://www.fishbase.org/):
-  fact sheet
-- [*Dascyllus
-  trimaculatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2l#trima) from the
-  [the
-  Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/introl)
-  by Dr Daphne
-  G. Fautin and Dr Gerald R. Allen: brief fact sheet
-  with photo.
-
-**References**
-
-- Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

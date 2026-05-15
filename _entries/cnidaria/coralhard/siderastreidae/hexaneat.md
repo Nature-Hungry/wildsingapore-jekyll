@@ -46,6 +46,22 @@ page_images:
   caption: |
     <p>St John's Island, Apr 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158838566793660&set=a.10158838479268660">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Pseudosiderastrea tayamai](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45498)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Danwei
+    Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
+    2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 69-80.
+  - Veron,
+    Jen. 2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
 ---
 
 ## Where seen?
@@ -55,7 +71,8 @@ are also seen on our southern shores. According to Veron, they are
 found in very shallow water attached to bare rock and are considered
 uncommon and cryptic. The genus has only one species.  
   
-**Features:** Colonies seen 5-10cm.
+## Features
+ Colonies seen 5-10cm.
 The colony is generally encrusting or a smooth dome-shape, but somewhat
 irregular and not perfectly spherical. The corallites (1-1.5cm) have
 shared walls and form irregular, wide, shallow cells with sharp angular
@@ -125,24 +142,7 @@ hexa corals) (Near Threatened)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Pseudosiderastrea tayamai](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45498)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Danwei
-  Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
-  2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 69-80.
-- Veron,
-  Jen. 2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
 
 [links](../../../links)
 | [references](../../../references)

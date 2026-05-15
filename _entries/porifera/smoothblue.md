@@ -50,11 +50,21 @@ page_images:
   caption: |
     <p>Pulau Biola, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040706lazd2411m3.jpg
+links_references: |
+  **Links**
+  - [*Lendenfeldia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165271)
+    on the World Porifera Database
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This smooth sponge forms a layer over coral rubble and is often seen
-on our Southern shores. It does remind of icing on a cake! **Features:** The layer
+on our Southern shores. It does remind of icing on a cake! ## Features
+ The layer
 encrusts coral rubble and may cover an area of 20cm wide or more.
 Sometimes, also encrusts living coral. Generally a smooth layer but
 also often with irregular knobs, folds and lobes. Tiny circular holes
@@ -99,17 +109,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Lendenfeldia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165271)
-  on the World Porifera Database
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

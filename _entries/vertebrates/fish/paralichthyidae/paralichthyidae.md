@@ -90,6 +90,40 @@ page_images:
   caption: |
     <p>Pulau Semakau North, Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234701792024164">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
+links_references: |
+  **Links**  
+  - [Largetooth
+    Flounder (*Pseudorhombus arsius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/384) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Paralichthyidae](http://www.fishbase.org/summary/FamilySummary.php?ID=514) and *[Pseudorhombus
+    arsius](http://www.fishbase.org/summary/1325)* [(Largetooth
+    flounder)](http://www.fishbase.org/summary/1325) and *[Pseudorhombus
+    javanicus](http://www.fishbase.org/summary/1335)*[(Javan flounder)](http://www.fishbase.org/summary/1335) and *[Pseudorhombus
+    malayanus](http://www.fishbase.org/summary/1368)*[(Malayan flounder)](http://www.fishbase.org/summary/1368) and *[Pseudorhombus
+    neglectus](http://www.fishbase.org/summary/10588)* and *[Pseudorhombus
+    oligodon](http://www.fishbase.org/summary/13071)*[(Roughscale flounder)](http://www.fishbase.org/summary/13071) and *[Pseudorhombus
+    polyspilos](http://www.fishbase.org/summary/13831)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family and fact sheets on individual
+    species.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017. *Deep flounder, Pseudorhombus neglectus, at East Coast.* Singapore Biodiversity Records: 2017: 73.
+  - Lee Bee Yan, Tan Heok Hui & Kelvin K. P. Lim. 31 May 2017. *Javan flounder, Pseudorhombus javanicus, at Tuas.* Singapore Biodiversity Records: 2017: 73.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 if you
@@ -106,7 +140,8 @@ in Family Bothidae). According to [FishBase](http://fishbase.sinica.edu.tw/Summa
 the family has 16 genera and 86 species. They are found in the Atlantic,
 Indian and Pacific oceans.   
   
-**Features:** Grows to about 40cm long, those seen about
+## Features
+ Grows to about 40cm long, those seen about
 15-20cm. Body flat but typical fish-shaped. The head is large with
 bulbous eyes, both on the left side. The tail fin is well separated
 from the dorsal and anal fins. The tail fin is somewhat pointed over
@@ -208,42 +243,7 @@ Pseudorhombus polyspilos*
 
 ---
 
-**Links**  
 
-- [Largetooth
-  Flounder (*Pseudorhombus arsius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/384) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Paralichthyidae](http://www.fishbase.org/summary/FamilySummary.php?ID=514) and *[Pseudorhombus
-  arsius](http://www.fishbase.org/summary/1325)* [(Largetooth
-  flounder)](http://www.fishbase.org/summary/1325) and *[Pseudorhombus
-  javanicus](http://www.fishbase.org/summary/1335)*[(Javan flounder)](http://www.fishbase.org/summary/1335) and *[Pseudorhombus
-  malayanus](http://www.fishbase.org/summary/1368)*[(Malayan flounder)](http://www.fishbase.org/summary/1368) and *[Pseudorhombus
-  neglectus](http://www.fishbase.org/summary/10588)* and *[Pseudorhombus
-  oligodon](http://www.fishbase.org/summary/13071)*[(Roughscale flounder)](http://www.fishbase.org/summary/13071) and *[Pseudorhombus
-  polyspilos](http://www.fishbase.org/summary/13831)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family and fact sheets on individual
-  species.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017. *Deep flounder, Pseudorhombus neglectus, at East Coast.* Singapore Biodiversity Records: 2017: 73.
-- Lee Bee Yan, Tan Heok Hui & Kelvin K. P. Lim. 31 May 2017. *Javan flounder, Pseudorhombus javanicus, at Tuas.* Singapore Biodiversity Records: 2017: 73.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links)
 | [references](../../../references)

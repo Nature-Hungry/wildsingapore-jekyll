@@ -69,7 +69,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/mel
  This large nudibranch is sometimes on among seagrasses. It may be
 seasonal: when seen, many individuals are encountered.  
   
-**Features:** 6-12cm long. Soft body
+## Features
+ 6-12cm long. Soft body
 with about 8 large lobes arranged in two rows along the body length.
 These lobes stick to predators and detach, so please don't handle
 the nudibranch. Like other Melibe species, it has an expandable hood (oral veil)

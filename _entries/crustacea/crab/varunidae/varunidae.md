@@ -32,13 +32,38 @@ page_images:
   caption: |
     <p><a href="varuna">Paddler crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+links_references: |
+  **Links**
+  - [Paddler
+    crab (*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046), [Orange
+    signaller crab (*Metaplax elegans*)](http://mangrove.nus.edu.sg/guidebooks/text/2051) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Varuna
+    litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Tan Heok Hui. 5 December 2014. *Chinese mitten crab at West Coast marsh pond, Eriocheir sinensis*. Singapore Biodiversity Records 2014: 313.
+  - Bi Wei Low, Ngan Kee NG, Darren CJ Yeo. February 2013. *First record of the invasive Chinese mitten crab, Eriocheir sinensis H. Milne Edwards, 1853 (Crustacea: Brachyura: Varunidae) from Singapore*. BioInvasions Records 2(1):73–78.  DOI: 10.3391/bir.2013.2.1.13.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
  These crabs are seen near mangroves
 and freshwater streams.  
   
-**Features:** Small crabs that are
+## Features
+ Small crabs that are
 often overlooked.
 
 ---
@@ -78,32 +103,7 @@ Utica sp.
 
 ---
 
-**Links**
 
-- [Paddler
-  crab (*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046), [Orange
-  signaller crab (*Metaplax elegans*)](http://mangrove.nus.edu.sg/guidebooks/text/2051) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Varuna
-  litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Tan Heok Hui. 5 December 2014. *Chinese mitten crab at West Coast marsh pond, Eriocheir sinensis*. Singapore Biodiversity Records 2014: 313.
-- Bi Wei Low, Ngan Kee NG, Darren CJ Yeo. February 2013. *First record of the invasive Chinese mitten crab, Eriocheir sinensis H. Milne Edwards, 1853 (Crustacea: Brachyura: Varunidae) from Singapore*. BioInvasions Records 2(1):73–78.  DOI: 10.3391/bir.2013.2.1.13.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

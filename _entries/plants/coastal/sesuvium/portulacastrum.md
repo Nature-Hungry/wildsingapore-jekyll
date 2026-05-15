@@ -41,6 +41,30 @@ page_images:
   caption: |
     <p>Pulau Semakau, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+links_references: |
+  **Links**
+  - *[Sesuvium
+    portulacastrum](http://floraofsingapore.wordpress.com/2010/10/03/sesuvium-portulacastrum/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Sesuvium
+    portulacastrum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2456) on the NParks Flora and Fauna website:
+    photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -51,7 +75,8 @@ seashores. According to Giesen, it is found throughout Southeast Asia,
 but not (yet) recorded in Borneo. '*Gelang laut*' means 'Garland
 of the Sea' in Malay. It is also called '*Sepit-sepit*'.  
   
- **Features:** A spreading creeper
+ ## Features
+ A spreading creeper
 with many branches forming a carpet on the high shores of sandy beaches
 and in back mangroves. Stems and leaves thick and fleshy. Stems up
 to 1m long, smooth, sometimes bright red, and with roots at the nodes.
@@ -92,32 +117,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Sesuvium
-  portulacastrum](http://floraofsingapore.wordpress.com/2010/10/03/sesuvium-portulacastrum/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Sesuvium
-  portulacastrum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2456) on the NParks Flora and Fauna website:
-  photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

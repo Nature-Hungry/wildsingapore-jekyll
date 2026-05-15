@@ -63,12 +63,21 @@ page_images:
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
+links_references: |
+  **Links**
+  - [*Holothuria impatiens* (Impatient sea cucumber)](http://www.sealifebase.org/summary/Holothuria-impatiensl) on SeaLife Base:
+    Technical fact sheet.
+  - [*Holothuria impatiens*](http://species-identification.org/species.php?species_group=nasc&id=64) in North Australian Sea Cucumbers in Marine Species
+    Identification Portal: Technical fact sheet.
+  - [*Holothuria impatiens*](http://www.iucnredlist.org/details/summary/180512/0) on the IUCN Red List: Technical fact sheet.
+  - *Holothuria impatiens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 ---
 
 ## Where seen?
  This large tapering sea cucumber is sometimes seen hidden in rubbly areas on some of our shores. Elsewhere, it is found in shallow reefs, hidden under rocks, also in seagrasses and silty environments. As well as up to 30m deep. *Holothuria impatiens* is considered a species complex which is being untangled at present.   
   
- **Features:** 15-25 cm long. Body tough cylindrical. The back end is broader, without markings and usually wedged into a hiding place. The narrower end has the downward facing mouth with 20 feeding tentacles, short white with bushy tips. This narrow end sticks out of hiding and usually has 5 or more dark grey/brown bands. The body has been described as bottle-shaped and rough to the touch. Those seen usually greyish. But elsewhere described as light brown or variegated pink and brown. The body is covered with conical spiky bumps. It has sparse tube feet. When disturbed, it
+ ## Features
+ 15-25 cm long. Body tough cylindrical. The back end is broader, without markings and usually wedged into a hiding place. The narrower end has the downward facing mouth with 20 feeding tentacles, short white with bushy tips. This narrow end sticks out of hiding and usually has 5 or more dark grey/brown bands. The body has been described as bottle-shaped and rough to the touch. Those seen usually greyish. But elsewhere described as light brown or variegated pink and brown. The body is covered with conical spiky bumps. It has sparse tube feet. When disturbed, it
 can release from its backside, long thick sticky white cylindrical tubes called Cuvierian tubules.  
   
 **Human uses:** This sea cucumber
@@ -114,12 +123,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Holothuria impatiens* (Impatient sea cucumber)](http://www.sealifebase.org/summary/Holothuria-impatiensl) on SeaLife Base:
-  Technical fact sheet.
-- [*Holothuria impatiens*](http://species-identification.org/species.php?species_group=nasc&id=64) in North Australian Sea Cucumbers in Marine Species
-  Identification Portal: Technical fact sheet.
-- [*Holothuria impatiens*](http://www.iucnredlist.org/details/summary/180512/0) on the IUCN Red List: Technical fact sheet.
-- *Holothuria impatiens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.

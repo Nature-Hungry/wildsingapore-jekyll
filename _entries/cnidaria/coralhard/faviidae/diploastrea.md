@@ -80,13 +80,45 @@ page_images:
   caption: |
     <p></p>
 coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg"
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Diploastrea
+    heliopora](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Diploastrea)* on Reef Corals of the Indo-Malayan Seas, the
+    Marine Species Identification Portal: Technical factsheet.
+  - [*Diploastrea
+    heliopora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46689) on SeaLife Base: Technical factsheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This beautiful neat coral is sometimes seen, usually on our undisturbed Southern shores. *Diploastrea heliopora* is the only member of this genus and the only genus in the Family
 Diploastreidae. *Favia laxa* may appear similar.  
   
-**Features:** Colonies 15-30cm, elsewhere
+## Features
+ Colonies 15-30cm, elsewhere
 recorded to grow up to 5m wide and 2m tall. The colonies are said
 to be usually dome-shaped but may become almost spherical boulders.
 Some seen were encrusting. The corallites (1cm) are similarly-sized
@@ -152,39 +184,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Diploastrea
-  heliopora](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Diploastrea)* on Reef Corals of the Indo-Malayan Seas, the
-  Marine Species Identification Portal: Technical factsheet.
-- [*Diploastrea
-  heliopora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46689) on SeaLife Base: Technical factsheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

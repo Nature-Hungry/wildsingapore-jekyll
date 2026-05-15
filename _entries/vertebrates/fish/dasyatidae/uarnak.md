@@ -51,13 +51,30 @@ page_images:
   caption: |
     <p>Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162585289158119&type=3&ref=embed_post">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+links_references: |
+  **Links**  
+  - [Honeycomb
+    whipray (*Himantura uarnak*)](http://www.fishbase.org/summary/5507) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Honeycomb whipray (*Himantura undulata*)](http://www.iucnredlist.org/details/161692/0) on the IUCN
+    Red List: fact sheet.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
+  **References**
+  - Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013. *Reticulate whipray at Chek Jawa, Himantura uarnak*. Singapore Biodiversity Records 2013: 32.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This
 humungous spotted stingray is sometimes seen at Chek Jawa. Elsewhere it is common on sandy beaches and in shallow estuaries and lagoons; also found in sandy areas of coral reefs.   
   
-**Features:**  A large ray that can grow to about 160cm in diameter and
+## Features
+  A large ray that can grow to about 160cm in diameter and
 6m in total length. It has conspicuous dark spots on a light brown disc; spots well-spaced in young but crowded to form reticulated or honey-comb like pattern in adult; white ventrally; tail marked with bands of black and white; snout sharply pointed; disc with narrowly rounded outer corners, and tail long, slender and nearly three times body length when intact.
 
  
@@ -95,24 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Honeycomb
-  whipray (*Himantura uarnak*)](http://www.fishbase.org/summary/5507) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Honeycomb whipray (*Himantura undulata*)](http://www.iucnredlist.org/details/161692/0) on the IUCN
-  Red List: fact sheet.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
-
-**References**
-
-- Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013. *Reticulate whipray at Chek Jawa, Himantura uarnak*. Singapore Biodiversity Records 2013: 32.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -49,7 +49,8 @@ our Northern shores. It is also called the Spineless cuttlefish because
 its cuttlebone lacks a spine at the tip that many other cuttlefishes
 have. 'Inermis' in Latin means 'harmless', 'peaceful'.  
   
-**Features:** 5-8cm long. Body oval
+## Features
+ 5-8cm long. Body oval
 with fins all around the edges, with about 7 reddish patches and glittering
 iridescent spots or dashes on each side of the body. Short fat arms.
 Body texture generally smooth and does not form into bumps or pimples.  

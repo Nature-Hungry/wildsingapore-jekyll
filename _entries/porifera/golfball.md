@@ -93,6 +93,17 @@ page_images:
   caption: |
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
+links_references: |
+  **Links**
+  - [*Cinachyrella
+    australiensis*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=129800&genusname=Cinachyrella&speciesname=australiensis)
+    on SeaLife Base: technical fact sheet.
+  - [*Cinachyrella
+    australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=171296) on the World Porifera Database.
+  **References**
+  - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
@@ -105,7 +116,8 @@ silty areas.
   
 Sometimes, similar sponges are found washed ashore. These are usually
 smooth without spines and usually smell bad. Are they dead or dying
-golf ball sponges? **Features:** 6-8cm in diameter, spherical densely covered
+golf ball sponges? ## Features
+ 6-8cm in diameter, spherical densely covered
 with short, fine spines. These are needle-shaped spicules that stick
 out of the surface. Don't touch the sponge as the spicules may pierce
 your skin and remain embedded causing great discomfort. There may
@@ -179,19 +191,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Cinachyrella
-  australiensis*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=129800&genusname=Cinachyrella&speciesname=australiensis)
-  on SeaLife Base: technical fact sheet.
-- [*Cinachyrella
-  australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=171296) on the World Porifera Database.
-
-**References**
-
-- Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

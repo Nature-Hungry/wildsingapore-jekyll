@@ -78,6 +78,25 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
+links_references: |
+  **Links**
+  - [Rainforest
+    Rojak](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a051c) from Nature Watch, a magazine of the Nature Society
+    (Singapore).
+  - [A
+    tale of rubber tapping](http://yesterday.sg/2009/07/por-a-tale-of-rubber-tapping/) on yesterday.sg
+  - [Sir
+    Henry Nicholas Ridley](http://infopedia.nl.sg/articles/SIP_518_2004-12-28l) on infopedia by Cornelius-Takahama,
+    Vernon on the National Library Board website.
+  - [150th
+    Anniversary of H.N. Ridley](http://www.sbg.org.sg/publications/62.pdf) (PDF) a special issue of Gardenwatch,
+    a magazine of the Singapore Botanic Gardens.
+  - [A
+    Brief History of Rubber](http://www.mongabay.com/10rubber) (based on Wade Davis, One River 1996)
+    on mongabay.com
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -100,7 +119,8 @@ taken from Brazil to the Kew Gardens in the UK. The tree is originally
 called the Para rubber tree. There are 12 species in Brazil, only
 *H. brasiliensis* was widely introduced to Malaya.  
   
- **Features:** Tall tree (to 20m).
+ ## Features
+ Tall tree (to 20m).
 Compound leaf thin, made up of three leaflets, arranged in a spiral.
 These wither brown, red or yellow after a dry season. Young leaves
 are purple bronze. Small white or pale flowers in a spray, said to
@@ -139,27 +159,7 @@ Pavilion.
 
 ---
 
-**Links**
 
-- [Rainforest
-  Rojak](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a051c) from Nature Watch, a magazine of the Nature Society
-  (Singapore).
-- [A
-  tale of rubber tapping](http://yesterday.sg/2009/07/por-a-tale-of-rubber-tapping/) on yesterday.sg
-- [Sir
-  Henry Nicholas Ridley](http://infopedia.nl.sg/articles/SIP_518_2004-12-28l) on infopedia by Cornelius-Takahama,
-  Vernon on the National Library Board website.
-- [150th
-  Anniversary of H.N. Ridley](http://www.sbg.org.sg/publications/62.pdf) (PDF) a special issue of Gardenwatch,
-  a magazine of the Singapore Botanic Gardens.
-- [A
-  Brief History of Rubber](http://www.mongabay.com/10rubber) (based on Wade Davis, One River 1996)
-  on mongabay.com
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

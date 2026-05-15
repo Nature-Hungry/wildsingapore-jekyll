@@ -90,6 +90,45 @@ page_images:
   caption: |
     <p><a href="alphballsoft">White soft coral snapping shrimp</a>in ball flowery soft corals</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Mangrove
+    snapping prawns (*Alpheus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Snapping
+    or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Michel Versluis,et
+    al (2000). [How
+    Snapping Shrimp Snap: Through Cavitating bubbles](http://www2.esm.vt.edu/%7Esunnyjsh/sunghwan/ESM_4014_Videos_files/Science-2000-Versluis-2114-7.pdf), Science,
+    289, 2014. [DOI:
+    10.1126/science.289.5487.2114](http://www.sciencemag.org/content/289/5487/2114.abstract) with a layman's explanation [Snapping
+    Shrimp](http://www.scientificamerican.com/article.cfm?id=snapping-shrimp) by Kristin Leutwyler on Scientific American.
+  - D. Lohse,
+    B. Schmitz & M. Versluis (2001). "Snapping shrimp make flashing
+    bubbles". Nature 413 (6855): 477-478. [DOI:10.1038/35097152](http://www.nature.com/nature/journal/v413/n6855/abs/413477a0l).
+  **References**
+  - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp
 ---
 
 if you
@@ -115,7 +154,8 @@ forage outside their burrows more actively at night.
 are snapping shrimps?** Snapping
 shrimps are [crustaceans](../../crustacea) that belong
 to Family Alpheidae.    
-**Features:** 2-7cm long. A snapping
+## Features
+ 2-7cm long. A snapping
 shrimp has one of its pincers greatly enlarged. This pincer may even
 be as long as its entire body! The enlarged pincer can produce a very loud sound. The blast stuns
 prey like tiny fish and cracks the shells of small clams. It is also
@@ -273,47 +313,7 @@ Synalpheus quadrispinosus*
 
 ---
 
-**Links**  
 
-- [Mangrove
-  snapping prawns (*Alpheus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Snapping
-  or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Michel Versluis,et
-  al (2000). [How
-  Snapping Shrimp Snap: Through Cavitating bubbles](http://www2.esm.vt.edu/%7Esunnyjsh/sunghwan/ESM_4014_Videos_files/Science-2000-Versluis-2114-7.pdf), Science,
-  289, 2014. [DOI:
-  10.1126/science.289.5487.2114](http://www.sciencemag.org/content/289/5487/2114.abstract) with a layman's explanation [Snapping
-  Shrimp](http://www.scientificamerican.com/article.cfm?id=snapping-shrimp) by Kristin Leutwyler on Scientific American.
-- D. Lohse,
-  B. Schmitz & M. Versluis (2001). "Snapping shrimp make flashing
-  bubbles". Nature 413 (6855): 477-478. [DOI:10.1038/35097152](http://www.nature.com/nature/journal/v413/n6855/abs/413477a0l).
-
-**References**
-
-- Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017. *Brown drombus goby found in burrows with snapping shrimps*. Singapore Biodiversity Records 2017: 98-99.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp
 
 [links](../../../links)
 | [references](../../../references)

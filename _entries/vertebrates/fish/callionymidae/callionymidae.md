@@ -42,6 +42,47 @@ page_images:
   caption: |
     <p><a href="dactylopus">Kuiter's dragonet</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Callionymidae (Dragonets)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Callionymidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets) on Ecology Asia.
+  - [Family
+    Callionymidae (Dragonets)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435) and [*Callionymus
+    enneactis* (Mangrove dragonet)](http://www.fishbase.org/summary/17468) and [*Callionymus
+    erythraeus* (Smallhead dragonet)](http://www.fishbase.org/summary/46382) and [*Callionymus
+    hindsii* (Hind's dragonet)](http://www.fishbase.org/summary/46386) and *[Callionymus
+    melanotopterus](http://www.fishbase.org/summary/59304)* and [*Callionymus
+    sagitta* (Arrow dragonet)](http://www.fishbase.org/summary/26827) and [*Dactylopus
+    dactylopus* (Fingered dragonet)](http://www.fishbase.org/summary/8240) and *[Synchiropus
+    lineolatus](http://www.fishbase.org/summary/58300)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Rediscovery of the lined dragonet in Singapore*. 30 May 2018. Singapore Biodiversity Records 2018: 54 ISSN 2345-7597. National University of Singapore.
+  - Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014. *New record of Kuiter's dragonet from Singapore*. Singapore Biodiversity Records 2014: 103-104
+  - Ng, H. H.,
+    2012. *The
+    dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
+    Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -53,7 +94,8 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435
 the family has 18 genera and 130 species. They are found mainly in
 the Indo-West Pacific.  
   
-**Features:** Those
+## Features
+ Those
 seen about 3-5cm, grows to about 10cm. These fishes are bottom-dwellers. Instead of scales,
 the body is covered in a tough skin and usually coated with mucous
 that has a bad taste and smell. So they are sometimes also called
@@ -113,49 +155,7 @@ dragonet)
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Callionymidae (Dragonets)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Callionymidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets) on Ecology Asia.
-- [Family
-  Callionymidae (Dragonets)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435) and [*Callionymus
-  enneactis* (Mangrove dragonet)](http://www.fishbase.org/summary/17468) and [*Callionymus
-  erythraeus* (Smallhead dragonet)](http://www.fishbase.org/summary/46382) and [*Callionymus
-  hindsii* (Hind's dragonet)](http://www.fishbase.org/summary/46386) and *[Callionymus
-  melanotopterus](http://www.fishbase.org/summary/59304)* and [*Callionymus
-  sagitta* (Arrow dragonet)](http://www.fishbase.org/summary/26827) and [*Dactylopus
-  dactylopus* (Fingered dragonet)](http://www.fishbase.org/summary/8240) and *[Synchiropus
-  lineolatus](http://www.fishbase.org/summary/58300)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Rediscovery of the lined dragonet in Singapore*. 30 May 2018. Singapore Biodiversity Records 2018: 54 ISSN 2345-7597. National University of Singapore.
-- Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014. *New record of Kuiter's dragonet from Singapore*. Singapore Biodiversity Records 2014: 103-104
-- Ng, H. H.,
-  2012. *The
-  dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
-  Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

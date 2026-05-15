@@ -98,7 +98,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocorida
  This hard corals with short crinkly branches is commonly
 seen on many of our Southern shores  
   
-**Features:**Colonies 15-30cm,
+## Features
+Colonies 15-30cm,
 overall rounded shapes, made up of short branches that are irregular,
 crinkled-looking. Some may have branches that are fat and angular,
 others flattened and more leaf-like. The tiny corallites don't stick

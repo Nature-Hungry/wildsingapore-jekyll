@@ -49,6 +49,11 @@ page_images:
   caption: |
     <p>Cyrene, Aug 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2789307821/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+links_references: |
+  **Links**  
+  - [Unicolor
+    snake moray (*Uropterygius concolor*)](http://www.fishbase.se/summary/SpeciesSummary.php?id=7283) from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet on the family with fact sheets on species
 ---
 
 ## Where seen?
@@ -56,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/con
 plain, uniformly coloured snake-like fish is sometimes seen on some of our shores, near reefs and rubble. Elsewhere, it is found in mangrove swamps, brackish rivers,
 and shallow coral reefs.  
   
-**Features:** To about 50cm.
+## Features
+ To about 50cm.
 Body long and rather flattened sideways. No pelvic or pectoral fins. Dorsal and anal fins extend over the entire length of the long body
 and are continuous with the tail fin, resulting in the typical eel-like
 profile. Its fins are mainly found towards
@@ -100,11 +106,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Unicolor
-  snake moray (*Uropterygius concolor*)](http://www.fishbase.se/summary/SpeciesSummary.php?id=7283) from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet on the family with fact sheets on species
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

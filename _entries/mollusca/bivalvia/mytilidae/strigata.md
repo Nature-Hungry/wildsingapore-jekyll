@@ -47,12 +47,23 @@ page_images:
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158025462192945&set=a.10158025536362945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
+links_references: |
+  **Links**
+  - [*Mytella charruana*](https://sealifebase.ca/summary/Mytella-charruana.html) from SeaLife Base: Technical fact sheet.
+  - From the wild shores of singapore
+    - [In the news: Invasive mussels in Singapore's northern shores](https://wildshores.blogspot.com/2018/03/in-news-invasive-mussels-in-singapores.html), Mar 18
+    - [Invasive mussels on Singapore's northern shores](http://wildshores.blogspot.sg/2018/02/invasive-mussels-on-singapores-northern.html)
+    - [Kranji Clamity Continues, Jan 2018](http://wildshores.blogspot.sg/2018/01/kranji-clamity-continues.html)
+    - [Clams and clear water at Kranji, Mar 2017](http://wildshores.blogspot.sg/2017/03/clams-and-clear-water-at-kranji.html)
+  **References**
+  - J. Y. Lim. 11 Feb 2018. *Mytella strigata* (Bivalvia: Mytilidae): an alien mussel recently introduced to Singapore and spreading rapidly. [Molluscan Research Vol 38 Issue 3 2018](https://doi.org/10.1080/13235818.2018.1423858).
 ---
 
 ## Where seen?
  This invasive mussel densely cover large areas of the Johor Strait since 2016. Native to Central and South America, it was previously known as *Mytella charruana* or the Charru mussel. But it has since invaded other warm waters in the USA, India, Thailand and the Phillipines.  
   
-**Features:** 2-5cm long. The two-part
+## Features
+ 2-5cm long. The two-part
 shell is oval, smooth, matt. Colours brownish to black. The shell is rather
 triangular. Its byssal threads form a dense mat in which the mussels are embedded close to one another.
  
@@ -86,18 +97,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Mytella charruana*](https://sealifebase.ca/summary/Mytella-charruana.html) from SeaLife Base: Technical fact sheet.
-- From the wild shores of singapore
-  - [In the news: Invasive mussels in Singapore's northern shores](https://wildshores.blogspot.com/2018/03/in-news-invasive-mussels-in-singapores.html), Mar 18
-  - [Invasive mussels on Singapore's northern shores](http://wildshores.blogspot.sg/2018/02/invasive-mussels-on-singapores-northern.html)
-  - [Kranji Clamity Continues, Jan 2018](http://wildshores.blogspot.sg/2018/01/kranji-clamity-continues.html)
-  - [Clams and clear water at Kranji, Mar 2017](http://wildshores.blogspot.sg/2017/03/clams-and-clear-water-at-kranji.html)
-
-**References**
-
-- J. Y. Lim. 11 Feb 2018. *Mytella strigata* (Bivalvia: Mytilidae): an alien mussel recently introduced to Singapore and spreading rapidly. [Molluscan Research Vol 38 Issue 3 2018](https://doi.org/10.1080/13235818.2018.1423858).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

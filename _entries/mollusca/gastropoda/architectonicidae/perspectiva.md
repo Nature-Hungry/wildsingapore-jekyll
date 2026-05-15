@@ -51,6 +51,51 @@ page_images:
   caption: |
     <p>Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10155830725878158.1073741955.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
+    Washington State University Tri-Cities Natural History Museum
+    website: brief fact sheet with photos.
+  - [Clear
+    sundial (*Architectonica perspectiva*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2755) in SeaLife Base:
+    Technical fact sheet.
+  - [Clear
+    sundial (*Architectonica perspectiva*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=190) on the NParks
+    Flora and Fauna website.
+  - Clear
+    sundial (*Architectonica perspectiva*) in the Gastropods
+    section by J.M. Poutiers in the FAO Species Identification Guide
+    for Fishery Purposes: The Living Marine Resources of the Western
+    Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [Partially
+    wet @ Pulau Hantu](http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantu.html) on the colourful clouds blog: photos and
+    video clip.
+  - [Dialling
+    the sun at Saint John's](http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html)
+    by Loh Kok Sheng on his wonderful creation blog: an encounter
+    with a sundial laying eggs.
+  **References**
+  - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
  ## Where seen?
@@ -60,7 +105,8 @@ considered moderately common and usually found subtidally on sandy
 and muddy bottoms, from depths of 10 to 120m, mostly between 10 and
 65m.  
   
-**Features:** 5-7cm in diameter. Shell thick and coils to form a disc with a
+## Features
+ 5-7cm in diameter. Shell thick and coils to form a disc with a
 flat base. Shell pattern of spirals in white, black and shades
 of brown. Body and fat tentacles are striped too, to match the
 shell. The operculum thin, flat and made of a horn-like material.
@@ -115,53 +161,7 @@ Hantu on 12 Apr 09
 
 ---
 
-**Links**
 
-- [Family
-  Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
-  Washington State University Tri-Cities Natural History Museum
-  website: brief fact sheet with photos.
-- [Clear
-  sundial (*Architectonica perspectiva*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2755) in SeaLife Base:
-  Technical fact sheet.
-- [Clear
-  sundial (*Architectonica perspectiva*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=190) on the NParks
-  Flora and Fauna website.
-- Clear
-  sundial (*Architectonica perspectiva*) in the Gastropods
-  section by J.M. Poutiers in the FAO Species Identification Guide
-  for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [Partially
-  wet @ Pulau Hantu](http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantu.html) on the colourful clouds blog: photos and
-  video clip.
-- [Dialling
-  the sun at Saint John's](http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html)
-  by Loh Kok Sheng on his wonderful creation blog: an encounter
-  with a sundial laying eggs.
-
-**References**
-
-- Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

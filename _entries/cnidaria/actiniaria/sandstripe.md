@@ -51,13 +51,20 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Jan 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5367307826615878&set=a.5367311406615520">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
+links_references: |
+  **Links**  
+  - *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)* on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail Fautin and Ria Tan. 29 June 2016. *Sea anemones (Cnidaria: Actiniaria) of Singapore: redescriptions of Paracondylactis singaporensis (England, 1987) and P. hertwigi (Wassilieff, 1908)* Raffles Bulletin of Zoology Supplement No. 34: 170–177.
 ---
 
 ## Where seen?
  This small anemone is often seen on our Northern
 shores, on soft silty sand near seagrasses.  
   
-**Features:** Diameter with tentacles 3-4cm. It has about 40 semi-transparent tentacles
+## Features
+ Diameter with tentacles 3-4cm. It has about 40 semi-transparent tentacles
 that taper to a pointed tip. On the upper side of the tentacles, there
 is a pattern of white bars across a pair of dark parallel lines that
 run the length of each tentacle. The oral disk has a pattern of radiating
@@ -102,14 +109,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
   
-**Links**  
 
-- *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)* on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail Fautin and Ria Tan. 29 June 2016. *Sea anemones (Cnidaria: Actiniaria) of Singapore: redescriptions of Paracondylactis singaporensis (England, 1987) and P. hertwigi (Wassilieff, 1908)* Raffles Bulletin of Zoology Supplement No. 34: 170–177.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -86,6 +86,30 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234251886295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+links_references: |
+  **Links**
+  - [False
+    scorpionfish (*Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265.htm) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Centrogenyidae (False scorpionfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Centrogenyidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Tigerfish
+    (*Centrogenys vaigiensis*)](http://mangrove.nus.edu.sg/pub/seashore/text/242.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Family
+    Centrogenyidae](http://www.fishbase.gr/Summary/FamilySummary.php?id=530) and [False
+    scorpionfish](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)[(*Centrogenys
+    vaigiensis*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)
+    from [FishBase](http://www.fishbase.org/): Technical
+    fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 if you
@@ -106,7 +130,8 @@ eye is required to spot one. Elsewhere, it is found in brackish estuaries and si
 **What are false scorpionfishes?** This
 species was previously placed in [Family Serranidae](../serranidae/serranidae.htm) (groupers) and now is the only member of the Family Centrogenyidae
 (false scorpionfishes). True scorpionfishes belong to the [Family
-Scorpaenidae](../scorpaenidae/scorpaenidae.htm).  **Features:** Those seen usually about 4-10cm, grows to about 15cm.
+Scorpaenidae](../scorpaenidae/scorpaenidae.htm).  ## Features
+ Those seen usually about 4-10cm, grows to about 15cm.
 A large head with large eyes. In various camouflaging colours and patterns. Like true scorpionfishes, the false scorpionfish has sharp dorsal spines
 that can poke inquisitive fingers. The false scorpionfish lacks true
 venom glands, though the spines can still cause wounds.   
@@ -179,32 +204,7 @@ Apr 11
 
 ---
 
-**Links**
 
-- [False
-  scorpionfish (*Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Centrogenyidae (False scorpionfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Centrogenyidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Tigerfish
-  (*Centrogenys vaigiensis*)](http://mangrove.nus.edu.sg/pub/seashore/text/242.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Family
-  Centrogenyidae](http://www.fishbase.gr/Summary/FamilySummary.php?id=530) and [False
-  scorpionfish](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)[(*Centrogenys
-  vaigiensis*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)
-  from [FishBase](http://www.fishbase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

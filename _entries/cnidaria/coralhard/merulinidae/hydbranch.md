@@ -85,13 +85,42 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Hydnophora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Hydnophora)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Hydnophora
+    rigida](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45727)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This hard coral with conical bumps and forming branching
 colonies is sometimes seen on some of our undisturbed Southern islands.  
   
-**Features:** Colonies (15-20cm) bushy. An open tangle of thick, short cylindrical
+## Features
+ Colonies (15-20cm) bushy. An open tangle of thick, short cylindrical
 branches, often arising from an encrusting base. The unique feature
 of these *Hydnophora* corals are the small conical mounds (0.5cm
 or smaller), called monticules (also hydnae or hydnophores), that
@@ -148,36 +177,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Hydnophora*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Hydnophora)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Hydnophora
-  rigida](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45727)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

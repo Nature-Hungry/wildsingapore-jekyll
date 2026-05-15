@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggen
 of Chek Jawa, Pulau Ubin and several are also found on Lazarus. It
 was only recently discovered as native to Singapore.  
   
-**Features:** Tree about 5m. Leaves
+## Features
+ Tree about 5m. Leaves
 thin. Flowers tiny (less than 1cm) and cream coloured. Fruits oval,
 green ripening to purple.  
   

@@ -39,12 +39,24 @@ page_images:
   caption: |
     <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
+links_references: |
+  **Links**  
+  - [*Pterois russelii* (Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii) on SeaLife Base: Technical fact sheet
+  - [*Pterois volitans* (Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitansl) on SeaLife Base: Technical fact sheet
+  **References**
+  - Heng Pei Yan & Kelvin K. P. Lim. 29 May 2015. New record of the volitans lionfish in Singapore. Singapore Biodiversity Records 2015: 64
+  - Loh Kok Sheng & Kelvin K. P. Lim. 5 September 2014. Russell’s lionfish at Pulau Hantu, *Pterois russellii*. Singapore Biodiversity Records 2014: 240.
+  - Tan Heok Hui & Kelvin K. P. Lim. 10 January 2014. Russell’s lionfish in the Singapore Straits, *Pterois russellii*. Singapore Biodiversity Records 2014: 11
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they are found in sheltered lagoons, seaward reefs often sheltering under ledges during the day.  
   
- **Features:** Grows to about 30cm. Brown striped with broad median fins made up of flappy rays. The dorsal fins also long and flappy rays. The sting is extremely painful but rarely fatal.  
+ ## Features
+ Grows to about 30cm. Brown striped with broad median fins made up of flappy rays. The dorsal fins also long and flappy rays. The sting is extremely painful but rarely fatal.  
   
 **Russel's lionfish** (*Pterois russelii*) does not have spots on the median fins.  
 **Volitans lionfish** (*Pterois volitans*) has spots on the median fins.
@@ -77,19 +89,7 @@ Pterois russelii* (Russel's lionfish) *+Pterois volitans* (Volitans lionfish)
 
 ---
 
-**Links**  
 
-- [*Pterois russelii* (Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii) on SeaLife Base: Technical fact sheet
-- [*Pterois volitans* (Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitansl) on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Heng Pei Yan & Kelvin K. P. Lim. 29 May 2015. New record of the volitans lionfish in Singapore. Singapore Biodiversity Records 2015: 64
-- Loh Kok Sheng & Kelvin K. P. Lim. 5 September 2014. Russell’s lionfish at Pulau Hantu, *Pterois russellii*. Singapore Biodiversity Records 2014: 240.
-- Tan Heok Hui & Kelvin K. P. Lim. 10 January 2014. Russell’s lionfish in the Singapore Straits, *Pterois russellii*. Singapore Biodiversity Records 2014: 11
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

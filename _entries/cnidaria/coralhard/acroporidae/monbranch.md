@@ -167,7 +167,8 @@ our Southern shores. Sometimes dense clusters of these branching corals
 can cover several metres on intertidal reef flats. Tiny animals are often seen
 among its branches.  
   
-**Features:**Colonies seen
+## Features
+Colonies seen
 15-20cm. Branches cylindrical usually short. The tips of the branches
 usually white smooth and lacks polyps, tips may be rounded, squarish
 or flattened. Polyps tiny (0.5cm or smaller) with short tentacles

@@ -129,7 +129,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/po
  This boulder-shaped hard coral with tiny
 corallites and polyps is commonly seen on many of our shores. Large colonies can sometimes be seen especially on our Southern shores.  
   
-**Features:** Colonies 10-20cm, sometimes
+## Features
+ Colonies 10-20cm, sometimes
 much larger, boulder-shaped sometimes with bumps or hillocks. Corallites
 tiny (0.1-0.2cm) hexagonal, packed close to one another. The tiny
 corallites are shallow and don't stick out of the surface. The surface

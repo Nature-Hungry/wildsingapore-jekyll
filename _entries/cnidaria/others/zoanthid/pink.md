@@ -54,7 +54,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/0
 ## Where seen?
  Forming cushions or carpets on coral rubble.  
   
-**Features:** Colonies 10-15cm, each polyp about 1cm in diameter. Body column
+## Features
+ Colonies 10-15cm, each polyp about 1cm in diameter. Body column
 greyish blue. Bright pink ring around the top of the body column,
 most obvious when the tentacles are tucked into the body.  
   

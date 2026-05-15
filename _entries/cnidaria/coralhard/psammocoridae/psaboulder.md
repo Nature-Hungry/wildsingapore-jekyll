@@ -83,7 +83,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocorida
  This smooth boulder-shaped coral with tiny star-like
 corallites is sometimes seen on some of our shores.  
   
-**Features:**Colonies 20-40cm,
+## Features
+Colonies 20-40cm,
 boulder-shaped with irregular humps, some with rather angular bumps,
 others with polygonal ridges. The tiny corallites don't stick much
 out of the surface and merely give the skeleton a granular texture

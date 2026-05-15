@@ -53,6 +53,19 @@ page_images:
     <p>Periplus Editions.</p>
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+links_references: |
+  **Links**  
+  - [Orbicular
+    cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Orbiculate
+    cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
 ---
 
 ## Where seen?
@@ -61,7 +74,8 @@ seen on our Southern shores, near living reefs. It's fast-moving so
 it's sometimes difficult to spot. Elsewhere, they are found in shallow
 sheltered waters in mangroves, reefs as well as near man-made structures.  
   
-**Features:** To
+## Features
+ To
 over 11cm, those seen usually about 6cm. Body rounded with fins that are all rounded, including the tail fins. Dark
 brown bar across the middle from the start of the spiny
 dorsal fin to just in front of the anus. Dark round spots on
@@ -106,21 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Orbicular
-  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Orbiculate
-  cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
 
 [links](../../../links)
 | [references](../../../references)

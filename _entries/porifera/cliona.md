@@ -36,11 +36,21 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5861316423/in/album-72157607751329669/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
+links_references: |
+  **Links**
+  - [*Cliona utricularis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=181115)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  Looking like a sprinkle of orange coins, this sponge is sometimes seen on reefy shores of Pulau Semakau..  
- **Features:** Most of this burrowing sponge is hidden. The sponge can bore holes in calcium carbonate skeletons, snail shells to make a home where they live. What is seen on the outside are small sucker-like disks (0.2-1cm).  
+ ## Features
+ Most of this burrowing sponge is hidden. The sponge can bore holes in calcium carbonate skeletons, snail shells to make a home where they live. What is seen on the outside are small sucker-like disks (0.2-1cm).  
   
 *Cliona* *utricularis* are bright reddish orange. Other *Cliona* species may be yellow.
  
@@ -63,17 +73,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cliona utricularis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=181115)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

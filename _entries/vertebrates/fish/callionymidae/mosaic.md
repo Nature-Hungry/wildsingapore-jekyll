@@ -71,7 +71,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/
 ## Where seen?
  This
 small fish with a camouflaging mosaic pattern is often seen in sandy
-areas near reefs on many of our Southern shores. Tiny ones sometimes seen among seaweeds. **Features:** Those seen 3-5cm. Body somewhat flattened. Head
+areas near reefs on many of our Southern shores. Tiny ones sometimes seen among seaweeds. ## Features
+ Those seen 3-5cm. Body somewhat flattened. Head
 broad and flat with a narrow pointed mouth so that the head appears
 triangular when seen from above. It has a pattern of patches and bars
 of various shades of brown and white that matches the sandy areas

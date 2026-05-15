@@ -67,13 +67,29 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/38813741652/ "Olive flatworm (Tytthosoceros lizardensis)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
+links_references: |
+  **Links**
+  - [*Tytthosoceros
+    lizardensis*](http://polycladida.lifedesks.org/pages/3230) on Encyclopedia of Life, LifeDesks, Marine
+    Flatworms - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Rene S. L. Ong. 31 August 2016. *Aggregation of Tytthosoceros lizardensis flatworms at Beting Bronok*. Singapore Biodiversity Records 2016: 108-109.
+  - Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015. *Marine flatworms at Seringat Kias*. Singapore Biodiversity Records 2015: 182-184.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Newman, L.J and Cannon, L.R.G. 1996. *Bulaceros, new genus, and Tytthosoceros, new genus, (Platyhelminthes: Polycladida) from the Great Barrier Reef, Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 44(2): 479-492.
 ---
 
 ## Where seen?
  Many of this large greenish brown flatworm are sometimes
 seen at night, on coral rubble, among seaweeds and seagrasses, on some of our shores. The flatworm is named in honour of the Lizard Island Research Station in Australia.  
   
-**Features:** 8-10cm. Usually with deep ruffles. Body mottled brown or olive with white dots forming irregular bars perpendicular to the body edge. Margin comprises fine white outer edge with fine black inner edge. Underside
+## Features
+ 8-10cm. Usually with deep ruffles. Body mottled brown or olive with white dots forming irregular bars perpendicular to the body edge. Margin comprises fine white outer edge with fine black inner edge. Underside
 is uniformly pale with the same margins as the upper side. It has a pair of
 pseudotentacles that are pointed, ear-like made up of simple folded edges of
 the body, with white tips. It can swim by
@@ -131,22 +147,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 **Acknowledgement**  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.  
-  
-**Links**
-
-- [*Tytthosoceros
-  lizardensis*](http://polycladida.lifedesks.org/pages/3230) on Encyclopedia of Life, LifeDesks, Marine
-  Flatworms - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Rene S. L. Ong. 31 August 2016. *Aggregation of Tytthosoceros lizardensis flatworms at Beting Bronok*. Singapore Biodiversity Records 2016: 108-109.
-- Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015. *Marine flatworms at Seringat Kias*. Singapore Biodiversity Records 2015: 182-184.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Newman, L.J and Cannon, L.R.G. 1996. *Bulaceros, new genus, and Tytthosoceros, new genus, (Platyhelminthes: Polycladida) from the Great Barrier Reef, Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 44(2): 479-492.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

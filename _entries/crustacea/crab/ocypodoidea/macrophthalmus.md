@@ -73,6 +73,32 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628140532945&set=a.10158628246612945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+links_references: |
+  **Links**
+  - [Sentinel
+    crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - *[Ilyograpsus
+    paludicola](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1670)*
+    and *[Macrophthalmus
+    boscii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1806&menuentry=soorten)* and [*Macrophthalmus
+    brevis*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1793&menuentry=soorten) and [*Macrophthalmus
+    erato*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1808&menuentry=soorten) and [*Macrophthalmus
+    japonicus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1796&menuentry=soorten) and [Latreille's
+    sentinel crab (*Macrophthalmus latreillei*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797) and [*Macrophthalmus
+    pacificus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1804&menuentry=soorten) in Crabs of Japan on Marine Species Identification
+    Portal.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -81,7 +107,8 @@ long stalks are sometimes seen on soft silty and muddy shores such
 as swimming lagoons. It builds distinctive holes which are either
 rectangular or oval and seldom circular.  
   
-**Features:** Body width 0.5-1cm.
+## Features
+ Body width 0.5-1cm.
 Body is flattened, squarish or somewhat rectangular. The eye stalks
 are long and in some species can even extend outside the sides of
 the body. This feature probably gave them their common name. Both
@@ -174,34 +201,7 @@ Macrophthalmus travancorensis*
 
 ---
 
-**Links**
 
-- [Sentinel
-  crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- *[Ilyograpsus
-  paludicola](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1670)*
-  and *[Macrophthalmus
-  boscii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1806&menuentry=soorten)* and [*Macrophthalmus
-  brevis*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1793&menuentry=soorten) and [*Macrophthalmus
-  erato*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1808&menuentry=soorten) and [*Macrophthalmus
-  japonicus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1796&menuentry=soorten) and [Latreille's
-  sentinel crab (*Macrophthalmus latreillei*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797) and [*Macrophthalmus
-  pacificus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1804&menuentry=soorten) in Crabs of Japan on Marine Species Identification
-  Portal.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

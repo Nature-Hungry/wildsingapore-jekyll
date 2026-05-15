@@ -74,6 +74,36 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159189790812906&set=a.10159189773952906">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Sand
+    Bubbler Crab (*Scopimera*)](http://mangrove.nus.edu.sg/pub/seashore/text/193) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Scopimera
+    intermedia*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381120) and *[Scopimera
+    globosa](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381119&genusname=Scopimera&speciesname=globosa)* on SeaLife Base: Technical fact sheet.
+  - [Sand
+    bubbler crab (*Scopimera globosa*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1775&menuentry=soorten) in Crabs of Japan
+    on Marine Species Identification Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 ---
 
 if you
@@ -96,7 +126,8 @@ avoid casting a shadow over the burrow. In a few minutes, they will
 appear. If you stay still, they will go about their amusing business.
 Do avoid stepping on sand balls on the shore as you might be stepping
 on a little crab!  
-  **Features:** Body width 1-1.5cm.
+  ## Features
+ Body width 1-1.5cm.
 Body spherical with eyes on short stalks. These can fold away into
 grooves along the bodies when the crabs scurries into its burrow.
 Pincers long, flattened and downward-pointing. Males may have larger
@@ -170,38 +201,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Sand
-  Bubbler Crab (*Scopimera*)](http://mangrove.nus.edu.sg/pub/seashore/text/193) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Scopimera
-  intermedia*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381120) and *[Scopimera
-  globosa](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381119&genusname=Scopimera&speciesname=globosa)* on SeaLife Base: Technical fact sheet.
-- [Sand
-  bubbler crab (*Scopimera globosa*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1775&menuentry=soorten) in Crabs of Japan
-  on Marine Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
 [links](../../../links)
 | [references](../../../references)

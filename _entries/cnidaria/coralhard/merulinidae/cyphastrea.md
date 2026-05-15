@@ -91,13 +91,35 @@ page_images:
     <p>H Publications.</p>
     <p>464 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on
+    Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - *[Cyphastrea
+    chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682), [Cyphastrea
+    microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)* and *[Cyphastrea
+    serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)* on
+    SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei
+    Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
+    2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 69-80.
+  - Veron,
+    Jen. 2000. *Corals
 ---
 
 ## Where seen?
  These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen
 on many of our Southern shores.  
   
-**Features:** Colonies seen 15-30cm,
+## Features
+ Colonies seen 15-30cm,
 sometimes much larger. The colony is generally a smooth boulder shape,
 sometimes forming smooth hillocks of different
 sizes, or small towers. The corallites have separate walls that are rather thick, forming
@@ -174,29 +196,7 @@ Cyphastrea serailia\*\**
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on
-  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- *[Cyphastrea
-  chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682), [Cyphastrea
-  microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)* and *[Cyphastrea
-  serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)* on
-  SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei
-  Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
-  2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 69-80.
-- Veron,
-  Jen. 2000. *Corals
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

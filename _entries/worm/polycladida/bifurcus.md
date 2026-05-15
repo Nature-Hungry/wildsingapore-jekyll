@@ -64,13 +64,37 @@ page_images:
   caption: |
     <p>Pulau Semakau, Feb 08Shared by Lim Swee Cheng on <a href="http://www.flickr.com/photos/sweecheng/2282979653/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudoceros
+    bifurcus*](http://polycladida.lifedesks.org/pages/4224) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Pseudoceros
+    (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve
+    new species from Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 1998 Pp. 293-323.
+  - Newman, Leslie
+    and Lester Cannon. 2003. *Marine
+    Flatworms: The World of Polyclads*.
+    CSIRO Publishing. 97pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
  Like a blue race-car with a colourful line along the side, this stunning flatworm is sometimes seen on coral
 rubble near living reefs.  
   
-**Features:** 4-5cm long.
+## Features
+ 4-5cm long.
 Body solid blue to bluish purple (not bluish-white). The central line is white (not yellow or golden) becoming orange
 or red near the head, the line is edged with a thin dark purple border. It has a pair of pseudotentacles made up of simple folded edges of the body.  
   
@@ -127,30 +151,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 **Acknowledgement**  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.   
-  
-**Links**
-
-- [*Pseudoceros
-  bifurcus*](http://polycladida.lifedesks.org/pages/4224) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Pseudoceros
-  (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve
-  new species from Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 1998 Pp. 293-323.
-- Newman, Leslie
-  and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads*.
-  CSIRO Publishing. 97pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

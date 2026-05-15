@@ -69,7 +69,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411
  This medium-sized anemone is sometimes wedged in crevices
 in coral rubble near living reefs on our Southern shores. Usually seen alone.  
   
-**Features:** Diameter 5-10cm with tentacles expanded. Many tentacles mostly on
+## Features
+ Diameter 5-10cm with tentacles expanded. Many tentacles mostly on
 the edge of the oral disk. Tentacles short, slender, tapering; dark
 green or blue with red tips. Oral disk dark with radiating pale stripes.
 Body column thick short smooth pale usually with flourescent green

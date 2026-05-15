@@ -29,6 +29,37 @@ page_images:
   caption: |
     <p><a href="cubicus">Yellow boxfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+links_references: |
+  **Links**  
+  - [Shortnose
+    boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Ostraciidae (Boxfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family
+  - [Yellow
+    Boxfish (*Ostracion cubicus*)](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus) on the Australian Museum
+    Fish website: fact sheet and photos.
+  **References**
+  - Sam Shu Qin. *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -48,7 +79,8 @@ the family has 14 genera and 33 species found in the Atlantic, Indian
 and Pacific Oceans. Other similar fishes belong to different families
 include: pufferfishes which belong to [Family
 Tetraodontidae](../tetraodontidae/tetraodontidae), and porcupinefishes which belong to [Family Diodontidae](../diodontidae/diodontidae).  
- **Features:**  Adults of some species can reach 40-50cm. The
+ ## Features
+  Adults of some species can reach 40-50cm. The
 boxfish is a slow moving fish that is hardly designed for fast swimming.
 However, if they are in a hurry, they can make a rapid dash. They
 get their common name from their cubical, boxy shape. Indeed, the
@@ -104,39 +136,7 @@ cornuta](cornuta)* (Longhorn cowfish) *[Ostracion cubicus](cubicus)* (Yellow box
 
 ---
 
-**Links**  
 
-- [Shortnose
-  boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Ostraciidae (Boxfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family
-- [Yellow
-  Boxfish (*Ostracion cubicus*)](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus) on the Australian Museum
-  Fish website: fact sheet and photos.
-
-**References**
-
-- Sam Shu Qin. *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

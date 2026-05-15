@@ -70,11 +70,24 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3.jpg
+links_references: |
+  **Links**
+  - [*Rhabdastrella
+    globostellata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?id=129823)
+    on SeaLife Base: technical fact sheet.
+  - [*Rhabdastrella
+    globostellata*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169886) on the World Porifera Database
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This rather large, pot-shaped sponge is commonly seen on our Southern
-shores, among coral rubble. **Features:** About 12-15cm
+shores, among coral rubble. ## Features
+ About 12-15cm
 wide, a squat sphere with one or several shallow depressions at the
 top, so that the entire sponge resembles a shallow pot. The depression
 is smooth and often has many closely-spaced holes that resembles holes
@@ -126,20 +139,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Rhabdastrella
-  globostellata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?id=129823)
-  on SeaLife Base: technical fact sheet.
-- [*Rhabdastrella
-  globostellata*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169886) on the World Porifera Database
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

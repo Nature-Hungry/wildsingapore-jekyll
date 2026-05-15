@@ -59,12 +59,22 @@ page_images:
   caption: |
     <p>Beting Bronok, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3590397609/in/photostream/">flickr</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+links_references: |
+  **Links**
+  - [*Cypraea
+    pyriformis*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104989) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This
 small cowrie has so far only been seen at Beting Bronok. It was previously known
-as *Cypraea pyriformis*. **Features:** About 2cm.
+as *Cypraea pyriformis*. ## Features
+ About 2cm.
 Shell
 pear-shaped, generally pale blue with 3 broad pale brown bands, sometimes 1 band darker, or bands are broken up into squares. Underside pale with a few dark spots and small dark 'teeth'. The living animal has a dark
 mottled mantle.
@@ -103,17 +113,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cypraea
-  pyriformis*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104989) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

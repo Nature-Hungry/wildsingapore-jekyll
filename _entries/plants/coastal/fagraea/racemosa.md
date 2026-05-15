@@ -60,7 +60,8 @@ seen along the forest trail to Chek Jawa. It is considered common
 throughout Malaya especially in lowlying swampy ground. According
 to Hsuan Keng, it was found in secondary forest in Changi and Kranji.  
   
- **Features:** A shrub to small tree
+ ## Features
+ A shrub to small tree
 (2-3m). Bark pale and somewhat fissured. Leaves are large (15-30cm),
 fleshy and leathery, dark green and glossy. Flowers (2cm wide) white
 crowded on a spike (6-14cm long) that emerges under the leaves. Fruits

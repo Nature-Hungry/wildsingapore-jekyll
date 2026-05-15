@@ -85,7 +85,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/
  This frilly anemone is seen on many
 of our shores. Usually among coral rubble.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles extended 8-12cm. Tentacles with many fine 'branches'.
 Generally all the tentacles are same uniform colour usually brown,
 greenish or greyish. 'Branches' are generally the same colour as the

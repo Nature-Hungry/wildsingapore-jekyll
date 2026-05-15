@@ -59,7 +59,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/
  This
 little fish with a permanent pout is often seen on Changi, sometimes seen on our Northern shores, on sandy
 areas near seagrasses. Well camouflaged on the sand, it is hard to
-spot. It is more active at night. **Features:** Those seen about 5cm, grows to about 10cm. Body somewhat
+spot. It is more active at night. ## Features
+ Those seen about 5cm, grows to about 10cm. Body somewhat
 flattened downwards. Head broad and flat with a narrow pointed mouth so that
 the head appears triangular when seen from above. The mouth can stick
 out downwards forming a tube and the upper jaw can be greatly extended.

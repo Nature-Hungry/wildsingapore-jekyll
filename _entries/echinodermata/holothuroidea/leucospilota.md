@@ -108,6 +108,34 @@ page_images:
     <p>Tropical Reef Research.</p>
     <p>378pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
+links_references: |
+  **Links**
+  - *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)* (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
+  - *[Holothuria
+    leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)* on the Coral Reefs of Singapore website:
+    photo and brief facts
+  - [*Holothuria
+    leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal) on SeaLife Base: Technical
+    fact sheet.
+  - [*Holothuria
+    leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  - [*Holothuria
+    leucospilota*](http://www.iucnredlist.org/details/180375/0) on the IUCN Red List: Technical fact sheet.
+  - *Holothuria
+    leucospilota* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 ---
 
 ## Where seen?
@@ -115,7 +143,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leu
 animal usually hides most of its body under large boulders or rocks, with only the front feeding end sticking out.
 Elsewhere, it is considered a very common species, sometimes found in high densities, in reefs, seagrass meadows, sandy and muddy bottoms with rubble or reefs, from shallow areas to 10m deep.   
   
-**Features:** About 30-40cm,
+## Features
+ About 30-40cm,
 it can lengthen to about 1m long. Body soft long cylindrical without an obvious under and upperside. With short soft pointed 'spines' and tube feet all over the body. Colour uniformly very dark
 brown or maroon to black, without any markings. Mouth facing downwards, with 20 large feeding tentacles short, same colour as the body, with bushy tips. When disturbed, it
 can release from its backside, thin sticky white cylindrical tubes called Cuvierian tubules. But those on our shores seldom do this.  
@@ -191,34 +220,3 @@ Tekukor, Jan 10
 [blackseasucumbers](http://vimeo.com/8573840) from [SgBeachBum](http://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
 ---
-
-**Links**
-
-- *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)* (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
-- *[Holothuria
-  leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)* on the Coral Reefs of Singapore website:
-  photo and brief facts
-- [*Holothuria
-  leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal) on SeaLife Base: Technical
-  fact sheet.
-- [*Holothuria
-  leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-- [*Holothuria
-  leucospilota*](http://www.iucnredlist.org/details/180375/0) on the IUCN Red List: Technical fact sheet.
-- *Holothuria
-  leucospilota* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii

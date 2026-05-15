@@ -65,12 +65,22 @@ page_images:
   caption: |
     <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+links_references: |
+  **Links**
+  - *[Entomacrodus
+    lighti](http://www.fishbase.org/summary/60080)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  **References**
+  - Marcus F. C. Ng & Kelvin K. P. Lim
+    . 26 June 2015. *New record of the black-spotted rockskipper blenny in Singapore*. Singapore Biodiversity Records 2015: 87
+  - Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014. *Stellar rockskipper blenny at Big Sister Island*. Singapore Biodiversity Records 2014: 86.
 ---
 
 ## Where seen?
  This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
   
-**Features:** About 5cm to 11cm. Body elongated flattened sideways, head rounded. Various patterns from dark blobs to more defined bars along the body.  
+## Features
+ About 5cm to 11cm. Body elongated flattened sideways, head rounded. Various patterns from dark blobs to more defined bars along the body.  
   
 *\*Species
 have not been identified.  
@@ -121,17 +131,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Entomacrodus
-  lighti](http://www.fishbase.org/summary/60080)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-
-**References**
-
-- Marcus F. C. Ng & Kelvin K. P. Lim
-  . 26 June 2015. *New record of the black-spotted rockskipper blenny in Singapore*. Singapore Biodiversity Records 2015: 87
-- Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014. *Stellar rockskipper blenny at Big Sister Island*. Singapore Biodiversity Records 2014: 86.
 
 [links](../../../links)
 | [references](../../../references)

@@ -130,6 +130,32 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171818210/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Idiosepiidae (Pygmy squids)](http://tolweb.org/Idiosepiidae)
+    on the Tree of Life website: fact sheet with photos of squids,
+    location of the 'glue-gun' on its body, egg laying and more.
+  - [Southern
+    Pygmy Squid (*Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)) on the Australian
+    Museum website: fact sheet.
+  - [Family
+    Idiosepiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=1898) on SeaLife Base: technical fact sheets on various
+    species.
+  - [*Idiosepius pygmaeus*](http://www.iucnredlist.org/details/162604/0) on the IUCN Red List: fact sheet..
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Norman, Mark
+    and Helmut Debelius, 2000. *Cephalopods:
+    A World Guide*.
+    ConchBooks, Germany. 319 pp
+  - Norman, Mark
+    and Amanda Reid. 2000. *A
+    Guide to Squid, Cuttlefish and Octopuses of Australasia*
+    The Gould League of Australia. 96pp.
 ---
 
 ## Where seen?
@@ -138,7 +164,8 @@ among seagrasses and near reefs and rubble. Often dismissed as bits
 of floating rubbish, this small, well camouflaged animal is usually
 seen hunting alone.  
   
-**Features:** About 1cm. Body long
+## Features
+ About 1cm. Body long
 cylindrical, with tiny circular fins at the rear end. It is often
 seen floating about with its longer tentacles extended beyond the
 shorter arms, with a slight curl at the tips of the tentacles. It
@@ -244,34 +271,7 @@ Idiosepiidae**
 
 ---
 
-**Links**
 
-- [Family
-  Idiosepiidae (Pygmy squids)](http://tolweb.org/Idiosepiidae)
-  on the Tree of Life website: fact sheet with photos of squids,
-  location of the 'glue-gun' on its body, egg laying and more.
-- [Southern
-  Pygmy Squid (*Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)) on the Australian
-  Museum website: fact sheet.
-- [Family
-  Idiosepiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=1898) on SeaLife Base: technical fact sheets on various
-  species.
-- [*Idiosepius pygmaeus*](http://www.iucnredlist.org/details/162604/0) on the IUCN Red List: fact sheet..
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp
-- Norman, Mark
-  and Amanda Reid. 2000. *A
-  Guide to Squid, Cuttlefish and Octopuses of Australasia*
-  The Gould League of Australia. 96pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

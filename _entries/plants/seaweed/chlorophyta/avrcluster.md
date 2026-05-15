@@ -36,6 +36,22 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
+links_references: |
+  **Links**
+  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Avrainvillea* spp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea) on the [Sea Slug
+    Forum](http://www.seaslugforum.net/): photo and description of the seaweed.
+  - [*Avrainvillea lacerata*](http://www.algaebase.org/search/species/detail/?species_id=F5718d11674cdcc28&sk=0&from=results) on [AlgaeBase](http://www.algaebase.org/):
+    Technical fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 ---
 
 ## Where seen?
@@ -43,7 +59,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrc
 Forming clusters of flat velvety fans, this seaweed is sometimes seen
 on some of our shores, in coral rubble areas.   
   
-**Features:** Several circular blades (3-4cm
+## Features
+ Several circular blades (3-4cm
 wide) that are flat and not frilly or crinkled, on a stalk. Usually
 growing in clusters of 5-10 or more blades. The flexible blade is
 made up of a tangle of tiny filaments that give it a velvety texture.
@@ -85,24 +102,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Avrainvillea* spp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea) on the [Sea Slug
-  Forum](http://www.seaslugforum.net/): photo and description of the seaweed.
-- [*Avrainvillea lacerata*](http://www.algaebase.org/search/species/detail/?species_id=F5718d11674cdcc28&sk=0&from=results) on [AlgaeBase](http://www.algaebase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
   
 

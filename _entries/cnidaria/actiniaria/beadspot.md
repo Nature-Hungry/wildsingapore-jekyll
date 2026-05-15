@@ -39,7 +39,8 @@ mangrove trees, in small holes bored by other animals in rotting wooden
 poles. At low tide, with its tentacles tucked into the body column,
 it resembles a spotted bead.  
   
-**Features:** Diameter 0.5cm with tentacles expanded. Body column olive green with
+## Features
+ Diameter 0.5cm with tentacles expanded. Body column olive green with
 rows of eye-like spots: dark centre with white and orange edges. Tentacles
 short, tapering translucent.
 

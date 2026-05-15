@@ -46,6 +46,38 @@ page_images:
     <p>Graham Brash, Singapore.</p>
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+links_references: |
+  **Links**
+  - [Rodong/Berongan
+    (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Telescope
+    Creeper Shell (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm) Tan, Leo W.
+    H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Telescopium](http://www.seashellarchitecture.com/TELESCOPIUMTELESCOPIUM.htm)
+    on the Seashell Architecture website: an X-ray photo of the shell
+    to show its internal structure!
+  - [Telescope
+    snail (*Telescopium telescopium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86856) in SeaLife Base: Technical
+    fact sheet.
+  - Telescope
+    snail (*Telescopium telescopium*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
 ---
 
 if you
@@ -62,7 +94,8 @@ is edible and was eaten in the past, less so these days.
 It is commonly seen in our mangroves, on mud, sometimes in the hundreds
 covering a large area. It is also called *'Rodong'* or *'Berongan'* in Malay.  
   
-**Features:** 8-15cm. The largest
+## Features
+ 8-15cm. The largest
 snail seen on our mudflats, the heavy conical shell is actually beautifully
 patterned but the markings are usually hidden by mud and other encrusting
 animals. The outer lip is thin and not flared. Operculum small and
@@ -101,40 +134,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Rodong/Berongan
-  (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Telescope
-  Creeper Shell (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm) Tan, Leo W.
-  H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Telescopium](http://www.seashellarchitecture.com/TELESCOPIUMTELESCOPIUM.htm)
-  on the Seashell Architecture website: an X-ray photo of the shell
-  to show its internal structure!
-- [Telescope
-  snail (*Telescopium telescopium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86856) in SeaLife Base: Technical
-  fact sheet.
-- Telescope
-  snail (*Telescopium telescopium*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

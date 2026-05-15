@@ -43,7 +43,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pe
 fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Southern
 shores.   
   
-**Features:** 1-2cm. Shell thin
+## Features
+ 1-2cm. Shell thin
 and pointed at the ends. Shell colour white, cream also pink and rose. Body mantle translucent with white protruding bumps and irregular red blotches. Foot translucent white fine dark margins and one or a few fine stripes.Tentacles banded white and red.   
   
 The two species found in Singapore are quite similar *P. angasi and P. improcera.*

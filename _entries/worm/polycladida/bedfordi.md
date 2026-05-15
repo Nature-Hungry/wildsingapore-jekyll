@@ -125,6 +125,23 @@ page_images:
     <p>IKAN-Unterwasserachiv.</p>
     <p>723pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
+links_references: |
+  **Links**
+  - [*Pseudobiceros
+    bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a) on the [South-west
+    Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro): fact sheets and photos with references.
+  - [*Pseudobiceros
+    bedfordi*](http://polycladida.lifedesks.org/pages/3182) on Encyclopedia of Life, LifeDesks, Marine Flatworms
+    - Polycladida: Technical fact sheet.
+  **References**
+  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
+  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
+  - Newman, L.J.
+    & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
+    Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
+    Bulletin of Zoology vol 45.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
 ---
 
 ## Where seen?
@@ -132,7 +149,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/07032
 by divers. It is sometimes seen in the intertidal near living reefs on
 our Southern shores. This is among the few flatworms named from Singapore, in 1903 by Laidlaw  
   
-**Features:** 8-10cm long. Usually with deep ruffles. Body with
+## Features
+ 8-10cm long. Usually with deep ruffles. Body with
 a distinctive rich pattern of stripes in black, brown and rose pink
 with tiny white dots. The stripes curve from the centre of the body
 to the sides. Black wide margin with white dots. The underside
@@ -213,24 +231,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 **Acknowledgement**  
-Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.  
-  
-**Links**
-
-- [*Pseudobiceros
-  bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a) on the [South-west
-  Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro): fact sheets and photos with references.
-- [*Pseudobiceros
-  bedfordi*](http://polycladida.lifedesks.org/pages/3182) on Encyclopedia of Life, LifeDesks, Marine Flatworms
-  - Polycladida: Technical fact sheet.
-
-**References**
-
-- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-- D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
-- Newman, L.J.
-  & Cannon, L.R.G. *Nine new species of Pseudobiceros (Platyhelminthes:
-  Polycladida) from Indo-Pacific*. Pp. 341-368. in the Raffles
-  Bulletin of Zoology vol 45.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.

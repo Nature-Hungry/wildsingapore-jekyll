@@ -69,6 +69,46 @@ page_images:
   caption: |
     <p>Lazarus Island, Nov 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156874805496295&set=a.10156874802806295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
+links_references: |
+  **Links**
+  - [Bubble
+    shell (*Haminoea* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088.htm)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Haminoea*](http://www.seaslugforum.net/showall/hamiiwp)
+    on [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman: including descriptions and photos of various
+    bubble snails.
+  - [Family
+    Haminoeidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Haminoeidae.html) on [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website: brief description and
+    photos.
+  **References**
+  - Toh Chay Hoon & Tan Siong Kiat. 10 July 2015. *White nut sheath bubble shell Atys naucum at Pulau Hantu*. Singapore Biodiversity Records 2015: 91
+  - Toh Chay Hoon & Tan Siong Kiat. 10 July 2015. *First record of bubble snail Limulatys okamotoi in Singapore*. Singapore Biodiversity Records 2015: 94
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Coleman,
+    Neville. 2008. *Nudibranchs
+    Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
+    Neville Coleman's World of Water, Australia. 415pp.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -76,7 +116,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/ha
 mangroves or in silty parts of seagrass areas on some of our shores.
 Often seen in groups, it is more active at night.  
   
-**Features:** About 1cm. Shell thin
+## Features
+ About 1cm. Shell thin
 and oval, usually a dull colour. The body of the snail can expand
 to be much larger than the shell. Some release a sticky purple secretion
 when disturbed. Like other [headshield
@@ -150,48 +191,7 @@ Haminoea tenera
 
 ---
 
-**Links**
 
-- [Bubble
-  shell (*Haminoea* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088.htm)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Haminoea*](http://www.seaslugforum.net/showall/hamiiwp)
-  on [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: including descriptions and photos of various
-  bubble snails.
-- [Family
-  Haminoeidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Haminoeidae.html) on [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website: brief description and
-  photos.
-
-**References**
-
-- Toh Chay Hoon & Tan Siong Kiat. 10 July 2015. *White nut sheath bubble shell Atys naucum at Pulau Hantu*. Singapore Biodiversity Records 2015: 91
-- Toh Chay Hoon & Tan Siong Kiat. 10 July 2015. *First record of bubble snail Limulatys okamotoi in Singapore*. Singapore Biodiversity Records 2015: 94
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Coleman,
-  Neville. 2008. *Nudibranchs
-  Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
-  Neville Coleman's World of Water, Australia. 415pp.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

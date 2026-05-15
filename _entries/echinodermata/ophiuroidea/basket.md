@@ -106,6 +106,25 @@ page_images:
   caption: |
     <p>The underside.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
+links_references: |
+  **Links**
+  - [*Euryale
+    aspera*](http://www.sealifebase.org/summary/Euryale-asperal)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Ron K. H. Yeo & Loh Kok Sheng. 3 October 2014. *Basket star in the eastern Johor Straits, Euryale aspera*. Singapore Biodiversity Records 2014: 265.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Coleman,
+    Neville. 2007. *Sea
+    stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -114,7 +133,8 @@ in the intertidal zone on some of our shores. Small ones seen clinging
 to seagrasses, larger ones among coral rubble or wrapped around sea
 fans.   
   
-**Features:** About 10cm in diameter
+## Features
+ About 10cm in diameter
 with arms. Each arm branched into coiling 'tendrils' that are highly
 flexible. These eventually form a complex basket-like tangle that
 is used to filter feed in the water. Each 'tendril' may be tipped
@@ -177,25 +197,3 @@ Bronok Jun 10
 [Basket star (Family Euryalidae)](http://vimeo.com/13054421) from [Loh Kok Sheng](http://vimeo.com/user696199) on [Vimeo](https://vimeo.com).
 
 ---
-
-**Links**
-
-- [*Euryale
-  aspera*](http://www.sealifebase.org/summary/Euryale-asperal)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Ron K. H. Yeo & Loh Kok Sheng. 3 October 2014. *Basket star in the eastern Johor Straits, Euryale aspera*. Singapore Biodiversity Records 2014: 265.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Coleman,
-  Neville. 2007. *Sea
-  stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

@@ -175,6 +175,40 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
+links_references: |
+  **Links**
+  - [Red
+    Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209), [Poisonous
+    Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Bashful
+    crab *(Atergatis integerrimus)*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1276&menuentry=soorten) Crabs of Japan, on Marine
+    Species Identification Portal: Technical fact sheet.
+  - [*Atergatis
+    integerrimus*](http://www.sealifebase.fisheries.ubc.ca/summary/Atergatis-integerrimusl) on SeaLife Base: technical fact sheet.
+  **References**
+  - Eugene Goh, Jerome Yong, Brian Cabrera, Ron Kirby Manit & Karenne Tun. 6 November 2015. *Red egg crab releasing larvae*. Singapore Biodiversity Records 2015: 171-172
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef Life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gopalakrishnakone
+    P., 1990. *A
+    Colour Guide to Dangerous Animals*.
+    Venom & Toxin Research Group, Faculty of Medicine, National
+    University of Singapore. 156 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -195,7 +229,8 @@ active at night.
 
 
 
-**Features:** Body width 8-10cm. Body oval somewhat egg-shaped body with a smooth edge (not 'toothed').
+## Features
+ Body width 8-10cm. Body oval somewhat egg-shaped body with a smooth edge (not 'toothed').
 Reddish brown, orangey to bright red, usually with scattered white
 spots. Juveniles have a white margin around the body. Large pincers
 both about equal in size, smooth (no pimples) with black tips that
@@ -304,42 +339,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**  
 Grateful thanks to Ondřej Radosta and Ryanskiy Andrey from [ID Please (Marine Creatures) facebook page](https://www.facebook.com/groups/495449120535459/permalink/894390553974645/) for helping me to understand the appearance of juvenile *Atergatis integerrimus*.  
   
-**Links**
 
-- [Red
-  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209), [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Bashful
-  crab *(Atergatis integerrimus)*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1276&menuentry=soorten) Crabs of Japan, on Marine
-  Species Identification Portal: Technical fact sheet.
-- [*Atergatis
-  integerrimus*](http://www.sealifebase.fisheries.ubc.ca/summary/Atergatis-integerrimusl) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Eugene Goh, Jerome Yong, Brian Cabrera, Ron Kirby Manit & Karenne Tun. 6 November 2015. *Red egg crab releasing larvae*. Singapore Biodiversity Records 2015: 171-172
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef Life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gopalakrishnakone
-  P., 1990. *A
-  Colour Guide to Dangerous Animals*.
-  Venom & Toxin Research Group, Faculty of Medicine, National
-  University of Singapore. 156 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 U
 

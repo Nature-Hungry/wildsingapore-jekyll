@@ -86,7 +86,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402u
 ## Where seen?
  This bold black-and-white flatworm is sometimes seen encountered on coral rubble near living reefs.  
   
-**Features:** 5-8cm long. Usually with deep ruffles. Body
+## Features
+ 5-8cm long. Usually with deep ruffles. Body
 dark grey or brown. Distinguished by wide black margin with inner bright white margin. Along
 the middle of the body, one wide black stripe bordered on both sides by a continuous white
 edge. Underside uniformly greyish with whitish margin next

@@ -40,7 +40,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/graci
  A small, well camouflaged mudskipper that is seen in mangroves and
 other silty shores.   
   
-**Features:** 4-5cm. A tiny mudskipper
+## Features
+ 4-5cm. A tiny mudskipper
 with slender body. [Gianluca
 Polgar](http://www.flickr.com/photos/26529839@N08/) of the [Encyclopedia
 of Life](http://www.eol.org/data_objects/8861310) highlighted these features that identify the Slender mudskipper:

@@ -96,6 +96,18 @@ page_images:
     <p>Bleaching.</p>
     <p>Terumbu Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+links_references: |
+  **Links**
+  - [*Nephthea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Nephthea)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
@@ -104,7 +116,8 @@ seen on our Southern shores. When out of water with the polyps retracted,
 the tips of this soft coral looks like asparagus spears. Usually among
 living hard corals on the reef flats.  
   
-**Features:** Colony bushy 15-20cm
+## Features
+ Colony bushy 15-20cm
 to 50cm. Colony is branched with thick study 'stems' emerging from
 a stout central 'trunk'. The 'stems' may be white, lilac or purple.
 Polyps tiny (about 0.5cm) with eight beige or brown branched tentacles.
@@ -173,20 +186,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Nephthea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Nephthea)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

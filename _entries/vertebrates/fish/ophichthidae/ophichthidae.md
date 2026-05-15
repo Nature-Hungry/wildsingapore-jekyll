@@ -29,6 +29,43 @@ page_images:
   caption: |
     <p><a href="mangrove.htm">Mangrove snake-eel</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+links_references: |
+  **Links**
+  - [Green
+    worm-eel (*Muraenichthys* sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.htm) and [Burrowing
+    Snake-eel (*Pisodonophis crancrivorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214.htm) Lim, Kelvin and
+    Jeffrey K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+    Centre.
+  - [Family
+    Ophichthidae](http://www.fishbase.org/summary/FamilySummary.php?ID=66) and *[Ophichthus
+    lithinus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=64829)* [(Evermann's
+    snake eel)](http://www.fishbase.us/summary/Ophichthus-lithinus.html) and *[Ophichthus
+    apicalis](http://www.fishbase.us/summary/Ophichthus-apicalis.html)* [(Blunt-nose
+    snake eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8056) and [*Ophichthus
+    cephalozona* (Dark-shouldered snake eel)](http://www.fishbase.org/summary/7291) and *[Ophichthus
+    celebicus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=53882)* and *[Ophichthus
+    singapurensis](http://www.fishbase.us/summary/Ophichthus-singapurensis.html)* and [*Pisodonophis
+    boro* (Rice-paddy eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8055) and *[Pisodonophis
+    cancrivorus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8054)*[(Longfin snake-eel)](http://www.fishbase.us/summary/Pisodonophis-cancrivorus.html) and [*Scolecenchelys
+    macroptera* (Slender snake eel)](http://www.fishbase.org/summary/7289) from [FishBase](http://www.fishbase.org/).
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -48,7 +85,8 @@ and snake-eels belong to the Family Ophichthidae, which belongs to the Order Ang
 the family has 52 genera and 250 species. They are found in tropical
 to warm temperate seas.  
   
-**Features:** 20cm-2.5m long, these
+## Features
+ 20cm-2.5m long, these
 fishes have a tubular body. They lack scales. Some species have pectoral
 fins, others don't. The head and tail are pointed and they are adapted
 for burrowing. They swim by moving the body in S-shapes, rather like
@@ -104,45 +142,7 @@ Pisodonophis boro* (Rice-paddy eel) *Pisodonophis cancrivorus* (Burrowing snake-
 
 ---
 
-**Links**
 
-- [Green
-  worm-eel (*Muraenichthys* sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.htm) and [Burrowing
-  Snake-eel (*Pisodonophis crancrivorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214.htm) Lim, Kelvin and
-  Jeffrey K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
-  Centre.
-- [Family
-  Ophichthidae](http://www.fishbase.org/summary/FamilySummary.php?ID=66) and *[Ophichthus
-  lithinus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=64829)* [(Evermann's
-  snake eel)](http://www.fishbase.us/summary/Ophichthus-lithinus.html) and *[Ophichthus
-  apicalis](http://www.fishbase.us/summary/Ophichthus-apicalis.html)* [(Blunt-nose
-  snake eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8056) and [*Ophichthus
-  cephalozona* (Dark-shouldered snake eel)](http://www.fishbase.org/summary/7291) and *[Ophichthus
-  celebicus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=53882)* and *[Ophichthus
-  singapurensis](http://www.fishbase.us/summary/Ophichthus-singapurensis.html)* and [*Pisodonophis
-  boro* (Rice-paddy eel)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8055) and *[Pisodonophis
-  cancrivorus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8054)*[(Longfin snake-eel)](http://www.fishbase.us/summary/Pisodonophis-cancrivorus.html) and [*Scolecenchelys
-  macroptera* (Slender snake eel)](http://www.fishbase.org/summary/7289) from [FishBase](http://www.fishbase.org/).
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -62,6 +62,15 @@ page_images:
   caption: |
     <p>Tuas, Dec 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
+links_references: |
+  **Links**
+  - [*Lituaria*](http://species-identification.org/species.php?species_group=corals&id=224&menuentry=groepen) on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -70,7 +79,8 @@ seen on some of our Northern shores. Among seagrasses and in sandy
 areas near seagrasses. Sometimes in large numbers, especially in the
 dark. At sunrise, most are retracted into the ground. Elsewhere, these sea pens are found in deeper waters.  
   
-**Features:** 4-10cm long. Cylindrical
+## Features
+ 4-10cm long. Cylindrical
 white primary polyp that is stiff with a blunt rounded tip. No leaf-like
 structures. The secondary polyps emerge directly from the primary
 polyp and are transparent with long body columns (about 1cm) and long
@@ -120,17 +130,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Grateful thanks to
 [Dr. Bjorn Berning and Dr Dennis P. Gordon](http://wildshores.blogspot.sg/2013/11/singapores-sea-pencil-helps-solvel) for identifying this sea pen.  
   
-**Links**
 
-- [*Lituaria*](http://species-identification.org/species.php?species_group=corals&id=224&menuentry=groepen) on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links)
 | [references](../../../references)

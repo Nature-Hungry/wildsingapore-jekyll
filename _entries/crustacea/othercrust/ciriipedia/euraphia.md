@@ -46,6 +46,22 @@ page_images:
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025460752945&set=a.10158025536362945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+links_references: |
+  **Links**
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -54,7 +70,8 @@ little starry barnacle is sometimes seen on some of our shores. Usually
 found in small groups, in higher areas where it is too dry for [acorn
 barnacles](balanus) (*Balanus* sp.). They were formerly known as *Chthamalus*.  
   
-**Features:** 0.5-1cm across. The
+## Features
+ 0.5-1cm across. The
 outer shell is rather flat, made up of several wall plates that form
 star-like rays where attached to the rock. The operculum is beak-like
 and protrudes from the shell opening. They are often found close to
@@ -93,25 +110,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-  
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

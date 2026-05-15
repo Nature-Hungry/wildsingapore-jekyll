@@ -154,6 +154,39 @@ page_images:
     <p>Neville Coleman's World of Water, Australia.</p>
     <p>64pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Class
+    Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams.
+  - [What
+    are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl) The Airplane-Sand Dollar
+    Connection! on the Echinoblog: a great explanation of the function
+    of lunules.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Miskelly,
+    Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
+    Capricornia Publications. 180pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 ---
 
 if you
@@ -175,7 +208,8 @@ that these are living creatures. They are so flat and appear lifeless.
 Sand dollars belong to Phylum [Echinodermata](../../echinodermata) and Class [Echinoidea](../echinoidea) which includes
 sea urchins and heart urchins.  
   
-**Features:** They got their name
+## Features
+ They got their name
 because they resemble a one-dollar coin. Like other echinoderms, sand
 dollars are symmetrical along five axes, and have tube feet and spines.
 Their flat disk-like shape is an adaptation for life on the sea bottom
@@ -286,41 +320,7 @@ truncatus*  (VU: Vulnerable)
 
 ---
 
-**Links**
 
-- [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams.
-- [What
-  are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl) The Airplane-Sand Dollar
-  Connection! on the Echinoblog: a great explanation of the function
-  of lunules.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Miskelly,
-  Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
-  Capricornia Publications. 180pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 
 [links](../../../links)
 | [references](../../../references)

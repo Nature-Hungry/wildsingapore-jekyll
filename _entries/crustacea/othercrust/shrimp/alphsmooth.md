@@ -141,7 +141,8 @@ in sandy areas near seagrasses and among coral rubble. It is more
 active at night. During the day, these shrimps usually remain hidden
 in their burrows.  
   
-**Features:** Body length 4-5cm. The shrimp has a smooth body which is usually plain.
+## Features
+ Body length 4-5cm. The shrimp has a smooth body which is usually plain.
 The enlarged pincer is flattened but rounded, somewhat like a cartoon
 drawing of a muscle man. Often the 'finger' of the enlarged pincer
 is orange.   

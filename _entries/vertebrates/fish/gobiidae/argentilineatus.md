@@ -53,13 +53,31 @@ page_images:
   caption: |
     <p>Pulau Semakau (South), Jan 20Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2755471381142850&set=a.2755471284476193&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
+links_references: |
+  **Links**  
+  - [*Periophthalmus
+    argentilineatus*](http://www.mudskipper.it/SpeciesPages/arge.html) on the [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
+    with lots of photos.
+  - [Barred
+    mudskipper *(Periophthalmus argentilineatus)*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7480) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Silver-lined
+    mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/silver-lined-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
+    photos and fact sheet.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
  This medium-sized mudskipper is sometimes seen in some of our mangroves.
 It is also called the Barred mudskipper.   
   
-**Features:** 4-6cm, to about 9cm
+## Features
+ 4-6cm, to about 9cm
 long, it has bright silvery fine vertical bars along the sides of
 the body. More about [how to tell apart small
 mudskippers](cfmudsmall.htm) commonly found on our shores.  
@@ -115,25 +133,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [*Periophthalmus
-  argentilineatus*](http://www.mudskipper.it/SpeciesPages/arge.html) on the [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheet
-  with lots of photos.
-- [Barred
-  mudskipper *(Periophthalmus argentilineatus)*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7480) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Silver-lined
-  mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/silver-lined-mudskipper.htm) on [EcologyAsia](http://www.ecologyasia.com/):
-  photos and fact sheet.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

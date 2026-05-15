@@ -35,10 +35,20 @@ page_images:
   caption: |
     <p>Tail fin separated from the dorsal and anal fins.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+links_references: |
+  **Links**
+  - [Threespot flounder (*Grammatobothus polyophthalmus*)](http://www.fishbase.org/summary/6638) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Kelvin K. P. Lim. *Singapore record of largescale flounder, Engyprosopon grandisquama*. 16 April 2018. Singapore Biodiversity Records 2018: 45 ISSN 2345-7597. National University of Singapore
+  - Kelvin K. P. Lim. 30 Jun 2017. *First Singapore record of the Günther’s flounder. Laeops guentheri*. Singapore Biodiversity Records 2014: 187.
+  - Kelvin K. P. Lim and Ria Tan. 11 Jul 2014. *New record of many-eyed flounder (Grammatobothus polyophthalmus) in Singapore*. Singapore Biodiversity Records 2014: 187.
+  - Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014. *New record of intermediate flounder in Singapore*. Singapore Biodiversity Records 2014: 84-85
 ---
 
 ## Where seen?
- This a small specimen of this flattened fish was seen once at Cyrene Reef. **Features:** To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny pectoral fin on the eyed-side.
+ This a small specimen of this flattened fish was seen once at Cyrene Reef. ## Features
+ To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny pectoral fin on the eyed-side.
 Dorsal and anal fins separated from the tail fin. Dorsal fin near the head has elongated fin rays.
 The eyed-side with three large eye-like spots.  
   
@@ -79,17 +89,7 @@ filiger**+Engyprosopon grandisquama* (Largescale flounder) *Grammatobothus polyo
 
 ---
 
-**Links**
 
-- [Threespot flounder (*Grammatobothus polyophthalmus*)](http://www.fishbase.org/summary/6638) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Kelvin K. P. Lim. *Singapore record of largescale flounder, Engyprosopon grandisquama*. 16 April 2018. Singapore Biodiversity Records 2018: 45 ISSN 2345-7597. National University of Singapore
-- Kelvin K. P. Lim. 30 Jun 2017. *First Singapore record of the Günther’s flounder. Laeops guentheri*. Singapore Biodiversity Records 2014: 187.
-- Kelvin K. P. Lim and Ria Tan. 11 Jul 2014. *New record of many-eyed flounder (Grammatobothus polyophthalmus) in Singapore*. Singapore Biodiversity Records 2014: 187.
-- Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014. *New record of intermediate flounder in Singapore*. Singapore Biodiversity Records 2014: 84-85
 
 [links](../../../links)
 | [references](../../../references)

@@ -44,6 +44,20 @@ page_images:
   caption: |
     <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/35811888952/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+links_references: |
+  **Links**
+  - [*Patelloida
+    saccharinoides*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=100860)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -51,7 +65,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/pat
 in small groups on many of our shores, usually on large boulders near
 the mid-water mark.   
   
-**Features:**2-3cm.
+## Features
+2-3cm.
 Shell thick, conical with 7-8 thick raised white ribs that emerge
 from a raised centre and stick out at the edges forming an overall
 star-like shape. There is no hole at the top of the shell. Body plain
@@ -81,22 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Patelloida
-  saccharinoides*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=100860)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -87,6 +87,48 @@ page_images:
     <p>Singapore Science Centre.</p>
     <p>128 pages.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
+links_references: |
+  **Links**
+  - [Sand
+    star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Astropecten
+    bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensisl)* and [*Astropecten
+    indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
+  - From The
+    Echinoblog by Dr Chris Mah
+    - [Telling
+      Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade
+      Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vsl)
+    - [What
+      are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfishl)
+    - [SAND
+      ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-thatl)
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
+  - K. S. Loh
+    . 31 Aug.2011. *Diet
+    and feeding in the sea star Astropecten indicus (Doderlein,
+    1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
+    and Loh Kok Sheng's [blog
+    post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Coleman,
+    Neville. 2007. Sea
+    stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 ## Where seen?
@@ -96,7 +138,8 @@ In sandy or silty shores. They usually remain buried in the sand during
 the day and emerge to forage at sunset. But they are sometimes seen
 foraging over the ground on a cool morning or late afternoon.   
   
-**Features:** Diameter with arms 5-10cm. Arms
+## Features
+ Diameter with arms 5-10cm. Arms
 long and tapered. There are particularly long stout flat spines along
 the sides of their arms. These spines are harmless (not toxic) and
 probably help them to burrow more quickly into the sand. These spines
@@ -190,48 +233,3 @@ Astropectinidae**
 +[Astropecten vappa](sandpainted)* (Painted sand star)
 
 ---
-
-**Links**
-
-- [Sand
-  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Astropecten
-  bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensisl)* and [*Astropecten
-  indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
-- From The
-  Echinoblog by Dr Chris Mah
-  - [Telling
-    Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade
-    Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vsl)
-  - [What
-    are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfishl)
-  - [SAND
-    ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-thatl)
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
-- K. S. Loh
-  . 31 Aug.2011. *Diet
-  and feeding in the sea star Astropecten indicus (Doderlein,
-  1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
-  and Loh Kok Sheng's [blog
-  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Coleman,
-  Neville. 2007. Sea
-  stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The

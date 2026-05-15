@@ -37,6 +37,30 @@ page_images:
   caption: |
     <p>With black stripes on the back and white dots on the sides.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
+links_references: |
+  **Links**
+  - [Many-lined
+    Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Many-lined
+    Sun Skink](http://www.wildsingapore.per.sg/discovery/factsheet/skinkmanylined) on Chan Kwok Wai's Wildlife Singapore: fact sheet
+    with photos.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland.
+  - Das, Indraneil.
+    2004. *A
+    Pocket Guide: Lizards of Borneo* Natural History Publications (Borneo). 83 pp.
 ---
 
 ## Where seen?
@@ -47,7 +71,8 @@ and parks. It was previously known as *Mabuya multifasciata*.
 
  
 
-**Features:**Total length
+## Features
+Total length
 to 35cm. A long body, somewhat angular, covered with shiny, smooth
 scales. It has small limbs and a long cylindrical tail. At first glance
 it might resemble a short snake! Generally bronzey brown with various
@@ -84,32 +109,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Many-lined
-  Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Many-lined
-  Sun Skink](http://www.wildsingapore.per.sg/discovery/factsheet/skinkmanylined) on Chan Kwok Wai's Wildlife Singapore: fact sheet
-  with photos.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland.
-- Das, Indraneil.
-  2004. *A
-  Pocket Guide: Lizards of Borneo* Natural History Publications (Borneo). 83 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

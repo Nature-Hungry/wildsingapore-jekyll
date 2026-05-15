@@ -96,6 +96,25 @@ page_images:
   caption: |
     <p>Terumbu Raya, Feb 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168072521720112&set=a.10168072524345112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
+links_references: |
+  **Links**  
+  - [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
+    on *[Platydoris
+    scabra](http://www.seaslugforum.net/find/platscab)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -104,7 +123,8 @@ This large nudibranch is sometimes seen near living reefs on some
 of our Southern shores. It may be seasonal: when seen, often many
 individuals are spotted during the same trip.  
   
-**Features:** 10-12cm long. Flat stiff
+## Features
+ 10-12cm long. Flat stiff
 body white, finely granular surface with lots of tiny brown raised
 pimples. There are orange edges of the body and foot, and the openings
 where the large rhinophores and feathery gills emerge. The underside
@@ -168,27 +188,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
-  on *[Platydoris
-  scabra](http://www.seaslugforum.net/find/platscab)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -46,10 +46,36 @@ page_images:
   caption: |
     <p>Pulau Semakau, May 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+links_references: |
+  **Links**  
+  - [Yelloweye
+    Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
+    Science Centre. 163 pp.
+  - [Puffer
+    or Globe fish (*Arothron* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Immaculate
+    puffer (*Arothron immaculatus*)](http://www.fishbase.org/summary/7188) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
- This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs. **Features:**  Grows to
+ This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs. ## Features
+  Grows to
 about 30cm, those seen 8-10cm. Body rather plain without markings,
 tail fin yellowish with a dark brown edge. Sometimes, the eyes are yellow. Sometimes, they are found in small
 groups.
@@ -86,33 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Yelloweye
-  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
-  Science Centre. 163 pp.
-- [Puffer
-  or Globe fish (*Arothron* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Immaculate
-  puffer (*Arothron immaculatus*)](http://www.fishbase.org/summary/7188) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links)
 | [references](../../../references)

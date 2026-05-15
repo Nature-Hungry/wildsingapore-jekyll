@@ -70,6 +70,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
+links_references: |
+  **Links**
+  - [*Ficus
+    benjamina*](http://floraofsingapore.wordpress.com/2010/08/01/ficus-benjamina/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Ng, Angie
+    et. al. 2005. *A guide to the fabulous figs of Singapore*.
+    Singapore Science Centre.152 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -81,7 +92,8 @@ on rocky coasts.
 
  
 
- **Features:** A large strangling
+ ## Features
+ A large strangling
 tree. It seldom has aerial roots. Leaves small (2-7cm) oval, smooth,
 shiny, leathery with a sharp, long pointed tip. The veins are almost
 invisible and closely-spaced. With thin, 'weeping' branches. The small
@@ -95,19 +107,7 @@ orange, a dull purple-red, cherry red or from pale pink to mauve-purple.
 
 ---
 
-**Links**
 
-- [*Ficus
-  benjamina*](http://floraofsingapore.wordpress.com/2010/08/01/ficus-benjamina/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Ng, Angie
-  et. al. 2005. *A guide to the fabulous figs of Singapore*.
-  Singapore Science Centre.152 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [links](../../../links) |
 [references](../../../references)

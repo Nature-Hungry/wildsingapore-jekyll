@@ -148,6 +148,39 @@ page_images:
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
+links_references: |
+  **Links**
+  - [Red
+    Eyed Reef Crab (*Eriphia smithi*)](http://mangrove.nus.edu.sg/pub/seashore/text/216)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Eriphia
+    ferox*](http://www.sealifebase.fisheries.ubc.ca/summary/Eriphia-feroxl) on SeaLife Base: technical fact sheet
+  **References**
+  - S. K. Koh
+    and Peter K. L. Ng, 31 Aug 2008. *A
+    revision of the shore crabs of the genus Eriphia (Crustacea:
+    Brachyura: Eriphiidae)*. The Raffles Bulletin of Zoology 2008
+    56 (2): 327-355.
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Tan, Hugh
+    T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
+    Natural Heritage of Singapore*. Second edition. Prentice
+    Hall. 271 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -157,7 +190,8 @@ under stones. Sometimes also seen on undisturbed rocky shores of our
 Northern shores. It is rarely seen out and about during daylight.
 'Ferox' in Latin means 'ferocious' or wild and untamed.  
   
-**Features:** 5-7cm. Body oval, with
+## Features
+ 5-7cm. Body oval, with
 several (about 6) tiny teeth at the edges near the eyes. Upper surface
 covered with pimples. Reddish to purplish brown. Large pincers covered
 with pimples with reddish brown tips. One of its pincers is enlarged
@@ -284,41 +318,7 @@ reef crab)
 
 ---
 
-**Links**
 
-- [Red
-  Eyed Reef Crab (*Eriphia smithi*)](http://mangrove.nus.edu.sg/pub/seashore/text/216)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Eriphia
-  ferox*](http://www.sealifebase.fisheries.ubc.ca/summary/Eriphia-feroxl) on SeaLife Base: technical fact sheet
-
-**References**
-
-- S. K. Koh
-  and Peter K. L. Ng, 31 Aug 2008. *A
-  revision of the shore crabs of the genus Eriphia (Crustacea:
-  Brachyura: Eriphiidae)*. The Raffles Bulletin of Zoology 2008
-  56 (2): 327-355.
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Tan, Hugh
-  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
-  Natural Heritage of Singapore*. Second edition. Prentice
-  Hall. 271 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

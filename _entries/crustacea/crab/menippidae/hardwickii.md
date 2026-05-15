@@ -98,6 +98,42 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Nov 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10156634552277906&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
+links_references: |
+  **Links**
+  - [Stone
+    Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/pub/seashore/text/214) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Stone
+    Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/guidebooks/text/2041) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Myomenippe hardwickii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Myomenippe%20hardwickiil) (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
+  - [Stone
+    Crab (*Myomenippe hardwicki*)](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii) on Marine Flora and Fauna
+    of Ranong, Thailand
+  - [Stone
+    Crab (*Myomenippe hardwicki*)](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1453&tab=synoniemen) on Crabs of Japan, the
+    Marine Species Identification Portal: technical fact sheet with
+    photos.
+  - [*Myomenippe
+    hardwickii*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83551) on [SeaLifeBase](http://www.sealifebase.org/search.php)
+    by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact
+    sheets.
+  **References**
+  - Jonathan Tan Yong How. 30 Dec 2016. *Thunder crabs Myomenippe hardwickii feeding on seahare and stingray*. Singapore Biodiversity Records 2016: 177-178
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world.* The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -113,7 +149,8 @@ This
 sturdy crab is commonly seen on our Northern shores near freshwater
 sources, in rocky and rubbly area.  
   
-**Features:** Body
+## Features
+ Body
 width 10-12cm, smaller ones also often seen. Body oval, edge with
 four blunt points or 'teeth' which are not very obvious. Upper side
 drab grey or brown, underside dull orange. Large pincers smooth (no
@@ -194,44 +231,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Stone
-  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/pub/seashore/text/214) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Stone
-  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/guidebooks/text/2041) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Myomenippe hardwickii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Myomenippe%20hardwickiil) (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
-- [Stone
-  Crab (*Myomenippe hardwicki*)](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii) on Marine Flora and Fauna
-  of Ranong, Thailand
-- [Stone
-  Crab (*Myomenippe hardwicki*)](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1453&tab=synoniemen) on Crabs of Japan, the
-  Marine Species Identification Portal: technical fact sheet with
-  photos.
-- [*Myomenippe
-  hardwickii*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83551) on [SeaLifeBase](http://www.sealifebase.org/search.php)
-  by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact
-  sheets.
-
-**References**
-
-- Jonathan Tan Yong How. 30 Dec 2016. *Thunder crabs Myomenippe hardwickii feeding on seahare and stingray*. Singapore Biodiversity Records 2016: 177-178
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world.* The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

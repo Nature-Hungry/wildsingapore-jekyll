@@ -95,6 +95,34 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695700898/in/photolist-3ekhKH-3ekhKB-akqAvz-akqsMT-89WGhj-89Tren-85QmXj">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/110704srplks.JPG
+links_references: |
+  **Links**
+  - [*Tetralia
+    nigrolineata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=154322&genusname=Tetralia&speciesname=nigrolineata)
+    on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  - *[Tetralia nigrolineata](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1484&menuentry=soorten)* on Crabs of Japan, Marine Species Identification Portal.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -105,7 +133,8 @@ than one crab is seen in a single colony. Small, quick and flattened,
 they move around quickly among the coral branches and are hard to
 spot and photograph.  
   
-**Features:** Body width about 1cm,
+## Features
+ Body width about 1cm,
 body flat, claws with pointed pincers. Body, legs and pincers brownish to beige. Across the eyes, a narrow
 dark band with a fine glittering blue line on the lower edge of this band.   
   
@@ -169,36 +198,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Tetralia
-  nigrolineata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=154322&genusname=Tetralia&speciesname=nigrolineata)
-  on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-- *[Tetralia nigrolineata](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1484&menuentry=soorten)* on Crabs of Japan, Marine Species Identification Portal.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

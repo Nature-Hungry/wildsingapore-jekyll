@@ -86,13 +86,25 @@ page_images:
   caption: |
     <p>Pulau Semakau, Feb 09 Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3262343788/in/set-72157613461942881/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Loveniidae](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=332) on [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
  These long-spined heart urchins with a deep groove in the front is
 sometimes seen on our Southern shores.  
   
-**Features:** 6-8cm long. Body teardrop-shaped,
+## Features
+ 6-8cm long. Body teardrop-shaped,
 with a deep groove in the front and tapered at the back end. Petaloid
 not obvious in living specimens. Sparse long spines which are banded,
 with many shorter spines covering the body. It can use these spines
@@ -154,19 +166,7 @@ blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-s
 
 ---
 
-**Links**
 
-- [Family
-  Loveniidae](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=332) on [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
 
 [links](../../../links)
 | [references](../../../references)

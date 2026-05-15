@@ -48,6 +48,36 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg
+links_references: |
+  **Links**
+  - [*Allophylus
+    cobbe*](http://floraofsingapore.wordpress.com/2010/07/25/allophylus-cobbe/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Allophylus
+    cobbe*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1631) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  **References**
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *Growing
+    the Native Plants of Singapore*. BP Science Centre Guidebook.
+    168pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - V. Selvam.
+    2007. *Trees
+    and Shrubs of the Maldives*. Food and Agriculture Organisation
+    RAP publication 2007/12.
 ---
 
 ## Where seen?
@@ -58,7 +88,8 @@ Elsewhere, they are also found in secondary forest. Globally widely
 distributed from South America, South Africa through India to Southeast
 Asia and Papua New Guinea.  
   
- **Features:** A shrub to tree (3-5m
+ ## Features
+ A shrub to tree (3-5m
 tall), sometimes a climber. Variable shape and growth form, Corners
 identified 5 varieties.   
   
@@ -108,38 +139,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Allophylus
-  cobbe*](http://floraofsingapore.wordpress.com/2010/07/25/allophylus-cobbe/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Allophylus
-  cobbe*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1631) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *Growing
-  the Native Plants of Singapore*. BP Science Centre Guidebook.
-  168pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- V. Selvam.
-  2007. *Trees
-  and Shrubs of the Maldives*. Food and Agriculture Organisation
-  RAP publication 2007/12.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

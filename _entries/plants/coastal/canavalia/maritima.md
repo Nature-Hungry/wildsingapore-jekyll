@@ -37,6 +37,27 @@ page_images:
   caption: |
     <p>Pulau Semakau, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
+links_references: |
+  **Links**
+  - [*Canavalia
+    rosea*](http://floraofsingapore.wordpress.com/2010/08/22/canavalia-rosea/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -45,7 +66,8 @@ green leaves is sometimes seen on our wild coastal areas. According
 to Hsuan Keng, it was common on our seashores including Changi. It
 was previously known as *Canavalia rosea*.  
   
- **Features:** The climber (2-10m
+ ## Features
+ The climber (2-10m
 long) creeps over other coastal plants. The end of the plant sometimes
 twines and often it roots from the nodes. Compound leaf with three
 fleshy, oval leaflets (3-15cm). Flowers (2-2.5cm) reddish-violet with
@@ -84,29 +106,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Canavalia
-  rosea*](http://floraofsingapore.wordpress.com/2010/08/22/canavalia-rosea/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

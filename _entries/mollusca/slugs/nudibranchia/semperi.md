@@ -74,6 +74,29 @@ page_images:
   caption: |
     <p>Beting Bronok, Jul 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/07/beting-bronok-discoveries.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
+    *[Armina
+    semperi](http://www.seaslugforum.net/find/armisemp)* and other Armina nudibranchs laying eggs.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
@@ -82,7 +105,8 @@ slug in pajamas is sometimes seen on our Northern shores, burrowing in
 sandy areas near seagrasses where there are [sea
 pens](../../../cnidaria/others/pennatulacea/pennatulacea.htm). It is more active at night.  
   
-**Features:** 2-6cm long. Body long,
+## Features
+ 2-6cm long. Body long,
 narrow with narrow black-and-white stripes (which are actually ridges).
 The blue foot has a yellow or orange border. The wedge-shaped flap
 over its mouth (oral veil) is also blue with a yellow or orange border.
@@ -130,31 +154,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
-  *[Armina
-  semperi](http://www.seaslugforum.net/find/armisemp)* and other Armina nudibranchs laying eggs.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

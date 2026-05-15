@@ -94,7 +94,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/pur
 Northern shores. It may be buried in soft silty sand or attached to
 seagrasses and seaweeds or to coral rubble.  
   
-**Features:** About 8-12cm long. Body
+## Features
+ About 8-12cm long. Body
 long and narrow, squarish or quadrangular in cross-section. Doesn't have a clear upper and underside.
 Generally a uniform shade of purple, sometimes with alternating
 darker and lighter purple stripes along the length. Tube feet long and thin, appearing along the body length. Tube feet pale or purple. Feeding tentacles

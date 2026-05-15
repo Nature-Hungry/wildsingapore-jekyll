@@ -45,6 +45,41 @@ page_images:
   caption: |
     <p><a href="trisignatus">Spotted-tail frogfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+links_references: |
+  **Links**  
+  - [Spotted-tail
+    frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family Antennariidae (Frogfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Lophiiformes-Antennariidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family
+    Antennariidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192) and *[Antennarius
+    commerson](http://www.fishbase.org/summary/7293)*[(Commerson's frogfish)](http://www.fishbase.org/summary/7293) and *[Antennarius
+    pictus](http://www.fishbase.org/summary/10276)*[(Painted frogfish)](http://www.fishbase.org/summary/10276) and [*Antennarius
+    hispidus* (Shaggy angler)](http://www.fishbase.org/summary/8074) and [*Lophiocharon
+    trisignatus* (Three-spot frogfish)](http://www.fishbase.org/summary/10330) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  **References**
+  - Tan Tsu Soo & Toh Chay Hoon. 31 October 2019. *Rediscovery of spotfin frogfish (Antennatus nummifer) in Singapore*.Singapore Biodiversity Records 2019: 141-142 ISSN 2345-7597, National University of Singapore.
+  - Tan Heok Hui. 29 August 2014. *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*. Singapore Biodiversity Records 2014; 237-238.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -66,7 +101,8 @@ the family has 12 genera and 41 species. These
 fishes were previously called anglerfishes, a much more appropriate
 name for these ambush predators. But anglerfish is now a common name
 reserved for deep sea fishes that also use a lure to attract prey
-within their reach. **Features:** Those seen about 6-10cm
+within their reach. ## Features
+ Those seen about 6-10cm
 long, can grow to 18cm. The frogfish has a globular body that can expand greatly. A handy
 feature that allows the fish to swallow prey as large as itself. Not
 a fast swimmer, the frogfish usually lies motionless near coral rubble,
@@ -178,43 +214,7 @@ frogfish)
 
 ---
 
-**Links**  
 
-- [Spotted-tail
-  frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family Antennariidae (Frogfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Lophiiformes-Antennariidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family
-  Antennariidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192) and *[Antennarius
-  commerson](http://www.fishbase.org/summary/7293)*[(Commerson's frogfish)](http://www.fishbase.org/summary/7293) and *[Antennarius
-  pictus](http://www.fishbase.org/summary/10276)*[(Painted frogfish)](http://www.fishbase.org/summary/10276) and [*Antennarius
-  hispidus* (Shaggy angler)](http://www.fishbase.org/summary/8074) and [*Lophiocharon
-  trisignatus* (Three-spot frogfish)](http://www.fishbase.org/summary/10330) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-
-**References**
-
-- Tan Tsu Soo & Toh Chay Hoon. 31 October 2019. *Rediscovery of spotfin frogfish (Antennatus nummifer) in Singapore*.Singapore Biodiversity Records 2019: 141-142 ISSN 2345-7597, National University of Singapore.
-- Tan Heok Hui. 29 August 2014. *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*. Singapore Biodiversity Records 2014; 237-238.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -80,7 +80,8 @@ Tekong. According to Corners, it was found from Myanmar to the Solomon
 Islands and was common in Malaya, sometimes found in towns and villages.
 It was wrongly called *Ficus procera* in the past.  
   
- **Features:** It is considered a
+ ## Features
+ It is considered a
 strangling fig that can grow large. Leaves elliptical, stiff and leathery
 (15-20cm long). New leaves are sheated in dark pink stipules. The
 figs grow in leaf axils (1.5-1.8cm wide) and ripen to a brilliant

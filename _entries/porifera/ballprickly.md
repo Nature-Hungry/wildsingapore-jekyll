@@ -46,13 +46,30 @@ page_images:
   caption: |
     <p>Sembawang, Jan 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg
+links_references: |
+  **Links**
+  - [*Tethya
+    robusta*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=130095&genusname=Tethya&speciesname=robusta)
+    on SeaLife Base: technical fact sheet.
+  - [*Tethya
+    robusta*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=194373) on the World Porifera Database.
+  **References**
+  - Swee-Cheng
+    Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
+    sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
+    22: 41-68, 30 Dec 2009 Pp. 41-58.
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This small colourful furry ball-shaped sponge resembles a local fruit,
 the rambutan! The sponge is sometimes seen on coral rubble and rocky
-shores. Sometimes, a few are seen near one another. **Features:** Small (2-5cm in diameter), spherical covered
+shores. Sometimes, a few are seen near one another. ## Features
+ Small (2-5cm in diameter), spherical covered
 with short, fine filaments. The sponge may also have many raised polygonal
 bumps. It may be anchored to the surface with stringy tissues that
 look like melted cheese. Tiny blobs may appear at the tips of the
@@ -100,24 +117,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Tethya
-  robusta*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=130095&genusname=Tethya&speciesname=robusta)
-  on SeaLife Base: technical fact sheet.
-- [*Tethya
-  robusta*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=194373) on the World Porifera Database.
-
-**References**
-
-- Swee-Cheng
-  Lim, Nicole J. de Voogd and Koh-Siang Tan. [Fouling
-  sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf). The Raffles Bulletin of Zoology Supplement No.
-  22: 41-68, 30 Dec 2009 Pp. 41-58.
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

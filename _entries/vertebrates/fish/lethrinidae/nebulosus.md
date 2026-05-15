@@ -81,6 +81,18 @@ page_images:
     <p>Periplus Editions.</p>
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
+links_references: |
+  **Links**  
+  - [Spangled
+    emperor (*Lethrinus nebulosus*)](http://www.fishbase.org/summary/speciessummary.php?id=1846) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
 ---
 
 ## Where seen?
@@ -91,7 +103,8 @@ and sandy and rocky shores. Adults are solitary or in small schools;
 juveniles form large schools in shallow, sheltered sandy areas, among
 seagrasses, algae or sponge habitats at various depths.   
   
-**Features:** To about 70cm, those
+## Features
+ To about 70cm, those
 seen on the intertidal about 15cm. Like other members of the Family
 Lethrinidae, it has large scales in a 'distinctive pattern' -- a kind
 of diamond pattern. Overall body colour pale, yellowish or bronze,
@@ -149,20 +162,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Spangled
-  emperor (*Lethrinus nebulosus*)](http://www.fishbase.org/summary/speciessummary.php?id=1846) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
 
 [links](../../../links)
 | [references](../../../references)

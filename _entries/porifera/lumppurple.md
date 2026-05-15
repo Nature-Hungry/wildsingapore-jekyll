@@ -42,11 +42,23 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711295556/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
+links_references: |
+  **Links**
+  - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
+    on SeaLife Base: technical fact sheet.
+  - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This purple sponge is sometimes seen on our Northern shores, growing
-on coral rubble. **Features:** 10-15cm.
+on coral rubble. ## Features
+ 10-15cm.
 The sponge is encrusting with knobs with large holes at the tips.
 Colour purple.
 
@@ -81,19 +93,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
-  on SeaLife Base: technical fact sheet.
-- [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

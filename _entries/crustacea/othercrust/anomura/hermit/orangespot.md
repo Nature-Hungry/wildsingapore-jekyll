@@ -90,13 +90,31 @@ page_images:
   caption: |
     <p>Terumbu Semakau, Dec 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg
+links_references: |
+  **Links**
+  - *[Dardanus
+    megistos](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21040)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This bright orange hermit crab with white spots is
 sometimes seen on reefs and rubble on some of our shores.  
   
-**Features:** Body 4-8cm long. Body,
+## Features
+ Body 4-8cm long. Body,
 walking and pincers sparsely hairy, red or orange with scattered black-edged
 white spots. The left pincer is larger more bulbous than the right
 pincer which is more slender. Eyes with white rim on stout dark red
@@ -169,25 +187,7 @@ With grateful thanks to [liwaliw](http://www.flickr.com/people/13027552@N03/)
 for identifying this hermit crab on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/4978818536/).  
   
-**Links**
 
-- *[Dardanus
-  megistos](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21040)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../../links)
 | [references](../../../../references)

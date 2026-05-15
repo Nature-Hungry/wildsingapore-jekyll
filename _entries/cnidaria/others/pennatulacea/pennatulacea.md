@@ -61,6 +61,39 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
+links_references: |
+  **Links**  
+  - [Phylum
+    Cnidaria, Order Pennatulacea](http://species-identification.org/species.php?species_group=corals&menuentry=groepen) on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  - [Introduction
+    to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulaceal) on the Museum of Paleontology, University
+    of California, Berkeley website: a brief introduction with some
+    photos.
+  - [Sea
+    Pens](http://www.lanecc.edu/science/zonation/seapen) on the Lane Community College website: short fact sheet
+    on sea pens with lots of photos.
+  **References**
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -90,7 +123,8 @@ corals](../../coralsoft/coralsoft). Members of this subclass have tentacles whic
 and in multiples of eight. There are about 300 species of known sea
 pens.  
   
-**Features:** Those seen on our shores
+## Features
+ Those seen on our shores
 average 15-25cm long. Sometimes really small ones 2-4cm long are seen.   
   
 Each sea pen is a colony of different kinds of polyps connected to
@@ -219,41 +253,7 @@ Virgulariidae](virgularia)** (Slender sea pens)
 
 ---
 
-**Links**  
 
-- [Phylum
-  Cnidaria, Order Pennatulacea](http://species-identification.org/species.php?species_group=corals&menuentry=groepen) on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-- [Introduction
-  to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulaceal) on the Museum of Paleontology, University
-  of California, Berkeley website: a brief introduction with some
-  photos.
-- [Sea
-  Pens](http://www.lanecc.edu/science/zonation/seapen) on the Lane Community College website: short fact sheet
-  on sea pens with lots of photos.
-
-**References**
-
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links)
 | [references](../../../references)

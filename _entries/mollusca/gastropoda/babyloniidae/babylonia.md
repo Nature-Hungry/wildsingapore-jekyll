@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniida
 ## Where seen?
  This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.  
   
-**Features:** 4-6cm. Shell thick,
+## Features
+ 4-6cm. Shell thick,
 conical, smooth with distinctive spiral. Shell colour and pattern
 variable, from plain brown to white with orange or brown spots. There
 is notch at the tip of the shell where the long siphon emerges. Operculum

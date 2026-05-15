@@ -57,7 +57,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100811slud
 
 ## Where seen?
  This smooth sponge forms a layer over coral rubble and is often seen
-on our Southern shores. **Features:** A thin layer
+on our Southern shores. ## Features
+ A thin layer
 encrusting coral rubble 10-20cm. Generally a smooth layer but also
 often with irregular knobs, folds and lobes. Tiny circular holes at
 the top of folds and elsewhere. Texture glossy, rubbery with tiny

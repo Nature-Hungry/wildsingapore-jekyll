@@ -105,12 +105,28 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110602tmftd3485m3.jpg
+links_references: |
+  **Links**  
+  - [Fringe-eyed
+    Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Fringe-eyed
+    Flathead (*Cymbacephalus nematophthalmus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10776) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
  This
 fish with a flat head and a delicate fringe over its eyes is commonly
-seen on many of our shores, in sandy and coral rubble areas near reefs. **Features:** Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have also been seen. Identified by the elaborate golden filigree fringe over the eyeball. Above the eyes 6-9 large fleshy tentacles.
+seen on many of our shores, in sandy and coral rubble areas near reefs. ## Features
+ Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have also been seen. Identified by the elaborate golden filigree fringe over the eyeball. Above the eyes 6-9 large fleshy tentacles.
 It has bony ridges on the head with spines. Colours and pattern are camouflaging, with 7-8 dusky bars on the back and sides and its fins has variegated patterns. Dorsal fin large and sometimes colourful.  
   
 **Sometimes mistaken** for other flatheads in the Family such as *Thysanophrys* sp. As well as other flattened fishes that live on the sea bottom. Here's more on [how to tell apart fishes
@@ -191,23 +207,7 @@ Filmed in Aug
 
 ---
 
-**Links**  
 
-- [Fringe-eyed
-  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Fringe-eyed
-  Flathead (*Cymbacephalus nematophthalmus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10776) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

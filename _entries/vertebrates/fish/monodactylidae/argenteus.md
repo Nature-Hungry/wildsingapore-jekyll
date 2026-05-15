@@ -35,6 +35,39 @@ page_images:
   caption: |
     <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+links_references: |
+  **Links**  
+  - [Silver
+    Moony (*Monodactylus argenteus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Silver
+    Moony (*Monodactylus argenteus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Family
+    Monodactylidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=333) and [Silver
+    Moony (*Monodactylus argenteus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5807) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -49,7 +82,8 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=333
 the family has 2 genera and 5 species. Found in schools in estuaries
 and near freshwater streams, in harbours and near jetties. Some species
 are inhabit brackish waters and may even swim far up into freshwater
-systems. **Features:** 4-25cm. Body flattened sideways into a rhomboid
+systems. ## Features
+ 4-25cm. Body flattened sideways into a rhomboid
 shape. Adults silvery with a yellow and dusky dorsal fin and lack
 pelvic fins. Juveniles have pelvic fins, are more colourful with almost
 all yellow dorsal fin and a narrow black bar on the head through the
@@ -105,41 +139,7 @@ argenteus* (Silver moony)
 
 ---
 
-**Links**  
 
-- [Silver
-  Moony (*Monodactylus argenteus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Silver
-  Moony (*Monodactylus argenteus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Family
-  Monodactylidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=333) and [Silver
-  Moony (*Monodactylus argenteus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5807) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

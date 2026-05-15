@@ -81,6 +81,44 @@ page_images:
   caption: |
     <p><a href="giant">Giant hydroids</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+links_references: |
+  **Links**  
+  - [Stinging
+    hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Hydroids
+    and anemones](http://www.habitas.org.uk/marinelife/splist.asp?group=CNIDARIA)
+    on the [Encyclopedia
+    of Marine Life of Britain and Ireland](http://www.habitas.org.uk/marinelife/) Edited by Bernard E.
+    Picton and Christine C. Morrow: photo and fact sheet
+  - [The
+    Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory) on the Natural History Museum of Geneva
+    website: photos and fact sheets with glossary of terms, covering
+    everything you might want to know about hydroids from nematocysts
+    to life cycle and more.
+  - [Shallow-water
+    hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahel) on Aquascope of the Tjarno Marine Biological Laboratory:
+    some photos and titbits on the animals.
+  - [Hydroids](http://www.seaslugforum.net/hydroids)
+    on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among
+    the stuff that nudibranchs eat, there is some interesting information
+    on them on this site.
+  **References**
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 663 pp
+  - Ling Min Kang, Iffah Iesa, Danwei Huang, Nicholas Wei Liang Yap *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including three new records for Singapore waters*. Nature in Singapore 16: e2023076, 8 August 2023, DOI: 10.26107/NIS-2023-0076.
+  - Ria Tan. 6 June 2014. *A blue button at Sisters Islands, Porpita pacifica*. Singapore Biodiversity Records 2014: 151
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -99,7 +137,8 @@ Islands. They are often overlooked as they resemble plants. Many small to tiny j
 to [Phylum Cnidaria](../../cnidaria). 'Hydrozoa' means
 'water animals' in Greek. Hydrozoans may look like [jellyfish](thread) or appear to be branching plants. There are about 3,000 known species
 of the Class Hydrozoa.   
- **Features:** Hydroids are colonial animals. The polyps are
+ ## Features
+ Hydroids are colonial animals. The polyps are
 tiny (1mm tall with a smaller diameter). In branching forms, the polyps
 are encased in a 'skin' made of chitin (the same substance that insect
 exoskeleton is made of). In some, each polyp lives in a bell-shaped
@@ -261,46 +300,7 @@ Some [Jellyfishes](../jellyfish/jellyfish) are classified as hydroids.
 
 ---
 
-**Links**  
 
-- [Stinging
-  hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Hydroids
-  and anemones](http://www.habitas.org.uk/marinelife/splist.asp?group=CNIDARIA)
-  on the [Encyclopedia
-  of Marine Life of Britain and Ireland](http://www.habitas.org.uk/marinelife/) Edited by Bernard E.
-  Picton and Christine C. Morrow: photo and fact sheet
-- [The
-  Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory) on the Natural History Museum of Geneva
-  website: photos and fact sheets with glossary of terms, covering
-  everything you might want to know about hydroids from nematocysts
-  to life cycle and more.
-- [Shallow-water
-  hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahel) on Aquascope of the Tjarno Marine Biological Laboratory:
-  some photos and titbits on the animals.
-- [Hydroids](http://www.seaslugforum.net/hydroids)
-  on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among
-  the stuff that nudibranchs eat, there is some interesting information
-  on them on this site.
-
-**References**
-
-- *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 663 pp
-- Ling Min Kang, Iffah Iesa, Danwei Huang, Nicholas Wei Liang Yap *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including three new records for Singapore waters*. Nature in Singapore 16: e2023076, 8 August 2023, DOI: 10.26107/NIS-2023-0076.
-- Ria Tan. 6 June 2014. *A blue button at Sisters Islands, Porpita pacifica*. Singapore Biodiversity Records 2014: 151
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../../../links)
 | [references](../../../references)

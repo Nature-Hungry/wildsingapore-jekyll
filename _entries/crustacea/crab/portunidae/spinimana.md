@@ -152,7 +152,8 @@ many of our shores, especially near reefs and coral rubble. It is
 particularly active at night. It can be quite fierce and give a good
 pinch to inquisitive fingers. Don't handle crabs!  
   
-**Features:**  Body width 5-7cm. Body rectangular, the body sides with 5 black-tipped
+## Features
+  Body width 5-7cm. Body rectangular, the body sides with 5 black-tipped
 spines, all about equal in size. The eyes are wide apart. Between
 the eyes are 6 small rounded lobes. Last pair of legs are paddle-shaped
 often bluish. Body, pincers and walking legs plain bright orange or

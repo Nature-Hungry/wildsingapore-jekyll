@@ -72,6 +72,44 @@ page_images:
   caption: |
     <p>Chek Jawa, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8171935772/in/album-72157607712316054/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
+links_references: |
+  **Links**
+  - [Belongkeng
+    (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Mangrove
+    helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Judas
+    ear cassidula (*Ellobium aurisjudae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=1131) and [Midas
+    ear cassidula (*Ellobium aurismidae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=204) on SeaLife Base:
+    Technical fact sheet.
+  - [Mangrove
+    land snail (*Ellobium aurismidae*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=208)
+    on the NParks Flora and Fauna website.
+  - Judas
+    ear cassidula (*Ellobium aurisjudae*) and Midas ear cassidula
+    (*Ellobium aurismidae*) in the Gastropods section by J.M.
+    Poutiers in the FAO Species Identification Guide for Fishery Purposes:
+    The Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - S. K.
+    Tan, S. H. Tan and M. E. Y. Low. *On Ellobium
+    aurismalchi (Muller, 1774) (Mollusca: Ellobiidae)*. Nature in Singapore 2009 2: 357–359.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -81,7 +119,8 @@ It breathes
 air (instead of through gills like most other marine snails). Elsewhere, they are also found in [Nipah
 palm](../../../plants/mangrove/nypa/nypa.htm) groves.  
   
-**Features:** 4-9cm. Shell thick and
+## Features
+ 4-9cm. Shell thick and
 oval or elongated, plain brown. White at the shell opening. The
 animal is large with a fleshy pale body and short tentacles, some with
 pretty white patterns.
@@ -130,46 +169,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Belongkeng
-  (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Mangrove
-  helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Judas
-  ear cassidula (*Ellobium aurisjudae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=1131) and [Midas
-  ear cassidula (*Ellobium aurismidae*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=204) on SeaLife Base:
-  Technical fact sheet.
-- [Mangrove
-  land snail (*Ellobium aurismidae*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=208)
-  on the NParks Flora and Fauna website.
-- Judas
-  ear cassidula (*Ellobium aurisjudae*) and Midas ear cassidula
-  (*Ellobium aurismidae*) in the Gastropods section by J.M.
-  Poutiers in the FAO Species Identification Guide for Fishery Purposes:
-  The Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- S. K.
-  Tan, S. H. Tan and M. E. Y. Low. *On Ellobium
-  aurismalchi (Muller, 1774) (Mollusca: Ellobiidae)*. Nature in Singapore 2009 2: 357–359.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

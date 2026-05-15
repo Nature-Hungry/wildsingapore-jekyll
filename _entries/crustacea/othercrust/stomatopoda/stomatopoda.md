@@ -56,6 +56,37 @@ page_images:
   caption: |
     <p><a href="banded">Banded mantis shrimp</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+links_references: |
+  **Links**
+  - [Order
+    Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Why
+    the mantis shrimp is my new favourite animal](http://theoatmeal.com/comics/mantis_shrimp) on the Oatmeal:
+    a wondrously inspiring look at the marvelous features and lifestyle
+    of the mantis shrimp.
+  - [Mantis
+    shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-betterl) on the wild
+    shores of singapore blog.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -75,7 +106,8 @@ shrimps are not in the same group as prawns, although they appear
 similar. Mantis shrimps belong to Order Stomatopoda, while other shrimps
 and prawns belong to Order Decapoda which includes true crabs.  
   
-**Features:** Mantis shrimps seen
+## Features
+ Mantis shrimps seen
 on our intertidal shores are mostly juveniles rarely exceeding 10cm,
 but some species can grow to 30cm as adults! While those found among
 seagrasses tend to be well camouflaged, mantis shrimps found in deeper
@@ -207,39 +239,7 @@ Oratosquillina perpensa*
 
 ---
 
-**Links**
 
-- [Order
-  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Why
-  the mantis shrimp is my new favourite animal](http://theoatmeal.com/comics/mantis_shrimp) on the Oatmeal:
-  a wondrously inspiring look at the marvelous features and lifestyle
-  of the mantis shrimp.
-- [Mantis
-  shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-betterl) on the wild
-  shores of singapore blog.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -52,6 +52,26 @@ page_images:
   caption: |
     <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
+links_references: |
+  **Links**  
+  - [Strap-weed
+    file-fish (*Pseudomonacanthus macrurus*)](www.fishbase.org/Summary/SpeciesSummary.php?ID=10598) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+    sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
+    Guide for Fishery Purposes The Living Marine Resources of the
+    Western Central Pacific.
+  **References**
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -59,7 +79,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/
 among seagrasses and among seaweeds on the coral rubble. It is also
 called the Smallspotted leatherjacket.  
   
-**Features:** To 24cm, those seen
+## Features
+ To 24cm, those seen
 about 10cm. Body with lots of small circular dots and often a broad
 white stripe or blotch along the centre of the body from the gill
 opening. May have dark blotches.
@@ -97,28 +118,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Strap-weed
-  file-fish (*Pseudomonacanthus macrurus*)](www.fishbase.org/Summary/SpeciesSummary.php?ID=10598) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
-  Guide for Fishery Purposes The Living Marine Resources of the
-  Western Central Pacific.
-
-**References**
-
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

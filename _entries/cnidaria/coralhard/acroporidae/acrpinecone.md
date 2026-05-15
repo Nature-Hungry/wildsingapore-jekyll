@@ -88,7 +88,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
  This hard coral with branches that have a rather
 'scaly' texture is sometimes seen on some of our Southern shores.  
   
-**Features:**Colonies 10-15cm.
+## Features
+Colonies 10-15cm.
 Cylindrical branches with blunt tips that do not interlock, forming
 a bush-like shape. In some the neat branches emerge from a flat base.
 The axial corallite at the tip of the branch is large and circular

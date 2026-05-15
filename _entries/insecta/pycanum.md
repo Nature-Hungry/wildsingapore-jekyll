@@ -37,6 +37,11 @@ page_images:
   caption: |
     <p>Labrador, Dec 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/23925139105/in/photolist-CsbAjn-CN3im6-svpzdr-nWwoVK-KRiGj-sVzV4M-98MeCA-4yqiWF-4yuAjm-4yqiTg-4yqiNv">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
+links_references: |
+  **Links**
+  - [Giant
+    Shield Bug and Its Host Plant](http://www.natureloveyou.sg/Plant%20Story/Plant%20Story%20-%20Stink%20Bug.html) on [The
+    Plant Observatory website](http://www.natureloveyou.sg/): photos and detailed observations.
 ---
 
 ## Where seen?
@@ -48,7 +53,8 @@ Tessaratomidae feed on plants, sucking the sap. Some are agricultural
 pests, some can produce defensive chemicals. Some also look after
 their eggs.  
   
-**Features:** Adult about 3cm long, green with orange-black banding on the lower
+## Features
+ Adult about 3cm long, green with orange-black banding on the lower
 body edge. Nymphs somewhat rectangular smaller, green or red.
 
  
@@ -68,11 +74,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Giant
-  Shield Bug and Its Host Plant](http://www.natureloveyou.sg/Plant%20Story/Plant%20Story%20-%20Stink%20Bug.html) on [The
-  Plant Observatory website](http://www.natureloveyou.sg/): photos and detailed observations.
 
 [links](../links.htm)
 | [references](../references.htm)

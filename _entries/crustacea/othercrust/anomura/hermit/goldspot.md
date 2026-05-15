@@ -42,6 +42,17 @@ page_images:
   caption: |
     <p>Seringat Kias, Sep 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173053859530112&type=3&ref=embed_post">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+links_references: |
+  **Links**
+  - *[Clibanarius
+    cruentatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130029)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Dwi Listyo
+    Rahayu, 2000. *Hermit
+    crabs from the South China Sea (Crustacea: Decapoda: Anomura:
+    Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
+    of Zoology 2000 Supplement No. 8: 377-404. The National University
+    of Singapore.
 ---
 
 ## Where seen?
@@ -50,7 +61,8 @@ in coral rubble near reefs. It seems to be more active at night. Elsewhere,
 it is said to be a very common intertidal hermit crab living in sand-mud
 bottoms in mangrove areas, pebble beaches and rocky shores.  
   
-**Features:** Body about 1-1.5cm long. Body and legs
+## Features
+ Body about 1-1.5cm long. Body and legs
 black with large orange, yellow, white spots. Towards the eyes, spots are larger
 and more orange. Both pincers are more or less equal in size and held
 so that the 'fingers' open horizontally in front of the animal. Pincers
@@ -97,19 +109,7 @@ With grateful thanks to [liwaliw](http://www.flickr.com/people/13027552@N03/)
 for identifying this hermit crab on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/2248921605/).  
   
-**Links**
 
-- *[Clibanarius
-  cruentatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130029)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Dwi Listyo
-  Rahayu, 2000. *Hermit
-  crabs from the South China Sea (Crustacea: Decapoda: Anomura:
-  Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
-  of Zoology 2000 Supplement No. 8: 377-404. The National University
-  of Singapore.
 
 [links](../../../../links)
 | [references](../../../../references)

@@ -36,6 +36,27 @@ page_images:
   caption: |
     <p>East Coast, Jun 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+links_references: |
+  **Links**
+  - [Screw
+    turret (*Turritella terebra*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86863) in SeaLife Base: Technical
+    fact sheet.
+  - Screw turret
+    (*Turritella terebra*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -44,7 +65,8 @@ seen on our shores so far. The living animal has yet to be encountered
 on the intertidal. The empty shells seen are usually occupied by a
 hermit crab. Elsewhere, they are found on soft bottoms.  
   
-**Features:** Those seen 5-7cm, can
+## Features
+ Those seen 5-7cm, can
 grow to 15-17cm long. Elegant shell with regular spirals which are
 finely ridged. It is herbivorous and lives on sandy and muddy areas
 of the intertidal zone.
@@ -90,29 +112,7 @@ terebra* (VU: Vulnerable)
 
 ---
 
-**Links**
 
-- [Screw
-  turret (*Turritella terebra*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86863) in SeaLife Base: Technical
-  fact sheet.
-- Screw turret
-  (*Turritella terebra*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

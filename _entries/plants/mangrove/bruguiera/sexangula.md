@@ -47,6 +47,39 @@ page_images:
     <p>Sepals extend away from the propagule.</p>
     <p>Pasir Ris, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
+links_references: |
+  **Links**
+  - [*Bruguiera
+    sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [*Bruguiera
+    sexangula*](http://www.iucnredlist.org/apps/redlist/details/178843/0) on the IUCN Red List website: detailed fact
+    sheet.
+  **References**
+  - Chiou-Rong
+    Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
+    Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
+    Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
+    50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
+    Research website).
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -60,7 +93,8 @@ its range. It is found along tidal waterways, coastal fish
 ponds that are infrequently inundated. It was formerly called *B.
 eriopetala.* According to Burkill, 'Berau' in Malay suggests yellowness.  
   
-**Features:** Tree up to 12m, sometimes
+## Features
+ Tree up to 12m, sometimes
 30m tall. Bark light brown-grey, smooth with a few large corky bumps
 (lenticels). The base of the trunk may be flanged and may have well
 developed aerial roots, sometimes forming stilt roots and knee roots.
@@ -127,41 +161,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Bruguiera
-  sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [*Bruguiera
-  sexangula*](http://www.iucnredlist.org/apps/redlist/details/178843/0) on the IUCN Red List website: detailed fact
-  sheet.
-
-**References**
-
-- Chiou-Rong
-  Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
-  Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
-  Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
-  50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
-  Research website).
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

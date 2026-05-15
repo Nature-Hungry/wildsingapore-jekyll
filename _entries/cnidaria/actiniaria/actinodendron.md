@@ -128,12 +128,38 @@ page_images:
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4656023176/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinodendron/111029smkd3161m3.jpg
+links_references: |
+  **Links**
+  - [*Actinodendron*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron)
+    on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Daphne G. Fautin with classification,
+    distribution, biological associations and more.
+  - [*Actinodendron*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Actinodendron)
+    on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 258 pp.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
+    (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This large anemone is often seen among seagrasses and in sandy areas near reefs on our Southern shores. They are not as abudant as other large anemones in similar areas. Usually only one or a handful, spread widely apart from one another, are seen in a large area.   
   
-**Features:** Diameter
+## Features
+ Diameter
 with tentacles expanded 15-20cm. About 40 fat, fleshy cylindrical
 tentacles with a thick base. Tentacles studded with clusters of 'branches'
 with oval tips. The oral disk has white stripes with small dark spots,
@@ -235,33 +261,7 @@ Hantu in 2009
 
 ---
 
-**Links**
 
-- [*Actinodendron*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron)
-  on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Daphne G. Fautin with classification,
-  distribution, biological associations and more.
-- [*Actinodendron*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Actinodendron)
-  on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 258 pp.
-- Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones
-  (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

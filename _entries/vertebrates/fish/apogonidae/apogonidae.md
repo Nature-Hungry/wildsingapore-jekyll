@@ -52,6 +52,62 @@ page_images:
   caption: |
     <p><a href="melas">Black cardinalfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - Ng, Peter
+    K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Apogonidae (Cardinalfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Apogonidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/)
+    on Reef Fishes of Singapore by Jeffrey Low.
+  - [Family
+    Apogonidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  **References**
+  - Daisuke Taira. 30 November 2020. *Tiny cardinalfish, Ostorhinchus nanus, off Kusu Island*. Singapore Biodiversity Records 2020: 207-208. The National University of Singapore.
+  - Tan Heok Hui & Kelvin K. P. Lim. 27 March 2020. *New record of the Cook’s cardinalfish (Ostorhinchus cookii) in Singapore*. Singapore Biodiversity Records 2020: 39 ISSN 2345-7597
+  - Daisuke Taira. *A recent record of the masked cardinalfish in Singapore*. 31 May 2018. Singapore Biodiversity Records 2018: 46-47 ISSN 2345-7597. National University of Singapore
+  - Marcus F. C. Ng. *A variegated cardinalfish at Sisters Islands*. 31 January 2018. Singapore Biodiversity Records 2018: 16 ISSN 2345-7597. National University of SingaporeJ
+  - Jeffrey K. Y. Low & Kelvin K. P. Lim. 27 May 2016. *New Singapore record of Wassink’s cardinalfish, Ostorhinchus wassinki*. Singapore Biodiversity Records 2016: 75
+  - Jeffrey Low and Koh Kwan Siong. 31 March 2016. *Cavite cardinalfish from Pulau Hantu, Ostorhinchus cavitensis*. Singapore Biodiversity Records 2016: 54
+  - Kelvin K. P. Lim, Koh Kwan Siong & Heng Pei Yan. 29 January 2016. *Cardinalfishes of the genus Taeniamia off Pulau Hantu: Orange-lined cardinalfish, Taeniamia fucata; Duskytail cardinalfish, Taeniamia macroptera*. Singapore Biodiversity Records 2016: 18-19
+  - Koh Kwan Siong & Kelvin K. P. Lim. 8 May 2015. *New record of flower cardinalfish in Singapore*. Singapore Biodiversity Records 2015: 54.
+  - Heok Hee Ng and Kelvin Kok Peng Lim. October 2014. *A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore*.
+    Check List 10(5):1061-1070 DOI: 10.15560/10.5.1061
+  - Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
+  - Heok Hee Ng and Kelvin K. P. Lim. 2014. *A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore*. Check List 10(5): 1061–1070, 2014
+  - Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013. *Some noteworthy reef fishes at Pulau Hantu*. Singapore Biodiversity Records 2013: 65-67: Wolf cardinalfish, *Cheilodipterus artus*;
+    Cavite cardinalfish, *Ostorhinchus cavitensis*;
+    Pajama cardinalfish, *Sphaeramia nematoptera*.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red
+    Data Book: Threatened plants and animals of Singapore.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -72,7 +128,8 @@ the family has 22 genera and 207 species, most below 10cm, seldom
 larger than 20cm. They are found in all the oceans including some
 freshwater species in tropical Pacific Islands. Most species are reef-dwellers.  
   
-**Features:** 3-5cm. These small fishes
+## Features
+ 3-5cm. These small fishes
 have elongated bodies and large eyes, a large mouth and large scales.
 They have angular dorsal fins that are separated into two parts. Cardinalfish
 are often handsomely patterned in stripes or spots. Their common name
@@ -163,64 +220,7 @@ Zoramia leptacantha*
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- Ng, Peter
-  K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Apogonidae (Cardinalfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Apogonidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/)
-  on Reef Fishes of Singapore by Jeffrey Low.
-- [Family
-  Apogonidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-
-**References**
-
-- Daisuke Taira. 30 November 2020. *Tiny cardinalfish, Ostorhinchus nanus, off Kusu Island*. Singapore Biodiversity Records 2020: 207-208. The National University of Singapore.
-- Tan Heok Hui & Kelvin K. P. Lim. 27 March 2020. *New record of the Cook’s cardinalfish (Ostorhinchus cookii) in Singapore*. Singapore Biodiversity Records 2020: 39 ISSN 2345-7597
-- Daisuke Taira. *A recent record of the masked cardinalfish in Singapore*. 31 May 2018. Singapore Biodiversity Records 2018: 46-47 ISSN 2345-7597. National University of Singapore
-- Marcus F. C. Ng. *A variegated cardinalfish at Sisters Islands*. 31 January 2018. Singapore Biodiversity Records 2018: 16 ISSN 2345-7597. National University of SingaporeJ
-- Jeffrey K. Y. Low & Kelvin K. P. Lim. 27 May 2016. *New Singapore record of Wassink’s cardinalfish, Ostorhinchus wassinki*. Singapore Biodiversity Records 2016: 75
-- Jeffrey Low and Koh Kwan Siong. 31 March 2016. *Cavite cardinalfish from Pulau Hantu, Ostorhinchus cavitensis*. Singapore Biodiversity Records 2016: 54
-- Kelvin K. P. Lim, Koh Kwan Siong & Heng Pei Yan. 29 January 2016. *Cardinalfishes of the genus Taeniamia off Pulau Hantu: Orange-lined cardinalfish, Taeniamia fucata; Duskytail cardinalfish, Taeniamia macroptera*. Singapore Biodiversity Records 2016: 18-19
-- Koh Kwan Siong & Kelvin K. P. Lim. 8 May 2015. *New record of flower cardinalfish in Singapore*. Singapore Biodiversity Records 2015: 54.
-- Heok Hee Ng and Kelvin Kok Peng Lim. October 2014. *A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore*.
-  Check List 10(5):1061-1070 DOI: 10.15560/10.5.1061
-- Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
-- Heok Hee Ng and Kelvin K. P. Lim. 2014. *A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore*. Check List 10(5): 1061–1070, 2014
-- Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013. *Some noteworthy reef fishes at Pulau Hantu*. Singapore Biodiversity Records 2013: 65-67: Wolf cardinalfish, *Cheilodipterus artus*;
-  Cavite cardinalfish, *Ostorhinchus cavitensis*;
-  Pajama cardinalfish, *Sphaeramia nematoptera*.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red
-  Data Book: Threatened plants and animals of Singapore.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

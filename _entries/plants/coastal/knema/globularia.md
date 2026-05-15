@@ -82,6 +82,14 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
+links_references: |
+  **Links**
+  - [*Knema
+    globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)
+    on the NParks Flora and Fauna website: photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -93,7 +101,8 @@ Ubin. Elsewhere, it grows on rocky and sandy coasts and is common
 in lowland forests of Malaysia. It was previously known as *Knema
 missionis* or *Knema sphaerula*.  
   
-**Features:** A tall tree (4-5m to
+## Features
+ A tall tree (4-5m to
 a maximum of 24m). Bark brown to dark green and smooth-scaly to scaly.
 Twigs are slender and at first rusty scrufy turning dark brown or
 black.  
@@ -136,16 +145,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Knema
-  globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)
-  on the NParks Flora and Fauna website: photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

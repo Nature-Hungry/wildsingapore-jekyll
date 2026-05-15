@@ -80,7 +80,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/w
 tentacles is often seen in clusters of several tucked among dead and
 living corals. Sometimes seen on some of our Southern shores.  
   
-**Features:** Diameter with tentacles extended 2-4cm. Tentacles many, thick with
+## Features
+ Diameter with tentacles extended 2-4cm. Tentacles many, thick with
 bulbous tip, sometimes with a nipple; white or pale green. Body column
 short, with narrow ridges, pale. Oral disk usually maroon brown. Central mouth slightly protruding. It doesn't seem to be able to tuck
 its tentacles completely into the body column, although it can retract

@@ -159,6 +159,42 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.htm) including the Spider conch (*Lambis lambis*)
+    and the Black-lipped Conch (*Strombus urceus*). Tan, Leo
+    W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Common
+    spider conch (*Lambis lambis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86869) on SeaLife Base: Technical
+    fact sheet.
+  - [Spider
+    conch (*Lambis lambis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=191) on the NParks Flora and Fauna
+    website.
+  - Common spider
+    conch (*Lambis lambis*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Tan, Hugh
+    T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
+    Natural Heritage of Singapore*. Second edition. Prentice
+    Hall. 271 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
 ---
 
 ## Where seen?
@@ -170,7 +206,8 @@ on coral-rubble bottoms or in mangrove areas, usually associated with
 fine red algae on which it feeds. Often occurring in colonies. In
 shallow water, from low tide levels to a depth of about 5 m.   
   
-**Features:** 10-20cm long. Shell thick
+## Features
+ 10-20cm long. Shell thick
 heavy, lip flared with six spines. The flared
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits.Upperside usually well encrusted and thus blends with the surroundings.
@@ -305,44 +342,7 @@ Laut, Apr 11
 
 ---
 
-**Links**
 
-- [Family
-  Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.htm) including the Spider conch (*Lambis lambis*)
-  and the Black-lipped Conch (*Strombus urceus*). Tan, Leo
-  W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Common
-  spider conch (*Lambis lambis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86869) on SeaLife Base: Technical
-  fact sheet.
-- [Spider
-  conch (*Lambis lambis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=191) on the NParks Flora and Fauna
-  website.
-- Common spider
-  conch (*Lambis lambis*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Tan, Hugh
-  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
-  Natural Heritage of Singapore*. Second edition. Prentice
-  Hall. 271 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

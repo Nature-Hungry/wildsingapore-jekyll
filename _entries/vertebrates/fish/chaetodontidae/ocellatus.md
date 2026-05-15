@@ -112,6 +112,37 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
+links_references: |
+  **Links**  
+  - [Kite
+    butterflyfish (*Parachaetodon ocellatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329.htm) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Kite
+    butterflyfish](http://www.ecologyasia.com/verts/fishes/kite-butterflyfish.htm) on Ecology Asia: Fact sheet with photos.
+  - [Sixspine
+    butterflyfish (*Parachaetodon ocellatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7887) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [*Parachaetodon
+    ocellatus*](http://www.iucnredlist.org/details/165661/0) on the IUCN Red List.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Jianlin Liu & Ria Tan. *Kite butterflyfish and carpet anemones*. 30 November 2017. Singapore Biodiversity Records 2017: 165-166 ISSN 2345-7597. National University of Singapore.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -122,7 +153,8 @@ group. Elsewhere, it is found in coastal and inner reef habitats,
 often in sandy or silty flat-bottom areas littered with sponge growth,
 sometimes found among seagrass.   
   
-**Features:** To about 18cm, those
+## Features
+ To about 18cm, those
 seen at low tide usually about 4-8cm. Body
 flat, circular disk-shaped, snout is blunt. 4 bands which are black, brown or brown-edged yellowish (5 bands as juveniles and 4 as adults).
 White-edged black bar at the base of the tail, with a smudged dark eye spot on the dorsal fin. Upper parts of the dorsal fin and body yellowish. Adults have a more pointed
@@ -205,39 +237,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Kite
-  butterflyfish (*Parachaetodon ocellatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329.htm) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Kite
-  butterflyfish](http://www.ecologyasia.com/verts/fishes/kite-butterflyfish.htm) on Ecology Asia: Fact sheet with photos.
-- [Sixspine
-  butterflyfish (*Parachaetodon ocellatus*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7887) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Parachaetodon
-  ocellatus*](http://www.iucnredlist.org/details/165661/0) on the IUCN Red List.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Jianlin Liu & Ria Tan. *Kite butterflyfish and carpet anemones*. 30 November 2017. Singapore Biodiversity Records 2017: 165-166 ISSN 2345-7597. National University of Singapore.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

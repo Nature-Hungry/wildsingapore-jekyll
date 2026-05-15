@@ -93,6 +93,21 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171820610/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
+links_references: |
+  **Links**
+  - [*Holothuria
+    fuscocinerea* (Ashen
+    sea cucumber)](http://www.sealifebase.org/summary/Holothuria-fuscocinereal)
+    on SeaLife Base: Technical fact sheet.
+  - [*Holothuria
+    fuscocinerea*](http://species-identification.org/species.php?species_group=nasc&id=62) in North Australian Sea Cucumbers on Marine
+    Species Identification Portal: Technical fact sheet.
+  - *Holothuria fuscocinerea* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  **References**
+  - Teo,
+    S., C. S. L. Ng & K. S. Loh, 2010. *New record of a sea cucumber, Holothuria (Stauropora) fuscocinerea Jaeger, 1833 (Holothuroidea:
+    Aspidochirotida: Holothuriidae) in Singapore*. Nature
+    in Singapore, 3: 133-137.
 ---
 
 ## Where seen?
@@ -106,7 +121,8 @@ settle on the ground. *Holothuria pervicax* looks very similar. Teo Siyang, Lion
 is a new record for Singapore! Elsewhere, it is found in lagoons, reef flats and on outer
 reef slopes of barrier reefs.  
   
-**Features:** 15-20cm long. Body soft long
+## Features
+ 15-20cm long. Body soft long
 cylindrical with a distinct upper and underside. Underside flat pale with many short tube feet. '*Fuscocinerea*'
 suggests 'dark' and 'ashy' and indeed, the sea cucumber does look
 like it has been rolled in ash. Upperside generally pale pink or beige with irregular dark blotchy bars or blobs along the length. Small dark-circled
@@ -177,21 +193,3 @@ shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/
 
 
 ---
-
-**Links**
-
-- [*Holothuria
-  fuscocinerea* (Ashen
-  sea cucumber)](http://www.sealifebase.org/summary/Holothuria-fuscocinereal)
-  on SeaLife Base: Technical fact sheet.
-- [*Holothuria
-  fuscocinerea*](http://species-identification.org/species.php?species_group=nasc&id=62) in North Australian Sea Cucumbers on Marine
-  Species Identification Portal: Technical fact sheet.
-- *Holothuria fuscocinerea* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-**References**
-
-- Teo,
-  S., C. S. L. Ng & K. S. Loh, 2010. *New record of a sea cucumber, Holothuria (Stauropora) fuscocinerea Jaeger, 1833 (Holothuroidea:
-  Aspidochirotida: Holothuriidae) in Singapore*. Nature
-  in Singapore, 3: 133-137.

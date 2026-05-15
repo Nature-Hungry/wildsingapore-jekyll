@@ -55,7 +55,8 @@ segmented bristleworm belonging to the Family Myzostomidae, Class [Polychaeta](p
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm.  
   
-**Features:** About 1cm long. These
+## Features
+ About 1cm long. These
 worms are usually flat and broad with tiny 'feet' which can hardly be seen. Their colours and patterns usually perfectly match their host.   
   
 **What do they eat?** They are considered to be parasites on the feather star host.  

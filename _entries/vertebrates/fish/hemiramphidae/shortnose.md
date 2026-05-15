@@ -43,6 +43,20 @@ page_images:
   caption: |
     <p>Pulau Semakau, Oct 11Photo shared by Jerome Pang on <a href="https://www.facebook.com/media/set/?set=a.10150354042961523.353073.614016522&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
+links_references: |
+  **Links**
+  - [Quoy's
+    halfbeak (*Hyporhamphus quoyi*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/239.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Quoy's
+    garfish (*Hyporhamphus quoyi*)](http://fishbase.org.cn/summary/SpeciesSummary.php?id=8262) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Vol.
+    4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
 ---
 
 ## Where seen?
@@ -50,7 +64,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/
 long stick-like fish with a short, blunt lower jaw is sometimes seen
 on our shores. Usually seen alone near coral rubble or reefs.  
   
-**Features:** Those seen about 10-15cm,
+## Features
+ Those seen about 10-15cm,
 can grow to 30cm long. Body cylindrical, silvery, sometimes bright blue.
 The lower jaw is not as elongated as those in other halfbeaks and
 has a reddish tip. Dorsal fin has black edges. Tail fin is forked.
@@ -85,20 +100,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Quoy's
-  halfbeak (*Hyporhamphus quoyi*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/239.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Quoy's
-  garfish (*Hyporhamphus quoyi*)](http://fishbase.org.cn/summary/SpeciesSummary.php?id=8262) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

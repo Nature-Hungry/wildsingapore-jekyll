@@ -60,13 +60,20 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+links_references: |
+  **Links**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - [The
+    Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Prof Michael N Dawson: lots of info
+    about jellyfishes in Class Scyphozoa.
 ---
 
 ## Where seen?
  This small jellyfish sometimes seen on stranded on our shores. Several
 may be seen, and then none seen again for some time.  
   
-**Features:** Bell about 5-8cm, long thin thread-like tentacles from the edges of
+## Features
+ Bell about 5-8cm, long thin thread-like tentacles from the edges of
 the bell 10-15cm long. Bell has radiating white patterns. Those washed ashore look like blobs of jelly.   
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
@@ -132,12 +139,6 @@ Grateful thanks to [Prof
 Michael N Dawson](http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=73) of the University of California, Merced for
 the identification.   
   
-**Links**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- [The
-  Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Prof Michael N Dawson: lots of info
-  about jellyfishes in Class Scyphozoa.
 
 [links](../../../links)
 | [references](../../../references)

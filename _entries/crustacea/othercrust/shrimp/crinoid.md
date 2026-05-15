@@ -30,7 +30,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/cri
 ## Where seen?
  Tiny shrimps live in [feather stars](../../../echinodermata/crinoidea/crinoidea)! They are sometimes seen on our shores.  
   
-**Features:** 1-2cm long. The shrimps generally have colours and patterns that closely resemble the feather star that they live in.
+## Features
+ 1-2cm long. The shrimps generally have colours and patterns that closely resemble the feather star that they live in.
 
  
 

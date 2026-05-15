@@ -80,6 +80,28 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+links_references: |
+  **Links**
+  - *[Ipomoea
+    pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Ipomoea
+    pes-caprae](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431)*
+    on the NParks Flora and Fauna website: photos and fact sheet.
+  - [Tapak
+    Kuda (*Ipomoea pescaprae*)](http://mangrove.nus.edu.sg/pub/seashore/text/110.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -91,7 +113,8 @@ Family Convolvulaceae which includes the more commonly seen terrestrial
 morning glory, as well as our favourite vegetable Kang kong (*Ipomoea
 reptans*) and sweet potato or Keladi (*Ipomoea batatas*).  
   
- **Features:** A creeper that grows
+ ## Features
+ A creeper that grows
 on the sand, taking root at the nodes and having thick, deep tap roots.
 The leaves rather thick and fleshy, in varying shapes and sizes (3-10cm),
 according to Hsuang Keng from oval to quadrangular to rounded. They
@@ -145,30 +168,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Ipomoea
-  pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Ipomoea
-  pes-caprae](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431)*
-  on the NParks Flora and Fauna website: photos and fact sheet.
-- [Tapak
-  Kuda (*Ipomoea pescaprae*)](http://mangrove.nus.edu.sg/pub/seashore/text/110.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

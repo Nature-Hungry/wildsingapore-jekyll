@@ -62,12 +62,39 @@ page_images:
   caption: |
     <p>Terumbu Pempang Kecil, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24777083122/in/album-72157664453928665/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
+links_references: |
+  **Links**
+  - [*Haliotis
+    asinina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=442)
+    and [*Haliotis
+    planata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=5) on the NParks Flora and Fauna website.
+  - [Family
+    Haliotidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Haliotidae.html) on [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website: brief fact sheet with
+    photos.
+  - [Family
+    Haliotidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=2757) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
  Small ones are sometimes seen on our undisturbed
 reefs, under rocks and rubble.   
- **Features:** 4-7cm long, the shell resembles
+ ## Features
+ 4-7cm long, the shell resembles
 a limpet, flat semi-spherical oval, resembles an ear especially from
 the underside. There are 5-10 small holes on the upper edge of the
 shell. The animal has a large fleshy foot edged with fine tentacles,
@@ -133,34 +160,7 @@ Haliotis ovina* (Oval abalone)
 
 ---
 
-**Links**
 
-- [*Haliotis
-  asinina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=442)
-  and [*Haliotis
-  planata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=5) on the NParks Flora and Fauna website.
-- [Family
-  Haliotidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Haliotidae.html) on [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website: brief fact sheet with
-  photos.
-- [Family
-  Haliotidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=2757) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

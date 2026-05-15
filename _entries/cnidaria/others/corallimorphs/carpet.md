@@ -70,13 +70,22 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
+links_references: |
+  **Links**
+  - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
+  - [*Rhodactis indosinensis*](https://wiki.nus.edu.sg/display/TAX/Rhodactis+indosinensis+-+Carpet+corallimorphs) - Carpet corallimorphs by Oh Ren Min, 05 Mar 2019 on
+    Taxo4254.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 ---
 
 ## Where seen?
  This shaggy disk-shaped animal is commonly encountered
 on many of our Southern shores, on coral rubble.  
   
-**Features:** Each polyp about 2-4cm
+## Features
+ Each polyp about 2-4cm
 in diameter. Sometimes seen in large numbers, carpeting an area of
 30-50cm square.
 
@@ -140,16 +149,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
-- [*Rhodactis indosinensis*](https://wiki.nus.edu.sg/display/TAX/Rhodactis+indosinensis+-+Carpet+corallimorphs) - Carpet corallimorphs by Oh Ren Min, 05 Mar 2019 on
-  Taxo4254.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

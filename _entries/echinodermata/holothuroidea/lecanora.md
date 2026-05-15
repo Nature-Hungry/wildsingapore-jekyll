@@ -99,6 +99,29 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
+    Life*. The Singapore Science Centre, Singapore. 160 pp.
+  - [*Actinopyga
+    lecanora* (White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife Base:
+    Technical fact sheet.
+  - [*Actinopyga
+    lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47) in North Australian Sea Cucumbers in Marine Species
+    Identification Portal: Technical fact sheet.
+  - [*Actinopyga
+    lecanora*](http://www.iucnredlist.org/details/180266/0) on the IUCN Red List: Technical fact sheet.
+  - *Actinopyga lecanora* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 ---
 
 ## Where seen?
@@ -111,7 +134,8 @@ like a smooth stone when disturbed; bloating up into a rounded, smooth
 shape and retracting its tube feet. However, when relaxed, the animal
 can be quite long and thin.  
   
-**Features:** 15-20cm long. Body
+## Features
+ 15-20cm long. Body
 may be elongated into a long sausage-like shape, or contracted into
 a more rounded loaf-shape or even into a more globular oval shape.
 Surface somewhat smooth with long, thin tube feet, sparsely distributed
@@ -173,29 +197,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
-  Life*. The Singapore Science Centre, Singapore. 160 pp.
-- [*Actinopyga
-  lecanora* (White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife Base:
-  Technical fact sheet.
-- [*Actinopyga
-  lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47) in North Australian Sea Cucumbers in Marine Species
-  Identification Portal: Technical fact sheet.
-- [*Actinopyga
-  lecanora*](http://www.iucnredlist.org/details/180266/0) on the IUCN Red List: Technical fact sheet.
-- *Actinopyga lecanora* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii

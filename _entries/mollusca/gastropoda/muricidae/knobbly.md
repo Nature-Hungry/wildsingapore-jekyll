@@ -37,7 +37,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/k
 is sometimes seen on our Southern shores. Usually in groups on boulders
 as well as man-made structures such as seawalls.  
   
-**Features:** 2-3cm. Shell thick,
+## Features
+ 2-3cm. Shell thick,
 narrow and long with a spiral patterns of rounded bumps. The shell,
 however, is often obscured by encrusting plants and animals. Shell
 opening narrow with 'teeth'. Operculum brown.  

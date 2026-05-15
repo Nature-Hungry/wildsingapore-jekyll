@@ -69,6 +69,45 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Prawns
+    (*Penaeus* and *Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Marine
+    prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Penaeus
+    monodon*](http://www.fao.org/fishery/culturedspecies/Penaeus_monodon/en) and *[Penaeus
+    semisulcatus](http://www.fao.org/fishery/species/3408/en)* on Cultured Aquatic Species Information Programme,
+    FAO Fisheries and Aquaculture Department.
+  - [Black
+    tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodonl)
+    and [Green
+    tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatusl) and *[Heteropenaeus
+    longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanusl)* and [Adonis
+    shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venustal) and [Torpedo
+    shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedol) and [Whiskered
+    velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbatal) and [Mogi
+    velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensisl) and [Jinga
+    shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinisl) and [Yellow
+    shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornisl) and [Moyebi
+    shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebil) and [Periscope
+    shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylusl) on SeaLife Base.
+  - [Prawn
+    'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl) on the
+    wild shores of singapore blog.
+  **References**
+  - T. Upanoi. *The penaid prawns of the Straits of Johor: Preliminary results*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 ## Where seen?
@@ -76,7 +115,8 @@ coverimg: ../../../../Templates/fornatureguides.gif
 shores, usually in sandy, silty areas and near seagrasses. They are
 more active at night, during the day hiding in the sand.  
   
-**Features:** Generally about 5-8cm
+## Features
+ Generally about 5-8cm
 long. Prawns of the Family Penaeidae have a well developed raised
 portion along the centre of the heads extending between the eyes called
 the rostrum. The rostrum usually has 'teeth' both on the upper side
@@ -187,47 +227,7 @@ Parapenaeopsis merguiensis**\*Penaeus monodon* (Black tiger prawn) *\*Penaeus se
 
 ---
 
-**Links**
 
-- [Prawns
-  (*Penaeus* and *Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Marine
-  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Penaeus
-  monodon*](http://www.fao.org/fishery/culturedspecies/Penaeus_monodon/en) and *[Penaeus
-  semisulcatus](http://www.fao.org/fishery/species/3408/en)* on Cultured Aquatic Species Information Programme,
-  FAO Fisheries and Aquaculture Department.
-- [Black
-  tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodonl)
-  and [Green
-  tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatusl) and *[Heteropenaeus
-  longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanusl)* and [Adonis
-  shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venustal) and [Torpedo
-  shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedol) and [Whiskered
-  velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbatal) and [Mogi
-  velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensisl) and [Jinga
-  shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinisl) and [Yellow
-  shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornisl) and [Moyebi
-  shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebil) and [Periscope
-  shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylusl) on SeaLife Base.
-- [Prawn
-  'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl) on the
-  wild shores of singapore blog.
-
-**References**
-
-- T. Upanoi. *The penaid prawns of the Straits of Johor: Preliminary results*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
 
 [links](../../../links)
 | [references](../../../references)

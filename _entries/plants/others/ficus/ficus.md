@@ -72,7 +72,8 @@ encircle the host tree. By shading out and preventing the host tree
 from thickening its trunk, the now rapidly growing fig eventually
 'strangles' and kills the host tree.  
   
- **Features:** Figs are fascinating
+ ## Features
+ Figs are fascinating
 because of their unique flowering structure and intriguing relationship
 with the tiny fig-wasps that pollinate them.   
   

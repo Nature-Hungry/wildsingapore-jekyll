@@ -116,6 +116,38 @@ page_images:
   caption: |
     <p>Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649730958158&set=a.10159649733953158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Carcharhinus
+    melanopterus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcharhinus%20melanopterus.html) (Carcharhiniformes: Carcharhinidae) Blacktip
+    Reef Shark by Kok Wai Kit Jerome, 2012 on taxo4254.
+  - *[Chiloscyllium plagiosum](https://singapore.biodiversity.online/taxo4254/mainSpace/Whitespotted%20Bamboo%20Shark.html)* (Orectolobiformes: Hemiscylliidae) Whitespotted Bamboo Shark by Lin Yuan, 2015, on taxo4254.
+  - [*Sphyrna
+    lewini*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sphyrna lewini.html) (Carcharhiniformes: Sphyrnidea) Scalloped Hammerhead
+    by Li Xuezhi, 2013 on taxo4254.
+  - From Mothership
+    - [Anglers at Changi catch & release bamboo shark because it is near-threatened species,](https://mothership.sg/2020/08/bamboo-shark-released-anglers/) 7 Aug 2020.
+  **References**
+  - Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay & Rene Ong. 16 October 2015. *Blacktip reef sharks caught in trammel nets at Lazarus Island*. Singapore Biodiversity Records 2015: 158-159
+  - Karenne Tun & Kelvin K. P. Lim
+    . 19 June 2015. *Brown-banded bamboo shark off Pulau Satumu*. Singapore Biodiversity Records 2015: 79
+  - Chim Chee Kong & Kelvin K. P. Lim. 21 February 2014. *Coral cat-sharks at eastern Johor Straits*. Singapore Biodiversity Records 2014: 54
+  - Ron K. H. Yeo. 7 February 2014. *Blacktip
+    reef sharks (Carcharhinus melanopterus) at Semakau Landfill*.
+    Singapore Biodiversity Records 2014: 33-34
+  - Chim Chee Kong & Kelvin K. P. Lim. 7 February 2014. *Blackspot shark at eastern Johor Straits*. Singapore Biodiversity Records 2014: 47
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -134,7 +166,8 @@ and during intertidal trips to Singapore's southern submerged reefs.
 to Infraclass Selachii. And to the Subclass Elasmobranchii which includes
 the [stingrays](../dasyatidae/rajiformes.htm).  
   
-**Features:** These streamlined predators
+## Features
+ These streamlined predators
 are torpedo shaped, usually with 8 fins. The skin is rough and sand-papery
 and have properties that make them efficient swimmers. Sharks breathe
 through a row of gills behind the eyes. Sharks have teeth, lots of
@@ -291,21 +324,6 @@ varium=\*\*Stegostoma fasciatum*
 
 ---
 
-**Links**  
-
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Carcharhinus
-  melanopterus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcharhinus%20melanopterus.html) (Carcharhiniformes: Carcharhinidae) Blacktip
-  Reef Shark by Kok Wai Kit Jerome, 2012 on taxo4254.
-- *[Chiloscyllium plagiosum](https://singapore.biodiversity.online/taxo4254/mainSpace/Whitespotted%20Bamboo%20Shark.html)* (Orectolobiformes: Hemiscylliidae) Whitespotted Bamboo Shark by Lin Yuan, 2015, on taxo4254.
-- [*Sphyrna
-  lewini*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sphyrna lewini.html) (Carcharhiniformes: Sphyrnidea) Scalloped Hammerhead
-  by Li Xuezhi, 2013 on taxo4254.
-- From Mothership
-  - [Anglers at Changi catch & release bamboo shark because it is near-threatened species,](https://mothership.sg/2020/08/bamboo-shark-released-anglers/) 7 Aug 2020.
 
 - [3 shark pups found dead on St John's Island](https://mothership.sg/2020/07/shark-pup-st-john-island/), 21 Jul 2020.
 - [Bull shark caught and released at Bedok Jetty by angler](https://mothership.sg/2019/10/bull-shark-bedok-jetty/), 17 Oct 2019.
@@ -316,24 +334,6 @@ varium=\*\*Stegostoma fasciatum*
 - [Sharks
   and rays](http://lazy-lizard-tales.blogspot.sg/search/label/sharks%20and%20rays) on the Lazy Lizard Tales blog.
 
-**References**
-
-- Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay & Rene Ong. 16 October 2015. *Blacktip reef sharks caught in trammel nets at Lazarus Island*. Singapore Biodiversity Records 2015: 158-159
-- Karenne Tun & Kelvin K. P. Lim
-  . 19 June 2015. *Brown-banded bamboo shark off Pulau Satumu*. Singapore Biodiversity Records 2015: 79
-- Chim Chee Kong & Kelvin K. P. Lim. 21 February 2014. *Coral cat-sharks at eastern Johor Straits*. Singapore Biodiversity Records 2014: 54
-- Ron K. H. Yeo. 7 February 2014. *Blacktip
-  reef sharks (Carcharhinus melanopterus) at Semakau Landfill*.
-  Singapore Biodiversity Records 2014: 33-34
-- Chim Chee Kong & Kelvin K. P. Lim. 7 February 2014. *Blackspot shark at eastern Johor Straits*. Singapore Biodiversity Records 2014: 47
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

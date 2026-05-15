@@ -56,7 +56,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue
  This fanworm is sometimes seen in sandy areas, even in silty sand, on our
 Northern shores.  
   
-**Features:** Fan 6-8cm in diameter.
+## Features
+ Fan 6-8cm in diameter.
 The fan banded bluish, brown and white sometimes with portions in
 bright yellow. Overall shade may be purplish-blue or greenish. Usually
 found alone in sand.  

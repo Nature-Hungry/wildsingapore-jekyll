@@ -191,6 +191,37 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
+links_references: |
+  **Links**
+  - [*Culcita
+    novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineael)
+    on SeaLife Base: Technical fact sheet.
+  - From the
+    Echinoblog by Dr Chris Mah: [The
+    Cushion star *Culcita novaeguineae*: An exercise in growth-related
+    taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineael)
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Coleman,
+    Neville. 2007. *Sea
+    stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
+    Underwater Geographic Pty Ltd, Australia.136pp.
+  - Schoppe,
+    Sabine, 2000. *Echinoderms
+    of the Philippines: A guide to common shallow water sea stars,
 ---
 
 ## Where seen?
@@ -201,7 +232,8 @@ also found on reef flats. Usually seen alone or widely spaced apart.
 According to Gosliner, this is considered the most widespread and
 common species of cushion star.  
   
-**Features:** Diameter
+## Features
+ Diameter
 with arms 12-20cm. Arms very short, body almost globular. According
 to Lane, the thick calcified body walls and rounded shape makes it
 more difficult for fish and other predators to bite it. The
@@ -329,37 +361,3 @@ How an upside down cushion star rights itself!
 
 
 ---
-
-**Links**
-
-- [*Culcita
-  novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineael)
-  on SeaLife Base: Technical fact sheet.
-- From the
-  Echinoblog by Dr Chris Mah: [The
-  Cushion star *Culcita novaeguineae*: An exercise in growth-related
-  taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineael)
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Coleman,
-  Neville. 2007. *Sea
-  stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
-  Underwater Geographic Pty Ltd, Australia.136pp.
-- Schoppe,
-  Sabine, 2000. *Echinoderms
-  of the Philippines: A guide to common shallow water sea stars,

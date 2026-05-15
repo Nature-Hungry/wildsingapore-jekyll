@@ -55,13 +55,38 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695059099/in/album-72157624263311376/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+links_references: |
+   **Links**  
+  - [Common
+    Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Leptodius
+    exaratus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21405) on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet
+  - [*Leptodius
+    exaratus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1303) and *[Leptodius
+    gracilis](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1304)* and *[Leptodius
+    sanguineus](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1306)* Crabs of Japan, on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  This large crab with typical spoon-tipped pincers
 is sometimes seen in rocky or rubbly areas on our Southern shores.  
   
-**Features:** Body width 8-10cm. Body
+## Features
+ Body width 8-10cm. Body
 oval, rather flat, with 4-5 blunt teeth on the edges of the shell.
 Colours and patterns in a wide variety; basically brown or grey, sometimes
 with dark patches or mottled. Pincers not very long, somewhat squat
@@ -101,32 +126,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowledgements**With
 grateful thanks to Ondrej Radosta for identifying the species of the crabs on this page.  
- **Links**  
 
-- [Common
-  Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Leptodius
-  exaratus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21405) on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet
-- [*Leptodius
-  exaratus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1303) and *[Leptodius
-  gracilis](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1304)* and *[Leptodius
-  sanguineus](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1306)* Crabs of Japan, on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

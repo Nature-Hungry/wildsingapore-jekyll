@@ -110,7 +110,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/po
  This lumpy hard coral with tiny corallites and polyps
 is commonly seen on many of our shores.  
   
-**Features:** Colonies 10-20cm, sometimes
+## Features
+ Colonies 10-20cm, sometimes
 much larger. A boulder-shaped base with irregular lumps sometimes
 flattened sideways, with rounded, flat tops. Corallites tiny (0.1-0.2cm)
 hexagonal, packed close to one another. The tiny corallites are shallow

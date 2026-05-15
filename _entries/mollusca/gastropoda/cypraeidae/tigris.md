@@ -76,6 +76,42 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, 20Photo shared by Jesselyn Chua on <a href="https://www.facebook.com/photo.php?fbid=10159717070549517&set=a.10159717061619517&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
+links_references: |
+  **Links**
+  - [Tiger
+    cowrie (*Cypraea tigris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86906) on SeaLife Base: Technical
+    fact sheet.
+  - [Tiger
+    cowrie (*Cypraea tigris*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=194) on the NParks Flora and Fauna
+    website.
+  - Tiger cowrie
+    (*Cypraea tigris*) in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food
+    and Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to
+    Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Abbott,
+    R. Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Kuiter,
+    Rudie H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
  ## Where seen?
@@ -86,7 +122,8 @@ said to be usually found on live coral colonies, particularly table-forming [Acr
 corals](../../../cnidaria/coralhard/acroporidae/acropora.htm). Other accounts suggest it is also
 found in seagrass meadows, and sand and rubble.  
   
-**Features:** 8-9cm, can reach 15cm. Shell is oval to pear-shaped,
+## Features
+ 8-9cm, can reach 15cm. Shell is oval to pear-shaped,
 variable in colour from white to nearly black but usually white, yellowish
 to light blue greyish with dense rounded spots of dark brown to black.
 The underside is white including the 'teeth'. The mantle may be golden
@@ -161,44 +198,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Tiger
-  cowrie (*Cypraea tigris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86906) on SeaLife Base: Technical
-  fact sheet.
-- [Tiger
-  cowrie (*Cypraea tigris*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=194) on the NParks Flora and Fauna
-  website.
-- Tiger cowrie
-  (*Cypraea tigris*) in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food
-  and Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to
-  Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Abbott,
-  R. Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Kuiter,
-  Rudie H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

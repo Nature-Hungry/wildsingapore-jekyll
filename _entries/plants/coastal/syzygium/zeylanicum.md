@@ -89,6 +89,14 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
+links_references: |
+  **Links**
+  - *[Syzygium
+    zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -100,7 +108,8 @@ to Corners, it is common by rivers and seashores of Indo-Malesia,
 in secondary jungles and the tops of low hills up to 2,000 feet. It
 was previously known as *Eugenia zeylanica* and *Eugenia spicata*.  
   
-**Features:** Usually a bush, sometimes
+## Features
+ Usually a bush, sometimes
 a short tree (rarely exceeding 10m). Leaves leathery with very short
 leaf stalks, 2cm or less. Leaves oval, leathery with pointed tips,
 arranged opposite, in pairs. No stipules and no latex from broken
@@ -134,16 +143,7 @@ used in traditional medicine.
 With grateful thanks to Teo Siyang and Bian Tan for identifying
 this plant.  
   
-**Links**
 
-- *[Syzygium
-  zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

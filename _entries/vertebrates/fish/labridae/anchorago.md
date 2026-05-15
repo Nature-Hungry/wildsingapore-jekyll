@@ -96,7 +96,8 @@ sand. Small juveniles are seen in seagrass beds near mangroves and
 freshwater run off. Sometimes seen in groups. It is also called the
 Yellow-cheek tuskfish, White-belly tuskfish or Orange-dotted tuskfish.  
   
-**Features:** To 38cm, those seen 20-30cm. With variable coloration, it is identified
+## Features
+ To 38cm, those seen 20-30cm. With variable coloration, it is identified
 by a pale diagonal bar at the pectoral fin, black area on the middle
 of the upper side and large white saddle behind the dorsal fin. It
 also has a white chin and belly, and the head has tiny orange spots.

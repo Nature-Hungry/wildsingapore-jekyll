@@ -134,6 +134,35 @@ page_images:
   caption: |
     <p>Terumbu Buran, Nov 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
+links_references: |
+  **Links**
+  - [Firebrand
+    murex (*Chicoreus torrefactus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86970) and [Adusta
+    murex (*Chicoreus brunneus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Chicoreus&speciesname=brunneus)) on SeaLife Base: Technical
+    fact sheet.
+  - Firebrand
+    murex (*Chicoreus torrefactus*) and *Chicoreus brunneus* in the Gastropods section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -141,7 +170,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/c
 found on boulders, rocks and hard surfaces as well as sandy areas
 near coral reefs on our Southern shores.  
   
-**Features:** 5-7cm long. Shell thick
+## Features
+ 5-7cm long. Shell thick
 with rows of fronds or spikes along the length of the shell. There
 are usually three spikes along the siphonal canal. The shell opening
 is smooth, operculum is made of a horn-like material.   
@@ -243,37 +273,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Firebrand
-  murex (*Chicoreus torrefactus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86970) and [Adusta
-  murex (*Chicoreus brunneus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Chicoreus&speciesname=brunneus)) on SeaLife Base: Technical
-  fact sheet.
-- Firebrand
-  murex (*Chicoreus torrefactus*) and *Chicoreus brunneus* in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

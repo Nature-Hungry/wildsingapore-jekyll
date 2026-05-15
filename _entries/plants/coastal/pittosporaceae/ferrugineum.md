@@ -74,7 +74,8 @@ it was common on rocky and sandy shores and in sandy scrub in Malaya.
 As well as behind mangroves and in some places may even occur far
 inland.  
   
- **Features:** Corners describes it
+ ## Features
+ Corners describes it
 as "an insignificant little tree unless its branches are weighed
 with fruit". It is distinguished by narrow leaves with wavy edges
 and young parts which are hairy brown. A shrub or small tree (seldom

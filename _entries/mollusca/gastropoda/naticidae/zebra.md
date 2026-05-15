@@ -53,13 +53,18 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519778387/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
+links_references: |
+  **Links**
+  - [*Natica
+    areolata*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=90352) on SeaLife Base: Technical fact sheet.
 ---
 
 ## Where seen?
  Sometimes seen on our Southern shores, this fast
 moving moon snail is seen near coral rubble and living reefs. It was previously known as *Natica areolata*.  
   
-**Features:** 2-3cm. Shell smooth thick spherical
+## Features
+ 2-3cm. Shell smooth thick spherical
 (not flat) with the spiral tip sticking out a little. Shell pattern brown with
 spirals of white zig-zag lines. On
 the underside, a small circular depression. Operculum plain pearly white with a yellow smudge where the whorl starts, a pair of spiralling
@@ -108,10 +113,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [*Natica
-  areolata*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=90352) on SeaLife Base: Technical fact sheet.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

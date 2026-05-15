@@ -99,6 +99,36 @@ page_images:
   caption: |
     <p>Mating pair  Pulau Semakau, Dec 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3170131170/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
+links_references: |
+     **Links**
+  - [Swimming
+    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Family
+    Portunidae in
+    the Crabs section by Peter K. L. Ng in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
+    the Food and Agriculture Organization of the United Nations
+    (FAO) website.
+  - [Crenate
+    swimming crab (*Thalamita crenata*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361) on [SeaLifeBase](http://www.sealifebase.org/):
+    technical fact sheet.
+  - [Mangrove
+    swimming crab (*Thalamita crenata*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142) on Crabs of Japan
+    in Marine Species Identification Portal: Technical fact sheet.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach.* Division of Biology, School
+    of Science, Nanyang Technological University & Department of
+    Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
+    of Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -107,7 +137,8 @@ seen near seagrasses and reefs on some of our shores. Elsewhere, they
 are also found in mangroves and soft-silty bottoms near rocky areas
 without reefs.  
   
-**Features:** Body width 5-7cm. Body
+## Features
+ Body width 5-7cm. Body
 somewhat rectangular, the sides of the body with 5 light blue-light
 brown tipped spines of about equal size. The eyes are wide apart.
 Between the eyes are 6 small rounded lobes. Walking legs greenish
@@ -179,38 +210,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-   **Links**
 
-- [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Family
-  Portunidae in
-  the Crabs section by Peter K. L. Ng in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
-  the Food and Agriculture Organization of the United Nations
-  (FAO) website.
-- [Crenate
-  swimming crab (*Thalamita crenata*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361) on [SeaLifeBase](http://www.sealifebase.org/):
-  technical fact sheet.
-- [Mangrove
-  swimming crab (*Thalamita crenata*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142) on Crabs of Japan
-  in Marine Species Identification Portal: Technical fact sheet.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach.* Division of Biology, School
-  of Science, Nanyang Technological University & Department of
-  Zoology, the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

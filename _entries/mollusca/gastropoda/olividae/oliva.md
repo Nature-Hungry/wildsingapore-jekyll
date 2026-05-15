@@ -39,6 +39,30 @@ page_images:
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550002638158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+links_references: |
+  **Links**
+  - [Common
+    olive (*Oliva oliva*)](http://www.sealifebase.org/summary/Oliva-oliva.html) on SeaLife Base: Technical fact
+    sheet and photo.
+  - [Family
+    Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on moon snails with photos.
+  - Family
+    Olividae in the Gastropods section by J.M. Poutiers in the FAO
+    Species Identification Guide for Fishery Purposes: The Living
+    Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -47,7 +71,8 @@ commonly seen, only on a few of our shores so far. A burrowing
 snail, it is more often seen above the ground at night or with the incoming
 tide.   
   
-**Features:** 3-4cm. Shell thick heavy glossy,
+## Features
+ 3-4cm. Shell thick heavy glossy,
 cylindrical bullet-shaped with tall conical spire. White lip ends
 at less than half of the shell opening length. Shell pattern
 and colour varies. The shell opening pinkish. Body large beige with brownish spots all over. A long
@@ -87,32 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Common
-  olive (*Oliva oliva*)](http://www.sealifebase.org/summary/Oliva-oliva.html) on SeaLife Base: Technical fact
-  sheet and photo.
-- [Family
-  Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on moon snails with photos.
-- Family
-  Olividae in the Gastropods section by J.M. Poutiers in the FAO
-  Species Identification Guide for Fishery Purposes: The Living
-  Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

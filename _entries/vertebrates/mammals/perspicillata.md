@@ -45,6 +45,59 @@ page_images:
   caption: |
     <p>Pulau Semakau, Aug 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
+links_references: |
+  **Links**
+  - [OtterWatch](https://www.facebook.com/pages/OtterWatch/187156104690279?sk=info)
+    a facebook page to share your otter sightings, part of Meryl Theng's
+    [study of otters in
+    Singapore](http://blog.nus.edu.sg/sgotters/).
+  - *[Lutrogale perspicillata](https://singapore.biodiversity.online/taxo4254/mainSpace/Lutrogale%20perspicillatal)* (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
+  - [Group
+    of ten smooth-coated otters (*Lutrogale perspicillata*) at
+    Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf). 7 Mar 2014. Singapore Biodiversity Records 2014:
+    64 on the [Lee Kong Chian Natural
+    History Museum website](http://lkcnhm.nus.edu.sg/).
+  - [Smooth
+    Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  - [Ring
+    Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water)
+    on Nick Baker's EcologyAsia website
+  - From [Wetlands](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve/wetlands-newsletter),
+    a magazine of the Sungei Buloh Wetland Reserve
+    - Water
+      puppies of the Reserve, 1993
+    - Sightings
+      of the Smooth Otter at Sungei Buloh, 1995
+    - Otters
+      in Sight, 1999
+    - Happy
+      Additions, 1999
+    - A
+      Family Outing, 2006
+  - [Otters
+    just out to have fun](http://wildsingaporenews.blogspot.com/2009/08/otters-just-out-to-have-funl) Jogger spots otters frolicking in sun
+    at Pasir Ris Park Teh Jen Lee, The New Paper 20 Aug 09;
+  - [Otters
+    disappearing in Southeast Asia: hunted out for their skins](http://wildshores.blogspot.com/2009/12/otters-disappearing-in-southeast-asial)
+    on the wild shores of singapore blog.
+  - [Save
+    Sungei Buloh otters from dog menace](http://wildsingaporenews.blogspot.com/2009/12/save-sungei-buloh-otters-from-dogl) Straits Times Forum 11
+    Dec 09 on the wildsingapore news blog.
+  **References**
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -58,7 +111,8 @@ record of the Smooth-coated otter was of a male, collected in 1938
 from Lazarus Island. The second otter sighting was recorded at Sungei
 Buloh in 1990. According to Davison, the local population may not
 be strictly resident as they travel easily between Johor and Singapore
-across the Johor Straits. **Features:**Head and body to 75cm, tail to 45cm. Long
+across the Johor Straits. ## Features
+Head and body to 75cm, tail to 45cm. Long
 body and a long tail, covered in short sleek fur. It has short limbs
 with webbed 'fingers' and prominent claws. The upperparts are greyish
 brown and the underside is buffy.  
@@ -125,61 +179,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [OtterWatch](https://www.facebook.com/pages/OtterWatch/187156104690279?sk=info)
-  a facebook page to share your otter sightings, part of Meryl Theng's
-  [study of otters in
-  Singapore](http://blog.nus.edu.sg/sgotters/).
-- *[Lutrogale perspicillata](https://singapore.biodiversity.online/taxo4254/mainSpace/Lutrogale%20perspicillatal)* (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
-- [Group
-  of ten smooth-coated otters (*Lutrogale perspicillata*) at
-  Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf). 7 Mar 2014. Singapore Biodiversity Records 2014:
-  64 on the [Lee Kong Chian Natural
-  History Museum website](http://lkcnhm.nus.edu.sg/).
-- [Smooth
-  Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-- [Ring
-  Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water)
-  on Nick Baker's EcologyAsia website
-- From [Wetlands](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve/wetlands-newsletter),
-  a magazine of the Sungei Buloh Wetland Reserve
-  - Water
-    puppies of the Reserve, 1993
-  - Sightings
-    of the Smooth Otter at Sungei Buloh, 1995
-  - Otters
-    in Sight, 1999
-  - Happy
-    Additions, 1999
-  - A
-    Family Outing, 2006
-- [Otters
-  just out to have fun](http://wildsingaporenews.blogspot.com/2009/08/otters-just-out-to-have-funl) Jogger spots otters frolicking in sun
-  at Pasir Ris Park Teh Jen Lee, The New Paper 20 Aug 09;
-- [Otters
-  disappearing in Southeast Asia: hunted out for their skins](http://wildshores.blogspot.com/2009/12/otters-disappearing-in-southeast-asial)
-  on the wild shores of singapore blog.
-- [Save
-  Sungei Buloh otters from dog menace](http://wildsingaporenews.blogspot.com/2009/12/save-sungei-buloh-otters-from-dogl) Straits Times Forum 11
-  Dec 09 on the wildsingapore news blog.
-
-**References**
-
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

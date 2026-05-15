@@ -45,13 +45,37 @@ page_images:
   caption: |
     <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of various bubble snails.
+  - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta) and
+    *[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)* on SeaLife Base.
+  - [Family
+    Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html) on [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website: brief description and
+    photos.
+  **References**
+  - Tan Siong Kiat. 24 July 2015. *A record of the white banded bubble Hydatina albocincta in Singapore*. Singapore Biodiversity Records 2015: 104
+  - Tan SK, Low MEY, Nguang LHS & Toh CH (2014) *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*. Nature in Singapore, 7: 121–127.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  These beautiful snail is sometimes seen on our Northern shores. It was previously
 placed in Family Hydatinidae.  
   
-**Features:** 1-4cm. Shell smooth
+## Features
+ 1-4cm. Shell smooth
 globular may be thin, usually with colourful spirally stripes. The
 body mantle is much larger than the shell and held in frills. It
 lacks an operculum. The animal can withdraw completely or almost completely into its shell.  
@@ -78,31 +102,7 @@ Hydatina zonata*
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of various bubble snails.
-- [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta) and
-  *[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)* on SeaLife Base.
-- [Family
-  Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html) on [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website: brief description and
-  photos.
-
-**References**
-
-- Tan Siong Kiat. 24 July 2015. *A record of the white banded bubble Hydatina albocincta in Singapore*. Singapore Biodiversity Records 2015: 104
-- Tan SK, Low MEY, Nguang LHS & Toh CH (2014) *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*. Nature in Singapore, 7: 121–127.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

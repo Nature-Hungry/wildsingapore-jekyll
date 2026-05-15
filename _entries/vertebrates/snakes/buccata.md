@@ -29,6 +29,43 @@ page_images:
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
+links_references: |
+  **Links**
+  - [Puff-faced
+    Water Snakes](http://singaporesnakes.blogspot.com/search/label/Puff-faced%20Water%20Snake) on the [Singapore
+    Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
+    and other posts.
+  - [Puff-faced
+    Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake)on
+    Nick Baker's EcologyAsia website: fact sheet with photos.
+  - [Puff-faced
+    Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakepufffaced) on
+    Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+  - [*Homalopsis
+    buccata*](http://www.iucnredlist.org/details/176682/0) on the IUCN Red List.
+  **References**
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo*
+    Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland. pp 144.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -39,7 +76,8 @@ rural areas and forests. However, they are only active at night. Elsewhere,
 they are found in rivers, swamps, canals and ponds. They are considered
 a pest on freshwater fish farms.  
   
-**Features:**To about 1.2m long. It has a brown stripe through the eye that
+## Features
+To about 1.2m long. It has a brown stripe through the eye that
 forms a kind of W-shaped dark mask around the head, and dark-edged
 brown bands on a paler brown body. The bands tend to be faded in adults
 which may be a uniform grey-brown, while juveniles have black bands
@@ -81,45 +119,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Puff-faced
-  Water Snakes](http://singaporesnakes.blogspot.com/search/label/Puff-faced%20Water%20Snake) on the [Singapore
-  Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
-  and other posts.
-- [Puff-faced
-  Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake)on
-  Nick Baker's EcologyAsia website: fact sheet with photos.
-- [Puff-faced
-  Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakepufffaced) on
-  Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
-- [*Homalopsis
-  buccata*](http://www.iucnredlist.org/details/176682/0) on the IUCN Red List.
-
-**References**
-
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo*
-  Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland. pp 144.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

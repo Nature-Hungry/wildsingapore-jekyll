@@ -89,6 +89,20 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081493713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
+links_references: |
+  **Links**
+  - [*Placida
+    dendritica*](http://www.seaslugforum.net/factsheet.cfm?base=placden1) on [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
+  **References**
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe
+    R. Jensen. 30 Dec 2009. *Sacoglossa
+    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -97,7 +111,8 @@ common on many of our shores, particularly when there is a bloom of [Bryopsis
 seaweeds](../../../plants/seaweed/chlorophyta/bryopsis.htm). At this time, lots of them can be seen even in a small
 clump of seaweed. But they are really hard to spot.  
   
-**Features:** Tiny,
+## Features
+ Tiny,
 to about 1cm. Long, soft body with lots of finger-like projections
 (cerata) that are transparent. The digestive system extends into the
 cerata, and the green stuff is the seaweed 'juices' sucked up by the
@@ -168,22 +183,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Placida
-  dendritica*](http://www.seaslugforum.net/factsheet.cfm?base=placden1) on [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets.
-
-**References**
-
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- Kathe
-  R. Jensen. 30 Dec 2009. *Sacoglossa
-  (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

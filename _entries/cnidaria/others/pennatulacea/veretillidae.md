@@ -77,6 +77,20 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
+links_references: |
+  **Links**
+  - [Veretillidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Veretillidae)
+    including *[Cavernulina](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cavernulina)*,
+     *[Lituaria](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lituaria)*
+    and *[Veretillum](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Veretillum)*
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -84,7 +98,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/ve
 seen on our Northern shores, mainly at night. On soft silty sand among
 seagrasses.  
   
-**Features:** Colony 15-20cm long.
+## Features
+ Colony 15-20cm long.
 Long, sausage-like 'stem', called the axial or primary polyp,
 that supports the whole colony. No leaf-like structures. Feeding polyps
 (autozooids) large (1-2cm) with eight branched tentacles emerge directly
@@ -151,22 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Veretillidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Veretillidae)
-  including *[Cavernulina](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cavernulina)*,
-   *[Lituaria](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lituaria)*
-  and *[Veretillum](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Veretillum)*
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links)
 | [references](../../../references)

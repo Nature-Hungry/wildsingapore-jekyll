@@ -42,6 +42,20 @@ page_images:
   caption: |
     <p>Chek Jawa, Jun 08Photo shared by Wong Ley Kun on <a href="http://nakedhermitcrabs.blogspot.sg/2008/06/1-june-08-what-our-bukit-batok-guests.html">her blog.</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
+links_references: |
+  **Links**
+  - The Atlas
+    Moth Chronicles - [Episode
+    1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html) and [Episode
+    2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html) and [Episode
+    3](http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html) on the Butterflies of Singapore blog: documenting the life
+    cycle and other interesting behaviour.
+  - *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html)* on Taxo4254.
+  **References**
+  - Foo Maosheng. 30 Jun 2017. *An atlas moth infestation at Yishun*. Singapore Biodiversity Records 2017: 80-81.
+  - Paul Sterry,
+    *"Butterflies and Moths: A Portrait of the Animal World"*,
+    Todtri, 1995.
 ---
 
 ## Where seen?
@@ -50,7 +64,8 @@ is sometimes seen in our mangroves and other wild places. Atlas Moths
 are found only in Southeast Asia. They are common in Singapore, especially
 in November-January, although they are found throughout the year.  
   
-**Features:** Wings 25-30cm across and among the insects with the largest wing area.
+## Features
+ Wings 25-30cm across and among the insects with the largest wing area.
 It is so named because its wing patterns resemble a map. The wings
 have triangular transparent 'windows' whose purpose we don't know.
 The wing tips are hooked and some say resemble a snake's head complete
@@ -116,22 +131,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- The Atlas
-  Moth Chronicles - [Episode
-  1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html) and [Episode
-  2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html) and [Episode
-  3](http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html) on the Butterflies of Singapore blog: documenting the life
-  cycle and other interesting behaviour.
-- *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html)* on Taxo4254.
-
-**References**
-
-- Foo Maosheng. 30 Jun 2017. *An atlas moth infestation at Yishun*. Singapore Biodiversity Records 2017: 80-81.
-- Paul Sterry,
-  *"Butterflies and Moths: A Portrait of the Animal World"*,
-  Todtri, 1995.
 
 [links](../links.htm)
 | [references](../references.htm)

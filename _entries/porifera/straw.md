@@ -45,7 +45,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3
 
 ## Where seen?
  These tiny white straws are sometimes seen on our shores on coral
-rubble. **Features:** Clusters
+rubble. ## Features
+ Clusters
 of short delicate white or transparent straws 1-2cm tall.  
   
 Species with these forms include *Oceanapia* sp. "white

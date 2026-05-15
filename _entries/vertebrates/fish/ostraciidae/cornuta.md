@@ -74,6 +74,23 @@ page_images:
   caption: |
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-raya.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg
+links_references: |
+  **Links**  
+  - [Longhorn
+    cowfish (*Lactoria cornuta*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6399) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Lee Bee Yan & Jeremy W. L. Yeo. 28 Jul 2017. *A juvenile longhorn cowfish*. Singapore Biodiversity Records 2017: 97.
+  - Ron Yeo. 22 November 2013. *Longhorn cowfish at Semakau, Lactoria cornuta*. Singapore Biodiversity Records 2013: 75.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
 ---
 
 ## Where seen?
@@ -85,7 +102,8 @@ Juveniles are said to form small groups on shallow mudflats, near
 river mouths and in brackish water. While adults are solitary and
 shy.  
   
-**Features:**  To 40-50cm, the ones seen was about 10-15cm long. Body cubical
+## Features
+  To 40-50cm, the ones seen was about 10-15cm long. Body cubical
 boxy, which is enclosed in a protective hard shell (carapace) made up of
 bony plates with gaps for the various tiny fins, the tail and the
 mouth. The cowfish got its name for the pair of projecting
@@ -149,25 +167,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Longhorn
-  cowfish (*Lactoria cornuta*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6399) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Lee Bee Yan & Jeremy W. L. Yeo. 28 Jul 2017. *A juvenile longhorn cowfish*. Singapore Biodiversity Records 2017: 97.
-- Ron Yeo. 22 November 2013. *Longhorn cowfish at Semakau, Lactoria cornuta*. Singapore Biodiversity Records 2013: 75.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -84,6 +84,18 @@ page_images:
   caption: |
     <p>Terumbu Bemban, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9511m3.jpg
+links_references: |
+  **Links**
+  - [*Eurythoe
+    complanata*](http://www.sealifebase.org/summary/Eurythoe-complanatal)
+    in SeaLife Base: Technical fact sheet.
+  - [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
+    Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
+  **References**
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
@@ -99,7 +111,8 @@ Annelida includes the more familiar earthworm. Many members of the
 Family Amphinomidae are known as fireworms because of the burning
 pain they produce when handled.  
   
-**Features:** About 10-20cm long.
+## Features
+ About 10-20cm long.
 Body flat, broad, tapered at both ends. Along the body are two rows
 of 'bunches' of bristles; long transparent bristles on the upperside,
 and a row of shorter bristles along the underside. For each pair of bristle 'bunch' there is a short tuft. Colours greenish
@@ -179,18 +192,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on this worm
 and a tentative identification.
-
-**Links**
-
-- [*Eurythoe
-  complanata*](http://www.sealifebase.org/summary/Eurythoe-complanatal)
-  in SeaLife Base: Technical fact sheet.
-- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
-  Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
-
-**References**
-
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.

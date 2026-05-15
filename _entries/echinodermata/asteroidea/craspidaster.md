@@ -74,6 +74,22 @@ page_images:
   caption: |
     <p>Beting Bronok, Jun 16 Shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+links_references: |
+  **Links**
+  - [*Craspidaster
+    hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperusl)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
@@ -81,7 +97,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspi
 means border or edge. According to Lane, this sea star is seen from
 the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.  
   
-**Features:** Diameter with arms about
+## Features
+ Diameter with arms about
 10cm. A flat sea star with five elegant smooth tapered arms. Upper surface
 pale blue sometimes beige, and covered with special flat-topped, pillar-like structures
 called paxillae. The body edges are bordered with large, wide marginal
@@ -126,22 +143,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Craspidaster
-  hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperusl)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

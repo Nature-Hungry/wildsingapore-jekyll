@@ -33,7 +33,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/
 ---
 
 ## Where seen?
- Rarely seen, this pretty snails is found in living reefs on our Southern shores. It is more active at night. **Features:** About 6cm. Shell
+ Rarely seen, this pretty snails is found in living reefs on our Southern shores. It is more active at night. ## Features
+ About 6cm. Shell
 thick smooth glossy, without any cords. Colours brown, with a spiralling pattern of fine banded lines. Operculum shelly, hemi-spherical
 and smooth, brown and greenish. Body black with a bright orange foot,
 a pair of slender tentacles.  

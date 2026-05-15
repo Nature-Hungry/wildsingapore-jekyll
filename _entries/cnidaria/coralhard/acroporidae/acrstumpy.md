@@ -89,7 +89,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
 axial corallites is sometimes on some of our Southern shores, larger
 colonies are more commonly seen on undisturbed shores. Sometimes forming a field of colonies.  
   
-**Features:**Colonies 10-25cm.
+## Features
+Colonies 10-25cm.
 Short, thick stumpy branches forming a squat bush-like shape. The
 branches don't interlock. Generally, the axial corallite at the growing
 tip is very prominent and circular with a depression in the centre

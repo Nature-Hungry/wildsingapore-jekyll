@@ -63,7 +63,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsid
 down is sometimes seen among seaweeds and seagrasses on our Northern
 shores. Especially active at night. Usually seen alone.  
   
-**Features:** Disk diameter less than
+## Features
+ Disk diameter less than
 1cm, arms about 5cm long. Disk thick, petal-shaped. Arms long with
 blunt cylindrical spines arranged all around the arms like bristles of a bottle brush. Often seen upside
 down and if turned the right side up will turn upside down again.

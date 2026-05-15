@@ -39,6 +39,18 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+links_references: |
+  **Links**
+  - [Pilodius
+    Crab (*Pilodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/207) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -46,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodi
 shores near reefs. Instead of rushing away, these crabs usually remain
 immobile when disturbed.  
   
-**Features:** Body width about 1cm.
+## Features
+ Body width about 1cm.
 The pincers with spoon-shaped tips. Legs with pointed tips.  
   
 **Sometimes confused with** juveniles
@@ -68,20 +81,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Pilodius
-  Crab (*Pilodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/207) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

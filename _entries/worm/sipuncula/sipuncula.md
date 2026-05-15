@@ -88,6 +88,40 @@ page_images:
   caption: |
     <p>Tanah Merah, Jul 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
+links_references: |
+  **Links**  
+  - [Peanut
+    worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *A Guide to Seashore Life*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Peanut
+    Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004) Ng, Peter K. L. & N. Sivasothi, 1999. *A
+    Guide to the Mangroves of Singapore II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Peanut
+    worms](http://www.mesa.edu.au/friends/seashores/wormsl) on [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: an introduction to worms including
+    sipunculids with explanations of the major parts of their bodies
+    and their lifestyles, and fact sheet on a peanut worm found in
+    Australia.
+  **References**
+  - P.-W. Hsueh & K. S. Tan. 29 June 2016. [New records of peanut worms (Sipuncula) from Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement34/S34rbz235-240.pdf). The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II). Pp. 235-240.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -112,7 +146,8 @@ worms are unsegmented and belong to Phylum Sipuncula. There are about
 
 
 
-**Features:** 5-10cm long. Peanut
+## Features
+ 5-10cm long. Peanut
 worms are burrowing worm-like creatures that are sometimes seen above
 the ground on all our shores. When contracted, their ridged skins
 looks like the texture of peanut shells. Most are only a few millimeters
@@ -242,40 +277,3 @@ Themistidae**
 signifer=\*Themiste (Lagenopsis) lageniformis*
 
 ---
-
-**Links**  
-
-- [Peanut
-  worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *A Guide to Seashore Life*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Peanut
-  Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004) Ng, Peter K. L. & N. Sivasothi, 1999. *A
-  Guide to the Mangroves of Singapore II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Peanut
-  worms](http://www.mesa.edu.au/friends/seashores/wormsl) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: an introduction to worms including
-  sipunculids with explanations of the major parts of their bodies
-  and their lifestyles, and fact sheet on a peanut worm found in
-  Australia.
-
-**References**
-
-- P.-W. Hsueh & K. S. Tan. 29 June 2016. [New records of peanut worms (Sipuncula) from Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement34/S34rbz235-240.pdf). The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II). Pp. 235-240.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.

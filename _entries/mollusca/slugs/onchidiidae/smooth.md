@@ -52,7 +52,8 @@ sheltered, shady areas with thick mats small seaweeds on many of our
 shores. For example, rocky shores shaded by coastal trees and sea
 walls under a jetty or bridge. Often seen in groups of small numbers.   
   
-**Features:** 1-3cm. Body hard, long,
+## Features
+ 1-3cm. Body hard, long,
 very rounded with a rather smooth skin with small regular bumps. Generally
 greyish or brown to black. Sometimes with lighter spots. Eyes on long
 thin stalks. The underside is white with a broad foot.

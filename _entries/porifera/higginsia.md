@@ -27,11 +27,20 @@ page_images:
   caption: |
     <p>Trapped sediments hides bright orange colour.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
+links_references: |
+  **Links**
+  - *[Higginsia](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131793)* on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tekong. **Features:** Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.  
+This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tekong. ## Features
+ Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.  
 
  
 
@@ -59,16 +68,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Higginsia](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131793)* on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

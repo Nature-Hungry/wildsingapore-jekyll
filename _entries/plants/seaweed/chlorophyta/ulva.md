@@ -53,6 +53,42 @@ page_images:
     <p><a href="../../../crustacea/othercrust/shrimp/rednose">Tiny shrimp</a> on sea lettuce.</p>
     <p>Changi, Jun 07</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Sea
+    Lettuce (*Ulva* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - *[Ulva](http://www.algaebase.org/search/genus/detail/?genus_id=33)* on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheet.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
+    Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim,
+    S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the
+    Sea: The Life and Times of Labrador Beach*. Division of
+    Biology, School of Science, Nanyang Technological University
+    & Department of Zoology, the National University of Singapore.
+    160 pp.
+  - Chou,
+    L. M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore
+    Science Centre. 128 pages.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 if you
@@ -76,7 +112,8 @@ can be slippery and conceal rocks and other things that might trip
 you or poke you. Also, many animals hide under this seaweed. Try not
 to step on this 'green carpet'.  
   
-**Features:**  A thin blade
+## Features
+  A thin blade
 which is only two cells thick! This allows sea lettuce to grow rapidly
 in nutrient-rich water as it has a high surface to volume ratio. Compared
 to most other seaweeds, sea lettuce species can better tolerate being
@@ -195,44 +232,7 @@ Ulva reticulata
 
 ---
 
-**Links**
 
-- [Sea
-  Lettuce (*Ulva* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- *[Ulva](http://www.algaebase.org/search/genus/detail/?genus_id=33)* on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheet.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
-  Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim,
-  S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the
-  Sea: The Life and Times of Labrador Beach*. Division of
-  Biology, School of Science, Nanyang Technological University
-  & Department of Zoology, the National University of Singapore.
-  160 pp.
-- Chou,
-  L. M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore
-  Science Centre. 128 pages.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

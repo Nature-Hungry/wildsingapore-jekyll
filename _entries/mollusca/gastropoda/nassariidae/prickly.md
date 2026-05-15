@@ -41,7 +41,8 @@ is sometimes seen on sandy shores near reefs and sandy man-made lagoons,
 also on seaweed blooms. Often in small groups of a few snails. It
 is probably common but overlooked.   
   
-**Features:** About 1cm. Shell thick conical
+## Features
+ About 1cm. Shell thick conical
 with neat pattern of regular fine bumps and fine brown lines. Body
 pale with white spots, very long siphon, short tentacles. Operculum thin
 yellowish often with a dark or black blotch.

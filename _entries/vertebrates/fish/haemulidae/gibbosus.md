@@ -86,6 +86,32 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158030361/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg
+links_references: |
+  **Links**  
+  - [Brown
+    Sweetlips or Harry Hotlips (*Plectorhinchus gibbosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285.htm)
+    Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Harry
+    Hotlips (*Plectorhinchus gibbosus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6366&genusname=Plectorhinchus&speciesname=gibbosus) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet
+  - [*Plectorhinchus
+    gibbosus*](http://www.iucnredlist.org/details/196408/0) on the IUCN Red List.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -95,7 +121,8 @@ and near coral rubble. Often it is seen 'drifting' like dead leaves.
 Elsewhere it is found in shallow coastal waters, around reefs and
 in estuaries; also mangroves and occasionally freshwater.   
   
-**Features:** To about 70cm, those
+## Features
+ To about 70cm, those
 seen on the intertidal at low tide range from tiny ones around 2cm,
 to larger ones about 12cm. Juveniles are brownish with a transparent
 tail fin, so at first glance, it appears to have no tail. Adults are uniformly dark grey to brownish or blackish.
@@ -167,34 +194,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Brown
-  Sweetlips or Harry Hotlips (*Plectorhinchus gibbosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285.htm)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Harry
-  Hotlips (*Plectorhinchus gibbosus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6366&genusname=Plectorhinchus&speciesname=gibbosus) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet
-- [*Plectorhinchus
-  gibbosus*](http://www.iucnredlist.org/details/196408/0) on the IUCN Red List.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

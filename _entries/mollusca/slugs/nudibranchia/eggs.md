@@ -38,6 +38,13 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/41946456675 "Nudibranch laying eggs, awaiting identification")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: with fascinating facts and
+    photos [all
+    about eggs](http://www.seaslugforum.net/general.cfm#life_history,_reproduction,_mating_and_eggs): how they're formed, coiling, what eats them and
+    more.
 ---
 
 if
@@ -49,7 +56,8 @@ disturb them.
   These rosette-like ribbons of eggs are sometimes
 seen on many shores.  
   
-**Features:** Diameter 8-1cm. Frilly
+## Features
+ Diameter 8-1cm. Frilly
 ribbon of eggs embedded in mucus, laid in a spiral on hard surfaces
 or among seaweeds and seagrasses. Usually white or beige.
 
@@ -77,13 +85,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: with fascinating facts and
-  photos [all
-  about eggs](http://www.seaslugforum.net/general.cfm#life_history,_reproduction,_mating_and_eggs): how they're formed, coiling, what eats them and
-  more.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

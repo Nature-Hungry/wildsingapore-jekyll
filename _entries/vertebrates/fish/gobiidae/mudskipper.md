@@ -69,6 +69,47 @@ page_images:
   caption: |
     <p><a href="variabilis.htm">Dusky-gilled mudskipper</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
+links_references: |
+  **Links**  
+  - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Gobies,
+    mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [The
+    Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
+    with lots of photos.
+  - [Invasion
+    of the singing mudskippers](http://wildshores.blogspot.com/2009/02/invasion-of-singing-mudskippers.html) on the wild shores of singapore
+    blog.
+  **References**
+  - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009. [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of *Periophthalmus novemradiatus*](http://www.bioone.org/doi/abs/10.2108/zsj.26.309). Zoological Science 26(4):309-314.
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
+  - Mastaller,
+    Michael, 1997. *Mangroves:
+    The Forgotten Forest Between Land and Sea*. Tropical Press,
+    Malaysia, 200 pp.
+  - Field, Colin,
+    1995. *Journey
+    among Mangroves*. International Society for Mangrove Ecosystems,
+    139 pp.
+  - Stafford-Deitsch,
+    Jeremy, 1996. *Mangrove: The Forgotten Habitat*. Immel Publishing,
+    London. 277 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 if you
@@ -88,7 +129,8 @@ shores and near reefs.
 for frogs or snakes, mudskippers are actually fish that breathe with
 gills. Mudskippers belong to the [Family Gobiidae](gobiidae.htm) and include these four genera *Boleophthalmus, Periophthalmus, Periophthalmadon* and *Scartelaos*.  
   
-**Features:** Those seen about 6-12cm,
+## Features
+ Those seen about 6-12cm,
 some species can be much larger or smaller. Mudskippers are well adapted
 to the intertidal area. Being able to stay of water for a while gives
 mudskippers an advantage over 'normal' fishes. During low tide, they
@@ -177,49 +219,7 @@ mudskipper)
 
 ---
 
-**Links**  
 
-- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106.htm)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Gobies,
-  mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [The
-  Mudskipper website](http://www.mudskipper.it/Intro.html) by Gianluca Polgar: Technical fact sheets
-  with lots of photos.
-- [Invasion
-  of the singing mudskippers](http://wildshores.blogspot.com/2009/02/invasion-of-singing-mudskippers.html) on the wild shores of singapore
-  blog.
-
-**References**
-
-- Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009. [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of *Periophthalmus novemradiatus*](http://www.bioone.org/doi/abs/10.2108/zsj.26.309). Zoological Science 26(4):309-314.
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-- Mastaller,
-  Michael, 1997. *Mangroves:
-  The Forgotten Forest Between Land and Sea*. Tropical Press,
-  Malaysia, 200 pp.
-- Field, Colin,
-  1995. *Journey
-  among Mangroves*. International Society for Mangrove Ecosystems,
-  139 pp.
-- Stafford-Deitsch,
-  Jeremy, 1996. *Mangrove: The Forgotten Habitat*. Immel Publishing,
-  London. 277 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

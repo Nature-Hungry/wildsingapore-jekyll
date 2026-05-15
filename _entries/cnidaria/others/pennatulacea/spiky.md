@@ -85,6 +85,12 @@ page_images:
   caption: |
     <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519796667/in/album-72157625976409015/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
+links_references: |
+  **Links**
+  - [*Pteroeides*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pteroeides)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
 ---
 
 ## Where seen?
@@ -93,7 +99,8 @@ shores. In soft silty sand and near seagrasses. The colony does not
 harbour symbiotic algae (zooxanthellae) and can thus thrive in murky
 water.  
   
-**Features:** Those seen on our shores
+## Features
+ Those seen on our shores
 are about 15-20cm long (but some species of *Pteroides* are said
 to grow to 60cm long!). According to [Reef
 Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) globally, there are about 17 species
@@ -174,12 +181,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [*Pteroeides*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pteroeides)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
 
 **eferences**
 

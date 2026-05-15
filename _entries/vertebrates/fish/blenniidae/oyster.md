@@ -31,7 +31,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oys
 ## Where seen?
  This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
   
-**Features:** About 5cm. Body elongated flattened sideways, head rounded. Fine white lines along the body length.
+## Features
+ About 5cm. Body elongated flattened sideways, head rounded. Fine white lines along the body length.
  
 
 ---

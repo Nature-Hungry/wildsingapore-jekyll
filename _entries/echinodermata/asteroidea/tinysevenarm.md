@@ -94,13 +94,24 @@ page_images:
   caption: |
     <p>Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158178671566295&set=a.10158178663866295">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
+links_references: |
+  **Links**
+  - [*Aquilonastra anomala*](https://www.sealifebase.ca/summary/Aquilonastra-anomalal) on SeaLife Base: Technical fact sheet
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
  This
 tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.  
   
-**Features:** Diameter about 2cm. Usually 7 arms, short, often unequal in length. Upperside mottled colours. Underside white without any markings.
+## Features
+ Diameter about 2cm. Usually 7 arms, short, often unequal in length. Upperside mottled colours. Underside white without any markings.
 
  
 
@@ -143,16 +154,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Aquilonastra anomala*](https://www.sealifebase.ca/summary/Aquilonastra-anomalal) on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

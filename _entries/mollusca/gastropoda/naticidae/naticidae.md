@@ -160,6 +160,62 @@ page_images:
   caption: |
     <p><a href="sinum.htm">Naked moon snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+links_references: |
+  **Links**
+  - [Moon
+    Snail (*Polinices* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.htm) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Moon
+    snails](http://www.seaslugforum.net/naticid.htm) on the Sea Slug Forum by Dr Bill Rudman: brief fact
+    sheet with lovely photo of a colourful moon snail.
+  - [Family
+    Naticidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Naticidae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on moon snails with photos.
+  - [Family
+    Naticidae (Sand or Moon Snails)](http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro.htm) on the [The
+    Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) website by Des Beechey Research
+    Associate, Australian Museum: family introductions with photos
+    of shells and detailed fact sheets for many species.
+  - Family Naticidae
+    in the Gastropods section by J.M. Poutiers in the FAO Species
+    Identification Guide for Fishery Purposes: The Living Marine Resources
+    of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Coleman,
+    Neville. 2003. *2002
+    Sea Shells: Catalogue of Indo-Pacific Mollusca*.
+    Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 if you
@@ -187,7 +243,8 @@ a horn-like material (usually yellowish) with several whorls. The
 Naked moon snails of the Genus *Sinum* have thin shells and very
 large bodies which cannot be retracted fully into the shell.  
   
-**Features:** About 2cm. When a moon
+## Features
+ About 2cm. When a moon
 snail is fully extended out of its shell, it has an amazingly large
 body compared to its shell. It achieves this by inflating its tissues
 with seawater.
@@ -322,64 +379,7 @@ moon snail) *^Tanea euzona=Natica euzona* *^[Tanea lineata](lineata.htm)=Natica 
 
 ---
 
-**Links**
 
-- [Moon
-  Snail (*Polinices* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.htm) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Moon
-  snails](http://www.seaslugforum.net/naticid.htm) on the Sea Slug Forum by Dr Bill Rudman: brief fact
-  sheet with lovely photo of a colourful moon snail.
-- [Family
-  Naticidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Naticidae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on moon snails with photos.
-- [Family
-  Naticidae (Sand or Moon Snails)](http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro.htm) on the [The
-  Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) website by Des Beechey Research
-  Associate, Australian Museum: family introductions with photos
-  of shells and detailed fact sheets for many species.
-- Family Naticidae
-  in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources
-  of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Coleman,
-  Neville. 2003. *2002
-  Sea Shells: Catalogue of Indo-Pacific Mollusca*.
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

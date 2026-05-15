@@ -48,13 +48,25 @@ page_images:
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg
+links_references: |
+  **Links**
+  - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
+    on SeaLife Base: technical fact sheet.
+  - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This elegant branching sponge is often seen on our Northern shores,
 growing on hard surfaces, including pipes, jetty legs, abandoned drums.
-Usually near the mid-water mark. **Features:** The sponge
+Usually near the mid-water mark. ## Features
+ The sponge
 looks like thin roots that spread out over a hard surface. Branches
 thin (about 2cm wide) tapering to points. Some have recessed holes
 along the length, others have spikes, knobs with large holes or short
@@ -98,19 +110,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
-  on SeaLife Base: technical fact sheet.
-- [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

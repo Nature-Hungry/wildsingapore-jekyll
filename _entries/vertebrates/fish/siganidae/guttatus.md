@@ -46,6 +46,23 @@ page_images:
   caption: |
     <p>Kusu Island, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928723993660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+links_references: |
+  **Links**  
+  - [Orange-spotted
+    rabbitfish (*Siganus guttatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine Fishes of South-East Asia: A Field Guide for Anglers
+    and Divers*. Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -57,7 +74,8 @@ in seagrass beds near river mouths while adults leave and enter rivers
 with the tides. Adults travel in groups of 10-15. Unlike other rabbitfishes,
 this species is said to be active at night.  
   
-**Features:** To about 40cm, those
+## Features
+ To about 40cm, those
 seen about 15-20cm. It is named
 for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
@@ -106,25 +124,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Orange-spotted
-  rabbitfish (*Siganus guttatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine Fishes of South-East Asia: A Field Guide for Anglers
-  and Divers*. Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

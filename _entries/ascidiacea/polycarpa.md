@@ -39,6 +39,20 @@ page_images:
   caption: |
     <p>Lazarus Island, Jan 24Photo shared by Lam Jiajun on <a href="https://www.facebook.com/photo/?fbid=10231235123212067&set=a.10231235161293019">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
+links_references: |
+  **Links**
+  - [Sea
+    Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -48,7 +62,8 @@ animal is usually stuck to a large boulder, jetty pillings and other
 hard surfaces, near the mid-water mark. Usually seen alone or in groups
 of a few individuals.  
   
-**Features:** 3-5cm long, made up of two 'fingers', one shorter and
+## Features
+ 3-5cm long, made up of two 'fingers', one shorter and
 at right angles to the longer larger 'finger'. Usually white with
 orange or red irregular broad stripes. It is a solitary (not colonial)
 ascidian. It appears sad and flaccid when exposed out of water, but
@@ -99,22 +114,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Sea
-  Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../links)
 | [references](../references)

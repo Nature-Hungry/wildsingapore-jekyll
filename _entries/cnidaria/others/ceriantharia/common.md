@@ -80,7 +80,8 @@ shores, sometimes in large numbers and often in a variety of colours
 and patterns. On silty sand as well as among seagrasses and sometimes
 near coral rubble.  
   
-**Features:** 10-15cm in diameter.
+## Features
+ 10-15cm in diameter.
 The long tentacles are rather fat and taper to a slender tip. The ring
 of shorter inner tentacles are sometimes different in colour from
 the long tentacles. Some are plain, others have variegated long tentacles.

@@ -33,11 +33,23 @@ page_images:
   caption: |
     <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
+links_references: |
+  **Links**
+  - [*Biemna*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2661)
+    on SeaLife Base: technical fact sheets.
+  - [*Biemna*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131897)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  Like a potato with eyes, this buried sponge is found on some of our
-shores near reefs. **Features:** Spherical, oval or irregular lumpy, 10-30cm,
+shores near reefs. ## Features
+ Spherical, oval or irregular lumpy, 10-30cm,
 usually buried with only chimneys sticking out of the surface. Chimneys
 about 1cm in diameter, 1-2cm tall. The surface is uneven and very
 hairy which traps sediments and sand, camouflaging the sponge. Colour
@@ -74,19 +86,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Biemna*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2661)
-  on SeaLife Base: technical fact sheets.
-- [*Biemna*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131897)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

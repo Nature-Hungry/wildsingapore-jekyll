@@ -67,7 +67,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/ascidianbeige/
  This small flatworm is sometimes seen on [Beige
 sheet asicidians](../../ascidiacea/beige) that are growing under rocks. So far, only seen on our Northern shores.  
   
-**Features:** 1-3cm long. Body
+## Features
+ 1-3cm long. Body
 pale beige with irregular dark markings, irregular dark stripe along the middle. Body margin with irregular dark bars perpendicular to the margin and a fine narrow orange line cutting across the dark bars near the body edge. Has a pair of pseudotentacles made up for simple folds of the body edge.  
   
 **What does it eat?**  When one flatworm was removed, there was a circular

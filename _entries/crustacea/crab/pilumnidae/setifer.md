@@ -54,6 +54,25 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/budak/8911338681/ "Actumnus setifer clip 7 rubble-carrying hairy crab video") Video clip shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+links_references: |
+  **Links**
+  - [*Actumnus
+    setifer*](http://www.sealifebase.ca/summary/Actumnus-setiferl) on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  - [*Actumnus
+    setifer*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1406&tab=beschrijving) on Crabs of Japan on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Johnson,
+    P.R., Davie, P.J.F., Neil, D.T. & Fellegara, I. [Excavation,
+    habitation and transportation of massive corals by the crab *Actumnus
+    setifer* (Crustacea: Brachyura: Pilumnidae) in Moreton Bay,
+    Queensland](http://www.qm.qld.gov.au/%7E/media/Documents/QM/About%20Us/Publications/Memoirs%20-%20Nature/N54-1/n-54-1-johnson-et-al.pdf). Memoirs of the Queensland Museum 54 (1)
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
 ---
 
 ## Where seen?
@@ -64,7 +83,8 @@ seen to carry live and dead corals weighing up to 1kg! The crab has
 also been observed to excavate holes in fixed and immobile live or
 dead corals, soft stones or sponges.  
   
-**Features:** Body width 2-3cm. Body
+## Features
+ Body width 2-3cm. Body
 oval, body and legs covered with velvety hairs, but is not as hairy
 as the [Common hairy crab](pilumnus). It has stout
 pincers, one larger than the other, both covered in bead-like bumps.  
@@ -113,27 +133,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Actumnus
-  setifer*](http://www.sealifebase.ca/summary/Actumnus-setiferl) on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-- [*Actumnus
-  setifer*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1406&tab=beschrijving) on Crabs of Japan on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Johnson,
-  P.R., Davie, P.J.F., Neil, D.T. & Fellegara, I. [Excavation,
-  habitation and transportation of massive corals by the crab *Actumnus
-  setifer* (Crustacea: Brachyura: Pilumnidae) in Moreton Bay,
-  Queensland](http://www.qm.qld.gov.au/%7E/media/Documents/QM/About%20Us/Publications/Memoirs%20-%20Nature/N54-1/n-54-1-johnson-et-al.pdf). Memoirs of the Queensland Museum 54 (1)
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -75,7 +75,8 @@ from tropical America, the tree has been introduced to many other
 parts of the world. Corners considers it common in "all villages
 throughout Malaya".  
   
- **Features:** A tree with a single
+ ## Features
+ A tree with a single
 soft woody stem. The leaf is hand-shaped with 7-11 lobes and is large
 (50-60cm) on very long stalks appearing in a spiral around the single
 stem. Flowers white and according to Corners 'very fragrant', blooming

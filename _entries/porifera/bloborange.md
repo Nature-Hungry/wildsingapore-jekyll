@@ -62,11 +62,23 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg
+links_references: |
+  **Links**
+  - [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
+    on SeaLife Base: technical fact sheets.
+  - [*Mycale*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131907)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This bright orange sponge is sometimes seen on coral rubble on some
-of our shores.  **Features:** 8-10cm
+of our shores.  ## Features
+ 8-10cm
 in diameter. The sponge starts inside a crevice but can eventually
 grow into a dome-shaped or oval shape with a smooth surface, sometimes
 with small holes (0.5cm). In some, the holes are occupied by [tiny
@@ -117,19 +129,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
-  on SeaLife Base: technical fact sheets.
-- [*Mycale*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131907)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

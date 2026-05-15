@@ -47,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/orna
  This small oval slug with an ornate texture is sometimes
 seen in mangroves in the North.  
   
-**Features:** 3-5cm. Body hard, oval,
+## Features
+ 3-5cm. Body hard, oval,
 rounded. Skin with regular pattern of bumps with blunt spikes on them,
 resulting in a very ornate texture! Colour plain, beige or greyish.
 Eyes on long thin stalks. Underside and narrow foot are pale to lemon

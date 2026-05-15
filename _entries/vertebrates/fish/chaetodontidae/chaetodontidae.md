@@ -62,6 +62,70 @@ page_images:
   caption: |
     <p><a href="octofasciatus.htm">Eightband butterflyfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - Tan, Leo
+    W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Butterflyfishes](http://ikanfish.wordpress.com/butterflyfishes/)
+    on Reef Fishes of Singapore by Jeffrey Low.
+  - [Family
+    Chaetodontidae (Butterflyfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=343) and [*Chaetodon
+    lineolatus* (Lined butterflyfish)](http://www.fishbase.org/summary/5564) and [*Chaetodon
+    octofasciatus* (Eightband butterflyfish)](http://www.fishbase.org/summary/5570) and [*Chaetodon
+    triangulum* (Triangle butterflyfish)](http://www.fishbase.org/summary/7805) and [*Chaetodon
+    trifasciatus* (Melon butterflyfish)](http://www.fishbase.org/summary/5579) and [*Chaetodon
+    unimaculatus* (Teardrop butterflyfish)](http://www.fishbase.org/summary/5581) and [*Chaetodon
+    vagabundus* (Vagabond butterflyfish)](http://www.fishbase.org/summary/5582) and [*Chelmon
+    rostratus* (Copperband butterflyfish)](http://www.fishbase.org/summary/5483) and [*Parachaetodon
+    ocellatus* (Sixspine butterflyfish)](http://www.fishbase.org/summary/7887) and [*Coradion
+    chrysozonus* (Goldengirdled coralfish)](http://www.fishbase.org/summary/5583) and [*Heniochus
+    acuminatus* (Pennant coralfish)](http://www.fishbase.org/summary/5588) and [*Heniochus
+    singularius* (Singular bannerfish)](http://www.fishbase.org/summary/5591) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  - [Volume
+    5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  - [Butterflyfishes
+    and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html) on the wild shores of singapore blog, 30
+    Sep 2009.
+  - [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)
+    on the Compressed Air Junkie blog, 25 Aug 2011.
+  **References**
+  - Toh Chay Hoon, 31 October 2019. *Klein’s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*. Singapore Biodiversity Records 2019: 143 ISSN 2345-7597, National University of Singapore.
+  - Jeffrey K. Y. Low. *A Singapore record of the raccoon butterflyfish, Chaetodon lunula*. 21 December 2018. Singapore Biodiversity Records 2018: 135 ISSN 2345-7597. National University of Singapore.
+  - Daisuke Taira. 31 May 2017. *New record of the masked bannerfish, Heniochus monoceros, in Singapore*. Singapore Biodiversity Records 2017: 60-61.
+  - Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015. *Blue-striped angelfish and longfin bannerfish from Singapore*. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597.
+  - Tan Heok Hui & Kelvin K. P. Lim. 18 July 014. *Confirmed occurrence of the collare butterflyfish in Singapore, Chaetodon collare*. Singapore Biodiversity Records 2014: 190
+  - Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
+  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -87,7 +151,8 @@ oceans, generally near coral reefs. They are closely related to angelfishes
 (Family Pomacanthidae) which used to be included in the butterflyfish
 family.  
   
-**Features:** Butterfly fish adults
+## Features
+ Butterfly fish adults
 grow to about 20cm, but smaller juveniles (5-10cm) are more commonly
 seen during low tide. Body flat, disk-shaped so that it almost disappears
 when seen from above or head on. Being very flat, the butterflyfish
@@ -181,72 +246,7 @@ Pomacanthidae](../pomacanthidae/pomacanthidae.htm)
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- Tan, Leo
-  W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Butterflyfishes](http://ikanfish.wordpress.com/butterflyfishes/)
-  on Reef Fishes of Singapore by Jeffrey Low.
-- [Family
-  Chaetodontidae (Butterflyfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=343) and [*Chaetodon
-  lineolatus* (Lined butterflyfish)](http://www.fishbase.org/summary/5564) and [*Chaetodon
-  octofasciatus* (Eightband butterflyfish)](http://www.fishbase.org/summary/5570) and [*Chaetodon
-  triangulum* (Triangle butterflyfish)](http://www.fishbase.org/summary/7805) and [*Chaetodon
-  trifasciatus* (Melon butterflyfish)](http://www.fishbase.org/summary/5579) and [*Chaetodon
-  unimaculatus* (Teardrop butterflyfish)](http://www.fishbase.org/summary/5581) and [*Chaetodon
-  vagabundus* (Vagabond butterflyfish)](http://www.fishbase.org/summary/5582) and [*Chelmon
-  rostratus* (Copperband butterflyfish)](http://www.fishbase.org/summary/5483) and [*Parachaetodon
-  ocellatus* (Sixspine butterflyfish)](http://www.fishbase.org/summary/7887) and [*Coradion
-  chrysozonus* (Goldengirdled coralfish)](http://www.fishbase.org/summary/5583) and [*Heniochus
-  acuminatus* (Pennant coralfish)](http://www.fishbase.org/summary/5588) and [*Heniochus
-  singularius* (Singular bannerfish)](http://www.fishbase.org/summary/5591) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-- [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-- [Butterflyfishes
-  and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html) on the wild shores of singapore blog, 30
-  Sep 2009.
-- [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)
-  on the Compressed Air Junkie blog, 25 Aug 2011.
-
-**References**
-
-- Toh Chay Hoon, 31 October 2019. *Klein’s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*. Singapore Biodiversity Records 2019: 143 ISSN 2345-7597, National University of Singapore.
-- Jeffrey K. Y. Low. *A Singapore record of the raccoon butterflyfish, Chaetodon lunula*. 21 December 2018. Singapore Biodiversity Records 2018: 135 ISSN 2345-7597. National University of Singapore.
-- Daisuke Taira. 31 May 2017. *New record of the masked bannerfish, Heniochus monoceros, in Singapore*. Singapore Biodiversity Records 2017: 60-61.
-- Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015. *Blue-striped angelfish and longfin bannerfish from Singapore*. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597.
-- Tan Heok Hui & Kelvin K. P. Lim. 18 July 014. *Confirmed occurrence of the collare butterflyfish in Singapore, Chaetodon collare*. Singapore Biodiversity Records 2014: 190
-- Jeffrey K. Y. Low. 2013. *More noteworthy fishes observed in the Singapore Straits*. Nature in Singapore, 6: 31–37.
-- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

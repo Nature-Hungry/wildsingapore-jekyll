@@ -136,6 +136,31 @@ page_images:
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Soft
+    corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Soft
+    corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html) on the CRC Reef Centre website:
+    preliminary findings of a study on the role of soft corals in
+    offshore and inshore reefs, and some info on their applications
+    in human medicine.
+  - [Painkillers
+    from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html) on the wild shores of singapore blog.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    3rd edition. National Parks Board. 258 pp.
+  - Y. Benayahu
+    and L. M. Chou, 28 Feb 2010. *On
+    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+    with a description of a new Cladiella species*. The Raffles
+    Bulletin of Zoology 58(1) Pp. 1-13.
+  - Borneman,
+    Eric H. 2001. *Aquarium
 ---
 
 if you
@@ -162,7 +187,8 @@ Within this Subclass, the Order Alcyonacea includes [flowery
 soft corals](nephtheidae.htm) (Family Nephtheidae) as well as [leathery
 soft corals](alcyoniidae.htm) (Family Alcyoniidae).  
   
-**Features:** Soft corals are colonies
+## Features
+ Soft corals are colonies
 of tiny, individual polyps linked to one another. Soft corals can
 look like branching bushes or trees. They may also be flatter and
 look like mushrooms. When exposed at low tide, they often flop over
@@ -331,33 +357,7 @@ cnidarians](../cnidaria.htm)
 
 ---
 
-**Links**
 
-- [Soft
-  corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Soft
-  corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html) on the CRC Reef Centre website:
-  preliminary findings of a study on the role of soft corals in
-  offshore and inshore reefs, and some info on their applications
-  in human medicine.
-- [Painkillers
-  from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html) on the wild shores of singapore blog.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  3rd edition. National Parks Board. 258 pp.
-- Y. Benayahu
-  and L. M. Chou, 28 Feb 2010. *On
-  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-  with a description of a new Cladiella species*. The Raffles
-  Bulletin of Zoology 58(1) Pp. 1-13.
-- Borneman,
-  Eric H. 2001. *Aquarium
 
 [links](../../links.htm)
 | [references](../../references.htm)

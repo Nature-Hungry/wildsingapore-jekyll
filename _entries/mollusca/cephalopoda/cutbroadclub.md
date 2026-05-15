@@ -89,7 +89,8 @@ among the most common cuttlefishes in reefs to 30m deep, and also
 among the largest of cuttlefishes. On the intertidal, smaller juveniles
 may be seen. Larger adults found in deeper water among reefs.  
   
-**Features:** 4-6cm long, elsewhere
+## Features
+ 4-6cm long, elsewhere
 can grow to 50cm long and weigh 10kgs! Distinguished by a yellow ring
 around lower edge of the eye. Squat oval body with short tapered arms.
 Narrow transparent fins all around the body. There is a pattern of

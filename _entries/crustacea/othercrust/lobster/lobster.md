@@ -51,7 +51,8 @@ more commonly found on our shores include the [mud
 lobsters](thalassina) and [ghost shrimps](glypturus) and [mud
 shrimps](upogebiidae).   
   
-**Features:** Like shrimps, lobsters
+## Features
+ Like shrimps, lobsters
 and lobster-like crustaceans have a long body and broad tail, and long
 antennae. Lobsters have heavy shells, unlike the light flexible exoskeletons
 of shrimps. Lobsters and lobster-like crustacea have heavier legs

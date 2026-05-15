@@ -61,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prp
 mobile snot, this small flatworm is sometimes seen on soft silty shores
 as well as sandy areas near reefs, sometimes in large numbers.  
   
-**Features:** 1.5-4cm. Semi-translucent,
+## Features
+ 1.5-4cm. Semi-translucent,
 pale shades matching the surrounding sand or silt, often with tiny
 speckles. It moves very rapidly, oozing through little holes in the
 ground. In some a pair of tiny tentacles can be seen. Some were seen

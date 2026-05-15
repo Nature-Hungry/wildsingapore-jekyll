@@ -43,6 +43,24 @@ page_images:
   caption: |
     <p>Mandai, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
+links_references: |
+  **Links**
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - *[Pyrrosia piloselloides](https://singapore.biodiversity.online/taxo4254/mainSpace/Pyrrosia%20piloselloidesl)* (Polypodiales: Polypodiaceae) by Lee Saeyun, 2016, on taxo4254.
+  **References**
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Wee Yeow
+    Chin. 1983. *Ferns of Singapore*. The Singapore Science Centre.
+    72pp.
 ---
 
 ## Where seen?
@@ -58,7 +76,8 @@ in the lowlands of Southeast Asia and found up to 1,000m in altitude.
 It is found from Northeastern India, throughout Southeast Asia to
 Papua New Guinea and northern Australia.   
   
- **Features:** A fern with small round
+ ## Features
+ A fern with small round
 fleshy glossy fronds (about 1cm across) without stalks. Sometimes
 also more oval in shape. These are the sterile fronds. The fronds
 bearing spores (fertile leaves) are long and narrow (3-15cm long)
@@ -100,26 +119,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- *[Pyrrosia piloselloides](https://singapore.biodiversity.online/taxo4254/mainSpace/Pyrrosia%20piloselloidesl)* (Polypodiales: Polypodiaceae) by Lee Saeyun, 2016, on taxo4254.
-
-**References**
-
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1983. *Ferns of Singapore*. The Singapore Science Centre.
-  72pp.
 
 [links](../../../links)
 | [references](../../../references)

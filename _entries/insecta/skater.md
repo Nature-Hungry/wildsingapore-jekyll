@@ -31,6 +31,13 @@ page_images:
   caption: |
     <p>Pulau Semakau (South), Jan 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157797305946310&set=a.10157797258656310&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
+links_references: |
+   **Links**
+  - [Sea
+    Skater *Halovelia*](http://mangrove.nus.edu.sg/pub/seashore/text/172.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -40,7 +47,8 @@ Hemiptera (true bugs) and are among the few true insects that live
 in the sea. Most species live along the coast but a few species live
 totally out in the open ocean, not coming to shore.   
   
-**Features:** Body less than 1cm long.
+## Features
+ Body less than 1cm long.
 The insect is covered with elaborate layers of microscopic hairs that
 traps air. Thus if the insect is splashed or dunked in water, it has
 a kind of 'life vest' of air so it bobs up to the water surface unharmed.
@@ -81,13 +89,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowledgement**  
 Grateful thanks to Tay Ywee Chieh and Lanna Cheng for identifying some of the sea skaters seen.
- **Links**
-
-- [Sea
-  Skater *Halovelia*](http://mangrove.nus.edu.sg/pub/seashore/text/172.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
 
 [links](../links.htm)
 | [references](../references.htm)

@@ -81,6 +81,21 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234249486295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+links_references: |
+  **Links**  
+  - [Painted
+    scorpionfish (*Parascorpaena picta*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [Northern
+    scorpionfish (*Parascorpaena picta*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8296) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including a fact sheet on
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -88,7 +103,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/p
 is sometimes seen, especially on our southern shores, on coral rubble
 areas near reefs and/or seagrass meadows.  
   
- **Features:** About 10cm long, to
+ ## Features
+ About 10cm long, to
 17cm. A huge head, particularly obvious in a fish with a slender body (didn't eat much recently?). Large bulbous eyes that protrude out of the head. Wide mouth on a large
 head. Dorsal fin starts well behind the eyes. There are skin flaps
 and tentacles on the head and body. The dorsal fin has 12 spines.   
@@ -146,23 +162,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Painted
-  scorpionfish (*Parascorpaena picta*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [Northern
-  scorpionfish (*Parascorpaena picta*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8296) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including a fact sheet on
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

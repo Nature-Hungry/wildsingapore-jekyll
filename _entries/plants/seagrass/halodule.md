@@ -61,6 +61,36 @@ page_images:
   caption: |-
     <p>Skinny Halodule.</p>
     <p>Cyrene Reefs, Aug 11</p>
+links_references: |
+  **Links**  
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  - [Fruits
+    of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32l) on the CRC Reef Research
+    Centre website: brief introduction to the ways seagrasses reproduce
+    and re-establish themselves if affected by natural disturbances,
+    and how *Halodule uninervis* 'stores' its seeds in the sediments.
+  **References**
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -86,7 +116,8 @@ grows well in areas with high disturbance and plays a key role in
 stabilising the sediments with its mat of rhizomes and fibrous roots.
   
   
-**Features:**Needle seagrass
+## Features
+Needle seagrass
 is common on all our shores, especially on the edges of the sand bars
 towards the low water mark. The leaves may be short to very long.
 The leaves have three parallel veins which can be quite distinct.
@@ -154,38 +185,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**  
 
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-- [Fruits
-  of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32l) on the CRC Reef Research
-  Centre website: brief introduction to the ways seagrasses reproduce
-  and re-establish themselves if affected by natural disturbances,
-  and how *Halodule uninervis* 'stores' its seeds in the sediments.
-
-**References**
-
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

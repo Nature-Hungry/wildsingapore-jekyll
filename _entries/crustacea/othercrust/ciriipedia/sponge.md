@@ -46,12 +46,21 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/budak/7812367154 "Sponge commensals")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+links_references: |
+  **Links**
+  - *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostruml)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  The tiny feathery feet of this barnacle is sometimes seen in Chocolate sponges.  
   
-**Features:** Feet 0.5cm long extended out of holes in the sponge, transparent with tiny white spots.
+## Features
+ Feet 0.5cm long extended out of holes in the sponge, transparent with tiny white spots.
 Shell embedded in the sponge and not visible.
 
  
@@ -94,17 +103,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostruml)* on SeaLife Base: Technical fact sheet.
-
-**References**
-  
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../../../links)
 | [references](../../../references)

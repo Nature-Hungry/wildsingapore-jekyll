@@ -42,11 +42,23 @@ page_images:
   caption: |
     <p>Tuas, Nov 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
+links_references: |
+  **Links**
+  - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
+    on SeaLife Base: technical fact sheet.
+  - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This green sponge is commonly seen on our Northern shores, growing
-on coral rubble. **Features:** 10-15cm.
+on coral rubble. ## Features
+ 10-15cm.
 The sponge is encrusting with knobs with large holes at the tips.
 In some, the knobs can be rather tall so they are tubular, and are
 close to one another. In others, the knobs are low and spaced far
@@ -84,19 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
-  on SeaLife Base: technical fact sheet.
-- [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

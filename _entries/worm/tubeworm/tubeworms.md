@@ -55,6 +55,55 @@ page_images:
   caption: |
     <p><a href="../polychaeta/diopatra">Solitary tubeworm</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+links_references: |
+  **Links**  
+  - [Segmented
+    worms including tube worms](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Tube
+    worms](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Tube-dwellers](http://rmbr.nus.edu.sg/polychaete/tubel)
+    on the [A Guide To
+    Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping, the National University
+    of Singapore on the Acoustic Research Laboratory website: fact
+    sheets and photos of tubeworms found in Singapore.
+  - [Worms](http://www.mesa.edu.au/friends/seashores/wormsl)
+    on [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: an introduction to worms (annelids,
+    sipunculids) with explanations of the major parts of their bodies
+    and their lifestyles. Check out the animation of a [predatory
+    annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feedsl).
+  - [Marine
+    Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) on the City University
+    of Hong Kong website: about polychaetes and tubeworms, with fact
+    sheets and photos on lots of species.
+  - [Tubeworm
+    superglue developed for human uses](http://wildshores.blogspot.com/2008/11/tubeworm-superglue-developed-for-humanl) on the wild shores of singapore
+    blog.
+  **References**
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Jones, R.E.
+    (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
+    Australian Biological Resources Study, Canberra. 465pp.
 ---
 
 if you
@@ -196,56 +245,4 @@ Sabellidae**](../polychaeta/sabellidae) (fanworms)
 **Acknowledgement**  
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on and identifying
-some of these tubeworms.  
-  
-**Links**  
-
-- [Segmented
-  worms including tube worms](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Tube
-  worms](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Tube-dwellers](http://rmbr.nus.edu.sg/polychaete/tubel)
-  on the [A Guide To
-  Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping, the National University
-  of Singapore on the Acoustic Research Laboratory website: fact
-  sheets and photos of tubeworms found in Singapore.
-- [Worms](http://www.mesa.edu.au/friends/seashores/wormsl)
-  on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: an introduction to worms (annelids,
-  sipunculids) with explanations of the major parts of their bodies
-  and their lifestyles. Check out the animation of a [predatory
-  annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feedsl).
-- [Marine
-  Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) on the City University
-  of Hong Kong website: about polychaetes and tubeworms, with fact
-  sheets and photos on lots of species.
-- [Tubeworm
-  superglue developed for human uses](http://wildshores.blogspot.com/2008/11/tubeworm-superglue-developed-for-humanl) on the wild shores of singapore
-  blog.
-
-**References**
-
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Jones, R.E.
-  (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
-  Australian Biological Resources Study, Canberra. 465pp.
+some of these tubeworms.

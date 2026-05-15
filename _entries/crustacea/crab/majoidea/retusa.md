@@ -120,6 +120,36 @@ page_images:
   caption: |
     <p>Terumbu Raya, Jul 14Photo shared by Heng Pei Yan on <a href="https://www.flickr.com/photos/29889221@N00/15355479439/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+links_references: |
+  **Links**
+  - [Velcro
+    and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Camposcia
+    retusa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103017) on [SeaLifeBase](http://www.sealifebase.org/search.php)
+    by Palomares, M.L.D. and D. Pauly. Editors. 2009: fact sheets
+    on a vast range of marinelife.
+  - [Decorator
+    crab (*Camposcia retusa*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856) on Crabs of Japan in Marine
+    Species Identification Portal: Technical fact sheet
+  - [*Camposcia retusa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Camposcia%20retusal) (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 if you
@@ -135,7 +165,8 @@ tend to move slowly.
 encountered on our Northern shores, on coral rubble and seagrasse
 areas. But it requires a keen eye to spot!  
   
-**Features:** Body width 3-6cm. Body tear-drop shaped, without large spines on the
+## Features
+ Body width 3-6cm. Body tear-drop shaped, without large spines on the
 sides. Often all you can see are its tiny eyes on long curved eyestalks
 at the tip of its pointed head. Pincers short cylindrical, claws slender
 and curving.
@@ -227,38 +258,7 @@ Island, Dec 10
 
 ---
 
-**Links**
 
-- [Velcro
-  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Camposcia
-  retusa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103017) on [SeaLifeBase](http://www.sealifebase.org/search.php)
-  by Palomares, M.L.D. and D. Pauly. Editors. 2009: fact sheets
-  on a vast range of marinelife.
-- [Decorator
-  crab (*Camposcia retusa*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856) on Crabs of Japan in Marine
-  Species Identification Portal: Technical fact sheet
-- [*Camposcia retusa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Camposcia%20retusal) (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links)
 | [references](../../../references)

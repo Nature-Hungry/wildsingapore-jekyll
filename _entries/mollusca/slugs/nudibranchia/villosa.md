@@ -61,6 +61,21 @@ page_images:
   caption: |
     <p>Beting Bronok, Jul 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159959537844264&set=a.10159959530369264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
+    *[Thordisa
+    villosa](http://www.seaslugforum.net/find/thorvill)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
@@ -68,7 +83,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/vil
 shores among coral rubble and rocky shores. Sometimes covered in a
 thin layer of silt. It appears to be seasonally common.   
   
-**Features:** 4-8cm long. The upperside
+## Features
+ 4-8cm long. The upperside
 of the broad hard body looks like coral rubble in colour and texture.
 Body yellow with a characteristic pattern of dark brown patches around
 the mantle edge. It is covered with bumps and some of the larger tapering
@@ -113,23 +129,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-  *[Thordisa
-  villosa](http://www.seaslugforum.net/find/thorvill)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

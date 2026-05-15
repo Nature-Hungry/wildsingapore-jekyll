@@ -76,13 +76,39 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
+links_references: |
+  **Links**
+  - [Lilac
+    coral crab (*Trapezia cymodoce*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
+    on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet
+  **References**
+  - Astri Noorbaini Samsuri, Yuichi Preslie Kikuzawa, Daisuke Taira, Shu Qin Sam, Wan Ting Sim, Chin Soon Lionel Ng, Lutfi Afiq-Rosli, Teck Wei Delon Wee, Ngan Kee Ng, Tai Chong Toh, Loke Ming Chou. 27 March 2018. [The effectiveness of *Trapezia cymodoce* in defending its host coral *Pocillopora acuta* against corallivorous *Drupella*](https://link.springer.com/article/10.1007/s00227-018-3330-2). Marine Biology April 2018, 165:70
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
  This tiny red crab is sometimes seen in [Cauliflower
 corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.) on our Southern shores.  
   
-**Features:** Body width about 1cm,
+## Features
+ Body width about 1cm,
 body flat, claws large with pointed pincers usually dark at the tips.
 Usually red or dark orange. Often, more than one crab is seen in a
 single colony. They are hard to spot and photograph.  
@@ -140,33 +166,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Lilac
-  coral crab (*Trapezia cymodoce*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
-  on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet
-
-**References**
-
-- Astri Noorbaini Samsuri, Yuichi Preslie Kikuzawa, Daisuke Taira, Shu Qin Sam, Wan Ting Sim, Chin Soon Lionel Ng, Lutfi Afiq-Rosli, Teck Wei Delon Wee, Ngan Kee Ng, Tai Chong Toh, Loke Ming Chou. 27 March 2018. [The effectiveness of *Trapezia cymodoce* in defending its host coral *Pocillopora acuta* against corallivorous *Drupella*](https://link.springer.com/article/10.1007/s00227-018-3330-2). Marine Biology April 2018, 165:70
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

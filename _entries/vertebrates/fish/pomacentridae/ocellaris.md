@@ -171,6 +171,46 @@ page_images:
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695061069/in/album-72157624263311376/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+links_references: |
+  **Links**  
+  - [Clown
+    Anemonefish (*Amphiprion ocellaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337.htm) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Amphiprion ocellaris*](https://singapore.biodiversity.online/taxo4254/mainSpace/Amphiprion%20ocellaris.html) (Perciformes: Pomacentridae) False Clown Anemonefish by Joy Wong Shu Yee, 2016, on taxo4254.
+  - [Clown
+    Anemonefish (*Amphiprion ocellaris*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheet on
+  - [False-Clown
+    Anemonefish (*Amphiprion ocellaris*)](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris.htm) on the [Australian
+    Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
+    fact sheet with photos
+  - [*Amphiprion ocellaris*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=117) on the NParks Flora and Fauna website.
+  - On the wild
+    shores of singapore blog
+    - [Clown
+      anemonefishes need rainforests](http://wildshores.blogspot.sg/2008/08/clown-anemonefishes-need-rainforests.html)
+    - [Wiggly
+      'Nemos' help sea anemones oxygenate at night](http://wildshores.blogspot.sg/2013/02/wiggly-nemos-help-sea-anemones.html)
+  **References**
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Bond, Carl
+    E., 1996. *Biology
+    of Fishes*
+    2nd ed. Thomson Learning Inc., 750pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -191,7 +231,8 @@ or among the sea anemone tentacles. It is more active when the sea anemone
 is submerged. Look for it with the outgoing tide, when the water is
 clearer (than the incoming tide).  
   
-**Features:** 2-9cm. Red to reddish-brown
+## Features
+ 2-9cm. Red to reddish-brown
 with three broad white bars (the middle bar widening at the middle
 of the side of the body towards the head) and black bands on the edges
 of all the fins including the top of the dorsal fin.   
@@ -303,48 +344,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Clown
-  Anemonefish (*Amphiprion ocellaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337.htm) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Amphiprion ocellaris*](https://singapore.biodiversity.online/taxo4254/mainSpace/Amphiprion%20ocellaris.html) (Perciformes: Pomacentridae) False Clown Anemonefish by Joy Wong Shu Yee, 2016, on taxo4254.
-- [Clown
-  Anemonefish (*Amphiprion ocellaris*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheet on
-- [False-Clown
-  Anemonefish (*Amphiprion ocellaris*)](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris.htm) on the [Australian
-  Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
-  fact sheet with photos
-- [*Amphiprion ocellaris*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=117) on the NParks Flora and Fauna website.
-- On the wild
-  shores of singapore blog
-  - [Clown
-    anemonefishes need rainforests](http://wildshores.blogspot.sg/2008/08/clown-anemonefishes-need-rainforests.html)
-  - [Wiggly
-    'Nemos' help sea anemones oxygenate at night](http://wildshores.blogspot.sg/2013/02/wiggly-nemos-help-sea-anemones.html)
-
-**References**
-
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Bond, Carl
-  E., 1996. *Biology
-  of Fishes*
-  2nd ed. Thomson Learning Inc., 750pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

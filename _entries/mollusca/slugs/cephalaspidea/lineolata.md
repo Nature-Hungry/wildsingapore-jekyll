@@ -34,13 +34,21 @@ page_images:
   caption: |
     <p>Changi, Apr 18 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/posts/10213187763500925">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
+    various tailed slugs including [*Philinopsis
+    lineolata.*](http://www.seaslugforum.net/find/phillin)
+  - [*Philinopsis lineolata*](http://www.sealifebase.org/summary/Philinopsis-lineolata.html) on SeaLife Base.
 ---
 
 ## Where seen?
  This tine slug with fine lines is sometimes seen
 on both Northern and Southern shores near seagrasses. It was previously known as *Philinopsis lineolata*.  
   
-**Features:** 2-3cm. A long, cylindrical
+## Features
+ 2-3cm. A long, cylindrical
 body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. Body with fine dark and pale horizontal lines. Flaps on the front and back of the body with bright blue and white margins.
  
 
@@ -51,13 +59,6 @@ body that appears to be made up of two parts. A pair of 'tails', one a little lo
 
 ---
 
-**Links**
-
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
-  various tailed slugs including [*Philinopsis
-  lineolata.*](http://www.seaslugforum.net/find/phillin)
-- [*Philinopsis lineolata*](http://www.sealifebase.org/summary/Philinopsis-lineolata.html) on SeaLife Base.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

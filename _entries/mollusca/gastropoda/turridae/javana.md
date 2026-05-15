@@ -43,7 +43,8 @@ near seagrasses on our Northern shores. It is often seen ploughing through the s
 foot. The Family Turridae is among
 the largest of marine snails and members are often difficult to distinguish.  
   
-**Features:** 5-7cm. Shell thin, long conical
+## Features
+ 5-7cm. Shell thin, long conical
 with spiralling ridge of knobs. Front has a pointed tip through which the
 siphon sticks out. The shell is usually not encrusted, plain pale
 brown or beige. Operculum thin, flexible, made

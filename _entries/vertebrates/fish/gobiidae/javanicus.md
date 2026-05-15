@@ -35,13 +35,34 @@ page_images:
   caption: |
     <p>First dorsal fin with black blotch at the rear portion, black bar under the first dorsal fin.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+links_references: |
+  **Links**  
+  - [Javanese
+    fatnose goby (*Pseudogobius javanicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Javanese
+    fatnose goby (*Pseudogobius javanicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376.htm) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [*Pseudogobius
+    javanicus*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=11816) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
  This little snub-nosed goby is commonly seen in our mangroves. Elsewhere,
 adults are found in the sea, estuaries and rivers.  
   
-**Features:** To 6cm, those seen about
+## Features
+ To 6cm, those seen about
 3-4cm long. A rather elongated fish with a bulbous snout overhanging
 its upper lip. The overall body colour is greyish or greenish, somewhat
 tranparent and densely mottled in dark brown. There is a black bar
@@ -68,28 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Javanese
-  fatnose goby (*Pseudogobius javanicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2107.htm) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Javanese
-  fatnose goby (*Pseudogobius javanicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [*Pseudogobius
-  javanicus*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=11816) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

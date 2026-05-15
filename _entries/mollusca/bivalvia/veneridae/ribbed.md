@@ -76,6 +76,25 @@ page_images:
   caption: |
     <p>Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10155982554353576&set=a.10155982553933576&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+links_references: |
+  **Links**
+  - [*Gafrarium
+    tumidum* (Tumid venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86649) and [*Gafrarium
+    pectinatum* (Comb venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86648&genusname=Gafrarium&speciesname=pectinatum) from SeaLife Base: Technical fact
+    sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -84,7 +103,8 @@ seen on some of our Southern shores, usually alone on sandy areas
 in calm lagoons near seagrasses. Elsewhere,
 they are found on intertidal shores with coarse sand.  
   
-**Features:** 3-4cm in diameter. Shell
+## Features
+ 3-4cm in diameter. Shell
 circular with a straight portion on one side. The shell has thick
 'ribs' made of up large squarish beads. Usually plain white without
 any patterns, although there may be irregular blotches which seem
@@ -145,27 +165,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**  
 With grateful thanks to Andre Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/) on EOL's Life Desk for identifying this clam.  
   
-**Links**
 
-- [*Gafrarium
-  tumidum* (Tumid venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86649) and [*Gafrarium
-  pectinatum* (Comb venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86648&genusname=Gafrarium&speciesname=pectinatum) from SeaLife Base: Technical fact
-  sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

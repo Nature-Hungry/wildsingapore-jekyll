@@ -64,6 +64,36 @@ page_images:
   caption: |
     <p>Sentosa Tg Rimau, Aug 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161471030009264&set=a.10161471023299264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
+links_references: |
+  **Links**
+  - [Leaf
+    Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/pub/seashore/text/204) Tan, Leo W. H. & Ng,
+    Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Leaf
+    Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/guidebooks/text/2043) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 if you
@@ -79,7 +109,8 @@ below.
 sharp-eyed observer, especially on our Northern shores. To spot one,
 look for odd movement in a leaf or a shell, perhaps moving too quickly
 or against the currents. Often in mangroves, near seagrasses but also
-on shores near reefs, even under jetties in calm waters. **Features:** Body width to about 1.5cm. Named for its habit
+on shores near reefs, even under jetties in calm waters. ## Features
+ Body width to about 1.5cm. Named for its habit
 of carrying a leaf as a mobile hiding place, it may also "carry"
 a clam shell, a flat piece of wood or other bits of flotsam. Two pairs
 of legs are short and bent permanently over the back. These legs are
@@ -166,38 +197,7 @@ Neodorippe callida*
 
 ---
 
-**Links**
 
-- [Leaf
-  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/pub/seashore/text/204) Tan, Leo W. H. & Ng,
-  Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Leaf
-  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/guidebooks/text/2043) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links)
 | [references](../../../references)

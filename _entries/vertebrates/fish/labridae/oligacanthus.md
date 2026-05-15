@@ -32,6 +32,13 @@ page_images:
   caption: |
     <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484931383713&set=a.10159484959768713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+links_references: |
+   **Links**  
+  - [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.fishbase.org/summary/8406) on SeaLife Base: technical fact sheet.
+  - [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.iucnredlist.org/details/187568/0)
+    on the IUCN Red List.
+  **References**
+  - Marcus F. C. Ng. 31 Oct 2017. *Singapore tuskfish at Cyrene Reef* Singapore Biodiversity Records 2017: 147
 ---
 
 ## Where seen?
@@ -39,7 +46,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oliga
 they are usually seen in sand-rubble next to coastal reefs, usually in turbulent water with muddy substrates. It is also called the
 White-patch tuskfish.  
   
-**Features:** To 28cm. It has bluish stripes on the lower sides of its body and does NOT have a black spot on the middle of its dorsal fin. [SeaLife Base](http://www.fishbase.org/summary/8406) describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
+## Features
+ To 28cm. It has bluish stripes on the lower sides of its body and does NOT have a black spot on the middle of its dorsal fin. [SeaLife Base](http://www.fishbase.org/summary/8406) describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
  
 
 
@@ -47,15 +55,7 @@ White-patch tuskfish.
 
 ---
 
- **Links**  
 
-- [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.fishbase.org/summary/8406) on SeaLife Base: technical fact sheet.
-- [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.iucnredlist.org/details/187568/0)
-  on the IUCN Red List.
-
-**References**
-
-- Marcus F. C. Ng. 31 Oct 2017. *Singapore tuskfish at Cyrene Reef* Singapore Biodiversity Records 2017: 147
 
 [links](../../../links)
 | [references](../../../references)

@@ -70,6 +70,37 @@ page_images:
   caption: |
     <p>Cyrene Reef, Sep 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6134212323258754&set=a.6134217379924915">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
+links_references: |
+  **Links**
+  - [Waterspout
+    or watering pot shell (*Brechites penis*)](http://mangrove.nus.edu.sg/pub/seashore/text/163.htm) Tan, Leo W.
+    H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Waterspout
+    or Watering pot shell (*Brechites penis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=211) on the NParks
+    Flora and Fauna website.
+  - [Waterspout
+    shell (*Brechites penis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=139335&genusname=Brechites&speciesname=penis) on SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan, S. K.,
+    S. H. Tan & M. E. Y. Low, 2011. *A
+    reassessment of Verpa penis (Linnaeus, 1758) (Mollusca:
+    Bivalvia: Clavagelloidea), a species presumed nationally extinct*.
+    Nature in Singapore, 4: 5-8.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -77,7 +108,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae
 It is sometimes seen among seagrasses on our Northern shores. It was previously known as *Brechites
 penis*.  
   
-**Features:** About 12cm long.The
+## Features
+ About 12cm long.The
 broader end is perforated with tiny holes and this is usually buried
 in the ground with the narrow tip facing the surface. Siphons emerge
 from the narrow tip. The broader end resembles a watering can, hence its common name. There are two tiny
@@ -143,39 +175,7 @@ Presumed Nationally Extinct)
 
 ---
 
-**Links**
 
-- [Waterspout
-  or watering pot shell (*Brechites penis*)](http://mangrove.nus.edu.sg/pub/seashore/text/163.htm) Tan, Leo W.
-  H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Waterspout
-  or Watering pot shell (*Brechites penis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=211) on the NParks
-  Flora and Fauna website.
-- [Waterspout
-  shell (*Brechites penis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=139335&genusname=Brechites&speciesname=penis) on SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan, S. K.,
-  S. H. Tan & M. E. Y. Low, 2011. *A
-  reassessment of Verpa penis (Linnaeus, 1758) (Mollusca:
-  Bivalvia: Clavagelloidea), a species presumed nationally extinct*.
-  Nature in Singapore, 4: 5-8.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -54,6 +54,47 @@ page_images:
   caption: |
     <p>The lizard can hold its breath for a long time!</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
+links_references: |
+  **Links**
+  - [Malayan
+    Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Malayan
+    Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor) on Chan Kwok Wai's Wildlife Singapore: fact
+    sheet with photos.
+  - [Busting
+    Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitorsl) by Ivan Kwan on the Celebrating Singapore's
+    Biodiversity blog.
+  - [*Varanus
+    salvator*](https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvatorl) (Squamata: Varanidae) Water Monitor by Wong Li
+    Jing, 2011 on taxo4254
+  - [Monitor lizard: Do's and don'ts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards) on the NParks website
+  - [*Varanus salvator*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=842) on the NParks Flora and Faunat website.
+  - from the
+    wild shores of singapore blog
+    - [How
+      many monitor lizards are at Sungei Buloh Wetland Reserve?](http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungeil)
+    - [When
+      lizards hug what does it mean?](http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-meanl)
+    - [Why
+      Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-speciall)
+  **References**
+  - Craig Justin Tan. 29 May 2020. *Malayan water monitor preying on dog-faced water snake.* Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
+  - Marcus Ng and Robert W. Mendyk. 2012. [Predation of an Adult Malaysian Water monitor (*Varanus salvator macromaculatus*) by an Estuarine Crocodile (*Crocodylus porosus*)](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list). Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
+  - im, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland.
 ---
 
 ## Where seen?
@@ -67,7 +108,8 @@ mainly terrestrial, it can climb trees and also swims well (keeping
 its limbs to the side of the body, and propelling itself with sinuous
 undulations of the flattened tail). It can even dive underwater.  
   
-**Features:**2.5-3m long.
+## Features
+2.5-3m long.
 Among the largest lizards in the world, certainly the largest reptile
 in our marine habitats. A robust, muscular body with a long tail that
 is flattened towards the slender tip. It has a slender forked tongue.
@@ -126,51 +168,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
-
-- [Malayan
-  Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Malayan
-  Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor) on Chan Kwok Wai's Wildlife Singapore: fact
-  sheet with photos.
-- [Busting
-  Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitorsl) by Ivan Kwan on the Celebrating Singapore's
-  Biodiversity blog.
-- [*Varanus
-  salvator*](https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvatorl) (Squamata: Varanidae) Water Monitor by Wong Li
-  Jing, 2011 on taxo4254
-- [Monitor lizard: Do's and don'ts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards) on the NParks website
-- [*Varanus salvator*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=842) on the NParks Flora and Faunat website.
-- from the
-  wild shores of singapore blog
-  - [How
-    many monitor lizards are at Sungei Buloh Wetland Reserve?](http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungeil)
-  - [When
-    lizards hug what does it mean?](http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-meanl)
-  - [Why
-    Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-speciall)
 
 **Articles**
 
 - [Water sport activities in Marina Reservoir suspended after 'crocodile' sighting](http://wildsingaporenews.blogspot.sg/2016/11/water-sport-activities-in-marinal) Channel NewsAsia, 27 Nov 16.
 - [Sengkang river creature is "monitor lizard"](http://wildsingaporenews.blogspot.sg/2012/02/sengkang-river-creature-is-monitorl) Channel NewsAsia, 21 Feb 12
-
-**References**
-
-- Craig Justin Tan. 29 May 2020. *Malayan water monitor preying on dog-faced water snake.* Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
-- Marcus Ng and Robert W. Mendyk. 2012. [Predation of an Adult Malaysian Water monitor (*Varanus salvator macromaculatus*) by an Estuarine Crocodile (*Crocodylus porosus*)](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list). Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
-- im, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland.

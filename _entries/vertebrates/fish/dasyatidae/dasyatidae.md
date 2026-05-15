@@ -72,6 +72,57 @@ page_images:
   caption: |
     <p>Whitespotted whipray (Himantura gerrardi) Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159943829888158&set=a.10159943838013158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Dasyatidae (Stingrays)](http://www.fishbase.org/Summary/FamilySummary.cfm?id=20) and [*Himantura
+    bleekeri* (Bleeker's whipray)](http://www.fishbase.org/summary/13148) and [*Himantura
+    gerrardi* (Sharpnose stingray)](http://www.fishbase.org/summary/15483) and [*Neotrygon
+    kuhlii* (Blue-spotted stingray)](http://www.fishbase.org/summary/4508) and [*Dasyatis
+    pastinaca* (Common stingray)](http://www.fishbase.org/summary/2060) and [*Dasyatis
+    zugei* (Pale-edged stingray)](http://www.fishbase.org/summary/8205) and [*Pastinachus
+    sephen* (Cowtail stingray)](http://www.fishbase.org/summary/8203) and [*Himantura
+    undulata* (Leopard whipray)](http://www.fishbase.org/summary/12584) and [*Himantura
+    walga* (Dwarf whipray)](http://www.fishbase.org/summary/15484) and [*Taeniura
+    lymma* (Ribbontail stingray)](http://www.fishbase.org/summary/5399) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets on individual
+    species.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
+  - [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/) by Crystle Wee
+  - From the
+    wild shores of singapore blog
+    - [Savvy
+      stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-toolsl)
+  **References**  
+  - Philip Lim & Koh Kwan Siong. 18 December 2015. *Eastern cowtail stingray in eastern Johor Strait*. Singapore Biodiversity Records 2015: 208
+  - Marcus F. C. Ng. 18 September 2015. *Juvenile mangrove whip-ray at Pulau Hantu*. Singapore Biodiversity Records 2015: 128.
+  - Toh Chay Hoon and Kelvin K. P. Lim. 31 Oct 2013. *Mangrove
+    whip-ray (Himantura granulata) at Semakau reef : a new
+    record for Singapore*. Singapore Biodiversity
+    Records 2013: 46.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 if you
@@ -97,7 +148,8 @@ stingrays belong to the Order Rajiformes. These fishes are related
 to sharks but most are adapted for hunting and living on the sea bottom.
 They have flattened bodies with enlarged pectoral fins.   
   
-**Features:** The largest species
+## Features
+ The largest species
 of stingrays can grow to 4m in diameter. Those commonly seen on our
 shores are much smaller.   
   
@@ -231,59 +283,7 @@ Gymnura poecilura*
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Dasyatidae (Stingrays)](http://www.fishbase.org/Summary/FamilySummary.cfm?id=20) and [*Himantura
-  bleekeri* (Bleeker's whipray)](http://www.fishbase.org/summary/13148) and [*Himantura
-  gerrardi* (Sharpnose stingray)](http://www.fishbase.org/summary/15483) and [*Neotrygon
-  kuhlii* (Blue-spotted stingray)](http://www.fishbase.org/summary/4508) and [*Dasyatis
-  pastinaca* (Common stingray)](http://www.fishbase.org/summary/2060) and [*Dasyatis
-  zugei* (Pale-edged stingray)](http://www.fishbase.org/summary/8205) and [*Pastinachus
-  sephen* (Cowtail stingray)](http://www.fishbase.org/summary/8203) and [*Himantura
-  undulata* (Leopard whipray)](http://www.fishbase.org/summary/12584) and [*Himantura
-  walga* (Dwarf whipray)](http://www.fishbase.org/summary/15484) and [*Taeniura
-  lymma* (Ribbontail stingray)](http://www.fishbase.org/summary/5399) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets on individual
-  species.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
-- [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/) by Crystle Wee
-- From the
-  wild shores of singapore blog
-  - [Savvy
-    stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-toolsl)
-
-**References**  
-
-- Philip Lim & Koh Kwan Siong. 18 December 2015. *Eastern cowtail stingray in eastern Johor Strait*. Singapore Biodiversity Records 2015: 208
-- Marcus F. C. Ng. 18 September 2015. *Juvenile mangrove whip-ray at Pulau Hantu*. Singapore Biodiversity Records 2015: 128.
-- Toh Chay Hoon and Kelvin K. P. Lim. 31 Oct 2013. *Mangrove
-  whip-ray (Himantura granulata) at Semakau reef : a new
-  record for Singapore*. Singapore Biodiversity
-  Records 2013: 46.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

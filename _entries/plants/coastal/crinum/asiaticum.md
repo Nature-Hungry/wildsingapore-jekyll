@@ -78,6 +78,20 @@ page_images:
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
+links_references: |
+  **Links**
+  - [*Crinum
+    asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -97,7 +111,8 @@ occasionally in (sandy) mangroves. Large specimens occur in freshwater
 and brackish swamps, while those occurring on dry, sandy seashores
 are usually smaller.  
   
- **Features:** The plant arises from
+ ## Features
+ The plant arises from
 an underground, fleshy bulb. From this grows a rounded and fleshy
 'stem' (actually the lower part of the leaves). Leaves long (50cm-1m)
 and narrow with a pointed tip. Many white flowers in a cluster, large
@@ -124,22 +139,7 @@ plants of Singapore.
 
 ---
 
-**Links**
 
-- [*Crinum
-  asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

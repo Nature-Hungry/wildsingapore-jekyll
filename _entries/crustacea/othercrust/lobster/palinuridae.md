@@ -44,6 +44,27 @@ page_images:
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162086236287906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
+links_references: |
+  **Links**
+  - [Ornate
+    spiny lobster (*Panulirus ornatus*)](http://www.sealifebase.ca/summary/Panulirus-ornatusl)
+    on SeaLife Base.  
+    [Ornate
+    spiny lobster (*Panulirus ornatus*)](http://species-identification.org/species.php?species_group=lobsters&id=159) on Marine Lobsters
+    of the World on Marine Species Identification Portal.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 ## Where seen?
@@ -54,7 +75,8 @@ Elsewhere it is found in shallow, sometimes slightly murky coastal
 waters, from 1-8m, in sandy and muddy, sometimes on rocky bottoms,
 often near the mouth of rivers, but also on coral reefs.   
   
-**Features:**  25-35cm long, up to
+## Features
+  25-35cm long, up to
 50cm long. Long abdomen with broad tail, large pincers, one larger
 than the other.Two
 pairs of very long thick antennae. Wide range of colours.  
@@ -91,29 +113,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Ornate
-  spiny lobster (*Panulirus ornatus*)](http://www.sealifebase.ca/summary/Panulirus-ornatusl)
-  on SeaLife Base.  
-  [Ornate
-  spiny lobster (*Panulirus ornatus*)](http://species-identification.org/species.php?species_group=lobsters&id=159) on Marine Lobsters
-  of the World on Marine Species Identification Portal.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links)
 | [references](../../../references)

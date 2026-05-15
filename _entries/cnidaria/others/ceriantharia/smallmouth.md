@@ -72,7 +72,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/sm
  This cerianthid with a tiny mouth is sometimes seen
 on our Northern shores. In seagrass meadows and coral rubble.  
   
-**Features:** 2-4cm in diameter. The
+## Features
+ 2-4cm in diameter. The
 outer tentacles are elegantly slim and tapering, in various colours
 sometimes banded. The inner tentacles are very short, tapering to
 sharp tips and usually held closed with the tips touching, forming

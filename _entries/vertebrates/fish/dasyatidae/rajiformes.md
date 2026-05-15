@@ -65,6 +65,43 @@ page_images:
   caption: |
     <p><a href="../myliobatidae/narinari">Spotted eagle ray</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Order
+    Rajiformes](http://www.fishbase.org/Summary/OrdersSummary.cfm?order=Rajiformes) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets on individual
+    species.
+  **References**
+  - Tan Heok Hui & Kelvin K. P. Lim. *Spot-tail sleeper-ray, Narke dipterygia (Chondrichthyes: Narkidae) in the Singapore Straits*. 25 July 2014. Singapore Biodiversity Records 2014: 199-200 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -86,7 +123,8 @@ which includes 10 families. Those commonly seen on our shores at low
 tide are stingrays that belong to [Family
 Dasyatidae](dasyatidae). These fishes are related to sharks but most are adapted
 for hunting and living on the sea bottom. For simplicity, we'll refer
-to all these fishes as rays. **Features:** Rays have flattened bodies with greatly enlarged
+to all these fishes as rays. ## Features
+ Rays have flattened bodies with greatly enlarged
 pectoral fins along their body edges. With graceful undulations of
 these fins, they seem to 'fly' through the water. Some also use these
 enlarged fins to bury themselves in the sand. To avoid breathing in mud and sand, water is taken in from the the
@@ -223,45 +261,7 @@ Rhinobatus thouinianus
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Order
-  Rajiformes](http://www.fishbase.org/Summary/OrdersSummary.cfm?order=Rajiformes) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets on individual
-  species.
-
-**References**
-
-- Tan Heok Hui & Kelvin K. P. Lim. *Spot-tail sleeper-ray, Narke dipterygia (Chondrichthyes: Narkidae) in the Singapore Straits*. 25 July 2014. Singapore Biodiversity Records 2014: 199-200 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -87,6 +87,23 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
+links_references: |
+  **Links**
+  - [*Guettarda
+    speciosa*](http://floraofsingapore.wordpress.com/2010/04/26/guettarda-speciosa/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Guettarda
+    speciosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2946) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -98,7 +115,8 @@ to NParks, it is found at Pulau Semakau, Pulau Ubin, and Pulau Unum.
 Elsewhere, it is found on rocky and sandy sea shores and margins of
 mangroves.  
   
- **Features:** A spreading shrub or
+ ## Features
+ A spreading shrub or
 tall tree (4-22m). Bark is smooth and grey-brown.   
   
 Leaves resemble those of the [Sea
@@ -155,25 +173,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Guettarda
-  speciosa*](http://floraofsingapore.wordpress.com/2010/04/26/guettarda-speciosa/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Guettarda
-  speciosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2946) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

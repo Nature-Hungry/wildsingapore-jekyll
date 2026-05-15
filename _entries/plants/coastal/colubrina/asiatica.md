@@ -81,6 +81,20 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
+links_references: |
+  **Links**
+  - [*Colubrina
+    asiatica*](http://floraofsingapore.wordpress.com/2010/06/04/colubrina-asiatica/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -91,7 +105,8 @@ Changi. It is common on the Peninsula on both coasts and is also common
 in forested areas and wastelands and found on loose soil near the
 coast. It is also called Latherleaf as it produces a lather in water.  
   
- **Features:** A climbing glossy shrub
+ ## Features
+ A climbing glossy shrub
 that normally grows up to 4m tall but in the presence of a support
 it may grow up to 6-7m. Branches are vine-like, climbing or drooping
 that can reach 10m in length. Leaves (4-9cm) thin, dark glossy green
@@ -139,22 +154,7 @@ and numbness in adults and also in treating weak legs in children.
 
 ---
 
-**Links**
 
-- [*Colubrina
-  asiatica*](http://floraofsingapore.wordpress.com/2010/06/04/colubrina-asiatica/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

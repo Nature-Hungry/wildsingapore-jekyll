@@ -44,6 +44,20 @@ page_images:
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+links_references: |
+  **Links**
+  - [Periwinkle
+    Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
+    Life*. The Singapore Science Centre, Singapore. 160 pp.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K.
+    S. & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -51,7 +65,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinida
 shores. At low tide, it is usually seen in groups wedged into crevices
 and cracks in rocks. At night and on cool, rainy days, they actively
 move about in large numbers on the rocks or among seaweeds growing
-on the rocks. **Features:** 0.8-1cm. Shells thin and smooth with fine grooves. Colours
+on the rocks. ## Features
+ 0.8-1cm. Shells thin and smooth with fine grooves. Colours
 variable from black to light with brown speckles or stripes. Operculum thin, circular, brown and made from a horn-like material. The animal has
 short tentacles.   
   
@@ -89,22 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Periwinkle
-  Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
-  Life*. The Singapore Science Centre, Singapore. 160 pp.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Tan, K.
-  S. & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

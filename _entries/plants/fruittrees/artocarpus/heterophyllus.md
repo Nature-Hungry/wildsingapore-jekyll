@@ -65,6 +65,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
+links_references: |
+  **Links**
+  - [*Artocarpus
+    heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Jackfruit
+    (*Artocarpus heterophyllus*)](http://www.hort.purdue.edu/newcrop/morton/jackfruit_arsl) New Crop Resource Online
+    Program at Purdue University.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -77,7 +88,8 @@ from India. The scientific name comes from the different form of the
 leaf when it is a sapling (lobed) and when it is older (oval). Previously
 known as *A. integrifolia* and *A. integra*.  
   
- **Features:** Tall tree (10-20m).
+ ## Features
+ Tall tree (10-20m).
 Leaves oval with only a blunt tip and very dark shiny green above.
 Flowers are small (2-3cm) with male and female flowers in clusters.
 The fruits are huge (30cm-1m long). They are barrel- or pear-shaped,
@@ -106,19 +118,7 @@ also used in traditional medicine.
 
 ---
 
-**Links**
 
-- [*Artocarpus
-  heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Jackfruit
-  (*Artocarpus heterophyllus*)](http://www.hort.purdue.edu/newcrop/morton/jackfruit_arsl) New Crop Resource Online
-  Program at Purdue University.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

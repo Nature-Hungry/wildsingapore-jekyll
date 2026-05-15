@@ -146,13 +146,24 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468243158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [Genus *Pavona*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pavona) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal with species factsheet.
+  - *[Pavona
+    decussata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46108), [Pavona
+    explanulata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46113)*, *[Pavona
+    frondifera](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46114)* on SeaLife Base: Technical fact sheets.
 ---
 
 ## Where seen?
  This leafy lettuce-like hard coral is sometimes seen
 on some of our Southern shores.  
   
-**Features:** Colonies may
+## Features
+ Colonies may
 be small (10-15cm), generally forming a rounded shape with a compact
 leafy structure that gives them their common name. Some colonies may
 be much larger (30-40cm) with broader flat blades forming more open
@@ -274,16 +285,6 @@ Pavona varians*Group 2: Do not form leafy shapes *Pavona decussata\*\** (Vulnera
 
 ---
 
-**Links**
-
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [Genus *Pavona*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pavona) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal with species factsheet.
-- *[Pavona
-  decussata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46108), [Pavona
-  explanulata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46113)*, *[Pavona
-  frondifera](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46114)* on SeaLife Base: Technical fact sheets.
 
 **R****eferences**
 

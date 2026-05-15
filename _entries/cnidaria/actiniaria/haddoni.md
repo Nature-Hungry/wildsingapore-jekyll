@@ -140,6 +140,42 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09</p>
 coverimg: ../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**  
+  - [Sea
+    anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Stichodactyla
+    haddoni*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=haddoni&subspecies=&synseniorid=113) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
+    distribution, biological associations and more.
+  - [*Stichodactyla
+    haddoni*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#haddoni) on Fautin, Daphne G. and Gerald R. Allen, 1992.
+    [Field
+    guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
+    Australian Museum.
+  - [*Stichodactyla
+    haddoni*](http://www.sealifebase.org/summary/Stichodactyla-haddoni.html) on SeaLife Base: technical fact sheet
+  - [*Stichodactyla haddoni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichodactyla%20haddoni.html) (Actiniaria: Actiniidae) Haddon's Carpet anemone on Taxo4254.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail
+    Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
+    Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef life of Singapore*.
+    Singapore Science Centre. 128 pages
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 if you
@@ -154,7 +190,8 @@ don't feed the anemone or 'rescue' any of its prey
  This enormous anemone bigger than your face is commonly seen on many
 of shores. In sandy areas, among seagrasses and also on coral rubble.  
   
-**Features:**  Diameter 40-50cm when
+## Features
+  Diameter 40-50cm when
 fully expanded, but is said to reach up to 75-80cm. The large oral
 disk is densely covered with short tentacles so that it resembles
 a short-pile carpet. Tentacles short, stubby and may have bulbous
@@ -310,44 +347,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Sea
-  anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Stichodactyla
-  haddoni*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=haddoni&subspecies=&synseniorid=113) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification,
-  distribution, biological associations and more.
-- [*Stichodactyla
-  haddoni*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#haddoni) on Fautin, Daphne G. and Gerald R. Allen, 1992.
-  [Field
-  guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html). Western
-  Australian Museum.
-- [*Stichodactyla
-  haddoni*](http://www.sealifebase.org/summary/Stichodactyla-haddoni.html) on SeaLife Base: technical fact sheet
-- [*Stichodactyla haddoni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichodactyla%20haddoni.html) (Actiniaria: Actiniidae) Haddon's Carpet anemone on Taxo4254.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail
-  Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
-  Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*. Raffles Bulletin of Zoology Supplement No. 22: 121-143.
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef life of Singapore*.
-  Singapore Science Centre. 128 pages
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -37,7 +37,8 @@ cnidarian species belong to this class.
 **What are NOT Anthozoans?** Commonly
 encountered animals that do NOT belong to this group include [jellyfishes](others/jellyfish/jellyfish.htm) and [hydroids](others/hydrozoa/hydrozoa.htm).  
   
-**Features:** 'Anthozoa' means 'flower
+## Features
+ 'Anthozoa' means 'flower
 animals' in Greek. Some of the more familiar Anthozoans do indeed
 resemble flowers. In colonial Anthozoans, the tiny polyps are also
 flower-like. For example, polyps of hard corals, soft corals and gorgonians.

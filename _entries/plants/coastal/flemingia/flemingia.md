@@ -68,6 +68,15 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
+links_references: |
+  **Links**
+  - [*Flemingia
+    strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)
+    on the Pacific Islands Ecosystems at Risk website: fact sheet
+    of this plant which is considered an invasic in the Pacific Islands.
+  **References**
+  - Burkill,
+    I. H., 1993. *[A
 ---
 
 ## Where seen?
@@ -78,7 +87,8 @@ in the Peninsula in more inhabitated places. According to Hsuan Keng
 it was uncommon and is a seashore plant that was recorded for Changi.
 Previously known as *Monghania strobilifera*.  
   
- **Features:** A shrub (1-1.5m tall).
+ ## Features
+ A shrub (1-1.5m tall).
 Leaves with prominent veins, arranged alternately. Young leaves are
 small and appear to overlap one another. The papery flower bracts
 appear in a long drooping row. Green when young, turning brown. Fruits
@@ -106,17 +116,7 @@ introduced.
 
 ---
 
-**Links**
 
-- [*Flemingia
-  strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)
-  on the Pacific Islands Ecosystems at Risk website: fact sheet
-  of this plant which is considered an invasic in the Pacific Islands.
-
-**References**
-
-- Burkill,
-  I. H., 1993. *[A
 
 [www.**flickr**.com](http://www.flickr.com)  
 

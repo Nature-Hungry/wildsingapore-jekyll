@@ -73,7 +73,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/re
 fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Northern
 shores.  
   
-**Features:** 1-1.5cm. Shell thin
+## Features
+ 1-1.5cm. Shell thin
 and usually a dull orange or red and not so pointed at the ends. Foot
 and siphon red or black. The mantle is usually the same colour
 and pattern as the sea fan with tiny red or dark dots and little white

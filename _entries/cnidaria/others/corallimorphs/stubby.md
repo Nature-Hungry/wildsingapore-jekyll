@@ -55,13 +55,20 @@ page_images:
   caption: |
     <p>Terumbu Hantu, Jun 2016Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+links_references: |
+  **Links**
+  - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 ---
 
 ## Where seen?
  These little disk-shaped animal with stubby tentacles
 is sometimes encountered on our Southern shores, among coral rubble.  
   
-**Features:** Each polyp about 3-4cm
+## Features
+ Each polyp about 3-4cm
 in diameter, sometimes seen in groups of 5-10. Tentacles short and
 stubby, arranged in rows radiating from the centre. The edge of the
 oral disk is fringed with somewhat long stubby tipped tentacles. The
@@ -106,14 +113,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia) on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

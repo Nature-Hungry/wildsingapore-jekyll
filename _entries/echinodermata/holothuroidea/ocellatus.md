@@ -46,6 +46,20 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972842108713&set=a.10159972857263713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
+links_references: |
+  **Links**
+  - [*Stichopus
+    ocellatus*
+    (Ocellated sea cucumber)](http://www.sealifebase.org/summary/Stichopus-ocellatusl)
+    on SeaLife Base: Technical fact sheet.
+  - [*Stichopus
+    ocellatus*](http://www.iucnredlist.org/details/180535/0) on the IUCN Red List: Technical fact sheet.
+  - *Stichopus ocellatus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -54,7 +68,8 @@ large yellow sea cucumber with little 'eye-spots' is sometimes seen
 near living reefs. Elsewhere, mostly in seagrasses on sandy or muddy-sand areas on reef flats and sandflats. According to Lane, it was known from Singapore for many years but
 was only described as a new species in 2002.  
   
-**Features:**  15-20cm long. Body
+## Features
+  15-20cm long. Body
 hard heavy, squarish in cross-section, blunt at the ends, with a wrinkled skin.
 Mostly yellowish brown with a pattern of 'eye-spots' that appear into
 2-4 rows along the body length. 'Ocellatus' means 'having little spots'
@@ -94,20 +109,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Stichopus
-  ocellatus*
-  (Ocellated sea cucumber)](http://www.sealifebase.org/summary/Stichopus-ocellatusl)
-  on SeaLife Base: Technical fact sheet.
-- [*Stichopus
-  ocellatus*](http://www.iucnredlist.org/details/180535/0) on the IUCN Red List: Technical fact sheet.
-- *Stichopus ocellatus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

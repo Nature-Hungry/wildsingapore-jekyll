@@ -50,6 +50,25 @@ page_images:
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+links_references: |
+  **Links**
+  - [Family
+    Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html) on the Archerd Shell Collection website: brief
+    description and photos.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
 ---
 
 ## Where seen?
@@ -62,7 +81,8 @@ snails are NOT [bivalves](../../bivalvia.htm) (like oysters).
 They are [gastropods](../../gastropoda.htm) that belong
 to the Family Crepidulidae.  
   
-**Features:** 2-3cm. Shell conical
+## Features
+ 2-3cm. Shell conical
 or flat domed. Several may be found stuck firmly onto inside of a
 shell occupied by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm). They take advantage of the constant current of freshly oxygenated
@@ -120,27 +140,7 @@ snail)
 
 ---
 
-**Links**
 
-- [Family
-  Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html) on the Archerd Shell Collection website: brief
-  description and photos.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

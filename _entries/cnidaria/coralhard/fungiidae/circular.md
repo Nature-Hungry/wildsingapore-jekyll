@@ -135,7 +135,8 @@ many of our Southern shores, on sandy shallow areas near living reefs.
 On some undisturbed shores, many individuals in various stages of
 development can be seen near one another.  
   
-**Features:** Skeleton 10-15cm in
+## Features
+ Skeleton 10-15cm in
 diameter, but tiny ones 1-2cm sometimes seen attached to hard surfaces.
 Overall shape flat, circular and convex disk somewhat like a frisbee
 or upside-down saucer. Upper surface with thin continuous lines radiating

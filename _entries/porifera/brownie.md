@@ -26,11 +26,20 @@ page_images:
   caption: |
     <p>Pulau Semakau, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169681682290112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
+links_references: |
+  **Links**
+  - *[Hyattella tubaria](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165132)* on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores. **Features:** Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
+This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores. ## Features
+ Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
  
 
@@ -61,16 +70,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Hyattella tubaria](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165132)* on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

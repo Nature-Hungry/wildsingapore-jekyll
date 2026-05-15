@@ -119,6 +119,25 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website: everything you could possibly want to
+    know about sand dollars and sea urchins with lots of large close-up
+    images and explanatory diagrams. With technical descriptions of
+    [Family
+    Cylpeasteridae](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/CLYPIDAE.jsp) and photos of dead [*Arachnoides*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/ARACHNO.jsp).
+  - *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placental)* on Taxo4254.
+  - [*Arachnoides
+    placenta*](http://www.sealifebase.org/summary/Arachnoides-placental)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Calvin Jiah Jay Leow. 31 August 2020. *Parasitic snail, Eulima adamsii, on sand dollar Arachnoides placenta.* Singapore Biodiversity Records 2020: 127 ISSN 2345-7597
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -127,7 +146,8 @@ of our Northern shores, on sand bars and sandy areas near seagrasses.
 Often found in groups of large numbers of individuals, half buried
 in the sand. Sometimes also seen on the Southern shores.  
   
-**Features:** Body diameter 6-8cm.
+## Features
+ Body diameter 6-8cm.
 Seen in various sizes, some may be tiny (about the size of a 10cent
 coin). It has no slots in the body. While the star-shaped petalloid
 is not very obvious in living specimens, they are clearly seen in
@@ -198,27 +218,7 @@ Coast Park
 
 ---
 
-**Links**
 
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website: everything you could possibly want to
-  know about sand dollars and sea urchins with lots of large close-up
-  images and explanatory diagrams. With technical descriptions of
-  [Family
-  Cylpeasteridae](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/CLYPIDAE.jsp) and photos of dead [*Arachnoides*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/ARACHNO.jsp).
-- *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placental)* on Taxo4254.
-- [*Arachnoides
-  placenta*](http://www.sealifebase.org/summary/Arachnoides-placental)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Calvin Jiah Jay Leow. 31 August 2020. *Parasitic snail, Eulima adamsii, on sand dollar Arachnoides placenta.* Singapore Biodiversity Records 2020: 127 ISSN 2345-7597
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -70,6 +70,26 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
+links_references: |
+  **Links**
+  - *[Morinda
+    citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Morinda
+    citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - *[Morinda
+    citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)* (Gentianales: Rubiaceae) Noni by Chen Junhao,
+    2012 on taxo4254.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -87,7 +107,8 @@ tropics and is particularly common in the Pacific Islands. According
 to Corners, it was possibly wild on rocky shores and was common in
 all villages in Malaya, frequently on the sea coasts.  
   
-**Features:** May grow into a small
+## Features
+ May grow into a small
 tree 3-10m tall, but those on our shores usually much shorter and
 often just shrubs. Bark pale greyish-brown, shallowly fissured.   
   
@@ -138,28 +159,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Morinda
-  citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Morinda
-  citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- *[Morinda
-  citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)* (Gentianales: Rubiaceae) Noni by Chen Junhao,
-  2012 on taxo4254.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -47,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
 ## Where seen?
  This small hermit crab not often seen. So far near artificial seawalls as well as on natural rubble areas.  
   
-**Features:** Body 1-2cm long, mostly
+## Features
+ Body 1-2cm long, mostly
 plain white. Both pincers are more or less equal in size and held so
 that the 'fingers' open horizontally in front of the animal. Pincers
 sparsely hairy, no stripes, uniformly coloured a dark orange. Walking legs sparsely hairy, no stripes, uniformly coloured a dark orange.

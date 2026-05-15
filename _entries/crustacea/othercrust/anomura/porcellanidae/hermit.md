@@ -43,7 +43,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
  This tiny porcelain crab is sometimes seen inside
 large shells occupied by [hermit crabs](../hermit/hermit) on our Northern shores.   
   
- **Features:** Body width usually
+ ## Features
+ Body width usually
 less than 1cm. Drab brown or grey. Usually seen in pairs in large
 shells occupied by a hermit crab.
 

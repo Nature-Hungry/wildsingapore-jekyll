@@ -96,6 +96,23 @@ page_images:
   caption: |
     <p>Terumbu Raya, Mar 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3398625984/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg
+links_references: |
+  **Links**  
+  - [Byno
+    Goby (*Amblygobius bynoensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.htm) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.htm)*. Singapore
+    Science Centre. 163 pp.
+  - [*Amblygobius
+    stethophthalmus* (Freckled goby)](http://www.fishbase.org/Summary/speciesSummary.php?ID=62722) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheet.
+  - [*Amblygobius
+    stethophthalmus*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1210) from NParks Flora and Fauna website.
+  **References**
+  - Larson, Helen
+    K and Kelvin K. P. Lim. 2005. *A
+    Guide to Gobies of Singapore*. Singapore Science Centre.
+    164pp.
 ---
 
 ## Where seen?
@@ -106,7 +123,8 @@ found in estuaries and lagoons, on shallow sand-rubble. It makes its burrow unde
 close to the ground. It was previously
 known as *Amblygobius bynoensis*.  
   
-**Features:** 6-8cm long. It is among
+## Features
+ 6-8cm long. It is among
 the more colourful of the larger gobies encountered in our shallow waters.
 There are dark freckles as well as bright spots and markings on its
 head. On the side of the body, it has a dark stripe edged with iridescent
@@ -170,25 +188,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Byno
-  Goby (*Amblygobius bynoensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.htm) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.htm)*. Singapore
-  Science Centre. 163 pp.
-- [*Amblygobius
-  stethophthalmus* (Freckled goby)](http://www.fishbase.org/Summary/speciesSummary.php?ID=62722) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheet.
-- [*Amblygobius
-  stethophthalmus*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1210) from NParks Flora and Fauna website.
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

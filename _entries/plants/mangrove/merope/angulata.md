@@ -37,6 +37,36 @@ page_images:
   caption: |
     <p>Kranji Nature Trail, Dec 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
+links_references: |
+  **Links**
+  - [*Merope
+    angulata*](http://floraofsingapore.wordpress.com/2011/01/01/merope-angulata/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Merope angulata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - [Limau
+    lelang (*Merope angulata*)](http://mangrove.nus.edu.sg/guidebooks/text/1067)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -50,7 +80,8 @@ known as *Paramignya longispina*. The malay name 'lelang' refers
 to the talons of the hawk, probably referring to the thorns of the
 plant.  
   
-**Features:**
+## Features
+
 A thorny shrub to about 3m tall, or scrambling plant. Leaves leathery,
 arranged alternately. The leaves (7-16cm long) give off a lime-like
 smell when crushed. There are stout spines in pairs or singly. Flowers
@@ -90,38 +121,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Merope
-  angulata*](http://floraofsingapore.wordpress.com/2011/01/01/merope-angulata/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Merope angulata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- [Limau
-  lelang (*Merope angulata*)](http://mangrove.nus.edu.sg/guidebooks/text/1067)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

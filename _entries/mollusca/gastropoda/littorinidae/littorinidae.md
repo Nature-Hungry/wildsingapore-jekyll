@@ -58,6 +58,65 @@ page_images:
   caption: |
     <p><a href="melanostoma.htm">Black-mouth mangrove periwinkle</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Mangrove
+    periwinkle (*Littoraria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Periwinkle
+    Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
+    Life*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Family
+    Littorinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Littorinidae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet on periwinkles with photos
+  - [Periwinkles,
+    Conniwinks and Clusterwinks (Littorinids)](http://www.mesa.edu.au/friends/seashores/littorinids.html) on [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet on these shells and details
+    on various species found in Australia.
+  - Family Littorinidae
+    in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  - [How
+    does a periwinkle survive out of water if it has gills?](http://www.madsci.org/posts/archives/aug97/872032656.Zo.r.html) on
+    the Mad Scientist Network website: a lovely answer that explains
+    how gills and lungs work.
+  - *[Littoraria articulata](https://singapore.biodiversity.online/taxo4254/mainSpace/Littoraria%20articulata.html)* (Littorinimorpha: Littorinidae) Rock Periwinkle on Taxo4254.
+  **References**
+  - Chan Sow-Yan & Lau Wing Lup. 30 June 2020. *The periwinkle snail, Peasiella lutulenta, in Singapore*. Singapore Biodiversity Records 2020: 73-75 ISSN 2345-7597
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Su-Li Lee and Shirley S. L. Lim. 31 August 2009. *Vertical zonation and heat tolerance of three littorinid gastropods on a rocky shore at Tanjung Chek Jawa, Singapore*. The Raffles Bulletin Of Zoology, 57 (2), 551-560.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -83,7 +142,8 @@ found on mangrove trees, clinging on to roots, trunk and even leaves. Among the
 hardiest of these must be the tiny [Knobbly
 periwinkles](nodilittorina.htm).   
   
-**Features:** 2-5cm. Shell thin, various shapes from conical with a sharp spire to squat or even round with flatter spire. Operculum thin, circular, made
+## Features
+ 2-5cm. Shell thin, various shapes from conical with a sharp spire to squat or even round with flatter spire. Operculum thin, circular, made
 of a horn-like material.   
   
 Some very similar species are difficult to positively identify without
@@ -168,67 +228,7 @@ Peasiella roepstorffiana*
 
 ---
 
-**Links**
 
-- [Mangrove
-  periwinkle (*Littoraria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Periwinkle
-  Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.htm)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
-  Life*. The Singapore Science Centre, Singapore. 160 pp.
-- [Family
-  Littorinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Littorinidae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet on periwinkles with photos
-- [Periwinkles,
-  Conniwinks and Clusterwinks (Littorinids)](http://www.mesa.edu.au/friends/seashores/littorinids.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet on these shells and details
-  on various species found in Australia.
-- Family Littorinidae
-  in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-- [How
-  does a periwinkle survive out of water if it has gills?](http://www.madsci.org/posts/archives/aug97/872032656.Zo.r.html) on
-  the Mad Scientist Network website: a lovely answer that explains
-  how gills and lungs work.
-- *[Littoraria articulata](https://singapore.biodiversity.online/taxo4254/mainSpace/Littoraria%20articulata.html)* (Littorinimorpha: Littorinidae) Rock Periwinkle on Taxo4254.
-
-**References**
-
-- Chan Sow-Yan & Lau Wing Lup. 30 June 2020. *The periwinkle snail, Peasiella lutulenta, in Singapore*. Singapore Biodiversity Records 2020: 73-75 ISSN 2345-7597
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Su-Li Lee and Shirley S. L. Lim. 31 August 2009. *Vertical zonation and heat tolerance of three littorinid gastropods on a rocky shore at Tanjung Chek Jawa, Singapore*. The Raffles Bulletin Of Zoology, 57 (2), 551-560.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -119,13 +119,31 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700480398158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
+links_references: |
+  **Links**
+  - [*Bohadschia
+    vitiensis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83484) on SeaLife
+    Base: Technical fact sheet.
+  - [*Bohadschia
+    vitiensis*](http://species-identification.org/species.php?species_group=nasc&id=52&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
+    Identification Portal: Technical fact sheet.
+  - [*Bohadschia
+    vitiensis*](http://www.iucnredlist.org/details/180352/0) on IUCN Red List: Technical fact
+    sheet.
+  - *Bohadschia vitiensis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
  This sea cucumber is sometimes seen among seagrasses. Most regularly on Cyrene Reef, but also on Pulau Semakau. Elsewhere, it is found in shallow sheltered lagoons on sand and sometimes among rubble and coral patches. It is said to remain buried
 in sand during the day and only emerges at dusk. It can crawl quite rapidly over the surface, for a sea cucumber. Some consider *Bohadschia similis* and *Bohadschia vitiensis* to be the same.  
   
-**Features:** 15-30cm long. Body oval,
+## Features
+ 15-30cm long. Body oval,
 uniformly coloured with distinct upper and underside. Colours variable: may be orange, yellow, brown, pink. Underside flat, pale. Tube feet tiny dark with pointed tips, emerging from dark spots evenly scattered all over the body including underside. Underside flat pale. Mouth facing downwards with 20 short feeding tentacles, yellowish with bushy tips. When disturbed, it
 readily releases from its backside, large sticky white cylindrical tubes called Cuvierian tubules.   
   
@@ -206,23 +224,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Bohadschia
-  vitiensis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83484) on SeaLife
-  Base: Technical fact sheet.
-- [*Bohadschia
-  vitiensis*](http://species-identification.org/species.php?species_group=nasc&id=52&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
-  Identification Portal: Technical fact sheet.
-- [*Bohadschia
-  vitiensis*](http://www.iucnredlist.org/details/180352/0) on IUCN Red List: Technical fact
-  sheet.
-- *Bohadschia vitiensis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

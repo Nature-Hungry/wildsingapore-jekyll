@@ -64,6 +64,41 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/micamonkey/3869824396/ "Mud Lobster at Chek Jawa!")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+links_references: |
+  **Links**
+  - [Mud
+    lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/pub/seashore/text/183) Tan,
+    Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mud
+    lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/guidebooks/text/2064) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore I (Plant Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
+    Singapore Science Centre. 168 pp.
+  - *[Thalassina
+    anomala](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassina%20anomalal)* (Decapoda :Thalassinidae) Mud Lobster by Ariff
+    Abdul Aziz, 2011 on taxo4254.
+  - [Family
+    Thalassinidae](http://species-identification.org/species.php?species_group=lobsters&id=11&menuentry=groepen) and [Scorpion
+    mud lobster (*Thalassina anomala*)](http://species-identification.org/species.php?species_group=lobsters&id=75) in Marine Lobsters
+    of the World on Marine Life Species Identification Portal.
+  **References**
+  - *Banded krait entering mud lobster mound at Chek Jawa*, 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.
+  - Moh H. H. and V. C. Chong. *A new species
+    of Thalassina (Crustacea: Decapoda: Thalassinidae) from Malaysia*, The
+    Raffles Bulletin of Zoology Vol 57 (2009) Issue No. 2.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 if you
@@ -80,7 +115,8 @@ other plants and animals live and feed on these mounds.
 in the mangrove mud. But the impressive mounds created by this animal
 are still commonly seen in the undisturbed back mangroves on our shores.  
   
-**Features:** Up to 30cm long. The
+## Features
+ Up to 30cm long. The
 mud lobster is actually not a lobster but more of a giant shrimp.
 It is more closely related to [ghost shrimps](glypturus) of the genus *Callianasa*. The mud lobster lives deep under the
 mound in a U-shaped tunnel and rarely emerges above ground. According
@@ -159,43 +195,7 @@ flickr.](http://www.flickr.com/photos/micamonkey/3869824396/)
 
 ---
 
-**Links**
 
-- [Mud
-  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/pub/seashore/text/183) Tan,
-  Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mud
-  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/guidebooks/text/2064) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore I (Plant Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
-  Singapore Science Centre. 168 pp.
-- *[Thalassina
-  anomala](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassina%20anomalal)* (Decapoda :Thalassinidae) Mud Lobster by Ariff
-  Abdul Aziz, 2011 on taxo4254.
-- [Family
-  Thalassinidae](http://species-identification.org/species.php?species_group=lobsters&id=11&menuentry=groepen) and [Scorpion
-  mud lobster (*Thalassina anomala*)](http://species-identification.org/species.php?species_group=lobsters&id=75) in Marine Lobsters
-  of the World on Marine Life Species Identification Portal.
-
-**References**
-
-- *Banded krait entering mud lobster mound at Chek Jawa*, 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.
-- Moh H. H. and V. C. Chong. *A new species
-  of Thalassina (Crustacea: Decapoda: Thalassinidae) from Malaysia*, The
-  Raffles Bulletin of Zoology Vol 57 (2009) Issue No. 2.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links)
 | [references](../../../references)

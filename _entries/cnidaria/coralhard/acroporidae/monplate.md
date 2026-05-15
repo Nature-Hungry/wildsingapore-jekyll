@@ -117,7 +117,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/
 is often seen on some of our Southern shores. They can form delicate
 tiers like a wedding cake!.   
   
-**Features:**Colonies seen
+## Features
+Colonies seen
 15-20cm, sometimes much larger. Flat thin circular plate. Sometimes
 encrusting with protruding columns or knobs in the centre. The outer
 edge of the plate is smooth, lacking polyps, usually paler or in a

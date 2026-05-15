@@ -79,6 +79,18 @@ page_images:
   caption: |
     <p>Cyrene Reef, Sep 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10157955274362945&set=a.10157955272987945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg
+links_references: |
+  **Links**
+  - [*Natica
+    onca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90354&genusname=Natica&speciesname=onca) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -86,7 +98,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/o
 Southern shores. Elsewhere it is found offshore on sandy bottoms. It was previously
 called *Natica onca*.  
   
-**Features:** 1.5-2cm. Shell smooth thick spherical
+## Features
+ 1.5-2cm. Shell smooth thick spherical
 (not flat) with the spiral tip sticking out a little. Shell pattern
 beige usually with 5 spirals - white with dark brown bars, sometimes the white is not so obvious. On
 the underside, a small circular depression. Operculum plain pearly white (no markings), with
@@ -155,20 +168,7 @@ Reef Aug 2013
 
 ---
 
-**Links**
 
-- [*Natica
-  onca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90354&genusname=Natica&speciesname=onca) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

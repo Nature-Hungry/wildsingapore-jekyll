@@ -67,7 +67,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070
 ## Where seen?
 
 This pale blue prickly encrusting sponge is sometimes seen on our
-Southern shores, growing over coral rubble. **Features:** Small, covering an area of 10-15cm. Surface texture
+Southern shores, growing over coral rubble. ## Features
+ Small, covering an area of 10-15cm. Surface texture
 prickly, the prickles forming clusters or ridges. Some tiny holes
 sprinkled on the surface. Colours greyish blue to bright blue.  
   

@@ -59,7 +59,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110
 our Southern shores, but is often overlooked. The colony grows on stones
 and hard surfaces.  
   
-**Features:** Colony about 10-15cm.
+## Features
+ Colony about 10-15cm.
 Only one kind of polyp (autozooids). Polyps about 1-1.5cm in diameter,
 on stalks about 1-2cm long. The eight skinny tentacles have long thin
 side branches (pinnules) arranged in 1 to 4 rows along both edges

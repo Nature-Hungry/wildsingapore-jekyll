@@ -34,6 +34,25 @@ page_images:
     <p>Sisters Island, Jan 10What does it eat?</p>
     <p>It feeds on tiny zooplankton and algae.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
+links_references: |
+  **Links**  
+  - [Scissortail
+    sergeant (*Abudefduf sexfasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340) Lim, Kelvin K. P.
+    & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Scissortail
+    sergeant (*Abudefduf sexfasciatus*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=5688) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -41,7 +60,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/
 distinctive fish is sometimes seen on our coral reefs. Elsewhere,
 it is found near reefs and rocky shores, often forming schools.  
   
-**Features:** To 17-22cm, those seen
+## Features
+ To 17-22cm, those seen
 about 15cm. It is identified by the black horizontal stripes on the pointed tail fins
 so the tail resembles scissors. Like other sergeants, it
 has 4-5 broad black bars across a yellowish body. More on [how
@@ -61,27 +81,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Scissortail
-  sergeant (*Abudefduf sexfasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340) Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Scissortail
-  sergeant (*Abudefduf sexfasciatus*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=5688) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

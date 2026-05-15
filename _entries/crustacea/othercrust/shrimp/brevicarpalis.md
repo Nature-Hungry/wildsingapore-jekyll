@@ -135,6 +135,32 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/24292062483/ "Peacock-tail anemone shrimp (Periclimenes brevicarpalis) on Haddon's carpet anemone (Stichodactyla haddoni)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
+links_references: |
+  **Links**
+  - *[Periclimenes brevicarpalis](https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimpl)* (Decapoda: Palaemonidae) Five-spot anemone shrimp by Pwa Keay Hoon, 2016, on taxo4254.
+  - [*Periclimenes
+    brevicarpalis*](http://www.sealifebase.fisheries.ubc.ca/summary/Periclimenes-brevicarpalisl) on SeaLife Base.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -143,7 +169,8 @@ seen in large sea anemones on many of our shores. Usually a pair are
 seen in one anemone, living safely among tentacles that would otherwise sting other animals. Elsewhere, seen from 1-5m deep. It is also sometimes
 called the Clown anemone shrimp. It was previously *Periclimenes brevicarpalis*.  
   
-**Features:** To about 4cm. Body almost
+## Features
+ To about 4cm. Body almost
 transparent, especially the smaller male. Pincers long transparent
 with purple bars. The female is often larger and more brightly marked
 with more and larger white spots on the back, along the abdomen and
@@ -263,34 +290,7 @@ Filmed on Cyrene Reef, Mar 11
 
 ---
 
-**Links**
 
-- *[Periclimenes brevicarpalis](https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimpl)* (Decapoda: Palaemonidae) Five-spot anemone shrimp by Pwa Keay Hoon, 2016, on taxo4254.
-- [*Periclimenes
-  brevicarpalis*](http://www.sealifebase.fisheries.ubc.ca/summary/Periclimenes-brevicarpalisl) on SeaLife Base.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

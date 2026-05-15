@@ -64,6 +64,35 @@ page_images:
     <p>On floating trash.</p>
     <p>Cyrene, May 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02YUTX1JRu7m9p7J93C9CKLfnVVuCy8GaUr59cr4hHhpkb3HDj8B2FutwT3DiLQDRal&id=61566639210004&__cft__[0]=AZVvtYI7-_dfQKUoV8XeRX3LAZtbZOxYMSsBfFydeQKFdSMhD1OklSbAMUUOYNtO8Hs2qcn4DJCEdImG6evzEU6HQ9_GO-AkOcrSnK1M5fhtI0xIAUrXax0WORtCYuZ-nDI_4f44GsUflSD-RDYSml2cy4mckTne6Slb2J5riRRqhQ&__tn__=%2CO%2CP-R">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+links_references: |
+  **Links**
+  - [Paddler
+    crab (*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046) Ng, Peter K. L. & N. Sivasothi, 1999.
+    *[A Guide to
+    the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Varuna
+    litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Sundaic
+    paddler crab (*Varuna yui*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Varuna&speciesname=yui) on SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
@@ -72,7 +101,8 @@ seen on our shores near mangroves and freshwater streams.
 It is usually seen drifting on flotsam or seaweed. This particular
 one was seen on top of a large piece of plastic.  
   
-**Features:** Body width 3-5cm. It
+## Features
+ Body width 3-5cm. It
 has a squarish body and flat legs. The last two pairs of legs are
 paddle shaped and fringed with hairs. These allow the crab to paddle
 for short distances. It is actually a freshwater crab but adults return
@@ -112,37 +142,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Paddler
-  crab (*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046) Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to
-  the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Varuna
-  litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Sundaic
-  paddler crab (*Varuna yui*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Varuna&speciesname=yui) on SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

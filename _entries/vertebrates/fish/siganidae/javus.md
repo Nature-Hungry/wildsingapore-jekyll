@@ -43,13 +43,27 @@ page_images:
     <p>New Holland Publishers.</p>
     <p>434pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+links_references: |
+  **Links**  
+  - [Streaked
+    spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
 ---
 
 ## Where seen?
  This spotted and striped fish is sometimes
 seen on our Northern shores, near coral rubble and seagrasses.  
   
-**Features:** To about 40cm, those
+## Features
+ To about 40cm, those
 seen about 10-20cm. It is named
 for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
@@ -102,21 +116,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/3523573199/).
 
 ---
 
-**Links**  
 
-- [Streaked
-  spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
 
 [links](../../../links)
 | [references](../../../references)

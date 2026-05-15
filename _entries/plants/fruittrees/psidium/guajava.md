@@ -69,6 +69,17 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
+links_references: |
+  **Links**
+  - *[Psidium
+    guajava](http://floraofsingapore.wordpress.com/2010/04/03/psidium-guajava/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [Guave
+    (*Psidium guajava*)](http://www.hort.purdue.edu/newcrop/morton/guaval) New Crop Resource Online Program
+    at Purdue University.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -78,7 +89,8 @@ tree has been introduced to many other parts of the world. Corners
 considers it common in 'all villages throughout Malaya'. The Malay
 name for it is 'Jambu Batu'  
   
- **Features:** An untidy tree with
+ ## Features
+ An untidy tree with
 sparse, drooping branches (to about 6m tall). Bark very smooth, coppery
 orange-brown mottled greenish or pale yellowish, peeling off in thin
 flakes. Flowers white, fruits pear-shaped rippening yellow with fragrant
@@ -97,19 +109,7 @@ ailments.
 
 ---
 
-**Links**
 
-- *[Psidium
-  guajava](http://floraofsingapore.wordpress.com/2010/04/03/psidium-guajava/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [Guave
-  (*Psidium guajava*)](http://www.hort.purdue.edu/newcrop/morton/guaval) New Crop Resource Online Program
-  at Purdue University.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -153,6 +153,43 @@ page_images:
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719603170/">his flickr</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Black
+    sea urchin (*Diadema setosum*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *A Guide to Seashore Life*. The Singapore Science
+    Centre, Singapore. 160 pp.
+  - [The
+    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
+    History Museum website
+  - [*Diadema
+    savignyi* (Savigny's long-spine sea urchin)](http://www.sealifebase.org/summary/Diadema-savignyil) and *[Diadema
+    setosum](http://www.sealifebase.org/summary/Diadema-setosuml)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Heok Hui. 4 July 014. *Longspine sea urchins with commensal fish and shrimps: Zanzibar urchin shrimp, Tuleariocaris zanzibarica; Urchin clingfish, Diademichthys lineatus*. Singapore Biodiversity Records 2014: 179-180
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
+    Other Echinoderms of Singapore*. Singapore Science Centre.
+    187pp.
+  - Chou, L.
+    M., 1998. *A Guide to the Coral Reef life of Singapore*.
+    Singapore Science Centre. 128 pages.
+  - Miskelly,
+    Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
+    Capricornia Publications. 180pp.
+  - Schoppe,
+    S., 2000. *Echinoderms of the Philippines*. Times Edition,
+    Singapore. 144 pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
+  - Coleman,
+    Neville.undated. *Sea Stars of Australasia and their relatives*.
+    Neville Coleman's World of Water, Australia.64pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates.* Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -166,7 +203,8 @@ on our Northern and Southern shores, usually alone, wedged in coral
 rubble or near large boulders. On Cyrene Reef, they may also be found
 among seagrasses.  
   
-**Features:**Body diameter 8-10cm. It has very long
+## Features
+Body diameter 8-10cm. It has very long
 primary spines, up to 30cm long, with many shorter spines in between.
 The spines on the underside are much shorter. The urchin can rapidly
 point its long spines against any potential threat (which is quite
@@ -304,45 +342,7 @@ Diadematidae**
 **Acknowlegments**  
 Thanks to Dr Frederic Ducarme for more on how to tell apart *Diadema setosum* and *Diadema savignyi*.
 
-**Links**
 
-- [Black
-  sea urchin (*Diadema setosum*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *A Guide to Seashore Life*. The Singapore Science
-  Centre, Singapore. 160 pp.
-- [The
-  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-  History Museum website
-- [*Diadema
-  savignyi* (Savigny's long-spine sea urchin)](http://www.sealifebase.org/summary/Diadema-savignyil) and *[Diadema
-  setosum](http://www.sealifebase.org/summary/Diadema-setosuml)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Heok Hui. 4 July 014. *Longspine sea urchins with commensal fish and shrimps: Zanzibar urchin shrimp, Tuleariocaris zanzibarica; Urchin clingfish, Diademichthys lineatus*. Singapore Biodiversity Records 2014: 179-180
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003. *A Guide to Sea Stars and
-  Other Echinoderms of Singapore*. Singapore Science Centre.
-  187pp.
-- Chou, L.
-  M., 1998. *A Guide to the Coral Reef life of Singapore*.
-  Singapore Science Centre. 128 pages.
-- Miskelly,
-  Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
-  Capricornia Publications. 180pp.
-- Schoppe,
-  S., 2000. *Echinoderms of the Philippines*. Times Edition,
-  Singapore. 144 pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
-- Coleman,
-  Neville.undated. *Sea Stars of Australasia and their relatives*.
-  Neville Coleman's World of Water, Australia.64pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates.* Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

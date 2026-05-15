@@ -52,6 +52,43 @@ page_images:
   caption: |
     <p>Pulau Hantu, Jul 20Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10157563299803576&set=pcb.10157563301188576&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+links_references: |
+  **Links**  
+  - [Spotted
+    Scat (*Scatophagus argus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Scat
+    or Butterfish (*Scatophagus argus*)](http://mangrove.nus.edu.sg/pub/seashore/text/244) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Spotted
+    scat (*Scatophagus argus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp
+  - [*Scatophagus argus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Scatophagus%20argusl) (Perciformes: Scatophagidae) Spotted Scat by Joleen Chan, 2014, on taxo4254
+  - [*Scatophagus argus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1223) on NParks Flora and Fauna website.
+  - [Family
+    Scatophagidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=341) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species. *[Scatophagus
+    argus](http://www.fishbase.org/Summary/speciesSummary.php?ID=4698)* (Spotted scat).
+  **References**  
+  - Tan Heok Hui & Tan Siong Kiat. *Juvenile spotted scats at West Coast Park*. 31 March 2017. Singapore Biodiversity Records 2017: 38-39 ISSN 2345-7597. National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -68,7 +105,8 @@ freshwater so it's sometimes also seen near moonsoon drains.
  **What are scats?** Scats belong to Family Scatophagidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=341):
 the family has 2 genera and 4 species. These fishes are found in
-the Indo-Pacific region in fresh, brackish and marine habitats. **Features:** 10-30cm long. Body flattened sideways with
+the Indo-Pacific region in fresh, brackish and marine habitats. ## Features
+ 10-30cm long. Body flattened sideways with
 a somewhat rectangular shape. Has small scales. Small mouth on a
 rounded snout. Eyes are relatively large. It has sharp spines on
 the first dorsal fins that are believed to contain venom glands
@@ -127,45 +165,7 @@ argus* (Spotted scat)
 
 ---
 
-**Links**  
 
-- [Spotted
-  Scat (*Scatophagus argus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Scat
-  or Butterfish (*Scatophagus argus*)](http://mangrove.nus.edu.sg/pub/seashore/text/244) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Spotted
-  scat (*Scatophagus argus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp
-- [*Scatophagus argus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Scatophagus%20argusl) (Perciformes: Scatophagidae) Spotted Scat by Joleen Chan, 2014, on taxo4254
-- [*Scatophagus argus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1223) on NParks Flora and Fauna website.
-- [Family
-  Scatophagidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=341) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species. *[Scatophagus
-  argus](http://www.fishbase.org/Summary/speciesSummary.php?ID=4698)* (Spotted scat).
-
-**References**  
-
-- Tan Heok Hui & Tan Siong Kiat. *Juvenile spotted scats at West Coast Park*. 31 March 2017. Singapore Biodiversity Records 2017: 38-39 ISSN 2345-7597. National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

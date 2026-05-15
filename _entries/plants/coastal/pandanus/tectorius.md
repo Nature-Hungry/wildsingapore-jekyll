@@ -60,6 +60,24 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
+links_references: |
+  **Links**
+  - [*Pandanus
+    tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [Hala,
+    screwpine (*Pandanus tectorius*) (PDF)](http://www.ctahr.hawaii.edu/forestry/Data/CommonTreesHI/CFT_Pandanus_tectorius.pdf) on the [Common
+    Forest Trees of Hawaii](http://www.ctahr.hawaii.edu/forestry/trees/little_skolmen.html) USDA Agriculture Handbook No. 679 Elbert
+    L. Little Jr. and Roger G. Skolmen, 1989
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -71,7 +89,8 @@ parts of Singapore. It is probably the most widespread *Pandanus*species, being 
 tropical shores and throughout Southeast Asia. Its old name *P.
 odoratissimus* is an accepted synonym.  
   
- **Features:** A prickly tall bush
+ ## Features
+ A prickly tall bush
 (2-3m) to a small tree (3-14m tall), widely branching sometimes with
 several trunks which can be spiny. Often with stilt roots around the
 stem. Also emerging from the stems, aerial roots with 'warts' and
@@ -140,26 +159,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Pandanus
-  tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [Hala,
-  screwpine (*Pandanus tectorius*) (PDF)](http://www.ctahr.hawaii.edu/forestry/Data/CommonTreesHI/CFT_Pandanus_tectorius.pdf) on the [Common
-  Forest Trees of Hawaii](http://www.ctahr.hawaii.edu/forestry/trees/little_skolmen.html) USDA Agriculture Handbook No. 679 Elbert
-  L. Little Jr. and Roger G. Skolmen, 1989
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

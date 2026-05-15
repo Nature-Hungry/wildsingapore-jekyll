@@ -46,7 +46,8 @@ thick coastal forest. Individually usually widely dispersed, seldom
 with many on the same stone. First seen on St. John's Island, subsequently
 found on other southern natural rocky shores.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 1-2cm. Pale body column with pink spots in rows along the
 length of the body. One ring of tapering tentacles, pale greyish with
 pinkish cast and pinkish tips.

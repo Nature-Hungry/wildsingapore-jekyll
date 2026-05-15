@@ -34,13 +34,29 @@ page_images:
     <p>Sisters Island, Aug 08 What does it eat?</p>
     <p>It is said to feed on algae, crustaceans and other invertebrates during the day.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
+links_references: |
+  **Links**  
+  - [Black-spot
+    sergeant (*Abudefduf sordidus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5689) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Ria Tan. 26 December 2014. *Blackspot sergeant at Sisters Island*. Singapore Biodiversity Records 2014: 333
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This
 fish was seen once at Sisters Islands near living reefs.  
   
-**Features:** To about 23cm, the one
+## Features
+ To about 23cm, the one
 seen about 8cm long. Head and body white. It is identified by the
 prominent black spot at the top of the tail just before the tail fin.
 Like other sergeants, it has about 6 dark or grey bars. More on [how
@@ -63,23 +79,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Black-spot
-  sergeant (*Abudefduf sordidus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=5689) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Ria Tan. 26 December 2014. *Blackspot sergeant at Sisters Island*. Singapore Biodiversity Records 2014: 333
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

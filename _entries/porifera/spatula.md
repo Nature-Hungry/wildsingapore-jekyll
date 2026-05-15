@@ -87,11 +87,33 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg
+links_references: |
+  **Links**
+  - [*Lamellodysidea
+    herbacea*](http://www.sealifebase.fisheries.ubc.ca/summary/Lamellodysidea-herbacea.html)
+    on SeaLife Base: technical database.
+  - [*Lamellodysidea
+    herbacea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=164988) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Allen, Gerald
+    R and Roger Steene. 2002. *Indo-Pacific
+    Coral Reef Field Guide*.
+    Tropical Reef Research. 378pp.
 ---
 
 ## Where seen?
  This pale blue prickly sponge is commonly seen on our Southern shores,
-growing over coral rubble. **Features:** Small, covering an area of 10-15cm. The sponge
+growing over coral rubble. ## Features
+ Small, covering an area of 10-15cm. The sponge
 can take various forms; flat spatula-like fingers, lettuce-like 'leaves',
 spindly branches, short thicker lobes, all emerging from an encrusting
 base. Younger ones may look like cabbages with upright lobes arranged
@@ -142,29 +164,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Lamellodysidea
-  herbacea*](http://www.sealifebase.fisheries.ubc.ca/summary/Lamellodysidea-herbacea.html)
-  on SeaLife Base: technical database.
-- [*Lamellodysidea
-  herbacea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=164988) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
 
 [links](../links.htm)
 | [references](../references.htm)

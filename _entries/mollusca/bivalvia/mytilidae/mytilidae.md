@@ -47,6 +47,45 @@ page_images:
   caption: |
     <p><a href="musculista.htm">Nest mussels</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+links_references: |
+  **Links**
+  - [Green
+    Mussel (*Perna viridis*)](http://mangrove.nus.edu.sg/pub/seashore/text/158.htm) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Nest
+    mussel (*Musculista senhausii*)](http://mangrove.nus.edu.sg/guidebooks/text/2091.htm) and [Black
+    mussel (*Xenostrobus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [Family
+    Mytilidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Mytilidae.html) on
+    [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website:
+    brief description and photos.
+  - Family Mytilidae
+    in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 if you
@@ -64,7 +103,8 @@ out on the sand or mudflats.
 **What are sea mussels?** Sea mussels
 belong to the Family Mytilidae.  
   
-**Features:** The two-part shell is
+## Features
+ The two-part shell is
 generally tear-drop shaped (rounded at one end and pointed at the
 other). Although thin, the shell is quite strong. Instead of gluing
 down one valve to a rock like [oysters](../ostreidae/osteridae.htm) do, mussels attach themselves with byssus threads.   
@@ -154,47 +194,7 @@ Trichomya hirsuta
 
 ---
 
-**Links**
 
-- [Green
-  Mussel (*Perna viridis*)](http://mangrove.nus.edu.sg/pub/seashore/text/158.htm) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Nest
-  mussel (*Musculista senhausii*)](http://mangrove.nus.edu.sg/guidebooks/text/2091.htm) and [Black
-  mussel (*Xenostrobus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [Family
-  Mytilidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Mytilidae.html) on
-  [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website:
-  brief description and photos.
-- Family Mytilidae
-  in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -95,12 +95,30 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
+    [*Lobiger
+    viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri) and *[Lobiger
+    souverbii](http://www.seaslugforum.net/factsheet.cfm?base=lobisouv)*
+  - [The
+    Slug Site](http://slugsite.us/)
+    Branch of the Week: photo and fact sheet on *[Lobiger
+    viridis](http://slugsite.us/bow/nudwk401.htm)* and *[Lobiger
+    souverbii](http://slugsite.us/bow/nudwk311.htm)*
+  **References**
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - K. R. Jensen & R. S. L. Ong. *Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)*.10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
 ---
 
 ## Where seen?
  This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.  
   
-**Features:** To about
+## Features
+ To about
 3cm. It has a green shell and four long 'fingers' sticking out of
 the sides of its body that look like tendrils of a seaweed. These
 tendrils can be 'rolled up', making the slug very difficult to see
@@ -143,25 +161,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-  [*Lobiger
-  viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri) and *[Lobiger
-  souverbii](http://www.seaslugforum.net/factsheet.cfm?base=lobisouv)*
-- [The
-  Slug Site](http://slugsite.us/)
-  Branch of the Week: photo and fact sheet on *[Lobiger
-  viridis](http://slugsite.us/bow/nudwk401.htm)* and *[Lobiger
-  souverbii](http://slugsite.us/bow/nudwk311.htm)*
-
-**References**
-
-- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-- K. R. Jensen & R. S. L. Ong. *Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)*.10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..
-- Debelius,
-  Helmut, 2001. *Nudibranchs
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

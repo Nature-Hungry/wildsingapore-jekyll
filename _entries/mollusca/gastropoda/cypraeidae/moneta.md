@@ -51,11 +51,21 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
+links_references: |
+  **Links**
+  - *[Cypraea
+    moneta](https://www.sealifebase.ca/country/CountrySpeciesSummary.php?c_code=258&Genus=Cypraea&Species=moneta)* on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 Preliminary
+    Checklist of The Molluscs of Singapore (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This
-squat cowrie was seen once at Cyrene. It is was previously known as *Cypraea moneta.* Called 'money cowry' because in the past, the shells were used as currency in the Pacific and Indian Ocean. **Features:** 2-3cm. Shell rather irregular in shape, almost hexagonal, yellowish white with dark smudges around the humped up middle part of the shell. Underside plain white (no markings) without
+squat cowrie was seen once at Cyrene. It is was previously known as *Cypraea moneta.* Called 'money cowry' because in the past, the shells were used as currency in the Pacific and Indian Ocean. ## Features
+ 2-3cm. Shell rather irregular in shape, almost hexagonal, yellowish white with dark smudges around the humped up middle part of the shell. Underside plain white (no markings) without
 coloured 'teeth'. The living animal has a translucent mantle with a pattern of fine dark bars and short translucent 'hairs'.
 
  
@@ -90,17 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Cypraea
-  moneta](https://www.sealifebase.ca/country/CountrySpeciesSummary.php?c_code=258&Genus=Cypraea&Species=moneta)* on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 Preliminary
-  Checklist of The Molluscs of Singapore (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

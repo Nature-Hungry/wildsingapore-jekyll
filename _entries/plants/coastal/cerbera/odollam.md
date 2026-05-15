@@ -113,6 +113,23 @@ page_images:
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
+links_references: |
+  **Links**
+  - [*Cerbera
+    odollam*](http://floraofsingapore.wordpress.com/2010/04/04/cerbera-odollam/) on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - [*Cerbera
+    odollam*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2800) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -123,7 +140,8 @@ seashores and tidal rivers. According to Giesen, it is found in coastal
 forest and landward margins of mangroves and along rivers. It has
 a limited salt tolerance, and occurs on clays or sandy soils.  
   
- **Features:** Tree up to 12-15m tall,
+ ## Features
+ Tree up to 12-15m tall,
 but in Singapore usually shorter. Produces a white sap from all broken
 plant parks. Bark fissured, flaky, grey to brown with lenticels, often
 with buttress roots.   
@@ -169,25 +187,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cerbera
-  odollam*](http://floraofsingapore.wordpress.com/2010/04/04/cerbera-odollam/) on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- [*Cerbera
-  odollam*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2800) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

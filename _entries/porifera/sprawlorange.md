@@ -64,13 +64,26 @@ page_images:
   caption: |
     <p>Terumbu Salu, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg
+links_references: |
+  **Links**
+  - [*Clathria
+    reinwardti*](http://www.sealifebase.fisheries.ubc.ca/summary/Clathria-reinwardti.html)
+    on SeaLife Base: technical fact sheet.
+  - [*Clathria
+    reinwardti*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=190616) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This large sprawling bright orange sponge is commonly seen on some
 of our Southern shores, growing in sheltered shores on coral rubble
 in or near seagrass areas and in man-made lagoons on our Southern
-Islands. **Features:** 20-30cm.
+Islands. ## Features
+ 20-30cm.
 Often looks like sprawling tree roots, branching and spreading horizontally
 along the surface. Stems may be slender, long, angular and sparsely
 branched, or short and regularly branched with short upright portions.
@@ -128,20 +141,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Clathria
-  reinwardti*](http://www.sealifebase.fisheries.ubc.ca/summary/Clathria-reinwardti.html)
-  on SeaLife Base: technical fact sheet.
-- [*Clathria
-  reinwardti*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=190616) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

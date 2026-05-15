@@ -65,12 +65,32 @@ page_images:
     <p>Periplus Editions.</p>
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/120619tmd5566m3.jpg
+links_references: |
+  **Links**  
+  - [Blue-lined
+    hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Bluelined
+    hind (*Cephalopholis formosa*)](http://www.fishbase.org/summary/6446) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet
+  - [Bluelined
+    hind (*Cephalopholis formosa*)](http://www.iucnredlist.org/details/132743/0) from IUCN Red List: Technical fact sheet.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
 ---
 
 ## Where seen?
  This rather large fish with bright blue narrow lines is sometimes near our seawalls. It is said to prefer shallow dead or silty reefs.  
   
- **Features:** To about 30cm. The fish is distinguished by by narrow blue stripes on head, body and fins. All fins also blue. Body dark brown to yellowish brown. Those seen pale, sometimes with light or dark brown bars: are these its 'night colours'?
+ ## Features
+ To about 30cm. The fish is distinguished by by narrow blue stripes on head, body and fins. All fins also blue. Body dark brown to yellowish brown. Those seen pale, sometimes with light or dark brown bars: are these its 'night colours'?
 
  
 
@@ -113,27 +133,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Blue-lined
-  hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Bluelined
-  hind (*Cephalopholis formosa*)](http://www.fishbase.org/summary/6446) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet
-- [Bluelined
-  hind (*Cephalopholis formosa*)](http://www.iucnredlist.org/details/132743/0) from IUCN Red List: Technical fact sheet.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
 
 [links](../../../links)
 | [references](../../../references)

@@ -50,6 +50,62 @@ page_images:
   caption: |
     <p><a href="biaculeatus">Alligator pipefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
+links_references: |
+  **Links**  
+  - [Pipefish
+    (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230) Tan, Leo W. H. & Ng, Peter K. L., 1988,
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [Blue-speckled
+    Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
+    Lim,
+    Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Project
+    Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses, it also
+    has lots of info about pipefish with details on the
+    trade in pipefish.
+  - [Family
+    Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258) and [*Choeroichthys
+    brachysoma* (Short-bodied pipefish)](http://www.fishbase.org/summary/5958) and [*Corythoichthys
+    flavofasciatus* (Network pipefish)](http://www.fishbase.org/summary/5959) and [*Halicampus
+    nitidus* (Glittering pipefish)](http://www.fishbase.org/summary/5976) and [*Hippichthys
+    cyanospilos* (Blue-spotted pipefish)](http://www.fishbase.org/summary/7728) and *[Ichthyocampus
+    carce](http://www.fishbase.org/summary/11808)* and [*Micrognathus
+    brevirostris brevirostris* (Thorntail pipefish)](http://www.fishbase.org/summary/7996) and [*Syngnathoides
+    biaculeatus* (Alligator pipefish)](http://www.fishbase.org/summary/5980) and [*Hippichthys
+    spicifer* (Bellybarred pipefish)](http://www.fishbase.org/summary/7495) and [*Bhanotia
+    fasciolata* (Corrugated pipefish)](http://www.fishbase.org/summary/7721) and [*Trachyrhamphus
+    bicoarctatus* (Double-ended pipefish)](http://www.fishbase.org/summary/5981) and *[Trachyrhamphus
+    serratus](http://www.fishbase.org/summary/23123)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species
+  - [Papa
+    pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-alll) on the wild shores of singapore
+  **References**
+  - Daisuke Taira. *Ringed pipefish in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 89 ISSN 2345-7597. National University of Singapore.
+  - Toh Yuet Hsin & Koh Kwan Siong. 18 December 2015. *New record of ringed pipefish in Singapore*. Singapore Biodiversity Records 2015: 211
+  - Tan Heok Hui. 26 December 2014. *Janss’ pipefish at Pulau Pawai, Doryramphus janssi*. Singapore Biodiversity Records 2014: 336.
+  - Toh Chay Hoon & Kelvin K. P. Lim. 7 February 2014. *Schultz's pipefish off Pulau Hantu*. Singapore Biodiversity Records 2014: 37.
+  - Ng Boon Leong & Khoo Min Hui. 9 May 2014. *New record of white-faced pipefish in Singapore, Corythoichthys cf. amplexus*. Singapore Biodiversity Records 2014: 120-121
+  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
+  - Toh Chay Hoon. 31 October 2013. *Brock’s pipefish at Little Sister Island, Halicampus brocki*. Singapore Biodiversity Records 2013: 43.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
+  - Kuiter, Rudie
+    H., 2000 (English edition). *Seahorses,
+    Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes* TMC Publishing, UK. 240 pp.
 ---
 
 if you
@@ -73,7 +129,8 @@ are true fish, although they don't appear very fish-like! Pipefishes
 belong to [Family Syngnathidae](syngnathidae) which
 includes seahorses.  
   
-**Features:** Bodies long, cylindrical
+## Features
+ Bodies long, cylindrical
 and rather stiff being enclosed in an armour of bony rings just under
 the skin. They also have an internal skeleton just like other fish.
 Most retain a tiny dorsal fin and tiny pectoral fins and some have a tiny fan-like
@@ -160,64 +217,7 @@ Trachyrhamphus bicoarctatus* *Trachyrhamphus serratus*
 
 ---
 
-**Links**  
 
-- [Pipefish
-  (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230) Tan, Leo W. H. & Ng, Peter K. L., 1988,
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [Blue-speckled
-  Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
-  Lim,
-  Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses, it also
-  has lots of info about pipefish with details on the
-  trade in pipefish.
-- [Family
-  Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258) and [*Choeroichthys
-  brachysoma* (Short-bodied pipefish)](http://www.fishbase.org/summary/5958) and [*Corythoichthys
-  flavofasciatus* (Network pipefish)](http://www.fishbase.org/summary/5959) and [*Halicampus
-  nitidus* (Glittering pipefish)](http://www.fishbase.org/summary/5976) and [*Hippichthys
-  cyanospilos* (Blue-spotted pipefish)](http://www.fishbase.org/summary/7728) and *[Ichthyocampus
-  carce](http://www.fishbase.org/summary/11808)* and [*Micrognathus
-  brevirostris brevirostris* (Thorntail pipefish)](http://www.fishbase.org/summary/7996) and [*Syngnathoides
-  biaculeatus* (Alligator pipefish)](http://www.fishbase.org/summary/5980) and [*Hippichthys
-  spicifer* (Bellybarred pipefish)](http://www.fishbase.org/summary/7495) and [*Bhanotia
-  fasciolata* (Corrugated pipefish)](http://www.fishbase.org/summary/7721) and [*Trachyrhamphus
-  bicoarctatus* (Double-ended pipefish)](http://www.fishbase.org/summary/5981) and *[Trachyrhamphus
-  serratus](http://www.fishbase.org/summary/23123)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species
-- [Papa
-  pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-alll) on the wild shores of singapore
-
-**References**
-
-- Daisuke Taira. *Ringed pipefish in the Singapore Strait*. 31 July 2018. Singapore Biodiversity Records 2018: 89 ISSN 2345-7597. National University of Singapore.
-- Toh Yuet Hsin & Koh Kwan Siong. 18 December 2015. *New record of ringed pipefish in Singapore*. Singapore Biodiversity Records 2015: 211
-- Tan Heok Hui. 26 December 2014. *Janss’ pipefish at Pulau Pawai, Doryramphus janssi*. Singapore Biodiversity Records 2014: 336.
-- Toh Chay Hoon & Kelvin K. P. Lim. 7 February 2014. *Schultz's pipefish off Pulau Hantu*. Singapore Biodiversity Records 2014: 37.
-- Ng Boon Leong & Khoo Min Hui. 9 May 2014. *New record of white-faced pipefish in Singapore, Corythoichthys cf. amplexus*. Singapore Biodiversity Records 2014: 120-121
-- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009. *Some note-worthy fishes observed in the Singapore Straits*. Nature in Singapore, 2: 77–82.
-- Toh Chay Hoon. 31 October 2013. *Brock’s pipefish at Little Sister Island, Halicampus brocki*. Singapore Biodiversity Records 2013: 43.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
-- Kuiter, Rudie
-  H., 2000 (English edition). *Seahorses,
-  Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes* TMC Publishing, UK. 240 pp.
 
 [links](../../../links)
 | [references](../../../references)

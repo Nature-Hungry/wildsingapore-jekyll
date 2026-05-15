@@ -33,11 +33,21 @@ page_images:
   caption: |
     <p>Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on <a href="https://www.facebook.com/photo.php?fbid=10158404749936310&set=a.10158404815076310&type=3&theater">facebook</a>.</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
+links_references: |
+  **Links**
+  - [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html) on SeaLife Base: technical fact sheet.
+  - [*Aaptos suberitoides*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170743) on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.  
- **Features:** Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
+ ## Features
+ Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
 
  
 
@@ -70,17 +80,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html) on SeaLife Base: technical fact sheet.
-- [*Aaptos suberitoides*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170743) on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

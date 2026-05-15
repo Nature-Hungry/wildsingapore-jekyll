@@ -37,13 +37,27 @@ page_images:
   caption: |
     <p>East Coast Park, Feb 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/weird-blob-is-sea-slug.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+links_references: |
+  **Links**
+  - *[Philine
+    orientalis](http://www.seaslugforum.net/find/philhk)*
+    on the [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman: photos and fact sheet.
+  **References**
+  - Brian Morton, S. T. Chiu. 1 May 1990. [The diet, prey size and consumption of Philine orientalis (Opisthobranchia: Philinidae) in Hong Kong](https://academic.oup.com/mollus/article-abstract/56/2/289/1143984/THE-DIET-PREY-SIZE-AND-CONSUMPTION-OF-PHILINE).
+    Jourmal of Molluscan Studies (1990) 56 (2): 289-299.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
  This strange slug is sometimes seen in clean sandy
 shores and sand bars. It reminds of 'attap chee', the fruit of the [Nipah palm](../../../plants/mangrove/nypa/nypa.htm) that is eaten in local desserts such as 'ice-kacang'.  
   
-**Features:** 4-6cm long. Body oval
+## Features
+ 4-6cm long. Body oval
 wedge-shaped smooth white, made up of lobes. Like other [headshield
 snails](cephalaspidea.htm) it has a shield over the front of the body which is used
 to plough through the sediments. This muscular slug can burrow rapidly
@@ -80,21 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Philine
-  orientalis](http://www.seaslugforum.net/find/philhk)*
-  on the [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: photos and fact sheet.
-
-**References**
-
-- Brian Morton, S. T. Chiu. 1 May 1990. [The diet, prey size and consumption of Philine orientalis (Opisthobranchia: Philinidae) in Hong Kong](https://academic.oup.com/mollus/article-abstract/56/2/289/1143984/THE-DIET-PREY-SIZE-AND-CONSUMPTION-OF-PHILINE).
-  Jourmal of Molluscan Studies (1990) 56 (2): 289-299.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

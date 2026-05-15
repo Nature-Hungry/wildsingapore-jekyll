@@ -74,6 +74,10 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158765322/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
+links_references: |
+  **Links**  
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*. 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
 ---
 
 ## Where seen?
@@ -82,7 +86,8 @@ sometimes seen on our shores. In silty
 sand near seagrass meadows on sheltered shores, as well as sandy artificial
 swimming lagoons.   
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 5-8cm. Many long, thick tapering tentacles that are translucent,
 usually unpatterned and beige or pinkish. The oral disk is also usually unpatterned
 and sometimes slightly darker than the tentacles. Body column smooth
@@ -148,11 +153,6 @@ thanks to Prof Daphne Fautin for identifiying this anemone. **Links**
   of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Dr Daphne G. Fautin with classification,
   distribution, biological associations and more.
 
-**Links**  
-  
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*. 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
 
 [links](../../links.htm)
 | [references](../../references.htm)

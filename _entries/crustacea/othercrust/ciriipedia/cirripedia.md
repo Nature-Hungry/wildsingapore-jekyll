@@ -96,6 +96,53 @@ page_images:
   caption: |
     <p><a href="sponge">Barnacles in a sponge</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
+    [barnacles
+    on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269), [Parasitic
+    barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Barnacles](http://www.mesa.edu.au/friends/seashores/barnaclesl)
+    on [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet on barnacles with lots
+    of animated diagrams of barnacles at all stages of their development
+    and details on various species of barnacles found in Australia.
+  - [Barnacle
+    penis: longer isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl) on the wild shores of singapore
+    blog.
+  - [Secrets
+    of barnacle glue revealed](http://wildshores.blogspot.com/2009/10/secrets-of-barnacle-glue-revealedl) on the wild shores of singapore
+    blog.
+  **References**
+  - D. S. Jones & A. M. Hosie. 29 June 2016. *A checklist of the barnacles (Cirripedia: Thoracica) of Singapore and neighbouring waters*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 241-311
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -122,7 +169,8 @@ are [crustaceans](../../crustacea) like crabs and shrimps.
 But they belong to a different group, their own Class Cirripedia.
 There are about 900 species of barnacles.  
   
-**Features:** Barnacles are often
+## Features
+ Barnacles are often
 mistaken for snails because of their hard 'shells'. However, barnacles
 as actually crustaceans. The larvae of barnacles are shrimp-like and
 swim freely. As it develops, the larvae eventually glues itself head
@@ -348,55 +396,7 @@ Sacculinidae**
 
 ---
 
-**Links**
 
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
-  [barnacles
-  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269), [Parasitic
-  barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Barnacles](http://www.mesa.edu.au/friends/seashores/barnaclesl)
-  on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet on barnacles with lots
-  of animated diagrams of barnacles at all stages of their development
-  and details on various species of barnacles found in Australia.
-- [Barnacle
-  penis: longer isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl) on the wild shores of singapore
-  blog.
-- [Secrets
-  of barnacle glue revealed](http://wildshores.blogspot.com/2009/10/secrets-of-barnacle-glue-revealedl) on the wild shores of singapore
-  blog.
-
-**References**
-
-- D. S. Jones & A. M. Hosie. 29 June 2016. *A checklist of the barnacles (Cirripedia: Thoracica) of Singapore and neighbouring waters*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 241-311
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -58,6 +58,41 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519781387/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+links_references: |
+  **Links**
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
+    various tailed slugs including [*Philinopsis
+    pilsbryi*](http://www.seaslugforum.net/find/philpils)
+  - [*Philinopsis* cf. *pilsbryi*](http://www.sealifebase.org/summary/Philinopsis-pilsbryi.html) on SeaLife Base.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2008. *Nudibranchs
+    Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
+    Neville Coleman's World of Water, Australia. 415pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+  - Coleman,
+    Neville. 2008. *Nudibranchs
+    Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
+    Neville Coleman's World of Water, Australia. 415pp.
 ---
 
 ## Where seen?
@@ -65,7 +100,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pi
 on some of our shores, burrowing among seagrasses and near living
 reefs.  
   
-**Features:** 2-3cm. A long, cylindrical
+## Features
+ 2-3cm. A long, cylindrical
 body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. It has a
 tiny internal shell. The black-and-white pattern can vary widely: from a black network on a white background, to white spots on a black background. The pattern extends onto the inside of
 the parapodia, there are no blue markings on the front and back edges
@@ -116,43 +152,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets of
-  various tailed slugs including [*Philinopsis
-  pilsbryi*](http://www.seaslugforum.net/find/philpils)
-- [*Philinopsis* cf. *pilsbryi*](http://www.sealifebase.org/summary/Philinopsis-pilsbryi.html) on SeaLife Base.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2008. *Nudibranchs
-  Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
-  Neville Coleman's World of Water, Australia. 415pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Coleman,
-  Neville. 2008. *Nudibranchs
-  Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*.
-  Neville Coleman's World of Water, Australia. 415pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

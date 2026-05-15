@@ -52,6 +52,43 @@ page_images:
     <p>Opened fruit on the shore.</p>
     <p>Pulau Hantu, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
+links_references: |
+  **Links**
+  - [*Sonneratia
+    alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - [*Sonneratia
+    alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sonneratia%20alba%20%28Mangrove%20Apple%29l) (Myrtales: Sonneratiaceae) Mangrove Apple from Teo
+    Xian Hui Jessica, 2013 from taxo4254.
+  - [Perepat
+    (*Sonneratia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1073) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - Giesen,
+    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -62,7 +99,8 @@ it colonises newly formed sandy mud flats in sheltered estuaries and
 coastal areas. It is intolerant to long periods of exposure to freshwater.
 Another local name for it was 'Bedada'.   
   
-**Features:** Tree 3-30m tall. Bark
+## Features
+ Tree 3-30m tall. Bark
 cream to light grey, finely fissured. Thick underground cable roots
 spread out from the trunk. These bear sturdy conical pneumatophores
 (25cm to 1m tall). But the tree may lack pnematophores if it grows
@@ -134,45 +172,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Sonneratia
-  alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- [*Sonneratia
-  alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sonneratia%20alba%20%28Mangrove%20Apple%29l) (Myrtales: Sonneratiaceae) Mangrove Apple from Teo
-  Xian Hui Jessica, 2013 from taxo4254.
-- [Perepat
-  (*Sonneratia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1073) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- Giesen,
-  Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

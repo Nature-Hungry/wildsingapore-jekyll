@@ -28,10 +28,18 @@ page_images:
   caption: |
     <p>Dead Changi, Nov 08Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2998478849/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+links_references: |
+  **Links**  
+  - [Reticulated puffer (*Arothron reticularis*)](https://www.fishbase.se/summary/6594) and from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  - Tan Heok Hui. *Reticulate pufferfish sold for food at a market*. 31 August 2018. Singapore Biodiversity Records 2018: 91.
 ---
 
 ## Where seen?
- A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
+ A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. ## Features
+  To
 about 45cm. Body covered with fine prickles. Body greyish brown with whitish stripes on its snout, cheeks and belly. Brown and whitish lines circle the eye. Whitish rounded spots on the dorsal surface, giving a net-like appearance. Large blackish blotch on the gill flap and on the base of the pectoral fin. Tail fin is spotted and the other fins are translucent yellowish-brown.
  
 
@@ -58,15 +66,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Reticulated puffer (*Arothron reticularis*)](https://www.fishbase.se/summary/6594) and from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Toh Chay Hoon & Kelvin K. P. Lim. *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
-- Tan Heok Hui. *Reticulate pufferfish sold for food at a market*. 31 August 2018. Singapore Biodiversity Records 2018: 91.
 
 [links](../../../links)
 | [references](../../../references)

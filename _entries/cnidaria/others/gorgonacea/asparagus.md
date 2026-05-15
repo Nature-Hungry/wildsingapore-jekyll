@@ -60,6 +60,24 @@ page_images:
   caption: |
     <p>Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942205713158&set=a.10159942212483158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
+links_references: |
+  **Links**
+  - [*Dichotella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dichotella)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C.
+    and Chou, L.M. 20 December 1996. *An
+    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+    of Singapore, with a discussion of gorgonian diversity in the
+    Indo-West Pacific*. Raffles
+    Museum Bulletin of Zoology Pp. 435-459.
 ---
 
 ## Where seen?
@@ -67,7 +85,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/aspa
 is often seen on Beting Bronok and sometimes at Changi, on rubble
 and rocks.  
   
-**Features:** 15-20cm long. The colony
+## Features
+ 15-20cm long. The colony
 comprises a cluster of a few cylingrical stems that are generally
 unbranched except near the base. Polyps with white transparent tentacles.
 When they retract, the base of the polyps curve to form smooth bumps
@@ -118,26 +137,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Dichotella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dichotella)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
-- Goh, N.K.C.
-  and Chou, L.M. 20 December 1996. *An
-  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-  of Singapore, with a discussion of gorgonian diversity in the
-  Indo-West Pacific*. Raffles
-  Museum Bulletin of Zoology Pp. 435-459.
 
 [links](../../../links)
 | [references](../../../references)

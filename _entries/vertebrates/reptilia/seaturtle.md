@@ -66,6 +66,61 @@ page_images:
     <p>Dead sea turtle washed ashore.</p>
     <p>Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154296607708158&set=a.10154296607228158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
+links_references: |
+  **Links**
+  - [Latest
+    media reports on sea turtles](http://wildsingaporenews.blogspot.com/search/label/sea-turtles) on the wildsingapore news blog.
+  - [Marine
+    turtles](http://www.worldwildlife.org/species/finder/marineturtles/marineturtlesl) on the WWF website with fact sheets on [Green
+    turtles](http://www.worldwildlife.org/species/finder/greenturtle/greenturtlel) and [Hawksbill
+    turtles](http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtlel).
+  - [Sea
+    turtles of Malaysia](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/) on the WWF Malaysia website: with details
+    of [satellite
+    tracking of hawskbill turtles](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/turtles_projects/conservation_of_hawksbill_turtles___painted_terrapins_in_malacca/turtle_satellite_tracking_of_hawksbill_turtles_ver2/) and [maps
+    of sea turtle migration in the Coral Triangle](http://www.wwf.org.my/media_and_information/events_main/?9000/Maps-Reveal-Secret-Life-of-Turtles-and-Marine-Habitat-in-Urgent-Need-of-Protection).
+  - NParks Flora and Fauna website: [Green turtle (*Chelonia mydas*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=263) and [Hawksbill turtle (*Eretmochelys imbricata*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=262).
+  - From the
+    wild shores of singapore blog.
+    - All sighting from 2019 onwards, compiled under the tag: ['mega fauna'](http://wildshores.blogspot.sg/search/label/mega-fauna)
+    - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-seal)
+    - [Sea turtles and dolphins in Singapore waters! (May 2018)](http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singaporel)
+    - [Singapore got sea turtles!](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtlesl)
+    - [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtlel)
+    - [Do balloon releases kill marine life?](http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-lifel)
+    - [Balloons and soft plastic kill sea turtles, slowly and painfully](http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-seal)
+    - [Sea
+      turtles of the Coral Triangle and Singapore](http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-andl)
+    - [Discarded
+      balloons can kill sea turtles](http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtlesl)
+    - [Sea
+      turtle connection: Sentosa and Pulau Upeh](http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulaul)
+    - [Light
+      kills](http://wildshores.blogspot.com/2009/03/light-killsl)
+    - [Reactions
+      to mass balloon release](http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-releasel)
+    - [Single
+      abandoned fishing line can kill](http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-killl)
+    - [How
+      do sea turtles find their way home?](http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-homel)
+    - [Sea
+      turtles and Singapore's shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shoresl)
+  **References**
+  - Joseph Cham, *Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly urbanized seascape*, Bulletin of Marine Science, 29 May 2024.
+  - Ng Juat Ying, Collin H. Y. Tong & Koh Kwan Siong. *A carcass of an olive ridley turtle at East Coast beach*. 31 May 2019. Singapore Biodiversity Records 2019: 65-66 ISSN 2345-7597. National University of Singapore.
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -73,7 +128,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/
 Southern Islands. While there have been several incidents of baby
 sea turtles hatching on our shores, including East Coast Park!  
   
-**Features:** Marine turtles are air-breathing
+## Features
+ Marine turtles are air-breathing
 reptiles that live out at sea. They only return to land to lay their
 eggs on sandy beaches. Superbly adapated to life at sea, the sea turtles
 limbs are modified into oar-like flippers. As adults many migrate,
@@ -179,45 +235,6 @@ coriacea* (Leatherback turtle)
 
 ---
 
-**Links**
-
-- [Latest
-  media reports on sea turtles](http://wildsingaporenews.blogspot.com/search/label/sea-turtles) on the wildsingapore news blog.
-- [Marine
-  turtles](http://www.worldwildlife.org/species/finder/marineturtles/marineturtlesl) on the WWF website with fact sheets on [Green
-  turtles](http://www.worldwildlife.org/species/finder/greenturtle/greenturtlel) and [Hawksbill
-  turtles](http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtlel).
-- [Sea
-  turtles of Malaysia](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/) on the WWF Malaysia website: with details
-  of [satellite
-  tracking of hawskbill turtles](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/turtles_projects/conservation_of_hawksbill_turtles___painted_terrapins_in_malacca/turtle_satellite_tracking_of_hawksbill_turtles_ver2/) and [maps
-  of sea turtle migration in the Coral Triangle](http://www.wwf.org.my/media_and_information/events_main/?9000/Maps-Reveal-Secret-Life-of-Turtles-and-Marine-Habitat-in-Urgent-Need-of-Protection).
-- NParks Flora and Fauna website: [Green turtle (*Chelonia mydas*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=263) and [Hawksbill turtle (*Eretmochelys imbricata*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=262).
-- From the
-  wild shores of singapore blog.
-  - All sighting from 2019 onwards, compiled under the tag: ['mega fauna'](http://wildshores.blogspot.sg/search/label/mega-fauna)
-  - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-seal)
-  - [Sea turtles and dolphins in Singapore waters! (May 2018)](http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singaporel)
-  - [Singapore got sea turtles!](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtlesl)
-  - [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtlel)
-  - [Do balloon releases kill marine life?](http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-lifel)
-  - [Balloons and soft plastic kill sea turtles, slowly and painfully](http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-seal)
-  - [Sea
-    turtles of the Coral Triangle and Singapore](http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-andl)
-  - [Discarded
-    balloons can kill sea turtles](http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtlesl)
-  - [Sea
-    turtle connection: Sentosa and Pulau Upeh](http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulaul)
-  - [Light
-    kills](http://wildshores.blogspot.com/2009/03/light-killsl)
-  - [Reactions
-    to mass balloon release](http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-releasel)
-  - [Single
-    abandoned fishing line can kill](http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-killl)
-  - [How
-    do sea turtles find their way home?](http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-homel)
-  - [Sea
-    turtles and Singapore's shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shoresl)
 
 **Past
 sea turtle sightings in Singapore**
@@ -270,21 +287,3 @@ sea turtle sightings in Singapore**
 - [Sea
   turtle seen on Hantu Bloggers' first anniversary dive](http://habitatnews.nus.edu.sg//index.php?entry=/marine/20050322-hantuannvdive.txt) (Mar
   05) on the habitatnews blog
-
-**References**
-
-- Joseph Cham, *Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly urbanized seascape*, Bulletin of Marine Science, 29 May 2024.
-- Ng Juat Ying, Collin H. Y. Tong & Koh Kwan Siong. *A carcass of an olive ridley turtle at East Coast beach*. 31 May 2019. Singapore Biodiversity Records 2019: 65-66 ISSN 2345-7597. National University of Singapore.
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore* Singapore Science Centre. 160 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.

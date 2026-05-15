@@ -93,7 +93,8 @@ more active at night and is rarely seen by daytime visitors as it
 is then often buried in the sediments. 'Lunaris' in Latin refers to
 the moon.  
   
-**Features:** Body width 3-8cm. Body rather circular, with a pair of
+## Features
+ Body width 3-8cm. Body rather circular, with a pair of
 long spikes on the sides. There are six large smooth bumps in the
 middle of the body, the bumps are sometimes but not always highlighted
 by body patterns. Colours beige to yellow with little maroon dots

@@ -88,6 +88,26 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171065335/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+links_references: |
+  **Links**  
+  - [Variable
+    Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Variable
+    sabretooth blenny (*Petroscirtes variabilis*)](http://fishbase.org/Summary/SpeciesSummary.php?ID=6076) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -95,7 +115,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/var
 shores, among seagrasses and seaweeds. Sometimes seen hiding in large
 snail shells, fan clam shells and litter, where it appears to be guarding eggs laid on the hard surface.  
   
-**Features:** Those seen 5-7cm long, grows up to 15cm. Body elongated flattened sideways, snout blunt squarish. Lower jaw has a pair of long curved fangs. It lacks scales. Dorsal fin continuous along the body length which it holds
+## Features
+ Those seen 5-7cm long, grows up to 15cm. Body elongated flattened sideways, snout blunt squarish. Lower jaw has a pair of long curved fangs. It lacks scales. Dorsal fin continuous along the body length which it holds
 up rather handsomely when alarmed. Colours usually a dull olive green
 with pale markings, some brighter green. Underside yellow.
 Six large irregular dark blotches along upper side. Males are orange-brown while females are sea-green above and lighter
@@ -151,28 +172,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Variable
-  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Variable
-  sabretooth blenny (*Petroscirtes variabilis*)](http://fishbase.org/Summary/SpeciesSummary.php?ID=6076) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

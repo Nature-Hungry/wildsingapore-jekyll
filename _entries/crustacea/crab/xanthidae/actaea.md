@@ -39,7 +39,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa
 ## Where seen?
  This tiny jewel of a crab was seen once on Labrador.  
   
-**Features:** Body width 1-2cm. Body
+## Features
+ Body width 1-2cm. Body
 and claws bright red with bumps and ridges. Like other brightly coloured
 Xanthid crabs, it is probably [poisonous](xanthidae).
 

@@ -32,6 +32,32 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2561434578/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
+links_references: |
+  **Links**
+  - [Crab-eating
+    Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)on
+    Nick Baker's EcologyAsia website: fact sheet with photos.
+  - [*Fordonia
+    leucobalia*](http://www.iucnredlist.org/details/176694/0)
+    on the IUCN Red List.
+  **References**
+  - Serin Subara. 23 October 2015. [Giant mudskipper preying on crab-eating water snake](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2015/sbr2015-163.pdf). Singapore Biodiversity Records 2015: 163
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore* New Holland. pp 144.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -40,7 +66,8 @@ and Sungei Buloh, often near [mud
 lobster mounds](../../crustacea/othercrust/lobster/thalassina). This snake is nocturnal and is seldom seen
 during the day.  
   
-**Features:**To about 90cm long. The head is rounded and not distinct from
+## Features
+To about 90cm long. The head is rounded and not distinct from
 the body, i.e., it has no 'neck', Cylindrical body with smooth scales
 and a relatively short tail. Colour purplish brown above fading to
 white underneath. Mildly venomous, it is a gentle snake and will not
@@ -107,34 +134,7 @@ prey.
 
 ---
 
-**Links**
 
-- [Crab-eating
-  Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)on
-  Nick Baker's EcologyAsia website: fact sheet with photos.
-- [*Fordonia
-  leucobalia*](http://www.iucnredlist.org/details/176694/0)
-  on the IUCN Red List.
-
-**References**
-
-- Serin Subara. 23 October 2015. [Giant mudskipper preying on crab-eating water snake](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2015/sbr2015-163.pdf). Singapore Biodiversity Records 2015: 163
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes* Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore* New Holland. pp 144.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

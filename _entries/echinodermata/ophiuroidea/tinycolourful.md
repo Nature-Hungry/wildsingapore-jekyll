@@ -83,6 +83,16 @@ page_images:
   caption: |
     <p>Cyrene, Aug 20In <a href="../../cnidaria/others/gorgonacea/leathery">leathery sea fan</a> Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=3807890869224256&set=a.3807939485886061">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+links_references: |
+  **Links**
+  - [*Ophiothela
+    danae*](http://www.sealifebase.org/summary/Ophiothela-danael)
+    on SeaLife Base: Technical fact sheet.
+  **References**
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
 ---
 
 ## Where seen?
@@ -93,7 +103,8 @@ soft corals](../../cnidaria/coralsoft/nephtheidae) and other cnidarians and even
 can be home to many of these tiny brittle stars. But it requires a
 keen eye to spot them.  
   
-**Features:** Whole
+## Features
+ Whole
 animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Arms with colourful bands usually to match
 the host animal. Central disk also with colourful markings. Sometimes confused with the [Tiny orange brittle star](tinyorange) which are found on [Asparagus
 soft corals](../../cnidaria/coralsoft/nephtheidae).
@@ -147,16 +158,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Ophiothela
-  danae*](http://www.sealifebase.org/summary/Ophiothela-danael)
-  on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.

@@ -61,6 +61,22 @@ page_images:
   caption: |
     <p>Pasir Ris, Jun 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg
+links_references: |
+  **Links**
+  - [Bakau
+    kurap (*Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [*Rhizophora
+    mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
 ## Where seen?
@@ -74,7 +90,8 @@ for the tree was 'Belukup'. 'Kurap' is the Malay name for a scaly
 skin disease in humans and may refer to the pimply texture of the
 propagules.   
   
-**Features:** Tree up to 15m tall,
+## Features
+ Tree up to 15m tall,
 but usually shorter, rarely more than 3m. Bark dark almost black,
 horizontally fissured. Has aerial roots growing from the lower branches,
 as well as stilt roots from the trunk.   
@@ -141,22 +158,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
-
-- [Bakau
-  kurap (*Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [*Rhizophora
-  mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
 
 **Other
 references**

@@ -91,6 +91,34 @@ page_images:
   caption: |
     <p>Beting Bemban Besar, Aug 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155823573666295&set=a.10155823572731295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
+links_references: |
+  **Links**
+  - [Sponge
+    Crab (*Cryptodromia* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -105,7 +133,8 @@ tend to move slowly.
 shores, in coral rubble and seagrasses areas. Those seen often 'carry'
 ascidians and not sponges.
 
-**Features:** Body nearly spherical width 0.5-5cm, although sometimes larger ones
+## Features
+ Body nearly spherical width 0.5-5cm, although sometimes larger ones
 are encountered. Some have a smooth body and pincers covered with
 fine hairs and pink tips on the pincers. Other have a very hairy
 body and pincers, with white tips on the pincers.  
@@ -217,36 +246,7 @@ Dromidiopsis edwardsi
 
 ---
 
-**Links**
 
-- [Sponge
-  Crab (*Cryptodromia* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

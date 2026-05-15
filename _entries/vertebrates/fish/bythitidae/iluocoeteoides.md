@@ -61,6 +61,30 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162471348158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
+links_references: |
+  **Links**  
+  - [Yellow
+    cuskeel (*Dinematichthys iluocoeteoides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Bythitidae (Brotulas)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Ophidiiformes-Bythitidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family
+    Bythitidae - Viviparous brotulas](http://www.fishbase.org/summary/FamilySummary.php?ID=472)
+    and [Yellow
+    pigmy brotula (*Dinematichthys iluocoeteoides*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300) from
+    [FishBase](http://www.fishbase.org/): Technical fact
+    sheet.
+  - [Family
+    Bythitidae (Viviparous brotulas)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p020_04al) from [Fishes
+    of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
+    and Keiichi Matsuura (eds.) on the National Science Museum, Tokyo
+    website: factsheets with photos and description.
+  **References**
+  - Marcus F. C. Ng & Toh Chay Hoon. 20 June 2014. *Riau viviparous brotula at Pulau Sekudu, Ungusurculus riauensi*. Singapore Biodiversity Records 2014: 172
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
 ---
 
 ## Where seen?
@@ -69,7 +93,8 @@ some of our shores, usually near reefs at night. It was previously
 listed under Family Brotulidae and thus sometimes still referred to
 as brotulids. Another species, the Riau viviparous brotula (*Ungusurculus riauensis*) looks very similar.  
   
-**Features:** 4-7cm long, can grow to 12cm. Body long flattened, head rounded with tiny eyes. It has a pair of long filaments under its head, but this is hard to see this in a live fish in the
+## Features
+ 4-7cm long, can grow to 12cm. Body long flattened, head rounded with tiny eyes. It has a pair of long filaments under its head, but this is hard to see this in a live fish in the
 wild. It has scales on body, cheeks and gill covers. Tail fin tiny and is separated from the long dorsal and anal fins. Colour usually orangey pink.   
   
 **Baby cuskeels:** Eggs develop inside the mother
@@ -138,32 +163,7 @@ iluocoeteoides
 
 ---
 
-**Links**  
 
-- [Yellow
-  cuskeel (*Dinematichthys iluocoeteoides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Bythitidae (Brotulas)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Ophidiiformes-Bythitidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family
-  Bythitidae - Viviparous brotulas](http://www.fishbase.org/summary/FamilySummary.php?ID=472)
-  and [Yellow
-  pigmy brotula (*Dinematichthys iluocoeteoides*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300) from
-  [FishBase](http://www.fishbase.org/): Technical fact
-  sheet.
-- [Family
-  Bythitidae (Viviparous brotulas)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p020_04al) from [Fishes
-  of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
-  and Keiichi Matsuura (eds.) on the National Science Museum, Tokyo
-  website: factsheets with photos and description.
-
-**References**
-
-- Marcus F. C. Ng & Toh Chay Hoon. 20 June 2014. *Riau viviparous brotula at Pulau Sekudu, Ungusurculus riauensi*. Singapore Biodiversity Records 2014: 172
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
 
 [links](../../../links)
 | [references](../../../references)

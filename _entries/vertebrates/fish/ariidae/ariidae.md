@@ -37,6 +37,38 @@ page_images:
     <p>Small ones (about 6cm) are sometimes seen in large numbers on the shores.</p>
     <p>Chek Jawa, Jun 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+links_references: |
+  **Links**  
+  - [Yellow
+    Sea Catfish (*Arius venosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Ariidae (Sea catfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Siluriformes-Ariidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+  - [Family
+    Ariidae](http://www.fishbase.org/summary/FamilySummary.php?ID=145) and *[Arius
+    gagora](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=24982)* and *[Arius
+    leptonotacanthus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23380)* and *[Arius
+    oetik](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23384)* and *[Sciades
+    sona](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1294)* and *[Hexanematichthys
+    sagor](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1281)* and *[Netuma
+    bilineata](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11740)* and *[Osteogeneiosus
+    militaris](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1299)* and *[Plicofollis
+    argyropleuron](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11739)* and *[Plicofollis
+    nella](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23383)* from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets.
+  **References**
+  - Ng, H. H.,
+    2012. *The
+    ariid catfishes of Singapore*. Nature in Singapore, 5: 211-222.
+    [PDF, 938 KB]
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
 ---
 
 ## Where seen?
@@ -52,7 +84,8 @@ The family has 14 genera and 120 species. Most of the members of this
 family live in the sea. Only a few found in freshwater. They are found
 in tropical and subtropical waters.  
   
-**Features:** To about 20-30cm long.
+## Features
+ To about 20-30cm long.
 The blunt snout usually has 3, rarely 2, pairs of 'whiskers' (called
 barbels) around the mouth. There are bony plates on the head and near
 the dorsal fin. The tail fin is forked. These fishes have a venomous
@@ -134,40 +167,7 @@ Plicofollis nella*
 
 ---
 
-**Links**  
 
-- [Yellow
-  Sea Catfish (*Arius venosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Ariidae (Sea catfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Siluriformes-Ariidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Family
-  Ariidae](http://www.fishbase.org/summary/FamilySummary.php?ID=145) and *[Arius
-  gagora](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=24982)* and *[Arius
-  leptonotacanthus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23380)* and *[Arius
-  oetik](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23384)* and *[Sciades
-  sona](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1294)* and *[Hexanematichthys
-  sagor](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1281)* and *[Netuma
-  bilineata](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11740)* and *[Osteogeneiosus
-  militaris](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1299)* and *[Plicofollis
-  argyropleuron](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11739)* and *[Plicofollis
-  nella](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23383)* from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets.
-
-**References**
-
-- Ng, H. H.,
-  2012. *The
-  ariid catfishes of Singapore*. Nature in Singapore, 5: 211-222.
-  [PDF, 938 KB]
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
 
 [links](../../../links)
 | [references](../../../references)

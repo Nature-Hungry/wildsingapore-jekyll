@@ -26,7 +26,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/
 ## Where seen?
  These tiny snails are often seen in large numbers on seagrasses on our Northern shores.   
   
-**Features:** 0.5cm or smaller. Shell thin,
+## Features
+ 0.5cm or smaller. Shell thin,
 conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.
 
  

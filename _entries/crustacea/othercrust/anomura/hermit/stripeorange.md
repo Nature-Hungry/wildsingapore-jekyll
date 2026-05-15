@@ -63,6 +63,45 @@ page_images:
   caption: |
     <p>](https://www.flickr.com/photos/budak/4982626659/ "hermit")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    hermit crab (*Clibanarius*  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062) Ng,
+    Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Hermit
+    Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - *[Clibanarius
+    infraspinatus](http://sealifebase.org/Summary/speciesSummary.php?id=81166)* on SeaLife Base: Technical fact sheet.
+  - [*Clibanarius
+    infraspinatus*](http://crust.biota.biodiv.tw/pages/4886) on BiotaTaiwanica: Technical fact sheet
+    with photo.
+  - [*Clibanarius infraspinatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clibanarius%20infraspinatusl) (Decapoda: Diogenidae) Orange-striped Hermit Crab on Taxo4254.
+  **References**
+  - Dwi Listyo
+    Rahayu, 2000. *Hermit
+    crabs from the South China Sea (Crustacea: Decapoda: Anomura:
+    Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
+    of Zoology 2000 Supplement No. 8: 377-404. The National University
+    of Singapore.
+  - Dwi Istyo
+    Rahayu, [Hermit
+    crab species of the genus *Clibanarius* (Crustacea: Decapoda:
+    Diogenidae) from mangrove habitats in Papua, Indonesia, with description
+    of a new species](http://museumvictoria.com.au/pages/4045/60_1_rahayu.pdf), Memoirs of Museum Victoria 60(1): 99-104
+    (2003)
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -80,7 +119,8 @@ seagrasses. Those seen on our Northern shores are usually larger.
 Elsewhere, it is found near river mouths on fine sand or sand-mud
 bottoms in mangrove areas.  
   
-**Features:** Body about 3-5cm long,
+## Features
+ Body about 3-5cm long,
 upper side pale near the eyes, towards the 'tail' with broad dark
 brown and pale orange stripes. Body sides dark with white dots. Both
 pincers are more or less equal in size and held so that the 'fingers'
@@ -150,47 +190,7 @@ With grateful thanks to [liwaliw](http://www.flickr.com/people/13027552@N03/)
 for identifying this hermit crab on [wildsingapore
 flickr](http://www.flickr.com/photos/wildsingapore/5002539313/).  
   
-**Links**
 
-- [Mangrove
-  hermit crab (*Clibanarius*  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062) Ng,
-  Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- *[Clibanarius
-  infraspinatus](http://sealifebase.org/Summary/speciesSummary.php?id=81166)* on SeaLife Base: Technical fact sheet.
-- [*Clibanarius
-  infraspinatus*](http://crust.biota.biodiv.tw/pages/4886) on BiotaTaiwanica: Technical fact sheet
-  with photo.
-- [*Clibanarius infraspinatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clibanarius%20infraspinatusl) (Decapoda: Diogenidae) Orange-striped Hermit Crab on Taxo4254.
-
-**References**
-
-- Dwi Listyo
-  Rahayu, 2000. *Hermit
-  crabs from the South China Sea (Crustacea: Decapoda: Anomura:
-  Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
-  of Zoology 2000 Supplement No. 8: 377-404. The National University
-  of Singapore.
-- Dwi Istyo
-  Rahayu, [Hermit
-  crab species of the genus *Clibanarius* (Crustacea: Decapoda:
-  Diogenidae) from mangrove habitats in Papua, Indonesia, with description
-  of a new species](http://museumvictoria.com.au/pages/4045/60_1_rahayu.pdf), Memoirs of Museum Victoria 60(1): 99-104
-  (2003)
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

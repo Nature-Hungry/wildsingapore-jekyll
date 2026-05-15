@@ -102,7 +102,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/wooll
 seen on many of our shores, usually on green seaweeds. Sometimes,
 they occur in large numbers.  
   
-**Features:** 1.5-2cm.
+## Features
+ 1.5-2cm.
 Tiny slug with a pair of 'wings' (called parapodia) often held in
 ruffles. The body
 texture of tiny bumps gives it a fuzzy or woolly appearance. There

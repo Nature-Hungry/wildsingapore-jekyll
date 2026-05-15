@@ -89,7 +89,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alp
 snapping shrimp with a long body and many bands is rarely seen. On
 coral rubble near reefs.  
   
-**Features:** 4-6cm long. Body long, narrow with many pale narrow bands. Some have
+## Features
+ 4-6cm long. Body long, narrow with many pale narrow bands. Some have
 one or two more prominent white or orange bands.   
   
 These snapping shrimps are often seen with shrimp gobies such as the [Slender-lined

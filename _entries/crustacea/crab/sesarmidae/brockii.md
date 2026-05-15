@@ -53,6 +53,35 @@ page_images:
   caption: |
     <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050) Ng, Peter K.
+    L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [*Selatium
+    brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Selatium
+    brockii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Selatium%20brockiil) (Decapoda:Sesarmidae) Mangrove tree-dwelling crab
+    by Lim Le Ying, 2013 on taxo4254.
+  - [*Selatium
+    brockii*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381018&genusname=Selatium&speciesname=brockii)
+    on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world.* The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -61,7 +90,8 @@ little green-eyed crab is commonly seen in our mangrove trees. Small
 ones are also seen on jetty pilings and other hard surfaces encrusted
 with barnacles and other animals.  
   
-**Features:** Body width 2-2.5cm.
+## Features
+ Body width 2-2.5cm.
 Body half-circular, flat. Eyes greenish, spaced apart. Walking legs
 flat, long with pointed tips. Yellow with regular dark brown blotches.
 During the day, it hides in crevices or under loose bark of mangrove
@@ -104,37 +134,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Mangrove
-  tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050) Ng, Peter K.
-  L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [*Selatium
-  brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Selatium
-  brockii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Selatium%20brockiil) (Decapoda:Sesarmidae) Mangrove tree-dwelling crab
-  by Lim Le Ying, 2013 on taxo4254.
-- [*Selatium
-  brockii*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381018&genusname=Selatium&speciesname=brockii)
-  on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world.* The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

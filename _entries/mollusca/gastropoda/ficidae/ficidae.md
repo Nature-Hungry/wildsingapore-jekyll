@@ -48,6 +48,39 @@ page_images:
   caption: |
     <p>East Coast Park (G), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487188728713&set=a.10159487267278713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Ficidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ficidae.html) on [The
+    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
+    Tri-Cities Natural History Museum website: brief fact sheet on
+    drills with photos
+  - [Family
+    Ficidae](http://seashellsofnsw.org.au/Ficidae/Pages/Ficidae_intro.htm) on the [The
+    Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) website by Des Beechey Research
+    Associate, Australian Museum: family introductions with photos
+    of shells and detailed fact sheets for many species.
+  - Family
+    Ficidae in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Neo, M. L.,
+    2010. *The taxonomic status of fig shells, with notes on Ficus
+    variegata (Roding, 1798) (Mollusca: Gastropoda: Ficoidea:
+    Ficidae)*. Nature
+    in Singapore, 3: 117-123.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
  ## Where seen?
@@ -56,7 +89,8 @@ Mainly on wide clean sandy shores that are rich in buried marine life.
 They are usually more active at night. At low tide they are usually
 buried in the sand and only emerge at high tide.  
   
-**Features:** 8-10cm long. The thin
+## Features
+ 8-10cm long. The thin
 but strong shell is shaped like a fig, bulbous with a very short spire and
 large shell opening. Shell pattern usually white spirals with dark irregular bars over a speckled brown background. Mantle fleshy mottled often enclosing the entire shell.
 The snail has a large head with two long tentacles,
@@ -114,41 +148,7 @@ Ficus variegata*
 
 ---
 
-**Links**
 
-- [Family
-  Ficidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ficidae.html) on [The
-  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-  Tri-Cities Natural History Museum website: brief fact sheet on
-  drills with photos
-- [Family
-  Ficidae](http://seashellsofnsw.org.au/Ficidae/Pages/Ficidae_intro.htm) on the [The
-  Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) website by Des Beechey Research
-  Associate, Australian Museum: family introductions with photos
-  of shells and detailed fact sheets for many species.
-- Family
-  Ficidae in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Neo, M. L.,
-  2010. *The taxonomic status of fig shells, with notes on Ficus
-  variegata (Roding, 1798) (Mollusca: Gastropoda: Ficoidea:
-  Ficidae)*. Nature
-  in Singapore, 3: 117-123.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

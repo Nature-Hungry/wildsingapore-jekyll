@@ -72,6 +72,24 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liau on <a href="https://www.facebook.com/photo?fbid=10158234249821295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+links_references: |
+  **Links**  
+  - [Long-spine
+    scorpionfish (*Paracentropogon longispinis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Tetrarogidae (waspfishes)](http://www.fishbase.org/summary/FamilySummary.php?ID=577) and [Wispy
+    waspfish (*Paracentropogon longispinus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=12043) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  **References**
+  - Tan Heok Hui. 29 July 2016. *Stung by a longspine waspfish*. Singapore Biodiversity Records 2016: 98-99
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 if you
@@ -89,7 +107,8 @@ our shores, among coral rubble or seagrasses. But it is small and
 well camouflaged and thus often overlooked. Now in Family Tetrarogidae
 (waspfishes), it used to be placed in [Family Scorpaenidae](scorpaenidae) (scorpionfishes).  
   
- **Features:** 5-7cm long. The dorsal
+ ## Features
+ 5-7cm long. The dorsal
 fin begins almost between its eyes and the dorsal fin membranes are
 deeply incised between the spines. It has a pair of large backward
 pointing spines above its mouth, which may not be obvious when the
@@ -155,26 +174,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Long-spine
-  scorpionfish (*Paracentropogon longispinis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [Family
-  Tetrarogidae (waspfishes)](http://www.fishbase.org/summary/FamilySummary.php?ID=577) and [Wispy
-  waspfish (*Paracentropogon longispinus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=12043) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-
-**References**
-
-- Tan Heok Hui. 29 July 2016. *Stung by a longspine waspfish*. Singapore Biodiversity Records 2016: 98-99
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

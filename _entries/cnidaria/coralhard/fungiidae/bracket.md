@@ -103,6 +103,33 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700481383158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Podabacia crustacea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Podabacia) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - *[Podabacia
+    crustacea](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45867)* and *[Podabacia
+    motuporensis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45869)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -110,7 +137,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/br
 the surface is sometimes seen on some of our Southern shores, growing
 attached to coral rubble near living reefs.  
   
-**Features:** Flat plate-like 30-40cm
+## Features
+ Flat plate-like 30-40cm
 in diameter, attached at the base but wavy at the edges. May also
 be encrusting. The upper side has a distinctive pattern of fine parallel
 lines perpendicular to the edge. There is a 'waist' in the parallel
@@ -198,35 +226,7 @@ Podabacia motuporensis* (Near Threatened) *Podabacia kunzmanni*
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Podabacia crustacea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Podabacia) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- *[Podabacia
-  crustacea](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45867)* and *[Podabacia
-  motuporensis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45869)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Hoeksama, Bert W. 30 Dec 2009. *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.* Raffles Bulletin of Zoology Supplement No. 22: 97-107.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

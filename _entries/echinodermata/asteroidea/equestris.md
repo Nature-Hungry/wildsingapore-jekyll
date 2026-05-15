@@ -55,6 +55,22 @@ page_images:
   caption: |
     <p>Underside</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
+links_references: |
+  **Links**
+  - [*Stellaster
+    equestris*](http://www.sealifebase.org/summary/Stellaster-equestrisl)
+    on SeaLife Base: Technical fact sheet
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
 ## Where seen?
@@ -63,7 +79,8 @@ in the Johor Straits and off the Southern Islands. It is broadly distributed
 in the Indo-Pacific from East Africa to Australia and southern China
 and Japan. According to Marsh and Fromont, it is found on mud or muddy sand in Australia. It was previously called *Stellaster equestris*.  
   
-**Features:** Diameter with arms about
+## Features
+ Diameter with arms about
 8cm. It has long skinny arms with large smooth marginal plates on
 the edges and sparse short stumpy spines.
 There are tiny conical points on the upperside. The underside is white and smooth sometimes with colourful markings. It has
@@ -105,22 +122,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [*Stellaster
-  equestris*](http://www.sealifebase.org/summary/Stellaster-equestrisl)
-  on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.

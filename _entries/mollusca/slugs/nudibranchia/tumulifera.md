@@ -45,6 +45,17 @@ page_images:
   caption: |
     <p>East Coast, Jun 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alive.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Chromodoris
+    tumulifera*](http://www.seaslugforum.net/find/chrotumu).
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -53,7 +64,8 @@ seen on our Northern shores. On coral rubble and rocky shores with
 sponges and encrusting animals. It was previously known as *Chromodoris
 tumulifera*.   
   
-**Features:** 2-3cm. Body broad usually
+## Features
+ 2-3cm. Body broad usually
 white with maroon spots. Edges of the body are orange with maroon spots. According to Bill Rudman, they have tiny glands
 around the edge of the mantle that secretes defensive substances to
 deter predators.  
@@ -98,19 +110,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Chromodoris
-  tumulifera*](http://www.seaslugforum.net/find/chrotumu).
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

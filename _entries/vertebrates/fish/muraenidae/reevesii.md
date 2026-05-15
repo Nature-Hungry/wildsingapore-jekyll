@@ -47,6 +47,16 @@ page_images:
   caption: |
     <p>Beting Bronok, Jul 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
+links_references: |
+  **Links**  
+  - [Brown-spotted
+    Moray (*Gymnothorax reevesii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211.htm) Lim,
+    Kelvin and Jeffrey K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
+    Centre.
+  - [Reeve's
+    moray (*Gymnothorax reevesii*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10159) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
 ---
 
 ## Where seen?
@@ -55,7 +65,8 @@ spotted snake-like fish is sometimes seen on our Northern shores,
 near reefs and among coral rubble. Sometimes just the head is poking out of its lair. At night, can be seen hunting actively in shallow water, lunging suddenly
 when prey is spotted.   
   
-**Features:** To about 60cm. Body
+## Features
+ To about 60cm. Body
 a cylinder flattened sideways, pinkish brown with large dark brown roundish blotches.
 No pelvic or pectoral fins. Dorsal and anal fins extend over the entire length of the long body
 and are continuous with the tail fin, resulting in the typical eel-like
@@ -93,16 +104,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
-
-- [Brown-spotted
-  Moray (*Gymnothorax reevesii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211.htm) Lim,
-  Kelvin and Jeffrey K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.htm)*. Singapore Science
-  Centre.
-- [Reeve's
-  moray (*Gymnothorax reevesii*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10159) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

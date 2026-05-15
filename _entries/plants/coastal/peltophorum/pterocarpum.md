@@ -112,6 +112,18 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
+links_references: |
+  **Links**
+  - *[Peltophorum
+    pterocarpum](http://floraofsingapore.wordpress.com/2010/08/14/peltophorum-pterocarpum/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [Know
+    10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=176&Itemid=161)
+    on the NParks website: fact sheet with lots of photos of various
+    parts of the tree.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -127,7 +139,8 @@ trees". It was also called *Peltophorum ferrugineum*. According
 to Corners, it was a common sea shore tree on rocky and sandy coasts
 in Malaya.  
   
- **Features:** A tree that usually
+ ## Features
+ A tree that usually
 grows to 15m (up to 35m). Dark green leaves made up of many little
 leaflets. The leaves are usually shed after dry weather, in our region
 usually in January-February and in July-August. The fragrant yellow
@@ -175,20 +188,7 @@ car-park, Bassein Rd with a girth of 5.6m and height 25m.
 
 ---
 
-**Links**
 
-- *[Peltophorum
-  pterocarpum](http://floraofsingapore.wordpress.com/2010/08/14/peltophorum-pterocarpum/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [Know
-  10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=176&Itemid=161)
-  on the NParks website: fact sheet with lots of photos of various
-  parts of the tree.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

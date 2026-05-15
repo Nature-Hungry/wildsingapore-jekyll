@@ -68,7 +68,8 @@ Phylum Phoronida. This is a small phylum with less than 20 species. They build a
 be encountered with cerianthids and it is found in all warm temperate
 to tropical coasts from the intertidal to deeper waters.  
   
-**Features:** *Phoronis australis* has a pair of feathery spiralling tentacles (diameter about 2cm).
+## Features
+ *Phoronis australis* has a pair of feathery spiralling tentacles (diameter about 2cm).
 The body is long, unsegemented and worm-like. Those seen on our shores
 are grey or pinkish black, but elsewhere white ones are also seen.
 Most phoronids build a tube that is made of chitin (the same substance

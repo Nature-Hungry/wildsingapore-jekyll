@@ -34,6 +34,30 @@ page_images:
   caption: |
     <p>Seletar, Jun 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+links_references: |
+  **Links**
+  - [Enigma
+    oyster (*Enigmoia aenigmatica*)](http://mangrove.nus.edu.sg/guidebooks/text/2094.htm) Ng, Peter K. L. & N.
+    Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Crust
+    Shell (*Enignomia rosea*)](http://mangrove.nus.edu.sg/pub/seashore/text/161.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Enigmonia
+    aenigmatica*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=80404) on SeaLife Base: technical fact sheet.
+  **References**
+  - Sigurdsson, J.B. & Sundari, G. *Colour changes in the shell of the tree-climbing bivalve Enigmonia aenigatica (Holten, 1802) (Anomiidae)*. Raffles Bulletin of Zoology 38 (2): Pp. 213-218.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -42,7 +66,8 @@ groups of a few individuals on leaves, trunks and roots of mangrove
 trees. It usually settles at a height between the high spring and
 high neap tide.  
   
-**Features:** To
+## Features
+ To
 about 3cm. The two-part shell is thin and lustrous.
 Usually oval, sometimes irregular. Colours range from beige, purplish
 to blackish.
@@ -75,32 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Enigma
-  oyster (*Enigmoia aenigmatica*)](http://mangrove.nus.edu.sg/guidebooks/text/2094.htm) Ng, Peter K. L. & N.
-  Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Crust
-  Shell (*Enignomia rosea*)](http://mangrove.nus.edu.sg/pub/seashore/text/161.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Enigmonia
-  aenigmatica*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=80404) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Sigurdsson, J.B. & Sundari, G. *Colour changes in the shell of the tree-climbing bivalve Enigmonia aenigatica (Holten, 1802) (Anomiidae)*. Raffles Bulletin of Zoology 38 (2): Pp. 213-218.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

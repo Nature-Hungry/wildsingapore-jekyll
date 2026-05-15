@@ -32,6 +32,10 @@ page_images:
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/08/110830-cyrenel">his blog</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+links_references: |
+   **Links**  
+  - Chee Kong, Chim, Joyce Jia Lin Ong, and Koh Siang, Tan. Oct 2013. ["An association between a hesionid polychaete and temnopleurid echinoids from Singapore".](https://www.researchgate.net/publication/258108410_An_association_between_a_hesionid_polychaete_and_temnopleurid_echinoids_from_Singapore) Cahiers de Biologie Marine.
+  - *[Salmacis sphaeroides](http://salmacissphaeroides.wikispaces.com/Salmacis+sphaeroides)* (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.
 ---
 
 ## Where seen?
@@ -43,7 +47,8 @@ Eunicidae, Class [Polychaeta](polychaeta), Phylum Annelida.
 The polychaetes include bristleworms, and Phylum Annelida includes
 the more familiar earthworm.  
   
-**Features:** A small worm about 1-2cm long, cylindrical with tiny short legs. Usually banded brown and white. According to Chim Chee Kong, White salmacis sea urchins may have more than one worm, the largest one around the mouth, smaller ones elsewhere. Black sea urchins generally only have one worm, also around the mouth.
+## Features
+ A small worm about 1-2cm long, cylindrical with tiny short legs. Usually banded brown and white. According to Chim Chee Kong, White salmacis sea urchins may have more than one worm, the largest one around the mouth, smaller ones elsewhere. Black sea urchins generally only have one worm, also around the mouth.
 
  
 
@@ -71,8 +76,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
- **Links**  
-
-- Chee Kong, Chim, Joyce Jia Lin Ong, and Koh Siang, Tan. Oct 2013. ["An association between a hesionid polychaete and temnopleurid echinoids from Singapore".](https://www.researchgate.net/publication/258108410_An_association_between_a_hesionid_polychaete_and_temnopleurid_echinoids_from_Singapore) Cahiers de Biologie Marine.
-- *[Salmacis sphaeroides](http://salmacissphaeroides.wikispaces.com/Salmacis+sphaeroides)* (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.

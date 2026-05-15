@@ -47,6 +47,38 @@ page_images:
     <p><a href="nematophthalmus">Fringe-eyed flathead</a> An elaborate golden filigree fringe over the eyeball, and above the eyes several fleshy tentacles.</p>
     <p>Tail not colourful.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+links_references: |
+  **Links**  
+  - [Bartail
+    Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259) and [Fringe-eyed
+    Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Platycephalidae](http://www.fishbase.org/summary/FamilySummary.php?ID=273) and [*Cociella
+    crocodilus* (Crocodile flathead)](http://www.fishbase.org/summary/7895) and *[Inegocia
+    japonica](http://fishbase.us/summary/10335)* [(Japanese
+    flathead)](http://fishbase.us/summary/10335) and *[Cymbacephalus
+    bosschei](http://fishbase.us/summary/12564)* [(Small-eyed
+    flathead)](http://fishbase.us/summary/12564) and *[Sunagocia
+    carbunculus](http://fishbase.us/summary/15241)*[(Papillose flathead)](http://fishbase.us/summary/15241) and [*Platycephalus
+    indicus* (Bartail flathead)](http://fishbase.us/summary/950) and *[Cociella
+    punctata](http://fishbase.us/summary/15197)* [(Spotted
+    flathead)](http://fishbase.us/summary/15197) and *[Cymbacephalus
+    nematophthalmus](http://fishbase.us/summary/10776)*[(Fringe-eyed flathead)](http://fishbase.us/summary/10776) and [*Rogadius
+    serratus* (Serrated flathead)](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?ID=15226) and [*Rogadius
+    pristiger* (Thorny flathead)](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?ID=15225) and *[Grammoplites
+    scaber](http://fishbase.us/summary/10309)* [(Rough
+    flathead)](http://fishbase.us/summary/10309) and [*Suggrundus
+    macracanthus* (Large-spined flathead)](http://fishbase.us/summary/10336) and [*Sorsogona
+    tuberculata* (Tuberculated flathead)](http://fishbase.us/summary/10310) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on individual
+    species.
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific
 ---
 
 ## Where seen?
@@ -59,7 +91,8 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=273
 the family has 18 genera and 60 species. They are found in the Indo-Pacific
 oceans.  
   
-**Features:** 6-25cm
+## Features
+ 6-25cm
 long. Some species can grow up to 1m long! The broad, flattened head
 gives rise to the family's scientific name: 'Platys' means flat and
 'kephale' means head in Greek. The snout is long and mouth huge; with
@@ -149,38 +182,6 @@ flathead)*\*\*Rogadius serratus=Platycephalus polyon
 
 ---
 
-**Links**  
-
-- [Bartail
-  Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259) and [Fringe-eyed
-  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Platycephalidae](http://www.fishbase.org/summary/FamilySummary.php?ID=273) and [*Cociella
-  crocodilus* (Crocodile flathead)](http://www.fishbase.org/summary/7895) and *[Inegocia
-  japonica](http://fishbase.us/summary/10335)* [(Japanese
-  flathead)](http://fishbase.us/summary/10335) and *[Cymbacephalus
-  bosschei](http://fishbase.us/summary/12564)* [(Small-eyed
-  flathead)](http://fishbase.us/summary/12564) and *[Sunagocia
-  carbunculus](http://fishbase.us/summary/15241)*[(Papillose flathead)](http://fishbase.us/summary/15241) and [*Platycephalus
-  indicus* (Bartail flathead)](http://fishbase.us/summary/950) and *[Cociella
-  punctata](http://fishbase.us/summary/15197)* [(Spotted
-  flathead)](http://fishbase.us/summary/15197) and *[Cymbacephalus
-  nematophthalmus](http://fishbase.us/summary/10776)*[(Fringe-eyed flathead)](http://fishbase.us/summary/10776) and [*Rogadius
-  serratus* (Serrated flathead)](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?ID=15226) and [*Rogadius
-  pristiger* (Thorny flathead)](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?ID=15225) and *[Grammoplites
-  scaber](http://fishbase.us/summary/10309)* [(Rough
-  flathead)](http://fishbase.us/summary/10309) and [*Suggrundus
-  macracanthus* (Large-spined flathead)](http://fishbase.us/summary/10336) and [*Sorsogona
-  tuberculata* (Tuberculated flathead)](http://fishbase.us/summary/10310) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on individual
-  species.
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific
 
 **Other
 references**

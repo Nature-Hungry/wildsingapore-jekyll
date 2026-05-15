@@ -30,6 +30,16 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg
+links_references: |
+  **Links**
+  - [*Meretrix
+    meretrix* (Asian hard clam)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83777) from SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
+    Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -37,7 +47,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/mer
 Elsewhere, they are found on intertidal shores with sand and mud.
   
   
-**Features:** About
+## Features
+ About
 4-6cm. Shell thick rather smooth.
 
  
@@ -55,18 +66,7 @@ display.*
 With grateful thanks to Andr� Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/)
 on EOL's Life Desk for identifying this clam.  
   
-**Links**
 
-- [*Meretrix
-  meretrix* (Asian hard clam)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83777) from SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 [*Preliminary
-  Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

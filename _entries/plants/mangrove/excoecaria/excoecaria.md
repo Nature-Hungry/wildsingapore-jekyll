@@ -55,6 +55,50 @@ page_images:
     <p>Fruits.</p>
     <p>Kranji Canal, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
+links_references: |
+  **Links**
+  - *[Excoecaria
+    agallocha](http://floraofsingapore.wordpress.com/2010/07/11/excoecaria-agallocha/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - *[Excoecaria
+    agallocha](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2893#)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - [Buta-buta
+    *(Excoecaria agallocha*)](http://mangrove.nus.edu.sg/guidebooks/text/1060) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
+    Science Centre. 168 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [Autumn
+    colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shoresl) on the wild shores of singapore blog.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Wee Yeow
+    Chin. 1992. *A
+    Guide to Medicinal Plants*. The Singapore Science Centre.
+    160pp.
 ---
 
 ## Where seen?
@@ -74,7 +118,8 @@ The milky sap or latex that exudes from broken leaves, bark and twigs
 is poisonous and can blister skin, hurt eyes and may even cause temporary
 blindness. 'Buta' means 'blind' in Malay.   
   
-**Features:** The tree grows to 15m
+## Features
+ The tree grows to 15m
 tall sometimes branched at the base, thus forming multiple trunks.
 Roots run along the ground surface and often knotted and covered with
 lenticels. Tomlinson notes that the tree does not have root systems
@@ -149,52 +194,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Excoecaria
-  agallocha](http://floraofsingapore.wordpress.com/2010/07/11/excoecaria-agallocha/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- *[Excoecaria
-  agallocha](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2893#)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- [Buta-buta
-  *(Excoecaria agallocha*)](http://mangrove.nus.edu.sg/guidebooks/text/1060) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
-  Science Centre. 168 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [Autumn
-  colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shoresl) on the wild shores of singapore blog.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1992. *A
-  Guide to Medicinal Plants*. The Singapore Science Centre.
-  160pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -54,7 +54,8 @@ seagrasses. It is found in similar habitats as the [Common
 cerianthid](common.htm), but the dusky is much smaller and has more elegantly
 tapering tentacles.  
   
-**Features:** 8-10cm in diameter.
+## Features
+ 8-10cm in diameter.
 The outer tentacles are elegantly slim and tapering and some have
 a thin white line along the length of the long outer tentacles. It
 seems to have a row of thinner shorter tentacles under the long tentacles.

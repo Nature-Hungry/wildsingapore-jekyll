@@ -68,7 +68,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hex
 ## Where seen?
  This hard coral is seen on many of our shores  
   
-**Features:** Colonies 20-30cm, usually
+## Features
+ Colonies 20-30cm, usually
 irregular dome-shaped. Corallites hexagonal (1cm) with a smooth surface
 in between the corallites. Often seen with tentacles extended. Colours
 brown, blue and green, smooth surface usually a pale colour, sometimes

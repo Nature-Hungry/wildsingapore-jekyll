@@ -44,6 +44,27 @@ page_images:
     <p>St.</p>
     <p>John's Island, Sep 07</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+links_references: |
+  **Links**
+  - [*Euplica
+    scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta.htm) on [The
+    Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
+    Australian Museum: family introductions with photos of shells
+    and detailed fact sheets for many species.
+  - [*Euplica
+    scripta*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102089) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Bunjamin
+    Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
+    PT Sarana Graha. Indonesia. 111 pp.
+  - Abbott,
+    R. Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -53,7 +74,8 @@ seagrass](../../../plants/seagrass/enhalus.htm)) and large seaweeds (such as [Sa
 these leafy lifeforms. It was also known as *Columbella versicolor,
 Pyrene versicolor* and *Pyrene scripta*.  
   
-**Features:** 1.5-2cm. The thick pale
+## Features
+ 1.5-2cm. The thick pale
 shell is sometimes delicately-patterned with black and yellow markings.
 Some are plain, while in others, the pattern may be hidden by encrusting
 growths. Body plain with a pair of tentacles and quite a long siphon.
@@ -86,29 +108,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Euplica
-  scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta.htm) on [The
-  Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
-  Australian Museum: family introductions with photos of shells
-  and detailed fact sheets for many species.
-- [*Euplica
-  scripta*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102089) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Bunjamin
-  Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
-  PT Sarana Graha. Indonesia. 111 pp.
-- Abbott,
-  R. Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

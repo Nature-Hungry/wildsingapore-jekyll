@@ -70,7 +70,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/c
  This heavy thick-shelled drill is often seen on large
 boulders and seawalls. Commonly seen on our all our shores.  
   
-**Features:** 3-6cm. Shell thick and
+## Features
+ 3-6cm. Shell thick and
 chunky with variable patterns, some with a
 spiral pattern of squarish bumps,
 some with blunt spines. Shell opening wide. The operculum is brown.   

@@ -76,7 +76,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/04070
 seen on Changi, and sometimes in other Northern shores. In soft silty sand, and
 sandy areas among seagrasses. This sea anemone was first described from Singapore in 2023 and named in honour of the late Emeritus Professor Daphne Gail Fautin. Throughout her career, she had worked tirelessly to advance the knowledge of sea anemones, and she spent much time in Singapore studying our sea anemones and sharing and training scientists and volunteers here.  
   
-**Features:** Diameter with tentacles
+## Features
+ Diameter with tentacles
 expanded 6-10cm. One ring of many thick, tapered, smooth tentacles with a
 banded pattern that resembles tiger stripes. Colours are mostly brown,
 beige sometimes with a tinge of orange or purple. Near the mouth,

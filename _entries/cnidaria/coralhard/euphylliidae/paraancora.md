@@ -79,6 +79,29 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749234835/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
+    on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical factsheet.
+  - [*Euphyllia
+    paraancora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105376) on SeaLife Base: Technical factsheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
@@ -86,7 +109,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae
 is sometimes seen on some of our Southern shores. Larger specimens
 are found only on undisturbed shores.  
   
-**Features:** The colony appears to
+## Features
+ The colony appears to
 be boulder-shaped, those seen 10-20cm, sometimes much larger. But
 the colony is not solid (massive). Hidden under the tentacles, the
 large corallites are branching and trumpet-shaped (phaceloid): long
@@ -153,31 +177,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical factsheet.
-- [*Euphyllia
-  paraancora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105376) on SeaLife Base: Technical factsheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

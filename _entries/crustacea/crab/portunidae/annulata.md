@@ -56,13 +56,33 @@ page_images:
   caption: |
     <p>St John's Island, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158137184277945&set=a.10158137267852945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
+links_references: |
+  **Links**
+  - [*Charybdis
+    annulata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83583) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+    Technical fact sheet.
+  - [*Charybdis
+    annulata*](Charybdis%20annulata) on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
  This swimming crab with bands on its legs is sometimes
 seen on some of our rocky and reefy shores, especially at night.  
   
-**Features:** Body width 5-7cm. Body
+## Features
+ Body width 5-7cm. Body
 somewhat fan-shaped with 6 spines on the sides. The eyes are not wide
 apart. Last pair of legs are paddle-shaped and rotate like boat propellers,
 so the crab swims well in all directions. It is a fully marine crab
@@ -108,27 +128,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 thanks to [Crabhunter](http://www.flickr.com/photos/crabhunter-ii/)
 for confirmation of ID. 
 
-**Links**
 
-- [*Charybdis
-  annulata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83583) on [SeaLifeBase](http://www.sealifebase.org/search.php):
-  Technical fact sheet.
-- [*Charybdis
-  annulata*](Charybdis%20annulata) on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf) The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links)
 | [references](../../../references)

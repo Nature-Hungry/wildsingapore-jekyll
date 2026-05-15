@@ -64,6 +64,46 @@ page_images:
   caption: |
     <p>Pulau Semakau, Feb 16 Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/posts/1065431660174892">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
+links_references: |
+  **Links**
+  - [Mangrove
+    snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
+    Singapore Science Centre. 168 pp.
+  - [Dog-faced
+    Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake) on Nick Baker's EcologyAsia website: fact sheet
+    with photos.
+  - [Dog-faced
+    Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced) on
+    Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+  - [*Cerberus
+    rynchops*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchopsl)
+    (Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan,
+    2011 on taxo4254.
+  - [*Cerberus
+    rynchops*](http://www.iucnredlist.org/details/176680/0) on the IUCN Red List.
+  **References**
+  - Craig Justin Tan. 29 May 2020. *Malayan water monitor preying on dog-faced water snake.* Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
+  - Andrew Tay & Caitlin Wind. 6 December 2013. *Dog-faced water snake attacking pufferfish*. Singapore Biodiversity Records 2013: 100.
+  - Lim, Kelvin
+    K. P. & Francis L K Lim, 1992. *A
+    Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Stuebing,
+    Robert B and Robert F. Inger. 1999. *A
+    Field Guide to the Snakes of Borneo*
+    Natural History Publications (Borneo). 254 pp.
+  - Cox, Merel
+    J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+    1998. *A
+    Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
+    Malaysia and Singapore*
+    New Holland. pp 144.
 ---
 
 ## Where seen?
@@ -77,7 +117,8 @@ in the Indo-Pacific. It was previously known as *Cerberus rynchops*.
 Nick Baker explains the name change [on
 his factsheet about this snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake).  
   
-**Features:**To about 1m long. Body cylindrical with a 'neck' and a broad head.
+## Features
+To about 1m long. Body cylindrical with a 'neck' and a broad head.
 Grey, brown or olive, it may have dark indistinct patterns. A dark
 streak passes through the eye to the neck. The snake is adapted for
 slow-moving, shallow and murky waters. It can swim well. On soft mud,
@@ -160,48 +201,7 @@ Ris, Dec 10
 
 ---
 
-**Links**
 
-- [Mangrove
-  snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
-  Singapore Science Centre. 168 pp.
-- [Dog-faced
-  Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake) on Nick Baker's EcologyAsia website: fact sheet
-  with photos.
-- [Dog-faced
-  Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced) on
-  Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
-- [*Cerberus
-  rynchops*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchopsl)
-  (Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan,
-  2011 on taxo4254.
-- [*Cerberus
-  rynchops*](http://www.iucnredlist.org/details/176680/0) on the IUCN Red List.
-
-**References**
-
-- Craig Justin Tan. 29 May 2020. *Malayan water monitor preying on dog-faced water snake.* Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
-- Andrew Tay & Caitlin Wind. 6 December 2013. *Dog-faced water snake attacking pufferfish*. Singapore Biodiversity Records 2013: 100.
-- Lim, Kelvin
-  K. P. & Francis L K Lim, 1992. *A
-  Guide to the Amphibians and Reptiles of Singapore*Singapore Science Centre. 160 pp.
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Stuebing,
-  Robert B and Robert F. Inger. 1999. *A
-  Field Guide to the Snakes of Borneo*
-  Natural History Publications (Borneo). 254 pp.
-- Cox, Merel
-  J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
-  1998. *A
-  Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
-  Malaysia and Singapore*
-  New Holland. pp 144.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

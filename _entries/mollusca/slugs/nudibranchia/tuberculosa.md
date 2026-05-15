@@ -79,6 +79,16 @@ page_images:
   caption: |
     <p>Pulau Hantu, Jan 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2928268429/in/album-72157607719695102/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
+links_references: |
+  **Links**  
+  - [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
+    on *[Dendrodoris
+    tuberculosa](http://www.seaslugforum.net/find/dendtube)*
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -87,7 +97,8 @@ and a spotted underside is sometimes seen on some of our Southern
 shores, near reefs and seagrasses. It may be seasonal: when seen,
 often many individuals are spotted during the same trip.  
   
-**Features:** 12-15cm long. The upperside
+## Features
+ 12-15cm long. The upperside
 with lots of conical bumps arranged in clusters so that that resembles
 a cauliflower. Colours from dark greyish blue, pinkish purple to pale pink. The underside is distinctive with large pale round spots on a plain smooth background, usually darker. Large rhinophores and large feathery
 gills.
@@ -136,18 +147,7 @@ Filmed on Jul
 
 ---
 
-**Links**  
 
-- [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
-  on *[Dendrodoris
-  tuberculosa](http://www.seaslugforum.net/find/dendtube)*
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

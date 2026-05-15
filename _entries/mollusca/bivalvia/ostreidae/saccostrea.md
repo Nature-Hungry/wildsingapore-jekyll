@@ -31,6 +31,29 @@ page_images:
   caption: |
     <p>Berlayar Creek, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+links_references: |
+  **Links**
+  - [Edible
+    Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan, Leo W. H. & Ng,
+    Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Hooded oysters
+    (*Saccostrea cuccullata*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -38,7 +61,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/sac
 shores, on boulders, rocks, jetty pillings, sea walls and other hard
 surfaces. Often several individuals squashed next to one another.   
   
-**Features:** 3-4cm. The
+## Features
+ 3-4cm. The
 two-part shell is thick and chalky. The left valve is stuck to a rock
 while long, hollow spikes develop on the right valve. The spikes are
 more prominent in younger animals. This is probably a defence against
@@ -70,31 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Edible
-  Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan, Leo W. H. & Ng,
-  Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Hooded oysters
-  (*Saccostrea cuccullata*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

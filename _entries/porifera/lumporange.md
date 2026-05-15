@@ -27,7 +27,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8
 
 ## Where seen?
  This encrusting sponge reminds of our favourite 'Milo dinosaur' beverage. It coats dead corals and rocks near the subtidal area on our Northern shores. We first started seeing this in 2012 and now encounter it commonly.  
- **Features:**10-15cm
+ ## Features
+10-15cm
 in diameter, small lumpy clump. Clusters
 of lumps with large holes.
 Colours bright orange.

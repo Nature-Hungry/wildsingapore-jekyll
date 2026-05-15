@@ -39,7 +39,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/
  These delightful animals are sometimes commonly seen
 on our Northern shores. Usually seen among seagrasses.   
   
-**Features:** 8-13cm long. Body oval
+## Features
+ 8-13cm long. Body oval
 with fins all around the edges, sometimes with glittering spots or
 dashes. Short fat arms. Body texture generally smooth and does not
 form into bumps or pimples.  

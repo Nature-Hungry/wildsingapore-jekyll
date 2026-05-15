@@ -62,7 +62,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/he
  This little hermit crab is commonly seen on sandy
 areas and among seagrasses on Changi, as well as some other shores.   
   
-**Features:** Body about 1-2cm long,
+## Features
+ Body about 1-2cm long,
 smooth near the eyes but very fluffy towards the other end, pale pink,
 purplish or darkish. Pincers held so that the 'fingers' open horizontally
 in front of the animal. Left pincer much bigger than the right pincer.

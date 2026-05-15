@@ -52,6 +52,33 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+links_references: |
+  **Links**
+  - [Common
+    nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Nerita*
+    sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
+    K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Nerita
+    articulata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=153256) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -64,7 +91,8 @@ on seawalls, it is most abundant in monsoon canals walls and mangrove
 trees, sometimes numbering in the hundreds in a single location. It is also known as *Nerita lineata* or *N. balteata*. Sites included many mainland shores, as well
 as Pulau Ubin and Pulau Semakau.  
   
-**Features:** 2-3cm. Shell thick heavy
+## Features
+ 2-3cm. Shell thick heavy
 oval, spire does not stick out. Shell pattern beige, greyish or pinkish with
 fine, spiralling black ribs. The
 flat underside is smooth, white, sometimes with yellow patches. Small
@@ -108,35 +136,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Common
-  nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Nerita*
-  sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm) Tan, Leo W. H. & Ng, Peter
-  K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Nerita
-  articulata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=153256) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

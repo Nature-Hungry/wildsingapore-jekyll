@@ -85,7 +85,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagras
  This octopus with a large smooth head is sometimes
 commonly seen on Changi, among seagrasses.   
   
-**Features:** Head about 6-8cm long,
+## Features
+ Head about 6-8cm long,
 arms may be 12-20cm long. The head is smooth and oval, and relatively
 large compared to the arms. Arms tapering, webbing not very extensive.
 This octopus hasn't been seen to change the skin texture into very large
@@ -95,7 +96,8 @@ bumps or spines, although some have been seen with small bumps on the head. One 
 
 
 
-**Features:** It is often seen hiding in crevices, holes and cavities. Also inside shells of large snails like the [Noble volute](../gastropoda/volutidae/nobilis.htm) and [Baler volute](../gastropoda/volutidae/melo.htm). Small ones even hide in empty shells of dead clams. Also in litter like glass bottles and clay jars (used for burial rituals).
+## Features
+ It is often seen hiding in crevices, holes and cavities. Also inside shells of large snails like the [Noble volute](../gastropoda/volutidae/nobilis.htm) and [Baler volute](../gastropoda/volutidae/melo.htm). Small ones even hide in empty shells of dead clams. Also in litter like glass bottles and clay jars (used for burial rituals).
 
 
 

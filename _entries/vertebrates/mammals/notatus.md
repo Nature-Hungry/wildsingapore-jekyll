@@ -37,6 +37,26 @@ page_images:
   caption: |
     <p>Sentosa, Sep 18 Photo shared by Malcolm Lord</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg
+links_references: |
+  **Links**
+  - [Plantain
+    Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel) on Nick Baker's EcologyAsia website: fact sheet with
+    photos.
+  - [Plantain
+    Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain) on Chan Kwok Wai's Wildlife Singapore website: fact
+    sheet with photos.
+  - [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatusl) (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
+  **References**
+  - Tan Heok Hui. 2 October 2013. [Plantain squirrel gathering mangrove algae](http://lkcnhm.nus.edu.sg/app/uploads/2017/04/sbr2013-011.pdf). Singapore Biodiversity Records 2013: 11
+  - Baker, Nick
+    and Kelvin Lim. 2008. *Wild
+    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
+    Amphibians and Freshwater Fishes*
+    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Francis,
+    Charles M. 2001. *Mammals
+    of South-East Asia*
+    New Holland Publishers. 128 pp.
 ---
 
 ## Where seen?
@@ -45,7 +65,8 @@ seen in trees near our shores. It is common in our forests, parks
 and even urban areas. It is active during the day and found in trees,
 only seldom coming down to the ground.  
   
-**Features:**Head and body to 22cm, tail to 21cm. Body and tail olive-brown,
+## Features
+Head and body to 22cm, tail to 21cm. Body and tail olive-brown,
 underside of the belly reddish brown, with a black and white stripe
 on the sides of the body and whitish around the eyes.  
   
@@ -83,26 +104,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 [plantain squirrel @ SBWR 30Apr2011](https://vimeo.com/23319683) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
 ---
-
-**Links**
-
-- [Plantain
-  Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel) on Nick Baker's EcologyAsia website: fact sheet with
-  photos.
-- [Plantain
-  Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain) on Chan Kwok Wai's Wildlife Singapore website: fact
-  sheet with photos.
-- [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatusl) (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
-
-**References**
-
-- Tan Heok Hui. 2 October 2013. [Plantain squirrel gathering mangrove algae](http://lkcnhm.nus.edu.sg/app/uploads/2017/04/sbr2013-011.pdf). Singapore Biodiversity Records 2013: 11
-- Baker, Nick
-  and Kelvin Lim. 2008. *Wild
-  Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-  Amphibians and Freshwater Fishes*
-  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-- Francis,
-  Charles M. 2001. *Mammals
-  of South-East Asia*
-  New Holland Publishers. 128 pp.

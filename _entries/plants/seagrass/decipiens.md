@@ -53,6 +53,18 @@ page_images:
   caption: |-
     <p>Seeds.</p>
     <p>Pasir Ris Park, Aug 13</p>
+links_references: |
+  **Links**  
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  - [New
+    record seagrass for Singapore](http://wildshores.blogspot.com/2008/10/new-record-seagrass-for-singaporel) on the wild shores of singapore
+    blog, and on the [Seagrass-Watch
+    newsletter](http://www.seagrasswatch.org/newslettersl) (PDF).
+  **References**
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
 ---
 
 ## Where seen?
@@ -68,7 +80,8 @@ and also in reef and sandy habitats. It seems tolerant of low light
 conditions and in very clear waters has been recorded (elsewhere)
 to depths greater than 50m.  
   
-**Features:**The seagrass
+## Features
+The seagrass
 has oval leaves that are longer (1-2.5cm) than the width (0.5cm).
 There are minute serrations on the leaf edge and minute hairs on both
 sides of the leaf. It has thin, smooth, white rhizomes (underground
@@ -114,20 +127,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-- [New
-  record seagrass for Singapore](http://wildshores.blogspot.com/2008/10/new-record-seagrass-for-singaporel) on the wild shores of singapore
-  blog, and on the [Seagrass-Watch
-  newsletter](http://www.seagrasswatch.org/newslettersl) (PDF).
-
-**References**
-
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)

@@ -61,6 +61,31 @@ page_images:
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158864216277945&set=a.10158864924162945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg
+links_references: |
+  **Links**
+  - [*Pardalina
+    testudinaria*](http://seashellsofnsw.org.au/Columbellidae/Pages/Pardalina_testudinaria.htm) on [The
+    Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
+    Australian Museum: family introductions with photos of shells
+    and detailed fact sheets for many species.
+  - [*Pardalina
+    testudinaria*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102108) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Bunjamin
+    Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
+    PT Sarana Graha. Indonesia. 111 pp.
+  - Abbott,
+    R. Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Coleman,
+    Neville. 2003. *2002
+    Sea Shells: Catalogue of Indo-Pacific Mollusca*
+    Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 ---
 
 ## Where seen?
@@ -68,7 +93,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellid
 shell is sometimes seen in small groups under stones on some of our
 Southern shores. It was previously known as *Pyrene pardalina* and *Pyrene testudinaria* and *Pardalina testudinaria*.  
   
-**Features:** 1.5-2cm. Shell thick,
+## Features
+ 1.5-2cm. Shell thick,
 pale (white or beige) with a net-like pattern of dark thick lines. *Testudo* means tortoise or turtle, perhaps referring to this
 shell pattern. Operculum is narrow and made of a horn-like material.
 Some seen have shells that are very thin at the shell opening: possibly
@@ -113,33 +139,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Pardalina
-  testudinaria*](http://seashellsofnsw.org.au/Columbellidae/Pages/Pardalina_testudinaria.htm) on [The
-  Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm) by Des Beechey Research Associate,
-  Australian Museum: family introductions with photos of shells
-  and detailed fact sheets for many species.
-- [*Pardalina
-  testudinaria*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102108) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Bunjamin
-  Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
-  PT Sarana Graha. Indonesia. 111 pp.
-- Abbott,
-  R. Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Coleman,
-  Neville. 2003. *2002
-  Sea Shells: Catalogue of Indo-Pacific Mollusca*
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

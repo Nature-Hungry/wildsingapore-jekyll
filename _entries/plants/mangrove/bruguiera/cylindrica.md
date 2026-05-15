@@ -45,6 +45,48 @@ page_images:
     <p>Sepals on propagules bend towards stalk.</p>
     <p>Sungei Buloh, Apr 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
+links_references: |
+  **Links**
+  - [Bakau
+    putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [*Bruguiera
+    cylindrica*](http://floraofsingapore.wordpress.com/2010/07/25/bruguiera-cylindrica/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Bruguiera
+    cylindrica*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3264) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [*Bruguiera
+    cylindrica*](http://www.iucnredlist.org/apps/redlist/details/178840/0) on the IUCN Red List website: detailed fact
+    sheet.
+  **References**
+  - Chiou-Rong
+    Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
+    Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
+    Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
+    50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
+    Research website).
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
@@ -54,7 +96,8 @@ It has been described as characteristic of newly established substrates
 and able to withdstand prolonged submersion. It may form pure stands.
 It was formerly called *B. caryophylloides*.   
   
-**Features:** Tree to about 20m, but
+## Features
+ Tree to about 20m, but
 those seen along our nature trails often almost short shrubs about
 1m, to short trees to 2-3m. Bark greyish with small corky bumps (lenticels).
 Short buttresses and also knee roots.   
@@ -110,50 +153,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [Bakau
-  putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [*Bruguiera
-  cylindrica*](http://floraofsingapore.wordpress.com/2010/07/25/bruguiera-cylindrica/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Bruguiera
-  cylindrica*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3264) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [*Bruguiera
-  cylindrica*](http://www.iucnredlist.org/apps/redlist/details/178840/0) on the IUCN Red List website: detailed fact
-  sheet.
-
-**References**
-
-- Chiou-Rong
-  Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. *[The
-  Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore,
-  Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*. Taiwania,
-  50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity
-  Research website).
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

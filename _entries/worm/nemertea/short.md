@@ -44,7 +44,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd92
  Rather short ribbon worms are sometimes seen on some
 of our shores. They are more active at night.  
   
-**Features:** Grouped in this entry
+## Features
+ Grouped in this entry
 are unsegmented worms that are only 10-15cm long, some more cylindrical
 than ribbon-like. Most are pale with one fine stripe along the length.
 They probably include different kinds of ribbon worms.  

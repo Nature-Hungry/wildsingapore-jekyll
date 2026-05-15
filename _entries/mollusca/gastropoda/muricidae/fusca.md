@@ -36,6 +36,22 @@ page_images:
     <p>Hole drilled into a false limpet, by the drill.</p>
     <p>Photo shared by Brian Ong.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+links_references: |
+  **Links**
+  - [More
+    about our *Morula fusca*](http://wildshores.blogspot.com/2009/03/more-about-our-morula-fusca.html) on the wild shores of singapore blog:
+    details shared by Brian about these snails.
+  - [*Morula
+    fusca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=129974) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 ## Where seen?
@@ -45,7 +61,8 @@ referring to the dark coloured shell opening. According to Tan, it
 has a patchy distribution in Singapore but can be common where it
 occurs. It is also known as *Morula fusca*.  
   
-**Features:** 2-3cm. Shell thick with
+## Features
+ 2-3cm. Shell thick with
 squarish bumps. Shell opening is wide and usually dark to dark purple.
 One of the identifying features is its yellow foot.
  
@@ -83,24 +100,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Brian Ong for identification and information
 about these fascinating snails.  
   
-**Links**
 
-- [More
-  about our *Morula fusca*](http://wildshores.blogspot.com/2009/03/more-about-our-morula-fusca.html) on the wild shores of singapore blog:
-  details shared by Brian about these snails.
-- [*Morula
-  fusca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=129974) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

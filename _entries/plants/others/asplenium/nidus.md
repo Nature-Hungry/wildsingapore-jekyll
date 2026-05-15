@@ -56,7 +56,8 @@ is commonly seen wedged in the branches of large trees, including
 roadside, forest and mangrove trees. These ferns are not parasites
 and do not suck any water or nutrients off the host tree.  
   
- **Features:** The frond is fresh
+ ## Features
+ The frond is fresh
 green, a broad and very long ribbon (50-150cm) with slightly wavy
 edges and a black central rib. The spores appear on the underside
 in fine lines. The fronds emerge in a rosette around a central stem

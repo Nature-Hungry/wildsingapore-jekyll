@@ -68,6 +68,26 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
+links_references: |
+  **Links**
+  - [*Nepenthes
+    rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html) on Urban Forest: phoots and fact sheet.
+  - [*Nepenthes
+    rafflesiana*](http://floraofsingapore.wordpress.com/2010/11/08/nepenthes-rafflesiana/) on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Nepenthes
+    rafflesiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1459) on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  **References**
+  - Tan, Hugh
+    T.W. 1997. *A Guide to the Carnivorous Plants of SIngapore*.
+    BP Science Centre Guidebook. 176 pp.
+  - Tan, Hugh
+    T.W. and T. Morgany. 2001. *[Growing
+    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
+    168pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *[The
 ---
 
 ## Where seen?
@@ -78,7 +98,8 @@ in Singapore and was first discovered in Singapore in 1819 by Dr William
 Jack, the Scottish botanist and surgeon who accompanied Raffles to
 Singapore.   
   
- **Features:** A climber that grows
+ ## Features
+ A climber that grows
 to 10m long or more, producing long tendrils to clamber over trees
 and other plants.   
   
@@ -144,28 +165,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Nepenthes
-  rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html) on Urban Forest: phoots and fact sheet.
-- [*Nepenthes
-  rafflesiana*](http://floraofsingapore.wordpress.com/2010/11/08/nepenthes-rafflesiana/) on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Nepenthes
-  rafflesiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1459) on the NParks Flora and Fauna website: photos
-  and fact sheet.
-
-**References**
-
-- Tan, Hugh
-  T.W. 1997. *A Guide to the Carnivorous Plants of SIngapore*.
-  BP Science Centre Guidebook. 176 pp.
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[Growing
-  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-  168pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

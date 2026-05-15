@@ -39,7 +39,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/oliv
  This fanworm is sometimes seen in silty, sandy areas near seagrass meadows
 on many of our shores.  
   
-**Features:** Fan 6-8cm in diameter.
+## Features
+ Fan 6-8cm in diameter.
 Included in this page are those with a fan generally olive brown sometimes
 with tinges of black. Often it has a rather 'untidy' look. Usually
 found alone in sand.   

@@ -60,6 +60,33 @@ page_images:
   caption: |
     <p>Tanah Merah, Jan 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4245331960/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+links_references: |
+  **Links**  
+  - [Doublelined
+    Tongue-Sole (*Paraplagusia bilineata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390.htm) and [Speckled
+    Tongue-Sole (*Cynoglossus puncticeps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389.htm) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Cynoglossidae](http://www.fishbase.org/summary/FamilySummary.php?ID=442)
+    (Tonguefishes) and [*Cynoglossus
+    arel* (Largescale tonguesole)](http://www.fishbase.org/summary/7523) and [*Cynoglossus
+    bilineatus* (Fourlined tonguesole)](http://www.fishbase.org/summary/5455) and [*Cynoglossus
+    trulla* (Macau sole)](http://www.fishbase.org/summary/9243) and [*Cynoglossus
+    cynoglossus* (Bengal tongue sole)](http://www.fishbase.org/summary/5456) and [*Cynoglossus
+    kopsii* (Shortheaded tonguesole)](http://www.fishbase.org/summary/7647) and [*Cynoglossus
+    lingua* (Long tongue sole)](http://www.fishbase.org/summary/8238) and *[Cynoglossus
+    macrolepidotus](http://www.fishbase.org/summary/59539)* and *[Cynoglossus
+    puncticeps](http://www.fishbase.org/summary/4807)*[(Speckled tonguesole)](http://www.fishbase.org/summary/4807) and *[Cynoglossus
+    sibogae](http://www.fishbase.org/summary/59556)* and [*Paraplagusia
+    bilineata* (Doublelined tonguesole)](http://www.fishbase.org/summary/522) from [FishBase](http://www.fishbase.org/).
+  - [Volume
+    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+    Identification Guide for Fishery Purposes The Living Marine Resources
+    of the Western Central Pacific.
+  **References**
+  - Kelvin K. P. Lim & Tan Heok Hui. *Bleeker’s fringelip tongue-sole at East Coast.* 29 March 2018. Singapore Biodiversity Records 2018: 33-34 ISSN 2345-7597. National University of Singaporec.
 ---
 
 if you
@@ -76,7 +103,8 @@ seagrasses, buried in sand or hovering over the surface. **What are tongue-soles
 the family has 3 genera and 110 species. They are found in all warm
 oceans, most species in shallow waters or near river mouths. One group
 (Symphurinae) are found in very deep waters 1,000m or more. In Greek,
-'kyon' means 'dog' and 'glossa' means 'tongue'. **Features:** To about 18cm, those seen about 3-6cm. Both eyes
+'kyon' means 'dog' and 'glossa' means 'tongue'. ## Features
+ To about 18cm, those seen about 3-6cm. Both eyes
 on the left side, usually very small and close together. Body flat
 and oval, tapering at the tail, like an elongated tear-drop shape.
 The tail fin is joined and merges seamlessly with the dorsal and anal
@@ -170,35 +198,7 @@ Paraplagusia bleekeri* (Bleeker’s fringelip tongue-sole) *Paraplagusia bilinea
 
 ---
 
-**Links**  
 
-- [Doublelined
-  Tongue-Sole (*Paraplagusia bilineata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390.htm) and [Speckled
-  Tongue-Sole (*Cynoglossus puncticeps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Cynoglossidae](http://www.fishbase.org/summary/FamilySummary.php?ID=442)
-  (Tonguefishes) and [*Cynoglossus
-  arel* (Largescale tonguesole)](http://www.fishbase.org/summary/7523) and [*Cynoglossus
-  bilineatus* (Fourlined tonguesole)](http://www.fishbase.org/summary/5455) and [*Cynoglossus
-  trulla* (Macau sole)](http://www.fishbase.org/summary/9243) and [*Cynoglossus
-  cynoglossus* (Bengal tongue sole)](http://www.fishbase.org/summary/5456) and [*Cynoglossus
-  kopsii* (Shortheaded tonguesole)](http://www.fishbase.org/summary/7647) and [*Cynoglossus
-  lingua* (Long tongue sole)](http://www.fishbase.org/summary/8238) and *[Cynoglossus
-  macrolepidotus](http://www.fishbase.org/summary/59539)* and *[Cynoglossus
-  puncticeps](http://www.fishbase.org/summary/4807)*[(Speckled tonguesole)](http://www.fishbase.org/summary/4807) and *[Cynoglossus
-  sibogae](http://www.fishbase.org/summary/59556)* and [*Paraplagusia
-  bilineata* (Doublelined tonguesole)](http://www.fishbase.org/summary/522) from [FishBase](http://www.fishbase.org/).
-- [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
-  Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
-
-**References**
-
-- Kelvin K. P. Lim & Tan Heok Hui. *Bleeker’s fringelip tongue-sole at East Coast.* 29 March 2018. Singapore Biodiversity Records 2018: 33-34 ISSN 2345-7597. National University of Singaporec.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

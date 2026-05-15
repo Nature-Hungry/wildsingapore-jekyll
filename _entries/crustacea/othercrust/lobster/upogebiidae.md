@@ -86,13 +86,37 @@ page_images:
   caption: |
     <p>Pulau Semakau (West), Jul 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122174317976554640&type=3&ref=embed_post">fcebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+links_references: |
+  **Links**
+  - [Family
+    Upogebiidae](http://species-identification.org/species.php?species_group=lobsters&id=13&menuentry=groepen)
+    on Marine Lobsters of the World on Marine Species Identification
+    Portal.
+  **References**
+  - Kyoko Kinoshita *Burrow Structure
+    of the Mud Shrimp Upogebia major (Decapoda: Thalassinidea:
+    Upogebiidae)* Journal of Crustacean Biology Vol. 22, No. 2
+    (May, 2002), pp. 474-480 The Crustacean Society.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 ---
 
 ## Where seen?
  The large pale shrimp is sometimes seen in mangroves, also seagrass
 areas near mangroves on our Northern shores. Elsewhere, some species are found in reefs and deeper waters.  
   
-**Features:**  4-6cm long. Long abdomen
+## Features
+  4-6cm long. Long abdomen
 with broad tail, a pair of larger pincers both about the same size.
 Colours usually translucent, white or pale shades of yellow, pink, orange.  
   
@@ -166,31 +190,7 @@ Dworschak](http://www.flickr.com/photos/9705584@N05/) and [Dr
 Arthur Anker](http://www.flickr.com/photos/artour_a/) for identifying [this
 shrimp.](http://www.flickr.com/photos/wildsingapore/7202011146/)
 
-**Links**
 
-- [Family
-  Upogebiidae](http://species-identification.org/species.php?species_group=lobsters&id=13&menuentry=groepen)
-  on Marine Lobsters of the World on Marine Species Identification
-  Portal.
-
-**References**
-
-- Kyoko Kinoshita *Burrow Structure
-  of the Mud Shrimp Upogebia major (Decapoda: Thalassinidea:
-  Upogebiidae)* Journal of Crustacean Biology Vol. 22, No. 2
-  (May, 2002), pp. 474-480 The Crustacean Society.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -34,7 +34,8 @@ may be small, found under stones and other hiding places and thus
 overlooked. **What are sponges?** Often mistaken for plants, sponges are
 actually animals, albeit very simple animals. In fact, scientists
 did not even consider animals until about 100 years ago! Sponges belong
-to Phylum Porifera which includes about 8,000 known species.  **Features:** A sponge is a simple animal made up of a few
+to Phylum Porifera which includes about 8,000 known species.  ## Features
+ A sponge is a simple animal made up of a few
 types of cells. These cells are largely independent of one another
 and only loosely held together. These cells do not form tissues or
 organs, so a sponge does not have a mouth, digestive system or circulatory

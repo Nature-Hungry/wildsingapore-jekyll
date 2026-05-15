@@ -111,6 +111,28 @@ page_images:
     <p>Sea Challengers.</p>
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+links_references: |
+  **Links**
+  - [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog
+  - [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star) - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
+  **References**
+  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
+  - Lane, David
+    J.W. and Didier Vandenspiegel. 2003*. A
+    Guide to Sea Stars and Other Echinoderms of Singapore*.
+    Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel
+    et al. 1998. *The
+    Asteroid fauna (Echinodermata) of Singapore with a distribution
+    table and illustrated identification to the species*. The Raffles
+    Bulletin of Zoology 1998 46(2): 431-470.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Schoppe,
+    Sabine, 2000. *Echinoderms
+    of the Philippines: A guide to common shallow water sea stars,
 ---
 
 ## Where seen?
@@ -119,7 +141,8 @@ elegant large sea star has its stronghold on our Northern shores. Usually seen
 on soft, silty shores, near seagrass meadows and coral rubble. Usually alone, although sometimes, large numbers can be seen gathered together. It moves rapidly and
 is usually more active at night. It appears to be seasonal. Sometimes seen in large numbers and then none seen for some time. According to Marsh and Fromont, it is moderately common on sand or mud in Australia.  
   
-**Features:** Diameter with arms to 12-20cm. 5 to 9, usually 8 arms. Arms are
+## Features
+ Diameter with arms to 12-20cm. 5 to 9, usually 8 arms. Arms are
 long, somewhat rounded in cross-section, and tapered to a sharp tip,
 edged with small sharp spines along the sides. The upper surface of
 the body is covered with special flat-topped, pillar-like structures
@@ -189,28 +212,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog
-- [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star) - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
-
-**References**
-
-- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
-- Didier VandenSpiegel
-  et al. 1998. *The
-  Asteroid fauna (Echinodermata) of Singapore with a distribution
-  table and illustrated identification to the species*. The Raffles
-  Bulletin of Zoology 1998 46(2): 431-470.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Schoppe,
-  Sabine, 2000. *Echinoderms
-  of the Philippines: A guide to common shallow water sea stars,

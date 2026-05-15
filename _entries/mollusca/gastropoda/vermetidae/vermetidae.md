@@ -49,6 +49,31 @@ page_images:
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118127263062825">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
+links_references: |
+  **Links**
+  - [Vermetidae
+    and other 'Worm shells"](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Vermetidae.html) on The Gladys Archerd Shell Collection
+    at Washington State University Tri-Cities Natural History Museum
+    website: brief fact sheet with photos.
+  - [Worms
+    that ain't.. Vermetid Snails In Marine Aquaria](http://www.reefs.org/library/aquarium_net/0897/0897_8.html) by Ron Shimek
+    on Aquarium.Net: lots of scientific details about Vermetids.
+  - Family Vermitidae
+    in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K.
+    S. & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
 ---
 
 if you
@@ -64,7 +89,8 @@ stones and other hard surfaces. Commonly seen on our Northern shores.
 Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the [Family
 Turritellidae](../turritellidae/turritella.htm) also build coiling shells.   
   
-**Features:** Tube opening 1-2cm in
+## Features
+ Tube opening 1-2cm in
 diameter, coils 10cm long or more. This amazing snail is NOT a worm.
 It builds a thin hard tube on hard surfaces. The worm snail has a
 pair of short thick tentacles, and a short foot. Some species of worm
@@ -136,33 +162,7 @@ sp.*=^Thylacodes* sp.
 
 ---
 
-**Links**
 
-- [Vermetidae
-  and other 'Worm shells"](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Vermetidae.html) on The Gladys Archerd Shell Collection
-  at Washington State University Tri-Cities Natural History Museum
-  website: brief fact sheet with photos.
-- [Worms
-  that ain't.. Vermetid Snails In Marine Aquaria](http://www.reefs.org/library/aquarium_net/0897/0897_8.html) by Ron Shimek
-  on Aquarium.Net: lots of scientific details about Vermetids.
-- Family Vermitidae
-  in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K.
-  S. & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

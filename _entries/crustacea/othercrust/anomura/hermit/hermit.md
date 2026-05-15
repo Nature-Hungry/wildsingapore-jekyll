@@ -162,6 +162,80 @@ page_images:
   caption: |
     <p>Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169202002145112&set=a.10169201997770112">facebook</a>.</p>
 coverimg: ../../../../../Templates/fornatureguides.gif
+links_references: |
+  **Links**
+  - [Mangrove
+    hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)  and the
+    [Land
+    hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
+    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
+    Singapore Science Centre. 168 pp.
+  - [Hermit
+    Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [Hermit
+    crabs and their allies](http://www.museum.vic.gov.au/crust/hermgalll) on the Marine Crustaceans of Southern
+    Australia page on the Museum Victoria website: an introduction
+    including a section on their biology which has lots of labelled
+    diagrams, and photos and fact sheets on some hermits of Southern
+    Australia.
+  - [A
+    Catalog of The Hermit Crabs (Paguroidea) of Taiwan](http://biota.taibif.tw/node/9348) on the
+    BiotaTaiwanica website: detailed descriptions, drawings and photos
+    of many species.
+  - [Hermit
+    crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchangel) on the wild shores of singapore
+    blog.
+  **References**
+  - D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016. *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
+  - Dwi Listyo Rahayu & Rene Ong. 2 October 2015. *Rediscovery of the hermit crab, Dardanus hessii, in Singapore*. Singapore Biodiversity Records 2015: 145-147
+  - D. L. Rahayu. *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda: Anomura: Diogenidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
+  - Dwi Listyo
+    Rahayu, 2000. *Hermit
+    crabs from the South China Sea (Crustacea: Decapoda: Anomura:
+    Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
+    of Zoology 2000 Supplement No. 8: 377-404. The National University
+    of Singapore.
+  - Dwi Listyo
+    Rahayu, 1996. *Notes
+    on littoral hermit crabs (Excluding Coenobitidae) (Crustacea:
+    Decapoda: Anomura) mainly from Singapore and Peninsular Malaysia*
+    (pdf). The Raffles Bulletin of Zoology 1996 44(2): 335-355
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Chuang, S.
+    H., 1961. *On
+    Malayan Shores*.
+    Muwu Shosa, Singapore. 225 pp., plates 1-112.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Davey, Keith,
+    1998. *A
+    Photographic Guide to Seashore Life of Australia*.
+    New Holland, Australia.144 pp.
+  - Edward E.
+    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+    Zoology*
+    Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Pechenik,
+    Jan A., 2005. *Biology
+    of the Invertebrates*.
+    5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 ---
 
 if you
@@ -185,7 +259,8 @@ Anomurans includes [porcelain
 crabs](../porcellanidae/porcellanidae). These crab-like animals are not true crabs. True crabs
 belong to a subgroup called Brachyurans within the Order Decapoda.  
   
-**Features:** True crabs have a hard,
+## Features
+ True crabs have a hard,
 shortened abdomen which they fold under their hard shells for protection.
 Hermit crabs, on the other hand, have a soft, long abdomen. They have
 to insert this abdomen into an empty shell for protection. The soft
@@ -417,82 +492,7 @@ Spiropagurus spiriger*
 
 ---
 
-**Links**
 
-- [Mangrove
-  hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)  and the
-  [Land
-  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
-  Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-  Singapore Science Centre. 168 pp.
-- [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [Hermit
-  crabs and their allies](http://www.museum.vic.gov.au/crust/hermgalll) on the Marine Crustaceans of Southern
-  Australia page on the Museum Victoria website: an introduction
-  including a section on their biology which has lots of labelled
-  diagrams, and photos and fact sheets on some hermits of Southern
-  Australia.
-- [A
-  Catalog of The Hermit Crabs (Paguroidea) of Taiwan](http://biota.taibif.tw/node/9348) on the
-  BiotaTaiwanica website: detailed descriptions, drawings and photos
-  of many species.
-- [Hermit
-  crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchangel) on the wild shores of singapore
-  blog.
-
-**References**
-
-- D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016. *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
-- Dwi Listyo Rahayu & Rene Ong. 2 October 2015. *Rediscovery of the hermit crab, Dardanus hessii, in Singapore*. Singapore Biodiversity Records 2015: 145-147
-- D. L. Rahayu. *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda: Anomura: Diogenidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
-- Dwi Listyo
-  Rahayu, 2000. *Hermit
-  crabs from the South China Sea (Crustacea: Decapoda: Anomura:
-  Diogenidae, Paguridae, Parapaguridae)* (pdf). The Raffles Bulletin
-  of Zoology 2000 Supplement No. 8: 377-404. The National University
-  of Singapore.
-- Dwi Listyo
-  Rahayu, 1996. *Notes
-  on littoral hermit crabs (Excluding Coenobitidae) (Crustacea:
-  Decapoda: Anomura) mainly from Singapore and Peninsular Malaysia*
-  (pdf). The Raffles Bulletin of Zoology 1996 44(2): 335-355
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Chuang, S.
-  H., 1961. *On
-  Malayan Shores*.
-  Muwu Shosa, Singapore. 225 pp., plates 1-112.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Davey, Keith,
-  1998. *A
-  Photographic Guide to Seashore Life of Australia*.
-  New Holland, Australia.144 pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 [links](../../../../links)
 | [references](../../../../references)

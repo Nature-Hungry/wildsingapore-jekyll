@@ -53,7 +53,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/12
 meadows, stuck onto seagrass blades and seaweeds. Usually seen singly,
 sometimes, many are seen clustered together.  
   
-**Features:** Diameter 1cm with tentacles expanded. Many tentacles, tapering translucent
+## Features
+ Diameter 1cm with tentacles expanded. Many tentacles, tapering translucent
 with tiny bumpy spots, with slightly more opaque white tips. Body
 column short densely covered with tiny bumps. Broad foot which it
 uses to cling onto seagrass blades. It can 'swim' by undulating its

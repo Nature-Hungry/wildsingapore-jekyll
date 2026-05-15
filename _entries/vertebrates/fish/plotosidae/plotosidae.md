@@ -45,6 +45,48 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+links_references: |
+  **Links**  
+  - [Black
+    eeltail catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988, *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [White-lipped
+    Eeltail Catfish (*Paraplotosus albilabris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224), [Black
+    Eeltail Catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225), [Striped
+    Eeltail Catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
+    P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Plotosidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=149) and *[Paraplotosus
+    albilabris](http://www.fishbase.org/summary/12097)*[(Whitelipped eel catfish)](http://www.fishbase.org/summary/12097) and [Gray
+    eel-catfish (*Plotosus canius*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167) and [Striped
+    eel-catfish (*Plotosus lineatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the order, including fact sheets.
+  - [Sting
+    of the cat: thousands of catfishes may be venomous](http://wildshores.blogspot.com/2009/12/sting-of-cat-thousands-of-catfishes-mayl) on the
+    wild shores of singapore blog.
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 if you
@@ -71,7 +113,8 @@ in the Indo-West Pacific Ocean. Most of the members of this family
 live in freshwater. Only a few are marine. 'Plotos' means 'to float'
 in Greek.  
   
-**Features:**  Juveniles from 5cm,
+## Features
+  Juveniles from 5cm,
 adults to about 30cm. The body is long and cylindrical, flattening
 into an eel-like tail, i.e., the dorsal and anal fins are continuous
 with the tail fin. To swim, the fish undulates in an eel- or snake-like
@@ -155,50 +198,7 @@ catfish)
 
 ---
 
-**Links**  
 
-- [Black
-  eeltail catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988, *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [White-lipped
-  Eeltail Catfish (*Paraplotosus albilabris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224), [Black
-  Eeltail Catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225), [Striped
-  Eeltail Catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Plotosidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=149) and *[Paraplotosus
-  albilabris](http://www.fishbase.org/summary/12097)*[(Whitelipped eel catfish)](http://www.fishbase.org/summary/12097) and [Gray
-  eel-catfish (*Plotosus canius*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167) and [Striped
-  eel-catfish (*Plotosus lineatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the order, including fact sheets.
-- [Sting
-  of the cat: thousands of catfishes may be venomous](http://wildshores.blogspot.com/2009/12/sting-of-cat-thousands-of-catfishes-mayl) on the
-  wild shores of singapore blog.
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -49,6 +49,28 @@ page_images:
     <p>Shell occupied by a hemit crab.</p>
     <p>Cyrene, Aug 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Tonnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Tonnidae.html) on The Gladys Archerd Shell Collection at Washington
+    State University Tri-Cities Natural History Museum website: brief
+    fact sheet with photos.
+  - Family
+    Tonnidae in
+    the Gastropods section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -57,7 +79,8 @@ rarely seen. They are usually found in sandy bottoms in deeper water
 and thus living snails are rarely seen on the intertidal. Elsewhere,
 they are found in sandy areas especially in seagrass meadows.  
   
-**Features:** 9-10cm. The shell is
+## Features
+ 9-10cm. The shell is
 thin but strong, nearly spherical with a short spiral and very large
 shell opening. Usually with spiralling ridges on the surface. Adult
 snails lack an operculum.  
@@ -121,30 +144,7 @@ tun)
 
 ---
 
-**Links**
 
-- [Family
-  Tonnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Tonnidae.html) on The Gladys Archerd Shell Collection at Washington
-  State University Tri-Cities Natural History Museum website: brief
-  fact sheet with photos.
-- Family
-  Tonnidae in
-  the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

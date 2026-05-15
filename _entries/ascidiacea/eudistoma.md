@@ -58,7 +58,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg
 clusters of yellow blobs are commonly seen on many of our Northern
 shores, on hard surfaces near the mid-water mark.   
   
-**Features:** Each
+## Features
+ Each
 blob about 1cm across, somewhat columnar with a rounded top. Clusters
 of blobs form on boulders and larger rocks, usually near the base
 and under overhangs. Also on jetty pilings.  

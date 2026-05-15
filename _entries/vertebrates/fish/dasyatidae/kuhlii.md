@@ -45,6 +45,34 @@ page_images:
   caption: |
     <p>East Coast PCN, Apr 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10210451271050324&set=a.10210451242049599&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
+links_references: |
+  **Links**  
+  - [Blue-spotted
+    Stingray (*Dasyatis kuhlii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Bluespotted
+    stingray (*Neotrygon kuhlii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=4508) on [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Volume
+    3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+    Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+    Purposes The Living Marine Resources of the Western Central Pacific.
+  - [*Neotrygon kuhlii*](http://www.iucnredlist.org/details/161590/0) from IUCN Red List.
+  **References**
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen* New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World* Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -53,7 +81,8 @@ our Northern shores, and seems particularly common on Pulau Sekudu.
 It is more active at night and at high tide. It was previously known
 as *Dasyatis kuhlii*.  
   
- **Features:** To about 40cm in diameter,
+ ## Features
+ To about 40cm in diameter,
 those seen about 15-20cm. Body kite-shaped with rounded snout. Body
 colour brown to reddish brown with indistinct light blue or black
 spots. The spots are edged in brown and are rather inconspicuous.
@@ -106,36 +135,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Blue-spotted
-  Stingray (*Dasyatis kuhlii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Bluespotted
-  stingray (*Neotrygon kuhlii*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=4508) on [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Volume
-  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
-  Purposes The Living Marine Resources of the Western Central Pacific.
-- [*Neotrygon kuhlii*](http://www.iucnredlist.org/details/161590/0) from IUCN Red List.
-
-**References**
-
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen* New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World* Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

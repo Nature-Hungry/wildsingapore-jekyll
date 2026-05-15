@@ -100,6 +100,31 @@ page_images:
   caption: |
     <p>Tiny tentacles, very sparse.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Ctenactis
+    albitentaculata*](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=albitentaculata)*, [Ctenactis
+    crassa](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=crassa)* and *[Ctenactis
+    echinata](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=echinata)* on SeaLife Base: Technical fact sheets.
+  **References**
+  - Hoeksema,
+    Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
+    of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
+    in changing reef conditions* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 91-101.
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World* Australian Institute of Marine Science, Australia. 3 volumes.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 ---
 
 ## Where seen?
@@ -108,7 +133,8 @@ of our undisturbed Southern shores. The coral is free-living (it is not attached
 to the surface) and large ones may be seen on sandy shallow areas
 near living reefs.  
   
-**Features:** Oval or elongated convex
+## Features
+ Oval or elongated convex
 disks with rounded ends, to about 20-30cm long. A prominent central
 furrow. *Ctenactis echinata* has one mouth, while the other species
 may have several. In all of them, the mouths are found only in the
@@ -211,33 +237,7 @@ Ctenactis echinata=Fungia echinata*\*\*
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Ctenactis
-  albitentaculata*](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=albitentaculata)*, [Ctenactis
-  crassa](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=crassa)* and *[Ctenactis
-  echinata](http://www.sealifebase.org/summary/SpeciesSummary.php?genusname=Ctenactis&speciesname=echinata)* on SeaLife Base: Technical fact sheets.
-
-**References**
-
-- Hoeksema,
-  Bert W. and Esther G. L. Koh. 30 Dec 2009. *Depauration
-  of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006)
-  in changing reef conditions* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 91-101.
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World* Australian Institute of Marine Science, Australia. 3 volumes.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

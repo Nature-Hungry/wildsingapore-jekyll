@@ -57,6 +57,18 @@ page_images:
   caption: |
     <p>Kranji Nature Trail, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
+links_references: |
+  **Links**
+  - [*Caryota mitis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Caryota%20mitisl) (Arecales: Arecaceae) Clustering Fishtail Palm by Randolph Quek, 2014, on taxo4254.
+  **References**
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Whitmore,
+    T. C. 1998 (2nd edition). *Palms
+    of Malaya*. White Lotus. 136 pp.
 ---
 
 ## Where seen?
@@ -65,7 +77,8 @@ leaves, this palm is considered by Whitmore to be 'the only palm commonly
 found in secondary forest'. In Singapore it is also commonly seen
 in the back mangroves.  
   
- **Features:** A short palm (to about
+ ## Features
+ A short palm (to about
 6m), often forming clumps of several stems. Leaves long (2-6m) made
 up of leaflets in the shape of 'fishtails'. Flowers on hanging spikes.
 Fruits green ripening plum red or ochre. The palm starts flowering
@@ -109,20 +122,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Caryota mitis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Caryota%20mitisl) (Arecales: Arecaceae) Clustering Fishtail Palm by Randolph Quek, 2014, on taxo4254.
-
-**References**
-
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Whitmore,
-  T. C. 1998 (2nd edition). *Palms
-  of Malaya*. White Lotus. 136 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

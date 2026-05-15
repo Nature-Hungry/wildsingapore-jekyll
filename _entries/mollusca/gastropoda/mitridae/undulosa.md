@@ -54,7 +54,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/un
 ## Where seen?
  This bullet-shaped burrowing snail was seen on Changi and Chek Jawa. Initially in some numbers, then dwindling away.  
   
- **Features:** 2-5cm. Shell thick with fine ridges in a cross-hatched pattern. The
+ ## Features
+ 2-5cm. Shell thick with fine ridges in a cross-hatched pattern. The
 shell has a dark 'skin' which can peel off. There is notch at the
 tip of the shell for the siphon to emerge. The animal is white with
 a broad foot and short tentacles. Operculum small and brown.  

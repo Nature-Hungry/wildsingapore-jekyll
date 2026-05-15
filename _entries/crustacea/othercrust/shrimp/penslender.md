@@ -52,7 +52,8 @@ on some of our shores. In sandy, silty areas and near seagrasses.
 It is more active at night and usually seen alone. It is probably
 quite common but overlooked because it is so well camouflaged.  
   
-**Features:** 5-8cm long. Body plain
+## Features
+ 5-8cm long. Body plain
 in various colours from yellowish, brown or beige to grey and even
 reddish. There may be faint bands on the body.  
  

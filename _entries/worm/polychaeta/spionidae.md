@@ -46,13 +46,25 @@ page_images:
   caption: |
     <p>Pulau Sekudu, Jul 19Photo shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae) on the NZWA guide to
+    polychaetes: technical fact sheet.
+  **References**
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  Tiny ones that form tubes are sometimes seen encrusting
 sponges and other immobile creatures on the shore.  
   
-**Features:** Spionids are generally small slender active worms. They have tentacles
+## Features
+ Spionids are generally small slender active worms. They have tentacles
 (palps) on the head that are used for feeding. Some may feed by gathering
 particles that deposit on the surface using a pair of long feeding
 palps that is grooved with tiny hairs (cilia) that transport the particles
@@ -98,17 +110,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 
 ---
-
-**Links**
-
-- [Family
-  Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae) on the NZWA guide to
-  polychaetes: technical fact sheet.
-
-**References**
-
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.

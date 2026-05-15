@@ -57,6 +57,16 @@ page_images:
   caption: |
     <p>Terumbu Pempang Laut, Dec 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2065382660151729&set=a.2065381310151864&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
+links_references: |
+  **Links**
+  - [*Gafrarium
+    divaricatum* (Forked venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86647) from SeaLife Base: Technical
+    fact sheet.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
 ---
 
 ## Where seen?
@@ -64,7 +74,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scr
 seagrasses. Elsewhere, they are found on intertidal
 shores with sand.   
   
-**Features:** About
+## Features
+ About
 4-6cm. Shell rather circular, flat, thick with fine concentric ridges.
 Colour white with various brown lines, often zig-zag patterns.
 
@@ -113,18 +124,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 With grateful thanks to Andre Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/)
 on EOL's Life Desk for identifying this clam.  
   
-**Links**
 
-- [*Gafrarium
-  divaricatum* (Forked venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86647) from SeaLife Base: Technical
-  fact sheet.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -51,6 +51,28 @@ page_images:
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
+links_references: |
+  **Links**
+  - *[Cassytha
+    filiformis](http://floraofsingapore.wordpress.com/2011/06/22/cassytha-filiformis/)*
+    on Total Vascular Flora of Singapore Online: photos and fact sheet.
+  - *[Cassytha
+    filiformis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1363)*
+    on the NParks Flora and Fauna website: photos and fact sheet.
+  - [*Cassytha
+    filiformis*](http://www.ctahr.hawaii.edu/oc/freepubs/pdf/PD-42.pdf)
+    (pdf) by Scot C. Nelson Department of Plant and Environmental
+    Protection Sciences: detailed fact sheet and comparison with Cuscuta
+    species which look similar.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *[The
 ---
 
 ## Where seen?
@@ -64,7 +86,8 @@ Asia. Sometimes recognised as a separate family, the Cassythaceae.
 According to Hsuan Keng, it is common in open bushes by the sea including
 Changi.  
   
- **Features:** A semi-parasitic plant,
+ ## Features
+ A semi-parasitic plant,
 it has long stems (3-8m) that grows in a tangle on host plants, green
 or yellow. The thin smooth stems do not root, they attach to the host
 by suckers. They are hollow, cylindrical and dark green to reddish-or
@@ -106,30 +129,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- *[Cassytha
-  filiformis](http://floraofsingapore.wordpress.com/2011/06/22/cassytha-filiformis/)*
-  on Total Vascular Flora of Singapore Online: photos and fact sheet.
-- *[Cassytha
-  filiformis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1363)*
-  on the NParks Flora and Fauna website: photos and fact sheet.
-- [*Cassytha
-  filiformis*](http://www.ctahr.hawaii.edu/oc/freepubs/pdf/PD-42.pdf)
-  (pdf) by Scot C. Nelson Department of Plant and Environmental
-  Protection Sciences: detailed fact sheet and comparison with Cuscuta
-  species which look similar.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *[The
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -37,13 +37,35 @@ page_images:
   caption: |
     <p>Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+links_references: |
+  **Links**
+  - *[Physogyra lichtensteini](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0300)* on Corals of the World online on the Australian
+    Institute of Marine Science website: Technical fact sheet.
+  - [*Physogyra lichtensteini*](http://www.iucnredlist.org/details/133456/0) on the IUCN Red List of Threatened Species
+    website: Technical fact sheet.
+  - [*Physogyra lichtensteini*](http://www.sealifebase.org/summary/Physogyra-lichtensteini.html) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. [*An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf) (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
+  - Borneman,
+    Eric H. 2001. *Aquarium
+    Corals: Selection, Husbandry and Natural History*
+    T.F. H Publications. 464 pp
 ---
 
 ## Where seen?
  This hard coral with bubble-shaped tentacles
 is rarely seen on the intertidal shores in southern Singapore. Elsewhere in the world, it is apparently more often found in murky waters.  
   
-**Features:** Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks. During the day, the colony is usually covered in vesicles or bubbles (1-2cm). The bubbles may have one or two white
+## Features
+ Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks. During the day, the colony is usually covered in vesicles or bubbles (1-2cm). The bubbles may have one or two white
 tips. These bubbles can retract into the skeleton when disturbed. The conical finger-like tentacles are only extended at night. Colours include beige.  
   
 **Sometimes confused with** other
@@ -85,29 +107,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Physogyra lichtensteini](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0300)* on Corals of the World online on the Australian
-  Institute of Marine Science website: Technical fact sheet.
-- [*Physogyra lichtensteini*](http://www.iucnredlist.org/details/133456/0) on the IUCN Red List of Threatened Species
-  website: Technical fact sheet.
-- [*Physogyra lichtensteini*](http://www.sealifebase.org/summary/Physogyra-lichtensteini.html) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. [*An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf) (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [www.**flickr**.com](http://www.flickr.com)  
 

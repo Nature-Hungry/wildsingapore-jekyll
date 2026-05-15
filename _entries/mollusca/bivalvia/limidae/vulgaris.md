@@ -69,6 +69,36 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594167945&set=a.10158447654442945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+links_references: |
+  **Links**
+  - [Common
+    file shell (*Lima vulgaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84401)
+    on SeaLife Base: Technical fact sheet.
+  - [File
+    shells (*Lima lima*)](http://mangrove.nus.edu.sg/pub/seashore/text/162.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - Common file
+    clam (*Lima vulgaris*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -76,7 +106,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limid
 and underside of stones and corals. It was previously known as *Lima
 lima*.  
   
-**Features:** 4- 6cm. The two-part
+## Features
+ 4- 6cm. The two-part
 shell is thick with clear ridges, usually white or yellowish. The valves can close completely, with
 the tentacles retracted. Tentacles long,
 usually pale without markings. These tentacles are sticky and can break off if the animal is distressed.
@@ -132,38 +163,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Common
-  file shell (*Lima vulgaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84401)
-  on SeaLife Base: Technical fact sheet.
-- [File
-  shells (*Lima lima*)](http://mangrove.nus.edu.sg/pub/seashore/text/162.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- Common file
-  clam (*Lima vulgaris*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

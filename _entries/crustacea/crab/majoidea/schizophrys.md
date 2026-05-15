@@ -80,6 +80,41 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+links_references: |
+  **Links**
+  - [Velcro
+    and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan, Leo W. H. &
+    Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Common
+    decorator crab (*Schizophrys aspera*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=aspera) and [Pronghorn
+    decorator crab (*Schizophrys dama*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=dama) on [SeaLife
+    Base:](http://www.sealifebase.org/search.php) Technical fact sheet
+  - [*Schizophrys
+    aspera*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=959) and on Crabs of Japan in Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Ng, Peter
+    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
+    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
+    No. 17, 31 Jan 2008. 286 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
+  - Debelius,
+    Helmut, 2001. *Crustacea
+    Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates* Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -87,7 +122,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizop
 our shores, clinging to coral rubble, large boulders or hiding under
 living corals. Relying on its camouflage, the crab moves slowly.   
   
-**Features:** Body width 4-5cm. Body
+## Features
+ Body width 4-5cm. Body
 teardrop-shaped with large spines on the sides. Large eyes on short
 stalks with a pair of spines between them. Pincers long cylindrical,
 tucked downwards under the body, claws with spoon-shaped tips. Body
@@ -146,43 +182,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Velcro
-  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan, Leo W. H. &
-  Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Common
-  decorator crab (*Schizophrys aspera*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=aspera) and [Pronghorn
-  decorator crab (*Schizophrys dama*)](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=dama) on [SeaLife
-  Base:](http://www.sealifebase.org/search.php) Technical fact sheet
-- [*Schizophrys
-  aspera*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=959) and on Crabs of Japan in Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Ng, Peter
-  K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-  crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-  No. 17, 31 Jan 2008. 286 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates* Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

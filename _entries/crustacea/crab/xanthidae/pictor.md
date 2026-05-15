@@ -130,6 +130,40 @@ page_images:
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171192581/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
+links_references: |
+  **Links**  
+  - [Poisonous
+    Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Mosaic
+    reef crab (*Lophozozymus pictor*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=139345&genusname=Lophozozymus&speciesname=pictor) on [SeaLife
+    Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+  - [*Lophozozymus
+    pictor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1271) Crabs of Japan, on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Chou, L.
+    M., 1998. *A
+    Guide to the Coral Reef Life of Singapore*. Singapore Science
+    Centre. 128 pages.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Gopalakrishnakone
+    P., 1990. *A
+    Colour Guide to Dangerous Animals*.
+    Venom & Toxin Research Group, Faculty of Medicine, National
+    University of Singapore. 156 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 ## Where seen?
@@ -138,7 +172,8 @@ of our shores among coral rubble or near living reefs. At some times,
 several can be seen on one trip, and then none for several months.
 'Pictor' in Latin means 'painter'.  
   
-**Features:** Body width 8-10cm. Body
+## Features
+ Body width 8-10cm. Body
 somewhat fan-shaped. It is usually red to orange with strikingly mosaic-like
 patterns of large white spots. Pincers short, both about equal in size, with black tips. Walking
 legs hairy with pointed tips.  
@@ -226,42 +261,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Mosaic
-  reef crab (*Lophozozymus pictor*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=139345&genusname=Lophozozymus&speciesname=pictor) on [SeaLife
-  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
-- [*Lophozozymus
-  pictor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1271) Crabs of Japan, on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore Science
-  Centre. 128 pages.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Gopalakrishnakone
-  P., 1990. *A
-  Colour Guide to Dangerous Animals*.
-  Venom & Toxin Research Group, Faculty of Medicine, National
-  University of Singapore. 156 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

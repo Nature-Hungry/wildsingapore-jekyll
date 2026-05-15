@@ -41,6 +41,40 @@ page_images:
   caption: |
     <p><a href="variegatus.htm">Variegated sundial snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+links_references: |
+  **Links**
+  - [Family
+    Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
+    Washington State University Tri-Cities Natural History Museum
+    website: brief fact sheet with photos.
+  - Family
+    Architectonicidae in the Gastropods section by J.M. Poutiers in
+    the FAO Species Identification Guide for Fishery Purposes: The
+    Living Marine Resources of the Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
  ## Where seen?
@@ -48,7 +82,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architecton
 shores. They are found in tropical to warm-temperate regions near
 their prey.  
   
-**Features:** An unmistakable snail,
+## Features
+ An unmistakable snail,
 the shell coils usually forming a flat disc-shaped with a flat base.
 This shape allows the snails to burrow through sand. The operculum
 is made of a horn-like material. Head with a short snout and a pair
@@ -113,42 +148,7 @@ sundial snail)
 
 ---
 
-**Links**
 
-- [Family
-  Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html) on The Gladys Archerd Shell Collection at
-  Washington State University Tri-Cities Natural History Museum
-  website: brief fact sheet with photos.
-- Family
-  Architectonicidae in the Gastropods section by J.M. Poutiers in
-  the FAO Species Identification Guide for Fishery Purposes: The
-  Living Marine Resources of the Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

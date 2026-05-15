@@ -110,6 +110,22 @@ page_images:
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171053915/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg
+links_references: |
+  **Links**
+  - [*Baseodiscus
+    quinquelineatus*](http://www.sealifebase.org/summary/Baseodiscus-quinquelineatusl) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
+  - Kuiter, Rudie
+    H and Helmut Debelius. 2009. *World
+    Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 ---
 
 ## Where seen?
@@ -117,7 +133,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205su
 in coral rubble areas on our Southern shores. Sometimes several are
 seen on the same visit!  
   
-**Features:** About 40cm to more than
+## Features
+ About 40cm to more than
 1m long. White to cream body, with five or more blue or black stripes
 along the entire length of the body.   
   
@@ -217,23 +234,4 @@ St John's Island, Jan 20
 **Acknowledgement**  
 With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on the ID
-of this worm.  
-  
-**Links**
-
-- [*Baseodiscus
-  quinquelineatus*](http://www.sealifebase.org/summary/Baseodiscus-quinquelineatusl) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+of this worm.

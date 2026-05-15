@@ -82,13 +82,35 @@ page_images:
     <p>H Publications.</p>
     <p>464 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+links_references: |
+  **Links**
+  - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306) on Corals of the World online on the
+    Australian Institute of Marine Science website: Technical fact
+    sheet.
+  - [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0) on the IUCN Red List of Threatened Species
+    website: Technical fact sheet.
+  - [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen) on
+    Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+    Portal: Technical fact sheet.
+  - [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal) on
+    SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei
+    Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
+    2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of
+    Zoology Supplement No. 22: 69-80.
+  - Veron,
+    Jen. 2000. *Corals
 ---
 
 ## Where seen?
  These hard corals pock-marked with circular corallites are more often seen
 on our Northern shores. Usually not common. Elsewhere, they grow in shaded areas such as overhangs. It was previously placed in Family Plesiastreidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.  
   
-**Features:** Colonies seen 15-20cm,
+## Features
+ Colonies seen 15-20cm,
 sometimes larger. The colony is generally a smooth boulder shape. The corallites have separate walls that are rather thick, forming
 a circular ring (0.2cm) and are not packed closely, often with a smooth area between them. The result is a rather smooth boulder pock-marked with rings. The polyps are small with many short tentacles in two alternating sizes, usually close
 to the colony surface, i.e., body column is not long.  
@@ -146,29 +168,7 @@ Plesiastreidae**
 
 ---
 
-**Links**
 
-- [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306) on Corals of the World online on the
-  Australian Institute of Marine Science website: Technical fact
-  sheet.
-- [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0) on the IUCN Red List of Threatened Species
-  website: Technical fact sheet.
-- [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen) on
-  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-  Portal: Technical fact sheet.
-- [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal) on
-  SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei
-  Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
-  2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of
-  Zoology Supplement No. 22: 69-80.
-- Veron,
-  Jen. 2000. *Corals
 
 [links](../../../links)
 | [references](../../../references)

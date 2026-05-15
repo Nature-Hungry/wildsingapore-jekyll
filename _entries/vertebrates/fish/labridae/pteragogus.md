@@ -53,6 +53,27 @@ page_images:
   caption: |
     <p>Terumbu Semakau, May 23Photo shared by Kevlin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168333683745112/3231020397188690">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+links_references: |
+  **Links**  
+  - [*Pteragogus
+    enneacanthus*](http://www.iucnredlist.org/details/187604/0) and *[Pteragogus
+    flagellifera](http://www.iucnredlist.org/details/187684/0)* on the IUCN Red List.
+  - [Family
+    Labridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=362) (Wrasses) and [*Pteragogus
+    enneacanthus* (Cockerel wrasse)](http://www.fishbase.org/summary/52464) and [*Pteragogus
+    flagellifer* (Cocktail wrasse)](http://www.fishbase.org/summary/8022) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family, including fact sheets on various
+    members of the family.
+  **References**
+  - Marcus F. C. Ng & Kelvin K. P. Lim. 31 October 2014. [Flagfin wrasse at Terumbu Semakau, *Pteragogus flagellifer*](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2014/sbr2014-289.pdf). Singapore Biodiversity Records 2014: 289.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
@@ -60,7 +81,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/ptera
 actively among seagrasses, another near coral rubble. It might be
 quite common but overlooked because of its superb camouflage.  
   
- **Features:** To about 20cm, those
+ ## Features
+ To about 20cm, those
 seen 6-15cm. Typical fish shape with large scales. It has a protrusible
 mouth. Most species are sand burrowers, feeding on creatures that
 live on the sea bottom. Most species change color and sex as they
@@ -115,29 +137,7 @@ wrasse)
 
 ---
 
-**Links**  
 
-- [*Pteragogus
-  enneacanthus*](http://www.iucnredlist.org/details/187604/0) and *[Pteragogus
-  flagellifera](http://www.iucnredlist.org/details/187684/0)* on the IUCN Red List.
-- [Family
-  Labridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=362) (Wrasses) and [*Pteragogus
-  enneacanthus* (Cockerel wrasse)](http://www.fishbase.org/summary/52464) and [*Pteragogus
-  flagellifer* (Cocktail wrasse)](http://www.fishbase.org/summary/8022) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on various
-  members of the family.
-
-**References**
-
-- Marcus F. C. Ng & Kelvin K. P. Lim. 31 October 2014. [Flagfin wrasse at Terumbu Semakau, *Pteragogus flagellifer*](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2014/sbr2014-289.pdf). Singapore Biodiversity Records 2014: 289.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

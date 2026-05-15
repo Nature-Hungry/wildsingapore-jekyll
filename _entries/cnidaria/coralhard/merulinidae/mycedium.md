@@ -58,12 +58,28 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+links_references: |
+  **Links**
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+  - [*Mycedium elephantotus*](http://www.sealifebase.org/summary/Mycedium-elephantotus.html) on SeaLife Base: Technical fact sheet.
+  **References**
+  - Danwei Huang,
+    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+    inventory of zooxanthellate sclerectinian corals in Singapore
+    including 33 new records* (pdf). Raffles Bulletin of Zoology
+    Supplement No. 22: 69-80.
+  - Veron, Jen.
+    2000. *Corals
+    of the World*
+    Australian Institute of Marine Science, Australia. 3 volumes.
 ---
 
 ## Where seen?
  This hard coral forms a thick plate with large bumps. It is rarely encountered on the intertidal.  
   
-**Features:** Colonies 20-30cm. Encrusting plate, thick. Large cup-shaped corallites (about 1.5cm) that look like a nose. Polyp tentacles are only extended
+## Features
+ Colonies 20-30cm. Encrusting plate, thick. Large cup-shaped corallites (about 1.5cm) that look like a nose. Polyp tentacles are only extended
 at night.
  
 
@@ -119,23 +135,7 @@ Merulinidae](../faviidae/faviidae.htm)**
 
 ---
 
-**Links**
 
-- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-- [*Mycedium elephantotus*](http://www.sealifebase.org/summary/Mycedium-elephantotus.html) on SeaLife Base: Technical fact sheet.
-
-**References**
-
-- Danwei Huang,
-  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-  inventory of zooxanthellate sclerectinian corals in Singapore
-  including 33 new records* (pdf). Raffles Bulletin of Zoology
-  Supplement No. 22: 69-80.
-- Veron, Jen.
-  2000. *Corals
-  of the World*
-  Australian Institute of Marine Science, Australia. 3 volumes.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

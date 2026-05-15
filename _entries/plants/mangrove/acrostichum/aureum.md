@@ -39,6 +39,36 @@ page_images:
   caption: |
     <p>Fertile fronds with spores.Pasir Ris, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
+links_references: |
+  **Links**
+  - *[Acrostichum
+    aureum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)*
+    on the NParks Flora and Fauna website: photos and fact sheet.
+  - [Piai
+    Raya (*Acrostichum aureum*)](http://mangrove.nus.edu.sg/guidebooks/text/1038) and [Piai
+    Lasu (*Acrostichum speciosum*)](http://mangrove.nus.edu.sg/guidebooks/text/1039) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Wee Yeow
+    Chin. 1983. *Ferns of Singapore*. The Singapore Science Centre.
+    72pp.
 ---
 
 ## Where seen?
@@ -51,7 +81,8 @@ lasu](speciosum) (*A. speciosum*), and prefers bright,
 sunny areas. In cleared mangroves, this fern can dominate and thus considered
 a nuisance plant.  
   
-**Features:** The leaflets are broader
+## Features
+ The leaflets are broader
 and longer (1-4m long) than those of [Piai
 lasu](speciosum) (*A. speciosum*) and young fronds are crimson red. Rhizomes
 and base of the leaf stalks covered with scales up to 4cm long. The
@@ -85,38 +116,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Acrostichum
-  aureum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)*
-  on the NParks Flora and Fauna website: photos and fact sheet.
-- [Piai
-  Raya (*Acrostichum aureum*)](http://mangrove.nus.edu.sg/guidebooks/text/1038) and [Piai
-  Lasu (*Acrostichum speciosum*)](http://mangrove.nus.edu.sg/guidebooks/text/1039) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1983. *Ferns of Singapore*. The Singapore Science Centre.
-  72pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

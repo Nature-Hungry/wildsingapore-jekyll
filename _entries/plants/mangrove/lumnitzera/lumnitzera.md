@@ -43,13 +43,62 @@ page_images:
   caption: |
     <p>Developing fruits.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg
+links_references: |
+  **Links**
+  - [*Lumnitzera
+    littorea*](http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/) and *[Lumnitzera
+    racemosa](http://floraofsingapore.wordpress.com/2010/10/03/lumnitzera-racemosa/)* on Total Vascular Flora of Singapore Online:
+    photos and fact sheet.
+  - [*Lumnitzera
+    littorea*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3266) and [*Lumnitzera
+    racemosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4411) on the NParks Flora and Fauna website: photos and
+    fact sheet.
+  - [Teruntum
+    merah (*Lumnitzera littorea*)](http://mangrove.nus.edu.sg/guidebooks/text/1065) and [Teruntum
+    bunga puteh (*Lumnitzera racemosa*)](http://mangrove.nus.edu.sg/guidebooks/text/1066) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan. 1990, *The
+    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+    Singapore University Press. 222 pp.
+  - Corners,
+    E. J. H., 1997. *Wayside
+    Trees of Malaya: in two volumes*.
+    Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+    1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Ng, Peter
+    K. L. and Wang Luan Keng and Kelvin K. P. Lim, 2008. *Private
+    Lives: An Expose of Singapore's Mangroves*. The Raffles
+    Museum of Biodiversity Research . 249 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
 ## Where seen?
   This pretty plant with plasticky leaves and
 tiny flowers is sometimes seen in back mangroves.  
   
-**Features:** Short shrub to tall
+## Features
+ Short shrub to tall
 tree. Leaves spatula shaped with oval ends thick and fleshy, arranged
 in a spiral. Flowers small. The small fruits are ribbed, corky and
 float, and dispersed by water.   
@@ -91,56 +140,7 @@ putih**
 
 ---
 
-**Links**
 
-- [*Lumnitzera
-  littorea*](http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/) and *[Lumnitzera
-  racemosa](http://floraofsingapore.wordpress.com/2010/10/03/lumnitzera-racemosa/)* on Total Vascular Flora of Singapore Online:
-  photos and fact sheet.
-- [*Lumnitzera
-  littorea*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3266) and [*Lumnitzera
-  racemosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4411) on the NParks Flora and Fauna website: photos and
-  fact sheet.
-- [Teruntum
-  merah (*Lumnitzera littorea*)](http://mangrove.nus.edu.sg/guidebooks/text/1065) and [Teruntum
-  bunga puteh (*Lumnitzera racemosa*)](http://mangrove.nus.edu.sg/guidebooks/text/1066) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
-  Singapore Science Centre. 168 pp.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan. 1990, *The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *Wayside
-  Trees of Malaya: in two volumes*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Ng, Peter
-  K. L. and Wang Luan Keng and Kelvin K. P. Lim, 2008. *Private
-  Lives: An Expose of Singapore's Mangroves*. The Raffles
-  Museum of Biodiversity Research . 249 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

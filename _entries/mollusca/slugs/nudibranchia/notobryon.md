@@ -44,12 +44,28 @@ page_images:
   caption: |
     <p>Beting Bronok, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/pretty-creatures-of-beting-bronok.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
+    photos of [*Notobryon
+    wardi*](http://www.seaslugforum.net/find/notoward)
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul
+    and Ned Deloach. 2010. *Reef
+    Creature Identification: Tropical Pacific* New World Publications.
+    497pp.
 ---
 
 ## Where seen?
  Sometimes seen on some of our reefy shores.  
   
-**Features:** About 3cm long. It has
+## Features
+ About 3cm long. It has
 a pair of 'flaps' (mantle lobes) in the middle of the body which it
 can use to swim with. There are fluffy structures (dendritic gill-like
 structures) inside the mantle lobes. The brush-like rhinophores are
@@ -83,23 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-  photos of [*Notobryon
-  wardi*](http://www.seaslugforum.net/find/notoward)
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -35,6 +35,42 @@ page_images:
   caption: |
     <p>Pulau Biola, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
+links_references: |
+  **Links**
+  - *[Pemphis
+    acidula](http://floraofsingapore.wordpress.com/2010/10/03/pemphis-acidula/)* on Total Vascular Flora of Singapore Online: photos
+    and fact sheet.
+  - *[Pemphis
+    acidula](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2312)* on the NParks Flora and Fauna website: photos
+    and fact sheet.
+  - Giesen, Wim
+    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+    [*Mangrove
+    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
+    RAP publication 2006/07 Food and Agriculture Organization of the
+    United Nations Regional Office for Asia and the Pacific Bangkok.
+  - [A
+    rare mangrove tree: Mentigi](http://wildshores.blogspot.com/2010/01/rare-mangrove-tree-mentigi-pemphisl) on the wild shores of singapore
+    blog with links to an article about the loss of the large tree
+    at Changi.
+  **References**
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
+  - Tomlinson,
+    P. B., 1986. *The
+    Botany of Mangroves*
+    Cambridge University Press. USA. 419 pp.
+  - Burkill,
+    I. H., 1993. *A
+    Dictionary of the Economic Products of the Malay Peninsula*.
+    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
 ---
 
 ## Where seen?
@@ -42,7 +78,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula
 on rocky cliffs or near mangroves where no other plants seem to be
 able to do well.  
   
-**Features:**
+## Features
+
 Small tree
 (7-10m tall), according to Tomlinson 'more usually a low shrub 1-2m
 tall'. Bark light grey to brown becoming deeply fissured with age
@@ -101,44 +138,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Pemphis
-  acidula](http://floraofsingapore.wordpress.com/2010/10/03/pemphis-acidula/)* on Total Vascular Flora of Singapore Online: photos
-  and fact sheet.
-- *[Pemphis
-  acidula](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2312)* on the NParks Flora and Fauna website: photos
-  and fact sheet.
-- Giesen, Wim
-  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-  RAP publication 2006/07 Food and Agriculture Organization of the
-  United Nations Regional Office for Asia and the Pacific Bangkok.
-- [A
-  rare mangrove tree: Mentigi](http://wildshores.blogspot.com/2010/01/rare-mangrove-tree-mentigi-pemphisl) on the wild shores of singapore
-  blog with links to an article about the loss of the large tree
-  at Changi.
-
-**References**
-
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
-- Tomlinson,
-  P. B., 1986. *The
-  Botany of Mangroves*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *A
-  Dictionary of the Economic Products of the Malay Peninsula*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -176,6 +176,29 @@ page_images:
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158910812067945&set=a.10158910873962945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
+links_references: |
+  **Links**
+  - [*Cryptodendrum
+    adhaesivum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Cryptodendrum&subgenus=&species=adhaesivum&subspecies=&synseniorid=48) on the [Hexacorallians
+    of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Dr Daphne G. Fautin with
+    classification, distribution, biological associations and more.
+  - [*Cryptodendrum
+    adhaesivum*](http://www.sealifebase.org/summary/Cryptodendrum-adhaesivum.html) on SeaLife Base: technical fact sheet.
+  **References**
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Daphne Gail
+    Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
+    Actiniaria) of Singapore: abundant and well-known shallow-water
+    species*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf) Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+  - Erhardt,
+    Harry and Daniel Knop. 2005. *Corals:
+    Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -184,7 +207,8 @@ usually tucked in crevices on rocky and rubbly areas under dead corals on our So
 it just doesn't look like a typical anemone, and because it is usually
 well hidden. During mass coral bleaching, this anemone is often easier to spot as it bleaches white.  
   
-**Features:** Diameter 25-30cm. The flat circular animal has a smooth rounded thick rim - very much
+## Features
+ Diameter 25-30cm. The flat circular animal has a smooth rounded thick rim - very much
 like a pizza! The tentacles on the oral disk are short, tiny and tightly
 packed. The tentacles are very sticky, hence another common name for
 it is Adhesive anemone.   
@@ -299,31 +323,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Cryptodendrum
-  adhaesivum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Cryptodendrum&subgenus=&species=adhaesivum&subspecies=&synseniorid=48) on the [Hexacorallians
-  of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Dr Daphne G. Fautin with
-  classification, distribution, biological associations and more.
-- [*Cryptodendrum
-  adhaesivum*](http://www.sealifebase.org/summary/Cryptodendrum-adhaesivum.html) on SeaLife Base: technical fact sheet.
-
-**References**
-
-- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Daphne Gail
-  Fautin, S. H. Tan and Ria Tan. 30 Dec 2009. *Sea anemones (Cnidaria:
-  Actiniaria) of Singapore: abundant and well-known shallow-water
-  species*[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf) Raffles Bulletin of Zoology Supplement No. 22: 121-143.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

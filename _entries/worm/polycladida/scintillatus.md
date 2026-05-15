@@ -33,7 +33,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/1
 ## Where seen?
  More often seen by divers. On the intertidal, this tiny flatworm is sometimes seen on our shores.  
   
-**Features:** 1cm long. Body black with white ovals and blobs of various random sizes from large to smaller dots to tiny spots. The ovals have a brighter white outer edge. Body margin
+## Features
+ 1cm long. Body black with white ovals and blobs of various random sizes from large to smaller dots to tiny spots. The ovals have a brighter white outer edge. Body margin
 bright orange. Some of the smaller white ovals overlap on the orange margin. Has a pair of pseudotentacles made up of simple folds of the body edge.
 
  

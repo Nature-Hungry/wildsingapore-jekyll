@@ -77,7 +77,8 @@ and was often planted as an ornamental in Singapore. According to
 Corners, the abundance of this tree in inhabited parts of Malaya is
 due to the veneration that the Indians hold for it.  
   
- **Features:** A large strangling
+ ## Features
+ A large strangling
 fig with many aerial roots. Leaves glossy dark green, leathery, large
 (7.5-25cm) with many fine parellel veins. The large stipules are bright
 red. The small figs are oval (1cm long) and ripen yellow. Large red

@@ -56,7 +56,8 @@ below the low water mark. The anemones are usually well
 spaced apart from one another. We have seen only one pair nestled
 next to one another. Single specimens have been seen on some other Northern shores. It was previously only known from India and possibly from Bangladesh.  
   
-**Features:** Diameter with tentacles expanded 5-8cm. Body, oral disk and tentacles
+## Features
+ Diameter with tentacles expanded 5-8cm. Body, oral disk and tentacles
 the same dark red, burgundy colour. Sometimes with five pale or yellowish
 spots or bars around the mouth. Many short tapered tentacles. Body
 column thick and short and densely covered with regular rows of small

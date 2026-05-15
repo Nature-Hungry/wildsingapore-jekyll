@@ -78,6 +78,32 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159162466513158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg
+links_references: |
+  **Links**
+  - [Crocus
+    giant clam (*Tridacna crocea*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84545) on SeaBase Life: Technical
+    fact sheet.
+  - Crocus
+    giant clam (*Tridacna crocea*) in
+    the Bivalves section by J.M. Poutiers in the FAO Species Identification
+    Guide for Fishery Purposes: The Living Marine Resources of the
+    Western Central Pacific [Volume
+    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+    Agriculture Organization of the United Nations (FAO) website.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -85,7 +111,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/c
 on our undisturbed Southern shores, tucked into coral rubble and even
 among living corals. But it is often overlooked.  
   
-**Features:** At 10-15cm, it is the
+## Features
+ At 10-15cm, it is the
 smallest of the giant clams. It is buried deep in living and dead
 coral or other hard surfaces in relatively shallow water near living
 reefs. It bores into the hard surface with a combination of chemical
@@ -155,34 +182,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Crocus
-  giant clam (*Tridacna crocea*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84545) on SeaBase Life: Technical
-  fact sheet.
-- Crocus
-  giant clam (*Tridacna crocea*) in
-  the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the
-  Western Central Pacific [Volume
-  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-  Agriculture Organization of the United Nations (FAO) website.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

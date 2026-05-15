@@ -33,6 +33,46 @@ page_images:
   caption: |
     <p><a href="annularis.htm">Blue-ring angelfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+links_references: |
+  **Links**  
+  - Lim, Kelvin
+    K. P. & Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Family
+    Pomacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=460) and *[Chaetodontoplus
+    mesoleucus](http://www.fishbase.org/summary/5660)*[(Vermiculated angelfish)](http://www.fishbase.org/summary/5660) and [*Pomacanthus
+    annularis* (Bluering angelfish)](http://www.fishbase.org/summary/7902) and [*Pomacanthus
+    imperator* (Emperor angelfish)](http://www.fishbase.org/summary/6504) and [*Pomacanthus
+    semicirculatus* (Semicircle angelfish)](http://www.fishbase.org/summary/5663) and [*Pomacanthus
+    sexstriatus* (Sixbar angelfish)](http://www.fishbase.org/summary/6564) and [*Pomacanthus
+    maculosus* (Yellowbar angelfish)](http://www.fishbase.org/summary/7903) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheets.
+  **References**
+  - *Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,* 29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597, National University of Singapore.
+  - Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015. *Blue-striped angelfish and longfin bannerfish from Singapore*. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597
+  - Tan Heok Hui. 17 January 2014. *Semicircle angelfish from Tuas*. Singapore Biodiversity Records 2014: 26 .
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
 ---
 
 ## Where seen?
@@ -48,7 +88,8 @@ related to the butterflyfishes ([Family
 Chaetodontidae](../chaetodontidae/chaetodontidae.htm)) and were previously placed in the butterflyfish
 family.  
   
- **Features:** Their bodies are flattened
+ ## Features
+ Their bodies are flattened
 sideways with an overall shape that is rather rectangular. In many
 anglefish species, the juveniles are often very different from the
 adults, with strikingly different colours and patterns. There have
@@ -120,48 +161,7 @@ angelfish) *Pomacanthus imperator
 
 ---
 
-**Links**  
 
-- Lim, Kelvin
-  K. P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Family
-  Pomacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=460) and *[Chaetodontoplus
-  mesoleucus](http://www.fishbase.org/summary/5660)*[(Vermiculated angelfish)](http://www.fishbase.org/summary/5660) and [*Pomacanthus
-  annularis* (Bluering angelfish)](http://www.fishbase.org/summary/7902) and [*Pomacanthus
-  imperator* (Emperor angelfish)](http://www.fishbase.org/summary/6504) and [*Pomacanthus
-  semicirculatus* (Semicircle angelfish)](http://www.fishbase.org/summary/5663) and [*Pomacanthus
-  sexstriatus* (Sixbar angelfish)](http://www.fishbase.org/summary/6564) and [*Pomacanthus
-  maculosus* (Yellowbar angelfish)](http://www.fishbase.org/summary/7903) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheets.
-
-**References**
-
-- *Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,* 29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597, National University of Singapore.
-- Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015. *Blue-striped angelfish and longfin bannerfish from Singapore*. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597
-- Tan Heok Hui. 17 January 2014. *Semicircle angelfish from Tuas*. Singapore Biodiversity Records 2014: 26 .
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

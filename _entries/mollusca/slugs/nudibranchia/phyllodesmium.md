@@ -52,12 +52,28 @@ page_images:
   caption: |
     <p>Sentosa, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/back-to-first-love-at-tanjong-rimau.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
+links_references: |
+  **Links**  
+  - [*Phyllodesmium briareum*](http://www.seaslugforum.net/find/phylbria)
+    on the  [The Sea Slug Forum](http://www.seaslugforum.net/)
+    by Dr Bill Rudman: photos and fact sheet
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+    exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
  This 'hairy' nudibranch is sometimes seen on some of our shores. It is seen near reefs in the South as well as rocky areas in the North.  
   
-**Features:** About 2cm long. Long,
+## Features
+ About 2cm long. Long,
 narrow, soft body with many long finger-like structures (called cerata) arranged in rows
 across the body. The body and cerata nurture the symbiotic zooxanthellae
 that continues to undergo photosynthesis and produce nutrients within
@@ -86,23 +102,7 @@ feathery soft corals](../../../cnidaria/coralsoft/feafine.htm) (*Briareum* sp.).
 
 ---
 
-**Links**  
 
-- [*Phyllodesmium briareum*](http://www.seaslugforum.net/find/phylbria)
-  on the  [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: photos and fact sheet
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -109,12 +109,16 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159162466303158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
+links_references: |
+  **Links**
+  - *[Macrophiothrix nereidina](https://www.sealifebase.ca/summary/Macrophiothrix-nereidinal)* on SeaLife Base: Technical fact sheet.
 ---
 
 ## Where seen?
  Although large and startlingly bright pink and violet, this brittle star is only sometimes seen. It is often well hidden under stones, among sponges, corals and other marine life on reefy areas including encrusted jetty legs on our Southern shores.   
   
-**Features:** Central disk about 1cm wide, thick
+## Features
+ Central disk about 1cm wide, thick
 and pentagonal. Arms about 10-15cm long, broad and flat, tapering at the tips, highly flexible. Along the sides of the arms are long cylindrical
 blunt transparent spines. Disk and arms bright pink with violet patterns, underside of the arms paler.
  
@@ -190,7 +194,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Acknowledgements**  
 Grateful thanks to Andrey Ryanskiy for identifying this brittle star.
-
-**Links**
-
-- *[Macrophiothrix nereidina](https://www.sealifebase.ca/summary/Macrophiothrix-nereidinal)* on SeaLife Base: Technical fact sheet.

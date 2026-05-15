@@ -74,7 +74,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hym
  This small boldly patterned nudibranch is sometimes seen on some of
 our shores.   
   
-**Features:** 2-3cm. Body oval. White
+## Features
+ 2-3cm. Body oval. White
 body with black marks all over - large blotches or smaller spots. Along the inner margin, yellow or orange wide smudged line or series of spots. Outer margin black spots on pale blue to bright blue line or spots. Large
 flower-like gills on the back and large rhinophores (relative to the
 body size). Gills white edged in red or orange. Rhinophores white, tipped with red or orange.

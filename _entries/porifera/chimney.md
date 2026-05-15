@@ -39,12 +39,24 @@ page_images:
   caption: |
     <p>Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.1427699207281467.1073741856.109257872458947/1427700547281333/?type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
+links_references: |
+  **Links**
+  - [*Petrosia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2646)
+    on SeaLife Base: technical fact sheet.
+  - [*Petrosia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131847)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
 This colourful sponge with short tubular chimneys is sometimes seen
-on some of our shores. **Features:** Ball shaped sponge 10-15cm, with regularly shaped
+on some of our shores. ## Features
+ Ball shaped sponge 10-15cm, with regularly shaped
 chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow,
 brown.
 
@@ -82,19 +94,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- [*Petrosia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2646)
-  on SeaLife Base: technical fact sheet.
-- [*Petrosia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131847)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

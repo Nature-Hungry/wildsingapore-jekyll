@@ -48,11 +48,23 @@ page_images:
   caption: |
     <p>East Coast Park, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154729015418158.1073741926.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
+links_references: |
+  **Links**
+  - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
+    on SeaLife Base: technical fact sheet.
+  - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+    on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
  This tubular sponge is commonly seen on our undisturbed Northern shores,
-growing on coral rubble. Also sometimes seen on undisturbed Southern shores. **Features:** The entire
+growing on coral rubble. Also sometimes seen on undisturbed Southern shores. ## Features
+ The entire
 sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm
 tall about 1-2cm wide). In some, the tubes may have short spikes on
 the sides. A wide range of colours from beige, lemon yellow, pale
@@ -96,19 +108,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
-  on SeaLife Base: technical fact sheet.
-- [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
-  on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

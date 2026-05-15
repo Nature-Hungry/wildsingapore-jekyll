@@ -55,13 +55,29 @@ page_images:
   caption: |
     <p>Terumbu Semakau, Jul 14Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.769958719722189.1073741838.109257872458947/769960919721969/?type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+links_references: |
+  **Links**
+  - [*Heteroxenia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heteroxenia)
+    on [Reef
+    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+  - [Why
+    do some soft corals pulsate? We know now!](http://wildshores.blogspot.sg/2013/04/why-do-some-soft-corals-pulsate-we-know.html) on the wild shores
+    of singapore blog.
+  **References**
+  - Fabricius,
+    Katharina and Philip Alderslade, 2001. *Soft
+    Corals and Sea Fans*.
+    Australian Institute of Marine Science and the Museum and Art
+    Gallery of the Northern Territoriy. 264 pp.
 ---
 
 ## Where seen?
  This colony with large pinkish polyps is seen in
 coral rubble on some of our Southern shores.   
   
-**Features:** Colony about 4-8cm,
+## Features
+ Colony about 4-8cm,
 usually a thick common tissue that is club-shaped; with a short columnar
 base and a dome-shaped top. Two kinds of polyps. Tall fleshy polyps
 (autozooids) 2cm in diameter, on stalks about 3-5cm long. The eight
@@ -131,23 +147,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [*Heteroxenia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heteroxenia)
-  on [Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-- [Why
-  do some soft corals pulsate? We know now!](http://wildshores.blogspot.sg/2013/04/why-do-some-soft-corals-pulsate-we-know.html) on the wild shores
-  of singapore blog.
-
-**References**
-
-- Fabricius,
-  Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

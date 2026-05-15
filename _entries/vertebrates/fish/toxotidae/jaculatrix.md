@@ -43,13 +43,44 @@ page_images:
     <p>Juvenile.</p>
     <p>Pulau Hantu, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+links_references: |
+  **Links**  
+  - [Banded
+    Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
+    Jeffrey K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+    Science Centre. 163 pp.
+  - [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
+    N. Sivasothi, 1999. *[A
+    Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
+    Singapore Science Centre. 168 pp.
+  - [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish) from EcologyAsia
+    .
+  - [Banded
+    Archerfish (*Toxotes jaculatrix*)](http://fishbase.org/summary/8229) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Banded
+    Archerfish (*Toxotes jaculatrix*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
+    from the [Australian
+    Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo
+  - [*Toxotes jaculatrix* (Banded Archerfish)](http://www.iucnredlist.org/details/196451/0) from IUCN.
+  **References**
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Lieske, Ewald
+    and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 ## Where seen?
  This active fish is often seen in groups under jetties, bridges in
 streams near mangroves. There is usually large groups of really large
 fat ones under the main bridge at Sungei Buloh Wetland Reserve.  
- **Features:** To about
+ ## Features
+ To about
 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands
 that taper towards the bottom of the body. [More](toxotidae) about the archerfishes' infamous ability to shoot down insects.
 
@@ -81,38 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
-  Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
-  N. Sivasothi, 1999. *[A
-  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
-  Singapore Science Centre. 168 pp.
-- [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish) from EcologyAsia
-  .
-- [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://fishbase.org/summary/8229) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
-  from the [Australian
-  Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo
-- [*Toxotes jaculatrix* (Banded Archerfish)](http://www.iucnredlist.org/details/196451/0) from IUCN.
-
-**References**
-
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Lieske, Ewald
-  and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -36,7 +36,8 @@ belong to [Phylum Mollusca](mollusca.htm).They are snails
 of the [Class Gastropoda](gastropoda.htm) that lack shells
 as adults.   
   
-**Features:** Nudibranchs have lost
+## Features
+ Nudibranchs have lost
 their shells as adults; 'Nudibranch' (pronounced 'noo-dee-brank' to
 rhyme with 'bank') means 'naked gills'. To protect themselves, some
 produce distasteful substances, toxins and even acids. They advertise

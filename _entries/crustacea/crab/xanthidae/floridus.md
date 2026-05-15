@@ -116,6 +116,49 @@ page_images:
   caption: |
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+links_references: |
+  **Links**
+  - [Poisonous
+    Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
+    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [*Atergatis
+    floridus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1274&menuentry=soorten) in Crabs of Japan, on Marine Species Identification
+    Portal: Technical fact sheet.
+  **References**
+  - Peter K.
+    L. Ng and Peter J. F. Davie, 31 Dec 2007, [On
+    the identity of *Atergatis floridus* (Linnaeus, 1767) and
+    recognition of *Atergatis ocyroe* (Herbst, 1901) as a valid
+    species from the Indian Ocean (Crustacea: Brachyura: Xanthidae)](http://lkcnhm.nus.edu.sg/rbz/biblio/s16/s16rbz169-175.pdf)
+    The Raffles Bulletin of Zoology 2007 Supplement No. 16 : 169-175
+    National University of Singapore
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach.* Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Gopalakrishnakone
+    P., 1990. *A
+    Colour Guide to Dangerous Animals*.
+    Venom & Toxin Research Group, Faculty of Medicine, National
+    University of Singapore. 156 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Chuang, S.
+    H., 1961. *On
+    Malayan Shores*.
+    Muwu Shosa, Singapore. 225 pp., plates 1-112.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Jones Diana
+    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+    Australian Waters*. Reed New Holland. 224 pp.
 ---
 
 if you
@@ -131,7 +174,8 @@ are not venomous but it's best not to touch them.
 on our Southern shores, among coral rubble or reefs. But sightings usually
 not as numerous as the [Red egg crab](integerrimus) - perhaps because it is more well camouflaged? It is more active at night.   
   
-**Features:** Body width 8-10cm. Body
+## Features
+ Body width 8-10cm. Body
 oval, smooth surface and smooth body edge decorated spaced out little circles. Body colour greenish- and greenish-blue-brown. 'Floridus'
 in Latin means 'flowery' and indeed, the body of adults always have a fine network of fine lines white or yellow that forms
 a delicate lacy floral pattern. Also called the Shawl crab because
@@ -211,51 +255,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [*Atergatis
-  floridus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1274&menuentry=soorten) in Crabs of Japan, on Marine Species Identification
-  Portal: Technical fact sheet.
-
-**References**
-
-- Peter K.
-  L. Ng and Peter J. F. Davie, 31 Dec 2007, [On
-  the identity of *Atergatis floridus* (Linnaeus, 1767) and
-  recognition of *Atergatis ocyroe* (Herbst, 1901) as a valid
-  species from the Indian Ocean (Crustacea: Brachyura: Xanthidae)](http://lkcnhm.nus.edu.sg/rbz/biblio/s16/s16rbz169-175.pdf)
-  The Raffles Bulletin of Zoology 2007 Supplement No. 16 : 169-175
-  National University of Singapore
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach.* Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Gopalakrishnakone
-  P., 1990. *A
-  Colour Guide to Dangerous Animals*.
-  Venom & Toxin Research Group, Faculty of Medicine, National
-  University of Singapore. 156 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Chuang, S.
-  H., 1961. *On
-  Malayan Shores*.
-  Muwu Shosa, Singapore. 225 pp., plates 1-112.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -33,6 +33,32 @@ page_images:
     <p>Animal emerging from the shell.</p>
     <p>Mandai, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+links_references: |
+  **Links**
+  - [Violet
+    nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm) Ng, Peter K. L. & N. Sivasothi,
+    1999. *[A Guide
+    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
+    Science Centre. 168 pp.
+  - [*Dostia
+    violacea*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90114&genusname=Dostia&speciesname=violacea) on SeaLife Base: Technical fact sheet
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Tan, S.K.
+    & Clements, R. (2008) [Taxonomy
+    and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
+    Zoological Studies 47(4): 481-494.
+  - Tan, K. S.
+    & L. M. Chou, 2000. *A
+    Guide to the Common Seashells of Singapore*. Singapore
+    Science Centre. 160 pp.
+  - Abbott, R.
+    Tucker, 1991. *Seashells
+    of South East Asia*.
+    Graham Brash, Singapore. 145 pp.
 ---
 
 ## Where seen?
@@ -41,7 +67,8 @@ sturdy nerite is sometimes seen in back mangroves and among [mud lobster mounds]
 shores as well as at Berlayar Creek. It was previously known as *Dostia
 violacea*.   
   
-**Features:** About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the
+## Features
+ About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the
 shell is covered with a 'skin' (periostracum) and usually covered
 with silt and algae. The shell pattern is actually pale with fine purplish
 bands and 'tent' markings.
@@ -71,34 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**
 
-- [Violet
-  nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm) Ng, Peter K. L. & N. Sivasothi,
-  1999. *[A Guide
-  to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-  Science Centre. 168 pp.
-- [*Dostia
-  violacea*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90114&genusname=Dostia&speciesname=violacea) on SeaLife Base: Technical fact sheet
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Tan, S.K.
-  & Clements, R. (2008) [Taxonomy
-  and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).
-  Zoological Studies 47(4): 481-494.
-- Tan, K. S.
-  & L. M. Chou, 2000. *A
-  Guide to the Common Seashells of Singapore*. Singapore
-  Science Centre. 160 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

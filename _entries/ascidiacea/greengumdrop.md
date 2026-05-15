@@ -71,6 +71,9 @@ page_images:
   caption: |
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
+links_references: |
+  **Links**
+  - [*Diplosoma* sp. 1](https://singapore.biodiversity.online/species/A-Tunicata-000152) and [*Diplosoma* sp. 2](https://singapore.biodiversity.online/species/A-Tunicata-000153) and [Didemnidae sp. 27](https://singapore.biodiversity.online/species/A-Tunicata-000216) and [Didemnidae sp. 29](https://singapore.biodiversity.online/species/A-Tunicata-000218) and [Didemnidae sp. 31](https://singapore.biodiversity.online/species/A-Tunicata-000223) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 ---
 
 ## Where seen?
@@ -78,7 +81,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820b
 ascidians that resemble green sweets are commonly seen, especially
 on our Southern shores.   
   
-**Features:** Each blob about 1cm
+## Features
+ Each blob about 1cm
 long. Flat, irregular shapes with rounded margins so that each shape
 resembles a gum drop. Each shape appears to be made up of many individual
 zooids embedded in a common tissue. The shapes are arranged higgledy-piggledy
@@ -140,9 +144,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Acknowledgements**  
 Grateful thanks to Rene Ong for pointing out the identification of these animals.
 
-**Links**
-
-- [*Diplosoma* sp. 1](https://singapore.biodiversity.online/species/A-Tunicata-000152) and [*Diplosoma* sp. 2](https://singapore.biodiversity.online/species/A-Tunicata-000153) and [Didemnidae sp. 27](https://singapore.biodiversity.online/species/A-Tunicata-000216) and [Didemnidae sp. 29](https://singapore.biodiversity.online/species/A-Tunicata-000218) and [Didemnidae sp. 31](https://singapore.biodiversity.online/species/A-Tunicata-000223) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
 [links](../links)
 | [references](../references)

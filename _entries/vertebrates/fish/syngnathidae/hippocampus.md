@@ -78,6 +78,57 @@ page_images:
     <p>Battle of the Sexes in the Animal World BBC Worldwide, London.</p>
     <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+links_references: |
+  **Links**
+  - [Seahorse
+    (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
+    1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - [Spotted
+    Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
+    K. Y. Low, 1998. *[A
+    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
+    Science Centre. 163 pp.
+  - [Seahorses](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=305) on NParks Flora and Fauna website.
+  - [Project
+    Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses. Lots
+    of info on seahorses and details on the threats to them and conservation
+    efforts, including a downloadable ID guide to seahorses.
+  - [Kingdom
+    of the Seahorse](http://www.pbs.org/wgbh/nova/seahorse/) on the Nova Online page of the PBS website:
+    lots of info and photos on seahorses, what they are and threats
+    to their existence.
+  - [What
+    is the social life of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.rl) on the [Mad
+    Scientist](http://www.madsci.org/) website: Ingrid Dodge explains the fascinating interactions
+    among seahorses.
+  - [On
+    a seahorse, what purpose does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.rl) on the [Mad
+    Scientist](http://www.madsci.org/) website: Ingrid Dodge suggests some reasons for
+    the little crown on the seahorse's head.
+  - [Family
+    Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258) and [Tiger
+    tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) and [Hedgehog
+    seahorse (*Hippocampus spinosissimus*)](http://www.fishbase.org/summary/25974) and [Spotted seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955) and [Long-nosed
+    seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet.
+  - [Papa
+    seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl) on the wild shores of singapore
+    blog.
+  **References**
+  - Kelvin K. P. Lim. 15 November 2013. *New Singapore record of the seahorse, Japanese seahorse, Hippocampus mohnikei*. Singapore Biodiversity Records 2013: 68-69.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Allen, Gerry,
+    2000. *Marine
 ---
 
 if you
@@ -95,7 +146,8 @@ fish, it truly captures the imagination.Seahorses are more common on our shores 
 might think. They are superbly camouflaged and thus often overlooked.
 Some may be as large as 11cm, but there are tiny ones too. **What are seahorses?** Seahorses are actually fishes! They
 belong to [Family Syngnathidae](syngnathidae) which
-includes [pipefishes](pipefish). **Features:** To 30cm long, those seen about 5-12cm. The seahorse
+includes [pipefishes](pipefish). ## Features
+ To 30cm long, those seen about 5-12cm. The seahorse
 doesn't have scales like most other fishes. It is encased in an inflexible
 armour of overlapping bony plates that lie just beneath its skin.
 Like other fishes, it also has an internal skeleton.
@@ -206,59 +258,7 @@ Hippocampus trimaculatus*
 
 ---
 
-**Links**
 
-- [Seahorse
-  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
-  1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- [Spotted
-  Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
-  K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-  Science Centre. 163 pp.
-- [Seahorses](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=305) on NParks Flora and Fauna website.
-- [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses. Lots
-  of info on seahorses and details on the threats to them and conservation
-  efforts, including a downloadable ID guide to seahorses.
-- [Kingdom
-  of the Seahorse](http://www.pbs.org/wgbh/nova/seahorse/) on the Nova Online page of the PBS website:
-  lots of info and photos on seahorses, what they are and threats
-  to their existence.
-- [What
-  is the social life of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.rl) on the [Mad
-  Scientist](http://www.madsci.org/) website: Ingrid Dodge explains the fascinating interactions
-  among seahorses.
-- [On
-  a seahorse, what purpose does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.rl) on the [Mad
-  Scientist](http://www.madsci.org/) website: Ingrid Dodge suggests some reasons for
-  the little crown on the seahorse's head.
-- [Family
-  Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258) and [Tiger
-  tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) and [Hedgehog
-  seahorse (*Hippocampus spinosissimus*)](http://www.fishbase.org/summary/25974) and [Spotted seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955) and [Long-nosed
-  seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Papa
-  seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl) on the wild shores of singapore
-  blog.
-
-**References**
-
-- Kelvin K. P. Lim. 15 November 2013. *New Singapore record of the seahorse, Japanese seahorse, Hippocampus mohnikei*. Singapore Biodiversity Records 2013: 68-69.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Allen, Gerry,
-  2000. *Marine
 
 [links](../../../links)
 | [references](../../../references)

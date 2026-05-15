@@ -51,7 +51,8 @@ seen under stones on our Northern shores. Sometimes also seen stuck to other har
 like [Window pane shells](../placunidae/placuna.htm) (*Placuna* sp.). Shells
 of dead animals are also often washed ashore.  
   
-**Features:** 2-3cm. The two-part
+## Features
+ 2-3cm. The two-part
 shell is thin and lustrous. Usually circular, often white or pinkish.
 One valve is stuck to a hard surface and this is usually flat. The
 other valve is slightly convex. When submerged, the animal has a fringe

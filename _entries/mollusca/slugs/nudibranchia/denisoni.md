@@ -105,6 +105,41 @@ page_images:
   caption: |
     <p>Cyrene Reef, Dec 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/45973984445/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg
+links_references: |
+  **Links**  
+  - [The
+    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
+    [*Dendrodoris
+    denisoni*](http://www.seaslugforum.net/find/denddeni)
+  - [The
+    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
+     *[Dendrodoris
+    denisoni](http://slugsite.us/bow/nudwk531.htm)*
+  - *[Dendrodoris
+    denisoni](http://www.sealifebase.org/summary/Dendrodoris-denisoni.html)*
+    on SeaLife Base.
+  **References**
+  - Tan Siong
+    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+    Checklist of The Molluscs of Singapore* (pdf), Raffles
+    Museum of Biodiversity Research, National University of Singapore.
+  - Debelius,
+    Helmut, 2001. *Nudibranchs
+    and Sea Snails: Indo-Pacific Field Guide*
+    IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred
+    E. and Clayton W. Bryce. 2000. *Slugs
+    of Western Australia: A guide to the species from the Indian to
+    West Pacific Oceans*.
+    Western Australian Museum. 184 pp.
+  - Coleman,
+    Neville. 2001. *1001
+    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Gosliner,
+    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+    Sea Challengers. 314pp.
 ---
 
 ## Where seen?
@@ -113,7 +148,8 @@ blue spots is sometimes seen among seagrasses and seaweeds on our
 Northern shores, as well as at Cyrene Reef. Often seen in numbers,
 and then not seen again for some time.  
   
-**Features:** 5-10cm long. Broad,
+## Features
+ 5-10cm long. Broad,
 soft body with lots of bumps and pimples, and distinctive electric
 blue spots. Thick club-like rhinophores and large feathery gills.
 The animal is generally beige sometimes with a purplish or pinkish
@@ -185,43 +221,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**Links**  
 
-- [The
-  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
-  [*Dendrodoris
-  denisoni*](http://www.seaslugforum.net/find/denddeni)
-- [The
-  Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-   *[Dendrodoris
-  denisoni](http://slugsite.us/bow/nudwk531.htm)*
-- *[Dendrodoris
-  denisoni](http://www.sealifebase.org/summary/Dendrodoris-denisoni.html)*
-  on SeaLife Base.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Debelius,
-  Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

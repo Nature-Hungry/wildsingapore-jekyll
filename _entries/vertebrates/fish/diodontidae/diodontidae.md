@@ -30,6 +30,13 @@ page_images:
   caption: |
     <p>Black-blotched porcupinefish (Diodon liturosus) Cyrene, Feb 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10157973767393119&set=a.10157973767323119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
+links_references: |
+  **Links**  
+  - [Longspine porcupinefish (*Diodon holacanthus*)](https://www.fishbase.se/summary/Diodon-holocanthusl) and [Black-blotched porcupinefish (*Diodon liturosus*)](https://www.fishbase.se/summary/6552) from [FishBase](http://www.fishbase.org/):
+    Technical fact sheet on the family.
+  **References**
+  - Adib Adris. 31 August 2020. *A freckled porcupinefish at Changi*. Singapore Biodiversity Records 2020: 117 ISSN 2345-7597
+  - Yong How Jonathan Tan. 30 April 2020. *Black-blotched porcupinefish at Cyrene Reef*. Singapore Biodiversity Records 2020: 40 ISSN 2345-7597
 ---
 
 ## Where seen?
@@ -42,7 +49,8 @@ and subtropical ares of the Atlantic, Indian and Pacific oceans. Other
 similar fishes belong to different families: boxfishes and cowfishes
 to [Family Ostraciidae](../ostraciidae/ostraciidae),
 and pufferfished to [Family Tetraodontidae](../tetraodontidae/tetraodontidae).  
- **Features:** About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinefish can also inflate its body which is covered in well-developed sharp spines. In some species the spines erect only when the body is inflated. Jaws with 2 fused teeth (parrotlike). They are poor swimmers.
+ ## Features
+ About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinefish can also inflate its body which is covered in well-developed sharp spines. In some species the spines erect only when the body is inflated. Jaws with 2 fused teeth (parrotlike). They are poor swimmers.
  
  
 **What do they eat?** They eat mainly hard-shelled invertebrates like snails, crabs, sea urchins, crushing these with their beak-like teeth. Some are only active at night.
@@ -73,15 +81,7 @@ Diodon holacanthus*(Freckled porcupinefish) *\**Diodon liturosus** (Black-blotch
 
 ---
 
-**Links**  
 
-- [Longspine porcupinefish (*Diodon holacanthus*)](https://www.fishbase.se/summary/Diodon-holocanthusl) and [Black-blotched porcupinefish (*Diodon liturosus*)](https://www.fishbase.se/summary/6552) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family.
-
-**References**
-
-- Adib Adris. 31 August 2020. *A freckled porcupinefish at Changi*. Singapore Biodiversity Records 2020: 117 ISSN 2345-7597
-- Yong How Jonathan Tan. 30 April 2020. *Black-blotched porcupinefish at Cyrene Reef*. Singapore Biodiversity Records 2020: 40 ISSN 2345-7597
 
 [links](../../../links)
 | [references](../../../references)

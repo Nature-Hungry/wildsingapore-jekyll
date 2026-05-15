@@ -84,6 +84,43 @@ page_images:
   caption: |
     <p>Pulau Senang, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
+links_references: |
+  **Links**
+  - [*Padina
+    pavonea*](http://www.mesa.edu.au/friends/seashores/p_pavoneal) on [Life
+    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
+    Society of Australia website: Fact sheet with photos of species
+    found in Australia.
+  - [Mermaid's
+    fan (*Padina*)](http://mangrove.nus.edu.sg/pub/seashore/text/104) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+    *[A Guide
+    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
+    160 pp.
+  - [*Padina*](http://www.algaebase.org/search/genus/detail/?genus_id=52)
+    on [AlgaeBase](http://www.algaebase.org/): Technical
+    fact sheets.
+  **References**
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M.
+    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
+    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
+    Life and Times of Labrador Beach*. Division of Biology, School
+    of Science, Nanyang Technological University & Department
+    of Zoology, the National University of Singapore. 160 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia* University of Western Australia Press. 300pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino.
+    C. Jr., 1997. *Field
+    Guide and Atlas of the Seaweed Resources of the Philippines.*.
+    Bookmark, Inc., the Philippines. 306 pp.
 ---
 
 ## Where seen?
@@ -92,7 +129,8 @@ on many our shores, especially our Southern shores. On boulders, rocks,
 stones and coral rubble. It is also sometimes called Mermaid's ear
 seaweed.  
   
-**Features:** A bunch of funnel-shaped
+## Features
+ A bunch of funnel-shaped
 structures. Each funnel about 3-5cm in diameter, with concentric circles
 of tiny hairs and a rolled edge. The funnel is often torn at the edges.
 The bunch of funnels is usually attached to a hard surface and spreads out like
@@ -170,45 +208,7 @@ Padina pavonica*
 
 ---
 
-**Links**
 
-- [*Padina
-  pavonea*](http://www.mesa.edu.au/friends/seashores/p_pavoneal) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-  Society of Australia website: Fact sheet with photos of species
-  found in Australia.
-- [Mermaid's
-  fan (*Padina*)](http://mangrove.nus.edu.sg/pub/seashore/text/104) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide
-  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-  160 pp.
-- [*Padina*](http://www.algaebase.org/search/genus/detail/?genus_id=52)
-  on [AlgaeBase](http://www.algaebase.org/): Technical
-  fact sheets.
-
-**References**
-
-- Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-- Pham, M.
-  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-  Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-  Life and Times of Labrador Beach*. Division of Biology, School
-  of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia* University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

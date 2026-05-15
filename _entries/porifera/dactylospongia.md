@@ -31,11 +31,21 @@ page_images:
   caption: |
     <p>Out of water.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
+links_references: |
+  **Links**
+  - *[Dactylospongia elegans](http://142.103.81.136/summary/Dactylospongia-elegans.html)* on SeaLife Base: technical fact sheet.
+  - *[Dactylospongia elegans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165312)* on the World Porifera Database.
+  **References**
+  - Lim Swee
+    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
+    Guide to Sponges of Singapore*. Singapore Science Centre.
+    173pp.
 ---
 
 ## Where seen?
 
-This encrusting sponge is sometimes seen on coral rubble on our Southern shores. **Features:** Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).   
+This encrusting sponge is sometimes seen on coral rubble on our Southern shores. ## Features
+ Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).   
   
 **Sometimes confused with** [Yellow prickly branching sponges](encrustprickly.htm) (*Pseudoceratina purpurea*,
 Family Pseudoceratinidae) which looks very similar. The two kinds of sponges
@@ -67,17 +77,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-**Links**
 
-- *[Dactylospongia elegans](http://142.103.81.136/summary/Dactylospongia-elegans.html)* on SeaLife Base: technical fact sheet.
-- *[Dactylospongia elegans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165312)* on the World Porifera Database.
-
-**References**
-
-- Lim Swee
-  Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-  Guide to Sponges of Singapore*. Singapore Science Centre.
-  173pp.
 
 [links](../links.htm)
 | [references](../references.htm)

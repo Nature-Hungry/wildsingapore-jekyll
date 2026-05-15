@@ -87,6 +87,35 @@ page_images:
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081968713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
+links_references: |
+  **Links**  
+  - [Green
+    worm-eel (*Muraenichthys* sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.htm) Lim, Kelvin and Jeffrey
+    K Y Low, *[Guide
+    to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+    Centre.
+  - [Marine Fishes](https://www.nparks.gov.sg/nature/species-list/marine-fishes) on the NParks website Table of conservation status of species assessed under the Singapore Red List as published in the 2nd and 3rd editions of the Singapore Red Data Book (RDB2 and RDB3)
+  **References**
+  - Wee Y.C.
+    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+    National Council on the Environment. 163pp.
+  - Ng, P. K.
+    L. & Y. C. Wee, 1994. *The
+    Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
+    The Nature Society (Singapore), Singapore. 343 pp.
+  - Allen, Gerry,
+    2000. *Marine
+    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
+    Periplus Editions. 292 pp.
+  - Kuiter, Rudie
+    H. 2002. *Guide
+    to Sea Fishes of Australia: A Comprehensive Reference for Divers
+    & Fishermen*
+    New Holland Publishers. 434pp.
+  - Lieske,
+    Ewald and Robert Myers. 2001. *Coral
+    Reef Fishes of the World*
+    Periplus Editions. 400pp.
 ---
 
 if you
@@ -102,7 +131,8 @@ are lots of hiding places, especially on our Southern shores. A secretive
 fish, it is usually active only at night. Sightings are usually brief
 as it wriggles rapidly past and disappears into some crevice or hole.  
   
-**Features:** To about 20cm long,
+## Features
+ To about 20cm long,
 those seen were about 10-12cm. Body long narrow tubular. It is
 superbly adapted for burrowing in sand and hunting in small holes and crevices. It has no scales, no pectoral fins. Eyes and mouth are small, the snout
 is pointed and nostrils downward pointing. The tail tip is bony and
@@ -176,37 +206,7 @@ Hantu, 2008
 
 ---
 
-**Links**  
 
-- [Green
-  worm-eel (*Muraenichthys* sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.htm) Lim, Kelvin and Jeffrey
-  K Y Low, *[Guide
-  to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
-  Centre.
-- [Marine Fishes](https://www.nparks.gov.sg/nature/species-list/marine-fishes) on the NParks website Table of conservation status of species assessed under the Singapore Red List as published in the 2nd and 3rd editions of the Singapore Red Data Book (RDB2 and RDB3)
-
-**References**
-
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Allen, Gerry,
-  2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

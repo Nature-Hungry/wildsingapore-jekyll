@@ -66,7 +66,8 @@ coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mi
 the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath. It was previously known
 as *Olivia sericea*. *Oliva irisans* may look similar.  
   
-**Features:** 4-5cm. Shell thick heavy glossy,
+## Features
+ 4-5cm. Shell thick heavy glossy,
 cylindrical bullet-shaped, shell spire flattened with short pointed
 tip. Shell pattern of closely set zig-zag lines with
 dark spirals across the whole pattern. Shell opening may be orange

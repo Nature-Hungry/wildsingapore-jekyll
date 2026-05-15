@@ -67,7 +67,8 @@ our shores. In sandy, silty areas and near seagrasses. It is more
 active at night and usually seen alone. It is probably quite common
 but overlooked because it is so well camouflaged.  
   
-**Features:** 5-8cm long. Body brown
+## Features
+ 5-8cm long. Body brown
 or greenish with dark bands. The tips of its legs and other appendages
 are often reddish.   
   
