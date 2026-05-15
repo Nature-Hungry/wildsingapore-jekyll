@@ -57,30 +57,6 @@ page_images:
     <p><a href="../hydrozoa/thread">Thread-tentacled jellyfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-> Class Scyphozoa
-**Jellyfish  
-Class Scyphozoa***updated
-Aug 2025*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -89,8 +65,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Sea turtles
 eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can die from accidentally eating the bags.
   
-**Where
-seen?** Almost everyone knows what a jellyfish looks like! These blobs of
+## Where seen?
+ Almost everyone knows what a jellyfish looks like! These blobs of
 jelly are creatures of the open waters and are only sometimes encountered
 on the shores. In the water, these elegant creatures are a delight
 to watch. Sometimes, they are trapped in a pool. More unluckily, they

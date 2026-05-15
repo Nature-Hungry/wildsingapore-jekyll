@@ -80,33 +80,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233794787/in/album-72157624104220316/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Pearl bubble coral**  ***Physogyra lichtensteini\**  
-Scleractinia incertae sedis (Family)***updated Jun 2025*
-
----
-
-**Where
-seen?** This hard coral covered in bubbles
+## Where seen?
+ This hard coral covered in bubbles
 is sometimes seen on the intertidal shores in southern Singapore. Elsewhere, they are found in reefs protected from strong waves, especially in murky water. It was previously placed in Family Euphyllidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.  
   
 **Features:** Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks.   

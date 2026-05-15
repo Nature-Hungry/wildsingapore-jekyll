@@ -108,36 +108,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160954340/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm)
-**Yellow-banded
-damselfish  
-*Dischistodus
-fasciatus***  **Family Pomacentridae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** Resembling
+## Where seen?
+ Resembling
 an aquatic bumble bee, fat boldly barred juveniles of this fish is
 sometimes seen on our Southern shores, near living
 corals. Larger ones are also sometimes seen. Elsewhere, they are found

@@ -78,37 +78,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168916778/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Tiger
-moon snail**   
- ***Notocochlis
-tigrina*Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This moon snail with a spotted shell is sometimes
+## Where seen?
+ This moon snail with a spotted shell is sometimes
 seen on our sandy Northern shores near seagrasses. Undisturbed shores
 may have large numbers of them. It was previously known as *Natica
 tigrina*.   

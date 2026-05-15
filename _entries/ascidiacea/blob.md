@@ -24,22 +24,9 @@ page_images:
     <p>Punggol, Jun 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Blob
-ascidians  
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 rounded blob-shaped animals are commonly seen on our Northern shores .  
   
 **Features:** Colony

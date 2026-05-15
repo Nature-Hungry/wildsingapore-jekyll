@@ -61,36 +61,9 @@ page_images:
     <p>East Coast Park, Jul 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24266792294/in/album-72157607719316847/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Bushy
-slug**  
-***Polybranchia orientalis*  
-Family Caliphyllidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This slug looks just like a bit of boring seaweed,
+## Where seen?
+ This slug looks just like a bit of boring seaweed,
 so it's often overlooked unless you know what to look for. It is sometimes
 seen on our Northern shores moving among seaweeds at night. This slug
 was previously called *Phyllobranchus* or *Phyllobranchillus

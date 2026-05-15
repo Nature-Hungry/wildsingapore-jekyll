@@ -55,36 +55,9 @@ page_images:
     <p>Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Callionymidae](callionymidae)
-**Kuiter's
-dragonet  
-*Dactylopus kuiteri***  
-**Family Callionymidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 little curious fish with a flag on its back is sometimes seen on some of our Southern shores.
 Elsewhere, they are considered common on shallow shetltered mud-sand
 flats, especially among seagrasses. Also in estuaries and deep water.

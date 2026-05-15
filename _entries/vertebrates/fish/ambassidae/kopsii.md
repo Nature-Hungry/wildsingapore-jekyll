@@ -58,29 +58,6 @@ page_images:
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Asiatic glass perchlets**  
-**Family Ambassidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -89,8 +66,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Sometimes
 stranded in pools at low tide. Watch your step!
   
-**Where
-seen?** Groups
+## Where seen?
+ Groups
 of these silvery fishes are frequently encountered in pools at low
 tide near seagrasses on many of our shores. Elsewhere, they are found in mangroves,
 estuaries and freshwater. They form groups during the day among mangrove

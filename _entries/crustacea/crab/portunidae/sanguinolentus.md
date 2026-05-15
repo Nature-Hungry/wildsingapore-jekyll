@@ -41,37 +41,9 @@ page_images:
     <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10152967123633660&set=a.10152965513123660.1073741863.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Blood-spotted
-swimming crab**  
-***Portunus *sanguinolentus**\*   
-Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This oddly marked swimming crab is not often encountered
+## Where seen?
+ This oddly marked swimming crab is not often encountered
 on the intertidal.  
   
 **Features:** Body somewhat fan-shaped, with 9 spines on the sides. The eyes

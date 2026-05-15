@@ -129,37 +129,9 @@ page_images:
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4656023176/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinodendron/111029smkd3161m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Fire
-anemone**  
-***Actinodendron arboreum***  
-**Family Actinodendridae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This large anemone is often seen among seagrasses and in sandy areas near reefs on our Southern shores. They are not as abudant as other large anemones in similar areas. Usually only one or a handful, spread widely apart from one another, are seen in a large area.   
+## Where seen?
+ This large anemone is often seen among seagrasses and in sandy areas near reefs on our Southern shores. They are not as abudant as other large anemones in similar areas. Usually only one or a handful, spread widely apart from one another, are seen in a large area.   
   
 **Features:** Diameter
 with tentacles expanded 15-20cm. About 40 fat, fleshy cylindrical

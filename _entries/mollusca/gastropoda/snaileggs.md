@@ -68,32 +68,6 @@ page_images:
     <p>Chek Jawa, Feb 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-shelled snails
-[text index](gastropodaindex.htm) | [photo
-index](gastropodafi.htm) | eggs [text index](../../eggs/eggindex.htm)
-| [photo index](../../eggs/eggfi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Gastropoda](../gastropoda.htm)
-**Snail
-eggs***updated
-Apr 2020*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -105,8 +79,8 @@ your step.
 don't bring egg capsules home. Thousands of baby snails
 may die.
   
-**Where
-seen?** Egg capsules and masses laid by shelled snails are seen on many of
+## Where seen?
+ Egg capsules and masses laid by shelled snails are seen on many of
 our shores. Often, these are laid on hard surfaces.  
   
 **Features:** Some snails lay egg

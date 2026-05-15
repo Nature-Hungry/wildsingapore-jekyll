@@ -115,33 +115,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Pong
-pong tree *Cerbera* sp.****Family** Apocynaceae** *updated Jan 13*
-
----
-
-**Where
-seen?** The Yellow-eyed pong pong tree is a commonly planted
+## Where seen?
+ The Yellow-eyed pong pong tree is a commonly planted
 tree in our parks and roadsides and is also sometimes seen growing
 wild on our shores. But the beautiful Pink-eyed pong pong tree is
 rare and only sometimes seen on our shores and coastal forests.  

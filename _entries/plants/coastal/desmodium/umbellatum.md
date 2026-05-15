@@ -91,34 +91,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Petai
-laut** ***Desmodium umbellatum***  
-**Family** Fabaceae***updated
-Nov 10*
-
----
-
-**Where seen?** A shrub or small tree with branches leaning
+## Where seen?
+  A shrub or small tree with branches leaning
 out to form a low umbrella over the sandy shore, while the trunk remains
 at the highest water mark. It is sometimes seen on our shores. It
 was previously found along the coasts all around Singapore island

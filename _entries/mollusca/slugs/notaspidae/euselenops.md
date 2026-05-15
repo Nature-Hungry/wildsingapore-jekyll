@@ -56,36 +56,9 @@ page_images:
     <p>Pulau Sudong, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#notaspidea) | [photo index](../../slugfi5.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-**Moon-headed
-sidegill slug**  
-***Euselenops luniceps*  
-Family Pleurobranchidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This comical cartoon-like
+## Where seen?
+ This comical cartoon-like
 slug is only sometimes seen. When seen, often several are seen at
 the same time. And then none for some time. Elsewhere, they are found
 in sandy and silty shores. It was previously placed in [Order

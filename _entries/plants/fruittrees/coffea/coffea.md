@@ -72,36 +72,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Coffee
-  
-*Coffea* sp.**  
-**Family Rubiaceae*****updated
-Dec 09*
-
----
-
-**Where seen?** Almost everyone knows about coffee but few
+## Where seen?
+  Almost everyone knows about coffee but few
 have seen a coffee bush! You can see several at Pulau Ubin's Sensory
 Trail. According to Corners, there are about 40 species in tropical
 Africa and Asia, with 3 wild species in Malaya.  

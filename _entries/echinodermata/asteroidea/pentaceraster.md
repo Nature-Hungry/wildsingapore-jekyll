@@ -91,21 +91,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Pentaceraster
-sea star  
-*Pentaceraster mammillatus*Family Oreasteridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This large sea star is a new record for Singapore! It was discovered
+## Where seen?
+ This large sea star is a new record for Singapore! It was discovered
 in 2008 on Cyrene Reef,
 a submerged reef in the middle of our port. This sea star was previously known to exist only in the western Indian
 Ocean and the Red Sea, so its presence in Singapore waters represents

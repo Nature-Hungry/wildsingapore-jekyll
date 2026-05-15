@@ -33,36 +33,9 @@ page_images:
     <p><a href="redcoral">Red coral crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Coral
-crabs**   
-**Superfamily Trapezioidea***updated
-Dec 2019*
-
----
-
-**Where
-seen?** These tiny crabs are only found in living branching
+## Where seen?
+ These tiny crabs are only found in living branching
 hard corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Cauliflower
 corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.). They are well hidden and quick,

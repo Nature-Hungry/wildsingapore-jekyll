@@ -36,35 +36,9 @@ page_images:
     <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Loliginidae](loliginidae.htm)
-**Indian
-squid  
-*Uroteuthis duvaucelii*****Family Loliginidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This squid with a triangular fin is sometimes seen
+## Where seen?
+ This squid with a triangular fin is sometimes seen
 on our reefs. Elsewhere, may be found in deeper waters 30 to 170m.  
   
 **Features:** 8-10cm long, may grow

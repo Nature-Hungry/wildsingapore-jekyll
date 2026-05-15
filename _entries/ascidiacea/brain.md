@@ -42,22 +42,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Brain
-ascidians   
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 odd blue 'brains' are sometimes seen on our Southern shores, on rubble near reefs .  
   
 **Features:** 10-15cm

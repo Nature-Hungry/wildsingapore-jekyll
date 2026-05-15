@@ -40,37 +40,9 @@ page_images:
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550002638158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Olividae](olividae.htm)
-**Common
-olive snail**  
- ***Oliva oliva\**  
-Family Olividae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small bullet-shaped snail is actually not very
+## Where seen?
+ This small bullet-shaped snail is actually not very
 commonly seen, only on a few of our shores so far. A burrowing
 snail, it is more often seen above the ground at night or with the incoming
 tide.   

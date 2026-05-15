@@ -52,21 +52,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040706lazd2411m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Blue
-icing sponge  
-*Lendenfeldia* cf. *chondrodes\**Family Thorectidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This smooth sponge forms a layer over coral rubble and is often seen
+## Where seen?
+ This smooth sponge forms a layer over coral rubble and is often seen
 on our Southern shores. It does remind of icing on a cake! **Features:** The layer
 encrusts coral rubble and may cover an area of 20cm wide or more.
 Sometimes, also encrusts living coral. Generally a smooth layer but

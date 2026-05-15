@@ -133,38 +133,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158223377263660&set=a.10158223378038660">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-> Family [Alpheidae](alpheidae)
-**Smooth
-snapping shrimp**  
-***Alpheus* sp.*\**  
-Family Alpheidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 short and stout snapping shrimp is sometimes seen on many of our shores,
 in sandy areas near seagrasses and among coral rubble. It is more
 active at night. During the day, these shrimps usually remain hidden

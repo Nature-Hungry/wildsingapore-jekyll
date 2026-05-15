@@ -60,19 +60,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/redreef/060212sisg4839m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum [Nemertea](nemertea)
-**Red
-reef ribbon worm** ***awaiting identification*\****updated Jan 2020*
-
----
-
-**Where
-seen?** This short red ribbon worm is commonly seen at night
+## Where seen?
+ This short red ribbon worm is commonly seen at night
 in coral rubble and near reefs. Many of of these worms can be glimpsed
 among seaweeds at night, extending their bodies out of hiding places.They
 retract instantly as soon as light shines on them, or they feel a

@@ -60,39 +60,9 @@ page_images:
     <p>Chek Jawa, Oct 02</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Rosy
-fiddler crab**  
-***Tubuca rosea\******Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This small fiddler crab with a rather short and stout
+## Where seen?
+ This small fiddler crab with a rather short and stout
 enlarged pincer is rarely seen, usually in the back mangroves under
 vegetation. It was previously known as *Uca rosea*.  
   

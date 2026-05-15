@@ -120,34 +120,6 @@ page_images:
     <p>343 pp.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order Actiniaria
-**Sea
-anemones****Order Actiniaria***updated
-Dec 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -157,8 +129,8 @@ on it.
 ![](../../photos/bullet.gif)Anemones can be found in all kinds of places. Look for
 them.
   
-**Where
-seen?** A wide variety of anemones can be seen on all
+## Where seen?
+ A wide variety of anemones can be seen on all
 our shores. Tiny anemones often wedge in crevices on rocky shores.
 Sandy shores teem with anemones; some small and well camouflaged
 or hidden in the sand. Seagrass meadows often have carpet anemones

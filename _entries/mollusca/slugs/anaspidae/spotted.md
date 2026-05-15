@@ -101,36 +101,9 @@ page_images:
     <p>Beting Bemban Besar, May 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5804702146209775&set=a.5804702629543060">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Spotted
-sea hare**  
-***Aplysia oculifera\*****updated
-May 2020*
-
----
-
-**Where
-seen?** This large spotted sea hare is sometimes seen on many of our shores,
+## Where seen?
+ This large spotted sea hare is sometimes seen on many of our shores,
 on sandy sheltered areas among or near seagrasses. Sometimes, half buried in soft sediments.   
   
 **Features:** 8-10cm. Large, long,

@@ -62,36 +62,9 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972839228713&set=a.10159972857263713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi2.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Fine
-feathery soft coral  
-*Briareum excavatum\**  
-Family Briareidae***updated
-Aug 2025*
-
----
-
-**Where
-seen?** This colony of tiny animals is seen on our Southern shores, but is often overlooked. The colony grows on stones
+## Where seen?
+ This colony of tiny animals is seen on our Southern shores, but is often overlooked. The colony grows on stones
 and hard surfaces, including litter on the shores! *Briareum stechei* might be the accepted current name.  
   
 **Features:** Colony about 10-15cm,

@@ -67,33 +67,9 @@ page_images:
     <p>Pulau Semakau, Feb 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > [*Avicennia*](avicennia) in general
-**Api-api
-bulu   
-*Avicennia rumphiana*  
-Family Acanthaceae***updated
-Jan 2013* 
-
----
-
-**Where seen?** This tree with pencil roots and velvety furry
+## Where seen?
+  This tree with pencil roots and velvety furry
 spoon-shaped leaves is sometimes seen in our mangroves, but is not
 as commonly encountered as *[Avicennia alba](alba)*.
 It is found mainly in sandy or firm silt substrate of the mid to high

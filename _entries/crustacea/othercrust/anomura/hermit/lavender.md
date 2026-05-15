@@ -57,37 +57,9 @@ page_images:
     <p>Cyrene, Jul 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Lavender
-hermit crab *awaiting identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** This little hermit crab is commonly seen on sandy
+## Where seen?
+ This little hermit crab is commonly seen on sandy
 areas and among seagrasses on Changi, as well as some other shores.   
   
 **Features:** Body about 1-2cm long,

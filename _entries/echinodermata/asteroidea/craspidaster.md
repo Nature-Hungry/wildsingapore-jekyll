@@ -76,21 +76,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Bordered
-sea star  
-*Craspidaster hesperus*Family
-Astropectinidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This beautiful sea star is sometimes seen on Beting Bronok. 'Craspedo'
+## Where seen?
+ This beautiful sea star is sometimes seen on Beting Bronok. 'Craspedo'
 means border or edge. According to Lane, this sea star is seen from
 the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.  
   

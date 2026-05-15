@@ -67,36 +67,9 @@ page_images:
     <p>Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158649743877945&set=a.10158649794402945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) >
-[*Elysia*](elysiidae.htm) species
-**Halimeda
-slug**  
-***Elysia pusilla* Family Plakobranchidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This tiny slug is sometimes seen on [Big
+## Where seen?
+ This tiny slug is sometimes seen on [Big
 coin green seaweeds](../../../plants/seaweed/chlorophyta/halbig.htm) (*Halimeda* sp.). Several slugs may be
 seen on one clump of seaweed. It was previously known as *Elysiella
 pusilla*.  

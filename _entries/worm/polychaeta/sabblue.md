@@ -52,26 +52,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Blue
-fanworm**  
-***awaiting
-identification\**  
-Family Sabellidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This fanworm is sometimes seen in sandy areas, even in silty sand, on our
+## Where seen?
+ This fanworm is sometimes seen in sandy areas, even in silty sand, on our
 Northern shores.  
   
 **Features:** Fan 6-8cm in diameter.

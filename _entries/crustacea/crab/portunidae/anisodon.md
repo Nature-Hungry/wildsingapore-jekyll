@@ -60,38 +60,9 @@ page_images:
     <p>Beting Bronok, Jul 23 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159696234558660&set=a.10159696239548660">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Orange-clawed
-swimming crab**  
-***Charybdis
-anisodon*\*   
-Family Portunidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This swimming crab is sometimes seen, among seagrasses on our Northern shores.  
+## Where seen?
+ This swimming crab is sometimes seen, among seagrasses on our Northern shores.  
   
 **Features:** Body width 5-7cm. Body somewhat fan-shaped with 6 spines on the sides - 4 small rounded ones and the last two sharper and longer. The eyes
 not very far apart. Between the eyes there are 8 small rounded lobes.

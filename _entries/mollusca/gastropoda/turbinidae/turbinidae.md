@@ -72,33 +72,6 @@ page_images:
     <p><a href="petholatus.htm">Tapestry turban snail</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Turban
-snails**   
- **Family Turbinidae***updated Oct 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -108,8 +81,8 @@ thick, chalky operculum resembles a cat's eye.
 pretty shell is often hidden under encrusting growths.  
 ![](../../../photos/bullet.gif) Some are threatened by over-collection.
   
-**Where
-seen?** These tough snails are commonly seen on many of our
+## Where seen?
+ These tough snails are commonly seen on many of our
 rocky shores including on man-made sea walls. Smaller ones are also
 found under stones. Turban shells are not as well adapted to dry condictions
 as the [Nerites](../neritidae/neritidae.htm) and [Periwinkles](../littorinidae/littorinidae.htm),

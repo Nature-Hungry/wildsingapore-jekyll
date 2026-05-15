@@ -101,20 +101,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**White-rumped
-sea cucumber *Actinopyga lecanora*Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large fat sea cucumber with a white ring around
+## Where seen?
+ This large fat sea cucumber with a white ring around
 its back end is commonly seen on many of our Southern shores. Sometimes in quite large numbers (one every few metres), well distributed (not clumped together). Usually
 among coral rubble, and living hard and soft corals. Elsewhere, it
 is considered uncommon and occurs in very low densities on rocky and

@@ -47,21 +47,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Smooth-coated
-otter  
-*Lutrogale perspicillata*  
-Family Mustelidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This delightful creature is more common that we might
+## Where seen?
+ This delightful creature is more common that we might
 imagine. Smooth-coated otters are often sighted in our mangroves,
 mudflats and coastal areas. Such as at Sungei Buloh Wetland Reserve,
 Pasir Ris, Pulau Ubin as well as Changi. According

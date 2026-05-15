@@ -77,31 +77,6 @@ page_images:
     <p>Beting Bemban Besar, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.168415093218197.41399.133291903397183">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family Placunidae
-**Window-pane
-clam** ***Placuna* sp.  
-Family Placunidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -112,8 +87,8 @@ the light.
 ![](../../../photos/bullet.gif)The
 clam is globally endangered due to overcollection.
   
-**Where
-seen?** This
+## Where seen?
+ This
 large animal with a thin translucent shell is still commonly encountered
 on our Northern shores, and some of our Southern shores. Among seagrass
 meadows, lying loose on the ground. Elsewhere,

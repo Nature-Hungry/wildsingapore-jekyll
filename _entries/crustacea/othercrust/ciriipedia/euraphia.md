@@ -47,37 +47,9 @@ page_images:
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025460752945&set=a.10158025536362945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Star
-barnacle** ***Chthamalus* sp.\*  
-Family Chthalamidae**  
-*updated
-Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 little starry barnacle is sometimes seen on some of our shores. Usually
 found in small groups, in higher areas where it is too dry for [acorn
 barnacles](balanus) (*Balanus* sp.). They were formerly known as *Chthamalus*.  

@@ -58,37 +58,9 @@ page_images:
     <p>Punggol, Nov 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/12/a-change-of-punggol-shorel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Pink
-banded hermit crab *Pagurus hedleyi\******Family
-Diogenidae** *updated Dec 2019*
-
----
-
-**Where
-seen?** This little hermit crab with black bars is commonly
+## Where seen?
+ This little hermit crab with black bars is commonly
 seen on some of our shores near reefs, rocky shores and even artificial
 seawalls.   
   

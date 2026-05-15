@@ -48,38 +48,9 @@ page_images:
     <p>On this website, the animals are grouped by external features for convenience of display.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
-**Striped
-corallimorph**  
-***Discosoma*** **sp.**  
-**Family Discosomidae**   
-*updated
-Jul 2024*
-
----
-
-**Where
-seen?** These little brown disk-shaped animal with stripes
+## Where seen?
+ These little brown disk-shaped animal with stripes
 is sometimes encountered on our Southern shores, in coral rubble areas.  
   
 **Features:** Each polyp about 3-4cm

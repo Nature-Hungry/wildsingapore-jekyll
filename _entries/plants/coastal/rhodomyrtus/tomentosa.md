@@ -92,34 +92,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Kemunting  
-*Rhodomyrtus tomentosa***  
-**Family** Myrtaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This pretty wooly plant with pink flowers are
+## Where seen?
+  This pretty wooly plant with pink flowers are
 planted at Chek Jawa along the visitor trails. According to Corners,
 it was common in Malaya especially in open sandy ground on the seashore
 or sand banks by the rivers. As he puts it, "it delights in hot

@@ -97,31 +97,6 @@ page_images:
     <p><a href="sponge">Barnacles in a sponge</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea)
-**Barnacles**  
-**Class Cirripedia***updated Mar 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -134,8 +109,8 @@ in the empty shell.
 affect urban living. They grow on ships and thus affect
 shipping. Cities rely on ships for supplies and transportation!
   
-**Where
-seen?** Barnacles are often ignored as our attention is drawn
+## Where seen?
+ Barnacles are often ignored as our attention is drawn
 to more colourful and attractive shore animals. But barnacles are
 fascinating in their own right! Barnacles will grow on any hard surface
 immersed in seawater, so they are found literally everywhere in the

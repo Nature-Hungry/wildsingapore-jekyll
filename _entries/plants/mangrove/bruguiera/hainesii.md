@@ -72,33 +72,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
-**Bakau
-mata buaya  
-*Bruguiera hainesii*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This beautiful mangrove tree is rare in Singapore,
+## Where seen?
+  This beautiful mangrove tree is rare in Singapore,
 with only a few known specimens; one at Pasir Ris, one at Kranji Nature
 Trail and two at Pulau Ubin. According to Tomlinson, it is infrequent
 on the inland side of the mangroves in regions not regularly flushed

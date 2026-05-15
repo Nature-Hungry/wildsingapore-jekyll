@@ -50,31 +50,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Acroporid
-corals**  **Family Acroporidae***updated
-Sep 2025*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +60,8 @@ include some of the fastest-growing hard corals.
 species often shelter a variety of small animals. Look
 for them.
   
-**Where
-seen?** Corals belonging to the Family Acroporidae are seen
+## Where seen?
+ Corals belonging to the Family Acroporidae are seen
 on many of our Southern shores. On undisturbed shores, often more
 colonies, larger colonies, and a wider range of species are encountered.  
   

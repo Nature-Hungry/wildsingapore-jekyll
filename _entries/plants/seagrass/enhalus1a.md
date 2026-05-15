@@ -34,32 +34,6 @@ page_images:
     <p>Pulau Semakau, Feb 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Tape
-seagrass on Singapore shores**  
-back to [general info on tape seagrass](enhalus)  
-
----
 
  
 

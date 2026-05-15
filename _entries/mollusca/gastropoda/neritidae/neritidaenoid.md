@@ -65,33 +65,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Neritidae](neritidae.htm)
-**Nerite
-snails on Singapore shores awaiting identification**  
-back to [general
-info on nerite snails](neritidae.htm)  
-
----
 
 **Unidentified
 nerite snail #070506sjig9293**About 3cm. On rocky shore alone among large boulders, *St.

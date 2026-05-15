@@ -41,29 +41,6 @@ page_images:
     <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Perchlets**  
-**Family Ambassidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -72,8 +49,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Sometimes
 stranded in pools at low tide. Watch your step!
   
-**Where
-seen?** Groups
+## Where seen?
+ Groups
 of these silvery fishes are frequently encountered in pools at low
 tide on many of our shores. Elsewhere, they are found in mangroves,
 estuaries and fresh water. They form groups during the day among mangrove

@@ -96,34 +96,9 @@ page_images:
     <p>Pulau Semakau West, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158197906877945&set=a.10158197958107945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-molluscs [text
-index](../../molluscaindex.htm) | [photo index](../../molluscafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Cardiidae](cardiidae.htm)
-**Strawberry
-cockle   
-*Fragum unedo*****Family
-Cardiidae***updated May 2020*
-
----
-
-**Where
-seen?** This pretty clam is not often seen, usually on sandy
+## Where seen?
+ This pretty clam is not often seen, usually on sandy
 shores near reefs. Possibly they are more common but hidden beneath the sand. Elsewhere, they are shallow burrowers in sandy
 bottoms, often occuring in dense populations.  
  **Features:** 4-6cm. The sturdy two-part shell is heavy, squarish

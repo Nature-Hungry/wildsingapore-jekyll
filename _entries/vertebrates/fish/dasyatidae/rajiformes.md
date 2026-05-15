@@ -66,31 +66,6 @@ page_images:
     <p><a href="../myliobatidae/narinari">Spotted eagle ray</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Skates,
-rays and stingrays  
-Order Rajiformes***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -100,8 +75,8 @@ of bones.
 ![](../../../photos/bullet.gif)They
 will not sting unless you step on them. Watch your step!
   
-**Where
-seen?** Elegant
+## Where seen?
+ Elegant
 discs with bulbous eyes and a narrow tail, these large fishes are
 often seen in our mangroves, seagrass meadows and coral reefs.   
   

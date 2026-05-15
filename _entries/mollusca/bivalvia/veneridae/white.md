@@ -39,34 +39,9 @@ page_images:
     <p>Pulau Kusu, Apr 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154598945733660&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
-**White
-venus clam**  
-***awaiting identification\******Family Veneridae***updated
-May 2020*
-
----
-
-**Where
-seen?** This plain smooth whitish clam is sometimes seen
+## Where seen?
+ This plain smooth whitish clam is sometimes seen
 on some of our shores, lying loose among coral rubble and under stones.  
   
 **Features:**About

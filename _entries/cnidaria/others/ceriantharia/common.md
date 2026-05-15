@@ -73,35 +73,9 @@ page_images:
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/050722cjg9829m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-cerianthid [text
-index](../../cnidariaindex.htm#ceriantharia) | [photo index](../../anemonefi8.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Ceriantharia](ceriantharia.htm)
-**Common
-cerianthid  
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This cerianthid is commonly seen on our Northern
+## Where seen?
+ This cerianthid is commonly seen on our Northern
 shores, sometimes in large numbers and often in a variety of colours
 and patterns. On silty sand as well as among seagrasses and sometimes
 near coral rubble.  

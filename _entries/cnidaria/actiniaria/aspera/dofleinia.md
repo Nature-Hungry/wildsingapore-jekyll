@@ -107,37 +107,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472458013/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea anemones
-[text index](../../cnidariaindex.htm) | [photo
-index](../../anemonefi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](../actiniaria.htm)
-**Glass
-anemone**  
-***Dofleinia* sp.**  
-**Family Actiniidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This beautiful anemone resembles blown glass and is sometimes
+## Where seen?
+ This beautiful anemone resembles blown glass and is sometimes
 seen on sand and near seagrasses on some of our shores.  
   
 **Features:** Diameter

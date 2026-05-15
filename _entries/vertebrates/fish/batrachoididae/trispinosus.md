@@ -89,29 +89,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467653158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**ToadfishesFamily Batrachoididae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -122,8 +99,8 @@ bite!
 ![](../../../photos/bullet.gif)Hard
 to spot: they resemble stones. So watch your step!
   
-**Where
-seen?** These bottom-dwelling fishes are commonly seen on all our shores
+## Where seen?
+ These bottom-dwelling fishes are commonly seen on all our shores
 but often overlooked. Skulking under stones, near coral rubble, or
 half covered in sand and sediments, they are hard to spot. Even out
 in the open, they look like algae-covered stones. At night, the fish is often spotted by its large eyes that 'shine' red in our torch. Sometimes seen dry out of water at low tide, under large stones, such fishes are still very much alive. There is no need to 'save' them or move them.  

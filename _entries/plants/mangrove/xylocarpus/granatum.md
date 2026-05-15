@@ -60,32 +60,9 @@ page_images:
     <p>Lim Chu Kang, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) | *[Xylocarpus](xylocarpus)* in general
- **Mangrove cannon-ball tree or Nyireh bunga   
-*Xylocarpus granatum*  
-Family Meliaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This handsome tree with cannon-ball shaped
+## Where seen?
+  This handsome tree with cannon-ball shaped
 fruits is commonly seen in our mangroves. According to Ng, it is found
 in many of our mangroves and many trees are found at the northern
 coast of Pulau Tekong. According to Corners, it is common in all Malayan

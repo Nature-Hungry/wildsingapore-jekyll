@@ -57,21 +57,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Herrmann's
-sea cucumber  
-*Stichopus herrmanni*Family Stichopodidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large sea cucumber is sometimes seen among coral rubble on some Southern shores. It is also called the Curryfish as it
+## Where seen?
+ This large sea cucumber is sometimes seen among coral rubble on some Southern shores. It is also called the Curryfish as it
 is among the sea cucumbers that are edible and harvested for the restaurant
 trade. It was formerly known as *S. variegatus*. Elsewhere it
 prefers seagrass beds, rubble and sandy-muddy bottoms.   

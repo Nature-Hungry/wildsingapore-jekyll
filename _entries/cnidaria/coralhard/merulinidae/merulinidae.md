@@ -141,34 +141,9 @@ page_images:
     <p>Corallites with shared walls often thick forming long meandering valleys, maze-like or hexagonal patterns that are coarser than other kinds of maze favid corals.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Merulinid
-corals**  **Family Merulinidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This family now contains most of the commonly encountered corals on Singapore shores. Including those that used to be in Family Faviidae. They take on a wide variety of shapes from boulder to plates, leafy to branching.
+## Where seen?
+ This family now contains most of the commonly encountered corals on Singapore shores. Including those that used to be in Family Faviidae. They take on a wide variety of shapes from boulder to plates, leafy to branching.
 
 ---
 

@@ -75,36 +75,9 @@ page_images:
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Y-branch
-brown seaweed  
-*Dictyota* sp.\*** **Family Dictyotaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?** This flat strap-like brown seaweed is sometimes seen
+## Where seen?
+ This flat strap-like brown seaweed is sometimes seen
 on many of our shores, often anchored in bare sand.  
   
 **Features:** A bunch of several to

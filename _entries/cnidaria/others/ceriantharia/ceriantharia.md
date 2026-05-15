@@ -70,30 +70,6 @@ page_images:
     <p><a href="smallmouth.htm">Small-mouth cerianthid</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-cerianthid [text
-index](../../cnidariaindex.htm#ceriantharia) | [photo index](../../anemonefi8.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order Ceriantharia
-**Cerianthids**  
-**Order Ceriantharia***updated Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -104,8 +80,8 @@ long outer tentacles and short inner tentacles.
 retract into their tubes at low tide. Don't step on the
 tubes!
   
-**Where
-seen?** These elegant animals with long colourful tentacles
+## Where seen?
+ These elegant animals with long colourful tentacles
 are commonly encountered on many of our shores. They are often seen
 in soft, silty muddy areas, as well as in sandy areas near seagrasses.
 At low tide during a cool morning or evening, cerianthids in a pool

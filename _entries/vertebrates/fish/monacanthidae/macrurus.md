@@ -53,36 +53,9 @@ page_images:
     <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Monacanthidae](monacanthidae)
-**Strapweed
-filefish  
-*Pseudomonacanthus macrurus\****  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This filefish is sometimes seen on some of Southern shores
+## Where seen?
+ This filefish is sometimes seen on some of Southern shores
 among seagrasses and among seaweeds on the coral rubble. It is also
 called the Smallspotted leatherjacket.  
   

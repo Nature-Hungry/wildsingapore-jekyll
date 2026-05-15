@@ -39,40 +39,14 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/41946456675 "Nudibranch laying eggs, awaiting identification")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm) | eggs [text
-index](../../../eggs/eggindex.htm) | [photo index](../../../eggs/eggfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Nudibranch
-eggs***updated
-Apr 2020*
-
----
 
 if
 you learn only 3 things about them ...  
 ![](../../../photos/bullet.gif)Egg capsules contain living eggs or tiny snails. Don't
 disturb them.  
 ![](../../../photos/bullet.gif)
- **Where seen?** These rosette-like ribbons of eggs are sometimes
+ ## Where seen?
+  These rosette-like ribbons of eggs are sometimes
 seen on many shores.  
   
 **Features:** Diameter 8-1cm. Frilly

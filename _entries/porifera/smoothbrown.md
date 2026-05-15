@@ -71,20 +71,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Smooth
-brown sponge *Neopetrosia exigua\**Family Petrosiidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This smooth brown sponge forms a ridged layer over coral rubble and
+## Where seen?
+ This smooth brown sponge forms a ridged layer over coral rubble and
 is sometimes seen on our Southern shores. **Features:** Thin layer
 encrusting small areas 10-20cm sometimes larger. Often with irregular
 low 'walls', folds, knobs and lobes. In deeper water, it may have

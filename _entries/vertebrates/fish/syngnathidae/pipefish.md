@@ -51,31 +51,6 @@ page_images:
     <p><a href="biaculeatus">Alligator pipefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae)
-**Pipefishes**   
-**Family Syngnathidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +60,8 @@ learn only 3 things about them ...
 are hard to spot and can't move fast. Watch your step
 or you might step on one!
   
-**Where
-seen?** A cousin of the more famous seahorse, these extremely
+## Where seen?
+ A cousin of the more famous seahorse, these extremely
 well camouflaged fishes are often mistaken for roots and overlooked.
 Particularly as they often lie motionless among the seagrasses and
 seaweeds. Pipefishes are seen on many of our shores. In the North, they appear to

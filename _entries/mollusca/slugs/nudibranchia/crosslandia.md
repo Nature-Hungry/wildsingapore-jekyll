@@ -61,38 +61,9 @@ page_images:
     <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Sargassum
-nudibranch**  
-***Crosslandia
-daedali*  
-Family Scyllaeidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This extremely well camouflaged nudibranch was seen
+## Where seen?
+ This extremely well camouflaged nudibranch was seen
 among [Sargassum
 seaweeds](../../../plants/seaweed/phaeophyta/sargassum.htm) (*Sargassum* sp.) at St. John's Island.   
   

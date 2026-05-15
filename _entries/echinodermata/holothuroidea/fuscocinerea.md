@@ -95,21 +95,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Ashy
-pink sea cucumber  
-*Holothuria fuscocinerea*Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This long pinkish sea cucumber is sometimes seen on our Southern shores.
+## Where seen?
+ This long pinkish sea cucumber is sometimes seen on our Southern shores.
 Usually well wedged among living corals and coral rubble, usually
 alone. Seen mostly at night, only a short part of the front end cautiously
 sticking out. It is very sensitive and will retract into its hiding

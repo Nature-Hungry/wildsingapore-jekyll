@@ -72,34 +72,6 @@ page_images:
     <p>Beting Bemban Besar, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155368581973713.1073742086.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cypraeidea](cypraeidae.htm)
-**Wandering
-cowrie**  
-***Erronea errones*** **Family
-Cypraeidae***updated
-Jul 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -111,8 +83,8 @@ by over-collection.
 rip off a cowrie from a stone! It might be a mother cowrie
 protecting her eggs.
   
-**Where
-seen?** This
+## Where seen?
+ This
 little cowrie is commonly seen on our Northern shores usually under
 stones, but sometimes crawling about in the open. Sometimes also seen
 on our Southern shores among coral rubble. It was previously known

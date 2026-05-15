@@ -33,19 +33,9 @@ page_images:
     <p>Kusu Island, Apr 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Shore
-cricket   
-Family Gryllidae***updated
-Nov 2019*
 
----
-
-**Where
-seen?** This tiny cricket is sometimes seen on some of our
+## Where seen?
+ This tiny cricket is sometimes seen on some of our
 shores. On rocky shores near the mid- to high-water mark, and sandy areas nearby. Usually
 more active at night.  
   

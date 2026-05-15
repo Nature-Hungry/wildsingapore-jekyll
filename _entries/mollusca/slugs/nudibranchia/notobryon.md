@@ -45,36 +45,9 @@ page_images:
     <p>Beting Bronok, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/pretty-creatures-of-beting-bronok.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Notobryon
-nudibranch**  
-***Notobryon* sp.   
-Family Scyllaeidae***updated May 2020*
-
----
-
-**Where
-seen?** Sometimes seen on some of our reefy shores.  
+## Where seen?
+ Sometimes seen on some of our reefy shores.  
   
 **Features:** About 3cm long. It has
 a pair of 'flaps' (mantle lobes) in the middle of the body which it

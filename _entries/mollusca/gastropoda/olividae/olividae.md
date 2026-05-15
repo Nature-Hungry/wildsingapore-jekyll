@@ -68,35 +68,9 @@ page_images:
     <p>Short conical spire.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Olive
-snails**   
- **Family Olividae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These bullet-shaped snails are sometimes seen on
+## Where seen?
+ These bullet-shaped snails are sometimes seen on
 the silty sandy shores near seagrasses. These burrowing snails are more
 often seen above the ground at night or with the incoming tide. They leave a typical trail on the sand surface as they burrow beneath. Elsewhere, they are common
 in well-aerated, clean sand.  

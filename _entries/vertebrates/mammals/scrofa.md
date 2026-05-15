@@ -46,20 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Wild boar   
-*Sus scrofa*  
-Family Suidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This large
+## Where seen?
+ This large
 hairy beast is quite common in our wilder places but rarely seen as
 they are shy. It is more active in the early morning and late evening.
 Several may gather under fruiting trees to forage for fallen fruits.

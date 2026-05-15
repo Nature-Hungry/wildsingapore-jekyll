@@ -93,33 +93,6 @@ page_images:
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-zoanthids [text
-index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
-**Button
-zoanthid  
-*Zoanthus* sp.\***  
-**Family Zoanthidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -128,8 +101,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 are small and may retract at low tide. Don't step on them!
   
-**Where
-seen?** Like a carpet of tiny flowers, these animals are
+## Where seen?
+ Like a carpet of tiny flowers, these animals are
 often seen on many of our shores, growing on stones and coral rubble,
 as well as under seagrasses in vast seagrass meadows. They may form a dense carpet that covers large areas of several square
 metres, making it difficult to walk at low tide without squashing them.   

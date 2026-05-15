@@ -46,36 +46,9 @@ page_images:
     <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153145685398660.1073741879.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**'Jolly
-Green Giant' nudibranch   
-*Miamira sinuatum*  
-Family Chromodorididae***updated May 2020*
-
----
-
-**Where
-seen?** This large chunky hard nudibranch is sometimes seen among coral rubble
+## Where seen?
+ This large chunky hard nudibranch is sometimes seen among coral rubble
 and reefs on our Southern islands. Usually several are seen at the
 same time, and then none for a while. It does look rather jolly and
 is large! It was previously known as *Ceratosoma sinuatum*.  

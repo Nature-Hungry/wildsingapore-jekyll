@@ -59,30 +59,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Scorpionfishes  
-Family Scorpaenidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -92,8 +68,8 @@ learn only 3 things about them ...
 venom is only used for protection from predators and not
 to catch prey.
   
-**Where
-seen?** These prickly well-camouflaged fishes are seen on
+## Where seen?
+ These prickly well-camouflaged fishes are seen on
 many of our shores, in seagrass and coral rubble areas. Masters of
 disguise, some can also be very small. Most stay motionless and thus
 do not betray their presence through movement. Patience and a keen

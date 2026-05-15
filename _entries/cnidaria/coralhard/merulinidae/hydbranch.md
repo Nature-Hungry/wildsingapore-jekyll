@@ -86,37 +86,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Merulinidae](merulinidae.htm) > [*Hydnophora*
-sp.](hydnophora.htm)
-**Branching
-horn coral** ***Hydnophora rigida*\*  
-Family Merulinidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard coral with conical bumps and forming branching
+## Where seen?
+ This hard coral with conical bumps and forming branching
 colonies is sometimes seen on some of our undisturbed Southern islands.  
   
 **Features:** Colonies (15-20cm) bushy. An open tangle of thick, short cylindrical

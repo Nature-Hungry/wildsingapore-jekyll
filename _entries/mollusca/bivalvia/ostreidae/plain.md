@@ -31,35 +31,9 @@ page_images:
     <p>Marina East, Jul 20Shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811092047945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Osteridae](osteridae.htm)
-**Plain
-rock oyster**  ***awaiting
-identification\**  
-Family Ostreidae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** This oyster is commonly seen on our Northern shores
+## Where seen?
+ This oyster is commonly seen on our Northern shores
 on boulders, rocks, jetty pillings, sea walls. Often, there is a crowded
 line of these oysters, with many individuals squashed next to one
 another, along the high water mark. On undisturbed shores they can

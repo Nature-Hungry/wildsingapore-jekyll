@@ -50,36 +50,6 @@ page_images:
     <p>Changi, May 05</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) > Family Paleomonidae
-**Commensal
-shrimps** ***Periclimenes* sp.\*  
-Family Palaemonidae**  
-*updated
-Oct 2016*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -91,7 +61,8 @@ They are often found in pairs.
 ![](../../../photos/bullet.gif)They
 are an excellent example of commensalism.
   
-**Where seen?** These transparent
+## Where seen?
+  These transparent
 shrimps are often seen living on other animals such as sea anemones,
 sea cucumbers, and hard and soft corals. Some are also seen in small
 groups on the ground and among seaweeds. These shrimps are hard to

@@ -50,36 +50,9 @@ page_images:
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set?vanity=100075202496320&set=a.902246838958724">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Sesarmidae](sesarmidae)
-**Mound
-crab**   
-***Sarmatium germaini*****Family Sesarmidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 spherical crab is seldom seen outside the [Mud
 lobster mounds](../../othercrust/lobster/thalassina) where it lives.  
   

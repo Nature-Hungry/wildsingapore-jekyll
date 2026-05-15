@@ -90,34 +90,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Kelat
-nasi nasi** ***Syzygium zeylanicum***  
-**Family** Myrtaceae***updated
-Feb 11*
-
----
-
-**Where seen?** This small shrub is sometimes seen growing
+## Where seen?
+  This small shrub is sometimes seen growing
 wild on our natural coastal cliffs such as those at St. John's Island.
 It is also cultivated. According to Hsuan Keng, it was found in sandy
 spots near the sea, including Tanglin, Changi, Kranji and Tuas. According

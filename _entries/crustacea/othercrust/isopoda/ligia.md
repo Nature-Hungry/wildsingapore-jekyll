@@ -78,33 +78,6 @@ page_images:
     <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea slaters [text
-index](../../crustaceaindex#isopoda) | [photo index](../../othercrustfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order Isopoda
-**Sea
-slaters**   
-***Ligia* sp.  
-Family Ligiidae***updated
-Mar 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -113,8 +86,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 are scavengers.
   
-**Where
-seen?** These nervous little animals are commonly seen on
+## Where seen?
+ These nervous little animals are commonly seen on
 almost all our shores, often swarming in large numbers at low tide.
 They are common on rocky shores, also among mangroves.  
   

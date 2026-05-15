@@ -40,37 +40,9 @@ page_images:
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Potamididae](potamididae.htm)
-**Black
-chut-chut snail  
-*Cerithidea
-quadrata*Family Potamididae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** A more slender Chut-chut, it is often seen in our
+## Where seen?
+ A more slender Chut-chut, it is often seen in our
 mangroves, on tree trunks and on the mud near trees.  
   
 **Features:** 3-4.5cm long. Shell

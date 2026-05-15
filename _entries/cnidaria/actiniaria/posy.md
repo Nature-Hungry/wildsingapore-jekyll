@@ -59,38 +59,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/05/predawn-terumbu-pempang-tengah.html">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum
-[Cnidaria](cnidaria.htm) > Class [Anthozoa](anthozoa.htm)
-> Subclass
-Zoantharia/Hexacorallia > Order [Actiniaria](actiniaria.htm)
-**Posy
-anemone**  
-*****Mesactinia ganensis\****  
-Family Actiniidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This anemone is sometimes seen in small groups on
+## Where seen?
+ This anemone is sometimes seen in small groups on
 coral rubble on our Northern and Southern shores. On Pulau Sekudu, they are sometimes seen in large numbers
 carpeting the ground. Elsewhere, they are seen alone or in smaller
 numbers.   

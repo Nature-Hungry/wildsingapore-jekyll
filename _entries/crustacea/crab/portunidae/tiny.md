@@ -43,37 +43,9 @@ page_images:
     <p>Lazarus Island, Feb 11Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Tiny
-Flower crab**  
-***Portunus
-pelacigus*****Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Tiny swimming crabs are commonly seen on our Northern
+## Where seen?
+ Tiny swimming crabs are commonly seen on our Northern
 shores, especially in areas with seaweeds and seagrasses. They particularly
 active at night. They are probably juvenile [Flower
 crabs](pelagicus) (*Portunus pelagicus*).   

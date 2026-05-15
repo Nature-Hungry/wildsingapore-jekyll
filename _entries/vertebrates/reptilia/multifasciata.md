@@ -39,22 +39,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Common
-sun skink  
-*Eutropis multifasciata*  
-Family Scincidae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small shiny skink is often seen slithering among
+## Where seen?
+ This small shiny skink is often seen slithering among
 the undergrowth and leaf litter in vegation near the shores. According
 to Baker, in Singapore it is widespread in wooded areas, mangroves
 and parks. It was previously known as *Mabuya multifasciata*.  

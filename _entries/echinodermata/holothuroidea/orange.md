@@ -97,22 +97,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Orange
-sea cucumber  
-*Mensamaria intercedens\**  
-Family Cucumariidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This orangey sea cucumber is sometimes seen
+## Where seen?
+ This orangey sea cucumber is sometimes seen
 on our Northern shores, usually attached to coral rubble, often near
 sponges, sometimes partially covered by sediments, nestled up among
 hydroids, draped with synaptid sea cucumbers or smaller sea cucumbers. In Australia, they are found on intertidal shores in 'U-shaped' burrows or entwined in rhizomes of seagrasses.  

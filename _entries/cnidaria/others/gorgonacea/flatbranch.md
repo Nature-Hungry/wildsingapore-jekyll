@@ -53,38 +53,9 @@ page_images:
     <p>An ovulid snail on the sea fan.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Flat
-branch sea fan**  
-***Subergorgia*** **sp.\*  
-Family Subergorgiidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This sea fan with flat branches is sometimes seen
+## Where seen?
+ This sea fan with flat branches is sometimes seen
 on some of our Northern shores on coral rubble.  
   
 **Features:** 10-20cm long. Colony

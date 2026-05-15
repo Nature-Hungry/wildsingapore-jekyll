@@ -65,21 +65,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Tiny
-in-a-sponge brittle stars**   
-***Ophiactis savignyi\**Family Ophioactidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?**These
+## Where seen?
+These
 tiny brittle stars are commonly seen in living [Chocolate
 sponges](../../porifera/suberites) on many of
 our shores. They are sometimes also seen in other kinds of sponges.  

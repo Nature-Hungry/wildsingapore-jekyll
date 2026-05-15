@@ -73,38 +73,9 @@ page_images:
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5465053154/in/album-72157612002594170/">flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Ball
-sea cucumber**  
-***Phyllophorus* sp.**  
-**Family Phyllophoridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This spherical sea cucumber is commonly seen on our Northern shores. It is usually buried in sandy areas near seagrasses, often many near one another.
+## Where seen?
+ This spherical sea cucumber is commonly seen on our Northern shores. It is usually buried in sandy areas near seagrasses, often many near one another.
 Sometimes, it may also be found washed up on the shore hidden among
 the seaweeds. Be careful not to step on these.   
   

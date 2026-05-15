@@ -65,37 +65,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520885806/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Fungiidae](fungiidae.htm)
-**Lithophyllon
-mushroom coral**  ***Lithophyllon
-undulatum\**  
-Family Fungiidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This plate-like coral that is stuck to a hard surface
+## Where seen?
+ This plate-like coral that is stuck to a hard surface
 is sometimes seen on our Southern shores.  
   
 **Features:** Flat plate-like about

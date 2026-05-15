@@ -43,36 +43,6 @@ page_images:
     <p><a href="salicornia">Knobbly agar-agar red seaweed</a> Chek Jawa, May 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Agar-agar
-red seaweeds   
-*Gracilaria*
-sp.\*  
-Family Gracilariaceae  
-*updated
-Jan 13***
-
----
 
 if you
 learn only 3 things about them ...  
@@ -83,7 +53,8 @@ Lots of little animals often hide in them. Look for them!
 ![](../../../photos/bullet.gif)They
 grow rapidly on abandoned rope. In fact, they are farmed
 on ropes.
-**Where seen?**
+## Where seen?
+ 
 These rather succulent red seaweeds are commonly seen on many of our
 shores. On boulders, coral rubble as well as on abandoned ropes, nets
 and other objects left on the shore.   

@@ -62,33 +62,9 @@ page_images:
     <p>Pasir Ris, Jun 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > [*Rhizophora*](rhizophora) in general
-**Bakau
-kurap   
-*Rhizophora mucronata*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree is commonly seen in our mangroves.
+## Where seen?
+  This tree is commonly seen in our mangroves.
 According to Giesen, it is more tolerant of sandy and firmer substrates
 than *Rhizophora apiculata* but is seldom found far from tidal
 water. Grows best in deeply inundated areas on firm soils. According

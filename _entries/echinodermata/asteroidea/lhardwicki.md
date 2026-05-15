@@ -44,23 +44,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea) > Genus [*Luidia*](luidia)
-**Five-armed Luidia
-sea star  
-*Luidia hardwicki*  
-Family Luidiidae**  
-*updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 elegant sea star is sometimes seen, so far, only on Changi.
 On soft silty shores near seagrasses. It appears to be seasonal with several being seen and none seen again for some time. According to Lane, recorded from Sultan Shoal and the Pulau Ayer Chawan islands that
 have since been reclaimed to form Jurong Island. According to Marsh and Fromont, it is found in sand, mud and shelly sand in Australia.  

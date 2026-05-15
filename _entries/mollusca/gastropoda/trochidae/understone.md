@@ -79,36 +79,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447595397945&set=a.10158447654442945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Tiny
-under-a-stone top shell snail**  
-***Euchelus* sp.*\******Family
-Chilodontidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 tiny snail is often seen in small groups under stones on some of our
 shores. They
 were previously placed in [Family Trochidae](trochidae.htm).  

@@ -85,34 +85,9 @@ page_images:
     <p>Tanah Merah, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm)
-**Bobtail
-squids**  **Suborder Sepiolida***updated
-May 2020*
-
----
-
-**Where
-seen?** These rotund little squids are sometimes seen on our Northern shores
+## Where seen?
+ These rotund little squids are sometimes seen on our Northern shores
 on sandy areas among seagrass meadows.  
   
 **What are bobtail and bottletail squids?** They are [molluscs](../mollusca.htm) (Phylum Mollusca)

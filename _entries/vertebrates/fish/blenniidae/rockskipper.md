@@ -66,35 +66,9 @@ page_images:
     <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Blennidae](blenniidae)
-**Rockskipper blenny  
-*awaiting identification*  
-Family Blenniidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
+## Where seen?
+ This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
   
 **Features:** About 5cm to 11cm. Body elongated flattened sideways, head rounded. Various patterns from dark blobs to more defined bars along the body.  
   

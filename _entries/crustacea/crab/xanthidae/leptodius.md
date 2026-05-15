@@ -56,38 +56,9 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695059099/in/album-72157624263311376/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Rock
-crab   
-*Leptodius* sp.\***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This large crab with typical spoon-tipped pincers
+## Where seen?
+ This large crab with typical spoon-tipped pincers
 is sometimes seen in rocky or rubbly areas on our Southern shores.  
   
 **Features:** Body width 8-10cm. Body

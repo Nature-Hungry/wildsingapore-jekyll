@@ -75,18 +75,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Flatworms with one central line  
-How to tell them apart?***updated
-Oct 2019*
-
----
-
 These small flatworms with one central line along the length of the body may look similar at first glance.  
   
 Here's more on how to tell them apart.

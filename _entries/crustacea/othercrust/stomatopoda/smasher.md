@@ -83,35 +83,9 @@ page_images:
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162930972213119&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-mantis shrimps
-[text index](../../crustaceaindex#stomatopoda) | [photo
-index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Stomatopoda](stomatopoda)
-**Smasher
-mantis shrimp  
-*Gonodactylellus viridis*****Family Gonodactylidae***updated Mar 2020*
-
----
-
-**Where
-seen?** This shrimp-like animal is sometimes seen on our
+## Where seen?
+ This shrimp-like animal is sometimes seen on our
 Southern shores, near reefs and among seagrasses. More active
 at night, it zooms around rapidly and is hard to photograph. Elsewhere it is found in shallow waters, in upper intertidal
 zone in reef flats under rocks and boulder, or inside coral and rock

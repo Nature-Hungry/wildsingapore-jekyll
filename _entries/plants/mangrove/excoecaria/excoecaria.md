@@ -56,32 +56,9 @@ page_images:
     <p>Kranji Canal, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Buta-buta or Blind-your-eye  
-*Excoecaria agallocha*  
-Family Euphorbiaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree with small neat leaves can be spectacular
+## Where seen?
+  This tree with small neat leaves can be spectacular
 when in male flower bloom, or when the leaves turn red before dropping
 off. They are quite commonly seen on our Northern shores. Corners
 recorded them as "locally common, as in Kranji Forest Reserve

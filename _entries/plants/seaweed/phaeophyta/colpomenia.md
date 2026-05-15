@@ -49,36 +49,9 @@ page_images:
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Puffy
-brown seaweed  
-*Colpomenia sinuosa*\*** **Family Scytosiphonaceae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** These odd lumpy brown bubbles are sometimes seen
+## Where seen?
+ These odd lumpy brown bubbles are sometimes seen
 on our shores, growing on rocks and coral rubble. In some places,
 they can dominate small areas for a period of time, turning the location
 a golden brown.  

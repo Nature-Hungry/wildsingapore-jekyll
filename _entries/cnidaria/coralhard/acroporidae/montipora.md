@@ -56,37 +56,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Acroporidae](acroporidae.htm) > [*Montipora*
-sp.](montipora.htm)
-**Montipora
-corals  
-*Montipora* sp.** **Family Acroporidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** These corals are often seen on many of our Southern
+## Where seen?
+ These corals are often seen on many of our Southern
 shores. As a group, various *Montipora* species are found from
 deep water to clear reefs as well as lagoons with murky waters. Some
 species are relatively fast growing.  

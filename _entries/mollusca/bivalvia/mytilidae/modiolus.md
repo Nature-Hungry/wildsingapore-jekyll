@@ -44,34 +44,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/40863986093/ "Horse mussels (Modiolus sp.)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Mytilidae](mytilidae.htm)
-**Horse
-mussel** ***Modiolus* sp.  
-Family Mytilidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This large angular brown mussel is usually only sometimes seen in small numbers in seagrass meadows. In 2019, however, they formed dense patches on large areas on Changi Beach. They were also seen in large clusters on Pulau Semakau South in 2020.  
+## Where seen?
+ This large angular brown mussel is usually only sometimes seen in small numbers in seagrass meadows. In 2019, however, they formed dense patches on large areas on Changi Beach. They were also seen in large clusters on Pulau Semakau South in 2020.  
   
 **Features:** 3-4cm long. The two-part
 shell is shiny brown, thin, fragile and smooth. The shell is rather

@@ -39,22 +39,9 @@ page_images:
     <p>Pasir Ris Park, Jan 20Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827013574009173&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**White
-ascidians   
-*awaiting identification\*****updated
-Feb 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 white blobs are sometimes seen on some of our shores. On coral rubble or seagrasses and seaweeds.  
   
 **Features:** Irregular

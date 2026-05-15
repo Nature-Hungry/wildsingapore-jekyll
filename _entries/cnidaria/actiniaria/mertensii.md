@@ -167,36 +167,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719769650/">his flickr</a></p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm) > Genus *[Stichodactyla](stichodactyla.htm)*
-**Merten's
-carpet anemone**  
-***Stichodactyla mertensii*** **Family Stichodactylidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This enormous carpet anemone with short fat tentacles is sometimes
+## Where seen?
+ This enormous carpet anemone with short fat tentacles is sometimes
 seen on our undisturbed Southern shores.  
   
 **Features:**  Diameter to 1m or more.

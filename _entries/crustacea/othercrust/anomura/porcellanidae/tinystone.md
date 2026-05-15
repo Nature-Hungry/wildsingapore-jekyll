@@ -61,41 +61,9 @@ page_images:
     <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-porcelain crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../crabfi1b)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> Family
-[Porcellanidae](porcellanidae)
-**Tiny
-brown porcelain crab**   
-***awaiting
-identification\**  
-Family Porcellanidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny porcelain crab is commonly seen on our
+## Where seen?
+ This tiny porcelain crab is commonly seen on our
 Northern shores. Often many of these little animals can be seen under
 stones, scurrying away rapidly when the stone is lifted. After having
 a look under a stone, be sure to replace the stone the way you found

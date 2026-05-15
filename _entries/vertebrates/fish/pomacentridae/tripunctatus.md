@@ -106,36 +106,9 @@ page_images:
     <p>Pulau Biola, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4655544802/in/album-72157624047023581/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Pomacentridae](pomacentridae)
-**Threespot
-damselfish  
-*Pomacentrus
-tripunctatus***  **Family Pomacentridae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 dark fish with electric blue markings is sometimes seen on some of our shores
 among coral rubble and near living reefs. Elsewhere, it is found in
 shallow bays and silty coastal reefs and other 'dead' areas, up to

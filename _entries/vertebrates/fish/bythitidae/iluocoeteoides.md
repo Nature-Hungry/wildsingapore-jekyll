@@ -62,33 +62,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162471348158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Yellow
-cuskeel  *Dinematichthys iluocoeteoides*  
-Family Bythitidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This odd little eel-like fish is sometimes seen on
+## Where seen?
+ This odd little eel-like fish is sometimes seen on
 some of our shores, usually near reefs at night. It was previously
 listed under Family Brotulidae and thus sometimes still referred to
 as brotulids. Another species, the Riau viviparous brotula (*Ungusurculus riauensis*) looks very similar.  

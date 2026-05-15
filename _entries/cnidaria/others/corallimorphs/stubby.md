@@ -56,38 +56,9 @@ page_images:
     <p>Terumbu Hantu, Jun 2016Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
-**Stubby
-corallimorph**  
-***Ricordea yuma***  
-**Family Ricordeidae**   
-*updated
-Jul 2024*
-
----
-
-**Where
-seen?** These little disk-shaped animal with stubby tentacles
+## Where seen?
+ These little disk-shaped animal with stubby tentacles
 is sometimes encountered on our Southern shores, among coral rubble.  
   
 **Features:** Each polyp about 3-4cm

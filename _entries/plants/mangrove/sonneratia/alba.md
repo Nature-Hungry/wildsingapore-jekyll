@@ -53,32 +53,9 @@ page_images:
     <p>Pulau Hantu, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) | *[Sonneratia](sonneratia)* in general
-**Perepat or Mangrove apple  
-*Sonneratia alba*  
-Family Lythraceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This large and beautiful tree is commonly seen,
+## Where seen?
+  This large and beautiful tree is commonly seen,
 usually on the seaward side of the mangroves. It is considered the
 most widely distributed *Sonneratia* species. A pioneer species,
 it colonises newly formed sandy mud flats in sheltered estuaries and

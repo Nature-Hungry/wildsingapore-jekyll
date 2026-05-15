@@ -48,33 +48,6 @@ page_images:
     <p><a href="quadrata.htm">Black Chut-chut</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Horn
-snails   
-Family
-Potamididae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +58,8 @@ visit to our mangroves.
 are edible and were eaten in the past, less so these days.  
 ![](../../../photos/bullet.gif) Most are harmless herbivores, nibbling on algae.
   
-**Where
-seen?** Horn snails are common in our mangroves but often overlooked. Small ones creep on mangrove tree trunks and leaves, larger ones are found on mud.  
+## Where seen?
+ Horn snails are common in our mangroves but often overlooked. Small ones creep on mangrove tree trunks and leaves, larger ones are found on mud.  
   
 **Features:** Shell long and conical.
 Operculum is made of a horn-like material usually with a tight

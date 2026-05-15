@@ -48,37 +48,9 @@ page_images:
     <p>Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940594788158&set=a.10159940599688158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-> Family [Soleidae](soleidae)
-**Commerson's
-sole**  
-***Synaptura commersonnii***  
-**Family Soleidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This large plain flatfish is sometimes seen on our
+## Where seen?
+ This large plain flatfish is sometimes seen on our
 Northern shores, on sandy areas near seagrasses.  **Features:** Those seen about 20cm, grows to about 30cm long.
 Eyes on right side. Body elongated oval tapering towards the tail.
 The tail fin is joined to the dorsal and anal fins. Fins are dark

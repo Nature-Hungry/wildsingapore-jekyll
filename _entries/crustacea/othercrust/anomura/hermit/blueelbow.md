@@ -58,38 +58,9 @@ page_images:
     <p>](http://www.flickr.com/photos/artour_a/8453465066/ "Blue-spot hermit crab (Paguristes longirostris) by Arthur Anker, on Flickr") 24 Jan 2013, Comprehensive Marine Biodiversity Survey Photo shared by Arthur Anker on <a href="http://www.flickr.com/photos/artour_a/8453465066/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Blue-elbowed
-hermit crab *Paguristes longirostris\**  
-Family Diogenidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This beige hermit crab with bright blue 'elbows'
+## Where seen?
+ This beige hermit crab with bright blue 'elbows'
 is sometimes seen on silty shores.  
   
 **Features:** Body about 2-3cm long,

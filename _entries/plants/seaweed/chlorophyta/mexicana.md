@@ -45,36 +45,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Mexican
-green seaweed  
-*Caulerpa mexicana\** Family Caulerpaceae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This feathery green seaweed is sometimes seen in small patches on our Southern shores. It was also called *Caulerpa crassifolia*.  
+## Where seen?
+ This feathery green seaweed is sometimes seen in small patches on our Southern shores. It was also called *Caulerpa crassifolia*.  
   
 **Features:** A feather-like structure about 2cm long. The mid-rib or central 'stem' of the feathery structure
 is flat and usually with a width wider or the same as the length of

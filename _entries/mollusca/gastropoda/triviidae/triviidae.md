@@ -45,34 +45,9 @@ page_images:
     <p>Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24881062736/in/album-72157607718672165/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Bean
-cowries**   
- **Family Triviidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This tiny snail resembles a cowrie but belongs to
+## Where seen?
+ This tiny snail resembles a cowrie but belongs to
 a different family. It is found in coral reefs under rocks.  
   
 **Features:** About 1cm. The shell

@@ -100,38 +100,9 @@ page_images:
     <p>Mating pair  Pulau Semakau, Dec 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3170131170/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Powder
-blue-clawed swimming crab**  
-***Thalamita
-crenata*\*   
-Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This swimming crab with powder blue pincers is sometimes
+## Where seen?
+ This swimming crab with powder blue pincers is sometimes
 seen near seagrasses and reefs on some of our shores. Elsewhere, they
 are also found in mangroves and soft-silty bottoms near rocky areas
 without reefs.  

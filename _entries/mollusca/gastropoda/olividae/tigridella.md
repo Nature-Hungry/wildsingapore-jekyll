@@ -57,37 +57,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Olividae](olividae.htm)
-**Tigerish
-olive snail**  
- ***Oliva tigridella\**  
-Family Olividae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small bullet-shaped snail is sometimes seen
+## Where seen?
+ This small bullet-shaped snail is sometimes seen
 on our Northern shores. A burrowing snail, it is more
 often seen above the ground at night or with the incoming tide.   
   

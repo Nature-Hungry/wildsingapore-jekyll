@@ -59,37 +59,9 @@ page_images:
     <p>Pulau Semakau, Oct 09Video shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4036654188">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Wedge
-sea hare**  
-***Dolabella auricularia*  
-Family Aplysiidae***updated
-Sep 2023*
-
----
-
-**Where
-seen?** This very large sea hare is sometimes seen on our Southern shores on in reefy areas well camouflaged among Sargassum seaweeds. Elsewhere found in sheltered lagoons, seagrass beds, sand or mud, and large intertidal rockpools.  
+## Where seen?
+ This very large sea hare is sometimes seen on our Southern shores on in reefy areas well camouflaged among Sargassum seaweeds. Elsewhere found in sheltered lagoons, seagrass beds, sand or mud, and large intertidal rockpools.  
   
 **Features:** 20-25cm. An enormous sea hare that is sometimes mistaken for a cuttlefish! It is covered in short spikes and well camouflaged. Unlike other sea hares, it doesn't have two obvious flaps at the top of the body. The back side is a sloping disk-like shield with one large siphon in the middle - where the animal exhales and where purple ink is discharged. Buried in the tissue of this "back shield" is a large flattened, heavily calcified shell. In the midline, in front of the shield is a smaller groove housing the inhalant siphon which draws water in to the almost totally enclosed mantle cavity. It has a small head with really tiny rhinophores. Said to be variable in colour, usually mottled shades of green and brown which make it extremely well camouflaged. The foot is smooth and paler. Like some other sea hares, it produces a
 purple ink when disturbed.  

@@ -50,21 +50,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Elegant
-branching sponge *Haliclona* sp.\*  
-Family
-Chalinidae***updated Oct 2016*
-
----
-
-**Where
-seen?**
 This elegant branching sponge is often seen on our Northern shores,
 growing on hard surfaces, including pipes, jetty legs, abandoned drums.
 Usually near the mid-water mark. **Features:** The sponge

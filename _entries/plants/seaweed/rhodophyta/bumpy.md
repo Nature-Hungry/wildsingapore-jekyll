@@ -85,35 +85,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Bumpy
-finger seaweed  
-*Eucheuma* sp. and *Kappaphycus* sp.** **Family Solieriaceae***updated
-Jan 13*
-
----
-
-**Where
-seen?** Small clumps of this sturdy branching seaweed is sometimes seen on
+## Where seen?
+ Small clumps of this sturdy branching seaweed is sometimes seen on
 our undisturbed Southern shores, very firmly attached to coral rubble
 near reefs.  
   

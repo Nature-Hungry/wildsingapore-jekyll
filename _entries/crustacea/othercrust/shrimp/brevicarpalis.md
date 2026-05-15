@@ -136,37 +136,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/24292062483/ "Peacock-tail anemone shrimp (Periclimenes brevicarpalis) on Haddon's carpet anemone (Stichodactyla haddoni)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**Peacock-tail
-anemone shrimp**  
-***Ancylocaris brevicarpalis*****Family Palaemonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This chubby shrimp with black-ringed orange spots on its tail is often
+## Where seen?
+ This chubby shrimp with black-ringed orange spots on its tail is often
 seen in large sea anemones on many of our shores. Usually a pair are
 seen in one anemone, living safely among tentacles that would otherwise sting other animals. Elsewhere, seen from 1-5m deep. It is also sometimes
 called the Clown anemone shrimp. It was previously *Periclimenes brevicarpalis*.  

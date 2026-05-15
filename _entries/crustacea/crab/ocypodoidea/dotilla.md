@@ -80,33 +80,6 @@ page_images:
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889929146/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Soldier
-crab**   
-***Dotilla myctiroides*****Family Dotillidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -117,8 +90,8 @@ step on them!
 most crabs, they can run forwards, backwards as well as
 sideways.
   
-**Where
-seen?** This amusing tiny ball-shaped crab with enormously
+## Where seen?
+ This amusing tiny ball-shaped crab with enormously
 elongated pincers is sometimes seen on natural sand bars. While the
 shy crab itself is seldom seen (it hides as soon as it senses footsteps
 far away), the balls of sand that it leaves on the shore at low tide

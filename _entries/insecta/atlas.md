@@ -43,20 +43,9 @@ page_images:
     <p>Chek Jawa, Jun 08Photo shared by Wong Ley Kun on <a href="http://nakedhermitcrabs.blogspot.sg/2008/06/1-june-08-what-our-bukit-batok-guests.html">her blog.</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Atlas
-moth  
-*Attacus atlas*  
-Family Saturniidae***updated
-Nov 2019*
 
----
-
-**Where
-seen?** Like a magic furry flying carpet, this enormous moth
+## Where seen?
+ Like a magic furry flying carpet, this enormous moth
 is sometimes seen in our mangroves and other wild places. Atlas Moths
 are found only in Southeast Asia. They are common in Singapore, especially
 in November-January, although they are found throughout the year.  

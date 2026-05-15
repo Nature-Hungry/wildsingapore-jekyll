@@ -64,21 +64,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Orange
-blob sponge  
-*Mycale* sp.\*Family Mycalidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This bright orange sponge is sometimes seen on coral rubble on some
+## Where seen?
+ This bright orange sponge is sometimes seen on coral rubble on some
 of our shores.  **Features:** 8-10cm
 in diameter. The sponge starts inside a crevice but can eventually
 grow into a dome-shaped or oval shape with a smooth surface, sometimes

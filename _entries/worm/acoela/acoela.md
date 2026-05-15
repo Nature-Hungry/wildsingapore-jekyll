@@ -60,18 +60,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-**Acoel
-worms  
-*awaiting identification*Order Acoela***updated Oct 2016*
-
----
-
- **Where
-seen?** These tiny flattened worms are often seen on other
+ ## Where seen?
+ These tiny flattened worms are often seen on other
 animals, usually [cnidarians](../../cnidaria/cnidaria) such as [hard corals](../../cnidaria/coralhard/coralhard) of various species and [corallimorphs](../../cnidaria/others/corallimorphs/corallimorph).  
   
 **What are aceol flatworms?** They

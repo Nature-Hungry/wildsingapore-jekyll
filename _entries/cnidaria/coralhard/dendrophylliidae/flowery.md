@@ -135,37 +135,9 @@ page_images:
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Dendrophyllidae](dendrophyllidae.htm) >
-[*Turbinaria* sp.](turbinaria.htm)
-**Flowery
-disk coral  
-*Turbinaria peltata*** **Family Dendrophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This hard coral that forms thick plates with large
+## Where seen?
+ This hard coral that forms thick plates with large
 fat polyps can grow in
 murky water. So it is among the most commonly encountered hard corals in the South, and is even seen on our Northern shores.   
   

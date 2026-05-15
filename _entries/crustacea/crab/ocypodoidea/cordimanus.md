@@ -49,35 +49,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda) > Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda) > Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Smooth-eyed
-ghost crab**  
-***Ocypode cordimanus***  
-**Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This crab is seldom seen, usually on the higher shore.
+## Where seen?
+ This crab is seldom seen, usually on the higher shore.
 It was previously also called *Ocypode cordimana*.  
   
 **Features:** Body width about 5cm.

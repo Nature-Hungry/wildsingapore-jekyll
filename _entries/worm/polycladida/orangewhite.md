@@ -101,24 +101,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Halloween
-flatworm  
-*Pseudobiceros* sp. 5*\******Family
-Pseudocerotidae***updated Feb 2020*
-
----
-
-**Where
-seen?** This black flatworm with orange and white ruffled margins is all ready for Halloween. It is sometimes seen on the reefs of some Southern shores.  
+## Where seen?
+ This black flatworm with orange and white ruffled margins is all ready for Halloween. It is sometimes seen on the reefs of some Southern shores.  
   
 **Features:** 5-8cm long. Body black with
 broad white and orange margins. Sometimes three narrow white parallel lines in the centre starting from the head, fading towards the end of the body, the two outer lines wider, the central line much narrower. Underside black with orange margins. It has a pair of

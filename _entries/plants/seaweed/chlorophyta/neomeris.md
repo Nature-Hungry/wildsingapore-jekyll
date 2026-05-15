@@ -57,36 +57,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg"
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**'Taugeh'
-seaweed  
-*Neomeris* sp.\*  
-Family Dasycladaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This curious comma-shaped white-and-green seaweed is commonly seen on our Southern
+## Where seen?
+ This curious comma-shaped white-and-green seaweed is commonly seen on our Southern
 shores. They do resemble 'Taugeh', the local name for beansprouts
 (from soya beans). Sometimes large clusters of the seaweed can be
 seen, at other times, only small scattered clusters. On small stones

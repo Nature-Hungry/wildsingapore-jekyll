@@ -70,37 +70,9 @@ page_images:
     <p>314pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Penaeid
-prawns  
-Family Penaeidae***updated Feb 2020*
-
----
-
-**Where
-seen?** These large prawns are commonly seen on many of our
+## Where seen?
+ These large prawns are commonly seen on many of our
 shores, usually in sandy, silty areas and near seagrasses. They are
 more active at night, during the day hiding in the sand.  
   

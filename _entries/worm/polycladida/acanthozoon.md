@@ -131,21 +131,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Spangled flatworm  
-*Acanthozoon* sp.  
-Family Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** Like a glittery black evening gown, this amazingly large flatworm is commonly seen especially
+## Where seen?
+ Like a glittery black evening gown, this amazingly large flatworm is commonly seen especially
 on our Southern shores. On coral rubble, near living reefs. Seasonally,
 it can be plentiful, with many worms encountered during a single visit.  
   

@@ -48,36 +48,9 @@ page_images:
     <p>Beting Bronok, Jul 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Muraenidae](muraenidae.htm)
-**Brown-spotted
-moray eel  
-*Gymnothorax reevesii***  
-**Family Muraenidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 spotted snake-like fish is sometimes seen on our Northern shores,
 near reefs and among coral rubble. Sometimes just the head is poking out of its lair. At night, can be seen hunting actively in shallow water, lunging suddenly
 when prey is spotted.   

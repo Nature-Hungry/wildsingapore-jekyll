@@ -51,36 +51,9 @@ page_images:
     <p>Sentosa, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-mangrove
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Sea
-teak   
-*Podocarpus polystachyus***  
-**Family Podocarpaceae*****updated
-Jan 13*
-
----
-
-**Where seen?** These hardy pines with refreshingly bright
+## Where seen?
+  These hardy pines with refreshingly bright
 green leaves are still found on the natural cliffs of Sentosa. But
 as suitable habitats are becoming increasingly rare, so too are the
 trees. It is believed that there are less than 50 wild specimens of

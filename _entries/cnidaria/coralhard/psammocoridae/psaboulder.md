@@ -78,36 +78,9 @@ page_images:
     <p>Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5020268811423188&set=a.5020288291421240">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Psammocoridae](psammocoridae)
-**Boulder
-sandpaper coral** ***Psammocora* sp.\*  
-Family Psammocoridae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This smooth boulder-shaped coral with tiny star-like
+## Where seen?
+ This smooth boulder-shaped coral with tiny star-like
 corallites is sometimes seen on some of our shores.  
   
 **Features:**Colonies 20-40cm,

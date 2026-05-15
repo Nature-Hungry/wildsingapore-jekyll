@@ -56,21 +56,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Malayan
-water monitor  
-*Varanus salvator*  
-Family Varanidae***updated
-Apr 2018*
-
----
-
-**Where
-seen?** This large lizard is commonly seen on many of our
+## Where seen?
+ This large lizard is commonly seen on many of our
 shores, including our offshore islands. According to Baker, they are
 found in forests, mangroves, scrubland and beaches where they tend
 to stay close to water. As well as in large canals in built up areas.  

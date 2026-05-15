@@ -51,32 +51,9 @@ page_images:
     <p>Pulau Ubin, Sep 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Kachang-kachang   
-*Aegiceras corniculatum*  
-Family Primulaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** A rare shrub. According to Ng, it was found
+## Where seen?
+  A rare shrub. According to Ng, it was found
 in various northern sites and Pulau Unum. According to Hsuan Keng,
 it was found in mangroves including Tuas, Changi, Lim Chu Kang and
 Pulau Ubin. According to Davison, it is found on Pulau Unum, Sungei

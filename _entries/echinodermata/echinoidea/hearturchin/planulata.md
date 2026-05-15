@@ -68,36 +68,9 @@ page_images:
     <p>Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482923158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [heart
-urchins](hearturchin)
-**Tiny
-maretia heart urchin  
-*Maretia planulata\**  
-Family Maretiidae***updated Jan 2020*
-
----
-
-**Where
-seen?** Small ones are sometimes seen on Pulau Semakau, in sandy areas of
+## Where seen?
+ Small ones are sometimes seen on Pulau Semakau, in sandy areas of
 the coral rubble area.According to Lane, were collected subtidally
 at Pulau Semakau by dredging. Other larger ones are sometimes seen
 on Pulau Sekudu, usually only their skeletons and seldom, living ones.  

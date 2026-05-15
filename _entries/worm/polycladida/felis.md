@@ -23,24 +23,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Feline
-flatworm  
-Pseudocerotid 8****Family
-Pseudocerotidae***updated May 2020*
-
----
-
-**Where
-seen?** Seen once on a remote reef. Although it looks like *Pseudoceros felis*, its identity is still awaiting confirmation.  
+## Where seen?
+ Seen once on a remote reef. Although it looks like *Pseudoceros felis*, its identity is still awaiting confirmation.  
   
 **Features:** 8-10cm long. Body mottled
 cream or yellow with dark tiny blotches on a grey background. Edges

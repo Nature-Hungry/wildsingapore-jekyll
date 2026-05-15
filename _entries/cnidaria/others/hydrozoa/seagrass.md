@@ -33,34 +33,9 @@ page_images:
     <p>On <a href="../../../plants/seagrass/ovalis">Spoon seagrass</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Seagrass
-hydroid*****awaiting
-identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** Tiny feathery creatures that grow on the leaf blades
+## Where seen?
+ Tiny feathery creatures that grow on the leaf blades
 of seagrasses.  
   
 **Features:** 0.5cm long or shorter.

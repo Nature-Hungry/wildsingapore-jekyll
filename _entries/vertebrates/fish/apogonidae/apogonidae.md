@@ -53,30 +53,6 @@ page_images:
     <p><a href="melas">Black cardinalfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Cardinalfishes**  
-**Family Apogonidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +61,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Don't
 touch them, some can give a nasty bite!
   
-**Where
-seen?** These big-eyed fishes are commonly seen on many of
+## Where seen?
+ These big-eyed fishes are commonly seen on many of
 our shores. They are small and often well hidden in pools. They swim
 about more actively at night than during the day.  
   

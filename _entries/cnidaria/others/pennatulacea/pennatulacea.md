@@ -62,33 +62,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-seapens [text
-index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class
-[Anthozoa](../../anthozoa)
-> Subclass Alcyonaria/Octocorallia > Order Pennatulacea
-**Sea
-pens**   
-**Order Pennatulacea***updated
-Sep 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -98,8 +71,8 @@ learn only 3 things about them ...
 low tide, they retract into the ground. Don't step on
 them!
   
-**Where
-seen?** These strange animals are commonly seen on our Northern
+## Where seen?
+ These strange animals are commonly seen on our Northern
 shores. In soft, silty sand near seagrasses. At low tide, they are
 often retracted completely into the sand. Sometimes, an "uprooted"
 sea pen might be seen washed up on the shore or stranded in a pool.   

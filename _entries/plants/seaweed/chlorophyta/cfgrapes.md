@@ -62,32 +62,6 @@ page_images:
     <p><a href="bornetella">Green sea sausage seaweed</a> Bornetella sp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text
-index](../seaweedindex) | [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Sea
-grapes compared  
-How to tell them apart?  
-*updated
-Jan 13***
-
----
 
 Here's how to
 tell apart these two green seaweeds with little round shapes.

@@ -54,36 +54,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2007/08/anemones-co-at-kusu.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Striped
-bead anemone**  
-***Paracondylactis singaporensis***  
-**Family Actiniidae***updated Dec 2024*
-
----
-
-**Where
-seen?** This small anemone is commonly seen especially
+## Where seen?
+ This small anemone is commonly seen especially
 on our Northern shores. Even relatively "beat up" shores
 with few other lifeforms will have these anemones. It is often
 found in small clusters of a few individuals. It settles wedged in

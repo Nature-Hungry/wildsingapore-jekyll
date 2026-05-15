@@ -31,36 +31,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Neritidae](neritidae.htm)
-**Grey
-mangrove nerite snail**   
-***Nerita undulata*Family Neritidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 snail is sometimes seen in large numbers in mangroves. The study by
 Tan & Clements (2008) found this snail on mangrove tree trunks
 and roots, among and under rocks in interior or coastal fringes in

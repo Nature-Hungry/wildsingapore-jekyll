@@ -86,33 +86,6 @@ page_images:
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353335158/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Plotosidae](plotosidae)
-**Striped
-eeltail catfish  
-*Plotosus lineatus*  
-Family Plotosidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -123,8 +96,8 @@ in murky waters.
 ![](../../../photos/bullet.gif)It
 has venomous spines. Don't touch it!
   
-**Where
-seen?** This eel-like fish in pajamas is often seen on many of our shores,
+## Where seen?
+ This eel-like fish in pajamas is often seen on many of our shores,
 among seagrasses, coral rubble and near reefs. Tiny to small ones often a ball
 of many squirming individuals, while larger ones are seen in smaller
 groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide. **Features:** Adults can reach about 30cm long, those seen

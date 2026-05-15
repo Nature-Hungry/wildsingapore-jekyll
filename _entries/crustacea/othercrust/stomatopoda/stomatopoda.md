@@ -57,33 +57,6 @@ page_images:
     <p><a href="banded">Banded mantis shrimp</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-mantis shrimps
-[text index](../../crustaceaindex#stomatopoda) | [photo
-index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order Stomatopoda
-**Mantis
-shrimps**  
-**Order Stomatopoda***updated
-Mar 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -93,8 +66,8 @@ to a totally different group.
 ![](../../../photos/bullet.gif)They
 have pincers modified into fearsome weapons.
   
-**Where
-seen?** These large and busy shrimp-like animals are often seen on our Northern
+## Where seen?
+ These large and busy shrimp-like animals are often seen on our Northern
 shores, especially among seagrasses.   
   
 **What are mantis shrimps?** Mantis

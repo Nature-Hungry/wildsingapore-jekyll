@@ -93,20 +93,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Twin-barred brittle star**  
-***awaiting identification\*****updated
-May 2024*
-
----
-
-**Where
-seen?** This brittle star with colourful banded and 'smooth' arms is sometimes encountered
+## Where seen?
+ This brittle star with colourful banded and 'smooth' arms is sometimes encountered
 on our Southern shores, under stones and rocks near reefs. Its smooth and banded pattern on the upperside reminds us of the Twin-barred Tree snake.   
   
 **Features:** Disk

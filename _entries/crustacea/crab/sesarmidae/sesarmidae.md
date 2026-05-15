@@ -47,32 +47,6 @@ page_images:
     <p><a href="sarmatium">Mound crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Sesarmid
-crabs**   
-**Family Sesarmidae***updated Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -82,7 +56,8 @@ and scramble over hard surfaces.
 ![](../../../photos/bullet.gif)They
 are very shy and disappear at the slightest sign of trouble.
   
-**Where seen?** Small sesarmid crabs
+## Where seen?
+  Small sesarmid crabs
 are commonly seen in our mangroves, especially at night. There are
 as many as 40 species of these crabs in our mangroves. They are often
 hard to spot as they are well camouflaged, although some may have

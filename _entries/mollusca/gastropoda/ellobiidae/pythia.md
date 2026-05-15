@@ -37,36 +37,9 @@ page_images:
     <p>Sungei Buloh Besar, Apr 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ellobiidae](ellobiidae.htm)
-**Pythia
-snail*****Pythia* sp.**  
- **Family Ellobiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This odd-shaped snail is sometimes seen in our back
+## Where seen?
+ This odd-shaped snail is sometimes seen in our back
 mangroves, on leaves and trunks of mangrove trees and mangrove plants. Sometimes seen in clusters of a few individuals. [Pronounced
 'pith-ee-uh'](http://dictionary.reference.com/browse/pythia), in Greek mythology 'Pythia' is the priestess of
 Apollo who delivered the oracles at Delphi.  

@@ -41,36 +41,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160866040/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Trochidae](trochidae.htm)
-**Toothed
-top shell snail**  
-***Monodonta labio*****Family
-Trochidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This snail with a tooth in its shell opening is commonly
+## Where seen?
+ This snail with a tooth in its shell opening is commonly
 seen on many of our shores. Often seen in groups on boulders, stones
 and seawalls on many of our shores. It is more active at night.  
   

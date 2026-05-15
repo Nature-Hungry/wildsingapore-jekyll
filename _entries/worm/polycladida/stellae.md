@@ -69,24 +69,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301kusg5358m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Starry
-flatworm  
-*Pseudobiceros stellae\******Family
-Pseudocerotidae***updated Feb 2020*
-
----
-
-**Where
-seen?** This moderately large flatworm that looks like a starry night sky is sometimes seen, usually in numbers, and then not again for a while.
+## Where seen?
+ This moderately large flatworm that looks like a starry night sky is sometimes seen, usually in numbers, and then not again for a while.
 Near living reefs on some of our Southern shores.   
   
 **Features:** 4-8cm long. Usually with deep ruffles. Body pale brown to black with white speckles and dots forming clusters of various sizes.

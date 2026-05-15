@@ -97,36 +97,9 @@ page_images:
     <p>Pulau Salu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158234252311295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Blue
-dragon nudibranch  
-*Pteraeolidia ianthina*  
-Family Facelinidae***updated Jun 2023*
-
----
-
-**Where
-seen?** This brilliant nudibranch is often seen on many of our shores, in
+## Where seen?
+ This brilliant nudibranch is often seen on many of our shores, in
 coral rubble and near reefs. It is also commonly seen by divers.  
   
 **Features:** 3-5cm.

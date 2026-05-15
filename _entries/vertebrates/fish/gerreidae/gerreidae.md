@@ -73,32 +73,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407084428713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Mojarra**  
- **Family Gerreidae***updated Sep 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 little silvery fishes with dark diagonal bars is often seen at low tide on many of our shores, in sandy areas near seagrasses,
 reefs and rubble. Sometimes in groups of many small individuals with small fishes of other species. This fish has a widespread distribution in the Indo-Pacific.**What are Mojarras?** Also called Silver-biddies or Silver
 bellies, they belong to Family Gerridae (some place them in the Family

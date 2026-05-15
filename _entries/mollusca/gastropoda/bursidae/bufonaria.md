@@ -45,35 +45,9 @@ page_images:
     <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078843158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Frog
-snail**   
-***Bufonaria* sp.** **Family Bursidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** Although the shells are often seen (usually occupied
+## Where seen?
+ Although the shells are often seen (usually occupied
 by hermit crabs), living snails are rarely seen. Usually at the lowest
 tides near seagrass meadows on our Northern and Eastern shores. Apparently,
 the name is due to the warty texture of the shell.   

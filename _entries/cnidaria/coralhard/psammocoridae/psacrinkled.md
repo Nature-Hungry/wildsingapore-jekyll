@@ -93,36 +93,9 @@ page_images:
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Psammocoridae](psammocoridae)
-**Crinkled
-sandpaper coral** ***Psammocora* sp.  
-Family Psammocoridae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard corals with short crinkly branches is commonly
+## Where seen?
+ This hard corals with short crinkly branches is commonly
 seen on many of our Southern shores  
   
 **Features:**Colonies 15-30cm,

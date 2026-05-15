@@ -73,19 +73,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum Hemichordata > Class
-Enteropneusta
-**Acorn
-worms****Class Enteropneusta***updated
-Oct 2016*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)They
@@ -95,8 +82,8 @@ are advanced worms and play a role in recycling nutrients.
 ![](../../photos/bullet.gif)
 They are very delicate. Don't dig them up!
   
-**Where
-seen?**
+## Where seen?
+
 Evidence of this curious animal is commonly seen on many of our shores.
 On sand bars, in sandy areas especially near seagrasses. The animal
 itself is almost never seen above ground. All that most people see

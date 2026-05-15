@@ -82,34 +82,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants)
-****Peria
-laut** ***Colubrina asiatica***  
-**Family Rhamnaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** This pretty climber with glossy green leaves,
+## Where seen?
+  This pretty climber with glossy green leaves,
 tiny star-shaped flowers and round fruits is sometimes seen on our
 shores. It was commonly seen along our coasts including Geyland and
 Changi. It is common on the Peninsula on both coasts and is also common

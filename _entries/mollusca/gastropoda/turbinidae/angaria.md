@@ -44,36 +44,9 @@ page_images:
     <p>Beting Bemban Besar, May 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159726922558654&set=a.10159726900588654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Dolphin
-snail**   
-***Angaria delphinus*****Family
-Angariidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large snail with an encrusted shell but pearly
+## Where seen?
+ This large snail with an encrusted shell but pearly
 inner mouth is sometimes seen on some of our reefy shores. It was previously associated with the Family Trochidae.  
   
 **Features:** 4-6cm. Shell thick heavy, flattened coil with stubby spikes on the outer edge. Upperside usually hidden under a thick layer of encrusting lifeforms. We should not clean off

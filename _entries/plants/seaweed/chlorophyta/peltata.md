@@ -62,37 +62,9 @@ page_images:
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Big
-parasol green seaweed  
-*Caulerpa peltata\**** **Family Caulerpaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?**
 This green seaweed with small fleshy 'umbrellas' is commonly seen
 on some of our shores, growing on coral rubble near reefs.  
   

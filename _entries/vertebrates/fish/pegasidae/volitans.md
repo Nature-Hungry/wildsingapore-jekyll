@@ -96,33 +96,6 @@ page_images:
     <p>Pulau Semakau South, Feb 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153934852983713.1073742004.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Slender
-seamoth  
-*Pegasus
-volitans*  
-Family Pegasidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -133,8 +106,8 @@ like the seahorse.
 ![](../../../photos/bullet.gif)They
 are collected for the traditional Chinese medicine trade.
   
-**Where
-seen?** This odd long-nosed fish with wings is sometimes
+## Where seen?
+ This odd long-nosed fish with wings is sometimes
 seen on some of our shores. At some times of the year, several may
 be seen on a single trip and then not to be seen again for some time.
 An active little fish, it is sometimes seen swimming about among seagrasses

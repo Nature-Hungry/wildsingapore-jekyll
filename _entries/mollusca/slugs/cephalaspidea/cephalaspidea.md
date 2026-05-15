@@ -47,38 +47,9 @@ page_images:
     <p><a href="philine.htm">'Attap chee' slug</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order Cephalaspidea
-**Headshield
-snails and slugs  
-Order Cephalaspidea***updated
-May 2020*
-
----
-
-**Where
-seen?** These odd snails and slugs seen on some of our shores
+## Where seen?
+ These odd snails and slugs seen on some of our shores
 with seagrasses and mangroves.  
   
 **What are headshield slugs?** Headshield

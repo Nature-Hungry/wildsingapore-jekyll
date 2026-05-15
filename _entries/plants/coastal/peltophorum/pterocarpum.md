@@ -113,36 +113,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Yellow
-flame   
-*Peltophorum pterocarpum***  
-**Family Fabaceae/Leguminosae*****updated
-Aug 09*
-
----
-
-**Where seen?** According to Hsuan Keng, it was formerly a
+## Where seen?
+  According to Hsuan Keng, it was formerly a
 native tree at Changi coast but considered extinct. It is now sometimes
 found on rocky and sandy coastal areas and back mangroves, ostensibly
 dispersed from cultivated trees. This showy tree is also extensively

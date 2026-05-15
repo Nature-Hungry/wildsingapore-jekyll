@@ -33,36 +33,9 @@ page_images:
     <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484931383713&set=a.10159484959768713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Labridae](labridae)
-**Singapore
-tuskfish**   
-***Choerodon oligacanthus***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large fish was seen at Cyrene Reef. Elsewhere,
+## Where seen?
+ This large fish was seen at Cyrene Reef. Elsewhere,
 they are usually seen in sand-rubble next to coastal reefs, usually in turbulent water with muddy substrates. It is also called the
 White-patch tuskfish.  
   

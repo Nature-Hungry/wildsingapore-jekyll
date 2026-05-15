@@ -41,34 +41,9 @@ page_images:
     <p>Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10159136902943119&set=pcb.10159136917293119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Sepiidae](sepiidae.htm)
-**Glittering
-cuttlefish *Sepiella inermis*** **Family Sepiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small stout cuttlefish edged with iridescent
+## Where seen?
+ This small stout cuttlefish edged with iridescent
 glittering spots is sometimes seen among seagrasses especially on
 our Northern shores. It is also called the Spineless cuttlefish because
 its cuttlebone lacks a spine at the tip that many other cuttlefishes

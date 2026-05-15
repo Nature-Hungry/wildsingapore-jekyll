@@ -59,24 +59,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Solitary
-tubeworm  
-*Diopatra* sp.\*  
-Family Onuphidae***updated
-Oct 2025*
-
----
-
-**Where
-seen?**  Like rubber hoses sticking out of the ground, the sturdy tubes of
+## Where seen?
+  Like rubber hoses sticking out of the ground, the sturdy tubes of
 this worm are commonly seen on all our shores including sandy shores
 near seagrass areas and soft silty areas near mangroves. The tubes
 are usually spaced apart from one another.  

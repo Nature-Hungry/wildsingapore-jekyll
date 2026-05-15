@@ -28,21 +28,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Brownie
-sponge  
-*Hyattella tubaria**\**Family Spongiidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores. **Features:** Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
  

@@ -54,22 +54,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Black
-prickly sponge  
-*Echinodictyum conulosum\** Family
-Raspailiidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This black prickly sponge is sometimes seen on our Northern shores. **Features:** A small prickly bushy shape made up of lobes
 with many large cavities. Texture with many prickly spikes. The skeleton
 is made up of a large proportion of silica to spongin and it has thick,

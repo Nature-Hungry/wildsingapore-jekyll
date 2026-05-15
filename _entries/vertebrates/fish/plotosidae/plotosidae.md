@@ -46,31 +46,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Eeltail
-catfishes  
-Family Plotosidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -81,8 +56,8 @@ in murky waters.
 ![](../../../photos/bullet.gif)They
 have venomous spines. Don't touch them!
   
-**Where
-seen?** These squirmy fishes that resemble eels are the only
+## Where seen?
+ These squirmy fishes that resemble eels are the only
 catfishes commonly seen in coral reefs and intertidal areas. They
 are sometimes abundant on many of our shores. Juveniles about 10cm
 long or smaller can be seen close to mid-water mark, while larger

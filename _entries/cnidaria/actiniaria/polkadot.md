@@ -60,36 +60,9 @@ page_images:
     <p>Pulau Semakau East, Jul 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/media/set/?set=a.10153415231599000.1073741968.589418999&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Polka
-dot anemone**  
-***Awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This small anemone with large polka dots on its
+## Where seen?
+ This small anemone with large polka dots on its
 body column is sometimes seen in seagrass meadows.  
   
 **Features:** Diameter 3-4cm with tentacles expanded. Many tentacles, tapering translucent

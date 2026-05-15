@@ -31,37 +31,9 @@ page_images:
     <p>Teeth at narrow shell opening Kusu Island, Dec 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Muricidae](muricidae.htm)
-**Knobbly
-drill**  
-***Morula*** **sp.*****\****  
-**Family Muricidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This drill
+## Where seen?
+ This drill
 is sometimes seen on our Southern shores. Usually in groups on boulders
 as well as man-made structures such as seawalls.  
   

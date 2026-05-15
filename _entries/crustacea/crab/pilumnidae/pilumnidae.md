@@ -40,36 +40,9 @@ page_images:
     <p><a href="featherstar">Feather star crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Piluminid
-crabs**   
-**Family Pilumnidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** The most commonly seen member of this family on our
+## Where seen?
+ The most commonly seen member of this family on our
 shores are the [Common hairy crabs](pilumnus) (*Pilumnus* sp.) near rubble and reefs.  
   
 **Features:** Not all pilumnid crabs

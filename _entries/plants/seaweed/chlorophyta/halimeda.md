@@ -33,36 +33,9 @@ page_images:
     <p><a href="halbig">Big coin green seaweed</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Coin
-green seaweeds  
-*Halimeda* sp.\*** **Family Halimedaceae***updated
-Jan 12*
-
----
-
-**Where
-seen?**
 These seaweeds are made up of small, hard segments that are joined
 together. They are commonly seen on many of our shores, usually growing
 on coral rubble or among living corals, as well as in sandy areas

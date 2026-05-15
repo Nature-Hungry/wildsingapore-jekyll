@@ -88,36 +88,9 @@ page_images:
     <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi1)
-Phylum
-[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
-> Order
-[Clypeasteroida](sandollar)
-**Keyhole
-sand dollar  
-*Echinodiscus* sp.Family Astriclypeidae***updated Mar 2020*
-
----
-
-**Where
-seen?** This large sand dollars with slots is sometimes seen
+## Where seen?
+ This large sand dollars with slots is sometimes seen
 sandy areas near seagrasses on Chek Jawa and Changi. It is not found
 in large groups like the [Cake sand dollar](arachnoides),
 usually alone. It was previously known as *Echinodiscus bisperforatus*.  

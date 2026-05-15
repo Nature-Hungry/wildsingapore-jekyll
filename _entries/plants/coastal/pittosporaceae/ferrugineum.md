@@ -66,36 +66,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Belalang
-puak   
-*Pittosporum ferrugineum***  
-**Family Pittosporaceae*****updated
-Feb 11*
-
----
-
-**Where seen?** According to Hsuan Keng it was often seen along
+## Where seen?
+  According to Hsuan Keng it was often seen along
 seashores, including at Kranji, Changi and Seletar. According to Corners,
 it was common on rocky and sandy shores and in sandy scrub in Malaya.
 As well as behind mangroves and in some places may even occur far

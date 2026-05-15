@@ -146,37 +146,9 @@ page_images:
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Lobophylliidae](mussidae)
-**Grooved
-brain coral**  
-***Lobophyllia* sp.\*  
-Family Lobophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This fleshy dome-shaped hard coral that resembles a brain is often
+## Where seen?
+ This fleshy dome-shaped hard coral that resembles a brain is often
 seen on many of our Southern shores. Previously *Symphyllia* species now mostly known as *Lobophyllia*.  
   
 **Features:** Colonies seen about

@@ -91,35 +91,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
-**Frilled
-corallimorph**  
-***Rhodactis inchoata*****Family Discosomidae***updated Jul 2024*
-
----
-
-**Where
-seen?** This little animal with a delicate fringe around
+## Where seen?
+ This little animal with a delicate fringe around
 the edge of its disk-shaped body is sometimes encountered on our Southern
 shores, in coral rubble areas.  
   

@@ -37,36 +37,9 @@ page_images:
     <p>St John's Island, Oct 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10163153532268654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Green-shouldered
-goby**  
-***Acentrogobius caninus\****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This little goby is sometimes seen on our Northern shores among
+## Where seen?
+ This little goby is sometimes seen on our Northern shores among
 seagrasses and mangroves.  
   
 **Features:** Up to about 10cm, those

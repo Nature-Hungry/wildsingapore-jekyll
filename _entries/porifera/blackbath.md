@@ -47,20 +47,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Black
-bath sponge Family
-Spongiidae***updated Oct 2016*
-
----
-
-**Where
-seen?**
 A black sponge that is sometimes seen on some of our shores, often
 covered in sediments. These sponges are often seen on silty reef flats.
  **Features:** Generally

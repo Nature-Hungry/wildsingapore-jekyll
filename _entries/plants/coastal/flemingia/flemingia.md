@@ -69,37 +69,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-coastal
-plants [text
-index](../../coastal/callophylum/coastalindex.htm) | [photo
-index](../../coastal/callophylum/coastalfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Serengan
-  
-*Flemingia strobilifera***  
-**Family** Fabaceae***updated
-Aug 09*
-
----
-
-**Where seen?** This strange bush with tassels of dry flower
+## Where seen?
+  This strange bush with tassels of dry flower
 bracts are planted at Chek Jawa. According to Burkill, it was found
 from India to the "furthest part of Malaysia". It was common
 in the Peninsula in more inhabitated places. According to Hsuan Keng

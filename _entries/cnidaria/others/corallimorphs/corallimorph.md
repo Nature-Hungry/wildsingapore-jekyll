@@ -74,32 +74,6 @@ page_images:
     <p><a href="balltip.htm">Ball-tip corallimorphs</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order Corallimorpharia
-**Corallimorphs**  
-**Order Corallimorpharia***updated
-Nov 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -110,8 +84,8 @@ central mouth.
 often grow over coral rubble or stones. Don't step on
 them!
   
-**Where
-seen?** These little disk-shaped animals are commonly encountered
+## Where seen?
+ These little disk-shaped animals are commonly encountered
 on our Southern shores, where they can sometimes form carpets over
 coral rubble.  
   

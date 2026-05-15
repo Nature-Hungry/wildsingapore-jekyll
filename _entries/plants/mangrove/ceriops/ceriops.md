@@ -51,32 +51,9 @@ page_images:
     <p>Red collar on 'ripe' propagule.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Tengar   
-*Ceriops* sp.  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** Usually neat and tidy trees or bushes. Sometimes seen in our mangroves.  
+## Where seen?
+  Usually neat and tidy trees or bushes. Sometimes seen in our mangroves.  
   
 **Features:** A short tree sometimes
 just a bush, older plants may have well developed knee roots. The

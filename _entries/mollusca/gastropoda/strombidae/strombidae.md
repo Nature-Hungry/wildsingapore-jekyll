@@ -74,32 +74,6 @@ page_images:
     <p><a href="lambis.htm">Spider conch</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Conch
-snails**   
-**Family Strombidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -116,7 +90,8 @@ are better known to many Singaporeans as seafood. But once you've
 seen a living Conch, you would hardly bear to eat it. With its large
 eyes and lively habits (for a snail), it seems cruel to snack on it.   
   
-**Where seen?** These snails are encountered
+## Where seen?
+  These snails are encountered
 on both our Northern and Southern shores. Some, however, are no longer
 as commonly seen as in the past. Conch snails, even the larger ones,
 are hard to spot as they are usually half buried and their shells

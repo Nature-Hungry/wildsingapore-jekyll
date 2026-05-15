@@ -45,34 +45,6 @@ page_images:
     <p><a href="dotted.htm">Dotted dove snail</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Dove
-snails**  
- **Family Columbellidae***updated
-Jul 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -80,7 +52,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif) Some are well camouflaged. Look carefully for them.  
 ![](../../../photos/bullet.gif)Some
 shells may contain tiny hermit crabs and not living snails!
- **Where seen?** These pretty small snails can be common on
+ ## Where seen?
+  These pretty small snails can be common on
 some of our natural rocky shores and also in our seagrass meadows.
 But they are usually overlooked, the pretty patterns on their shells
 sometimes hidden by algae and encrusting animals.  

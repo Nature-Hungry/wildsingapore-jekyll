@@ -43,36 +43,9 @@ page_images:
     <p><a href="philargius">Spotted box crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Box
-crabs**  
-**Family Calappidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Box crabs are sometimes seen on some of our shores.  
+## Where seen?
+ Box crabs are sometimes seen on some of our shores.  
   
 **Features:** Body width 8-10cm. The crab does look rather box-like with a
 semi-circular body and wing-like extensions on the sides and back

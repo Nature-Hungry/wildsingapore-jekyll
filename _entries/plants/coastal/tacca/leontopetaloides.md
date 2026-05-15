@@ -65,36 +65,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Seashore
-bat lily  
-*Tacca leontopetaloides***  
-**Family Taccaceae*****updated
-Jan 13*
-
----
-
-**Where seen?** A very rare plant in Singapore, it now only
+## Where seen?
+  A very rare plant in Singapore, it now only
 occurs naturally at Pulau Semakau and Pulau Pawai. Some propagated
 plants can be found at Bukit Batok Park. It grows in the sun-dappled
 shade immediately above the high water mark. It is a widely distributed

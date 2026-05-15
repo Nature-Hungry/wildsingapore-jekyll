@@ -68,30 +68,6 @@ page_images:
     <p><a href="oligacanthus.htm">Singapore tuskfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Wrasses**  
-**Family Labridae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -101,8 +77,8 @@ gobies.
 ![](../../../photos/bullet.gif)Some
 can give a nasty bite. Don't touch them!
   
-**Where
-seen?** These colourful fishes are sometimes seen on many of our shores. Among
+## Where seen?
+ These colourful fishes are sometimes seen on many of our shores. Among
 the more colourful little fishes to be seen in tide pools at low tide,
 wrasses are nevertheless often overlooked as they are often well hidden.
 Many are active during the day, sheltering during the night in hiding

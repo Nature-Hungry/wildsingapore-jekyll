@@ -42,30 +42,6 @@ page_images:
     <p><a href="javus">Streaked rabbitfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Rabbitfishes**  
-**Family Siganidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -75,8 +51,8 @@ learn only 3 things about them ...
 are among our favourite seafood. However, overharvesting
 can affect their populations.
   
-**Where
-seen?** These fishes may be common in seagrass areas on many
+## Where seen?
+ These fishes may be common in seagrass areas on many
 of our shores. They often lie quietly among seagrasses or hidden among
 coral rubble, relying on their camouflage to avoid detection.   
   

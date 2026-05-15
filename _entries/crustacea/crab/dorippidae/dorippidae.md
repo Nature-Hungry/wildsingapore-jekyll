@@ -65,33 +65,6 @@ page_images:
     <p>Sentosa Tg Rimau, Aug 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161471030009264&set=a.10161471023299264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Leaf
-porter crab**  
-**Family Dorippidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -101,8 +74,8 @@ learn only 3 things about them ...
 night they swim above the leaf to hide from predators
 below.
   
-**Where
-seen?** This shy and sneaky crab is commonly seen, by the
+## Where seen?
+ This shy and sneaky crab is commonly seen, by the
 sharp-eyed observer, especially on our Northern shores. To spot one,
 look for odd movement in a leaf or a shell, perhaps moving too quickly
 or against the currents. Often in mangroves, near seagrasses but also

@@ -92,36 +92,9 @@ page_images:
     <p>Pulau Sudong, Dec 08Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160150293/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Pink-speckled
-shrimp-goby**  
-***Cryptocentrus leptocephalus***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This beautiful, slim long goby lives with a shrimp and is sometimes seen
+## Where seen?
+ This beautiful, slim long goby lives with a shrimp and is sometimes seen
 on our Southern shores. Elsewhere it is found in silty bottoms
 of mangroves, large tidal pools or inner reef lagoons, on sand and
 rubble. Synonyms of this fish are *C. obliquus* and *C. singapurensis*.  

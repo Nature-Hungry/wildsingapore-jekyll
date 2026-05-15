@@ -56,21 +56,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prpd5200m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Silt
-flatworm  
-***awaiting identification**\**Suborder Acotylea*****updated
-Mar 2020*
-
----
-
-**Where
-seen?** Resembling
+## Where seen?
+ Resembling
 mobile snot, this small flatworm is sometimes seen on soft silty shores
 as well as sandy areas near reefs, sometimes in large numbers.  
   

@@ -84,34 +84,6 @@ page_images:
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Hairy
-sea hare**  
-***Bursatella leachii*  
-Family Aplysiidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -124,8 +96,8 @@ your step!
 ![](../../../photos/bullet.gif) Sea hares have very specialised diets and should not be
 kept in home aquariums.
   
-**Where
-seen?** This hirsute sea hare is sometimes seen on our Northern shores among
+## Where seen?
+ This hirsute sea hare is sometimes seen on our Northern shores among
 seagrasses and seaweeds. Sometimes many are seen scattered everywhere, then
 they are no longer seen for many months. Sometimes, several are seen
 gathered together, densely packed in large numbers, possibly mating?

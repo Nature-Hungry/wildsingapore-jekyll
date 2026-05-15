@@ -51,20 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Armoured
-sea cucumber  
-*Psolidium* sp.*\******Family Psolidae** *updated Apr 2020*
-
----
-
-**Where
-seen?** This small sea cucumber is seen stuck very firmly
+## Where seen?
+ This small sea cucumber is seen stuck very firmly
 onto rocks in dark places, so far at Changi and Pulau Ubin.  
   
 **Features:** About 1cm long. Body oval with distinct flat underside. Upperside covered with hard calcareous plates. Colours light maroon, bright orange, brown. Much like a limpet,

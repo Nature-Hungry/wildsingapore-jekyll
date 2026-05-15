@@ -57,34 +57,6 @@ page_images:
     <p><a href="palaemon">Glass shrimp</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Palaemonid shrimps** **Family Palaemonidae**  
-*updated
-Jan 2020*
-
----
 
 **What
 are Palaemonid shrimps?** Palaemonid shrimps are [crustaceans](../../crustacea) that belong

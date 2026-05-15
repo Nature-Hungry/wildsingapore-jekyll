@@ -57,22 +57,9 @@ page_images:
     <p>Terumbu Bemban, May 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441851942945&set=a.10158441969957945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Jelly
-sea squirt  
-*Ascidia gemmata\**Family Ascidiidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 translucent jelly-like animal is sometimes seen under stones on our
 Northern shores .  
   

@@ -90,17 +90,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
 ---
 
-
-worms [text
-index](../wormindex) | [photo index](../wormfi)
-[Worms](../worm) > Phylum Sipuncula
-**Peanut
-worms  
-Phylum Sipuncula***updated
-Oct 2016*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)They
@@ -109,8 +98,8 @@ are smooth unsegmented worms.
 ![](../../photos/bullet.gif)The
 introvert is one of the interesting parts of this worm.
   
-**Where
-seen?** These pink smooth fat worms are sometimes seen on
+## Where seen?
+ These pink smooth fat worms are sometimes seen on
 some of our shores. They are more commonly encountered in mangroves
 and on soft ground (silty or muddy). But also in sandy areas near
 seagrasses.   

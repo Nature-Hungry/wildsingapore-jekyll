@@ -137,23 +137,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070303sjig7850m3a.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Giant
-reef worm*****Eunice aphroditois\**   
-Family Eunicidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This magnificent worm can be commonly encountered on our Southern
+## Where seen?
+ This magnificent worm can be commonly encountered on our Southern
 shores among living and dead corals. The first encounter with this
 enormous worm can be disconcerting, to put it mildly. It looks much
 like an impossibly huge and scary centipede! But it is shy and will

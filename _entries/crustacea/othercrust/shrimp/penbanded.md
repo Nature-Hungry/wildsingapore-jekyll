@@ -60,37 +60,9 @@ page_images:
     <p>Beting Bemban Besar, May 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159726923118654&set=a.10159726900588654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) > Family [Penaeidae](penaeidae)
-**Banded
-penaeid prawn  
-*awaiting identification\**  
-Family Penaeidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This large banded prawn is often seen on many of
+## Where seen?
+ This large banded prawn is often seen on many of
 our shores. In sandy, silty areas and near seagrasses. It is more
 active at night and usually seen alone. It is probably quite common
 but overlooked because it is so well camouflaged.  

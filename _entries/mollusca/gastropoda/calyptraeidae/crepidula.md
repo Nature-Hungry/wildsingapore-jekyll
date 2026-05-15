@@ -42,35 +42,9 @@ page_images:
     <p>Terumbu Semakau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158381220617945&set=a.10158381328717945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Calyptraeidae](calyptraeidae.htm)
-**Flat
-slipper snail** ***Siphopatella walshi*****Family Calyptraeidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This snail is commonly encountered inside a shell
+## Where seen?
+ This snail is commonly encountered inside a shell
 occupied by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm). It is also sometimes found on the underside of [horseshoe
 crabs](../../../arthropoda/limulidae/limulidae.htm). It was previously known as *Crepidula walshi*.  

@@ -26,21 +26,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Amphibia
-**Crab-eating
-frog   
-*Fejervarya crancrivora*  
-Family Dicroglossidae***updated
-Dec 2020*
-
----
-
-**Where
-seen?** This 'machine-gun' frog is more often heard than
+## Where seen?
+ This 'machine-gun' frog is more often heard than
 seen. It is common in the back mangroves as well as scrubby areas,
 disturbed forests and even parks. It is also found on some of our
 offshore islands. More active at night and after rain. It was formerly

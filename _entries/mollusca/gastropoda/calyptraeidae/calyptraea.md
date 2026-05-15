@@ -44,34 +44,9 @@ page_images:
     <p>Changi East, Dec 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8273878203/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Calyptraeidae](calyptraeidae.htm)
-**Conical
-slipper snail** ***Desmaulus extinctorium*****Family Calyptraeidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This snail
+## Where seen?
+ This snail
 is often seen on the a shell occupied by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm), usually on the outside of the shell. It is not seen as often as the [Flat slipper snail](crepidula.htm), which is white and usually found on the inside of the shell. It was previously known as *Calyptraea
 extinctorium*.  

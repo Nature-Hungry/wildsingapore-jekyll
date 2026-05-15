@@ -97,38 +97,9 @@ page_images:
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655331021/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-> Family [Alpheidae](alpheidae)
-**Ornamented
-snapping shrimp**  
-***Alpheus* sp.*\**  
-Family Alpheidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 prettily patterned snapping shrimp with flat pincers is sometimes
 seen on some of our shores, in sandy areas near seagrasses and among
 coral rubble. It is more active at night. During the day, most remain

@@ -89,20 +89,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Purple
-sea cucumber *awaiting identification\**  
-Family Cucumariidae** *updated Apr 2020*
-
----
-
-**Where
-seen?** This striking sea cucumber is sometimes seen on our
+## Where seen?
+ This striking sea cucumber is sometimes seen on our
 Northern shores. It may be buried in soft silty sand or attached to
 seagrasses and seaweeds or to coral rubble.  
   

@@ -43,34 +43,9 @@ page_images:
     <p>Corners says, "The ring of stamens floating downstream and the stale perfume of the night used to be a morning feature of Malayan rivers".</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../../coastal/coastalplants.htm) 
-**Putat
-laut or Sea poison   
-*Barringtonia asiatica*  
-Family Lecythidaceae***updated
-Jun 2020*
-
----
-
- **Where seen?** This tree with large waxy leaves, stunning
+ ## Where seen?
+  This tree with large waxy leaves, stunning
 pinkish pom-pom flowers and square fruits is now widely planted in
 our coastal parks. It is sometimes seen growing wild in our back mangroves.
 Elsewhere, it grows in a wide range of coastal habitats from coastal

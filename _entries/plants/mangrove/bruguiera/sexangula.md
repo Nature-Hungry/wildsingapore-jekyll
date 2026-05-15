@@ -48,33 +48,9 @@ page_images:
     <p>Pasir Ris, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
-**Tumu
-berau  
-*Bruguiera sexangula*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree is not common in Singapore. Initially
+## Where seen?
+  This tree is not common in Singapore. Initially
 considered extinct in Singapore, it was rediscovered in 2005. There
 are two on Pulau Tekong, and two at Sungei Buloh and it is being replanted
 at Chek Jawa, Pulau Ubin and at Pasir Ris Park. According to Hsuan

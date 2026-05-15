@@ -42,37 +42,9 @@ page_images:
     <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158588708962906&set=a.10158588678307906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Scalpel
-green seaweed  
-*Caulerpa scalpelliformis\** Family Caulerpaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?** This feathery green seaweed grows on sand sometimes forming blooms that cover large areas of seagrass meadows on our Northern shores.  
+## Where seen?
+ This feathery green seaweed grows on sand sometimes forming blooms that cover large areas of seagrass meadows on our Northern shores.  
   
 **Features:** A feather-like structure 2-4cm long. The mid-rib or central 'stem' of the feathery structure
 is flat and usually with a width wider or the same as the length of

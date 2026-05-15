@@ -68,36 +68,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) > [figs in general](ficus)
-****Brown-scurfy
-fig   
-*Ficus consociata***  
-**Family Moraceae*****updated
-Feb 11*
-
----
-
-**Where seen?** A large specimen was seen sprawled over the
+## Where seen?
+  A large specimen was seen sprawled over the
 natural cliffs at Lazarus Island. According to Corners, it was found
 in lowland forests, along rivers and seashores. According to Hsuan
 Keng, it was found in Bukit Timah.  

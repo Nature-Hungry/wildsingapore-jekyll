@@ -47,32 +47,9 @@ page_images:
     <p>Sterile fronds have tapering pointed tips.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Mangrove
-ferns *Acrostichum* sp.  
-Family Pteridaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** These ferns are often seen in back mangroves,
+## Where seen?
+  These ferns are often seen in back mangroves,
 flourishing on [mud
 lobster mounds](../../../crustacea/othercrust/lobster/thalassina) and other higher ground. Elsewhere, they naturally
 occur in tidal swamps, muddy coasts, river banks and tidal estuaries.

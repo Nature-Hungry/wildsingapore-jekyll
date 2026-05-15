@@ -43,34 +43,9 @@ page_images:
     <p><a href="pythia.htm">Pythia snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Belongkeng or Mangrove ear snails**  
- **Family Ellobiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** These snails with thick shells are sometimes seen
+## Where seen?
+ These snails with thick shells are sometimes seen
 on leaves and trunks of mangrove trees or on the mud in the back mangroves.
 They are sometimes also called Mangrove helmet shell snails. Empty
 shells of dead snails are sometimes also washed up on shores near

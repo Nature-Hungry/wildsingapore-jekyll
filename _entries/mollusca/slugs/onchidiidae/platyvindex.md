@@ -40,36 +40,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Family [Onchidiidae](onchidiidae.htm)
-**Grey-footed
-mangrove onch slug  
-*Platyvindex* sp.   
-Family Onchidiidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This slug is sometimes seen on mangrove trees trunks
+## Where seen?
+ This slug is sometimes seen on mangrove trees trunks
 and branches on some of our shores.  
   
 **Features:** 2-3cm. Body hard, long

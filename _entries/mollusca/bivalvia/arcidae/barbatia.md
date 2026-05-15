@@ -50,35 +50,9 @@ page_images:
     <p>Beting Bemban Besar, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157786569762945&set=a.10157785669142945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-molluscs [text
-index](../../molluscaindex.htm) | [photo index](../../molluscafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Arcidae](arcidae.htm)
-**Barbatia
-ark clam  
-*Barbatia* sp.****Family
-Arcidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This little clam is commonly seen stuck under stones
+## Where seen?
+ This little clam is commonly seen stuck under stones
 on our Southern shores, sometimes a few clustered together. But it
 is often overlooked as its 'hairy' shell camouflages it well.  
  **Features:** About 2.5cm long. The sturdy two-part shell is

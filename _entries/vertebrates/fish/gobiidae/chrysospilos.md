@@ -80,36 +80,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4186902707/in/pool-1329734@N22">her flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Gold-spotted
-mudskipper  
-*Periophthalmus chrysospilos***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This orange spotted fish is the most commonly seen mudskipper on many of
+## Where seen?
+ This orange spotted fish is the most commonly seen mudskipper on many of
 our shores. On all kinds of shores including rocky shores, sandy areas
 near mangroves and seagrasses, as well as on coral rubble areas near
 reefs.  

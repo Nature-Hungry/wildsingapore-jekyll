@@ -81,37 +81,9 @@ page_images:
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**Little
-red-nosed shrimp   
-*Periclimenes* sp.\*** **Family Paleomonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This fat little shrimp with a red bar on the face
+## Where seen?
+ This fat little shrimp with a red bar on the face
 is commonly seen on many of our shores. Groups of many individuals
 on the bottom of shallow sandy or silty pools left behind at low tide,
 or in small groups among other living animals. They are more active

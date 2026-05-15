@@ -40,33 +40,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
-
-hard corals [text
-index](../../../coralhardindex.htm) | [photo index](../../../cnidariafi1.htm)
-Phylum [Cnidaria](../../../cnidaria.htm)
-> Class [Anthozoa](../../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../../coralhard.htm)
-> Family [Faviidae](../faviidae.htm)
-**Jigsaw
-maze favid corals on Singapore shores**   
-back to [general
-info on jigsaw maze favid corals](mazejigsaw.htm)
-
----
 
  
 

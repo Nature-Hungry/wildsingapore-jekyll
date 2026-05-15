@@ -59,30 +59,6 @@ page_images:
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-seaweeds
-[text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed) in general
-**Cyanobacteria** **Division Cyanophyta***updated
-Aug 10*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -107,7 +83,8 @@ open ocean. They are also found in soil and freshwater, and some even
 live inside rocks. They are also found in extreme conditions such
 as hot springs and snowfields.  
   
-**Where seen?** On our shores, cyanobacteria
+## Where seen?
+  On our shores, cyanobacteria
 can be seen growing on rocks as well as on sandy shores among seagrasses
 and seaweeds. 90 species of cyanobacteria are recorded for Singapore
 by Pham (link below). Some live inside other animals such as sponges

@@ -70,21 +70,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-> Genus [*Astropecten*](astropecten)
-**Plain
-sand star *Astropecten indicus*  
-Family Astropectinidae***updated Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 fast moving sea star is commonly encountered on our Northern shores.
 In sandy or silty shores. It comes out in large numbers at sunset.
 During the day, it usually remains buried in the sand or silt. So far, not seen in the South on the intertidal. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.  

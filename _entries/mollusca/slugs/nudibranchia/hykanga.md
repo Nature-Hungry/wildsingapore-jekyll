@@ -88,40 +88,9 @@ page_images:
     <p>East Coast Park, Jul 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24100087406/in/album-72157607719316847/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm) >
-Genus [*Hypselodoris*](hypselodoris.htm)
-**Kanga
-hypselodoris nudibranch  
-*Hypselodoris
-kanga*   
-Family
-Chromodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small colourful nudibranchs is sometimes seen on our Northern
+## Where seen?
+ This small colourful nudibranchs is sometimes seen on our Northern
 shores. On coral rubble and rocky shores with sponges and encrusting
 animals.   
   

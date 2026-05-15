@@ -62,34 +62,6 @@ page_images:
     <p>Berlayar Creek, Nov 2020</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Tidal
-hermit crab *Diogenes sp.\**Family Diogenidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -101,8 +73,8 @@ take any shells home!
 other animals live together with a hermit crab. Look for
 them.
   
-**Where
-seen?** This little hermit crab is commonly seen on many
+## Where seen?
+ This little hermit crab is commonly seen on many
 of our shores, on silty or sandy areas and among seagrasses. Sometimes
 in groups of many individuals, even when the tide is not very low.
 Many but not all of these hermit crabs may be *Diogenes* sp.  

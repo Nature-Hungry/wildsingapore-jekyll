@@ -44,36 +44,9 @@ page_images:
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Daisy
-green seaweed  
-*Parvocaulis parvulus\**** **Family Polyphysaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?**
 This tiny seaweed is often overlooked. It grows on stones and coral
 rubble, often near the ['Taugeh' seaweed](neomeris)
 (*Neomeris* sp.)  

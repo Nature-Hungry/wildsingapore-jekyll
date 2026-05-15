@@ -55,38 +55,9 @@ page_images:
     <p>Changi East (Lost Coast), Jul 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2975970682545565&set=a.2975971539212146">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Crucifix
-swimming crab**  
-***Charybdis
-feriata*\*   
-Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This boldly marked swimming crab is not often encountered
+## Where seen?
+ This boldly marked swimming crab is not often encountered
 on the intertidal, perhaps it is more common in deeper water. Said
 to inhabit sandy-muddy bottoms. Sometimes seen hiding under sea anemones. Media articles suggest this crab is
 not often encountered in our part of the region. It is also known

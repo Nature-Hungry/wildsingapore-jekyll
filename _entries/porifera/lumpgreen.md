@@ -44,22 +44,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Lumpy
-green sponge  
-*Haliclona* sp.\*  
-Family
-Chalinidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This green sponge is commonly seen on our Northern shores, growing
+## Where seen?
+ This green sponge is commonly seen on our Northern shores, growing
 on coral rubble. **Features:** 10-15cm.
 The sponge is encrusting with knobs with large holes at the tips.
 In some, the knobs can be rather tall so they are tubular, and are

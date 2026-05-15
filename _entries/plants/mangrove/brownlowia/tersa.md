@@ -45,33 +45,9 @@ page_images:
     <p>Mandai, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Dungun
-air   
-*Brownlowia tersa*  
-Family Malvaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** A rather drab shrub that is often overlooked.
+## Where seen?
+  A rather drab shrub that is often overlooked.
 Some can be seen at Sungei Buloh Wetland Reserve, Kranji Nature Trail,
 Mandai mangroves and at Woodlands Park. Elsewhere, it is also considered
 rare, although it can be abundant where it is found. It is said to

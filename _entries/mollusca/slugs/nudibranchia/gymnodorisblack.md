@@ -63,37 +63,9 @@ page_images:
     <p>Kusu Island, Sep 09Photo s hared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolate.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Tiny
-black gymnodoris nudibranch  
-*Gymnodoris* sp.  
-Family Gymnodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** These tiny black nudibranchs with yellow spots are sometimes seen
+## Where seen?
+ These tiny black nudibranchs with yellow spots are sometimes seen
 on some of our Northern shores. Among seaweeds and seagrasses. It
 appears to be seasonally common; several seen
 during a visit, then none seen for some time.  

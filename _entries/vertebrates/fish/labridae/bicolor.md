@@ -93,36 +93,9 @@ page_images:
     <p>Terumbu Pempang Laut, Mar 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253359297945&set=a.10160254104782945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Labridae](labridae.htm)
-**Brown-stripe
-wrasse**  
-***Halichoeres bicolor***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This colourful little fish is sometimes seen on some
+## Where seen?
+ This colourful little fish is sometimes seen on some
 of our shores, near living reefs, usually alone. Elsewhere, it is
 found in silty sand or mud near shallow reefs and seagrass beds.  
   

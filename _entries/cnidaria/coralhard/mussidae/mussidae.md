@@ -38,35 +38,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-**Brain
-corals**   
-**Family Lobophylliidae\****updated
-Sep 2025*
-
----
-
-**Where
-seen?** These dome-shaped hard corals do somewhat resemble
+## Where seen?
+ These dome-shaped hard corals do somewhat resemble
 fleshy brains and are often seen on many of our Southern shores. *Lobophyllia* and *Symphyllia* were previously in the Family Mussidae.  
   
 **Features:** Members of the Family

@@ -65,36 +65,9 @@ page_images:
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) >
-Family Halimedaceae > Genus *[Halimeda](halimeda)*
-**Small
-coin green seaweed  
-*Halimeda* sp.\*** **Family Halimedaceae***updated
-Jan 13*
-
----
-
-**Where
-seen?**
 This is seaweed made up of small, hard segments. It is commonly seen
 on many of our shores, usually growing on coral rubble or among living
 corals.  

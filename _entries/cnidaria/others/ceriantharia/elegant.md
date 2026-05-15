@@ -46,35 +46,9 @@ page_images:
     <p>Cyrene, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-cerianthid [text
-index](../../cnidariaindex.htm#ceriantharia) | [photo index](../../anemonefi8.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Ceriantharia](ceriantharia.htm)
-**Elegant
-cerianthid  
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This elegant and often dark coloured cerianthid is
+## Where seen?
+ This elegant and often dark coloured cerianthid is
 sometimes seen on our Northern shores. In soft silty areas and among
 seagrasses. It is found in similar habitats as the [Common
 cerianthid](common.htm), but the dusky is much smaller and has more elegantly

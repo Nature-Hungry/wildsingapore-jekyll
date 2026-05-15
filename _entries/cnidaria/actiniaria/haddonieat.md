@@ -56,32 +56,6 @@ page_images:
     <p>Chek Jawa, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157888694287945&set=a.10157888692007945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020209cjd6307m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm)
-> Family Stichodactylidae > *[Stichodactyla](haddoni.htm)*
-sp.
-**What
-do carpet anemones eat?**
-
----
 
 Here's some things [Haddon's carpet anemones](haddoni.htm) have been seen swallowing. The sticky
 tentacles of the anemone grab any animals that blunder or are washed into them. The oral

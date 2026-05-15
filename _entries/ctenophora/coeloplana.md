@@ -34,16 +34,9 @@ page_images:
     <p>Cyrene Reef, Aug 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
 ---
-**Leathery
-soft coral ctenophores**  
-***Coeloplana* sp.   
-Phylum Ctenophora***updated
-Mar 2020*
 
----
-
-**Where
-seen?** These tiny creatures are well camouflaged and often
+## Where seen?
+ These tiny creatures are well camouflaged and often
 only spotted by the fine tentacles that they produce. Often overlooked,
 they are probably common on leathery soft corals on our shores. Their
 name is pronounced 'ten-nah-fours'.

@@ -95,37 +95,9 @@ page_images:
     <p>Terumbu Pempang Laut, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Extraordinary
-sea hare**  
-***Aplysia extraordinaria*  
-Family Aplysiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This sea hare is indeed rather flamboyant, and is sometimes seen on
+## Where seen?
+ This sea hare is indeed rather flamboyant, and is sometimes seen on
 our Southern shores, among seagrasses near reefs. Sometimes, half buried in soft sediments. Elsewhere, it is
 considered common.  
   

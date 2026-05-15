@@ -43,38 +43,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Big
-plain armina nudibranch**   
-***Armina babai*  
-Family
-Arminidae***updated
-May 2020*
-
----
-
-**Where
-seen?**  This
+## Where seen?
+  This
 large unmarked nudibranch is sometimes seen on our Northern shores,
 burrowing in soft silty areas near seagrasses. When seen, usually
 several individuals are encountered. Then they are not seen again

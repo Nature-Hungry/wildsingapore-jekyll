@@ -83,34 +83,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Alcyoniidae](alcyoniidae.htm)
-**Starry
-leathery soft coral *Sinularia brassica\**  
-Family Alcyoniidae***Updated Dec 2024*
-
----
-
-**Where
-seen?** This leathery soft coral with polyps like
+## Where seen?
+ This leathery soft coral with polyps like
 little stars is sometimes seen on some of our shores. Among
 coral rubble and sandy areas near reefs.  
   

@@ -20,34 +20,6 @@ page_images:
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/110518bbtch1m6l.jpg
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Purple-spotted
-yellow flatworms on Singapore shores** back
-to [general info on purple-spotted yellow flatworms](laingensis)
-
----
 
  
 

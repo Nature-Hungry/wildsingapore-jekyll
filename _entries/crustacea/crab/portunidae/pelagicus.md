@@ -81,34 +81,6 @@ page_images:
     <p>963.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Flower
-crab**  
-***Portunus pelagicus***  
-**Family Portunidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -117,8 +89,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 do not survive long out of water.
   
-**Where
-seen?** Flower crabs are among our favourite seafood! It
+## Where seen?
+ Flower crabs are among our favourite seafood! It
 is commonly seen on many of our shores, especially the Northern shores
 and those with seaweeds and seagrasses. But it is not easy to spot.
 If trapped in a pool at low tide, it buries itself in the sand or

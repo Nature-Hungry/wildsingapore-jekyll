@@ -30,33 +30,9 @@ page_images:
     <p>Changi-Loyang, Apr 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10171969931060112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-Phylum [Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
-> Subclass Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Blue
-sea fan*****awaiting identification****updated May 2025*
-
----
-
-**Where
-seen?** This sea fan with bright blue polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low
+## Where seen?
+ This sea fan with bright blue polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low
 water mark.  
   
 **Features:** 15-20cm tall. Colony

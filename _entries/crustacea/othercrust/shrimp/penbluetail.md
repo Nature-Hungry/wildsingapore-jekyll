@@ -55,37 +55,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158068553/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [Prawns and shrimps](shrimp) > Family [Penaeidae](penaeidae)
-**Blue-tailed
-penaeid prawn  
-*awaiting identification*  
-Family Penaeidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This large prawn with blue markings on the tail is
+## Where seen?
+ This large prawn with blue markings on the tail is
 often seen on some of our shores. In sandy, silty areas and near seagrasses.
 It is more active at night and usually seen alone.  
   

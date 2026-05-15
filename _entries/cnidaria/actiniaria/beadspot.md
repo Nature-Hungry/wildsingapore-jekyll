@@ -30,36 +30,9 @@ page_images:
     <p>Pulau Ubin OBS, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153672023638964.1073741872.716233963&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Spotted
-mangrove anemone**  
-***Awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This tiny spotted anemone is seen in mangroves on our Northern
+## Where seen?
+ This tiny spotted anemone is seen in mangroves on our Northern
 shores. Large numbers may settle close to one another
 at the midwater mark, in barnacle shells and other tiny crevices on
 mangrove trees, in small holes bored by other animals in rotting wooden

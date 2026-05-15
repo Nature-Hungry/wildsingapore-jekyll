@@ -36,36 +36,9 @@ page_images:
     <p>First dorsal fin with black blotch at the rear portion, black bar under the first dorsal fin.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Java
-fat-nose goby**  
-***Pseudogobius javanicus***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This little snub-nosed goby is commonly seen in our mangroves. Elsewhere,
+## Where seen?
+ This little snub-nosed goby is commonly seen in our mangroves. Elsewhere,
 adults are found in the sea, estuaries and rivers.  
   
 **Features:** To 6cm, those seen about

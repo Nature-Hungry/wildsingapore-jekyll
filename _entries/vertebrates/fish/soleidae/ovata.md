@@ -45,37 +45,9 @@ page_images:
     <p>Kusu Island, Jan 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160943180917906&set=a.10160943176927906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-> Family [Soleidae](soleidae)
-**Ovate
-sole**  
-***Solea ovata***  
-**Family Soleidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This small flat fish is commonly seen on Changi,
+## Where seen?
+ This small flat fish is commonly seen on Changi,
 in sandy areas near seagrasses.  
  **Features**: To about 9cm long, those seen 4-5cm. Eyes on
 right side. Small, highly curved mouth. Body oval and very flat. Tail

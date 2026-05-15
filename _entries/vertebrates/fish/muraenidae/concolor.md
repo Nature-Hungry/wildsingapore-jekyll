@@ -50,36 +50,9 @@ page_images:
     <p>Cyrene, Aug 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2789307821/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Muraenidae](muraenidae.htm)
-**Brown
-moray eel  
-*Uropterygius concolor\****  
-**Family Muraenidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 plain, uniformly coloured snake-like fish is sometimes seen on some of our shores, near reefs and rubble. Elsewhere, it is found in mangrove swamps, brackish rivers,
 and shallow coral reefs.  
   

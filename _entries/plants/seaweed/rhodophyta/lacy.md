@@ -86,37 +86,9 @@ page_images:
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Lacy
-red seaweed*****Martensia
-elegans**\******Family
-Delesseriaceae** ***updated
-Jan 13***
-
----
-
-**Where
-seen?**
 This odd seaweed is sometimes seen on some of our Southern shores,
 in small clumps of a few blades, attached to coral rubble near reefs.  
   

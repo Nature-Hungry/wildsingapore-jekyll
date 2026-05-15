@@ -39,35 +39,9 @@ page_images:
     <p>St John's Island, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Strombidae](strombidae.htm)
-**Vitate conch snail   
-*Doxander vittatus apicatus***  
-**Family Strombidae***updated
-Jul 2023*
-
----
-
- **Where seen?** This conch snail was seen alive at St John's Island among seagrases. And Beting Bronok among seagrasses growing on soft silty ground..  
+ ## Where seen?
+  This conch snail was seen alive at St John's Island among seagrases. And Beting Bronok among seagrasses growing on soft silty ground..  
   
 **Features:** 6-8cm, elsewhere up
 to 10cm. Shell thick, heavy, long and narrow, lip flared slightly wavy. The flared

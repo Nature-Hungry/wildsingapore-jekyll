@@ -66,36 +66,9 @@ page_images:
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/120619tmd5566m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Serranidae](serranidae)
-**Bluelined
-hind   
-*Cephalopholis formosa***  
-**Family Serranidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This rather large fish with bright blue narrow lines is sometimes near our seawalls. It is said to prefer shallow dead or silty reefs.  
+## Where seen?
+ This rather large fish with bright blue narrow lines is sometimes near our seawalls. It is said to prefer shallow dead or silty reefs.  
   
  **Features:** To about 30cm. The fish is distinguished by by narrow blue stripes on head, body and fins. All fins also blue. Body dark brown to yellowish brown. Those seen pale, sometimes with light or dark brown bars: are these its 'night colours'?
 

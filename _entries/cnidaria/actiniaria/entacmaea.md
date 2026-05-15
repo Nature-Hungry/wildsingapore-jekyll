@@ -156,36 +156,6 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700480158158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Bubble-tip
-anemone**  
-***Entacmaea quadricolor***  
-**Family Actiniidae***updated
-July 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -195,8 +165,8 @@ learn only 3 things about them ...
 poke the anemone to try to make fishes or shrimps come out.
 They will instead hide deeper in the anemone.
   
-**Where
-seen?** This anemone with bulbous tips is seen
+## Where seen?
+ This anemone with bulbous tips is seen
 on our Southern shores. Usually nestled among coral rubble with the
 body column deep in a crevice or hole and only the tentacles sticking
 out. Thus,

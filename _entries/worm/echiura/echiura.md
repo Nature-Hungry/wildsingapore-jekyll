@@ -51,20 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
 ---
 
-
-worms [text
-index](../wormindex) | [photo index](../wormfi)
-[worms](../worm)
-> Phylum Annelida > Class Echiura
-**Spoon
-worms****Class
-Echiura***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Spoon worms are sometimes seen above ground on our Northern shores,
+## Where seen?
+ Spoon worms are sometimes seen above ground on our Northern shores,
 near seagrass areas.  
   
 **What are spoon worms?** Spoon worms

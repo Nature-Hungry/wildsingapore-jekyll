@@ -118,35 +118,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Misi**or **Sea
-gutta   
-*Pouteria obovata***  
-**Family** Sapotaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This coppery tree is often seen on our wild
+## Where seen?
+  This coppery tree is often seen on our wild
 shores: natural cliffs, rocky and sandy shores as well as secondary
 forests. In the wild, it originally also grew in the back mangroves.
 It was previously known as *Planchonella obovata*.  

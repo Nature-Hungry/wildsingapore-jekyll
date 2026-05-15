@@ -52,36 +52,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cypraeidea](cypraeidae.htm)
-**Money
-cowrie**   
-***Monetaria moneta*****Family Cypraeidae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 squat cowrie was seen once at Cyrene. It is was previously known as *Cypraea moneta.* Called 'money cowry' because in the past, the shells were used as currency in the Pacific and Indian Ocean. **Features:** 2-3cm. Shell rather irregular in shape, almost hexagonal, yellowish white with dark smudges around the humped up middle part of the shell. Underside plain white (no markings) without
 coloured 'teeth'. The living animal has a translucent mantle with a pattern of fine dark bars and short translucent 'hairs'.
 

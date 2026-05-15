@@ -77,21 +77,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Beige
-sea cucumber  
-*Holothuria albiventer\**Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This unassuming sea cucumber is sometimes seen on
+## Where seen?
+ This unassuming sea cucumber is sometimes seen on
 our Northern shores, among seagrasses.  
   
 **Features:** 6-12cm long.

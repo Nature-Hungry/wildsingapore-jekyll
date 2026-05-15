@@ -37,35 +37,9 @@ page_images:
     <p>Pulau Biola, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Osteridae](osteridae.htm)
-**Zig
-zag oyster**  ***awaiting
-identification\**  
-Family Ostreidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This oyster with a zig-zag opening at the valves
+## Where seen?
+ This oyster with a zig-zag opening at the valves
 is sometimes seen on some of our shores, on boulders and seawalls.
 Usually a few are squished in cracks near the mid water mark.  
   

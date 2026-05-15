@@ -83,21 +83,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Chocolate
-sponge  
-*Spheciospongia* cf. *vagabunda\**  
-Family Clionaidae***updated Oct 2016*
-
----
-
-**Where
-seen?**
 This smooth lumpy sponge is particularly common on our Southern shores
 on muddy bottoms of lagoons near the mid-water mark. There may be
 a broad zone of these sponges near reefs. **Features:** 10-20cm wide. The smooth velvety sponge is highly

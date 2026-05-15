@@ -33,36 +33,9 @@ page_images:
     <p>Admiralty Park, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Grey
-knight-goby**  
-***Stigmatogobius sadanundio***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large greyish goby with spots is sometimes seen in our mangrove
+## Where seen?
+ This large greyish goby with spots is sometimes seen in our mangrove
 streams.  
   
 **Features:** About 6cm long. Pearly

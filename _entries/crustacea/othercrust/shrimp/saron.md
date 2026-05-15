@@ -74,35 +74,9 @@ page_images:
     <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152263462748660.1073741841.624178659&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index~](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda) > Family [Hippolytidae](hippolytidae) > [prawns and shrimps](shrimp)
-**Saron
-shrimp**  
-***awaiting identification*\*****Family Hippolytidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This rather large and stumpy shrimp is sometimes
+## Where seen?
+ This rather large and stumpy shrimp is sometimes
 seen near reefs, usually among coral and coral rubble. It is not very
 active and tends to be motionless and thus overlooked as it is so
 well camouflaged on an encrusted surface. When it realises it has

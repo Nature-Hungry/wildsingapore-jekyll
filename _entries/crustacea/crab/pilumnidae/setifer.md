@@ -55,37 +55,9 @@ page_images:
     <p>](https://www.flickr.com/photos/budak/8911338681/ "Actumnus setifer clip 7 rubble-carrying hairy crab video") Video clip shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Pilumnidae](pilumnidae)
-**Rubble-carrying
-crab** ***Actumnus
-setifer***   
-**Family Pilumnidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Only the odd movement of coral rubble gives away
+## Where seen?
+ Only the odd movement of coral rubble gives away
 the presence of this little crab that carries around a piece
 of rubble. It lives on rubble and reefs. Elsewhere, the crab has been
 seen to carry live and dead corals weighing up to 1kg! The crab has

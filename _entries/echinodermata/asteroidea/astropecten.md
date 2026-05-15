@@ -89,22 +89,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Sand
-sea stars  
-*Astropecten* sp.  
-Family Astropectenidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 fast moving sea stars are commonly encountered on our Northern shores.
 In sandy or silty shores. They usually remain buried in the sand during
 the day and emerge to forage at sunset. But they are sometimes seen

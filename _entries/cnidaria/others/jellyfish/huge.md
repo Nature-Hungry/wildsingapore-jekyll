@@ -76,33 +76,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162470123158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-> various classes | [jellyfish](jellyfish)
-**Huge
-jellyfish  
-*Order Rhizostomeae*Class Scyphozoa***updated Jan 2020*
-
----
-
-**Where
-seen?** Enormous jellyfishes are sometimes seen washed ashore on our
+## Where seen?
+ Enormous jellyfishes are sometimes seen washed ashore on our
 shores. Several may be seen, and then none seen again for some time. These are probably different species but are grouped here for convenience of display.  
   
 **Features:** Bell about 25-50cm diameter, oral arms about the same length as bell diameter

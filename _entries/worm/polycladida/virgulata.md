@@ -54,23 +54,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Red-lined
-flatworm  
-*Maritigrella virgulata\******Family
-Euryleptidae**  
-*updated
-Feb 2020*
-
----
-
-**Where
-seen?** Sometimes seen on some of our shores, among coral
+## Where seen?
+ Sometimes seen on some of our shores, among coral
 rubble near living reefs, usually at night. 'Virgulatus' in Latin means 'striped'.  
   
 **Features:** 5-7cm long. Body

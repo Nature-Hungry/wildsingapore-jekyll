@@ -60,37 +60,9 @@ page_images:
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Geographic
-sea hare  
-*Syphonota geographica*  
-Family Aplysiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This chubby delicately patterned sea hare is seasonally
+## Where seen?
+ This chubby delicately patterned sea hare is seasonally
 common on our Northern shores, among seagrasses. Sometimes large numbers
 are seen, at other times, not at all. Often found half buried in the soft sediment, but sometimes crawling in the
 open, especially near sunrise or at night. It is also known as *Paraplysia

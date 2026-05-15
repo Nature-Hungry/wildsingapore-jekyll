@@ -46,37 +46,9 @@ page_images:
     <p>East Coast, Jun 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alive.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Maroon cow
-nudibranch   
-*Goniobranchus tumulifera*  
-Family Chromodorididae***updated
-May 2025*
-
----
-
-**Where
-seen?** This small colourful nudibranch with a cow-like pattern is sometimes
+## Where seen?
+ This small colourful nudibranch with a cow-like pattern is sometimes
 seen on our Northern shores. On coral rubble and rocky shores with
 sponges and encrusting animals. It was previously known as *Chromodoris
 tumulifera*.   

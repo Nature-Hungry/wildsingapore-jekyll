@@ -113,36 +113,9 @@ page_images:
     <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Chaetodontidae](chaetodontidae.htm)
-**Kite
-butterflyfish  
-*Parachaetodon ocellatus***  
-**Family Chaetodontidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This kite-shaped fish with stripes and a spot on
+## Where seen?
+ This kite-shaped fish with stripes and a spot on
 the base of the tail is sometimes seen on our Northern our shores.
 Among seagrasses or coral rubble. Usually alone but sometimes in a
 group. Elsewhere, it is found in coastal and inner reef habitats,

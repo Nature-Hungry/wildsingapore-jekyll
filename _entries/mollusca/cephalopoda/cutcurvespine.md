@@ -58,35 +58,9 @@ page_images:
     <p>Chek Jawa, Nov 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211945516285521&set=a.10211945511485401&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Sepiidae](sepiidae.htm)
-**Curvespine
-cuttlefish  
-*Sepia recurvirostra*Family Sepiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** Chubby cuttlefishes are sometimes common on our Northern
+## Where seen?
+ Chubby cuttlefishes are sometimes common on our Northern
 shores. Seen among seagrasses, hovering slowly close to the ground.
 'Recurvirostra' means 'curved spine' referring the shape of the spine
 on its cuttlebone, not visible in a living animal.  

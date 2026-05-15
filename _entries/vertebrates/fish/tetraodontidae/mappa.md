@@ -29,35 +29,9 @@ page_images:
     <p>Found in a large fish trap  Terumbu Pempang Tengah, Jun 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158485724658119&set=a.10158485764693119&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Map pufferfish  
-*Arothon mappa***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
+## Where seen?
+ Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
 about 60cm. Body covered with fine prickles. Body whitish covered with a dense network of black, brown or greenish broken lines. Dark and pale streaks radiating outwards from the eyes. Black reticulations below pectoral fins. Black area around anus. Juveniles (around 5cm) seen while diving were black with large yellow spots.
  
 

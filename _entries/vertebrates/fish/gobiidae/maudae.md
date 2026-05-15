@@ -98,36 +98,9 @@ page_images:
     <p>Terumbu Pempang Laut, Apr 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5645270699/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Saddled
-shrimp-goby**  
-***Cryptocentrus maudae\****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This goby lives with a shrimp and is sometimes seen on some of our
+## Where seen?
+ This goby lives with a shrimp and is sometimes seen on some of our
 shores, on rubbly areas near reefs and among seagrasses.   
   
 **Features:** To about 7cm, tiny ones

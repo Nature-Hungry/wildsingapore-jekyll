@@ -65,36 +65,9 @@ page_images:
     <p>136 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Pinang
-palm** **or****Betel-nut palm   
-*Areca catechu***  
-**Family Arecaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** Now no longer fashionable, this palm is sometimes
+## Where seen?
+  Now no longer fashionable, this palm is sometimes
 seen in sites of old 'kampungs' or villages. According to Burkill
 'undoubtedly Malaysian in origin, but impossible to find any restricted
 part of Malaysia as its home.' According to Whitmore, 'no one has

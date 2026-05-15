@@ -78,37 +78,9 @@ page_images:
     <p>Pulau Salu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158429562522945&set=a.10158429573917945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm) > Genus [Phymanthus](phymanthus.htm)
-**Smooth
-frilly anemone**  
-***Phymanthus*** **sp.\***  
-**Family Phymantidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This anemone is seen on our Southern
+## Where seen?
+ This anemone is seen on our Southern
 shores. Usually among coral rubble.  
   
 **Features:** Diameter

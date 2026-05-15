@@ -103,39 +103,9 @@ page_images:
     <p>Beting Bemban Besar, Mar 17Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
-> Class [Echinodea](../echinoidea) > [sea
-urchins](urchin) > Genera *[Salmacis](salmacis)*
-**White
-salmacis urchin  
-*Salmacis sphaeroides*  
-Family Temnopleuridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This almost-cuddly white sea urchin
+## Where seen?
+ This almost-cuddly white sea urchin
 is seasonally common on our Northern shores among seagrasses. At some
 times, many of these sea urchins are seen, and then none seen for
 some time. On Cyrene Reef, gatherings of many of these sea urchins

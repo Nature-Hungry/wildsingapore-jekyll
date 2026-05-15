@@ -36,36 +36,9 @@ page_images:
     <p>Sentosa Tg Rimau, Jan 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212402723835424&set=a.10212400854868701&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Serranidae](serranidae)
-**Honeycomb
-grouper  
-*Epinephelus quoyanus***  
-**Family Serranidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This boldly patterned but well camouflaged fish was
+## Where seen?
+ This boldly patterned but well camouflaged fish was
 seen at Tanah Merah. Elsewhere, they are seen in silty reefs, in shallow
 and intertidal waters.  
   

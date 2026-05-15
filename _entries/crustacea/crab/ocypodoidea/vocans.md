@@ -87,40 +87,9 @@ page_images:
     <p>Seringat Kias mangrove lagoon, Sep 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10162112840238693">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Orange
-fiddler crab**  
-***Gelasimus
-vocans*****Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny crab with a 'pimply' oversized pincer is commonly seen on
+## Where seen?
+ This tiny crab with a 'pimply' oversized pincer is commonly seen on
 our natural undisturbed shores, usually on softer, muddier areas more
 exposed to wave action than other fiddler crabs. This includes the
 bottom of swimming lagoons, shores near large boulders. It was previously known as *Uca vocans*.  

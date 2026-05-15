@@ -78,22 +78,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Yellow-lipped
-sea krait  
-*Laticauda colubrina*  
-Family Elapidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This beautiful snake is sometimes seen on our Southern
+## Where seen?
+ This beautiful snake is sometimes seen on our Southern
 shores especially at night, hunting among reefs and coral rubble.
 The snake is typically found in shallow seas around coral reefs and
 rocky shores. Some

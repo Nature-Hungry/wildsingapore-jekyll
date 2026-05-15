@@ -49,31 +49,6 @@ page_images:
     <p><a href="potamididae/cingulata.htm">Girlded horn snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-molluscs [text
-index](../molluscaindex.htm) | [photo index](../molluscafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Gastropoda](../gastropoda.htm)
-****Creeper,
-Bazillion and Horn snails****How
-to tell them apart?*****updated
-Oct 2016*
-
----
 
 **Similar
 snails** Creeper snails (Family Cerithidae), Bazillion snails

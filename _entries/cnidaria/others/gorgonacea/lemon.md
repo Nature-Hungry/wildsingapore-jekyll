@@ -45,33 +45,9 @@ page_images:
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-Phylum [Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
-> Subclass Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Lemon
-sea fan*****awaiting identification****updated Jul 2020*
-
----
-
-**Where
-seen?** This sea fan withpale yellow polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low
+## Where seen?
+ This sea fan withpale yellow polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low
 water mark.  
   
 **Features:** 15-20cm tall. Colony

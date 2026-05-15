@@ -45,19 +45,6 @@ page_images:
     href="https://www.facebook.com/photo/?fbid=10159145163277945&set=a.10159145289027945">facebook</a>.</p>
 ---
 
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Cymodoceaceae
-**Noodle
-seagrass *Syringodium isoetifolium*  
-Family Potamogetonaceae** *updated Mar 14*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)
@@ -67,8 +54,8 @@ It doesn't flower frequently, and the flowers are complex.
 ![](../../photos/bullet.gif)It
 is eaten by dugongs.
   
-**Where
-seen?**
+## Where seen?
+
 This seagrass is abundant on Pulau Semakau, growing among the more
 dominant [Tape seagrass](enhalus) (*Enhalus acoroides*),
 and on Cyrene Reef.  

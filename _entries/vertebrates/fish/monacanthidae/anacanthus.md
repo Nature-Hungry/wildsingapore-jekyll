@@ -43,36 +43,9 @@ page_images:
     <p>Tanah Merah, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6194874235/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Monacanthidae](monacanthidae)
-**Bearded
-filefish  
-*Anacanthus barbatus***  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This long filefish with a 'beard' was seen on Cyrene
+## Where seen?
+ This long filefish with a 'beard' was seen on Cyrene
 Reef during a seine net survey of the fishes there. It is also sometimes seen on other shores. Elsewhere it is
 found in shallow waters in sandy, weedy areas, also muddy estuaries
 and mangroves. It is said to be seen lining up with ropes, seawhips,

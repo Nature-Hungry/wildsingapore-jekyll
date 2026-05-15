@@ -74,35 +74,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Mud
-crab*****Scylla* sp.** **Family Portunidae**  
-*updated Dec 2019*
-
----
-
-**Where
-seen?** This enormous crabs is among our favourite seafood.
+## Where seen?
+ This enormous crabs is among our favourite seafood.
 It is seldom seen and is usually hidden in its burrow in the mangroves.
 Sometimes, large individuals are seen in other habitats. These are
 likely to be fully grown adults that were taken from seafood markets

@@ -55,33 +55,6 @@ page_images:
     <p>This slug looks exactly like the green seaweed that it probably feeds on Sentosa, Nov 03</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed) in general
-**Green
-seaweed   
-Division Chlorophyta***updated
-Aug 08*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -93,8 +66,8 @@ Many small animals eat green seaweeds.
 of green seaweed may form on the shores. These may shelter
 small animals. Please avoid stepping on the carpet.
   
-**Where
-seen?**
+## Where seen?
+
 Green seaweeds are commonly seen on many of our shores. Some grow
 on boulders, coral rubble and other hard surfaces. Others are found
 entwined around seagrasses.  

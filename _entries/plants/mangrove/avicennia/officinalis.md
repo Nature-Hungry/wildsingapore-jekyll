@@ -57,33 +57,9 @@ page_images:
     <p>Pulau Ubin, Jun 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > *[Avicennia](avicennia)* in general
-**Api-api
-ludat   
-*Avicennia officinalis*  
-Family Acanthaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree with pencil roots and glossy spoon-shaped
+## Where seen?
+  This tree with pencil roots and glossy spoon-shaped
 leaves sometimes seen in our mangroves, but is not as commonly encountered
 as *[Avicennia alba](alba)*. It is found on soft
 recently consolidated mudbanks, banks of river meanders and at river

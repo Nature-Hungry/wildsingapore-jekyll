@@ -23,36 +23,9 @@ page_images:
     <p>Chek Jawa, Jul 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-other crustaceans
-[text index](../../crustaceaindex#ostracoda) | [photo
-index](../../othercrustfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Ostracoda
-**Mussel
-shrimps**   
- **Class Ostracoda***updated
-Mar 2020*
-
----
-
-**Where
-seen?** Often seen on our Northern shores, usually only by
+## Where seen?
+ Often seen on our Northern shores, usually only by
 the bioluminescence they produce.   
   
 **What are mussel shrimps?** They are [crustaceans](../../crustacea) like crabs

@@ -34,38 +34,9 @@ page_images:
     <p>Siphon (upper left) and tentcles</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Ball
-moon snail**  
- ***Neverita
-didyma*****Family
-Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This almost spherical moon snail is commonly seen on
+## Where seen?
+ This almost spherical moon snail is commonly seen on
 a few of our sandy Northern shores. Especially at night or on a cool day, usually
 busy ploughing through the sand in search of prey, near seagrass areas.
 Elsewhere, it is found in sandy to muddy bottoms. It was previously

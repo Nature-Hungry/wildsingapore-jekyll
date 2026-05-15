@@ -90,38 +90,9 @@ page_images:
     <p>Cyrene Reef, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155604767598158&set=pcb.10155604767643158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Cerberilla
-nudibranch  
-*Cerberilla* sp.  
-Family
-Aeolidiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This tiny 'furry' nudibranch is sometimes seen among [Sea
+## Where seen?
+ This tiny 'furry' nudibranch is sometimes seen among [Sea
 Lettuce](../../../plants/seaweed/chlorophyta/ulva.htm) (*Ulva* sp.) as well as burrowing in sandy areas
 on our Northern shores.  
   

@@ -53,37 +53,9 @@ page_images:
     <p>Sentosa, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/back-to-first-love-at-tanjong-rimau.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Phyllodesmium
-nudibranch  
-*Phyllodesmium*sp.  
-Family Facelinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This 'hairy' nudibranch is sometimes seen on some of our shores. It is seen near reefs in the South as well as rocky areas in the North.  
+## Where seen?
+ This 'hairy' nudibranch is sometimes seen on some of our shores. It is seen near reefs in the South as well as rocky areas in the North.  
   
 **Features:** About 2cm long. Long,
 narrow, soft body with many long finger-like structures (called cerata) arranged in rows

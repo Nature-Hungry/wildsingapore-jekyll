@@ -38,38 +38,9 @@ page_images:
     <p>St John's Island, Feb 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161195585133158&set=a.10161195589918158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm) > Genus [*Anthopleura*](beadbanded.htm)
-**Pink-spotted
-bead anemone**  
-***Anthopleura buddemeieri*** **Family Actiniidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** These small anemones are seen near the high water
+## Where seen?
+ These small anemones are seen near the high water
 mark on rocky shores made up of smooth boulders and rocks below a
 thick coastal forest. Individually usually widely dispersed, seldom
 with many on the same stone. First seen on St. John's Island, subsequently

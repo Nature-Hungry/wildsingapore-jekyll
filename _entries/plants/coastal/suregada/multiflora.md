@@ -89,35 +89,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Limau
-hantu   
-*Suregada multiflora***  
-**Family** Euphorbiaceae***updated
-Dec 09*
-
----
-
-**Where seen?** Several of these shrubs are planted at Changi
+## Where seen?
+  Several of these shrubs are planted at Changi
 near the Changi Jetty. According to Hsuan Keng it was found near the
 sea at Changi and on Pulau Ubin. According to Corners, it was common
 on all sandy and rocky coasts of Malaya and was rarely found inland.

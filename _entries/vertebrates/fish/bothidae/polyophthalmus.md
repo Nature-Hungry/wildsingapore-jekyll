@@ -36,35 +36,9 @@ page_images:
     <p>Tail fin separated from the dorsal and anal fins.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-**Three-spot flounder**  
-***Grammatobothus polyophthalmus***  
-**Family Bothidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This a small specimen of this flattened fish was seen once at Cyrene Reef. **Features:** To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny pectoral fin on the eyed-side.
+## Where seen?
+ This a small specimen of this flattened fish was seen once at Cyrene Reef. **Features:** To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny pectoral fin on the eyed-side.
 Dorsal and anal fins separated from the tail fin. Dorsal fin near the head has elongated fin rays.
 The eyed-side with three large eye-like spots.  
   

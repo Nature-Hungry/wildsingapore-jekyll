@@ -116,33 +116,6 @@ page_images:
     <p><a href="feriatus">Crucifix swimming crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Swimming
-crabs**   
-**Family Portunidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -151,8 +124,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 can give a nasty pinch. Leave them alone!
   
-**Where
-seen?** Swimming crabs are commonly seen on all our shores.
+## Where seen?
+ Swimming crabs are commonly seen on all our shores.
 They particularly active at night, but are often also out and about
 during the day. Besides the large adults, small juvenile swimming
 crabs are also hidden among the seagrass and seaweed, and other nooks

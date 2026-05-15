@@ -50,31 +50,6 @@ page_images:
     <p>Pasir Ris Park, Dec 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118127263062825">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Worm
-snails**  **Family Vermetidae***updated
-Oct 2016*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -83,8 +58,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Look
 for them on large boulders and other hard surfaces.
   
-**Where
-seen?** These odd-looking snails are seen coiled on rocks,
+## Where seen?
+ These odd-looking snails are seen coiled on rocks,
 stones and other hard surfaces. Commonly seen on our Northern shores.
 Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the [Family
 Turritellidae](../turritellidae/turritella.htm) also build coiling shells.   

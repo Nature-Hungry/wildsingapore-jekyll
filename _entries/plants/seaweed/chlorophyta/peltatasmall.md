@@ -50,38 +50,9 @@ page_images:
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Small
-parasol green seaweed  
-*Caulerpa racemosa* var.
-*peltata\**** **Family Caulerpaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?**
 This green seaweed with tiny fleshy 'umbrellas' is sometimes seen
 on our Southern shores. On coral rubble near living reefs, in small
 clumps.   

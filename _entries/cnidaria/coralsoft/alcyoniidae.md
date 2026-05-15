@@ -114,34 +114,6 @@ page_images:
     <p>Prickly surface due to tiny spicules.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Leathery
-soft corals   
-Family Alcyoniidae***updated
-Dec 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -151,8 +123,8 @@ step on them!
 ![](../../photos/bullet.gif)Each
 soft coral is a colony of countless tiny polyps.
   
-**Where
-seen?** Leathery soft corals are commonly seen on our Southern
+## Where seen?
+ Leathery soft corals are commonly seen on our Southern
 shores and in some places can grow quite large! Exposed out of water at low tide, some look like fried
 eggs, others like a pile of discarded rubber gloves, and yet others
 like some bizarre leathery giant carnation or a big floppy pinwheel.  

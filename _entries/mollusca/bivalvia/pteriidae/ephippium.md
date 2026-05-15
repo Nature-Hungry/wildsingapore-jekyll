@@ -46,35 +46,9 @@ page_images:
     <p>Pasir Ris Park, Jan 20Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827011994009331&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Pteriidae](pteriidae.htm)
-**Leaf
-oyster  
-*Isognomon ephippium,* *Isognomon spathulatus*Family
-Pteriidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These rather large flat clams are commonly seen in our
+## Where seen?
+ These rather large flat clams are commonly seen in our
 mangroves, scattered like white coins among mangrove tree roots. Sometimes
 also seen growing in clusters on rocks or sea walls in sheltered areas near freshwater
 inflows (brackish water). It is also called the Saddle tree oyster.  

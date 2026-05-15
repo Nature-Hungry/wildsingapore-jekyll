@@ -46,38 +46,9 @@ page_images:
     <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
-**All-black
-hermit crab*Clibanarius* sp.\*  
-Family Diogenidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This pretty hermit crab that is mostly black all
+## Where seen?
+ This pretty hermit crab that is mostly black all
 over is sometimes seen on rocky or rubbly areas near reefs.   
   
 **Features:** Body about 1-1.5cm long,

@@ -45,36 +45,9 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Bubble
-green seaweed  
-*Boergesenia forbesii\**  
-Family Siphonocladaceae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** These bright green bubbles are commonly seen on our Southern shores,
+## Where seen?
+ These bright green bubbles are commonly seen on our Southern shores,
 growing on coral rubble in small scattered clusters.  
   
 **Features:** Clusters of elongated

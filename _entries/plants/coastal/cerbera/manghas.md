@@ -111,33 +111,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) | [*Cerbera*](cerbera) in general
-****Pink-eyed
-pong pong tree  
-*Cerbera manghas*****Family** Apocynaceae** *updated Jan 13*
-
----
-
-**Where seen?** This beautiful tree with pretty pink-eyed white
+## Where seen?
+  This beautiful tree with pretty pink-eyed white
 flowers is rare. Even in the past it was rare, among the locations
 where it was found were Pasir Panjang and Katong, shores now already
 reclaimed. It now found in the wild on Chek Jawa, with a large stand

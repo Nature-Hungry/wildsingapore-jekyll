@@ -39,37 +39,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Family [Onchidiidae](onchidiidae.htm)
-**Long
-onch slug  
-*awaiting
-identification\**   
-Family Onchidiidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This small long slug is often seen on mangrove trees,
+## Where seen?
+ This small long slug is often seen on mangrove trees,
 usually at night, crawling along leaves or branches.  
   
 **Features:** 2-3cm. Body hard, long

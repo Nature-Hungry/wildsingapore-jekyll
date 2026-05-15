@@ -64,36 +64,9 @@ page_images:
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830725953158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slug](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Black
-dendrodoris nudibranch  
-*Dendrodoris nigra*  
-Family Dendrodorididae***updated Mar 2020*
-
----
-
-**Where
-seen?** This blackish nudibranch is sometimes seen on some
+## Where seen?
+ This blackish nudibranch is sometimes seen on some
 of our seagrass meadows.  
   
 **Features:**5-8cm

@@ -93,35 +93,9 @@ page_images:
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Siganidae](siganidae)
-**White-spotted
-rabbitfish**  
-***Siganus canaliculatus***  
-**Family Siganidae***updated Oct 2020*
-
----
-
-**Where
-seen?** This spiny fish is commonly seen on many of our shores, especially among seagrasses, sometimes in groups of a few
+## Where seen?
+ This spiny fish is commonly seen on many of our shores, especially among seagrasses, sometimes in groups of a few
 small individuals. It is also sometimes seen on our Southern shores.
 Juveniles may school in large numbers, the numbers reducing as the
 fishes grow bigger. Adults may be found in large groups at spawning

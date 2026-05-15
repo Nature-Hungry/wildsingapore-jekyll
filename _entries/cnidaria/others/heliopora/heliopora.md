@@ -91,33 +91,6 @@ page_images:
     <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-cnidarians [text
-index](../../cnidariaindex#heliopora) | [photo index](../../coralhardfi4)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order Helioporacea
-**Blue
-coral  
-*Heliopora
-coerulea*Family
-Helioporidae***updated Dec 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -127,8 +100,8 @@ the skeleton to see this!
 ![](../../../photos/bullet.gif)They
 are considered living fossils.
   
-**Where
-seen?** These living fossils are commonly seen on our Southern
+## Where seen?
+ These living fossils are commonly seen on our Southern
 shores, sometimes forming many large colonies. Found among hard corals.  
   
 **What are blue corals?** Blue corals

@@ -46,36 +46,9 @@ page_images:
     <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Neritidae](neritidae.htm)
-**Black-mouth
-nerite snail**  
-***Neritina cornucopia*Family Neritidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 sturdy nerite is sometimes seen in our mangroves, near [mud
 lobster mounds](../../../crustacea/othercrust/lobster/thalassina.htm). The study by Tan & Clements (2008) found this
 snail usually submerged; on mud, plant matter (e.g., fallen leaves

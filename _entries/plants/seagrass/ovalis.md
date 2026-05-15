@@ -4,6 +4,7 @@ description: Fact sheet with photos on flora and fauna of Singapore's intertidal
 keywords: "spoon, halophila, ovalis, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: entry
 attributes: [95]
+habtitat: [5]
 englishname: Spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
@@ -119,6 +120,7 @@ links_references: |
 
 
 ## Where seen?
+
 This small oval seagrass is commonly seen on many of our shores in
 the North and South. Sometimes, they may form lush meadows, at other
 places, smaller patches. The [preliminary

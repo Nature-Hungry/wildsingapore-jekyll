@@ -108,36 +108,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5761057485/in/album-72157607751329669/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Spotted
-foot nudibranch  
-*Tayuva lilacina*Family Discodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This large
+## Where seen?
+ This large
 nudibranch is well camouflaged and thus often overlooked. Even when
 discovered, it's quite boring so most people don't get excited about
 it. On coral rubble and encrusted rocks and under stones. Commonly

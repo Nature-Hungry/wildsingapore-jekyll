@@ -39,20 +39,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Dugong  
-*Dugong dugon*  
-Family Dugongidae** *updated
-Jan 2021*
-
----
-
-**Where
-seen?** Dugongs used to be common in the Johor Straits but
+## Where seen?
+ Dugongs used to be common in the Johor Straits but
 were considered locally extinct by the 1980's. While in the late 1990's,
 there were increased encounters with dugongs in the Johor Straits,
 there were fewer sightings in the 2000's.   

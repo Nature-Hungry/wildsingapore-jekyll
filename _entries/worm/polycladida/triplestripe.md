@@ -84,22 +84,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Triple-striped
-flatworm  
-*Pseudoceros* sp. 5\* ***Family
-Pseudocerotidae******updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small white flatworm with three blue lines in
+## Where seen?
+ This small white flatworm with three blue lines in
 the centre of it body is sometimes seen on many of our shores,
 on coral rubble near living reefs.   
   

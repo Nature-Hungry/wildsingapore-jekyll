@@ -35,36 +35,9 @@ page_images:
     <p>It feeds on tiny zooplankton and algae.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Pomacentridae](pomacentridae)
-**Scissortail
-sergeant   
-*Abudefduf
-sexfasciatus***  **Family Pomacentridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 distinctive fish is sometimes seen on our coral reefs. Elsewhere,
 it is found near reefs and rocky shores, often forming schools.  
   

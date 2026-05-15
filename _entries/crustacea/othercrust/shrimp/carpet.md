@@ -52,38 +52,9 @@ page_images:
     <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**Tiny
-carpet anemone shrimp**  
-***Periclimenes* sp.\***  
-**Family Palaemonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This tiny shrimp is often seen in [Haddon's
+## Where seen?
+ This tiny shrimp is often seen in [Haddon's
 carpet anemones](../../../cnidaria/actiniaria/haddoni) (*Stichodactyla haddoni*) on our Northern
 shores, including small anemones less than 10cm in diameter. One anemone
 may have 10 or more of these tiny shrimps! They are more active at

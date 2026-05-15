@@ -57,36 +57,9 @@ page_images:
     <p>Pulau Tekukor, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158869377027945&set=a.10158869425132945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-mantis shrimps
-[text index](../../crustaceaindex#stomatopoda) | [photo
-index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Stomatopoda](stomatopoda)
-**Banded
-mantis shrimp*****Lysiosquilla* sp.**  
-**Family Lysiosquillidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This mantis shrimp is rarely seen. A pair was seen
+## Where seen?
+ This mantis shrimp is rarely seen. A pair was seen
 dead on Tanah Merah a day after the oil spill. One was seen in Changi.   
   
 **Features:** 6-10cm long. Body broad

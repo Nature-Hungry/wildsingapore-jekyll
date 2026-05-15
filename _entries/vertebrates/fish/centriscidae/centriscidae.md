@@ -103,33 +103,9 @@ page_images:
     <p>Terumbu Bemban, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653907722906&set=a.10160653901047906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Razorfishes**  
-**Family Centriscidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This strange vertical fishes are sometimes seen on some
+## Where seen?
+ This strange vertical fishes are sometimes seen on some
 of our Southern shores at low tide, in deep pools such as in swimming lagoons,
 among coral rubble or in seagrass meadows. They are also encountered by divers in deeper waters. Elsewhere, they may be
 found in muddy bottoms near mangroves to inshore reefs. They often swim head down, presenting a narrow vertical profile that is unfish-like. **What are razorfishes?** Razorfishes belong to Family Centriscidae.

@@ -64,37 +64,9 @@ page_images:
     <p>Photos shared by James Koh on  <a href="http://singaporenature.wordpress.com/2012/05/07/120505-big-sisters/">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Neon
-anemone**  
-***Isactinia citrina*  
-Family Actiniidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This medium-sized anemone is sometimes wedged in crevices
+## Where seen?
+ This medium-sized anemone is sometimes wedged in crevices
 in coral rubble near living reefs on our Southern shores. Usually seen alone.  
   
 **Features:** Diameter 5-10cm with tentacles expanded. Many tentacles mostly on

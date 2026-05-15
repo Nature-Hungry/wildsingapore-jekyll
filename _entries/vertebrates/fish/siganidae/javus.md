@@ -44,36 +44,9 @@ page_images:
     <p>434pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Siganidae](siganidae)
-**Streaked
-rabbitfish**  
-***Siganus javus***  
-**Family Siganidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This spotted and striped fish is sometimes
+## Where seen?
+ This spotted and striped fish is sometimes
 seen on our Northern shores, near coral rubble and seagrasses.  
   
 **Features:** To about 40cm, those

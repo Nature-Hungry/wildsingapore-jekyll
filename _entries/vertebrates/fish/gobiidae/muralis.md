@@ -55,35 +55,9 @@ page_images:
     <p>Terumbu Raya, Jun 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158268063682906&set=a.10158268061907906&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Mural glider-goby**  
-****Valenciennea muralis****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This beautiful goby is sometimes seen on our shores.  
+## Where seen?
+ This beautiful goby is sometimes seen on our shores.  
   
 **Features:** To 10-13cm long. It has a large underslung mouth. 2 narrow bright orange stripes along the body, many fine orange stripes on the head that extend less brightly along the body. Black spot near the back of the first dorsal fin.  
   

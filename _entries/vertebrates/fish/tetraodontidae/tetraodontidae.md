@@ -62,30 +62,6 @@ page_images:
     <p><a href="mappa">Map pufferfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Pufferfishes**  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -95,8 +71,8 @@ predators. But don't force a pufferfish to do this.
 ![](../../../photos/bullet.gif)They
 have powerful teeth and can give a nasty bite.
   
-**Where
-seen?** These
+## Where seen?
+ These
 rotund fishes are sometimes seen on some of our shores. They are found
 among seagrasses, near coral rubble as well as in mangroves. Sometimes seen in fish traps, and also washed ashore during mass fish death incidents. Divers also encounter on some of our reefs, including very large ones!  
  **What are pufferfishes?** Pufferfishes belong to the Family

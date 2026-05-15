@@ -86,35 +86,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Merambong** **or** **Sea
-lettuce   
-*Scaevola taccada***  
-**Family** Goodeniaceae***updated
-Jan 13*
-
----
-
-**Where seen?** This bush with fleshy green leaves and a 'split'
+## Where seen?
+  This bush with fleshy green leaves and a 'split'
 flower is often seen on our rocky shores and sandy beaches where it
 is tolerant of salty spray although its roots doesn't actually tolerate
 regular flooding by seawater. Elsewhere, it is found on beaches and

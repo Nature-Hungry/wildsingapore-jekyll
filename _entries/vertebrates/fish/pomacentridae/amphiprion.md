@@ -72,31 +72,6 @@ page_images:
     <p><a href="frenatus.htm">Tomato anemonefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm)
-**Anemonefishes**  
-***Amphiprion* sp.****Family Pomacentridae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -108,8 +83,8 @@ fishes are threatened by over-collection for the aquarium
 trade. Don't keep Nemo in your home, he belongs in the
 ocean.
 
-**Where
-seen?** Made
+## Where seen?
+ Made
 famous by the cartoon "Finding Nemo", these fishes are
 a delight and the highlight of a trip. Anemonefishes are commonly
 seen among the sea anemones of our Southern shores. At low tide,

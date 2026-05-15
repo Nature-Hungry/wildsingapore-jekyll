@@ -56,33 +56,9 @@ page_images:
     <p>Sentosa, Mar 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| *[Xylocarpus](xylocarpus)* in general
-****Nyireh laut  
-*Xylocarpus rumphii***  
-**Family Meliaceae*****updated
-Jan 2013*
-
----
-
-**Where seen?** This rare tree is found on our natural rocky
+## Where seen?
+  This rare tree is found on our natural rocky
 shores at St. John's Island and Sentosa. According to Hsuan Keng,
 it has been recorded on rocky coasts of Singapore.  
   

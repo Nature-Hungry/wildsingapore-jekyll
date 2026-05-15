@@ -40,34 +40,9 @@ page_images:
     <p>Pulau Ubin, Aug 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-> [*Lumnitzera*](lumnitzera) in general
-**Teruntum
-putih   
-*Lumnitzera racemosa*  
-Family Combretaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This pretty plant with plasticky leaves and
+## Where seen?
+  This pretty plant with plasticky leaves and
 tiny white flowers is sometimes seen in our mangroves. It is found
 in the back mangroves, preferring sandy or hard mud areas. Also on
 shores and waterways with freshwater influence. It can tolerate more

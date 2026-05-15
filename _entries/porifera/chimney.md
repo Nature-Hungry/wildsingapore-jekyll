@@ -41,21 +41,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Colourful
-chimney sponge  
-*Petrosia* sp.*\**Family Petrosiidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This colourful sponge with short tubular chimneys is sometimes seen
 on some of our shores. **Features:** Ball shaped sponge 10-15cm, with regularly shaped
 chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow,

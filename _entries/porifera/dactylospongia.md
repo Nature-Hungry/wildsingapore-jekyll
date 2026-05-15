@@ -33,21 +33,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Mustard
-sponge  
-*Dactylospongia elegans\**Family Thorectidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This encrusting sponge is sometimes seen on coral rubble on our Southern shores. **Features:** Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).   
   
 **Sometimes confused with** [Yellow prickly branching sponges](encrustprickly.htm) (*Pseudoceratina purpurea*,

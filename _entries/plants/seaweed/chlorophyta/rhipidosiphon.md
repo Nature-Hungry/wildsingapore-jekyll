@@ -43,36 +43,9 @@ page_images:
     <p>Cyrene, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Pleated
-fan green seaweed  
-*Rhipidosiphon javensis*\*** **Family Udoteaceae  
-*updated
-Jul 2025***
-
----
-
-**Where
-seen?** This smooth fan-shaped seaweed in clusters is sometimes seen on some
+## Where seen?
+ This smooth fan-shaped seaweed in clusters is sometimes seen on some
 of our Northern shores, growing on and among coral rubble. Elsewhere
 also in sand. It was previously known as *Udotea javensis*.  
   

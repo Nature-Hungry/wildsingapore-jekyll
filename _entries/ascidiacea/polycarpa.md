@@ -40,23 +40,9 @@ page_images:
     <p>Lazarus Island, Jan 24Photo shared by Lam Jiajun on <a href="https://www.facebook.com/photo/?fbid=10231235123212067&set=a.10231235161293019">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Thumbs-up
-sea squirt  
-*Polycarpa* sp.\*  
-Family Styelidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This blob with red stripes is commonly
+## Where seen?
+ This blob with red stripes is commonly
 seen our Northern shores. Like a small disembodied thumbs-up, this
 animal is usually stuck to a large boulder, jetty pillings and other
 hard surfaces, near the mid-water mark. Usually seen alone or in groups

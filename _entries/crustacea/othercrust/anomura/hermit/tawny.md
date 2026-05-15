@@ -43,38 +43,9 @@ page_images:
     <p>Chek Jawa, Jun 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
-**Tawny
-hermit crab *Clibanarius* sp.*\**  
-Family Diogenidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This small hermit crab not often seen. So far near artificial seawalls as well as on natural rubble areas.  
+## Where seen?
+ This small hermit crab not often seen. So far near artificial seawalls as well as on natural rubble areas.  
   
 **Features:** Body 1-2cm long, mostly
 plain white. Both pincers are more or less equal in size and held so

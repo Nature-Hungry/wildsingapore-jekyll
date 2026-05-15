@@ -52,36 +52,9 @@ page_images:
     <p>Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162585289158119&type=3&ref=embed_post">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
-**Honeycomb
-whipray  
-*Himantura uarnak*  
-Family Dasyatidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 humungous spotted stingray is sometimes seen at Chek Jawa. Elsewhere it is common on sandy beaches and in shallow estuaries and lagoons; also found in sandy areas of coral reefs.   
   
 **Features:**  A large ray that can grow to about 160cm in diameter and

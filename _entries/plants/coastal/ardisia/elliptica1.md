@@ -34,31 +34,6 @@ page_images:
     <p>Pasir Ris, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Mata
-pelandok on Singapore shores****back
-to [general info on mata pelandok](elliptica.htm)
-
----
 
  
 

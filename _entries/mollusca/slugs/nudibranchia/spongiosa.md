@@ -90,36 +90,9 @@ page_images:
     <p>Pasir Ris Park, May 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158490105517945&set=a.10158490211547945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Sponge
-nudibranch  
-*Atagema spongiosa* Family Discodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** Resembling a large 'holey' sponge, this well camouflaged
+## Where seen?
+ Resembling a large 'holey' sponge, this well camouflaged
 nudibranch is sometimes seen our undisturbed Northern shores among
 coral rubble. Appears to be seasonally common. It was formerly known
 as *Trippa spongiosa*.  

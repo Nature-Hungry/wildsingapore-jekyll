@@ -71,38 +71,9 @@ page_images:
     <p>Terumbu Bemban, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
-**Carpet
-corallimorph**  
-***Rhodactis indosinensis***  
-**Family Discosomidae**   
-*updated
-Jul 2024*
-
----
-
-**Where
-seen?** This shaggy disk-shaped animal is commonly encountered
+## Where seen?
+ This shaggy disk-shaped animal is commonly encountered
 on many of our Southern shores, on coral rubble.  
   
 **Features:** Each polyp about 2-4cm

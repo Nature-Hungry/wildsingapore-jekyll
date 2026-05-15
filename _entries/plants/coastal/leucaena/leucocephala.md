@@ -80,34 +80,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Petai
-jawa** ***Leucaena leucocephala***  
-**Family** Fabaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This large bush that looks like a giant mimosa
+## Where seen?
+  This large bush that looks like a giant mimosa
 is often seen on our 'wastelands' and near our shores. It was also
 known as *Leucaena glauca* and *Leucaena latisiliqua*.  
   

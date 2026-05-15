@@ -75,36 +75,9 @@ page_images:
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/30054652130/in/album-72157672071908125/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Holey
-sponge seaweed  
-*Ceratodictyon spongiosum*\*** **Family Lomentariaceae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This woolly branching organism is sometimes seen on our Southern shores,
+## Where seen?
+ This woolly branching organism is sometimes seen on our Southern shores,
 growing on coral rubble. It looks like a sponge, complete with holes
 along the 'stems'. It can form large tangles, and even clusters that stand upright even out of water.  
   

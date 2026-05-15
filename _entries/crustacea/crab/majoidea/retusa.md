@@ -121,34 +121,6 @@ page_images:
     <p>Terumbu Raya, Jul 14Photo shared by Heng Pei Yan on <a href="https://www.flickr.com/photos/29889221@N00/15355479439/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Majoidea](majoidea)
-**Velcro
-crab**  
-***Camposcia retusa***  
-**Family Inachidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -158,8 +130,8 @@ on it.
 ![](../../../photos/bullet.gif)They
 tend to move slowly.
   
-**Where
-seen?** This superbly disguised crab is commonly
+## Where seen?
+ This superbly disguised crab is commonly
 encountered on our Northern shores, on coral rubble and seagrasse
 areas. But it requires a keen eye to spot!  
   

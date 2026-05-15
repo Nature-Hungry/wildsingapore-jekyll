@@ -43,38 +43,9 @@ page_images:
     <p>Seringat Kias, Sep 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173053859530112&type=3&ref=embed_post">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
-**Gold-spotted
-hermit crab *Clibanarius cruentatus*  
-Family Diogenidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This pretty black hermit crab is sometimes seen,
+## Where seen?
+ This pretty black hermit crab is sometimes seen,
 in coral rubble near reefs. It seems to be more active at night. Elsewhere,
 it is said to be a very common intertidal hermit crab living in sand-mud
 bottoms in mangrove areas, pebble beaches and rocky shores.  

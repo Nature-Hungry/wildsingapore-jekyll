@@ -66,35 +66,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Nangka****or****Jackfruit  
-*Artocarpus heterophyllus***  
-**Family Moraceae*****updated
-Nov 10*
-
----
-
-**Where seen?** Among the favourite fruits of Singaporeans,
+## Where seen?
+  Among the favourite fruits of Singaporeans,
 this tree is often planted in gardens. Those found growing in the
 wild often mark the locations of 'kampongs' or villages that have
 long since been cleared. Pulau Ubin has lots of nangka trees. The

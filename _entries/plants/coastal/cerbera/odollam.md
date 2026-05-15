@@ -114,33 +114,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) | [*Cerbera*](cerbera) in general
-****Yellow-eyed
-pong pong tree  
-*Cerbera odollam*****Family** Apocynaceae** *updated Jan 13*
-
----
-
-**Where seen?** This tree with pretty white star-shaped flowers
+## Where seen?
+  This tree with pretty white star-shaped flowers
 and large round fruits is widely planted along our roadsides and in
 our parks. It is also sometimes seen growing wild in our mangroves,
 seashores and tidal rivers. According to Giesen, it is found in coastal

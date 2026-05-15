@@ -80,35 +80,9 @@ page_images:
     <p>Beting Bemban Besar, Apr 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4540476794/in/datetaken/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-> [jellyfish](jellyfish) > Class Scyphozoa >
-Order Rhizostomeae
-**Upsidedown
-jellyfish  
-*Cassiopea sp.*Family Cassiopeidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This topsy turvy jellyfish can be seasonally common on our Southern shores. Especially onPulau Semaku,
+## Where seen?
+ This topsy turvy jellyfish can be seasonally common on our Southern shores. Especially onPulau Semaku,
 found throughout the intertidal from the seagrass meadows to the reef
 flats. And also in the submerged reefs nearby. It is also seen on some of our other Southern shores.  
   

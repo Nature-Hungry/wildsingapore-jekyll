@@ -27,36 +27,9 @@ page_images:
     <p>St John's Island, Feb 24 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229785992945&set=a.10160230394282945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Blennidae](blenniidae)
-**Oyster
-blenny  
-*Awaiting identification*  
-Family Blenniidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
+## Where seen?
+ This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
   
 **Features:** About 5cm. Body elongated flattened sideways, head rounded. Fine white lines along the body length.
  

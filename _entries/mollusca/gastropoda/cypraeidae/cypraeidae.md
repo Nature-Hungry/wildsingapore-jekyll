@@ -123,31 +123,6 @@ page_images:
     <p><a href="vitellus.htm">Milk-spotted cowrie</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Cowries**  
-**Family Cypraeidae***updated
-Jul 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -159,7 +134,8 @@ by over-collection.
 their shells covered, coowries are sometimes mistaken
 for slugs!
   
-**Where seen?** Some species of cowries
+## Where seen?
+  Some species of cowries
 are still common on all our shores. Even these, however, are usually
 well camouflaged or well hidden under rocks, nooks and crannies or in rubble. They are usually more active at night.   
   

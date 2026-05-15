@@ -80,37 +80,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472458013/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Rough
-anemone**  
-***Macrodactyla aspera***  
-**Family Actiniidae***updated
-Jul 2023*
-
----
-
-**Where
-seen?** This anemone is sometimes
+## Where seen?
+ This anemone is sometimes
 seen on sand and seagrasses on our Northern shores. *Aspera* means 'rough' in Latin.  
   
 **Features:** Diameter

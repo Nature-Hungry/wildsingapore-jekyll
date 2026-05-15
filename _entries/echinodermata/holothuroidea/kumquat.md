@@ -71,22 +71,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Kumquat
-sea cucumber** ***Actinopyga* sp.  
-Family Holothuriidae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small smooth reddish orange sea cucumber does
+## Where seen?
+ This small smooth reddish orange sea cucumber does
 resemble a kumquat! It is sometimes seen on our Southern shores among coral rubble and near reefs.  
   
 **Features:** About 8cm long. Body

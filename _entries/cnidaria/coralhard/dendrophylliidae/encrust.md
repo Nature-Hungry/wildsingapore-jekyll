@@ -120,37 +120,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Dendrophyllidae](dendrophyllidae.htm) >
-[*Turbinaria* sp.](turbinaria.htm)
-**Encrusting
-disk coral  
-*Turbinaria* sp.\*** **Family Dendrophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This hard coral that forms thick encrusting plates
+## Where seen?
+ This hard coral that forms thick encrusting plates
 is sometimes seen on many of our Southern shores.  
   
 **Features****:** Colonies up to 15-30cm, sometimes larger. Generally a thick (about

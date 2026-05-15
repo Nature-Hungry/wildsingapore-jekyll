@@ -51,36 +51,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Neritidae](neritidae.htm)
-**Polished
-nerite snail**  
-***Nerita polita*Family Neritidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 nerite snail with a smooth shell is sometimes seen on our Southern
 shores, on rocky shores often near the high water mark. The study by Tan & Clements (2008) found this snail on intertidal
 rocks. They observed that the snail is nocturnal in habit and frequently

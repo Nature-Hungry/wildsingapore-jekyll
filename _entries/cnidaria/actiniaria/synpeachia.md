@@ -40,37 +40,9 @@ page_images:
     <p>Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24260866154/in/album-72157607712316054/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum
-[Cnidaria](cnidaria.htm) > Class [Anthozoa](anthozoa.htm)
-> Subclass
-Zoantharia/Hexacorallia > Order [Actiniaria](actiniarianoid/actiniaria.htm)
-**Brown peachia
-anemone**  
-***Synpeachia temasek*** **Family Haloclavidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This small anemone with a few fat tentacles that
+## Where seen?
+ This small anemone with a few fat tentacles that
 spread out flat is seen on some of our shores, especially in sheltered
 sandy areas. It is small and usually retracted into the sand at low
 tide so it may actually be quite common but overlooked. *Synpeachia temasek* is a new genus and new species described from Singapore!  

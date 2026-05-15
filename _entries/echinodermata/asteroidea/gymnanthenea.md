@@ -109,22 +109,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Spiny
-sea star  
-*Gymnanthenea laevis*Family
-Oreasteridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This sea star is sometimes seen, usually on our Northern shores. In
+## Where seen?
+ This sea star is sometimes seen, usually on our Northern shores. In
 seagrass meadows and coral rubble.  
   
 **Features:** Diameter with arms 7-15cm.

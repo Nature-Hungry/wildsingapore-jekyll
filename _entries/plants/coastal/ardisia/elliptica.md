@@ -41,35 +41,9 @@ page_images:
     <p>Pasir Ris, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../coastalplants.htm) 
-**Mata
-pelandok or Seashore ardisia  
-*Ardisia elliptica*  
-Family Primulaceae***updated
-Nov 2016*
-
----
-
-**Where
-seen?** This shrub with pink star-shaped flowers, and colourful
+## Where seen?
+ This shrub with pink star-shaped flowers, and colourful
 leaves and berries is now widely planted in our coastal parks. In
 the wild, it is found in tidal swamps, muddy and sandy river banks
 of tidal estuaries, usually in places only occasionally flooded at

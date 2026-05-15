@@ -57,19 +57,8 @@ page_images:
 coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg"
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Long-tailed macaque** ***Macaca fascicularis*  
-Family Cercopithecidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** These charismatic furry creatures are commonly seen
+## Where seen?
+ These charismatic furry creatures are commonly seen
 in many of our wild shores. Native to Singapore, their original habitat
 was mangroves. In fact, they are sometimes also called Crab-eating
 macaques. They can be seen at Sungei Buloh Wetland Reserve, Sentosa,

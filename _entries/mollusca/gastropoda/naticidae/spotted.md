@@ -111,38 +111,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100215sisd9374m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Spotted
-moon snail**   
- ***Natica
-gualteriana*   
-Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This moon snail with a spotted body is sometimes
+## Where seen?
+ This moon snail with a spotted body is sometimes
 seen on sandy areas near reefs on some of our Southern shores. It
 is also known as Gualtieri's moon snail.  
   

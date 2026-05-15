@@ -139,49 +139,6 @@ links_references: |-
     Nature Society (Singapore). 285 pp.
 ---
 
-arthropods [text index](../arthropoda/arthropodaindex)
-| [photo index](../arthropoda/arthropodafi)
-| Phylum [Arthropoda](../arthropoda/arthropoda)
-> Class Arachnida
-# Marine spider  
-# *Desis martensi*  
-## Family Desidae**
-### *updated Nov 2019*
-
-# Where seen?
-This energetic little spider is commonly seen on many
-of our shores at low tide: constantly on the move, scurrying about among rocks, coral rubble or corals. It is more active at night and can be quite abundant, with many seen on one trip. This spider was described from Singapore and the type specimen
-was collected at the coral reefs fringing the island now known as
-Sentosa.  
-  
-# Features:
-Body to about 1cm long.
-Its head and huge jaws are smooth maroon, body and legs are furry,
-greyish sometimes with a pink tinge. At high tide, it hides in air
-pockets among crevices of submerged rocks, waterproofing these with
-a mat of silk. It emerges at low tide to hunt. It can 'walk' on water,
-scuttling rapidly over the water. Hairy feet and long legs, which distribute its weight,
-prevents it from breaking the water surface tension.
-
- 
-
-
-
-# What does it eat?
-These spiders have been seen clutching in their jaws all kinds of animals including [shore crickets](../insecta/cricketshore), [sea slaters](../crustacea/othercrust/isopoda/ligia) and little shrimps.  
-  
-# Baby spiders:
-Egg cocoons are placed in waterproofed tubes sealed with silk.  
-  
-# Status and threats:
-The Marine spider is listed as 'Vulnerable' on the Red List of threatened animals
-of Singapore. According to the Singapore Red Data Book: "Loss of the natural
-intertidal zone in reefs and rocky shores would threaten its survival."
-
-
-
----
-
 # Marine spiders on Singapore shores
 On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)  
 

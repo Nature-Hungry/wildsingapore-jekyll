@@ -60,36 +60,9 @@ page_images:
     <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/38901279845/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
-**Mangrove
-whipray  
-*Himantura walga*  
-Family Dasyatidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 plain stingray with a sharp pointed snout is sometimes seen on our
 Northern shores, usually on muddy shores. It is more active at night
 and at high tide. Small ones are sometimes also seen trapped in pools

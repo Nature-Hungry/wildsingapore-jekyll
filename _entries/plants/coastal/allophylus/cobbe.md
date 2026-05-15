@@ -49,35 +49,9 @@ page_images:
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants
-[text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-**Tit-berry   
-*Allophylus cobbe*  
-Family Sapindaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This pretty shrub with bright red fruits are
+## Where seen?
+  This pretty shrub with bright red fruits are
 sometimes seen in our back mangroves and sandy shores. According to
 Hsuan Keng, common along seashores including Kranji, Seletar and Jurong.
 Elsewhere, they are also found in secondary forest. Globally widely

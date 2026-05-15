@@ -34,33 +34,6 @@ page_images:
     <p><a href="humped">Humpbacked shrimp</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Hippolytoid
-shrimps**  
-**Family Hippolytidae***updated
-Jan 2020*
-
----
 
 **What
 are Hippolytid shrimps?** Hippolytid

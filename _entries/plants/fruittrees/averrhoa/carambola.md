@@ -80,33 +80,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-****Star-fruit  
-*Averrhoa carambola***  
-**Family Oxalidaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** This tree with pretty pink flowers were commonly
+## Where seen?
+  This tree with pretty pink flowers were commonly
 planted by villagers and are seen in wild areas where kampungs used
 to be. According to Hsuan Keng, it possibly originated from South
 India. According to Burkill and Corners, it is native to Java and

@@ -117,29 +117,6 @@ page_images:
     <p>Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649730958158&set=a.10159649733953158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
-**Sharks  
-Class Elasmobranchii, Infraclass Selachii***Updated Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -149,8 +126,8 @@ learn only 3 things about them ...
 top predators, they play an important role in the health
 and balance of the marine ecosystem.
   
-**Where
-seen?** Sharks are sometimes seen by divers in our waters,
+## Where seen?
+ Sharks are sometimes seen by divers in our waters,
 and during intertidal trips to Singapore's southern submerged reefs.  
   
 **What are sharks?** Sharks belong

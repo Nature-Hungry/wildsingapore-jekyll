@@ -64,34 +64,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Delicate
-hydroid*****awaiting
-identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** Colonies of these tiny animals are often encountered
+## Where seen?
+ Colonies of these tiny animals are often encountered
 on our Southern shores, but often overlooked. In coral rubble areas.  
   
 **Features:** Clusters of many tiny

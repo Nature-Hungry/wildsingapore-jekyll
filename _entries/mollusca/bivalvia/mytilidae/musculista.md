@@ -58,34 +58,9 @@ page_images:
     <p>Changi, Jun 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Mytilidae](mytilidae.htm)
-**Nest
-mussel** ***Arcuatula senhousia*  
-Family Mytilidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This tiny mussel appears to be seasonal on our Northern shores. Sometimes, it is very common,
+## Where seen?
+ This tiny mussel appears to be seasonal on our Northern shores. Sometimes, it is very common,
 forming spongy carpets over vast areas of the shore near the low water
 mark, as well as on large boulders. At other times, it is not seen at all. It was previously called *Muscuslita
 senhousia*.   

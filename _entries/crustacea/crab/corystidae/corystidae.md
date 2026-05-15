@@ -71,34 +71,9 @@ page_images:
     <p>John's Island, Aug 09 Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/08/slugging-at-st-johnsl">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-**Masked
-burrowing crabsFamily Corystidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** These small funny-looking crabs are sometimes seen on our shores, among seagrasses and near reefs.  
+## Where seen?
+ These small funny-looking crabs are sometimes seen on our shores, among seagrasses and near reefs.  
   
 **Features:** Body about 3cm.
 The body is oval and abdomen folded beneath. Antennae are very long

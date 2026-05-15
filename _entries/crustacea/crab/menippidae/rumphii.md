@@ -69,39 +69,9 @@ page_images:
     <p>East Coast PCN, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169198521795112&set=a.10169198519290112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/080619chgd5706m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class Malacostraca
-> Order [Decapoda](../../decapoda) > Brachyurans
-> Family [Menippidae](menippidae)
-**Maroon
-stone**  **crab**  
-***Menippe rumphii***  
-**Family Menippidae**  
-*updated
-Dec 2016*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 sturdy crab is seen in rocky and rubbly areas on our Northern shores. Elsewhere, it is found in sandy-muddy areas usually
 under rocks.  
   

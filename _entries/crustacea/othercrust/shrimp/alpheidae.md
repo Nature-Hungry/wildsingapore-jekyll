@@ -91,35 +91,6 @@ page_images:
     <p><a href="alphballsoft">White soft coral snapping shrimp</a>in ball flowery soft corals</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Snapping
-shrimps**  
-**Family Alpheidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -129,8 +100,8 @@ Listen out for them!
 ![](../../../photos/bullet.gif)Sometimes,
 a goby share the burrow with the shrimp.
   
-**Where
-seen?** You
+## Where seen?
+ You
 will most likely hear a snapping shrimp before you see one. These
 little creatures make the incessant pops that you hear at low tide.
 They range from tiny ones to rather large ones that can pack a really

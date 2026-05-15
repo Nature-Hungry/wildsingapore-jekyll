@@ -163,36 +163,6 @@ page_images:
     <p>Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169202002145112&set=a.10169201997770112">facebook</a>.</p>
 coverimg: ../../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-****Hermit
-crabs**   
-**Infraorder Anomura*****updated
-Jan 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -203,7 +173,8 @@ take any shells home!
 other animals may live together with a hermit crab. Don't
 take hermits home!
   
-**Where seen?** Hermit crabs are commonly seen on many of our shores. They come in
+## Where seen?
+  Hermit crabs are commonly seen on many of our shores. They come in
 all sizes from tiny to large, and live in all kinds of shells. The
 same kind of hermit crab may live in different kinds of empty shells.
 Hermit crabs may live even in broken shells.  

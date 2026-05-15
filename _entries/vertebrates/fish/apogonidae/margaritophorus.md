@@ -79,37 +79,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Apogonidae](apogonidae)
-**Chequered
-cardinalfish**  
-***Ostorhinchus margaritophorus***  
-**Family Apogonidae**  
-*updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small silvery fish is commonly seen on many of our shores, especially
+## Where seen?
+ This small silvery fish is commonly seen on many of our shores, especially
 on the Northern shores. Often seen in small groups, in pools among
 seagrasses and coral rubble. It was previously known as *Apogon
 margaritophorus*.  

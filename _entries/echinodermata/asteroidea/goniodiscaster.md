@@ -56,22 +56,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Biscuit
-sea star  
-*Goniodiscaster scaber*  
-Family Oreasteridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This thick, neatly shaped sea star does indeed look like a biscuit
+## Where seen?
+ This thick, neatly shaped sea star does indeed look like a biscuit
 in shape and colour! It is often seen on our Northern shores, larger
 adults on rubble, smaller ones and tiny juveniles among seagrasses,
 usually alone or widely spaced apart. There are times, however, when

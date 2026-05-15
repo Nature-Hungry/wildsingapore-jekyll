@@ -25,21 +25,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Yellow
-horn sponge  
-*awaiting identification\*****updated
-Oct 2016*
-
----
-
-**Where
-seen?** There is a patch of these sponges at Chek Jawa, growing among coral
+## Where seen?
+ There is a patch of these sponges at Chek Jawa, growing among coral
 rubble. The base of the sponges are usually covered with [tiny
 red sea cucumbers](../echinodermata/holothuroidea/tinyred.htm) and sometimes [sponge
 synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) as well. **Features:** Sponge is horn-shaped and smooth. There does

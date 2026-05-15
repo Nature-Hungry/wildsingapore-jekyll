@@ -83,25 +83,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Purple-spotted
-flatworm  
-*Pseudoceros laingensis*****Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This delightfully spotted flatworm is sometimes seen
+## Where seen?
+ This delightfully spotted flatworm is sometimes seen
 on our Northern shores, among coral rubble. It seems to be seasonally
 common, with many of worms seen on one visit, and none later on. It
 is more active at night. The flatworm is named after Laing Island in Papua New Guinea.  

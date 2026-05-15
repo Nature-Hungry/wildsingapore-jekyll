@@ -33,25 +33,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Damawan
-flatworm  
-*Pseudobiceros damawan*****Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** Sometimes seen on remote reefs and also seen by divers
+## Where seen?
+ Sometimes seen on remote reefs and also seen by divers
 on our reefs.  
   
 **Features:** 8-10cm long. Body mottled

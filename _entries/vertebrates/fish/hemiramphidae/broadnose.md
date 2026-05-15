@@ -65,36 +65,9 @@ page_images:
     <p>Pulau Sudong, Dec 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171957840/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Hemiramphidae](hemiramphidae.htm)
-**Broad-nosed
-halfbeak**  
-***awaiting
-identification\**** **Family Hemiramphidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small stick-like fish with a wide flattened lower jaw is commonly seen
 on many of our shores. Among seagrass areas, coral rubble and reefs.
 It is more active at night.  

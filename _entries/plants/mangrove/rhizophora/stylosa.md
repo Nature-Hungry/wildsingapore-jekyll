@@ -46,33 +46,9 @@ page_images:
     <p>Pulau Semakau, Feb 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > [*Rhizophora*](rhizophora) species
-**Bakau
-pasir   
-*Rhizophora stylosa*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This mangrove tree is considered rare, although
+## Where seen?
+  This mangrove tree is considered rare, although
 some shores such as Chek Jawa and Pulau Semakau may have large numbers
 of them. Large numbers are also seen in a lagoon in the middle of
 the Sentosa Serapong golf course. According to Hsuan Keng, these were

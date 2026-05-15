@@ -86,36 +86,9 @@ page_images:
     <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519796667/in/album-72157625976409015/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea pens [text
-index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
-**Spiky
-sea pen**  
-***Pteroeides* sp.\*  
-Family Pennatulidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This feathery colony is sometimes seen on our Northern
+## Where seen?
+ This feathery colony is sometimes seen on our Northern
 shores. In soft silty sand and near seagrasses. The colony does not
 harbour symbiotic algae (zooxanthellae) and can thus thrive in murky
 water.  

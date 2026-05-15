@@ -78,22 +78,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/080621labd6086m3e.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Daisy
-sponge  
-*Coelocarteria singaporensis\******Family
-Isodictyidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This strange sponge is sometimes seen on many of our shores, growing
 on and among coral rubble as well as on rocks which are submerged
 even at low tide. It is considered one of the most commonly encountered

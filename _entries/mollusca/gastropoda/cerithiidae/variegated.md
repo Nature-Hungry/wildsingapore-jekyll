@@ -51,38 +51,9 @@ page_images:
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cerithiidae](cerithiidae.htm)
-**Variegated
-creeper snail  
-*awaiting
-identification\**   
-Family Cerithiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This small, pretty creeper snail is sometimes found in small groups
+## Where seen?
+ This small, pretty creeper snail is sometimes found in small groups
 on sandy sheltered areas near coral reefs. Sometimes found on tape
 seagrasses.  
   

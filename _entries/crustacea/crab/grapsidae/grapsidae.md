@@ -33,33 +33,6 @@ page_images:
     <p><a href="albolineatus">Sally-light-foot crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Grapsid
-crabs**   
-**Family Grapsidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -69,7 +42,8 @@ over rocks.
 ![](../../../photos/bullet.gif)They
 are very shy and disappear at the slightest sign of trouble.
   
-**Where seen?** Small grapsid crabs
+## Where seen?
+  Small grapsid crabs
 are commonly seen on many of our rocky shores and mangroves, especially
 at night. They are among the colourful crabs you might see even at
 high tide. But they are more active at night and fast moving. During

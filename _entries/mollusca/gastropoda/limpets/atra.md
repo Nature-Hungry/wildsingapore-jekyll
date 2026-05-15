@@ -45,36 +45,9 @@ page_images:
     <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10153719048773660&set=a.10153713985548660.1073741906.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [Limpets](limpet.htm)
-**Flat
-false limpet**  
-***Siphonaria atra*  
-Family Siphonariidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large rather flattened limpet is sometimes seen on large boulders
 on some of our Southern shores near reefs. Usually settles near the
 low water mark.  

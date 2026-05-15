@@ -41,36 +41,9 @@ page_images:
     <p>Mandai, Feb 13</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Varunidae](varunidae)
-**Orange
-signaller crab**   
-***Metaplax elegans*****Family Varunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny energetic crab with long
+## Where seen?
+ This tiny energetic crab with long
 orange pincers is found in the back mangroves in very soft mud. Often in large groups
 near stream banks, digging out burrows to live in.  
   

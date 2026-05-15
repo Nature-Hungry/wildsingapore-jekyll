@@ -65,34 +65,6 @@ page_images:
     <p>](https://www.flickr.com/photos/micamonkey/3869824396/ "Mud Lobster at Chek Jawa!")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustacea [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [Lobsters](lobster)
-**Mud
-lobster**  
-***Thalassina* sp.**  
-**Family Thalassinidae***updated
-Mar 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -103,8 +75,8 @@ back mangroves.
 ![](../../../photos/bullet.gif)Many
 other plants and animals live and feed on these mounds.
   
-**Where
-seen?** The mud lobster is almost never seen out of its burrow
+## Where seen?
+ The mud lobster is almost never seen out of its burrow
 in the mangrove mud. But the impressive mounds created by this animal
 are still commonly seen in the undisturbed back mangroves on our shores.  
   

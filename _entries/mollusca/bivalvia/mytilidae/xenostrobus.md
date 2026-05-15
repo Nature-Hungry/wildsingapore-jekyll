@@ -43,34 +43,9 @@ page_images:
     <p>Punggol, Dec 10Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5268501204/in/album-72157625372847848/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Mytilidae](mytilidae.htm)
-**Little
-black mussel** ***Xenostrobus* sp.  
-Family Mytilidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This tiny black mussel is sometimes seen in clusters of many individuals
+## Where seen?
+ This tiny black mussel is sometimes seen in clusters of many individuals
 on large boulders at the midwater mark. Grows among oysters, barnacles
 and other encrusting animals there. Dull greyish ones are sometimes
 seen in small clusters on mangrove trees and their roots in the mangroves.

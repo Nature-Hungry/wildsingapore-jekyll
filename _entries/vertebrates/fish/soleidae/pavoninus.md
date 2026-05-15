@@ -119,37 +119,9 @@ page_images:
     <p>Pulau Sudong, Dec 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171201799/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-> Family [Soleidae](soleidae)
-**Peacock
-sole**  
-***Pardachirus pavoninus***  
-Family Soleidae  
-*updated Mar 2020*
-
----
-
-**Where
-seen?** This large pretty fish is sometimes seen on on sandy
+## Where seen?
+ This large pretty fish is sometimes seen on on sandy
 areas near seagrasses on some of our shores. **Features:** Those seen
 about 10-15cm, can grow to about 20cm. Eyes on right side. Small,
 highly curved mouth. Body oblong and very flat. No pectoral fins.

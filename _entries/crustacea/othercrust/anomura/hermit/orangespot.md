@@ -91,39 +91,9 @@ page_images:
     <p>Terumbu Semakau, Dec 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Spotted
-orange hermit crab  
-*Dardanus megistos*  
-Family Diogenidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This bright orange hermit crab with white spots is
+## Where seen?
+ This bright orange hermit crab with white spots is
 sometimes seen on reefs and rubble on some of our shores.  
   
 **Features:** Body 4-8cm long. Body,

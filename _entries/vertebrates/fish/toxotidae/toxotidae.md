@@ -55,30 +55,6 @@ page_images:
     <p><a href="chatareus">Spotted archerfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Archerfishes**  
-**Family Toxotidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -87,8 +63,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)There
 are two different species of archerfishes in our waters.
   
-**Where
-seen?** These surface dwelling fishes are commonly seen in mangroves and under
+## Where seen?
+ These surface dwelling fishes are commonly seen in mangroves and under
 jetties on our Northern shores. There are usually large groups of
 big fat archerfishes under the main bridge at Sungei Buloh Wetland
 Reserve. Smaller ones are sometimes seen at the Changi Village jetty.  

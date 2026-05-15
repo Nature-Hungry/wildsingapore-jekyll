@@ -70,20 +70,6 @@ page_images:
   caption: <p>Thick underground stemLabrador, May 05</p>
 ---
 
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Sickle
-seagrass  
-*Thalassia hemprichii*  
-Family Hydrocharitaceae  
-*updated Oct 2016***
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)
@@ -93,7 +79,8 @@ It doesn't flower frequently.
 ![](../../photos/bullet.gif)It
 is eaten by sea turtles and dugongs.
   
-**Where seen?**
+## Where seen?
+ 
 This seagrass only abundant on Labrador, which has quite a large patch.
 On Chek Jawa, it is found in small patches. The [preliminary
 results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii) suggest it is found

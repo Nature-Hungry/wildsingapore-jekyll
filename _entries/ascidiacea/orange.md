@@ -54,22 +54,9 @@ page_images:
     <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Orange
-lobed ascidians  
-*awaiting identification\**Family Styelidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 bright orange blobs are sometimes seen on coral rubble and other hard
 surfaces on our Northern shores. Usually near the mid-water mark.  
   

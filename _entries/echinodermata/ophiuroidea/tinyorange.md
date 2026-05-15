@@ -70,22 +70,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Tiny
-orange brittle stars**   
-***Ophiothela mirabilis*\*  
-Family Ophiotrichidae***updated
-Oct 2024*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 tiny brittle stars are sometimes seen on [Asparagus
 soft corals](../../cnidaria/coralsoft/nephtheidae), various soft corals and other cnidarians. A single host
 can be home to many of these tiny brittle stars.  

@@ -51,22 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**See-through
-sea cucumber  
-*Paracaudina australis\**  
-Family Caudinidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 slippery transparent sea cucumber is sometimes seen floating in water
 or among seagrasses on some of our Northern shores. Sometimes also
 seen buried in sand near seagrasses. When seen, many individuals are

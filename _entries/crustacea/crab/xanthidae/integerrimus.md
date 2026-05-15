@@ -176,35 +176,6 @@ page_images:
     <p>Pulau Sudong, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Red
-egg crab   
-*Atergatis integerrimus***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -214,8 +185,8 @@ are NOT destroyed by cooking.
 ![](../../../photos/bullet.gif)They
 are not venomous but it's best not to touch them.
   
-**Where
-seen?** This colourful round crab can be very commonly seen
+## Where seen?
+ This colourful round crab can be very commonly seen
 on many of our shores in coral rubble areas and reefs. Slow moving,
 it usually hides under large coral rubble pieces, but can be quite
 active at night.

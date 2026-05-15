@@ -49,34 +49,9 @@ page_images:
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211764760646743&set=a.10211764752726545&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Malleidae](../malleidae/malleidae.htm)
-**Forked
-venus clam**  
-***Gafrarium divaricatum\******Family Veneridae***updated
-May 2020*
-
----
-
-**Where
-seen?** This clam can be quite common on some shores, among
+## Where seen?
+ This clam can be quite common on some shores, among
 coral rubble or hidden under stones near the low water mark. Elsewhere, they are found on intertidal shores with coarse sand and
 gravel.   
   

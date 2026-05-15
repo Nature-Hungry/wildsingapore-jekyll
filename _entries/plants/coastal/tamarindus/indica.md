@@ -87,36 +87,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Asam
-tree**  **or** **Tamarind
-tree   
-*Tamarindus indica***  
-**Family** Fabaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This tree with pretty orchid-like flowers and
+## Where seen?
+  This tree with pretty orchid-like flowers and
 famous fruits is sometimes seen wild on our shores. It is also planted
 as a roadside tree.  
   

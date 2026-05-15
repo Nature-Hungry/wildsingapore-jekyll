@@ -100,37 +100,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/181225kusm6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Poritidae](poritidae) > Genus [*Goniopora*](goniopora)
-**Anemone
-coral  
-*Goniopora* sp.\*  
-Family Poritidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard coral with long-bodied polyps is commonly
+## Where seen?
+ This hard coral with long-bodied polyps is commonly
 seen on many of our reefs, including those on our Northern shores.
 Although it is more common on our Southern shores, where clusters of the coral can form quite a large clump.  
   

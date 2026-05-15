@@ -46,21 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Yellow
-bumpy sponges  
-*Awaiting identification****updated
-Oct 2016*
-
----
-
-**Where
-seen?** There are various yellow or orange sponges which look like cones,
+## Where seen?
+ There are various yellow or orange sponges which look like cones,
 lumpy fingers or bumps. They have yet to be identified. They are grouped
 together here for ease of display.
 

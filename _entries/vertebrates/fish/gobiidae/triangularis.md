@@ -47,36 +47,9 @@ page_images:
     <p>Tanah Merah, May 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3523575195/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Brown
-shore goby**  
-***Drombus triangularis\****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This little brown goby is often seen on many
+## Where seen?
+ This little brown goby is often seen on many
 of our shores from sandy to silty shores near reefs, also among seagrasses
 and mangroves. Sometimes, in a group of several individuals of different sizes.  
   

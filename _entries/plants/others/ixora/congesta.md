@@ -58,33 +58,9 @@ page_images:
     <p>Chek Jawa, Nov 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-****Jarum-jarum  
-*Ixora congesta***  
-**Family Rubiaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** This large shrub is seen in forests near the
+## Where seen?
+  This large shrub is seen in forests near the
 shores such as at Chek Jawa. They bloom seasonally, whereupon they
 provide a dash of bright colour to the forest gloom. Corners describes
 it as "the most conspicuous of our wild Ixoras". According

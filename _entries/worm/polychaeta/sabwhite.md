@@ -61,25 +61,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**White
-spiral fanworm** ***awaiting
-identification\******Family
-Sabellidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This small
+## Where seen?
+ This small
 fanworm is sometimes seen on some of our shores, especially in sandy
 areas near coral rubble.   
   

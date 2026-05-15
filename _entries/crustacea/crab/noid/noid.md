@@ -51,38 +51,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Banded-leg
-swimming crab**  
-***Charybdis
-annulata\******Family Portunidae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?** This swimming crab with bands on its legs is sometimes
+## Where seen?
+ This swimming crab with bands on its legs is sometimes
 seen on some of our rocky and reefy shores, especially at night.  
   
 **Features:** Body width 5-7cm. Body

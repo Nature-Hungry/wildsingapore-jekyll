@@ -65,31 +65,6 @@ page_images:
     <p><a href="pink">Pink button zoanthids</a> (Zoanthus vietnamensis) Polyps with pink edges at the top of the body column, more obvious in retracted polyp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-zoanthids [text
-index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia
-**Zoanthids**  
-**Order Zoanthidea***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -99,8 +74,8 @@ are small and may retract at low tide. Don't step on them!
 ![](../../../photos/bullet.gif) Their leathery skin is partly made up of chitin, the same
 substance that insect exoskeleton is made up of.
   
-**Where
-seen?** These tiny but tough flower-like animals often carpet
+## Where seen?
+ These tiny but tough flower-like animals often carpet
 rocky and rubbly areas. Some are adapted be regularly exposed to the
 air at low tide. These animals are often the first to settle on any
 vacated space in a reef.   

@@ -131,35 +131,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171818210/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm)
-**Pygmy
-squid**  ***Idiosepius* sp.  
-Family Idiosepiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** Arguably the cutest little thing on the shore, this tiny squid is commonly seen on many of our shores,
+## Where seen?
+ Arguably the cutest little thing on the shore, this tiny squid is commonly seen on many of our shores,
 among seagrasses and near reefs and rubble. Often dismissed as bits
 of floating rubbish, this small, well camouflaged animal is usually
 seen hunting alone.  

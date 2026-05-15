@@ -92,36 +92,9 @@ page_images:
     <p>464 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Merulinidae](merulinidae.htm)
-**Meteor coral**  
-***Cyphastrea* sp. \*****Family
-Merulinidae** *updated
-Nov 2019*
-
----
-
-**Where
-seen?** These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen
+## Where seen?
+ These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen
 on many of our Southern shores.  
   
 **Features:** Colonies seen 15-30cm,

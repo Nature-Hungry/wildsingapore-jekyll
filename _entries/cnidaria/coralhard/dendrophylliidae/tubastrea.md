@@ -125,36 +125,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/06/kusu-island-marine-garden-in-city.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Dendrophyllidae](dendrophyllidae.htm)
-**Cave
-corals  
-*Tubastraea* sp.** **Family Dendrophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** These small hard corals grow in dark places. Tiny
+## Where seen?
+ These small hard corals grow in dark places. Tiny
 colonies can grow profusely on jetty legs and pontoons especially in the South but also on Northern shores.
 Most are *Tubastraea* species but *Cladopsammia gracilis* also looks like Cave corals.  
   

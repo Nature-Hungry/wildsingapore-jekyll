@@ -58,34 +58,9 @@ page_images:
     <p>John's Island, Aug 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../../coastal/coastalplants) 
-**Ketapang or Sea
-almond   
-*Terminalia catappa*  
-Family Combretaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This spreading tree with large leaves is commonly
+## Where seen?
+  This spreading tree with large leaves is commonly
 grown in our parks and roadsides. It is also commonly seen growing
 wild on undisturbed shores. In fact, Corners says it is one of the
 most common Malayan trees in the wild on the coast and inland where

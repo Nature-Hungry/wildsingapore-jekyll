@@ -69,36 +69,9 @@ page_images:
     <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) > [figs in general](ficus)
-****Collared
-fig   
-*Ficus crassiramea***  
-**Family Moraceae*****updated
-Dec 09*
-
----
-
-**Where seen?** A gorgeous specimen of this rare tree can be
+## Where seen?
+  A gorgeous specimen of this rare tree can be
 seen on Pulau Ubin growing near the Information Kiosk at Ubin Jetty.
 According to Hsuan Keng, it was found on Pulau Seraya, Changi and
 Fort Canning. According to Ng, it is now 'extremely rare' and besides

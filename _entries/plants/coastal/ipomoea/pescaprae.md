@@ -81,35 +81,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-**Beach
-morning glory  
-*Ipomoea pes-caprae*  
-Family Convolvulaceae***updated
-Jan 13*
-
----
-
-**Where seen?** With fresh green leaves and bright purple flowers,
+## Where seen?
+  With fresh green leaves and bright purple flowers,
 this creeper is sometimes seen growing wild on our sandy beaches,
 at the highest water mark. This plant is found on tropical shores
 everywhere including throughout Southeast Asia. It belongs to the

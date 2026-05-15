@@ -103,36 +103,9 @@ page_images:
     <p>Pulau Biola, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4655512782/in/album-72157624047023581/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Labridae](labridae.htm)
-**Diamond
-tuskfish**  
-***Halichoeres nigrescens***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This rather fat and colourful but little wrasse is sometimes
+## Where seen?
+ This rather fat and colourful but little wrasse is sometimes
 seen on our Northern shores, among coral rubble near seagrasses. Sometimes seen high and dry on sand or stuck inside coral rubble or
 sponges. Some seen were very pale, others were more brightly coloured. It was previously known as *Halichoeres dussumieri*.  
   

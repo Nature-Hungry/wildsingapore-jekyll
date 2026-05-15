@@ -68,38 +68,9 @@ page_images:
     <p>Pulau Biola, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4232299965/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cerithiidae](cerithiidae.htm)
-**Obelisk
-creeper snail  
-*Rhinoclavis
-sinensis\**   
-Family Cerithiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This large creeper snail with an elegant shell is commonly seen on
+## Where seen?
+ This large creeper snail with an elegant shell is commonly seen on
 our Southern shores. Often seen burrowing in sandy
 areas near reefs, or found among seaweeds on coral rubble near reefs.
 Usually alone, or a few individuals. So far not seen in gatherings of large numbers like other common Creeper snails. Elsewhere, they are seen on reef flats, sandy and coral rubble bottoms and lagoons.  

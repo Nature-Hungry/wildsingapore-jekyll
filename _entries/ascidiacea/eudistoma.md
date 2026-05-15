@@ -52,23 +52,9 @@ page_images:
     <p>Terumbu Pempang Laut, Dec 18 Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2065383566818305&set=a.2065381310151864&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Yellow
-clustered bead ascidians   
-*Eudistoma* sp.\*  
-Family Polycitoridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 clusters of yellow blobs are commonly seen on many of our Northern
 shores, on hard surfaces near the mid-water mark.   
   

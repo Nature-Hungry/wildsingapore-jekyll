@@ -86,36 +86,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Pelir
-musang   
-*Fagraea auriculata***  
-**Family Gentianaceae**/Loganiaceae***updated
-Feb 11*
-
----
-
-**Where seen?** This rare scrambling shrub is found on natural
+## Where seen?
+  This rare scrambling shrub is found on natural
 cliffs of our offshore islands. According to The Total Vascular Plants
 of Singapore blog, it is found at Lazarus Island, Pulau Tekukor and
 Pulau Biola. According to Hsuan Keng, it was found at Pulau Pawai.

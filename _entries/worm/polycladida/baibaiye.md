@@ -69,21 +69,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Vermilion flatworm  
-*Phrikoceros baibaiye*****Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small brightly coloured flatworm is sometimes seen on
+## Where seen?
+ This small brightly coloured flatworm is sometimes seen on
 coral rubble on some of our shores: mainly Chek Jawa and Cyrene Reef. More active at night, but sometimes
 seen moving about during the day. Usually, many individuals are seen,
 and then not seen again for a long time.  

@@ -49,22 +49,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Red
-mangrove flatworm  
-*Limnostylochus sp.*****Family
-Limnostylochidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This blood red flatworm is sometimes seen in numbers
+## Where seen?
+ This blood red flatworm is sometimes seen in numbers
 in shallow pools of water in our back mangroves. Particularly at night
 or the early morning.  
   

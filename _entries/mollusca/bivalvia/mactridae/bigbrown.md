@@ -72,33 +72,9 @@ page_images:
     <p>Sisters Island, Aug 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153466562099000.1073741971.589418999&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Mactridae](mactridae.htm)
-**Big
-brown mactra clam** ***Mactra grandis*   
-Family Mactridae***updated May 2020*
-
----
-
-**Where
-seen?** This large brown clam is often seen on our Northern
+## Where seen?
+ This large brown clam is often seen on our Northern
 shores in silty and sandy areas near seagrass. Usually alone, sometimes half buried in the ground.
 According to Wong, it is perhaps the most commonly encountered member
 of the Family Mactridae in Singapore. It was previously known as *Mactra

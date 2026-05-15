@@ -50,36 +50,9 @@ page_images:
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Coralline
-red algae****Family
-Corallinaceae***updated
-Aug 08*
-
----
-
-**Where
-seen?**
 Forming pinkish encrusting growths on coral rubble, coralline algae
 are commonly seen, especially on our Southern shores.  
   

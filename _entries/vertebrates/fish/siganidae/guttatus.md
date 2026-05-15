@@ -47,36 +47,9 @@ page_images:
     <p>Kusu Island, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928723993660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Siganidae](siganidae)
-**Orange-spotted
-rabbitfish**  
-***Siganus guttatus***  
-**Family Siganidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This gaily spotted fish is sometimes seen on on our
+## Where seen?
+ This gaily spotted fish is sometimes seen on on our
 Northern shores, among coral rubble. Sadly, often encountered trapped
 in driftnets. Elsewhere, it is found in turbid reefs near mangroves
 and appears to prefer places with lower salinity. Young fishes settle

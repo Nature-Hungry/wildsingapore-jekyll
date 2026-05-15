@@ -54,39 +54,9 @@ page_images:
     <p>Chek Jawa, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/pulau-ubin-with-nhcl">his blog</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Stout
-pincered fiddler crab**  
-***awaiting identification\******Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This fiddler crab with a rather short and stout enlarged
+## Where seen?
+ This fiddler crab with a rather short and stout enlarged
 pincer is seen in the back mangroves.  
   
 **Features:** Body width 1-1.5cm.

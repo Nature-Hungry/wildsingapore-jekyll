@@ -87,41 +87,9 @@ page_images:
     <p>Tuas, Oct 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8262260441/in/album-72157618623639729/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0420m3a.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-porcelain crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../crabfi1b)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> Family
-[Porcellanidae](porcellanidae)
-**Painted
-porcelain crab**   
-***Porcellanella
-triloba*  
-Family Porcellanidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This polka-dotted porcelain crab is often seen in
+## Where seen?
+ This polka-dotted porcelain crab is often seen in
 pairs in [sea
 pens](../../../../cnidaria/others/pennatulacea/pennatulacea) that are commonly seen on our Northern shores. It was previously
 known as *Porcellanella picta*.  

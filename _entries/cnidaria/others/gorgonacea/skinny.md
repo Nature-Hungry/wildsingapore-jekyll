@@ -52,38 +52,9 @@ page_images:
     <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Skinny
-sea fans**  
-***Astrogorgia
-sp.\**Family Plexauridae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This sea fan with long, skinny branches is sometimes
+## Where seen?
+ This sea fan with long, skinny branches is sometimes
 seen in numbers on our Northern shores. On coral rubble, rocks, stones and artificial hard surfaces.  
   
 **Features:** 10-20cm long. Generally

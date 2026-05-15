@@ -38,37 +38,9 @@ page_images:
     <p>East Coast Park, Feb 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/weird-blob-is-sea-slug.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm)
-**'Attap-chee'
-slug**   
- ***Philine orientalis*  
-Family Philinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This strange slug is sometimes seen in clean sandy
+## Where seen?
+ This strange slug is sometimes seen in clean sandy
 shores and sand bars. It reminds of 'attap chee', the fruit of the [Nipah palm](../../../plants/mangrove/nypa/nypa.htm) that is eaten in local desserts such as 'ice-kacang'.  
   
 **Features:** 4-6cm long. Body oval

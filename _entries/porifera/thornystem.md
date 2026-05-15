@@ -47,21 +47,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Thorny
-stem sponge  
-*Gelliodes fibulata\**Family Niphatidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This sponge that looks like a cluster of thorny thick stems is sometimes
+## Where seen?
+ This sponge that looks like a cluster of thorny thick stems is sometimes
 seen on growing among living corals. **Features:** A cluster
 of a few stems long (10-20cm), sparsely branched, cylindrical covered
 with small spiny 'thorns'. Many small holes unevenly scattered over

@@ -7,18 +7,6 @@ keywords: indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sou
 layout: entry
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Indo-Pacific
-hump-backed dolphin**  
-back to [general
-info on dolphins](sousa) 
-
----
-
 Dolphins off
 Pulau Semakau on 1 May 09  
 

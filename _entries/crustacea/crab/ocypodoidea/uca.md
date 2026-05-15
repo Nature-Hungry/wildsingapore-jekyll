@@ -127,36 +127,6 @@ page_images:
     <p>350 pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Fiddler
-crabs**   
-***Uca* sp.**  
-**Family Ocypodidae***updated
-Jan 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -168,8 +138,8 @@ eat twice as fast.
 can change colours and species cannot be identified by
 colour alone.
   
-**Where
-seen?** Fiddler crabs are common on our natural undisturbed
+## Where seen?
+ Fiddler crabs are common on our natural undisturbed
 shores, especially those near mangroves. They are often found in large
 numbers. Fiddler crabs are highly sensitive to movement and will vanish
 when they feel footsteps on the sand or see shadows. To see them,

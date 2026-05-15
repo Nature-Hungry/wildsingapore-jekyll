@@ -88,36 +88,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468163158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Labridae](labridae.htm)
-**Anchor
-tuskfish**   
-***Choerodon anchorago***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large fish is sometimes seen on our reefy Southern shores. Sadly, sometimes dead in abandoned fishing nets, or trapped in large fish traps ('bubu'). Elsewhere,
+## Where seen?
+ This large fish is sometimes seen on our reefy Southern shores. Sadly, sometimes dead in abandoned fishing nets, or trapped in large fish traps ('bubu'). Elsewhere,
 they are usually seen in silty reefs, also in seagrass areas with
 sand. Small juveniles are seen in seagrass beds near mangroves and
 freshwater run off. Sometimes seen in groups. It is also called the

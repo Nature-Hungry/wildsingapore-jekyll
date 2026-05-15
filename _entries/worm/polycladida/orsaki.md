@@ -36,22 +36,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3a.JPG
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Orsak's flatworm *Nymphozoon orsaki*****Family Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This flatworm is sometimes seen on coral rubble near living reefs.  
+## Where seen?
+ This flatworm is sometimes seen on coral rubble near living reefs.  
   
 **Features:** 5-6cm long. Body background
 pinkish cream. Narrow black margin with inner orange margin. Along

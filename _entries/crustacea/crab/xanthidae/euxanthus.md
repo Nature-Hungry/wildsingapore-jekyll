@@ -79,38 +79,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Lumpy
-rock crab   
-*Euxanthus exsculptus***  
-**Family
-Xanthidae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** Resembling a small lumpy rock, this slow moving crab
+## Where seen?
+ Resembling a small lumpy rock, this slow moving crab
 is sometimes seen among coral rubble and near living reefs. 'Exsculptus'
 means 'carved' in Latin.  
   

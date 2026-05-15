@@ -25,20 +25,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Veined sponge  
-*Clathria* cf. *mima\**Family Poecilosclerida***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Considered the thinnest recorded sponge in Singapore, this fragile sponge is sometimes seen.  
+## Where seen?
+ Considered the thinnest recorded sponge in Singapore, this fragile sponge is sometimes seen.  
  **Features:** Encrusting sheet, thin fragile, but broad (10-20cm). Surface smooth and glossy with distinct white branching 'veins'. Colour pale orange.  
   
 **May be confused with** encrusting ascidians such as [Rock slime ascidians](../ascidiacea/rockslime.htm) and [Orange lobe ascidians](../ascidiacea/orange.htm). These ascidians do not have 'veins'.

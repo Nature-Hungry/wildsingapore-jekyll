@@ -92,18 +92,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3.jpg
 ---
 
-
-sea stars [text
-index](../echinodermindex) | [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Asteroidea](asteroidea)
-
-**Big
-sea stars  
-How to tell them apart?***updated Apr 2020*
-
----
-
 Several
 different kinds of big flat sea stars commonly seen on our shores
 look similar.   

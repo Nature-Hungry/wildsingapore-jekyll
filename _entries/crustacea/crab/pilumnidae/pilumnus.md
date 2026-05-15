@@ -147,33 +147,6 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/28765538656/ "Common hairy crab (Pilumnus vespertilio) mating")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Pilumnidae](pilumnidae)
-**Common hairy
-crabs** ***Pilumnus vespertilio***  
-**Family Pilumnidae***updated
-Sep 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -183,8 +156,8 @@ So please watch out when you step among the rocks.
 ![](../../../photos/bullet.gif)They
 are mildy poisonous!
   
-**Where
-seen?** Hairy crabs are commonly seen on rocky and coral
+## Where seen?
+ Hairy crabs are commonly seen on rocky and coral
 rubble areas on many of our shores. The "teddy-bear" of
 crabs, these hairy little creatures fluff up in the water and look
 positively cuddlesome. But they are hard to spot and usually well

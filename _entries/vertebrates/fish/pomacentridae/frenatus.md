@@ -114,32 +114,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468613158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm) > Genus [Amphiprion](amphiprion.htm)
-**Tomato
-anemonefish   
-*Amphiprion frenatus*** **Family Pomacentridae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -151,8 +125,8 @@ fishes are threatened by over-collection for the aquarium
 trade. Don't keep Nemo in your home, he belongs in the
 ocean.
   
-**Where
-seen?** This
+## Where seen?
+ This
 beautiful anemonefish with a white 'head band' lives mainly in the [Bubble
 tip sea anemone](../../../cnidaria/actiniaria/entacmaea.htm) which is not very
 commonly encountered, usually on good reefs on our Southern shores. There is a report of it being found in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.htm) too.  

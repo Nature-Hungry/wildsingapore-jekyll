@@ -35,26 +35,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/121215sislks3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Silver-lining
-flatworm  
-*Pseudoceros* cf. *prudhoei*****Family
-Pseudocerotidae**  
-*updated
-Feb 2020*
-
----
-
-**Where
-seen?** This black flatworm like a storm cloud with a silver lining is sometimes seen on reefs in our Southern shores.  
+## Where seen?
+ This black flatworm like a storm cloud with a silver lining is sometimes seen on reefs in our Southern shores.  
   
 **Features:** 5-8cm long. Body black with inner
 broad white margin and a yellow rim.

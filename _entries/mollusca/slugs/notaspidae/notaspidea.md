@@ -36,36 +36,9 @@ page_images:
     <p>Pleurobranchea brockii Changi, May 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154707808471295&set=a.10154707806301295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#notaspidea) | [photo index](../../slugfi5.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order Notaspidea
-**Sidegill
-slugs**  
- **Order Notaspidea***updated
-May 2020*
-
----
-
-**Where
-seen?** Some species are sometimes
+## Where seen?
+ Some species are sometimes
 seen on some of our shores.   
   
 **What are sidegill slugs?** Sidegill

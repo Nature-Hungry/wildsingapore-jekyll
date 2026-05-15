@@ -36,22 +36,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
 ---
 
+## Where seen?
 
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Paradise
-tree snake  
-*Chrysopelea paradisi*  
-Family Colubridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This beautiful snake is often seen in our forests as well as coastal
 forests.  
   

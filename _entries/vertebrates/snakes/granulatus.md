@@ -88,22 +88,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Banded
-file snake  
-*Acrochordus granulatus*  
-Family Acrochordidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 snake with bands is sometimes seen on some of our shores, near seagrass
 meadows and mangroves. According to Baker, it is mainly found in the
 Johor Straits including Sungei Buloh Wetland Reserve and was also

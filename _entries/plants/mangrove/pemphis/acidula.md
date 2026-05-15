@@ -36,33 +36,9 @@ page_images:
     <p>Pulau Biola, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Mentigi  
-*Pemphis acidula*  
-Family Lythraceae***updated
-Jan 2013*
-
----
-
-**Where
-seen?** This rare tree is sometimes seen in our remote shores,
+## Where seen?
+ This rare tree is sometimes seen in our remote shores,
 on rocky cliffs or near mangroves where no other plants seem to be
 able to do well.  
   

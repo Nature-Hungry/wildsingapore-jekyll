@@ -35,37 +35,9 @@ page_images:
     <p>Changi, Apr 18 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/posts/10213187763500925">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm) > Family [Aglajidae](aglajidae.htm)
-**Lined
-tailed-slug**   
- ***Tubulophilinopsis lineolata*  
-Family Aglajidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This tine slug with fine lines is sometimes seen
+## Where seen?
+ This tine slug with fine lines is sometimes seen
 on both Northern and Southern shores near seagrasses. It was previously known as *Philinopsis lineolata*.  
   
 **Features:** 2-3cm. A long, cylindrical

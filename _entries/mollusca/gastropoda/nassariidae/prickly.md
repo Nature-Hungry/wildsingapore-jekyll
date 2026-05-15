@@ -34,36 +34,9 @@ page_images:
     <p>Sembawang Park, Jan 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6830091329/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Nassariidae](nassariidae.htm)
-**Prickly
-whelk**  
-***Nassarius echinatus\**Family Nassariidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This tiny whelk with fine pointed bumps on its shell
+## Where seen?
+ This tiny whelk with fine pointed bumps on its shell
 is sometimes seen on sandy shores near reefs and sandy man-made lagoons,
 also on seaweed blooms. Often in small groups of a few snails. It
 is probably common but overlooked.   

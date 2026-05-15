@@ -53,37 +53,9 @@ page_images:
     <p>Kusu Island, Aug 23Photo shared by Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161114098318713&set=a.10161114118923713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Seagrass
-sea hare**  
-***Phyllaplysia* sp.*\**  
-Family Aplysiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This tiny slug is sometimes seen in numbers on [Tape
+## Where seen?
+ This tiny slug is sometimes seen in numbers on [Tape
 seagrass](../../../plants/seagrass/enhalus.htm) on our Southern shores.  
   
 **Features:** 1cm or less. Long

@@ -99,36 +99,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Alicia
-anemone**  
-***Alicia* sp.Family Aliciidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This strange anemone is sometimes seen on some of
+## Where seen?
+ This strange anemone is sometimes seen on some of
 our shores, among seagrasses, rubble and reefs. Usually only one is seen.  
   
 **Features:** Those seen were 2-10cm. Out of water, it is just a blob. But when submerged, it expands into

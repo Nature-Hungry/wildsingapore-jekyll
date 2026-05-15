@@ -78,35 +78,6 @@ page_images:
     <p>East Coast Park, Jul 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158355544417906&set=a.10158355526527906&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Volutidae](volutidae.htm)
-**Baler
-volute**  
-***Melo melo***  
-**Family
-Volutidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -116,8 +87,8 @@ beneath the sand.
 ![](../../../photos/bullet.gif)It
 is threatened by over-collection as food and for it shell.
   
-**Where
-seen?** This magnificent large snail sometimes
+## Where seen?
+ This magnificent large snail sometimes
 seen on our Northern shores and is more common on undisturbed shores.
 It is usually found on muddy bottoms, near mangroves and seagrasses. It
 is also called the Indian volute.   

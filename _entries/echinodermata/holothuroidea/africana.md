@@ -79,21 +79,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Little
-African sea cucumber  
-*Afrocucumis africana\**Family Sclerodactylidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This small purplish sea cucumber is sometimes seen
+## Where seen?
+ This small purplish sea cucumber is sometimes seen
 under stones, particularly on our Northern shores. Usually alone,
 but sometimes several are seen together under one stone. According
 to Teo Siyang, these are widespread and common, found in shallow tropical

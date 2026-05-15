@@ -75,33 +75,6 @@ page_images:
     <p>Developing babies Changi, Jul 03</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm)
-**Squids
-and cuttlefish**  
-*updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -110,8 +83,8 @@ learn only 3 things about them ...
 ![](../../photos/bullet.gif)Their
 egg capsules are common on the shores. Don't step on them!
   
-**Where
-seen?** These amazing animals are seasonally common on many
+## Where seen?
+ These amazing animals are seasonally common on many
 of our shores. Tiny squids are also common in seagrass areas, but
 often overlooked. Their eggs are also seasonally seen. Although better
 known as seafood, these delightful creatures are equally delicious

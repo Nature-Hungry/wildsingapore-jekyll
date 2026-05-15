@@ -36,22 +36,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Rock
-slime ascidian  
-*awaiting identification****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 animal is sometimes seen on hard surfaces in shady places (overhang
 of boulders, under jetties on pilings) on our Northern shores near
 the mid-water mark,

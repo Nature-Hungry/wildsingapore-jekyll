@@ -38,38 +38,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Littorinidae](littorinidae.htm)
-**Black-mouth
-mangrove periwinkle snail**  
-***Littoraria melanostoma***  
-**Family
-Littorinidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This rather large periwinkle is sometimes seen on
+## Where seen?
+ This rather large periwinkle is sometimes seen on
 mangrove tree trunks and sometimes even leaves. Usually seen alone. **Features:** 2-3cm. Shell conical with sharp tip, smooth, yellow with fine spiral pattern of brown dots.
 Sometimes the shell is bleached white. Shell opening with black edge.
 "Melanostoma" means "black mouth". Operculum thin, circular, dark brown, made

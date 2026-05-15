@@ -37,37 +37,9 @@ page_images:
     <p>Photo shared by Brian Ong.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Muricidae](muricidae.htm)
-**Dark
-drill**  
-***Semiricinula fusca***  
-**Family Muricidae**  
-*updated Aug 2020*
-
----
-
-**Where
-seen?** This small drill is sometimes seen on large boulders
+## Where seen?
+ This small drill is sometimes seen on large boulders
 on some of our shores. 'Fuscus' means dusky, dark or swarthy, probably
 referring to the dark coloured shell opening. According to Tan, it
 has a patchy distribution in Singapore but can be common where it

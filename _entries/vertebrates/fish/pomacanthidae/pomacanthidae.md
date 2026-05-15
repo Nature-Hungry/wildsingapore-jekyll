@@ -34,33 +34,9 @@ page_images:
     <p><a href="annularis.htm">Blue-ring angelfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
-**Angelfishes**  
- **Family Pomacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 fishes are rarely seen naturally on the shore at low tide. They are
 more often encountered by divers in deeper waters. Those we've seen
 were sadly captured in fish traps or already in a fish tank.  

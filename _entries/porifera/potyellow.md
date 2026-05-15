@@ -72,22 +72,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Yellow
-pot sponge  
-*Rhabdastrella globostellata\** Family
-Ancorinidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This rather large, pot-shaped sponge is commonly seen on our Southern
+## Where seen?
+ This rather large, pot-shaped sponge is commonly seen on our Southern
 shores, among coral rubble. **Features:** About 12-15cm
 wide, a squat sphere with one or several shallow depressions at the
 top, so that the entire sponge resembles a shallow pot. The depression

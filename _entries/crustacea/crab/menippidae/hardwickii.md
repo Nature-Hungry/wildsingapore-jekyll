@@ -99,35 +99,6 @@ page_images:
     <p>Terumbu Pempang Tengah, Nov 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10156634552277906&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class Malacostraca
-> Order [Decapoda](../../decapoda) > Brachyurans
-> Family [Menippidae](menippidae)
-**Stone** **or** **Thunder crab**  
-***Myomenippe hardwickii***  
-**Family Menippidae**  
-*updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -137,8 +108,8 @@ but usually well hidden, look carefully for them.
 ![](../../../photos/bullet.gif) They are identified by their bright green eyes ringed
 in red.
   
-**Where
-seen?**This
+## Where seen?
+This
 sturdy crab is commonly seen on our Northern shores near freshwater
 sources, in rocky and rubbly area.  
   

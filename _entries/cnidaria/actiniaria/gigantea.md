@@ -129,34 +129,6 @@ page_images:
     <p>Pulau Berkas, May 10</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm) > Genus *[Stichodactyla](stichodactyla.htm)*
-**Giant
-carpet anemone**  
-***Stichodactyla gigantea*** **Family Stichodactylidae***updated
-Dec 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -167,8 +139,8 @@ anemone. They will die and the anemone will also suffer.
 poke the anemone to try to make fishes or shrimps come out.
 They will instead hide deeper in the anemone.
   
-**Where
-seen?** This enormous colourful anemone with short skinny tentacles
+## Where seen?
+ This enormous colourful anemone with short skinny tentacles
 is commonly seen on our Southern shores, usually on coral rubble near reefs. It is also sometimes seen on coral
 rubble on our Northern shores.  
   

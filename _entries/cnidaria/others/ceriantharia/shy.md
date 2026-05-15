@@ -67,35 +67,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-cerianthid [text
-index](../../cnidariaindex.htm#ceriantharia) | [photo index](../../anemonefi8.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Ceriantharia](ceriantharia.htm)
-**Shy
-glass cerianthid**  
-***awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This very small, almost invisible
+## Where seen?
+ This very small, almost invisible
 cerianthid is very shy and will disappear into its tube at the slightest
 sign of danger. Often only encountered at night, where in the light of a strong torch or camera flash, it wilts away
 into its tube. It is

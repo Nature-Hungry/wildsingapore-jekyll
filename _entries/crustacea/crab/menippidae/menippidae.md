@@ -46,36 +46,9 @@ page_images:
     <p>Eyes not green.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class Malacostraca
-> Order [Decapoda](../../decapoda) > Brachyurans
-**Stone** **crabs**  
-**Family Menippidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** Stone
+## Where seen?
+ Stone
 crabs are commonly seen on our Northern shores, sheltering among stones,
 coral rubble, rubbish and other hiding places.   
   

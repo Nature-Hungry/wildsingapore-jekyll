@@ -82,36 +82,9 @@ page_images:
     <p>Pulau Salu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234249486295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Scorpaenidae](scorpaenidae)
-**Painted
-scorpionfish  
-*Parascorpaena picta*  
-Family Scorpaenidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This rather grumpy-looking fish with bulging eyes
+## Where seen?
+ This rather grumpy-looking fish with bulging eyes
 is sometimes seen, especially on our southern shores, on coral rubble
 areas near reefs and/or seagrass meadows.  
   

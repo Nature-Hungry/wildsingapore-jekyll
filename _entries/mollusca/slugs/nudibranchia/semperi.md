@@ -75,37 +75,9 @@ page_images:
     <p>Beting Bronok, Jul 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/07/beting-bronok-discoveries.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Semper's
-armina nudibranch**  
-***Armina semperi*****Family
-Arminidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 slug in pajamas is sometimes seen on our Northern shores, burrowing in
 sandy areas near seagrasses where there are [sea
 pens](../../../cnidaria/others/pennatulacea/pennatulacea.htm). It is more active at night.  

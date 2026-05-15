@@ -70,37 +70,9 @@ page_images:
     <p>Beting Bronok, Jul 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160592004207906&set=a.10160591997097906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum
-[Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm)
-> Subclass
-Zoantharia/Hexacorallia > Order [Actiniaria](actiniaria.htm)
-**Tiger
-anemone**  
-***Macrodactyla fautinae****updated
-Jul 2023*
-
----
-
-**Where
-seen?** This large strikingly banded anemone with a red-spotted body is commonly
+## Where seen?
+ This large strikingly banded anemone with a red-spotted body is commonly
 seen on Changi, and sometimes in other Northern shores. In soft silty sand, and
 sandy areas among seagrasses. This sea anemone was first described from Singapore in 2023 and named in honour of the late Emeritus Professor Daphne Gail Fautin. Throughout her career, she had worked tirelessly to advance the knowledge of sea anemones, and she spent much time in Singapore studying our sea anemones and sharing and training scientists and volunteers here.  
   

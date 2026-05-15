@@ -41,36 +41,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
-> Subclass Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Lyre
-sea fan*****Ctenocella
-pectinata\**  
-Family Ellisellidae***updated Dec 2019*
-
----
-
-**Where
-seen?** This elegant sea fan resembles a comb, harp or lyre.
+## Where seen?
+ This elegant sea fan resembles a comb, harp or lyre.
 It is sometimes seen on Beting Bronok and Changi. In deeper water,
 they can grow to 1.5m across.  
   

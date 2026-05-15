@@ -73,36 +73,9 @@ page_images:
     <p>Beting Bemban Besar, Apr 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Prickly
-red seaweed   
-*Hypnea* sp.\*  
-Family Cystocloniaceae***updated
-Jan 13*
-
----
-
-**Where
-seen?**
 Forming clumps of tangled, fine branches, this seaweed is sometimes seen on coral
 rubble on our Southern shores.  
   

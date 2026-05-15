@@ -71,35 +71,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160482041607906&set=a.10160482033187906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-| [jellyfish](jellyfish) | Class Scyphozoa > Order
-Semaeostomeae
-**Ribbon
-jellyfish  
-*Chrysaora* sp.Family Pelagiidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This jellyfish with long trailing ribbon-like oral arms is sometimes
+## Where seen?
+ This jellyfish with long trailing ribbon-like oral arms is sometimes
 seen in numbers on our shores, more commonly on our Southern shores. And then they are not seen again for
 some time.  
   

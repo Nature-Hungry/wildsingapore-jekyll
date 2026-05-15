@@ -48,21 +48,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Rambutan
-sponge  
-*Tethya robusta\**Family Tethyidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This small colourful furry ball-shaped sponge resembles a local fruit,
 the rambutan! The sponge is sometimes seen on coral rubble and rocky
 shores. Sometimes, a few are seen near one another. **Features:** Small (2-5cm in diameter), spherical covered

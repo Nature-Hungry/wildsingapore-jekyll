@@ -89,37 +89,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on  <a href="http://www.flickr.com/photos/koksheng/4168850620/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Oval
-moon snail**  
- ***Polinices
-mammilla*****Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This oval white moon snail is among our most commonly encountered. Usually seen in numbers
+## Where seen?
+ This oval white moon snail is among our most commonly encountered. Usually seen in numbers
 on many our Southern sandy shores. Elsewhere, it is abundant on sandy
 bottoms associated with coral reefs.   
   

@@ -38,35 +38,9 @@ page_images:
     <p>Chek Jawa, Jun 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order Siluriformes
-**Sea
-catfishes  
-Family Ariidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These whiskery fishes usually leave for deeper waters
+## Where seen?
+ These whiskery fishes usually leave for deeper waters
 at low tide. Sometimes, you might come across one trapped in a pool
 at low tide. Fishermen, however, often catch them when angling from
 jetties. Small juveniles were once seen in numbers on Chek Jawa among

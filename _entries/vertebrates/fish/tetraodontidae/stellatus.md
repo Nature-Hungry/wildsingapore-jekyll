@@ -33,35 +33,9 @@ page_images:
     <p>John's Island, Dec 16Photo shared by Rene Ong on <a href="https://www.facebook.com/photo.php?fbid=10154297935466848&set=a.10150265860361848.333002.650781847&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Starry pufferfish  
-*Arothon stellatus***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** Sometimes seen by divers. On the intertidal, a dead and dying one was seen at St John's Island. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  Those seen about 30cm, may grow to
+## Where seen?
+ Sometimes seen by divers. On the intertidal, a dead and dying one was seen at St John's Island. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  Those seen about 30cm, may grow to
 about 50cm to 1.2m! It is indeed considered the giant among puffers. Body covered with fine prickles. Pale grey with dense black spots on its head and around the eyes, also on the fins. Juveniles with dark stripes on belly, becoming spots with growth; adults with or without spots on fins.
  
 

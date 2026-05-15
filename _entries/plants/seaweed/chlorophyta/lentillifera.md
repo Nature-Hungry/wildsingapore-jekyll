@@ -67,36 +67,9 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Round
-sea grapes  
-*Caulerpa lentillifera\**** **Family Caulerpaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?**
 This pretty seaweed is made up of tiny balls. It grows on rocks and
 coral rubble in small clumps. In Singapore, it does not form extensive
 blooms.   

@@ -70,36 +70,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Guava
-tree   
-*Psidium guajava***  
-**Family Myrtaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** This fruit tree is often seen in old kampong
+## Where seen?
+  This fruit tree is often seen in old kampong
 areas such as on Pulau Ubin. Originally from tropical America, the
 tree has been introduced to many other parts of the world. Corners
 considers it common in 'all villages throughout Malaya'. The Malay

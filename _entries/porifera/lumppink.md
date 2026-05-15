@@ -46,22 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Lumpy
-pink sponge  
-*Haliclona* cf.
-*baeri\** Family
-Chalinidae***updated Oct 2016*
-
----
-
-**Where
-seen?**
 This brightly coloured sponge is commonly on many of our shores, growing
 on rocky shores near the low water mark, as well as coral rubble near
 reefs. **Features:** 10-15cm

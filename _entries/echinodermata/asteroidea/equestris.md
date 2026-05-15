@@ -57,21 +57,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Galloping
-sea star  
-*Stellaster childreni*  
-Family Goniasteridae***updated Jul 2020*
-
----
-
-**Where
-seen?** This sea star is rarely seen, so far only on our Southern shores. Previously recorded from trawls
+## Where seen?
+ This sea star is rarely seen, so far only on our Southern shores. Previously recorded from trawls
 in the Johor Straits and off the Southern Islands. It is broadly distributed
 in the Indo-Pacific from East Africa to Australia and southern China
 and Japan. According to Marsh and Fromont, it is found on mud or muddy sand in Australia. It was previously called *Stellaster equestris*.  
@@ -84,8 +71,8 @@ short tube feet tipped with suckers. As its common name suggests,
 it does indeed 'gallop', moving in a series of jerks or leaps through
 synchronised stepping action of its tube feet.  
   
-**Where
-seen?** According to Marsh and Fromont, the stomach has been seen filled with sand, mud and foraminfera.
+## Where seen?
+ According to Marsh and Fromont, the stomach has been seen filled with sand, mud and foraminfera.
 
  
 

@@ -40,38 +40,9 @@ page_images:
     <p>Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159224479928713&set=a.10159224523503713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Phidiana
-nudibranch  
-*Phidiana
-militaris*   
-Family Facelinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This pretty nudibranch is seldom seen, so far, on our Northern shores.  
+## Where seen?
+ This pretty nudibranch is seldom seen, so far, on our Northern shores.  
   
 **Features:** About 2cm long. Long,
 narrow, soft body with many long finger-like structures (called cerata) arranged in rows

@@ -73,36 +73,9 @@ page_images:
     <p>Pulau Sudong, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Neritidae](neritidae.htm)
-**Dubious
-nerite snail**  
-***Clithon oualaniensis*****Family
-Neritidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 tiny snail is sometimes seen in large numbers on sandy shores near
 monsoon drains and other sources of freshwater on some of our shores,
 sometimes among seagrasses and seaweeds. It

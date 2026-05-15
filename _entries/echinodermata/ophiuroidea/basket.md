@@ -108,21 +108,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
 ---
 
-
-crinoids [text
-index](../echinodermindex#crinoidea) | [photo index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Ophiuroidea](ophiuroidea)
-**Basket
-star**   
-***Awaiting identification*  
-Family Euryalidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This intricate lace-like animals is sometimes seen
+## Where seen?
+ This intricate lace-like animals is sometimes seen
 in the intertidal zone on some of our shores. Small ones seen clinging
 to seagrasses, larger ones among coral rubble or wrapped around sea
 fans.   

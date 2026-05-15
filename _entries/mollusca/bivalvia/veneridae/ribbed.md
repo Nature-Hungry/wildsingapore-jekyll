@@ -77,34 +77,9 @@ page_images:
     <p>Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10155982554353576&set=a.10155982553933576&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
-**Ribbed
-venus clam**  
-***Gafrarium* sp.*\******Family Veneridae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small sturdy clam with a ribbed pattern is sometimes
+## Where seen?
+ This small sturdy clam with a ribbed pattern is sometimes
 seen on some of our Southern shores, usually alone on sandy areas
 in calm lagoons near seagrasses. Elsewhere,
 they are found on intertidal shores with coarse sand.  

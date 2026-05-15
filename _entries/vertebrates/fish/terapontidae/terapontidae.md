@@ -31,34 +31,9 @@ page_images:
     <p>Juvenile <a href="theraps">Banded perch</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Perch****Family Terapontidae
-(Therapontidae)**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** These small silvery fishes are sometimes encountered
+## Where seen?
+ These small silvery fishes are sometimes encountered
 trapped in pools at low tide on both our Northern and Southern Shores. **What are perch?** Perch belong to the Family Terapontidae.
 The family name is sometimes also spelt Theraponidae or Therapontidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=299):

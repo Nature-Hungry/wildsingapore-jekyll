@@ -61,36 +61,9 @@ page_images:
     <p>Pulau Sekudu, Jun 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10160059111518119&set=a.10160059126633119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi3.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Nephtheidea](nephtheidae.htm)
-**Ball
-flowery soft coral  
-*Dendronephthya* sp.*\**Family
-Nephtheidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This spherical soft coral is seen on our Northern shores. On coral rubble.  
+## Where seen?
+ This spherical soft coral is seen on our Northern shores. On coral rubble.  
   
 **Features:** Out of water, the colony
 spherical about 6-10cm in diameter. When submerged, may appear tubular

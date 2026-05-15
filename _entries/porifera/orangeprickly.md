@@ -42,21 +42,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Orange
-prickly sponge  
-*Mycale parishi*\*Family Mycalidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This pale to bright orange prickly sponge is sometimes seen on our
+## Where seen?
+ This pale to bright orange prickly sponge is sometimes seen on our
 Northern rocky shores and rubbly areas. **Features:** Usually
 about 8-10cm in area, with prickly surface, the sponge may be thinly
 encrusting or form upright branches up to 30cm long. With small holes

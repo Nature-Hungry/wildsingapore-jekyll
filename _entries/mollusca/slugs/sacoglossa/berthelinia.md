@@ -83,35 +83,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Singapore bivalve
-slug**  
-***Berthelinia singaporensis*  
-Family Juliidae** *updated Jun 2020*
-
----
-
-**Where
-seen?** This tiny slug is sometimes seen on [Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa.htm) such as [Bell
+## Where seen?
+ This tiny slug is sometimes seen on [Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa.htm) such as [Bell
 sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell.htm) and [Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides.htm) on some of our shores.
 Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.  
   

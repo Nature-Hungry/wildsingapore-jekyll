@@ -134,25 +134,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm6l.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Lightning
-flatworm  
- *Pseudobiceros fulgor \******Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This flatworm with a crackle of fine lines is often seen on our shores, on coral rubble and near reefs. 'Fulgor' means 'brilliant' or 'flashy' or 'lightning' and 'splendor' in Latin.  
+## Where seen?
+ This flatworm with a crackle of fine lines is often seen on our shores, on coral rubble and near reefs. 'Fulgor' means 'brilliant' or 'flashy' or 'lightning' and 'splendor' in Latin.  
   
 **Features:** 8-10cm long. Usually with deep ruffles. Body red, brown to black, with
 fine white parallel lines from the centre

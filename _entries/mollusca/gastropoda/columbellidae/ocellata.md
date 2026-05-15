@@ -43,36 +43,9 @@ page_images:
     <p>Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/4160163645/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Columbellidae](columbellidae.htm)
-**Lightning
-dove snails**  
- ***Pictocolumbella ocellata*** **Family Columbellidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This snail with a pretty black-and-white shell is
+## Where seen?
+ This snail with a pretty black-and-white shell is
 often seen in small groups on many of our Southern rocky shores. They
 may be found on top and under stones. It was formerly known as *Pyrene
 fulgurans*.   

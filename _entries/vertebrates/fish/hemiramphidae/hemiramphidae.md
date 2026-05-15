@@ -70,30 +70,6 @@ page_images:
     <p><a href="far.htm">Black-barred halfbeak</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Halfbeaks**  
-**Family Hemiramphidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -102,7 +78,8 @@ learn only 3 things about them ...
 jaw.  
 ![](../../../photos/bullet.gif)Some
 are well camouflaged as floating twigs or rubbish.
- **Where seen?** These
+ ## Where seen?
+  These
 stick-like fishes are commonly encountered on many of our shores.
 They swim at the water surface, often quite actively at night. Small
 ones may be mistaken for floating twigs or other bits of flotsam.  

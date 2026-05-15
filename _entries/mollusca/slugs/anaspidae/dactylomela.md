@@ -78,36 +78,9 @@ page_images:
     <p>Two side-by-side Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Anaspidea](anaspidea.htm)
-**Black-tailed
-sea hare**  
-***Aplysia dactylomela*  
-Family Aplysiidae***updated May 2020*
-
----
-
-**Where
-seen?** This large sea hare is sometimes seen near reefs on our Southern shores. Often, many individuals are seen at one time and not seen again for some time. Elsewhere, it is considered among the
+## Where seen?
+ This large sea hare is sometimes seen near reefs on our Southern shores. Often, many individuals are seen at one time and not seen again for some time. Elsewhere, it is considered among the
 most commonly encountered sea hares in the Indo-Pacific.  
   
 **Features:** 8-12cm. Body large,

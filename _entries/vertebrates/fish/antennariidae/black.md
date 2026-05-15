@@ -69,37 +69,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159723967272906&set=a.10159723965727906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Antennariidae](antennariidae)
-**Black
-frogfish  
-*awaiting
-identification\**   
-Family Antennariidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This all black and almost velvety frogfish is sometimes seen on our
+## Where seen?
+ This all black and almost velvety frogfish is sometimes seen on our
 Southern shores. Among coral rubble. There are suggestions
 that this is a black version of juvenile [Spotted-tail
 frogfishes](trisignatus).  

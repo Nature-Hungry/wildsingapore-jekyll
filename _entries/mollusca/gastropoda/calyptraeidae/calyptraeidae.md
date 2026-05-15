@@ -51,34 +51,9 @@ page_images:
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Slipper
-snails**  **Family Calyptraeidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** These strange snails are almost always found on large
+## Where seen?
+ These strange snails are almost always found on large
 shells inhabitated by hermit crabs. They are also seen on the undersides
 of large living horseshoe crabs.   
   

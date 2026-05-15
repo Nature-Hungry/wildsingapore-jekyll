@@ -5,12 +5,6 @@ keywords: egg, capsule, mass, coils, field, guide, seashore, sea, shore, marine,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 ---
-eggs [photo
-index](eggfi)
-**Eggs
-on Singapore shores** 
-
----
 
 **Eggs of marine creatures**
  

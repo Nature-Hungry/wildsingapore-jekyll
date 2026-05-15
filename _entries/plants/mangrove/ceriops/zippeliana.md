@@ -55,32 +55,9 @@ page_images:
     <p>Pulau Ubin, Aug 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| [*Ceriops*](ceriops) in general
- **Tengar merah *Ceriops zippeliana*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This beautiful mangrove with 'perky' propagules
+## Where seen?
+  This beautiful mangrove with 'perky' propagules
 is sometimes seen in our mangroves, often as shrubs or small trees.
 This species was first described in 2008! It was previously listed
 as *Ceriops sp. nov.* in our older mangrove checklists.  

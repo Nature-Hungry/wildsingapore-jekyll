@@ -26,18 +26,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**The Neptune's Cup sponge  
-*Cliona patera*Family Clionaidae***updated
-Sep 2019*
-
----
-
 **Features:** Large sponge resembling a cup or wine glass, 1m by 1m in height and diameter. The stalk is embedded in the ground with 'roots'. Colours white to yellow.  
   
 Feared to be globally extinct, the sponge was rediscovered in Singapore in 2011.   

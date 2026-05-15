@@ -49,37 +49,9 @@ page_images:
     <p>Terumbu Buran, Nov 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5153175962/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Huddling
-hermit crab *awaiting identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** Displayed on this page are tiny crabs commonly seen
+## Where seen?
+ Displayed on this page are tiny crabs commonly seen
 at low tide, huddling together on rocks or among seagrasses and on
 sand. Often, in a heap of tiny but different kinds of shells. Many
 but not all of these hermit crabs may be *Diogenes* sp.  

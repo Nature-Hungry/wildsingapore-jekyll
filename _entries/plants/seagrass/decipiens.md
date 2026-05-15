@@ -54,39 +54,9 @@ page_images:
     <p>Seeds.</p>
     <p>Pasir Ris Park, Aug 13</p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Hairy
-spoon seagrass  
-*Halophila
-decipiens*  
-Family Hydrocharitaceae  
-*updated
-Mar 14***
-
----
-
-**Where
-seen?** This elongated oval seagrass with hairy leaves is usually seen in deeper waters,
+## Where seen?
+ This elongated oval seagrass with hairy leaves is usually seen in deeper waters,
 and sometimes also on the intertidal.  
   
 Hairy spoon seagrass is the only pan-tropical seagrass species and

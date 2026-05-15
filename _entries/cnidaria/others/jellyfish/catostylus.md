@@ -36,35 +36,9 @@ page_images:
     <p>Lazarus Island, Mar 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153964702408119.1073741894.696593118&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-> [jellyfish](jellyfish) > Class Scyphozoa >
-Order Rhizostomeae
-**Fat-armed
-jellyfish  
-*Catostylus* sp.Family Catosylidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This large jellyfish is sometimes seen on some of our shores. Usually alone, not in groups of many individuals.  
+## Where seen?
+ This large jellyfish is sometimes seen on some of our shores. Usually alone, not in groups of many individuals.  
   
 **Features:** Bell about 10cm in diameter with fat sausage-like oral arms. The arms
 do not have a long 'tail'.   

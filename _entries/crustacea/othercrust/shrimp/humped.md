@@ -47,36 +47,9 @@ page_images:
     <p>Cyrene Reef, Jul 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7659582370/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda) > Family [Hippolytidae](hippolytidae) > [prawns and shrimps](shrimp)
-**Humpbacked
-shrimp  
-*awaiting identification*\*  
-Family Hippolytidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This tiny green shrimp is sometimes seen on some
+## Where seen?
+ This tiny green shrimp is sometimes seen on some
 of our shores near and on reefs, on seagrasses, coral rubble and soft
 corals.  
   

@@ -62,21 +62,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Polka-dotted
-sea cucumber  
-*Bohadschia ocellata\** Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This pale sea cucumber with polka dots is sometimes
+## Where seen?
+ This pale sea cucumber with polka dots is sometimes
 seen on sandy areas among seagrasses at Changi. It was previously known
 as *Holothuria ocellata*.  
   

@@ -56,34 +56,9 @@ page_images:
     <p>Terumbu Semakau, Jul 14Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.769958719722189.1073741838.109257872458947/769960919721969/?type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../gorgonaceafi.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-**Xenia
-soft coral*****Heteroxenia* sp.\*  
-Family Xeniidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This colony with large pinkish polyps is seen in
+## Where seen?
+ This colony with large pinkish polyps is seen in
 coral rubble on some of our Southern shores.   
   
 **Features:** Colony about 4-8cm,

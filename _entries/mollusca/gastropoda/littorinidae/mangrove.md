@@ -49,38 +49,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/4160868588/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Littorinidae](littorinidae.htm)
-**Mangrove
-periwinkle snail**  
-***Littoraria* sp.\***  
-**Family
-Littorinidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This periwinkle is commonly seen on the trunk, branches
+## Where seen?
+ This periwinkle is commonly seen on the trunk, branches
 and leaves of mangroves and coastal plants. Usually seen alone. **Features:** 2-3cm. Grouped here are all periwinkle shaped snails found on mangroves. Shell thin, various shapes from conical with a sharp spire to squat with flatter spire. Operculum thin, circular, made
 of a horn-like material.   
   

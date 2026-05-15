@@ -30,30 +30,6 @@ page_images:
     <p><a href="mangrove.htm">Mangrove snake-eel</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Worm-eels and Snake-eels  
-Family Ophichthidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -62,8 +38,8 @@ through gills.
 ![](../../../photos/bullet.gif) They have smooth skin instead of scales.  
 ![](../../../photos/bullet.gif)Most are burrowing and only active at night.
   
-**Where
-seen?** These worm-like fishes are often seen near coral rubble where there
+## Where seen?
+ These worm-like fishes are often seen near coral rubble where there
 are lots of hiding places, especially on our Southern shores. Larger
 snake eels sometimes also seen, especially at night.  
   

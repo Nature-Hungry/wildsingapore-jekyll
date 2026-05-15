@@ -66,21 +66,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Orange
-sprawling sponge  
-*Clathria reinwardti\**Family Microcionidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This large sprawling bright orange sponge is commonly seen on some
+## Where seen?
+ This large sprawling bright orange sponge is commonly seen on some
 of our Southern shores, growing in sheltered shores on coral rubble
 in or near seagrass areas and in man-made lagoons on our Southern
 Islands. **Features:** 20-30cm.

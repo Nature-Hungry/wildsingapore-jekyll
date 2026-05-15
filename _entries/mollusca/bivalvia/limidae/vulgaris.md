@@ -70,35 +70,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594167945&set=a.10158447654442945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm#bivalvia) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Limidae](limidae.htm)
-**Common
-file clam  
-*Lima vulgaris*****Family
-Limidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This clam is sometimes seen are attached to rocks
+## Where seen?
+ This clam is sometimes seen are attached to rocks
 and underside of stones and corals. It was previously known as *Lima
 lima*.  
   

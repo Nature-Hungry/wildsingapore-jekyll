@@ -56,36 +56,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171815736/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Class [Crustacea](../../crustacea) > Subclass
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Red-banded
-shrimp  
-*Awaiting identification\**** *updated
-Feb 2020*
-
----
-
-**Where
-seen?** This plump shrimp with pretty red bands is sometimes
+## Where seen?
+ This plump shrimp with pretty red bands is sometimes
 seen on many of our Southern shores, on coral rubble and near seagrasses.
 It is more active at night and usually seen alone.  
   

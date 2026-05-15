@@ -60,22 +60,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Durian
-sea cucumber  
-*Stichopus horrens\**Family
-Stichopodidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large sea cucumber are sometimes seen on our Southern shores, on coral rubble and near living reefs. It appears to be more active at night, hiding in crevices during the day. Elsewhere
+## Where seen?
+ This large sea cucumber are sometimes seen on our Southern shores, on coral rubble and near living reefs. It appears to be more active at night, hiding in crevices during the day. Elsewhere
 it is common on rubble and sandy areas; hidden under rocks or dead
 corals. Sea cucumbers that look very similar include *S. monotuberculatus,
 S. naso* and *S. quadrifasciatus*. Precise identification can only be determined by looking at microscopic internal parts of the body.  

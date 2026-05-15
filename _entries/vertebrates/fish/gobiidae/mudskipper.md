@@ -70,30 +70,6 @@ page_images:
     <p><a href="variabilis.htm">Dusky-gilled mudskipper</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Mudskippers**  
-**Family Gobiidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -103,8 +79,8 @@ do it?
 ![](../../../photos/bullet.gif)They
 are well camouflaged. Watch your step!
   
-**Where
-seen?** Mudskippers are commonly seen on some of our shores. They are particularly
+## Where seen?
+ Mudskippers are commonly seen on some of our shores. They are particularly
 abundant in mangroves and muddy shores, but some like the [Gold-spotted mudskippers](chrysospilos.htm) are also commonly seen on rocky
 shores and near reefs.  
   

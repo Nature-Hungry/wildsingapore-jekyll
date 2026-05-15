@@ -167,36 +167,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/19828041741/ "Reef octopus hunting")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040507rlhad0030m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > Family
-[Octopodidae](octopus.htm)
-**Reef
-octopus**  ***awaiting
-identification\**  
-Family Octopodidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This active and colourful animal is the most commonly seen octopus
+## Where seen?
+ This active and colourful animal is the most commonly seen octopus
 near our reefs and coral rubble areas. It is frequently encountered
 on many of our Southern shores and it is a rare night visit where
 one is not seen in a suitable habitat. It is more active at night.  

@@ -80,38 +80,9 @@ page_images:
     <p>Underside</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
-> Class [Echinodea](../echinoidea) > [sea
-urchins](urchin)
-**Salmacis sea urchins  
-*Salmacis* sp.  
-Family Temnopleuridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This almost-cuddly white sea urchin
+## Where seen?
+ This almost-cuddly white sea urchin
 is seasonally common on our Northern shores among seagrasses. At some
 times, many of these sea urchins are seen, and then none seen for
 some time. On Cyrene Reef, gatherings of many of these sea urchins

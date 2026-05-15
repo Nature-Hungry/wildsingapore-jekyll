@@ -30,30 +30,6 @@ page_images:
     <p><a href="cubicus">Yellow boxfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Boxfishes**  
-**Family Ostraciidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -63,8 +39,8 @@ learn only 3 things about them ...
 can swim quickly if they have to, even though they have
 tiny fins!
   
-**Where
-seen?** These
+## Where seen?
+ These
 strange cube-like fishes are sometimes seen on some of our shores.  
  **What are boxfishes?** Boxfishes belong to the Family Ostraciidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446):

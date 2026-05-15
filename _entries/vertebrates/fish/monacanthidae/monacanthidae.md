@@ -80,30 +80,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Filefishes**  **or** **Leatherjackets**  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -113,8 +89,8 @@ of scales.
 ![](../../../photos/bullet.gif)Small
 ones (2-3cm) are common in seagrasses. Watch your step!
   
-**Where
-seen?** These strange-looking fishes are quite commonly seen
+## Where seen?
+ These strange-looking fishes are quite commonly seen
 on many of our shores, especially in areas with seagrasses and among
 coral rubble. They can be quite large but are hard to spot as they
 blend in well with their surroundings. Some tiny filefishes are hardly

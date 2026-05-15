@@ -76,21 +76,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/asterina/110815chgd9280m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Crown
-sea star  
-*Aquilonastra coronata*  
-Family Asterinidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This little sea star is sometimes seen, usually under stones at the
+## Where seen?
+ This little sea star is sometimes seen, usually under stones at the
 mid-water line, or on coral rubble on our Northern shores. Sometimes
 it may be seen wandering among seaweeds far from the midwater line,
 especially at night. In some locations at some times of the year,

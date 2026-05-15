@@ -64,36 +64,9 @@ page_images:
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Serranidae](serranidae.htm)
-**Chocolate
-hind   
-*Cephalopholis boenak***  
-**Family Serranidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This rather large fish with chocolate brown bars is sometimes seen on our some of our shores. Surprisingly common near seawalls, also near reefs and rubble, small ones sometimes seen among seagrasses. Elsewhere, this fish is found in
+## Where seen?
+ This rather large fish with chocolate brown bars is sometimes seen on our some of our shores. Surprisingly common near seawalls, also near reefs and rubble, small ones sometimes seen among seagrasses. Elsewhere, this fish is found in
 silty sheltered waters or reefs, usually alone.  
   
  **Features:** To about 20-30cm, but

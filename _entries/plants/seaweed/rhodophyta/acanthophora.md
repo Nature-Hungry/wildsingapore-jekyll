@@ -80,39 +80,9 @@ page_images:
     <p>Terumbu Semakau, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Spiny
-red seaweed   
-*Acanthophora*
-sp.\*  
-Family Rhodomelaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 This small spiny seaweed is commonly seen on many of our shores. Usually
 in small bunches attached to coral rubble or on stones in sandy areas.
 Often, the seaweed is overgrown with a coat of fine fluffy organisms.

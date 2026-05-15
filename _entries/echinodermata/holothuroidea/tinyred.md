@@ -48,20 +48,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Tiny
-red sea cucumber  
-*awating identification\**Family Cucumariidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This tiny sea cucumbers are sometimes seen on our Northern shores. In groups of many individuals, densely carpeting
+## Where seen?
+ This tiny sea cucumbers are sometimes seen on our Northern shores. In groups of many individuals, densely carpeting
 a few square metres. They settle on seaweeds and coral rubble areas,
 clinging to sponges, seaweeds, even other larger sea cucumbers and
 encrusting organisms covering the coral rubble.  

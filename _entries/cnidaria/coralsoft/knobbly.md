@@ -52,36 +52,9 @@ page_images:
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154410920778158&set=a.10154410914668158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../gorgonaceafi.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Knobbly
-soft coral*****Carijoa*** **sp.\*  
-Family Clavulariidae**  
-*updated
-Nov 2019*
-
----
-
-**Where
-seen?** This colony of bumpy animals is commonly seen on
+## Where seen?
+ This colony of bumpy animals is commonly seen on
 some of our Northern shores, but often overlooked as it resembles
 a plant. It grows on large boulders, jetty pillings and other hard
 surfaces.   

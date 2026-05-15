@@ -42,35 +42,9 @@ page_images:
     <p>Pulau Semakau, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../coastalplants) 
-**Gelang
-laut   
-*Sesuvium portulacastrum*  
-Family Aizoaceae***updated
-Jan 13*
-
----
-
-**Where seen?** A carpet of this succulent plant is sometimes
+## Where seen?
+  A carpet of this succulent plant is sometimes
 seen on beaches and back mangroves. The tiny flowers are delicate
 and pink. According to Hsuan Keng, it is found on clay soil near the
 seashores. According to Giesen, it is found throughout Southeast Asia,

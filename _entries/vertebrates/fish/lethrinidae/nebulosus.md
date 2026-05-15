@@ -82,36 +82,9 @@ page_images:
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Lethrinidae](lethrinidae)
-**Spangled
-emperor   
-*Lethrinus
-nebulosus***  **Family Lethrinidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Colourful
+## Where seen?
+ Colourful
 juveniles are sometimes seen on some of our shores, near seagrasses
 and reefs. Elsewhere, the fish is found in reefs, seagrass beds, mangroves
 and sandy and rocky shores. Adults are solitary or in small schools;

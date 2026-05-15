@@ -55,36 +55,9 @@ page_images:
     <p>Pulau Sekudu, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49193185806/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [Limpets](limpet.htm)
-**Guam
-false limpet**  
-***Siphonaria guamensis*  
-Family Siphonariidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 little limpet is commonly seen in small groups on boulders and hard
 surfaces on many of our shores, usually near the high water mark.  
   

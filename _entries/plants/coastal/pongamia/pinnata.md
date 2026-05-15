@@ -102,34 +102,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-**Mempari  
-*Pongamia pinnata*  
-Family Fabaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This beautiful tree was formerly common on
+## Where seen?
+  This beautiful tree was formerly common on
 the coast including Changi, Siglap, Jurong and Pulau Ubin. Elsewhere,
 the tree is found in non-swampy beaches and occasionally on the landward
 side of mangroves. It is also found in sandy or rocky coasts of Malaya.

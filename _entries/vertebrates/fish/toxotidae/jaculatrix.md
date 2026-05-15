@@ -44,37 +44,9 @@ page_images:
     <p>Pulau Hantu, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Toxotidae](toxotidae)
-**Banded
-archerfish**  
-***Toxotes
-jaculatrix*  
-Family Toxotidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This active fish is often seen in groups under jetties, bridges in
+## Where seen?
+ This active fish is often seen in groups under jetties, bridges in
 streams near mangroves. There is usually large groups of really large
 fat ones under the main bridge at Sungei Buloh Wetland Reserve.  
  **Features:** To about

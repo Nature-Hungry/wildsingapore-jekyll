@@ -35,35 +35,9 @@ page_images:
     <p>Narcine maculata Changi, Jun 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7156284007/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](../dasyatidae/rajiformes.htm)
-**Electric rays  
-Family Narcinidae**  
-*updated
-Sep 2020*
-
----
-
-**Where
-seen?** This rather chubby ray with a stumpy tail was seen
+## Where seen?
+ This rather chubby ray with a stumpy tail was seen
 on Changi several times, among seagrasses. Elsewhere, they are found
 in sandy, muddy areas, from river mouths to coral reefs. It was previously in Family Torpenididae.  
   

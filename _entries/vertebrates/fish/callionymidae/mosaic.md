@@ -67,36 +67,9 @@ page_images:
     <p>Terumbu Bemban, Apr 11 Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/140418sntd4610m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Callionymidae](callionymidae)
-**Mosaic
-dragonet  
-*Callionymus enneactis\****  
-**Family Callionymidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small fish with a camouflaging mosaic pattern is often seen in sandy
 areas near reefs on many of our Southern shores. Tiny ones sometimes seen among seaweeds. **Features:** Those seen 3-5cm. Body somewhat flattened. Head
 broad and flat with a narrow pointed mouth so that the head appears

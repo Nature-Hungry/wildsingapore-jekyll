@@ -77,32 +77,6 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Plotosidae](plotosidae)
-**Black
-eeltail catfish  
-*Plotosus canius*  
-Family Plotosidae***updated Oct 2019*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -113,8 +87,8 @@ in murky waters.
 ![](../../../photos/bullet.gif)It
 has venomous spines. Don't touch it!
   
-**Where
-seen?** These wriggly place eel-like fishes are sometimes seen on some of
+## Where seen?
+ These wriggly place eel-like fishes are sometimes seen on some of
 our shore. Usually seen alone, hiding in pools under stones or other
 debris on the shore, near seagrasses. Elsewhere, adults found mostly
 in estuaries and lagoons, and sometimes up rivers in nearly fresh

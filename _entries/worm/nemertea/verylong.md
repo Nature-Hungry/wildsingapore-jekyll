@@ -112,21 +112,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum [Nemertea](nemertea)
-**Very
-long ribbon worm*****Baseodiscus delineatus\******Family
-Valenciniidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This amazingly long ribbon worm is sometimes seen
+## Where seen?
+ This amazingly long ribbon worm is sometimes seen
 in coral rubble areas on our Southern shores. Sometimes several are
 seen on the same visit!  
   

@@ -35,36 +35,9 @@ page_images:
     <p>Pectoral fins reddish near the body.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Pearse's
-mudskipper  
-*Periophthalmus novemradiatus\****  
-**Family Gobiidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 A small, well camouflaged mudskipper that is commonly seen near mangroves
 and other silty shores. Sometimes also seen on seawalls and rocky
 shores.   

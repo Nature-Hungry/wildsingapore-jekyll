@@ -62,22 +62,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4331m3.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**Pale
-feather stars**   
-***awaiting
-identification****updated
-Feb 2020*
-
----
-
-**Where
-seen?** This pale feather star is sometimes seen near living
+## Where seen?
+ This pale feather star is sometimes seen near living
 reefs.  
   
 **Features:** 12-15cm in diameter.

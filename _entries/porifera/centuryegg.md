@@ -35,20 +35,8 @@ page_images:
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**'Century egg' sponge  
-*Aaptos suberitoides\**Family Suberitidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.  
+## Where seen?
+ This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.  
  **Features:** Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
 
  

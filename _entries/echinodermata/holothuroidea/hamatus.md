@@ -69,20 +69,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Plasticky
-sea cucumber  
-*Cladolabes hamatus\**Family Sclerodactylidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This large stiff sea cucumber feels rather plasticky. It is sometimes seen on
+## Where seen?
+ This large stiff sea cucumber feels rather plasticky. It is sometimes seen on
 our Northern shores half buried in silty sand among seagrasses.  
   
 **Features:** 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.

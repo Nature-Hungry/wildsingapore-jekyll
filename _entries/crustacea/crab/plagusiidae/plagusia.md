@@ -79,37 +79,9 @@ page_images:
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Rafting crab**  
-***Plagusia* sp.**  
-**Family Plagusiidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** This bumpy crab that resembles the [Sally-light-foot
+## Where seen?
+ This bumpy crab that resembles the [Sally-light-foot
 crab](../grapsidae/albolineatus) (*Grapsus albolineatus*) is sometimes seen on rocky shores in the North and South. Previously placed in [Family
 Grapsidae](../grapsidae/grapsidae).  
   

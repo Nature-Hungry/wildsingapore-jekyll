@@ -51,20 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Pink
-puff ball sponge  
-*Oceanapia sagittaria\**Family Phloeodictyidae***updated Oct 2019*
-
----
-
-**Where
-seen?** This small pink puff is sometimes seen on some of our shores among
+## Where seen?
+ This small pink puff is sometimes seen on some of our shores among
 coral rubble. It's just the tip of an enormous buried sponge! **Features:** Small delicate
 prickly ball about 1-2cm in diameter, on a short conical stem (called
 the capitate structure). The ball has fine sheets between the prickles.

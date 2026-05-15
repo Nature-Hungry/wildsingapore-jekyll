@@ -48,39 +48,9 @@ page_images:
     <p>Changi, Jul 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Gnarled
-sea fan**  
-***Echinomuricea
-pulchra\**Family
-Plexauridae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This rather bumpy and knobbly sea fan is often seen
+## Where seen?
+ This rather bumpy and knobbly sea fan is often seen
 on Beting Bronok and Changi. On coral rubble.  
   
 **Features:** 10-15cm long. Colony

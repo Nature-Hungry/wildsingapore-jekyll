@@ -37,37 +37,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Cat's
-tail red seaweed*****Asparagopsis
-taxiformis\**Family Bonnemaisoniaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 These beautiful feathery seaweeds are sometimes seen in on our Southern
 shores, attached to coral rubble near reefs. In another part of its
 lifecycle, could it look like the [Cotton candy

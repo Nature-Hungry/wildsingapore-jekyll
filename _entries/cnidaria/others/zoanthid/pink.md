@@ -50,37 +50,9 @@ page_images:
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-zoanthids [text
-index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
-
-**Pink
-button zoanthid  
-*Zoanthus vietnamensis***   
-**Family Zoanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Forming cushions or carpets on coral rubble.  
+## Where seen?
+ Forming cushions or carpets on coral rubble.  
   
 **Features:** Colonies 10-15cm, each polyp about 1cm in diameter. Body column
 greyish blue. Bright pink ring around the top of the body column,

@@ -67,36 +67,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Oval
-sea grapes seaweed  
-*Caulerpa racemosa\**  
-Family Caulerpaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This juicy looking seaweed is made up of little balls
+## Where seen?
+ This juicy looking seaweed is made up of little balls
 and is commonly seen on our Southern shores on rocks and coral rubble
 in small clumps. In Singapore, it does not form extensive blooms.
 Elsewhere, it is said to form meadows in front of mangroves.  

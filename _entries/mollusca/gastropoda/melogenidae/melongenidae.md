@@ -26,33 +26,9 @@ page_images:
     <p><a href="ternatanus.htm">Ternate false fusus</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Melongena
-snails**  **Family Melongenidae***updated
-Aug 2020*
-
----
-
- **Where seen?** Some large melongena snails are commonly seen
+ ## Where seen?
+  Some large melongena snails are commonly seen
 on many of our shores, usually in estuaries or near mangroves.   
   
 **Features:**  Shell large and thick.

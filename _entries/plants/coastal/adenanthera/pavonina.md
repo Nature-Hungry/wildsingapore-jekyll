@@ -44,34 +44,9 @@ page_images:
     <p>Changi, May 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../coastalplants.htm) 
-**Saga
-tree  
-*Adenanthera pavonina*  
-Family Fabaceae/Leguminosae***updated
-Sep 2016*
-
----
-
-**Where seen?** A tree much loved by small children who cannot
+## Where seen?
+  A tree much loved by small children who cannot
 resist their hard, bright red seeds. It is found on some shores such
 as Sentosa and Berlayar Creek, as well as Sungei Buloh Wetland Reserve.
 It is also planted in some of our parks, but is not considered suitable

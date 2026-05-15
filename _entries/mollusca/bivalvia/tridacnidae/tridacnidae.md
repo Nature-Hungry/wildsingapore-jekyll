@@ -76,30 +76,6 @@ page_images:
     <p><a href="crocea.htm">Burrowing giant clam</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Cardiidae](../cardiidae/cardiidae.htm)
-**Giant
-clams  
-Subfamily Tridacninae***updated May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -109,8 +85,8 @@ the clams food.
 ![](../../../photos/bullet.gif)They
 are globally endangered due to overcollection as a delicacy.
   
-**Where
-seen?** These enormous clams are sometimes seen on our undisturbed
+## Where seen?
+ These enormous clams are sometimes seen on our undisturbed
 Southern shores. Some burrow into coral rubble or among live coral
 and are thus easily overlooked. Others lie above but attached to coral
 rubble.   

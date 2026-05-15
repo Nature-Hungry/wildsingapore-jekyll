@@ -32,17 +32,9 @@ page_images:
     <p>Pulau Semakau (South), Jan 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157797305946310&set=a.10157797258656310&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Sea skaters***updated
-Jan 2020*
 
----
-
-**Where
-seen?** These tiny insects 'walk' on the water surface and
+## Where seen?
+ These tiny insects 'walk' on the water surface and
 are also called water striders or coral bugs. They belong to the Order
 Hemiptera (true bugs) and are among the few true insects that live
 in the sea. Most species live along the coast but a few species live

@@ -149,38 +149,9 @@ page_images:
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Ferocious
-reef**  **crab**  
-***Eriphia ferox***  
-**Family Eriphiidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** This energetic crab with bright red eyes is often seen on our Southern
+## Where seen?
+ This energetic crab with bright red eyes is often seen on our Southern
 shores clambering among boulders at night. Also on coral rubble and
 under stones. Sometimes also seen on undisturbed rocky shores of our
 Northern shores. It is rarely seen out and about during daylight.

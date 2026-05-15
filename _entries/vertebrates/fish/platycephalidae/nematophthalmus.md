@@ -106,37 +106,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110602tmftd3485m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Platycephalidae](platycephalidae)
-**Fringe-eyed
-flathead**  
-***Cymbacephalus
-nematophthalmus\**  
-Family Platycephalidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 fish with a flat head and a delicate fringe over its eyes is commonly
 seen on many of our shores, in sandy and coral rubble areas near reefs. **Features:** Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have also been seen. Identified by the elaborate golden filigree fringe over the eyeball. Above the eyes 6-9 large fleshy tentacles.
 It has bony ridges on the head with spines. Colours and pattern are camouflaging, with 7-8 dusky bars on the back and sides and its fins has variegated patterns. Dorsal fin large and sometimes colourful.  

@@ -48,21 +48,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Eye-spotted
-sea cucumber  
-*Stichopus ocellatus*  
-Family Stichopodidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large yellow sea cucumber with little 'eye-spots' is sometimes seen
 near living reefs. Elsewhere, mostly in seagrasses on sandy or muddy-sand areas on reef flats and sandflats. According to Lane, it was known from Singapore for many years but
 was only described as a new species in 2002.  

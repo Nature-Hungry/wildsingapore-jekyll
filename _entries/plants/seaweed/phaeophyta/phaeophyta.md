@@ -51,33 +51,6 @@ page_images:
     <p>John's Island, Jan 06</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown seaweeds [text index](../seaweedindex#phaeophyta) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed) in general
-**Brown
-seaweeds**   
-**Division Phaeophyta***updated
-Aug 08*
-
----
 
 if you
 learn only three things about them ...  
@@ -90,7 +63,8 @@ Look for them!
 ![](../../../photos/bullet.gif)Extracts
 of brown seaweeds are used extensively in our processed
 food.
-**Where seen?**
+## Where seen?
+ 
 Large brown seaweeds like sargassum are more common on our Southern
 shores, but other brown seaweeds are also seen on our Northern shores.
 Like other seaweeds, brown seaweeds appear to be seasonal. At certain

@@ -114,38 +114,9 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719445406/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Smooth
-spooner crab   
-*Etisus laevimanus***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This large crab with typical spoon-tipped pincers
+## Where seen?
+ This large crab with typical spoon-tipped pincers
 is commonly seen on our Southern shores among coral rubble and near
 living reefs. 'Laevi' in Latin means 'left', while 'manus' means hand.
 Indeed, the left pincer is usually larger than the right.  

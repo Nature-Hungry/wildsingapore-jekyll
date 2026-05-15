@@ -38,35 +38,9 @@ page_images:
     <p>Pulau Semakau, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants)
-**Sea
-bean   
-*Canavalia maritima*  
-Family Fabaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This climber with large lilac flowers and dark
+## Where seen?
+  This climber with large lilac flowers and dark
 green leaves is sometimes seen on our wild coastal areas. According
 to Hsuan Keng, it was common on our seashores including Changi. It
 was previously known as *Canavalia rosea*.  

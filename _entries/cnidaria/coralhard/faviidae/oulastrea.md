@@ -98,35 +98,6 @@ page_images:
     <p>Pulau Salu, Jun 10</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Faviidae](faviidae.htm)
-**Zebra
-coral** ***Oulastrea crispata\**  
-Family Oulastreidae***updated
-Nov 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -136,8 +107,8 @@ step on them!
 ![](../../../photos/bullet.gif)Polyps
 on submerged portions may be extended, look for them.
   
-**Where
-seen?** This hard coral with a black-and-white skeleton is
+## Where seen?
+ This hard coral with a black-and-white skeleton is
 among the most commonly encountered of our hard corals. Even rather
 'beat up' shores may have small colonies encrusting rocks and stones.
 This hardy coral grows in murky waters and even where it is often

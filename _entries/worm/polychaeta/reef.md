@@ -86,22 +86,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9511m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Reef
-bristleworms*****Eurythoe complanata\**Family Amphinomidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This large active bristleworm is often encountered
+## Where seen?
+ This large active bristleworm is often encountered
 on many of our shores. On coral rubble near living reefs and seagrasses.
 It is especially active at night, foraging busily among the rubble.
 During the day, the worms are often hidden under stones.  

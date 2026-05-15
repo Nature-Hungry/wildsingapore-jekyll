@@ -44,36 +44,9 @@ page_images:
     <p>Pulau Semakau, Oct 11Photo shared by Jerome Pang on <a href="https://www.facebook.com/media/set/?set=a.10150354042961523.353073.614016522&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Hemiramphidae](hemiramphidae.htm)
-**Quoy's
-halfbeak**  
-***Hyporhamphus
-quoyi\**** **Family Hemiramphidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 long stick-like fish with a short, blunt lower jaw is sometimes seen
 on our shores. Usually seen alone near coral rubble or reefs.  
   

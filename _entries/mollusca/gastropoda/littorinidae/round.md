@@ -37,37 +37,9 @@ page_images:
     <p>East Coast Park, Jun 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Littorinidae](littorinidae.htm)
-**Round
-periwinkle snail**  
-***Echinolittorina* sp.**  
-**Family Littorinidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This little snail with an almost spherical shell is seen
+## Where seen?
+ This little snail with an almost spherical shell is seen
 on some of our rocky shores. Usually near the high water mark on large
 boulders. Usually in small numbers, and often among other kinds of Periwinkles. **Features:** 0.8-1cm. Shell is more rounded than other periwinkles commonly
 found in the same zone. Shell thin with fine grooves. Colour and pattern

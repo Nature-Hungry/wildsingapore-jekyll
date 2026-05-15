@@ -101,22 +101,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Garlic
-bread sea cucumber  
-*Holothuria scabra*  
-Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large loaf-shaped sea cucumber is commonly seen in numbers in seagrass
+## Where seen?
+ This large loaf-shaped sea cucumber is commonly seen in numbers in seagrass
 meadows of our Northern and Southern shores. Sometimes buried just beneath the sand, but also above ground.  
   
 **Features:** 15-20cm long, elsewhere

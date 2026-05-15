@@ -143,37 +143,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Sep 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152381963996295.1073741841.542241294&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Antennariidae](antennariidae)
-**Spotted-tail
-frogfish  
-*Lophiocharon
-trisignatus*  
-Family Antennariidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This rotund fish with a woeful expression is hard to spot. It looks
+## Where seen?
+ This rotund fish with a woeful expression is hard to spot. It looks
 just like an algae-covered stone. Rather large, it is probably quite
 common but often overlooked. It is sometimes seen on some of our shores,
 near coral rubble and reefs as well as among rocks in deeper waters

@@ -45,35 +45,9 @@ page_images:
     <p>Pulau Semakau, Nov 13 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/15413132157/in/album-72157637303861923/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Haemulidae](haemulidae.htm)
-**Painted
-sweetlips  
-*Diagramma pictum***  **Family Haemulidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** The stripy yellow and black juveniles are sometimes seen on some of our shores. Juveniles are seen in weedy areas. Adults
+## Where seen?
+ The stripy yellow and black juveniles are sometimes seen on some of our shores. Juveniles are seen in weedy areas. Adults
 are seen on sandy and silty bottoms near reefs.  
   
 **Features:** Juveniles about 10cm. Slender long body yellow with black stripe through the eye across the body and the tail. And a black stripe above including the dorsal fin. Adults to 90cm, uniformly silvery grey.

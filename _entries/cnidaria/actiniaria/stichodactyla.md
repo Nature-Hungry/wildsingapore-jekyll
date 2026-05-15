@@ -55,31 +55,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm)
-**Carpet
-anemones  
-How to tell them apart?***updated
-Apr 2020*
-
----
 
  Several anemones have
 short tentacles covering the oral disk so that they resemble a carpet. They

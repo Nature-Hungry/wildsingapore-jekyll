@@ -47,35 +47,9 @@ page_images:
     <p>Cyrene, Jul 25Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Seagrass
-anemone**  
-***Awaiting identification\*****updated Nov 2019*
-
----
-
-**Where
-seen?** This tiny anemone is sometimes seen in seagrass
+## Where seen?
+ This tiny anemone is sometimes seen in seagrass
 meadows, stuck onto seagrass blades and seaweeds. Usually seen singly,
 sometimes, many are seen clustered together.  
   

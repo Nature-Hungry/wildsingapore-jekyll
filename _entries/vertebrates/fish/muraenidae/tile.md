@@ -88,35 +88,9 @@ page_images:
     <p>Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.185340548184012.60423.109257872458947">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Muraenidae](muraenidae.htm)
-**Estuarine
-moray eel  
-*Gymnothorax tile***  
-**Family Muraenidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 slender snake-like fish with yellow speckles is sometimes seen on our undisturbed shores
 in rubbly areas near mangroves and seagrass meadows on many of our shores. It is more lively at night, where it can be seen actively wriggling around checking crevices for hidden prey.  
   

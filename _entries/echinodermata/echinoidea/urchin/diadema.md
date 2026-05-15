@@ -154,39 +154,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719603170/">his flickr</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [sea
-urchins](urchin)
-**Diadema
-sea urchin  
-*Diadema setosum*  
-Family Diadematidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large, very scary-looking sea urchin is among our most commonly encountered
 sea urchins in deeper waters. It is said to be found in large groups
 where there is a lot of dead coral. It is believed that these gather

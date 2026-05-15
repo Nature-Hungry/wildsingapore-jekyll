@@ -32,34 +32,9 @@ page_images:
     <p>Berlayar Creek, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Osteridae](osteridae.htm)
-**Spiked
-rock oyster** ***Saccostrea cuccullata\**  
-Family Ostreidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This oyster with spikes is commonly seen on our rocky
+## Where seen?
+ This oyster with spikes is commonly seen on our rocky
 shores, on boulders, rocks, jetty pillings, sea walls and other hard
 surfaces. Often several individuals squashed next to one another.   
   

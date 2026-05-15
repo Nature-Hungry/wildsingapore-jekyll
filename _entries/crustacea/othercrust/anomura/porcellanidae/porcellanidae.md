@@ -63,34 +63,6 @@ page_images:
     <p>Kusu Island, Jul 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541501661295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-porcelain crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../crabfi1b)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-**Porcelain
-crabs**   
-**Family Porcellanidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -101,8 +73,8 @@ them
 ![](../../../../photos/bullet.gif)Some
 live with other animals: sea pens, hermit crabs.
   
-**Where
-seen?** Porcelain crabs are plentiful under the stones of
+## Where seen?
+ Porcelain crabs are plentiful under the stones of
 our rocky shores, scattering in all directions as a stone is lifted.
 Some porcelain crabs live on or with other larger animals.  
   

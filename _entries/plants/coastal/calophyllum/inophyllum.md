@@ -48,34 +48,9 @@ page_images:
     <p>Pulau Ubin, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../../coastal/coastalplants) 
-**Penaga
-laut   
-*Calophyllum inophyllum*  
-Family Calophyllaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** A beautiful tree with white fragrant flowers
+## Where seen?
+  A beautiful tree with white fragrant flowers
 that sparkle like stars against the dark green leaves. The fruits
 look like green ping-pong balls. In Singapore it is not commonly seen
 in the wild, but it is often planted in our coastal parks. It was

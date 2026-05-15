@@ -67,33 +67,9 @@ page_images:
     <p>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Mullets  
-Family Mugilidae** *updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 tiny plump fish is commonly seen on many of our shores. Often in
 small groups of 5 or so, in rock pools or pools in sandy areas.
 They are probably juvenile mullets. Larger adults are often seen in schools

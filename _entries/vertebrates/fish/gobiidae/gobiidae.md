@@ -114,31 +114,6 @@ page_images:
     <p><a href="sadanundio.htm">Grey knight goby</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Gobies**  
-**Family Gobiidae**  
-*updated
-Sep 2020*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -148,8 +123,8 @@ you learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 are well camouflaged. Watch your step!
   
-**Where
-seen?** Gobies are abundant on many of our shores. But they
+## Where seen?
+ Gobies are abundant on many of our shores. But they
 are hard to spot. At the slightest sign of danger, they bolt into
 burrows or dart under rocks. Even in plain sight, they blend in with
 the sand and mud. So watch your step or you might squash a tiny fish!

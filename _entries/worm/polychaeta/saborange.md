@@ -58,25 +58,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Orange
-fanworm**  
-***awaiting
-identification\******Family Sabellidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This orange
+## Where seen?
+ This orange
 fanworm is commonly encountered on our Northern shores, and sometimes
 also on our Southern shores. Usually in dead coral or coral rubble
 and seldom in living corals. It is not as commonly encountered as

@@ -71,37 +71,9 @@ page_images:
     <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Glass
-anemone**  
-***Dofleinia armata***  
-**Family Actiniidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This beautiful anemone resembles blown glass and is sometimes
+## Where seen?
+ This beautiful anemone resembles blown glass and is sometimes
 seen on sand and near seagrasses on our Northern shores. Sometimes on our Southern shores. Also called the Striped or Armed Anemone in Australia.  
   
 **Features:** Diameter

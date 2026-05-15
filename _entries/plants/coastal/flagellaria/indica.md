@@ -70,35 +70,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Rotan
-tikus   
-*Flagellaria indica***  
-**Family** Flagellariaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This elegant and pretty climber is sometimes
+## Where seen?
+  This elegant and pretty climber is sometimes
 seen among shore vegetation and in our back mangroves. Elsewhere,
 it is also a common climber in moist forests, swamp forests, peat
 swamp forests and river forests, from sea level to about 1,600m. 'Rotan

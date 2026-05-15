@@ -18,32 +18,6 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Labridae](labridae.htm)
-**Diamond
-tuskfishes on Singapore shores**  
-back to [general
-info on diamond tuskfishes](dussumieri.htm)
-
----
 
  
 

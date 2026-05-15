@@ -68,38 +68,9 @@ page_images:
     <p>306 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Turf
-green seaweeds  
-*Enteromorpha* sp.\*  
-Family Ulvaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 bright green filamentous seaweed is commonly seen on many of our shores.
 The seaweed may dominate some shores at certain times of the year,
 to form a bright green furry, short-pile carpet over rocks and stones.

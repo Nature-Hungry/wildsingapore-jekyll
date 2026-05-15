@@ -59,36 +59,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171384768158&set=a.10159171388568158">facenook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Tree
-sea fan**  
- **Family Melithaeidae\****updated
-Dec 2019*
-
----
-
-**Where
-seen?** This beautiful sea fan that resembles the silhouette
+## Where seen?
+ This beautiful sea fan that resembles the silhouette
 of a large spreading tree is sometimes seen our Northern and Southern shores on
 coral rubble. It also grows on artificial surfaces where it is dark,
 such as on jetty legs.  

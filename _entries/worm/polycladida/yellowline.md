@@ -184,22 +184,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/170628jngll1.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Yellow-lined
-flatworm  
-*Pseudoceros* sp. 3*\******Family
-Pseudocerotidae** *updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small pale flatworm elegantly edged in blue with a central blue line is regularly
+## Where seen?
+ This small pale flatworm elegantly edged in blue with a central blue line is regularly
 encountered on many of our shores, on coral rubble near living reefs.  
   
 **Features:** 2-4cm long. There is

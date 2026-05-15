@@ -36,38 +36,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Tiny
-fern red seaweed   
-*Bostrychia* sp.*\**  
-Family Rhodomelaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 Mats of this tiny seaweed with tiny fern-like blades are sometimes seen on
 moist areas in our natural rocky shores, often among other tiny seaweeds.
 Elsewhere, it is commonly seen on the intertidal zone especially near

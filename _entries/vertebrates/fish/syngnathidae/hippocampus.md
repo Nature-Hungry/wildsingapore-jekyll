@@ -79,31 +79,6 @@ page_images:
     <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae)
-**Seahorses*****Hippocampus* sp.**  
-**Family Syngnathidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -113,8 +88,8 @@ learn only 3 things about them ...
 are globally endangered due to overharvesting for the
 traditional medicine trade.
   
-**Where
-seen?** Almost
+## Where seen?
+ Almost
 everyone knows what a seahorse looks like. An endearing, unfish-like
 fish, it truly captures the imagination.Seahorses are more common on our shores that most people
 might think. They are superbly camouflaged and thus often overlooked.

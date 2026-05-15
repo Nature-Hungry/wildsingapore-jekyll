@@ -39,21 +39,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Plantain
-squirrel   
-*Callosciurus notatus*  
-Family Sciuridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This energetic and sometimes noisy squirrel is sometimes
+## Where seen?
+ This energetic and sometimes noisy squirrel is sometimes
 seen in trees near our shores. It is common in our forests, parks
 and even urban areas. It is active during the day and found in trees,
 only seldom coming down to the ground.  

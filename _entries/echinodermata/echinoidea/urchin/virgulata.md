@@ -74,36 +74,9 @@ page_images:
     <p>Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6119786227/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata) > Class [Echinodea](../echinoidea) > [sea
-urchins](urchin) > Genera *[Salmacis](salmacis)*
-**Passion
-salmacis urchin  
-*Salmacis virgulata*  
-Family Temnopleuridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number. **Features:** Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm) uniformly maroon (not banded), except for those around the mouth (on the underside). Spines
+## Where seen?
+ This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number. **Features:** Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm) uniformly maroon (not banded), except for those around the mouth (on the underside). Spines
 on the upper side are short, slender and sharp. Spines on the sides and underside are longer, thicker and have flattened tips. Spines around the mouth may be banded white and maroon. Long white tube feet.  
  
 

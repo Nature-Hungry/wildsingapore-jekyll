@@ -98,22 +98,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Remarkable
-sea cucumber  
-*Holothuria notabilis*  
-Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large long smooth sea cucumber with dark markings is sometimes seen
 buried near seagrasses on some of our shores. Those seen were buried
 in the sand near the low water mark, with only a tip of the body sticking

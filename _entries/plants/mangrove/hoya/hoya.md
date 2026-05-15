@@ -45,33 +45,9 @@ page_images:
     <p>Chek Jawa, May 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Mangrove
-wax plant   
-*Hoya* sp.  
-Family Apocynaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** These climbers with tough succulent leaves
+## Where seen?
+  These climbers with tough succulent leaves
 and beautiful wax-like flowers are sometimes seen in our mangroves.
 Here, they can sometimes drape thickly. According to Hsuan Keng, they
 used to be common including *H. coronaria* "common near

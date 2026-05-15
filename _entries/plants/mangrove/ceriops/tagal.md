@@ -60,35 +60,9 @@ page_images:
     <p>Pulau Semakau, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[mangroves](../mangroves)
-| [*Ceriops*](ceriops) in general
-**Tengar
-putih   
-*Ceriops tagal*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree with rather
+## Where seen?
+  This tree with rather
 plasticky thick rounded-tipped leaves is sometimes seen in our mangroves.
 It grows on well-drained soil, within the reach of occasional tides
 in the inner mangrove. In Singapore, this species does not grow very

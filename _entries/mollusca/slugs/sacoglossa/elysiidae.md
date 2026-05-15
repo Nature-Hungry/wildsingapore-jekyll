@@ -47,35 +47,9 @@ page_images:
     <p><a href="elysianoid.htm">Unidentified leaf slugs</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Elysia
-slugs**  
-***Elysia* sp.** **Family Plakobranchidae***updated
-Sep 12*
-
----
-
-**Where
-seen?** These slugs are commonly seen on many of our shores,
+## Where seen?
+ These slugs are commonly seen on many of our shores,
 especially during a 'bloom' of their seaweed food. They appear to
 be seasonal. Sometimes they are everywhere, at other times, none are
 to be seen. They were previously in Family Elysiidae.  

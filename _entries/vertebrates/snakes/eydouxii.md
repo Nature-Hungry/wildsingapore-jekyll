@@ -51,22 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Marbled
-sea snake  
-*Aipysurus eydouxii*  
-Family Elapidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This attractively-patterned snake was seen once on
+## Where seen?
+ This attractively-patterned snake was seen once on
 the sand bar of Chek Jawa in the early morning. It looked like it
 was stranded there at low tide. It is considered uncommon and usually
 found in coastal areas and estuaries. It is also known as the Spine-tailed

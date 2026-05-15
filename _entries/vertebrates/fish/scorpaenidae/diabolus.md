@@ -45,36 +45,9 @@ page_images:
     <p>Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10158761616278713&set=a.10158761681943713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Scorpaenidae](scorpaenidae)
-**False
-stonefish  
-*Scorpaenopsis diabolus*  
-Family Scorpaenidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This rock-like fish is seldom seen, usually our southern
+## Where seen?
+ This rock-like fish is seldom seen, usually our southern
 shores on coral rubble areas near reefs or rocky shores.  
   
  **Features:** 15-30cm long with a

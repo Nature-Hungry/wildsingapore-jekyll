@@ -40,33 +40,9 @@ page_images:
     <p>Admiralty Park, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| *[Acrostichum](acrostichum)* in general
-**Piai
-lasu  *Acrostichum speciosum*  
-Family Pteridaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** The more delicate and elegant of our mangrove
+## Where seen?
+  The more delicate and elegant of our mangrove
 ferns, it is often seen in back mangroves, flourishing on [mud
 lobster mounds](../../../crustacea/othercrust/lobster/thalassina) and other higher ground, usually in the shade.
 Compared to [Piai raya](aureum) (*A. aureum*),

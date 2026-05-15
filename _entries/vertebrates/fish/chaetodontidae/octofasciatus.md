@@ -70,36 +70,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://farm3.static.flickr.com/2748/4187712094_52a7771ee4_m.jpg">her flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Chaetodontidae](chaetodontidae.htm)
-**Eightband
-butterflyfish  
-*Chaetodon octofasciatus***  
-**Family Chaetodontidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This disc-shaped fish with eight bars is sometimes seen on some of our Southern shores among
+## Where seen?
+ This disc-shaped fish with eight bars is sometimes seen on some of our Southern shores among
 live corals.  
   
 **Features:** To about 12cm. Body

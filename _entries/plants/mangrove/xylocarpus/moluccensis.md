@@ -60,33 +60,9 @@ page_images:
     <p>Pulau Ubin, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) | *[Xylocarpus](xylocarpus)* in general
-**Nyireh
-batu   
-*Xylocarpus moluccensis*  
-Family Meliaceae***updated
-Mar 2020*
-
----
-
- **Where seen?** This handsome tree is sometimes seen in our
+ ## Where seen?
+  This handsome tree is sometimes seen in our
 larger mangroves, usually alone or a few trees, often on sandy areas.
 It is commonly seen at Pulau Ubin and at Pasir Ris mangroves. *Xylocarpus mekongensis* is
 a synonym of *X. moluccensis*.  

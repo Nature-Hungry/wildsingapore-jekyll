@@ -84,37 +84,9 @@ page_images:
     <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/06/hantu-cone-cemetery.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Transparent
-spoke anemone**  
-***awaiting identification\****  
-*updated
-Nov 2019*
-
----
-
-**Where
-seen?** This transparent anemone is sometimes seen on
+## Where seen?
+ This transparent anemone is sometimes seen on
 our shores, on silty sandy shores, such as inside sheltered swimming
 lagoons. It is shy and retracts rapidly into the sand when alarmed.  
   

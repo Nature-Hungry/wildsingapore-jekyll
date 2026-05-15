@@ -51,22 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Spiky
-tubular sponge  
-*Gelliodes* sp.\*  
-Family
-Niphatidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This tubular with spikes sponge is sometimes seen on Beting Bronok and other undisturbed Northern shores.  
+## Where seen?
+ This tubular with spikes sponge is sometimes seen on Beting Bronok and other undisturbed Northern shores.  
  **Features:** A neat small
 bush (about 20cm) with closely packed narrow tubes (about 1-2cm wide)
 regularly ringed with large neat spikes, forming a star-like shape

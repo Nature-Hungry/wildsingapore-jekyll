@@ -35,26 +35,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Olive
-fanworm**  
-***awaiting
-identification\**  
-Family Sabellidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This fanworm is sometimes seen in silty, sandy areas near seagrass meadows
+## Where seen?
+ This fanworm is sometimes seen in silty, sandy areas near seagrass meadows
 on many of our shores.  
   
 **Features:** Fan 6-8cm in diameter.

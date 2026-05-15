@@ -32,22 +32,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum
-Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Shore
-pit viper  
-*Cryptelytrops purpureomaculatus*  
-Family Viperidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This shy snake looks just like another branch in
+## Where seen?
+ This shy snake looks just like another branch in
 a mangrove tree where it usually coils motionless. It is more active
 at night. According to Baker, in Singapore, it is found in Sungei
 Buloh, Lim Chu Kang, Sentosa, Pasir Ris and Pulau Ubin. This mangrove

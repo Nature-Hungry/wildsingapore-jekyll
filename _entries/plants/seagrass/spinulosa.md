@@ -62,34 +62,6 @@ page_images:
     <p>Tiny organisms growing on leaflet.</p>
     <p>Changi, Nov 07</p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Fern
-seagrass   
-*Halophila spinulosa*  
-Family Hydrocharitaceae***updated
-Mar 14*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -101,8 +73,8 @@ elsewhere.
 ![](../../photos/bullet.gif)It
 is eaten by dugongs.
   
-**Where
-seen?**
+## Where seen?
+
 The seagrass is sometimes seen in small patches on some of our Northern
 shores. But on Chek Jawa and some parts of Changi, it forms extensive
 meadows. The [preliminary

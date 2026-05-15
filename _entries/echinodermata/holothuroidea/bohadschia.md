@@ -121,22 +121,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Brown
-sea cucumber  
-*Bohadschia vitiensis\**  
-Family Holothuriidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This sea cucumber is sometimes seen among seagrasses. Most regularly on Cyrene Reef, but also on Pulau Semakau. Elsewhere, it is found in shallow sheltered lagoons on sand and sometimes among rubble and coral patches. It is said to remain buried
+## Where seen?
+ This sea cucumber is sometimes seen among seagrasses. Most regularly on Cyrene Reef, but also on Pulau Semakau. Elsewhere, it is found in shallow sheltered lagoons on sand and sometimes among rubble and coral patches. It is said to remain buried
 in sand during the day and only emerges at dusk. It can crawl quite rapidly over the surface, for a sea cucumber. Some consider *Bohadschia similis* and *Bohadschia vitiensis* to be the same.  
   
 **Features:** 15-30cm long. Body oval,

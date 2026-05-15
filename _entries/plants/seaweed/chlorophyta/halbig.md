@@ -85,37 +85,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Halimedaceae > Genus *[Halimeda](halimeda)*
-**Big
-coin green seaweed  
-*Halimeda* sp.\*  
-Family Halimedaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This seaweed with large flat coin-like shapes are seen on many of
+## Where seen?
+ This seaweed with large flat coin-like shapes are seen on many of
 our shores, especially on our Southern shores. Usually growing on
 coral rubble or among living corals. May sometimes form large 'meadows'
 on sandy areas near reefs.  

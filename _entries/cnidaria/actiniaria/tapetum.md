@@ -33,34 +33,9 @@ page_images:
     <p>Changi, May 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm) > Genus *[Stichodactyla](stichodactyla.htm)*
-**Mini
-carpet anemone**  
-***Stichodactyla tapetum*** **Family Stichodactylidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This tiny anemone is more commonly seen in our Northern shores such
+## Where seen?
+ This tiny anemone is more commonly seen in our Northern shores such
 as Chek Jawa and Changi. Usually among seagrasses.  
   
 **Features:**  Oral disk 2-6cm in

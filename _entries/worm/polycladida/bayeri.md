@@ -83,22 +83,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Bayer's flatworm *Nymphozoon bayeri*****Family Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This bold black-and-white flatworm is sometimes seen encountered on coral rubble near living reefs.  
+## Where seen?
+ This bold black-and-white flatworm is sometimes seen encountered on coral rubble near living reefs.  
   
 **Features:** 5-8cm long. Usually with deep ruffles. Body
 dark grey or brown. Distinguished by wide black margin with inner bright white margin. Along

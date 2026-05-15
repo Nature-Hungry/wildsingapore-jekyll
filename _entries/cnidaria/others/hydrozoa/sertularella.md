@@ -56,34 +56,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Fern
-hydroid*****awaiting
-identification\*****updated
-Aug 2025*
-
----
-
-**Where
-seen?** This elegant colony of tiny animals is sometimes
+## Where seen?
+ This elegant colony of tiny animals is sometimes
 seen on our Northern shores, but often overlooked as it resembles
 a plant. It grows on boulders and coral rubble. It is also often seen
 by divers on our Southern shores.  

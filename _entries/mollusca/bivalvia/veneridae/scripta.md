@@ -58,34 +58,9 @@ page_images:
     <p>Terumbu Pempang Laut, Dec 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2065382660151729&set=a.2065381310151864&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
-**Script
-venus clam**  
-***Circe scripta\******Family Veneridae***updated
-May 2020*
-
----
-
-**Where
-seen?** This clam is sometimes seen in sandy shores near
+## Where seen?
+ This clam is sometimes seen in sandy shores near
 seagrasses. Elsewhere, they are found on intertidal
 shores with sand.   
   

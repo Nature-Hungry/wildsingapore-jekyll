@@ -62,33 +62,9 @@ page_images:
     <p>East Coast Park, Jul 15</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Sand-divers  
-Family Trichonotidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** These long, beautifully patterned fishes
+## Where seen?
+ These long, beautifully patterned fishes
 are sometimes seen in sandy areas near living reefs. It is said that they hover in small groups above the sand. When threatened,
 they dive into the sand. Hence their common name.   
   

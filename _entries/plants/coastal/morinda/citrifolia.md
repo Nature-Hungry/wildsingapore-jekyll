@@ -71,34 +71,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Noni****or****Mengkudu   
-*Morinda citrifolia***  
-**Family** Rubiaceae***updated
-Jan 13*
-
----
-
-**Where seen?** This strange plant is sometimes seen especially
+## Where seen?
+  This strange plant is sometimes seen especially
 in areas where kampongs (villages) used to be. With shiny leaves and
 bizarre flowers and odd smelly fruits, it has an amazing variety of
 traditional uses.   

@@ -83,21 +83,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Brown
-prickly branching sponge  
-*Ircinia* sp.*\**Family Irciniidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This brown branching sponge with a prickly surface is often seen on
 coral rubble on some of our Southern shores. **Features:** 10-15cm.
 The sponge may be dome shaped without any protrusions, or have knobs,

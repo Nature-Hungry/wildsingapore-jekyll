@@ -120,40 +120,9 @@ page_images:
     <p>Pulau Sudong, Dec 09</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi1)
-Phylum
-[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
-> Order
-[Clypeasteroida](sandollar)
-**Cake
-sand dollar  
-*Arachnoides placenta*  
-Family Clypeasteridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This rather featureless disk-shaped animal is commonly seen on some
+## Where seen?
+ This rather featureless disk-shaped animal is commonly seen on some
 of our Northern shores, on sand bars and sandy areas near seagrasses.
 Often found in groups of large numbers of individuals, half buried
 in the sand. Sometimes also seen on the Southern shores.  

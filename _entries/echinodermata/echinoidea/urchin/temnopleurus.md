@@ -74,38 +74,9 @@ page_images:
     <p>East Coast, May 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl">his blog</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [sea
-urchins](urchin)
-**Black
-sea urchin  
-*Temnopleurus toreumaticus*  
-Family Temnopleuridae***updated Apr 2020*
-
----
-
-**Where
-seen?** This black sea urchin with short spines is commonly seen on some of
+## Where seen?
+ This black sea urchin with short spines is commonly seen on some of
 our Northern shores. Large heaps of many individuals are sometimes
 seen. At other times, there are none to be seen. Sandy areas near
 seagrasses as well as coral rubble and rocky shores and under jetties.   

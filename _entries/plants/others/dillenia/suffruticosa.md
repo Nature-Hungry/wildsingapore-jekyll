@@ -50,33 +50,9 @@ page_images:
     <p>Pulau Ubin, Feb 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
- 
-**Simpoh
-air   
-*Dillenia suffruticosa*  
-Family Dilleniaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This large shrub to tree with large glossy
+## Where seen?
+  This large shrub to tree with large glossy
 green leaves, cheery yellow flowers and pink star-shaped 'fruits'
 is commonly seen. According to Corners, this is the most common *Dillenia*
 in Malaya. Corners says "one may regard it as a rank tropical

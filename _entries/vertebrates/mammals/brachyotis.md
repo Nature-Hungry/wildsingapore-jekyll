@@ -34,21 +34,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Lesser dog-faced fruit bat  
-*Cynopterus brachyotis*  
-Family Pteropodidae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small bat with a dog-like face is among our
+## Where seen?
+ This small bat with a dog-like face is among our
 most commonly seen bats. According to Baker, it is widespread and
 common even in urban areas. According to Nowak, they are found in
 forests and open country.  

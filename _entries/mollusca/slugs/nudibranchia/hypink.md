@@ -82,38 +82,9 @@ page_images:
     <p>Beting Bronok, Jul 19 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254629050647&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm) >
-Genus [*Hypselodoris*](hypselodoris.htm)
-**Pink-gilled
-hypselodoris nudibranch  
-*Hypselodoris* sp.  
-Family
-Chromodorididae***updated May 2020*
-
----
-
-**Where
-seen?** This small colourful nudibranch is sometimes seen in numbers on our
+## Where seen?
+ This small colourful nudibranch is sometimes seen in numbers on our
 Northern shores. On coral rubble and rocky shores with sponges and
 encrusting animals.   
   

@@ -57,31 +57,6 @@ page_images:
     <p><a href="lithophyllon.htm">Lithophyllon mushroom coral</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Mushroom
-corals**  **Family Fungiidae***updated
-Nov 2019*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -92,8 +67,8 @@ adults.
 sandy areas in a reef may have many of these animals.
 Watch your step!
   
-**Where
-seen?** These hard corals that may be mushroom-shaped or
+## Where seen?
+ These hard corals that may be mushroom-shaped or
 long and tongue-like are sometimes seen on many of our Southern shores.
 In sheltered reefy lagoons, they can be quite plentiful. Often, mushroom
 corals of several different species are found together. On the Northern

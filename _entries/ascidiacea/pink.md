@@ -33,23 +33,9 @@ page_images:
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Pink
-ascidians   
-*Eudistoma* sp.  
-Family Polycitoridae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** Small clusters of these bright pink ascidians are sometimes seen on
+## Where seen?
+ Small clusters of these bright pink ascidians are sometimes seen on
 coral rubble on our Southern shores. Larger patches of pink coloured
 blobs were also seen in the past on the jetty pilings of Chek Jawa.  
   

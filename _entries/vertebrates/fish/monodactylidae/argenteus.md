@@ -36,35 +36,9 @@ page_images:
     <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Silver
-moony**  
-***Monodactylus
-argenteus*   
-Family Monodactylidae***updated Sep 2020*
-
----
-
-**Where
-seen?** Seldom seen on the intertidal, but this elegant
+## Where seen?
+ Seldom seen on the intertidal, but this elegant
 fish was showcased at the Sungei Buloh Wetlands Reserve visitor
 centre's aquarium. Groups of them are sometimes seen by divers at Pulau Hantu. Fishermen are also sometimes seen catching them on
 our shores. In the wild, they may school in large numbers in open

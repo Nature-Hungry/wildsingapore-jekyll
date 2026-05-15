@@ -69,22 +69,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Olive
-flatworm  
-*Tytthosoceros lizardensis*\*  
-Family
-Pseudocerotidae***updated Feb 2020*
-
----
-
-**Where
-seen?** Many of this large greenish brown flatworm are sometimes
+## Where seen?
+ Many of this large greenish brown flatworm are sometimes
 seen at night, on coral rubble, among seaweeds and seagrasses, on some of our shores. The flatworm is named in honour of the Lizard Island Research Station in Australia.  
   
 **Features:** 8-10cm. Usually with deep ruffles. Body mottled brown or olive with white dots forming irregular bars perpendicular to the body edge. Margin comprises fine white outer edge with fine black inner edge. Underside

@@ -51,35 +51,9 @@ page_images:
     <p>Pulau Sekudu, Jul 15 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19237168234/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Banded hermit crab *Pseudopaguristes monoporus\**** **Family Diogenidae** *updated Jan 2020*
-
----
-
-**Where
-seen?** This little hermit crab is commonly seen on some
+## Where seen?
+ This little hermit crab is commonly seen on some
 of our shores, in coral rubble near the low water mark, sometimes
 on living corals and sea fans. Previously known as *Paguristes monoporus*.  
   

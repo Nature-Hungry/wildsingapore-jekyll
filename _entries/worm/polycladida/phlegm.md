@@ -72,21 +72,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/phlegm/060515labd1920m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Phlegm
-flatworm  
-*awaiting identification**\**Suborder Acotylea***updated
-Feb 2020*
-
----
-
-**Where
-seen?** Ah choo!!
+## Where seen?
+ Ah choo!!
 Did someone just sneeze?! Resembling mobile phlegm, this flesh-coloured
 flatworm is sometimes seen on our Southern shores. On rocky shore
 boulders and under stones near the high water mark. It

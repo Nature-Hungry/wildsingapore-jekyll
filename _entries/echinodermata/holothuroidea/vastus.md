@@ -45,21 +45,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Zebrafish
-sea cucumber  
-*Stichopus vastus*Family Stichopodidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large sea cucumber is sometimes seen on Pulau
+## Where seen?
+ This large sea cucumber is sometimes seen on Pulau
 Semakau, in deeper water coral rubble. It is also called the Curryfish as it
 is among the sea cucumbers that are edible and harvested for the restaurant
 trade.

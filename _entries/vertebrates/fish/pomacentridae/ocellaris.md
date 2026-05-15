@@ -172,33 +172,6 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695061069/in/album-72157624263311376/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm) > Genus [Amphiprion](amphiprion.htm)
-**Clown
-anemonefish   
-*Amphiprion
-ocellaris*** **Family Pomacentridae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -210,8 +183,8 @@ fishes are threatened by over-collection for the aquarium
 trade. Don't keep Nemo in your home, he belongs in the
 ocean.
   
-**Where
-seen?** This
+## Where seen?
+ This
 delightful fish is commonly seen in large sea anemones on some of
 our Southern Islands. At low tide, it is usually well hidden under
 or among the sea anemone tentacles. It is more active when the sea anemone

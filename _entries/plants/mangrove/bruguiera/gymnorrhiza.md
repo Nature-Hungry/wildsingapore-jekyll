@@ -61,32 +61,9 @@ page_images:
     <p>Pasir Ris Park, Aug 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
-**Tumu  
-*Bruguiera gymnorrhiza*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This tree is sometimes seen in our mangroves,
+## Where seen?
+  This tree is sometimes seen in our mangroves,
 the bright red 'flowers' providing a splash of colour to the forest.
 According to Ng, it grows best on dry, well aerated soil towards the
 landward side but in Singapore, also found in mud. According to Hs uan

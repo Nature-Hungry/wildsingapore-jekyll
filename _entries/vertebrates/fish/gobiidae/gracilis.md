@@ -35,36 +35,9 @@ page_images:
     <p>Large gap between the first dorsal fin and second dorsal fin Labrador, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Slender
-mudskipper  
-*Periophthalmus gracilis\****   
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** A small, well camouflaged mudskipper that is seen in mangroves and
+## Where seen?
+ A small, well camouflaged mudskipper that is seen in mangroves and
 other silty shores.   
   
 **Features:** 4-5cm. A tiny mudskipper

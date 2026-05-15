@@ -99,28 +99,6 @@ page_images:
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-molluscs [text
-index](../molluscaindex.htm) | [photo index](../gastropodafi9.htm)
-Phylum [Mollusca](../mollusca.htm)
-**Chitons** **Class
-Polyplacophora** *updated Jun 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -131,8 +109,8 @@ and not crustaceans.
 cling on tenaciously. Don't try to pry them off. Leave
 them alone!
   
-**Where
-seen?** These odd creatures with segmented armour is sometimes
+## Where seen?
+ These odd creatures with segmented armour is sometimes
 seen on many of our shores. On hard surfaces such as rocks as well as large flat clams such
 as Window pane shell clams (Placuna sp.) and Fan shell clams (Family
 Pinnidae). Most are tiny and overlooked. But once, [Jewelled chitons](gemmata.htm) can be enormous!  

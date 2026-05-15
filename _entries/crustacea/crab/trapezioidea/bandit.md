@@ -96,37 +96,9 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695700898/in/photolist-3ekhKH-3ekhKB-akqAvz-akqsMT-89WGhj-89Tren-85QmXj">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/110704srplks.JPG
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Trapezioidea](trapezioidea)
-**Bandit
-coral crab  
-*Tetralia nigrolineata***  
-**Family Tetraliidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny crab with a dark band across the face is
+## Where seen?
+ This tiny crab with a dark band across the face is
 sometimes seen in branching [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) on our Southern shores. Usually more
 than one crab is seen in a single colony. Small, quick and flattened,

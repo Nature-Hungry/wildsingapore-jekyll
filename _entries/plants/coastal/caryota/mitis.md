@@ -58,35 +58,9 @@ page_images:
     <p>Kranji Nature Trail, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../../coastal/coastalplants) 
-**Fishtail
-palm   
-*Caryota mitis*  
-Family Arecaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** Easily identified by the 'fishtails' of its
+## Where seen?
+  Easily identified by the 'fishtails' of its
 leaves, this palm is considered by Whitmore to be 'the only palm commonly
 found in secondary forest'. In Singapore it is also commonly seen
 in the back mangroves.  

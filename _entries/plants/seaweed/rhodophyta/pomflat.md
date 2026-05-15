@@ -80,37 +80,9 @@ page_images:
     <p>Terumbu Salu, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta) > [Crunchy
-pom-pom red seaweeds](pompom)
-**Flat
-crunchy pom-pom red seaweed*****Jania*** **sp.\*  
-Family Corallinaceae *updated
-Oct 15***
-
----
-
-**Where
-seen?**
 These pinkish crunchy flattened pom-poms are sometimes seen growing among
 living corals, or on rubble near living reefs, especially on our
 more remote Southern reefs.  

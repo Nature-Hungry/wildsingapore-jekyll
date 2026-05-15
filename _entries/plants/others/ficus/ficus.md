@@ -59,32 +59,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-****Figs** ***Ficus* sp.**  
-**Family Moraceae*****updated
-Mar 10*
-
----
-
-**Where seen?** Figs are seen in many of our habitats, from
+## Where seen?
+  Figs are seen in many of our habitats, from
 forests to coastal areas. There are more than 900 species of figs
 globally, with 48 species native to Singapore. Figs may be climbers,
 creepers, small bushes or huge trees. The most awesome are the strangling

@@ -62,33 +62,6 @@ page_images:
     <p>Skinny Halodule.</p>
     <p>Cyrene Reefs, Aug 11</p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Cymodoceaceae
-**Needle
-seagrass *Halodule* sp.   
-Family Cymodoceaceae***updated
-Mar 14*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -99,7 +72,8 @@ It deson't flower frequently, and the flowers are small.
 ![](../../photos/bullet.gif)It
 is eaten by dugongs.
   
-**Where seen?** This thin flat needle-like
+## Where seen?
+  This thin flat needle-like
 seagrass is sometimes seen on some of our shores, often mixed with
 other seagrasses. But luxuriant growths are more commonly seen on
 large natural shores such as Chek Jawa, where it is commonly found

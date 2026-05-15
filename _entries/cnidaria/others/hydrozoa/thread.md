@@ -61,37 +61,9 @@ page_images:
     <p>Terumbu Bemban, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi) and hydroid
-[text index](../../cnidariaindex#hydrozoa) | [photo
-index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa) | [jellyfish](../jellyfish/jellyfish)
-**Thread-tentacled
-jellyfish   
-*Aequorea* sp.  
-Family Aequoreidae***updated
-Aug 2025*
-
----
-
-**Where
-seen?** This small jellyfish sometimes seen on stranded on our shores. Several
+## Where seen?
+ This small jellyfish sometimes seen on stranded on our shores. Several
 may be seen, and then none seen again for some time.  
   
 **Features:** Bell about 5-8cm, long thin thread-like tentacles from the edges of

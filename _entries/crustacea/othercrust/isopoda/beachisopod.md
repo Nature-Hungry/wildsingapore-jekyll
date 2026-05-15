@@ -54,34 +54,9 @@ page_images:
     <p>Cyrene Reef, Aug 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2946766671/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea slaters [text
-index](../../crustaceaindex#isopoda) | [photo index](../../othercrustfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order Isopoda
-**Marine
-isopods** **Order Isopoda***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These tiny segmented animals are sometimes seen our
+## Where seen?
+ These tiny segmented animals are sometimes seen our
 shores, often swarming in numbers at low tide over rotting fruit or
 dead matter. The most commonly seen isopod on the beach are [sea
 slaters](ligia) (*Ligia* sp.) or sometimes called sea cockroaches

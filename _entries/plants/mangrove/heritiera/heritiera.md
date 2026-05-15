@@ -51,32 +51,9 @@ page_images:
     <p>Thin ridge in the centre.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Dungun  
-*Heritiera littoralis*  
-Family Malvaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This rather untidy tree with dull metallic
+## Where seen?
+  This rather untidy tree with dull metallic
 leaves is described by Corners as a 'dinghy' tree. It is sometimes
 seen in our Northern mangroves. Usually found in the back mangroves
 and sometimes on rocky shores. According to Hsuan Keng, it was found

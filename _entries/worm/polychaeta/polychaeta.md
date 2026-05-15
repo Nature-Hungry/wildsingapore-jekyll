@@ -51,17 +51,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg
 ---
 
-
-worms [text
-index](../wormindex) | [photo index](../wormfi)
-[worms](../worm)
-> Phylum Annelida > Class Polychaeta
-**Bristleworms****Class
-Polychaeta***updated
-Oct 2019*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)Their
@@ -70,8 +59,8 @@ bristles can cause severe pain. Don't touch!
 ![](../../photos/bullet.gif)Some
 have a spectacular way of reproducing.
   
-**Where
-seen?** Bristleworms are abundant on our shores. Even the most 'beat up' shore
+## Where seen?
+ Bristleworms are abundant on our shores. Even the most 'beat up' shore
 will have these worms. But they are rarely seen as they burrow in
 the ground or remain in other hiding places. In coral rubble, giant
 reef worms that grow to 1m long hide inside crevices. Others about

@@ -115,22 +115,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/080425cyrd1818m3.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**Red
-feather star**  
-***Himerometra
-robustipinna\**Family Himerometridae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This bright red feather star is sometimes seen near
+## Where seen?
+ This bright red feather star is sometimes seen near
 living reefs on our Southern shores. Sometimes many small ones are
 seen on one visit, and then not seen again for some time. At other
 times, a single large one may be seen. At Sentosa Serapong, more than 20 can be seen clinging to hard corals.  

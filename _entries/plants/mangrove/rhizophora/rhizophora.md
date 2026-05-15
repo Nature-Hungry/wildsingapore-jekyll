@@ -76,32 +76,9 @@ page_images:
     <p>Hypocotyl not so long.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Bakau  
-*Rhizophora sp.*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** These trees with arching stilt roots are commonly
+## Where seen?
+  These trees with arching stilt roots are commonly
 seen in many of our mangroves. Burkill describes *Rhizophora*
 as making up 70-90% of the mangrove stock in Malaya. He describes
 them as growing so densely 'as to make almost pure forest' behind

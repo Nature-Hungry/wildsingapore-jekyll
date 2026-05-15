@@ -119,36 +119,9 @@ page_images:
     <p>Pulau Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/070603sntrg0036m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Wiggly
-reef star anemone**  
-***awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This elegant anemone with few tentacles held in wiggles
+## Where seen?
+ This elegant anemone with few tentacles held in wiggles
 is seen among coral rubble
 and living hard corals on our Southern shores. It is very shy and disappears instantly at the slightest sign of danger. Seen
 both at night and during the day.  

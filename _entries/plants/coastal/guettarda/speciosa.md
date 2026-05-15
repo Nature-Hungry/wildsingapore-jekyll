@@ -88,35 +88,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Ketapang
-pasir****or****Beach gardenia  
-*Guettarda speciosa***  
-**Family** Rubiaceae***updated
-Jan 13*
-
----
-
-**Where seen?** This beautiful tree with large leaves and small
+## Where seen?
+  This beautiful tree with large leaves and small
 white flowers is sometimes seen growing on our sandy and rocky shores.
 It is also planted in coastal parks and other public places. In Singapore,
 it was found on sandy and rocky shores including Pulau Seletar. According

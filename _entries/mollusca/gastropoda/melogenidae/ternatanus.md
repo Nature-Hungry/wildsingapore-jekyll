@@ -39,36 +39,9 @@ page_images:
     <p>The animal's body is pale with black speckles..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Melongenidae](melongenidae.htm)
-**Ternate false fusus  
-*Hemifusus ternatanus\****  
-**Family Melongenidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This large snail is rarely seen alive, so far only on our Northern shores. Although the empty shell is sometimes seen, usually occupied by a hermit crab.  
+## Where seen?
+ This large snail is rarely seen alive, so far only on our Northern shores. Although the empty shell is sometimes seen, usually occupied by a hermit crab.  
   
 **Features:**  7-12cm. Shell large,
 thick with a long siphonal canal. Operculum teardrop-shaped and made

@@ -54,35 +54,9 @@ page_images:
     <p>Pulau Semakau (South), Jan 20Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2755471381142850&set=a.2755471284476193&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Silver-lined
-mudskipper  
-*Periophthalmus argentilineatus\****   
-**Family Gobiidae***updated Jan 2020*
-
----
-
-**Where
-seen?** This medium-sized mudskipper is sometimes seen in some of our mangroves.
+## Where seen?
+ This medium-sized mudskipper is sometimes seen in some of our mangroves.
 It is also called the Barred mudskipper.   
   
 **Features:** 4-6cm, to about 9cm

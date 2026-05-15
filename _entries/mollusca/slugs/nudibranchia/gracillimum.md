@@ -86,36 +86,9 @@ page_images:
     <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Slender
-ceratosoma nudibranch   
-*Ceratosoma gracillimum*  
-Family Chromodorididae***updated May 2020*
-
----
-
-**Where
-seen?** This large chunky hard nudibranch is more commonly seen by divers
+## Where seen?
+ This large chunky hard nudibranch is more commonly seen by divers
 and sometimes seen on the intertidal on coral rubble near reefs.
 
 **Features:** 6-8cm long. The body is stiff, narrow with a long, slender tail.

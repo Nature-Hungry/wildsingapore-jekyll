@@ -73,22 +73,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Blue
-jorunna sponge  
-*Neopetrosia* sp.\* Family
-Petrosiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This bright blue sponge is sometimes seen on some of our shores. On
+## Where seen?
+ This bright blue sponge is sometimes seen on some of our shores. On
 coral rubble. **Features:** About 6-10cm sometimes larger. Is generally encrusting,
 with small (5cm in diameter) knobs and bumps all over. Each knob or
 lump has a large hole at the tip with a narrow membraneous lip, seen

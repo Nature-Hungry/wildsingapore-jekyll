@@ -81,36 +81,9 @@ page_images:
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi2.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Broad
-feathery soft coral  
-*Sansibia flava\**  
-Family Xeniidae***updated
-Aug 2025*
-
----
-
-**Where
-seen?** This colony of tiny animals
+## Where seen?
+ This colony of tiny animals
 is often overlooked. However, they are commonly seen on our
 Southern shores and may cover large areas in scattered clumps. Near the mid-water mark, on rocky shores and among
 coral rubble.  

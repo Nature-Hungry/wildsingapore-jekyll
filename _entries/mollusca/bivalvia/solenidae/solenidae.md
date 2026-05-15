@@ -37,30 +37,6 @@ page_images:
     <p>Pasir Ris Park, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Razor
-clams**  **Family Solenidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -72,8 +48,8 @@ sand.
 ![](../../../photos/bullet.gif) They are rapid burrowers. Let's put this one down and
 see how fast it can burrow.
   
-**Where
-seen?** These almost cylindrical clams can move surprisingly
+## Where seen?
+ These almost cylindrical clams can move surprisingly
 quickly and are rarely seen as they are usually buried in the sand.
 They are sometimes seen above ground on the undisturbed sandy shores
 near seagrass areas on our northern shores. They are adapted for burrowing

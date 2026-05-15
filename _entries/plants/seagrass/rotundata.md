@@ -47,34 +47,6 @@ page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
   caption: <p>Tanah Merah, Sep 11</p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Cymodoceaceae
-**Smooth
-ribbon seagrass   
-*Cymodocea rotundata*Family
-Cymodoceaceae***updated
-Mar 14*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +57,8 @@ It doesn't flower frequently, and the flowers are small.
 ![](../../photos/bullet.gif)It
 is eaten by dugongs.
   
-**Where
-seen?**
+## Where seen?
+
 There is a small patch of this seagrass on Chek Jawa and they have
 also been seen on Cyrene Reef.  
   

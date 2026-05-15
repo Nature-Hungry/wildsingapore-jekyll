@@ -35,37 +35,9 @@ page_images:
     <p>Small, downward-pointing tube-like mouth.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Ostraciidae](ostraciidae)
-**Yellow
-boxfish**   
-***Ostracion
-cubicus*  
-Family Ostraciidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 cute little cube-like fish was seen once on Pulau Sekudu.  
   
  **Features:**  To 45cm, the one seen was about 4cm long and probably

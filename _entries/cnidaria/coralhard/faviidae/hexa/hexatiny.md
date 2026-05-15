@@ -83,38 +83,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisd6295m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
-
-hard corals [text
-index](../../../coralhardindex.htm) | [photo index](../../../cnidariafi1.htm)
-Phylum [Cnidaria](../../../cnidaria.htm)
-> Class [Anthozoa](../../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../../coralhard.htm)
-> Family [Faviidae](../faviidae.htm)
-**Tiny
-hexagonal corals**   
-***awaiting
-identification* \***  
-**Family Merulinidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** Hard corals with very tiny irregular hexagonal corallites are sometimes
+## Where seen?
+ Hard corals with very tiny irregular hexagonal corallites are sometimes
 seen on our Southern shores.  
   
 **Features:** Colonies seen 10-20cm,

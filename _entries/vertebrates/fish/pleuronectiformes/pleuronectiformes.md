@@ -78,30 +78,6 @@ page_images:
     <p><a href="../soleidae/orientalis">Zebra sole</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Flatfishes**  
-**Order Pleuronectiformes***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -114,8 +90,8 @@ edge.
 are well camouflaged and some are tiny. Don't step on
 them!
   
-**Where
-seen?** Like animated leaves, these fishes are encountered on many of our
+## Where seen?
+ Like animated leaves, these fishes are encountered on many of our
 shores.Tiny juvenile soles are
 sometimes seen by the eagle-eyed visitor on the sand, especially in
 seagrass areas. These may be as tiny as 2cm long. Some small ones

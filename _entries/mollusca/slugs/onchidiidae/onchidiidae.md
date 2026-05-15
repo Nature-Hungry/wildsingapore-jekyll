@@ -91,35 +91,6 @@ page_images:
     <p></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-**Onch
-slugs   
-Family
-Onchidiidae***updated
-Jun 2020*  
-
----
 
 if you
 learn only 3 things about them ...  
@@ -129,8 +100,8 @@ on the rock?
 ![](../../../photos/bullet.gif)They
 are snails without shells, and hermaphrodites.
   
-**Where
-seen?** Onch slugs are common on all our shores, on algae-covered
+## Where seen?
+ Onch slugs are common on all our shores, on algae-covered
 rocks or other hard surfaces, or on mud in mangroves or mangrove tree
 roots. But they are often well hidden especially on a hot day, or
 well camouflaged even when moving about in the open.  

@@ -53,32 +53,9 @@ page_images:
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Barracudas**  
-**Family Sphyraenidae***updated
-Oct 2020*
-
----
-
- **Where seen?** Very
+ ## Where seen?
+  Very
 young ones are stick-like and sometimes in seagrass meadows near reefs.
 Elsewhere, juvenile barracudas are found in mangroves or river estuaries.  
  **What are barracudas?** Barracudas belong to the Family Sphyraenidae.

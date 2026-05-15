@@ -47,20 +47,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum [Nemertea](nemertea)
-**Two-toned
-ribbon worm*****awaiting identification\*****updated
-Jan 2022*
-
----
-
-**Where
-seen?** This long ribbon worm is sometimes seen on some of
+## Where seen?
+ This long ribbon worm is sometimes seen on some of
 our rocky shores. It is more active at night.  
   
 **Features:** Grouped in this entry

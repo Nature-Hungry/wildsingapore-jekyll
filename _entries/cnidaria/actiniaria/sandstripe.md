@@ -52,36 +52,9 @@ page_images:
     <p>Terumbu Pempang Laut, Jan 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5367307826615878&set=a.5367311406615520">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Striped
-sand anemone**  
-***Paracondylactis hertwigi***  
-**Family Actiniidae***updated Dec 2024*
-
----
-
-**Where
-seen?** This small anemone is often seen on our Northern
+## Where seen?
+ This small anemone is often seen on our Northern
 shores, on soft silty sand near seagrasses.  
   
 **Features:** Diameter with tentacles 3-4cm. It has about 40 semi-transparent tentacles

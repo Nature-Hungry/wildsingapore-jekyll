@@ -50,34 +50,9 @@ page_images:
     <p>Chek Jawa, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../coastalplants.htm) 
-**Delek
-air  
-*Memecylon edule*  
-Family Melastomaceae***updated
-Oct 2016*
-
----
-
- **Where seen?** This tree with beautiful blue flowers is rare.
+ ## Where seen?
+  This tree with beautiful blue flowers is rare.
 There are several on the rocky cliffsides of Chek Jawa, Pulau Ubin
 and Labrador, as well as some at our offshore islands including Sentosa Tg Rimau, Lazarus Island, Pulau Jong and Big Sisters Island. Elsewhere, it is common on sandy and rocky shores.
 The Malay name for the *Memecylon* trees is 'Nipis Kulit' which

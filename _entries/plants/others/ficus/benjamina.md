@@ -71,35 +71,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[Figs
-in general](ficus)
-****Waringin  
-*Ficus benjamina***  
-**Family Moraceae*****updated
-Nov 10*
-
----
-
-**Where seen?** A commonly seen strangler in our forests, along
+## Where seen?
+  A commonly seen strangler in our forests, along
 roads and abandoned kampongs. It also grows on old buildings in cracks
 and crevices. It is found from India to the Solomon Islands and is
 commonly planted in Malaya. It is rare in forests and sometimes found

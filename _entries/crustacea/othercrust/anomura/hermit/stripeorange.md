@@ -64,35 +64,6 @@ page_images:
     <p>](https://www.flickr.com/photos/budak/4982626659/ "hermit")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
-**Orange-striped
-hermit crab *Clibanarius infraspinatus\**  
-Family Diogenidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -102,7 +73,8 @@ take any shells home!
 ![](../../../../photos/bullet.gif)Many
 other animals live together with a hermit crab. Look for
 them.
- **Where seen?** This large often colourful hermit crab is quite
+ ## Where seen?
+  This large often colourful hermit crab is quite
 commonly seen on many of our shores, in sandy or silty areas and among
 seagrasses. Those seen on our Northern shores are usually larger.
 Elsewhere, it is found near river mouths on fine sand or sand-mud

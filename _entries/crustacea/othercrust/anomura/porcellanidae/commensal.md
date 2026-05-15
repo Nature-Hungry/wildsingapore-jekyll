@@ -65,40 +65,9 @@ page_images:
     <p>Chek Jawa, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/predawn-at-chek-jawa-coral-rubblel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-porcelain crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../crabfi1b)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> Family
-[Porcellanidae](porcellanidae)
-**Commensal
-porcelain crab** ***awaiting
-identification\**  
-Family Porcellanidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny porcelain crab is sometimes seen, on other
+## Where seen?
+ This tiny porcelain crab is sometimes seen, on other
 animals such as hard and soft corals, as well as on seaweeds and coral
 rubble. Sometimes seen in groups of many animals. It is probably quite
 common but overlooked because it looks like bits of dirt!  

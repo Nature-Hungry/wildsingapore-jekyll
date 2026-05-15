@@ -41,22 +41,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Oriental
-whip snake  
-*Ahaetulla prasina*  
-Family Colubridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This elegant snake is arboreal and lives in bushes
+## Where seen?
+ This elegant snake is arboreal and lives in bushes
 and trees. It is common in many of our wild places, including urban
 gardens and coastal areas. But is it well camouflaged and often overlooked
 as a green vine. Indeed, it is also called the Green vine snake. It

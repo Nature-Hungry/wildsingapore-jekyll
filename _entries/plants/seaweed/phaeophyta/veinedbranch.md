@@ -48,37 +48,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Veined
-branched brown seaweed  
-*Dictyopteris* sp.*\** Family
-Dictyotaceae***updated
-Jan 13*
-
----
-
-**Where
-seen?** This veined strap-like brown seaweed is often seen
+## Where seen?
+ This veined strap-like brown seaweed is often seen
 on some of our Southern shores, attached to coral rubble.  
   
 **Features:**  Clumps of flat blades

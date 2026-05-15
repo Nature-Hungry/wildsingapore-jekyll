@@ -60,36 +60,9 @@ page_images:
     <p>Beting Bronok, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3590397609/in/photostream/">flickr</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cypraeidea](cypraeidae.htm)
-**Pear-shaped
-cowrie**  
-***Erronea pyriformis*** **Family Cypraeidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small cowrie has so far only been seen at Beting Bronok. It was previously known
 as *Cypraea pyriformis*. **Features:** About 2cm.
 Shell

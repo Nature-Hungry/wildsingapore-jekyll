@@ -37,19 +37,9 @@ page_images:
     <p>Punggol, Jan 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567658318/in/album-72157625372847848/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
 ---
- 
 
- 
-Phylum [Bryozoa](bryozoan)
-**Glassy
-branching bryozoan*****awaiting
-identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This pale colony of tiny animals is seasonally common
+## Where seen?
+ This pale colony of tiny animals is seasonally common
 on some of our Nothern shores, but often overlooked as it resembles
 a plant. It grows among seaweeds and seagrasses. Sometimes, seen in
 large tangled mats, growing from hard surfaces such as rocks and jetty

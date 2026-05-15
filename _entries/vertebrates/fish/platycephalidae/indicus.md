@@ -48,36 +48,9 @@ page_images:
     <p>Kusu Island, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Platycephalidae](platycephalidae)
-**Bartail
-flathead  
-*Platycephalus indicus\****  
-**Family Platycephalidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** These rather large flatheads are sometimes seen on
+## Where seen?
+ These rather large flatheads are sometimes seen on
 some of our shores on muddy and sandy areas near seagrass meadows.
 It is said that small juveniles have been found in freshwater.  
   

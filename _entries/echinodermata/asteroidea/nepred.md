@@ -99,23 +99,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Red
-scaly sea star  
-*Nepanthia belcheri*  
-Family
-Asterinidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This small sea star is sometimes seen on undisturbed
+## Where seen?
+ This small sea star is sometimes seen on undisturbed
 Northern shores on sandy areas near seagrasses and on rubble. It has also been seen on Cyrene. It appears
 to be seasonal. Usually seen alone. According to Lane it was first seen in Singapore in the 1930s and
 rediscovered in 1991. According to Marsh and Fromont, it is found clinging to the underside of boulders on muddy sand and rock substrate in Australia. **Features:** Diameter with arms 5-7cm. A rounded star (not

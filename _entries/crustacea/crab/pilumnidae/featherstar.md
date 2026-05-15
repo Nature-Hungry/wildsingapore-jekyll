@@ -39,35 +39,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Pilumnidae](pilumnidae)
-**Crinoid crabs** ***awaiting identification\****   
-**Family Pilumnidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny crab is found living in [feather stars](../../../echinodermata/crinoidea/crinoidea) (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include *Harrovia* species and *Ceratocarcinus longimanus*.  
+## Where seen?
+ This tiny crab is found living in [feather stars](../../../echinodermata/crinoidea/crinoidea) (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include *Harrovia* species and *Ceratocarcinus longimanus*.  
   
 **Features:** Body width 1cm. Body
 somewhat hexagonal, with long legs and long narrow pincers. Its colours and patterns usually perfectly match its feather star host. Usually, only crab is found in each feather star.  

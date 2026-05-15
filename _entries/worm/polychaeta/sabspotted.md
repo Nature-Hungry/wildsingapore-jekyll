@@ -46,26 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Spotted
-fanworm**  
-***awaiting
-identification\******Family Sabellidae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small
+## Where seen?
+ This small
 fanworm is often seen in sandy, silty areas near seagrasses on Changi.  
   
 **Features:** Fan 3-4cm in diameter.

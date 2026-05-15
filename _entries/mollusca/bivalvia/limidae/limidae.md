@@ -43,33 +43,9 @@ page_images:
     <p><a href="vulgaris.htm">Common file clam</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-molluscs [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**File
-clams**  **Family Limidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These clams are sometimes seen our Southern shores,
+## Where seen?
+ These clams are sometimes seen our Southern shores,
 near reefs.  
   
 **What are file clams?** File clams

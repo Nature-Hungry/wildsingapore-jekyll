@@ -58,22 +58,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Upsidedown
-brittle star**  
-***Ophiothrix* sp.**  
-**Family Ophiotrichidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This sea star with an odd preference to be upside
+## Where seen?
+ This sea star with an odd preference to be upside
 down is sometimes seen among seaweeds and seagrasses on our Northern
 shores. Especially active at night. Usually seen alone.  
   

@@ -36,38 +36,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Perforated
-brown seaweed  
-*Hydroclathrus*
-sp.*\**** **Family Scytosiphonaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?** This 'holey' brown seaweed is sometimes seen often
+## Where seen?
+ This 'holey' brown seaweed is sometimes seen often
 anchored in bare sand in calm shallow areas near reefs on our Southern
 shores.   
   

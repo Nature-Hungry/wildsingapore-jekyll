@@ -53,35 +53,9 @@ page_images:
     <p>Pulau Salu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158429562037945&set=a.10158429573917945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Fuzzy
-green seaweed *Boodlea* sp.\*** **Family Boodleaceae**  
-*updated
-Jul 2020*
-
----
-
-**Where
-seen?** This small patch of fuzzy green seaweeds is sometimes seen on our
+## Where seen?
+ This small patch of fuzzy green seaweeds is sometimes seen on our
 Southern shores growing near reefs.   
   
 **Features:** Small clumps, made up

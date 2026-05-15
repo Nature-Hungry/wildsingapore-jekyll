@@ -35,34 +35,9 @@ page_images:
     <p><a href="paradivisa.htm">Frog spawn coral</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Euphyllid
-corals**  **Family Euphylliidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** These hard corals are sometimes seen on some of our
+## Where seen?
+ These hard corals are sometimes seen on some of our
 Southern shores. Some species have tentacles with a distinctive U-shaped
 tip, others lack this.  
   

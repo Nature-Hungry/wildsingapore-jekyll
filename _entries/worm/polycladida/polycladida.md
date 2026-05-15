@@ -217,18 +217,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > Order Polycladida
-**Marine
-flatworms****Order
-Polycladida** *updated Feb 2020*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)They
@@ -237,8 +225,8 @@ are fragile and tear easily. Don't touch!
 ![](../../photos/bullet.gif)Being
 really flat has some advantages. Can you think of some?
   
-**Where
-seen?** Marine flatworms are ferocious predators that glide around the shores like liquid death. They are common on all our shores. Ranging from tiny
+## Where seen?
+ Marine flatworms are ferocious predators that glide around the shores like liquid death. They are common on all our shores. Ranging from tiny
 ones found under rocks to larger monsters that roam out in the open. Some
 are brightly coloured and patterned, others blend with their surroundings.
 Flatworms are usually more active when it is dark when they skim the ground with elegant ruffles of their body edges, or even swim short distances in the water.  

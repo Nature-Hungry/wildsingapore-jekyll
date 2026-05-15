@@ -115,32 +115,6 @@ page_images:
     <p>Pulau Tekukor, Nov 20Photo shares by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764485998158&set=a.10158764488663158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > Order
-Octopoda
-**Octopuses**  ***Octopus* sp.****Family
-Octopodidae** *updated May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -150,8 +124,8 @@ hard to spot.
 ![](../../photos/bullet.gif)They
 can bite. Don't touch them!
   
-**Where
-seen?** Most people are surprised to hear that octopuses
+## Where seen?
+ Most people are surprised to hear that octopuses
 are quite commonly encountered on many of our shores. Even the most
 'beat up' looking shore eventually turns up a resident. They are generally
 more common in areas with coral rubble, but may also be seen in seagrass

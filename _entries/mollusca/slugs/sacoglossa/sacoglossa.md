@@ -90,36 +90,9 @@ page_images:
     <p><a href="berthelinia.htm">Singapore bivalve slug</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order Sacoglossa
-**Sap-sucking
-slugs**  
- **Order Sacoglossa***updated
-Jun 2020*
-
----
-
- **Where seen?** These slugs come in a wide range of shapes from minute to large, and
+ ## Where seen?
+  These slugs come in a wide range of shapes from minute to large, and
 some are commonly seen on all our shores. They often closely resemble
 the seaweed that they eat! Some are seasonal, being abundant when
 their seaweed food is plentiful. And disappearing when their seaweed

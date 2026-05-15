@@ -124,37 +124,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Nov 18Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10156045666568576&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Snaky
-anemone  
-*Heteractis doreensis*  
-Family Actiniidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This large anemone has long snaky tentacles that resemble udon noodles. It is sometimes seen on some
+## Where seen?
+ This large anemone has long snaky tentacles that resemble udon noodles. It is sometimes seen on some
 of our shores, on coral rubble and near seagrasses and reefs. Although
 generally only exposed at the lowest tides, it is said that the anemone
 is generally found no deeper than 5m. In 2023, it has been reassigned from *Macrodactyla* to *Heteractis doreensis*.  

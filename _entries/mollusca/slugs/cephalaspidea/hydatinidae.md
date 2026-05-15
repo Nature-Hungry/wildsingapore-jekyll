@@ -46,37 +46,9 @@ page_images:
     <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm)
-**Paper
-bubble snail   
-*Hydatina* sp.   
-Family Aplustridae***updated
-May 2020*
-
----
-
-**Where
-seen?** These beautiful snail is sometimes seen on our Northern shores. It was previously
+## Where seen?
+ These beautiful snail is sometimes seen on our Northern shores. It was previously
 placed in Family Hydatinidae.  
   
 **Features:** 1-4cm. Shell smooth

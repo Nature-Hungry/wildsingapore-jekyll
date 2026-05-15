@@ -61,31 +61,6 @@ page_images:
     <p>Tanah Merah, Jan 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4245331960/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
-**Tongue-soles**  
-**Family Cynoglossidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -95,8 +70,8 @@ joined all around the body.
 ![](../../../photos/bullet.gif)Found
 beneath the sand. Watch your step!
   
-**Where
-seen?** These tiny flatfishes are sometimes seen on our Northern shores, among
+## Where seen?
+ These tiny flatfishes are sometimes seen on our Northern shores, among
 seagrasses, buried in sand or hovering over the surface. **What are tongue-soles?** Tongue-soles are [flatfishes](../pleuronectiformes/pleuronectiformes.htm) belonging to the Family Cynoglossidae. According to [FishBase](http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442):
 the family has 3 genera and 110 species. They are found in all warm
 oceans, most species in shallow waters or near river mouths. One group

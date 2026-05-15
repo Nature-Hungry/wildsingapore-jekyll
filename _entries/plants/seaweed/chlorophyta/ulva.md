@@ -54,35 +54,6 @@ page_images:
     <p>Changi, Jun 07</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Sea
-lettuce   
-*Ulva* sp.\*** **Family Ulvaceae***updated
-Jan 13*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -96,8 +67,8 @@ and animals live among the seaweeds.
 eat or not? Yes you can if you're a pig. It used to be
 fed to pigs.
   
-**Where
-seen?** Sea lettuce looks just like its namesake land plant.
+## Where seen?
+ Sea lettuce looks just like its namesake land plant.
 Seasonally, there is an explosive growth or 'bloom' of this seaweed.
 It is then so abundant that a thick soft 'green carpet' of washed
 up sea lettuce blankets the high shores. Be careful! The seaweeds

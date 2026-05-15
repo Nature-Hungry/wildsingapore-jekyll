@@ -40,33 +40,9 @@ page_images:
     <p>Admiralty Park, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Ipil  
-*Intsia bijuga*  
-Family Fabaceae***updated
-Jan 2013*
-
----
-
-**Where
-seen?** This tree is sometimes seen in our back mangroves.
+## Where seen?
+ This tree is sometimes seen in our back mangroves.
 According to Hsuan Keng, it was commonly found along the sea coast
 including Changi and Kranji. According to Corners, it is common and
 found along the coasts, mangroves and river banks within tidal and

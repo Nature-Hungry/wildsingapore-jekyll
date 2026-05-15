@@ -71,21 +71,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family Sabellidae
-
-**Fanworms**   
-**Family Sabellidae***updated
-Oct 2016*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif) These worms are segmented like the more familiar earthworm.  
@@ -95,8 +80,8 @@ their tubes.
 feathery fan is actually made up of modified tentacles.
 It gathers food.
   
-**Where
-seen?** Even those who find worms icky will be delighted
+## Where seen?
+ Even those who find worms icky will be delighted
 by these elegant feathery creatures. They are more commonly seen on
 our Northern shores but also encountered on the Southern shores. They
 are found mainly in or near coral rubble areas. Some are found in

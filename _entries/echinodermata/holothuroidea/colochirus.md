@@ -91,22 +91,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Thorny
-sea cucumber  
-*Colochirus quadrangularis*  
-Family Cucumariidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This small colourful sea cucumber is commonly
+## Where seen?
+ This small colourful sea cucumber is commonly
 seen on our Northern shores. It appears to be seasonally abundant.
 There are times where many individuals are seen, jammed next to one
 another. At other times, few are seen, widely separated from one another.  

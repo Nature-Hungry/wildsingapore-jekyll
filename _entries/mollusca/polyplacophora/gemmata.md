@@ -76,32 +76,9 @@ page_images:
     <p>Pulau Tekukor, Sep 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1931208116902518&set=a.1931206303569366&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-molluscs [text
-index](../molluscaindex.htm) | [photo index](../gastropodafi9.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Polyplacophora](chiton.htm)
-**Jewelled chiton*****Acanthopleura gemmata*** **Class
-Polyplacophora** *updated Jun 2020*
-
----
-
-**Where
-seen?** It has been seen on natural rocky shores on our Southern shores. Many were also seen on artificial seawalls, often hidden in crevices in the concrete slabs.  
+## Where seen?
+ It has been seen on natural rocky shores on our Southern shores. Many were also seen on artificial seawalls, often hidden in crevices in the concrete slabs.  
   
 **Features:** Up to 12cm long, the
 oval flattened body is covered with 8 overlapping

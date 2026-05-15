@@ -65,21 +65,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Bottlebrush
-brittle star**   
-***awaiting identification\*****updated
-Apr 2020*
-
----
-
-**Where
-seen?** This small brittle star with bristley arms is commonly
+## Where seen?
+ This small brittle star with bristley arms is commonly
 encountered on our Northern shores, in
 muddy silty areas among seagrasses and seaweeds. Also among coral
 rubble or on sponges. More active at night, it is fast moving and highly sensitive to light, scurrying swiftly into

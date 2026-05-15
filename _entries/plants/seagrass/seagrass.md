@@ -88,35 +88,6 @@ page_images:
     <p>Sentosa, Apr 11</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[ecosystems](../../concepts/ecosystems)
-| [rocky](../../concepts/rocky) | [sandy](../../concepts/sandy)
-| seagrass | [coral rubble](../../concepts/rubble)
-| [coral reef](../../cnidaria/coralhard/coralhard)
-**Seagrasses  
-Family Cymodoceaceae and Family Hydrocharitaceae***updated Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -126,8 +97,8 @@ they are stepped upon. Avoid stepping on seagrasses.
 ![](../../photos/bullet.gif)Dugongs
 eat mainly seagrasses!
   
-**Where
-seen?** Seagrasses are found on almost all our shores. Undisturbed shores
+## Where seen?
+ Seagrasses are found on almost all our shores. Undisturbed shores
 tend to have more luxuriant growths, but any natural shore is likely
 to have some, albeit sparse, growths of seagrasses. Where they grow
 thickly, our seagrass meadows are like underwater forests, teeming

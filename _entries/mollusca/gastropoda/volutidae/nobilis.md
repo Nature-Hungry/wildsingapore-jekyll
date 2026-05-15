@@ -135,33 +135,6 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Volutidae](volutidae.htm)
-**Noble
-volute*****Cymbiola nobilis***  
-**Family Volutidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -172,8 +145,8 @@ beneath the sand!
 volutes are threatened by over-collection as food and
 for their shells.
   
-**Where
-seen?** This large, beautifully marked snail
+## Where seen?
+ This large, beautifully marked snail
 is sometimes encountered on sandy areas near seagrasses and coral
 rubble on some of our shores. It is more commonly seen moving above
 the surface at night, and is usually buried during the day. According to the Singapore Red Data Book, this beautiful snail is

@@ -141,33 +141,6 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm) > Genus *[Stichodactyla](stichodactyla.htm)*
-**Haddon's
-carpet anemone**  
-***Stichodactyla haddoni*** **Family Stichodactylidae***updated
-Dec 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -177,8 +150,8 @@ step on them!
 ![](../../photos/bullet.gif)Please
 don't feed the anemone or 'rescue' any of its prey
   
-**Where
-seen?** This enormous anemone bigger than your face is commonly seen on many
+## Where seen?
+ This enormous anemone bigger than your face is commonly seen on many
 of shores. In sandy areas, among seagrasses and also on coral rubble.  
   
 **Features:**  Diameter 40-50cm when

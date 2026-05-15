@@ -146,37 +146,6 @@ page_images:
     <p>Pulau Pawai, Dec 09 Shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171815132/">his flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Swimming
-anemone**  
-***Boloceroides
-mcmurrichi*   
-Family Boloceroididae***updated
-Jul 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -187,8 +156,8 @@ in your hands.
 ![](../../photos/bullet.gif)They
 CAN swim but usually don't at low tide.
 
-**Where
-seen?** Looking like an untidy mop, this anemone
+## Where seen?
+ Looking like an untidy mop, this anemone
 is sometimes seen in seagrass areas on many of ourshores. It is possibly
 seasonal. Sometimes, large numbers are seen (up to 10-20 animals in
 a trip) and then none at all. Once, we encountered an explosion of

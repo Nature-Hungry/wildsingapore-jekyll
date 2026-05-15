@@ -78,25 +78,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Banded
-fanworm**  
-***awaiting
-identification\******Family Sabellidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This worm
+## Where seen?
+ This worm
 with large feathery tentacles is often seen in
 living hard corals, as well as dead coral rubble,
 on many of our shores.  

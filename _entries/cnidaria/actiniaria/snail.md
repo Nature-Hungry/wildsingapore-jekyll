@@ -71,36 +71,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/32974945200/ "Snail-hitching sea anemones on Mud whelk (Nassarius jacksonianus)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Snail-hitching
-anemone**  
-***Paraiptasia radiata*****Family Aiptasiidae***updated
-Dec 2024*  
-
----
-
-**Where
-seen?** This tiny anemone is sometimes seen stuck onto shells
+## Where seen?
+ This tiny anemone is sometimes seen stuck onto shells
 occupied by living snails such as [whelks](../../mollusca/gastropoda/nassariidae/nassariidae.htm) (Family Nassaridae). Sometimes also seen attached to tiny stones in
 silty sandy shores. They are more frequently encountered on our Northern
 shores, but also sometimes seen on other shores.  

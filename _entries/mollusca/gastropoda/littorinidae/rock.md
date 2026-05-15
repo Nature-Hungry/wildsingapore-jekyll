@@ -45,37 +45,9 @@ page_images:
     <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Littorinidae](littorinidae.htm)
-**Rock
-periwinkle snail**  
-***awaiting identification\****  
-**Family Littorinidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This small snail is often seen on many of our rocky
+## Where seen?
+ This small snail is often seen on many of our rocky
 shores. At low tide, it is usually seen in groups wedged into crevices
 and cracks in rocks. At night and on cool, rainy days, they actively
 move about in large numbers on the rocks or among seaweeds growing

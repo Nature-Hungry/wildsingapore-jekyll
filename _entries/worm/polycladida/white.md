@@ -45,25 +45,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/white/091231biolks10m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**White
-flatworm  
-*Pseudoceros meenae*****Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** Sometimes seen on coral rubble and reefs on some of our Southern shores.  
+## Where seen?
+ Sometimes seen on coral rubble and reefs on some of our Southern shores.  
   
 **Features:** 3-4cm long. Body plain
 white. On body margins are broad bands, from the inside to the outer edge: black, yellow to transparent grey at the

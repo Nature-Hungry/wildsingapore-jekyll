@@ -99,25 +99,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Dawn
-flatworm  
-*Pseudobiceros hancockanus*****Family
-Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This elegant flatworm is commonly seen on coral
+## Where seen?
+ This elegant flatworm is commonly seen on coral
 rubble near living reefs on many of our Southern shores. Like the
 first light of dawn, the dark to black flatworm has orange and white
 edges. Previously known as *Pseudobiceros uniarborensis*.  

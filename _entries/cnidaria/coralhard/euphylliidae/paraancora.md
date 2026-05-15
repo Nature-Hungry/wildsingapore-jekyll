@@ -80,38 +80,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749234835/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Euphylliidae](euphylliidae.htm) > [*Euphyllia*
-sp.](euphyllia.htm)
-**Branching
-anchor corals**  ***Euphyllia
-paraancora\**  
-Family Euphylliidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard coral with white tipped U-shaped tentacles
+## Where seen?
+ This hard coral with white tipped U-shaped tentacles
 is sometimes seen on some of our Southern shores. Larger specimens
 are found only on undisturbed shores.  
   

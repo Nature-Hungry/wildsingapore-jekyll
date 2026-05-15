@@ -63,22 +63,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Blue-lined
-brittle star**  
-***Macrophiothrix lineocaerulea***   
-**Family Ophiotrichidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This elegantly marked long-armed brittle star is sometimes seen in
+## Where seen?
+ This elegantly marked long-armed brittle star is sometimes seen in
 rubbly areas near seagrasses on our Northern shores, especially at
 night. It was previously known as *Ophiothrix lineocaerulea*.  
   

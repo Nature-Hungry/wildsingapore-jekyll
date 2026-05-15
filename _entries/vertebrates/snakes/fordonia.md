@@ -34,22 +34,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum
-Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Crab-eating
-water snake  
-*Fordonia leucobalia*  
-Family Homalopsidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Rarely seen, usually in mangroves such as Pasir Ris
+## Where seen?
+ Rarely seen, usually in mangroves such as Pasir Ris
 and Sungei Buloh, often near [mud
 lobster mounds](../../crustacea/othercrust/lobster/thalassina). This snake is nocturnal and is seldom seen
 during the day.  

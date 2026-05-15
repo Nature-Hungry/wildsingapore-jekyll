@@ -73,35 +73,9 @@ page_images:
     <p>Pasir Ris Park, May 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-**Tembusu  
-*Fagraea fragrans*  
-Family Gentianaceae/Loganiaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This beautiful stately tree is commonly planted
+## Where seen?
+  This beautiful stately tree is commonly planted
 in our parks and road sides. In the wild, they were found in open
 and swampy lowlands throughout Malaya, most commonly to the south.
 It was also known as *F. cohinchinensis*. According to the NParks

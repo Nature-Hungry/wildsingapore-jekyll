@@ -19,40 +19,6 @@ page_images:
 coverimg: ../../Templates/fornatureguides.gif
 ---
 
-
-
-[![](../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-
-Phylum
-[Porifera](porifera.htm)
-[index
-to talking points](../forguides/index.html) for nature guides
-**Introducing
-sponges**  
-*updated
-Aug 08*
-
----
-
 **What
 are sponges?**   
 Sponges are animals!

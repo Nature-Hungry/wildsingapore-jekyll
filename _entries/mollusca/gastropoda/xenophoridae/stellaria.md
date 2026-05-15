@@ -39,37 +39,9 @@ page_images:
     <p>Changi, Oct 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Turbinidae](../turbinidae/turbinidae.htm)
-**Sunburst
-carrier-shell snail  
-*Stellaria solaris*****Family
-Xenophoridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Only the empty shells of these snails have been seen
+## Where seen?
+ Only the empty shells of these snails have been seen
 washed up on our shores. It is considered uncommon and usually found
 in deep water.  
  **Features:** 8-10cm in diameter. Shell

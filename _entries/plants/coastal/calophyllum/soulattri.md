@@ -30,35 +30,9 @@ page_images:
     <p>Chek Jawa, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-**Bintangor
-bunut   
-*Calophyllum soulattri*  
-Family Clusiaceae***updated
-Nov 2010*
-
----
-
-**Where seen?** Several of these trees are planted at Chek
+## Where seen?
+  Several of these trees are planted at Chek
 Jawa, Pulau Ubin. According to Hsuan Keng it was found in our forests
 including the Botanic Gardens Jungle, Bukit Timah and Seletar.  
   

@@ -77,38 +77,9 @@ page_images:
     <p>Terumbu Hantu, Apr 12Photo shared by Sam Yeo on <a href="https://www.facebook.com/media/set/?set=a.10150809396683140.474611.580878139&type=1">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Euphylliidae](euphylliidae.htm) > [*Euphyllia*
-sp.](euphyllia.htm)
-**Brain
-anchor coral** ***Euphyllia
-ancora\**  
-Family Euphylliidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard coral with meandering valleys and long
+## Where seen?
+ This hard coral with meandering valleys and long
 tentacles with U-shaped tips is sometimes seen on our undisturbed Southern shores.   
   
 **Features:** The colony appears to

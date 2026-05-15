@@ -46,23 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg
 ---
 
+## Where seen?
 
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Feather star
-worms*****awaiting identification*  
-Family Myzostomidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 These tiny worms are found only on [feather stars](../../echinodermata/crinoidea/crinoidea). Their colours and patterns usually perfectly match their host.  
   
 **What is a scale worm?** They are

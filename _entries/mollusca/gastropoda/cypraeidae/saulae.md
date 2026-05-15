@@ -39,36 +39,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cypraeidea](cypraeidae.htm)
-**Saul's
-cowrie**   
-***Palmadusta saulae*****Family Cypraeidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 cowrie with a bright orange body is seldom seen. It is was previously known as *Cypraea saulae*. **Features:** 2.5cm.
 Shell
 cylindrical, pale blue or greyish with 3 broad very pale brown bands and sparse tiny brown speckles all over. Sometimes, but not always, with one or a few brown blotches. Underside white with dark brown spots, without

@@ -90,36 +90,9 @@ page_images:
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889894214/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [Limpets](limpet.htm)
-**Hoof-shield
-limpet**  
-***Scutus* sp.  
-Family Fissurellidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large slug-like limpet is sometimes encountered on our Northern shores,
 under stones usually alone.'Scutus' comes
 from the word 'suctum' which is the name of the Roman shield that

@@ -38,21 +38,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Changeable
-lizard   
-*Calotes versicolor*  
-Family Agamidae***updated
-Dec 2020*
-
----
-
-**Where
-seen?** This large sometimes brightly coloured lizard is
+## Where seen?
+ This large sometimes brightly coloured lizard is
 commonly seen in our wild places including near mangroves and coastal
 vegetation. It is active during the day and is arboreal, found in
 bushes and trees. It is believed to have been introduced to Singapore

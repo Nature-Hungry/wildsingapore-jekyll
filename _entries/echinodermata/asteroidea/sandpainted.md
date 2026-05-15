@@ -73,22 +73,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-> Genera [*Astropecten*](astropecten)
-**Painted
-sand star  
-*Astropecten vappa*  
-Family Astropectinidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large colourful fast moving sea star is sometimes encountered on our
 Northern shores. In sandy or silty shores, near seagrasses. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.  
   

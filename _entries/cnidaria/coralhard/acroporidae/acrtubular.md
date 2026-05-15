@@ -65,37 +65,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/05/semakau-north-with-giant-clam-finds.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/040507rlhad0161m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Acroporidae](acroporidae.htm) > [*Acropora*
-sp.](acropora.htm)
-**Tubular
-acropora corals  
-*Acropora* sp.\*** **Family Acroporidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** These acroporal corals with tubular radial corallites
+## Where seen?
+ These acroporal corals with tubular radial corallites
 are sometimes seen on some of our Southern shores.  
   
 **Features:**Colonies 15-20cm.

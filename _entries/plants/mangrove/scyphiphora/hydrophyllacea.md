@@ -45,32 +45,9 @@ page_images:
     <p>John's Island, Jul 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Chengam   
-*Scyphiphora hydrophyllacea*  
-Family Rubiaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This pretty bush with waxy green leaves is
+## Where seen?
+  This pretty bush with waxy green leaves is
 often seen in undisturbed mangroves. It is also sometimes found on
 our natural rocky shores. It was previously common in our mangroves
 and muddy shores and found in Jurong. Elsewhere, it is considered

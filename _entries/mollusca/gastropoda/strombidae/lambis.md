@@ -160,37 +160,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Strombidae](strombidae.htm)
-**Spider
-conch  
-*Lambis lambis***  
-**Family Strombidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This amazing large snail with spikes on its shell is often seen
+## Where seen?
+ This amazing large snail with spikes on its shell is often seen
 on our Southern shores near reefs. Although large, it
 is often overlooked because the upperside of the shell is very well
 camouflaged. Elsewhere, it is considered common on reef flats and

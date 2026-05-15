@@ -149,32 +149,6 @@ page_images:
     <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918014158713&set=a.10159918036293713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)> Family [Synanceiidae](synanceiidae)
-**Hollow-cheeked
-stonefish  
-*Synanceia horrida*  
-Family Synanceiidae***updated
-Oct 2020*
-
----
 
 if
 you learn only 3 things about it ...  
@@ -184,8 +158,8 @@ you learn only 3 things about it ...
 venom is only used for protection from predators and not
 to catch prey.
   
-**Where
-seen?** This
+## Where seen?
+ This
 squat grumpy-looking, ugly fish is, to our discomfort, quite commonly
 encountered on many of our shores including our recreational beaches. It is particularly abundant near artificial seawalls. It is also present in living reefs and rubbly areas nearby. Resembling a encrusted stone, it is often overlooked. When spotted,
 however, a stonefish is often the subject of morbid fascination due

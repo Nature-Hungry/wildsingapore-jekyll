@@ -190,19 +190,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Knobbly
-sea star  
-*Protoreaster nodosus*  
-Family Oreasteridae***updated Jul 2020*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif) They are no longer common on all our shores.  
@@ -211,8 +198,8 @@ learn only 3 things about them ...
 use water to pump up their bodies. Don't remove them from
 water for too long.
   
-**Where
-seen?** This huge and colourful sea star is sometimes on some of our undisturbed Northern and Southern Shores. Adults are usually
+## Where seen?
+ This huge and colourful sea star is sometimes on some of our undisturbed Northern and Southern Shores. Adults are usually
 seen in coral rubble areas, sometimes many individuals gathered together. These spectacular
 animals are the highlight of a shore trip! According to Marsh and Fromont, it is found on mud, sand, seagrass flats, sandy coral reef flats in Australia.  
   

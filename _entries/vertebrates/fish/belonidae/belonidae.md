@@ -61,33 +61,9 @@ page_images:
     <p>Cyrene Reef, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24889021225/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Needlefishes  
-Family Belonidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These long stick-like fishes with pointed jaws are sometimes seen
+## Where seen?
+ These long stick-like fishes with pointed jaws are sometimes seen
 near mangroves as well as reef flats. Some may even be found upstream in freshwater. During
 the day, larger ones are sometimes seen at jetties in small groups.  
   

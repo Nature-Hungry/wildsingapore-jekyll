@@ -26,23 +26,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Gregarious
-tubeworm  
-*awaiting
-identification*\****updated Oct 2016*
-
----
-
-**Where
-seen?**  This worm is commonly seen on sand bars at the low water mark and
+## Where seen?
+  This worm is commonly seen on sand bars at the low water mark and
 on stones on the mid water mark, usually near seagrasses. The thin
 tubes of large numbers of the worm form shaggy rugs that people often
 overlook and simply step on!  

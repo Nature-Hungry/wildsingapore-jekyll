@@ -52,35 +52,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants)
-****Rambut
-putri   
-*Cassytha filiformis***  
-**Family** Lauraceae***updated
-Jan 13*
-
----
-
-**Where seen?** This long hair-like plant is often seen draped
+## Where seen?
+  This long hair-like plant is often seen draped
 in green or golden tangles on seaside shrubs and small trees. 'Rambut
 putri' means 'Hair of the Princess' in Malay. According to Giesen,
 It can sometimes smother the host so densely that the latter is scarcely

@@ -78,36 +78,9 @@ page_images:
     <p>Raffles Lighthouse, Nov 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Broad-barred
-acropora goby**  
-***Gobiodon histrio***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Found only in [Acropora
+## Where seen?
+ Found only in [Acropora
 hard corals](../../../cnidaria/coralhard/acroporidae/acropora.htm), it is often seen on many of our Southern islands.  
   
 **Features:** 3-4cm. It has a large rounded head, yellowish-green to blue-green body with orange broken stripes and bars and spots. Well hidden among the coral branches, it is hard to see the whole fish. Usually found at the base of the coral branches, so it is hard to spot and photograph. Members of the genus *Gobiodon* produce a bitter mucus.  

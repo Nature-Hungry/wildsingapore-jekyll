@@ -46,37 +46,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Ruffled
-fan green seaweed  
-*Udotea* sp.\*** **Family Udoteaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 This fan-shaped seaweed is sometimes seen at Tuas, growing
 on and among coral rubble. Elsewhere also in sand.  
   

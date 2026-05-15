@@ -53,36 +53,9 @@ page_images:
     <p>Little Sisters Island, Mar 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6829487302/in/album-72157607725632221/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Lined
-bead anemone**  
-***Diadumene lineata*Family Diadumenidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This tiny anemone is often seen our Northern shores,
+## Where seen?
+ This tiny anemone is often seen our Northern shores,
 on hard surfaces near the high water mark. Usually in clusters
 of many individuals rocky shores, jetty legs among encrusting animals like oysters, barnacles
 and even inside the shells of dead barnacles.  

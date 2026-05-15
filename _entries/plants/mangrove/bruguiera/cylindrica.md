@@ -46,33 +46,9 @@ page_images:
     <p>Sungei Buloh, Apr 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
-**Bakau
-putih   
-*Bruguiera cylindrica*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This is probably the most commonly seen tree
+## Where seen?
+  This is probably the most commonly seen tree
 in our mangroves. It is particularly common in the back mangroves.
 It has been described as characteristic of newly established substrates
 and able to withdstand prolonged submersion. It may form pure stands.

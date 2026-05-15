@@ -55,36 +55,9 @@ page_images:
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159235743013158&set=a.10159235746118158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Muricidae](muricidae.htm)
-**Rare-spined
-murex**  
-***Murex trapa*Family Muricidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** It is rare to come across the living snail but the
+## Where seen?
+ It is rare to come across the living snail but the
 shells of dead snails are often encountered on our Northern shores.
 The empty shell is usually occupied by a hermit crab!   
   

@@ -79,36 +79,9 @@ page_images:
     <p>Berlayar Creek, Apr 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160448659907906&set=a.10160448655987906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Naked
-moon snail**  
- ***Sinum* sp.****Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** Resembling a large stiff white slug, this snail is sometimes seen
+## Where seen?
+ Resembling a large stiff white slug, this snail is sometimes seen
 in our seagrass meadows and sandy shores at night. When the shell
 is seen, it looks like a moon snail that refuses to withdraw into
 its shell. It is also called the Ear moon snail or Baby ear moon snail

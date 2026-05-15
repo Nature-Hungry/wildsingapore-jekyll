@@ -83,22 +83,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/050821bbg1995m3.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**Black-and-white
-feather star**  
-***awaiting
-identification\*****updated
-Oct 2016*
-
----
-
-**Where
-seen?** This elegant black-and-white feather star is sometimes
+## Where seen?
+ This elegant black-and-white feather star is sometimes
 seen, on coral rubble and near living reefs on undisturbed shores.   
   
 **Features:** 10-12cm in diameter

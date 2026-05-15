@@ -52,33 +52,6 @@ page_images:
     <p><a href="menatheius">Arrow-headed spider crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Spider
-crabs**   
-**Superfamily Majoidea***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -88,8 +61,8 @@ movement.
 ![](../../../photos/bullet.gif) Some are tiny and look like bits of dirt.  
 ![](../../../photos/bullet.gif) They have pointed heads and long skinny legs.
   
-**Where
-seen?** Spider crabs are encountered on all our shores. But
+## Where seen?
+ Spider crabs are encountered on all our shores. But
 they're hard to spot. In addition to being slow-moving and well camouflaged,
 many are also small.   
   

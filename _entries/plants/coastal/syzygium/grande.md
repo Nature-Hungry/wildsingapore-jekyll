@@ -56,35 +56,9 @@ page_images:
     <p>Pulau Jong, Apr 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../coastalplants) 
-**Jambu
-air laut or Sea
-apple  
-*Syzygium grande*  
-Family Myrtaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This large and handsome tree which mass flowers
+## Where seen?
+  This large and handsome tree which mass flowers
 once a year is commonly planted. It is also sometimes seen wild on
 our shores. According to Hsuan Keng, it was common on sandy and rocky
 shores and is a widely planted roadside tree. According to Corners,

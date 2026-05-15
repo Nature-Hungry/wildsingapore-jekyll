@@ -155,34 +155,6 @@ page_images:
     <p>64pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi1)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
-> Class [Echinodea](../echinoidea) > Order Clypeasteroida
-**Sand
-dollars**   
-**Order
-Clypeasteroida***updated Apr 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -193,8 +165,8 @@ them!
 sand dollars have tiny moving spines that tickle when
 you hold them.
   
-**Where
-seen?** Sand
+## Where seen?
+ Sand
 dollars are seen on many of our sandy shores and can be particularly
 common on Chek Jawa, Tanah Merah and some Southern shores. Usually
 half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses. **What are sand dollars?** Sand dollars

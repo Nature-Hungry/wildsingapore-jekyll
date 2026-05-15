@@ -72,21 +72,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Green
-gum drops ascidians  
-*Diplosoma* sp.Family Didemnidae** *updated Nov 2019*
-
----
-
-**Where
-seen?** These little
+## Where seen?
+ These little
 ascidians that resemble green sweets are commonly seen, especially
 on our Southern shores.   
   

@@ -97,38 +97,9 @@ page_images:
     <p>Terumbu Raya, Feb 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168072521720112&set=a.10168072524345112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Platydoris
-nudibranch  
-*Platydoris
-scabra*    
-Family Discodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?**
 This large nudibranch is sometimes seen near living reefs on some
 of our Southern shores. It may be seasonal: when seen, often many
 individuals are spotted during the same trip.  

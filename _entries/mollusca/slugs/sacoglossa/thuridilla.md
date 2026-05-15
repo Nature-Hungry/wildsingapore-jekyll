@@ -51,36 +51,9 @@ page_images:
     <p>Pulau Jong, Jan 23Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10159413147171295&set=a.10159413154211295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Thuridilla
-slug**  
-***Thuridilla* sp.\*****Family
-Plakobranchidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** More often seen by divers, this slender striped slug
+## Where seen?
+ More often seen by divers, this slender striped slug
 is sometimes seen on the intertidal near reefs on our Southern shores.
 Some consider *Thuridilla gracilis* and *Thuridilla ratna* to be the same species.   
   

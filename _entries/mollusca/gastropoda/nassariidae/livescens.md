@@ -73,36 +73,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160145331/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Nassariidae](nassariidae.htm)
-**Common
-whelk**  
-***Nassarius livescens*****Family Nassariidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This elegantly ribbed whelk is usually busy foraging
+## Where seen?
+ This elegantly ribbed whelk is usually busy foraging
 at low tide among seaweeds or on the sand near seagrasses, especially
 at night. Commonly seen on many of our shores. 'Livescens' means 'black and blue' in Latin.  
   

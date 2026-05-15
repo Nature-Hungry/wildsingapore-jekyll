@@ -32,36 +32,9 @@ page_images:
     <p>Underside.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cypraeidea](cypraeidae.htm)
-**Milk-spotted
-cowrie**  
-***Lyncina vitellus***  **Family Cypraeidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large cowrie was seen only once at Kusu Island. Elsewhere,
 they are found on coral reefs and rocky shores. It was previously
 called *Cypraea vitellus*.  

@@ -26,36 +26,9 @@ page_images:
     <p>St John's Island, Apr 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7614911698/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Class [Crustacea](../../crustacea) > Subclass
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp)
-**Crinoid
-shrimps  
-*Awaiting identification\**** *updated
-Feb 2020*
-
----
-
-**Where
-seen?** Tiny shrimps live in [feather stars](../../../echinodermata/crinoidea/crinoidea)! They are sometimes seen on our shores.  
+## Where seen?
+ Tiny shrimps live in [feather stars](../../../echinodermata/crinoidea/crinoidea)! They are sometimes seen on our shores.  
   
 **Features:** 1-2cm long. The shrimps generally have colours and patterns that closely resemble the feather star that they live in.
 

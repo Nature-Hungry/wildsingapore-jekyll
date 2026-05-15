@@ -61,39 +61,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta) >
-Family Gracilariaceae > Genus [Gracilaria](gracilaria)
-**Knobbly
-agar-agar seaweed   
-*Gracilaria salicornia*  
-Family Gracilariaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 Small clumps of this distinctive knobbly seaweed is sometimes seen
 on many of our shores, on bare sand or attached to rocks and coral
 rubble.  

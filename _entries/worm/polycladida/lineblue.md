@@ -177,22 +177,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Blue-lined
-flatworm  
-*Pseudoceros concinnus\****Family
-Pseudocerotidae*****updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small pale flatworm elegantly edged in blue with a central blue stripe is regularly
+## Where seen?
+ This small pale flatworm elegantly edged in blue with a central blue stripe is regularly
 encountered on many of our shores, on coral rubble near living reefs.
 'Concinnus' means 'elegant' in Latin.  
   

@@ -6,31 +6,6 @@ keywords: smooth, otter, lutrogale, perspicillata, mustelidae, vertebrate, field
   sheet, info, photo
 layout: entry
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Smooth-coated
-otters on Singapore shores**  
-back to [general
-info on smooth-coated otters](perspicillata)
-
----
 
 Otters, Tanah
 Merah Ferry Terminal, Aug 2013  

@@ -47,37 +47,9 @@ page_images:
     <p>](https://www.flickr.com/photos/budak/7812367154 "Sponge commensals")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Sponge
-barnacle  
-*Membranobalanus longirostrum*  
-Family Archaeobalanidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** The tiny feathery feet of this barnacle is sometimes seen in Chocolate sponges.  
+## Where seen?
+ The tiny feathery feet of this barnacle is sometimes seen in Chocolate sponges.  
   
 **Features:** Feet 0.5cm long extended out of holes in the sponge, transparent with tiny white spots.
 Shell embedded in the sponge and not visible.

@@ -60,33 +60,9 @@ page_images:
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](../dasyatidae/rajiformes.htm)
-**Eagle rays** **Family Myliobatidae***updated
-Dec 2020*
-
----
-
-**Where
-seen?** Sometimes seen on our reefy Southern shores, including partially enclosed lagoons at Tanah Merah and Sentosa.
+## Where seen?
+ Sometimes seen on our reefy Southern shores, including partially enclosed lagoons at Tanah Merah and Sentosa.
 Elsewhere, the Eagle ray is associated with reefs, sometimes entering
 estuaries. It may swim close to the surface, occasionally leaping out of the
 water. It may also swim close to the bottom. It sometimes form large schools during non-breeding season.

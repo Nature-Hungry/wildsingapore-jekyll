@@ -37,35 +37,9 @@ page_images:
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Triton
-snails** **Family Ranellidae**  
-*updated
-Sep 2020*
-
----
-
-**Where
-seen?** The commonly seen triton snail is rather small and boring. It is usually
+## Where seen?
+ The commonly seen triton snail is rather small and boring. It is usually
 found under stones on our Northern shores. **Features:** The larger
 species of triton snails are more famous. They can grow to 50cm up
 to 1m long! Many of them have a hairy covering on the shell. The operculum

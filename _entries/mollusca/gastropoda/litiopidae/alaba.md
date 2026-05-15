@@ -22,34 +22,9 @@ page_images:
     <p>Chek Jawa, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153437829118713.1073741963.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Tiny seagrass snail**  
-***Alaba virgata\**** **Family Litiopidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** These tiny snails are often seen in large numbers on seagrasses on our Northern shores.   
+## Where seen?
+ These tiny snails are often seen in large numbers on seagrasses on our Northern shores.   
   
 **Features:** 0.5cm or smaller. Shell thin,
 conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.

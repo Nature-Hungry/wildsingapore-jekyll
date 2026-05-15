@@ -36,37 +36,9 @@ page_images:
     <p>East Coast Park Big Splash, Jun 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153078938003660.1073741877.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Turridae](turridae.htm)
-**Javan
-turrid snail  
-*Turricula javana***  
- **Family Turridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This elegant snail is sometimes seen on sandy areas
+## Where seen?
+ This elegant snail is sometimes seen on sandy areas
 near seagrasses on our Northern shores. It is often seen ploughing through the sand with its long muscular
 foot. The Family Turridae is among
 the largest of marine snails and members are often difficult to distinguish.  

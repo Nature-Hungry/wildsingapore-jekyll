@@ -72,40 +72,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171059945/">his flickr</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Porcelain
-fiddler crab**  
- ***Austruca annulipes***  
-**Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This small crab with an enlarged pincer that is smooth
+## Where seen?
+ This small crab with an enlarged pincer that is smooth
 is sometimes seen on some of our shores. Sandy, silty shores near
 the low water mark, often near mangroves. It was previously known as *Uca annulipes*.  
   

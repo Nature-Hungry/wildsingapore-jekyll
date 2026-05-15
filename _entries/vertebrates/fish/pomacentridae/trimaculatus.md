@@ -43,35 +43,9 @@ page_images:
     <p>Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Pomacentridae](pomacentridae)
-**Three-spot
-dascyllus   
-*Dascyllus trimaculatus*** **Family Pomacentridae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 black anemonefish with white spots is sometimes seen on our submerged
 reefs, living in a [Giant
 carpet anemone](../../../cnidaria/actiniaria/gigantea), often sharing the anemone with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis). Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals.

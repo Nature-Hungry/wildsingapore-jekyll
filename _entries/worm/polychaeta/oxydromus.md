@@ -34,22 +34,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Urchin-mouth worm*****Oxydromus* cf. *angustifrons*   
-Family Hesionidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small banded worm is seen curled around the mouth of [White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides) and [Black sea urchins](../../echinodermata/echinoidea/urchin/temnopleurus) on our Northern shores.  
+## Where seen?
+ This small banded worm is seen curled around the mouth of [White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides) and [Black sea urchins](../../echinodermata/echinoidea/urchin/temnopleurus) on our Northern shores.  
   
 **What are Urchin-mouth worms?** They
 are segmented [worms](../worm) belonging to the Family

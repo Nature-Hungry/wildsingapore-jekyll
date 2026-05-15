@@ -68,21 +68,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Sea
-turtles  
-Family
-Cheloniidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** Adult sea turtles are sometimes sighted near our
+## Where seen?
+ Adult sea turtles are sometimes sighted near our
 Southern Islands. While there have been several incidents of baby
 sea turtles hatching on our shores, including East Coast Park!  
   

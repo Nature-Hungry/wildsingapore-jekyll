@@ -56,37 +56,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Poritidae](poritidae)
-**Goniopora
-corals  
-*Goniopora* sp.\*  
-Family Poritidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** These hard corals are among those commonly seen on
+## Where seen?
+ These hard corals are among those commonly seen on
 many of our shores. They are more commonly seen on our Southern shores. *Bernardpora stutchburyi* also in the Family Poritidae, can look like Anemone corals.  
   
 **Features:** Colonies (10-15cm) boulder-shaped

@@ -142,37 +142,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594437945&set=a.10158447654442945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Lined
-chromodoris nudibranch  
-*Chromodoris lineolata*  
-Family Chromodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This pretty nudibranch in a pin-striped suit is commonly encountered
+## Where seen?
+ This pretty nudibranch in a pin-striped suit is commonly encountered
 on our Southern shores among living reefs and on coral rubble. Towards the late 2010's, they have also become commonly seen on our Northern shores. Sometimes,
 it can be seen in large numbers.  
   

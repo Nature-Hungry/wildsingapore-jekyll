@@ -20,31 +20,6 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/pasir-ris-quickly.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Bearded
-mudskippers on Singapore shores**back to [general
-info on bearded mudskippers](histophorus.htm)
-
----
 
  
 

@@ -57,36 +57,9 @@ page_images:
     <p>Pulau Hantu, Mar 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5576242165722442&set=a.5576244332388892">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Crocodile
-flathead goby**  
-***Psammogobius biocellatus\****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These rather large gobies with flattened heads are
+## Where seen?
+ These rather large gobies with flattened heads are
 sometimes seen on some of our shores on sandy areas near seagrass
 meadows, or sandy lagoon bottoms. One was seen snatching another goby!
 Elsewhere, it is found in intertidal areas, estuaries, lagoons, coastal

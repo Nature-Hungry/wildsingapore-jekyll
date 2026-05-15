@@ -48,34 +48,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../coastalplants) 
-**Tongkat
-Ali   
-*Eurycoma longifolia*  
-Family Simaroubaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This rather innocent looking treelet has a
+## Where seen?
+  This rather innocent looking treelet has a
 formidable reputation as a purported aphrodisiac. It is still sometimes
 seen growing wild on some of our natural places, including on our
 shores and rocky cliffs. It was also found in our primary and secondary

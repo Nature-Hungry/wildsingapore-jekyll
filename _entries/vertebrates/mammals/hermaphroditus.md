@@ -35,20 +35,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Common palm civet  
-*Paradoxurus hermaphroditus*  
-Family Viverridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This cute little 'bandit' of a beast is sometimes
+## Where seen?
+ This cute little 'bandit' of a beast is sometimes
 seen at dusk or at night. But it is quiet and shy and easily spooked.
 It is not a cat!  
   

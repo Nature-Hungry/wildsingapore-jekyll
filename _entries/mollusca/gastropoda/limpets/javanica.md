@@ -64,36 +64,9 @@ page_images:
     <p>Labrador, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083940247945&set=a.10158084785112945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [Limpets](limpet.htm)
-**Javan
-false limpet**   
-***Siphonaria javanica*  
-Family Siphonariidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?**This
+## Where seen?
+This
 limpet with prominent ribs is commonly seen in small groups mainly
 on our Southern shores. On boulders near the high water mark.    
   

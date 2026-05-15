@@ -117,36 +117,9 @@ page_images:
     <p>Terumbu Raya, Feb 09Photos shared by Steven von Peltz.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Haeckel's
-anemone**  
-***Actinostephanus haeckeli*Family Actinodendridae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This bizarre and scary-looking anemone is sometimes
+## Where seen?
+ This bizarre and scary-looking anemone is sometimes
 seen on our shores in sand near reefs. Usually, only one is seen in a large area. It can retract completely into the sand at low tide.  
   
 **Features:** 10-20cm in diameter. It has about 12 long fat cylindrical tentacles

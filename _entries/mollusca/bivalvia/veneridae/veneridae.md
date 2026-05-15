@@ -59,31 +59,6 @@ page_images:
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Venus
-clams  
-Family Veneridae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -92,7 +67,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 are eaten by snails that bore a hole in their shell. See
 if you can find such a shell?
- **Where seen?** Another seafood favourite, in Singapore, these clams are also called
+ ## Where seen?
+  Another seafood favourite, in Singapore, these clams are also called
 'la-la'. Venus clams are still commonly seen on some of our shores,
 in sandy and rocky areas near seagrasses and coral rubble.  
 **What are venus clams?** Venus clams belong to the Family Veneridae. There are more than 400

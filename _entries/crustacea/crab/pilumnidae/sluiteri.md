@@ -68,35 +68,9 @@ page_images:
     <p>Sisters Islands, Sep 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4152304648/in/photolist-7jVDvs-6qvYco-6oZv7m-75y3ab-75ua14-CFpwXu-C5tUxj-oUWpyC-ek98EP-e46YPD-dTyNtz-dTErif-aCbbie-andw2q-aer62J-aaf1DY-9SnkYd-9JhqZ8-8VmUfU-8s7azd-87sFCB-6tm2Yh-75u9Tx-gpicLD-ekb7EH-dZa1nt-dYS6nv-dTyP8c-dTEaTs-dEHYMJ-d8v5sE-andxaN-9d5rz7-8ZhgQ3-8ViU6V-8JHdAg-8HQyT3-8zeKe3-8zbre4-8s7aeY-8c3s3G-7mMK7q-6uCnqX-6qrGQr-75ucaa-5NxQHZ-5sQhKW-CE47Fp-qkL8mu-njaQhr">flickr</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Pilumnidae](pilumnidae)
-**Fuzzy reef crab** ***Pilumnus sluiteri***  
-**Family Pilumnidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This reddish crabs with a fuzzy growth is sometimes seen on good reefy shores in the South.  
+## Where seen?
+ This reddish crabs with a fuzzy growth is sometimes seen on good reefy shores in the South.  
   
 **Features:** Body width 3-5cm. Body
 oval, body and legs covered with sparse fuzz. Walking legs quite long, sparsely fuzzy. It has stout

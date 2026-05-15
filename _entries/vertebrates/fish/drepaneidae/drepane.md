@@ -37,32 +37,9 @@ page_images:
     <p>Spotted sicklefish (Drepane punctata) Adults removed from fish net Chek Jawa, May 16Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/26591403590/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Sicklefish  
-*Drepane sp.*** **Family Drepaneidae***updated
-Sep 2020*
-
----
-
- **Where seen?** A
+ ## Where seen?
+  A
 juvenile was seen once at Tanah Merah. Adults sometimes seen dead in mass fish death events or trapped in abandoned fish nets.  
   
 **Features:** Adults usually 25cm,

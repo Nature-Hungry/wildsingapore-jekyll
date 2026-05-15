@@ -86,31 +86,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-**Soles**  
-**Family Soleidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -119,8 +94,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Found
 beneath the sand. Watch your step!
   
-**Where
-seen?** Some of these flatfishes really do look like the
+## Where seen?
+ Some of these flatfishes really do look like the
 sole of a shoe! Others have pretty patterns. They are often seen on
 our Northern shores, sometimes also on our Southern shores. Usually
 in sandy areas near seagrass meadows. **What are soles?** Soles are [flatfishes](../pleuronectiformes/pleuronectiformes) that belong to the Family Soleidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441):

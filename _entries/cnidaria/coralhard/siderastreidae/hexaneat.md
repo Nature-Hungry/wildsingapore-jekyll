@@ -47,36 +47,9 @@ page_images:
     <p>St John's Island, Apr 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158838566793660&set=a.10158838479268660">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-**Neat
-hexagonal coral**  
-***Pseudosiderastrea tayamai*\***  
-**Family Siderastreidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This hard coral with relatively neat hexagonal corallites is among
+## Where seen?
+ This hard coral with relatively neat hexagonal corallites is among
 the few hard corals more regularly seen on our northern shores. They
 are also seen on our southern shores. According to Veron, they are
 found in very shallow water attached to bare rock and are considered

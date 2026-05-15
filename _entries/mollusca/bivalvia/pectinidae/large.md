@@ -89,36 +89,9 @@ page_images:
     <p>Raffles Lighthouse, Jan 22Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=4654991767950896&set=a.4655027614613978">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Pectinidae](pectinidae.htm)
-**Large
-scallop  
-*awaiting identification\****  
-**Family
-Pectinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These large clams are sometimes seen on our Southern shores near living reefs.  
+## Where seen?
+ These large clams are sometimes seen on our Southern shores near living reefs.  
   
 **Features:** Diameter 6-10cm. A circular
 two-part shell, thick and heavy, yellowish, often covered in sediments. When submerged, a fringe of tentacles emerge, some long and

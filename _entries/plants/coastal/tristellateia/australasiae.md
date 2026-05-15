@@ -51,34 +51,9 @@ page_images:
     <p>222 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants) 
-****Maiden's
-jealousy*****Tristellateia australasiae***  
-**Family** Malpighiaceae***updated
-Sep 09*
-
----
-
-**Where seen?** A popular ornamental, this pretty plant with
+## Where seen?
+  A popular ornamental, this pretty plant with
 bright yellow flowers is commonly seen in gardens and parks. But in
 the wild, it originally grew in back mangroves, tidal swamps, coasts
 and forests. Widely distributed from Taiwan through Southeast Asia

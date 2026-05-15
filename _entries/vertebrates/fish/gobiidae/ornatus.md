@@ -66,36 +66,9 @@ page_images:
     <p>Pulau Jong, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162001942043693&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Ornate
-lagoon-goby**  
-***Istigobius ornatus***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This decorative and rather large goby is commonly seen on many of
+## Where seen?
+ This decorative and rather large goby is commonly seen on many of
 our shores, at low tide sheltering in pools among coral rubble, near seagrasses
 and living reefs. Usually seen alone, but many individuals can be
 spaced apart over a small area. Sometimes, lots of small ones can

@@ -88,32 +88,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081968713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Ophichthidae](ophichthidae.htm)
-**Worm-eel  
-**Scolecenchelys macroptera**  
-Family Ophichthidae***updated
-Apr 2025*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -122,8 +96,8 @@ learn only 3 things about it ...
 ![](../../../photos/bullet.gif)This
 small burrowing fish is easily trampled. Watch your step!
   
-**Where
-seen?** This small worm-like fish is often seen near coral rubble where there
+## Where seen?
+ This small worm-like fish is often seen near coral rubble where there
 are lots of hiding places, especially on our Southern shores. A secretive
 fish, it is usually active only at night. Sightings are usually brief
 as it wriggles rapidly past and disappears into some crevice or hole.  

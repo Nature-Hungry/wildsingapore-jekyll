@@ -63,41 +63,14 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Giant
-mudskipper  
-*Periophthalmodon schlosseri***   
-**Family Gobiidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
 ![](../../../photos/bullet.gif) It is the largest mudskipper seen in Singapore.  
 ![](../../../photos/bullet.gif) It creates an impressive 'swimming pool' and often found near it.  
 ![](../../../photos/bullet.gif)It has a different body pattern at night than during the daytime.
- **Where
-seen?** This large
+ ## Where seen?
+ This large
 mudskipper is often seen in mudflats and the back mangroves of our Northern shores. At low tide,
 large ones are often seen in or near their 'swimming pool'. At high tide, they may be seen clinging to mangrove tree roots.  
   

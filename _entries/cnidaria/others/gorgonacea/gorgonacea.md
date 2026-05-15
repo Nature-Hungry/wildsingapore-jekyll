@@ -83,32 +83,6 @@ page_images:
     <p><a href="whip">Sea whip</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian [text
-index](../../cnidariaindex#gorgonacea) | [photo index](../../gorgonaceafi)
-Phylum
-[Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
-> Subclass Alcyonaria/Octocorallia > Order
-Gorgonacea
-**Sea
-fans or Gorgonians  
-Order Gorgonacea***updated Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -119,8 +93,8 @@ skeleton.
 ![](../../../photos/bullet.gif)Many
 fascinating animals live on them. Look for them.
   
-**Where
-seen?** Most people are surprised to learn that sea fans
+## Where seen?
+ Most people are surprised to learn that sea fans
 are still quite commonly seen on our shores. Large colonies may be
 seen on undisturbed intertidal reefs in the North. But smaller ones
 may be seen even on Changi and East Coast Park. Divers may encounter

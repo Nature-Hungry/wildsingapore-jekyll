@@ -49,33 +49,9 @@ page_images:
     <p>Kranji Canal, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Kalak
-kambing   
-*Finlaysonia obovata*  
-Family Apocynaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This climber with distinctive horn-like fruits
+## Where seen?
+  This climber with distinctive horn-like fruits
 is rarely seen. According to Hsuan Keng, it is found in mangroves
 and tidal river banks including at Kranji and Geylang. Ang et al have
 found it in some of our remaining mangroves. Generally uncommon in

@@ -94,35 +94,9 @@ page_images:
     <p>East Coast Park, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157884338082945&set=a.10157884335157945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/060726chgd4942m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > Family
-[Octopodidae](octopus.htm)
-**Slender
-seagrass octopus**  ***awaiting identification\**  
-Family Octopodidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small octopus with very long arms is sometimes seen
+## Where seen?
+ This small octopus with very long arms is sometimes seen
 on our Northern shores among seagrasses. Usually purplish. Maroon
 ones with tiny white spots are sometimes seen.  
   

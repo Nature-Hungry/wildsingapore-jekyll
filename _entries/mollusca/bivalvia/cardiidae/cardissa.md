@@ -89,34 +89,9 @@ page_images:
     <p>Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Cardiidae](cardiidae.htm)
-**Heart
-cockle**  
-***Corculum cardissa*****Family Cardiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This intriguing clam is sometimes seen on our Southern
+## Where seen?
+ This intriguing clam is sometimes seen on our Southern
 shores, near reefs. Sometimes on the sand, on rubble or among seagrasses.
 Elsewhere, often found on sandy bottoms often
 associated with reefs, sometimes in dense colonies.  

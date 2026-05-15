@@ -45,36 +45,9 @@ page_images:
     <p>Pasir Ris, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/back-to-pasir-ris-shore.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm) > [mudskippers](mudskipper.htm)
-**Blue-spotted
-mudskipper  
-*Boleophthalmus boddarti***   
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This pretty
+## Where seen?
+ This pretty
 spotted mudskipper is sometimes seen in the back mangroves of our Northern shores.
 Large adults often seen on very very soft mud. During high tide, it hides in its burrow with a bubble of air.   
   

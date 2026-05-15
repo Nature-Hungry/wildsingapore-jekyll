@@ -135,37 +135,9 @@ page_images:
     <p>Terumbu Buran, Nov 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Muricidae](muricidae.htm)
-**Reef
-murex**  
-***Chicoreus* sp.\***  
-**Family Muricidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This large but well camouflaged snail is usually
+## Where seen?
+ This large but well camouflaged snail is usually
 found on boulders, rocks and hard surfaces as well as sandy areas
 near coral reefs on our Southern shores.  
   

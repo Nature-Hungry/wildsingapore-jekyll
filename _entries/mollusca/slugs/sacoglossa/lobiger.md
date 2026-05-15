@@ -96,36 +96,9 @@ page_images:
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Tendril
-slug**  
-***Lobiger viridis*   
-Family Oxynoidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.  
+## Where seen?
+ This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.  
   
 **Features:** To about
 3cm. It has a green shell and four long 'fingers' sticking out of

@@ -46,30 +46,6 @@ page_images:
     <p><a href="trisignatus">Spotted-tail frogfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Frogfishes  
-Family Antennariidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -79,8 +55,8 @@ prey.
 ![](../../../photos/bullet.gif)Hard
 to spot: they resemble sponges, rocks. So watch your step!
   
-**Where
-seen?** These rotund fishes are sometimes seen on some of our shores. They
+## Where seen?
+ These rotund fishes are sometimes seen on some of our shores. They
 are probably quite common and often simply overlooked as they are
 extremely well camouflaged.  
   

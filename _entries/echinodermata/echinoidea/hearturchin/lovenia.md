@@ -87,36 +87,9 @@ page_images:
     <p>Pulau Semakau, Feb 09 Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3262343788/in/set-72157613461942881/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [heart
-urchins](hearturchin)
-**Lovenia
-heart urchin  
-*Lovenia elongata\**  
-Family Loveniidae***updated Apr 2020*
-
----
-
-**Where
-seen?** These long-spined heart urchins with a deep groove in the front is
+## Where seen?
+ These long-spined heart urchins with a deep groove in the front is
 sometimes seen on our Southern shores.  
   
 **Features:** 6-8cm long. Body teardrop-shaped,

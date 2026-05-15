@@ -45,22 +45,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
 ---
 
+## Where seen?
 
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Keelworms  
-Family Serpulidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 Keelworm tubes are common under stones and on hard surfaces on probably
 all our shores. Keelworms also encrust ship keels (thus their common
 name) and in fact, any hard surface that is immersed in the sea, including

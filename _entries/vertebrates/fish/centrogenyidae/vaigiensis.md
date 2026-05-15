@@ -87,32 +87,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234251886295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
-**False
-scorpionfish  
-*Centrogenys vaigiensis***  
-**Family Centrogenyidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -122,8 +96,8 @@ one.
 ![](../../../photos/bullet.gif)It
 hides among seaweeds and under stones. Watch your step!
   
-**Where
-seen?** This small scorpionfish wannabe is commonly encountered on many of
+## Where seen?
+ This small scorpionfish wannabe is commonly encountered on many of
 our shores in the North and South, among coral rubble and seagrass areas. Masters of
 disguise, some can also be very small. Most stay motionless and thus
 do not betray their presence through movement. Patience and a keen

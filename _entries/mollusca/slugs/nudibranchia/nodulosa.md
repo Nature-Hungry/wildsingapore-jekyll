@@ -84,37 +84,9 @@ page_images:
     <p>Big Sisters Island, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157035133476295&set=a.10157035131206295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Beaded
-nudibranch  
-*Hoplodoris nodulosa*  
-Family Discodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This nudibranch covered in bead-like bumps is sometimes
+## Where seen?
+ This nudibranch covered in bead-like bumps is sometimes
 seen on on our Northern shores among seagrasses and seaweeds. It appears
 to be seasonally common, often many seen during a single visit, then not seen again for some time.   
   

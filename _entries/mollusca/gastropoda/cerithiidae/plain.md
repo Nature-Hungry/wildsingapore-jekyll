@@ -63,38 +63,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cerithiidae](cerithiidae.htm)
-**Plain
-creeper snail  
-*awaiting
-identification\**   
-Family Cerithiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** Little creeper snails without obvious markings are sometimes found
+## Where seen?
+ Little creeper snails without obvious markings are sometimes found
 in groups, on rocky and sandy areas near the mid-water mark. Sometimes
 near the high-water mark near shady sea walls. Commonly seen on our Southern shores.  
   

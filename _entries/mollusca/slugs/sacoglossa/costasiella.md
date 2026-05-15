@@ -164,36 +164,9 @@ page_images:
     <p>723pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Strawberry
-slug**  
-***Costasiella* sp.\*****Family
-Costasiellidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This tiny and superbly camouflaged slug is often
+## Where seen?
+ This tiny and superbly camouflaged slug is often
 found on [solitary
 fan green seaweeds](../../../plants/seaweed/chlorophyta/avrerecta.htm) (*Avrainvillea* sp.) which they feed on. At low tide, many slugs are often seen on one sea fan, usually clustered near the base of this seaweed. It was previously in Family Limapontiidae. Divers sometimes call it 'Shaun the Sheep'.  
   

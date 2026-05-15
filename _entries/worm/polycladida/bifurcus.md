@@ -66,26 +66,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Racing-line
-flatworm  
-*Pseudoceros bifurcus*****Family
-Pseudocerotidae**  
-*updated
-Feb 2020*
-
----
-
-**Where
-seen?** Like a blue race-car with a colourful line along the side, this stunning flatworm is sometimes seen on coral
+## Where seen?
+ Like a blue race-car with a colourful line along the side, this stunning flatworm is sometimes seen on coral
 rubble near living reefs.  
   
 **Features:** 4-5cm long.

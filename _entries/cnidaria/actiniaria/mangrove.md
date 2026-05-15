@@ -49,36 +49,9 @@ page_images:
     <p>Pulau Ubin, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.958460750003999&type=3&ref=embed_post">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum
-[Cnidaria](cnidaria.htm) > Class [Anthozoa](anthozoa.htm)
-> Subclass
-Zoantharia/Hexacorallia > Order [Actiniaria](actiniarianoid/actiniaria.htm)
-**Petal-mouthed
-mangrove anemone**  
-***Stephensonactis ornata*Family Haliactiidae***updated Dec 2024*
-
----
-
-**Where
-seen?** This beautiful anemone with 'petals' around its
+## Where seen?
+ This beautiful anemone with 'petals' around its
 mouth is sometimes seen on our Northern shores. Can be seen in large
 numbers in very soft silty mudflats near mangroves. A few individuals
 may be seen in other silty sandy shores near freshwater inputs.  

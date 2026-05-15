@@ -72,38 +72,9 @@ page_images:
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159648433728713&set=a.10159648444183713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Pink
-moon snail**  
- ***Naticarius
-zonalis*   
-Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This moon snail with a pretty pink and white body
+## Where seen?
+ This moon snail with a pretty pink and white body
 is sometimes encountered on some of our shores near and among seagrass
 meadows.  
   

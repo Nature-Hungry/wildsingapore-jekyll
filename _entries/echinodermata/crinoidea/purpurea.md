@@ -86,20 +86,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
 ---
 
-
-crinoids [text
-index](../echinodermindex#crinoidea) | [photo index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**10-armed
-feather star**  
-***awaiting identification****updated
-Mar 2020*
-
----
-
-**Where
-seen?** This large 10-armed feather star is sometimes seen on rubbly areas.  
+## Where seen?
+ This large 10-armed feather star is sometimes seen on rubbly areas.  
   
 **Features:** About 15cm in diameter
 with 10 thick arms. The oral disk is bulbous and surrounded by short structures (pinnules)

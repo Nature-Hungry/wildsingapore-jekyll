@@ -87,36 +87,9 @@ page_images:
     <p>Beting Bemban Besar, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162808258719264&set=a.10162808156564264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae) > [pipefishes](pipefish)
-**Alligator
-pipefish  
-*Syngnathoides biaculeatus***   
-**Family Syngnathidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This fat pipefish is sometimes seen on our Southern
+## Where seen?
+ This fat pipefish is sometimes seen on our Southern
 shores. Many were discovered during
 a seine net survey of Cyrene Reef among thickets of long among [Tape
 seagrasses](../../../plants/seagrass/enhalus). It is generally

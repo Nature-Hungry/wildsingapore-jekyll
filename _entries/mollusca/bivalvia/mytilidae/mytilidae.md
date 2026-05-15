@@ -48,30 +48,6 @@ page_images:
     <p><a href="musculista.htm">Nest mussels</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Sea
-mussels**  **Family Mytilidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -80,8 +56,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Mussels
 can cause food poisoning.
   
-**Where
-seen?** Mussels are common on many of our shores and mangroves,
+## Where seen?
+ Mussels are common on many of our shores and mangroves,
 stuck to rocks, tree roots and other hard surfaces. Some create 'nests'
 out on the sand or mudflats.  
   

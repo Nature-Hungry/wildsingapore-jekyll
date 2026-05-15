@@ -58,35 +58,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Shadow
-goby**  
-***Acentrogobius nebulosus***  
-**Family Gobiidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This little goby is commonly seen on many of our shores including
+## Where seen?
+ This little goby is commonly seen on many of our shores including
 mangroves, muddy bottoms near reefs, sandy pools and among coral rubble.
 On some shores, almost every pool has one! Sometimes, several are seen together. Its previous name was *Yongeichthys
 nebulosus*.   

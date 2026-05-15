@@ -47,19 +47,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum Nemertea
-**Ribbon
-worms  
-Phylum Nemertea***updated
-Oct 2016*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)They
@@ -68,8 +55,8 @@ can be very long!
 are predators and efficient hunters.  
 ![](../../photos/bullet.gif) They are delicate and some are venomous. Don't touch!
   
-**Where
-seen?** Ribbon worms regularly seen in coral rubble areas on many of our shores.
+## Where seen?
+ Ribbon worms regularly seen in coral rubble areas on many of our shores.
 They are more active at night. During the day, they burrow in the
 ground or remain in other hiding places.   
   

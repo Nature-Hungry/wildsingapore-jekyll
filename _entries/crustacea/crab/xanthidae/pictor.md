@@ -131,38 +131,9 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171192581/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Mosaic
-reef crab   
-*Lophozozymus pictor***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This striking red crab is sometimes seen on our some
+## Where seen?
+ This striking red crab is sometimes seen on our some
 of our shores among coral rubble or near living reefs. At some times,
 several can be seen on one trip, and then none for several months.
 'Pictor' in Latin means 'painter'.  

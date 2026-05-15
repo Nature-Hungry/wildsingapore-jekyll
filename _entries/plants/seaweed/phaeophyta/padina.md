@@ -85,36 +85,9 @@ page_images:
     <p>Pulau Senang, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Mermaid's
-fan seaweed  
-*Padina* sp.\*  
-Family Dictyotaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Bouquets of this brown seaweed is commonly encountered
+## Where seen?
+ Bouquets of this brown seaweed is commonly encountered
 on many our shores, especially our Southern shores. On boulders, rocks,
 stones and coral rubble. It is also sometimes called Mermaid's ear
 seaweed.  

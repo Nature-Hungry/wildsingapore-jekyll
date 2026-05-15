@@ -65,36 +65,9 @@ page_images:
     <p>Cyrene, May 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02YUTX1JRu7m9p7J93C9CKLfnVVuCy8GaUr59cr4hHhpkb3HDj8B2FutwT3DiLQDRal&id=61566639210004&__cft__[0]=AZVvtYI7-_dfQKUoV8XeRX3LAZtbZOxYMSsBfFydeQKFdSMhD1OklSbAMUUOYNtO8Hs2qcn4DJCEdImG6evzEU6HQ9_GO-AkOcrSnK1M5fhtI0xIAUrXax0WORtCYuZ-nDI_4f44GsUflSD-RDYSml2cy4mckTne6Slb2J5riRRqhQ&__tn__=%2CO%2CP-R">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Varunidae](varunidae)
-**Paddler
-crab**   
-***Varuna* sp.****Family Varunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This crab with paddling legs is sometimes
+## Where seen?
+ This crab with paddling legs is sometimes
 seen on our shores near mangroves and freshwater streams.
 It is usually seen drifting on flotsam or seaweed. This particular
 one was seen on top of a large piece of plastic.  

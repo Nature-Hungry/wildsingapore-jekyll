@@ -85,34 +85,6 @@ page_images:
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Strombidae](strombidae.htm)
-**Gong-gong
-or Pearl conch  
-*Strombus turturella***  
-**Family Strombidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -122,7 +94,8 @@ lively snail that hops instead of creeping along the surface.
 of its features are adaptations to this hopping lifestyle:
 flared shell, large eyes.  
 ![](../../../photos/bullet.gif) It is edible, but who could eat such a cute little snail!
- **Where seen?** This delightful 'fat' little conch snail is
+ ## Where seen?
+  This delightful 'fat' little conch snail is
 often seen on many of our shores, on silty and sandy areas with good
 seagrass growths. Although large, these snails are well camouflaged. It was previously known as *Strombus
 canarium*. 'Canarium' means 'dog' in Latin, and it is sometimes also called the Dog conch.  

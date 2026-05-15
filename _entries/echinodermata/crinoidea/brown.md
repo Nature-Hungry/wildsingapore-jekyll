@@ -138,22 +138,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/190520hntlks4.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**Brown
-feather star**  
-***awaiting
-identification****updated
-Sep 2019*
-
----
-
-**Where
-seen?** This brown feather star is sometimes seen near living
+## Where seen?
+ This brown feather star is sometimes seen near living
 reefs on Pulau Hantu.   
   
 **Features:** 12-15cm in diameter.

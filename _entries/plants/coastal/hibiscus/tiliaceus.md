@@ -106,35 +106,9 @@ page_images:
     <p>160pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../../coastal/coastalplants.htm) 
-****Sea hibiscus
-  
-*Talipariti tiliaceum***  
-**Family** Malvaceae***updated
-Nov 10*
-
----
-
-**Where seen?** A very common shrub to tall tree, this plant
+## Where seen?
+  A very common shrub to tall tree, this plant
 with delightful heart-shaped leaves and bright yellow flowers that
 attract red bugs is often seen on many of our wild shores. It is also
 often planted in our seaside parks. According to Corners, it is common

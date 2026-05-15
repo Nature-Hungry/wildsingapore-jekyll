@@ -63,35 +63,9 @@ page_images:
     <p>Terumbu Pempang Kecil, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24777083122/in/album-72157664453928665/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Turbinidae](../turbinidae/turbinidae.htm)
-**Abalone****Family
-Haliotidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** Small ones are sometimes seen on our undisturbed
+## Where seen?
+ Small ones are sometimes seen on our undisturbed
 reefs, under rocks and rubble.   
  **Features:** 4-7cm long, the shell resembles
 a limpet, flat semi-spherical oval, resembles an ear especially from

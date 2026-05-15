@@ -54,35 +54,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > Class Aves
-**Oriental
-pied-hornbill  
-*Anthracoceros albirostris*  
-Family Bucerotidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Oriental pied-hornbills are commonly seen on Pulau
+## Where seen?
+ Oriental pied-hornbills are commonly seen on Pulau
 Ubin and sometimes also at Changi. They are the only truly wild hornbills
 found on Singapore. Unlike most other hornbills, Oriental pied-hornbills
 can be found outside primary rainforests and may visit inhabited areas

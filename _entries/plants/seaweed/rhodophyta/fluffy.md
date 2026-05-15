@@ -41,36 +41,9 @@ page_images:
     <p>On this website, they are grouped by external features for convenience of display.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Cotton
-candy red seaweed****Family Ceramiaceae  
-*updated
-Oct 15***
-
----
-
-**Where
-seen?** Like pink cotton candy, this seaweed is sometimes seen on our shores, blooming among seagrasses or attached to coral rubble near reefs.  
+## Where seen?
+ Like pink cotton candy, this seaweed is sometimes seen on our shores, blooming among seagrasses or attached to coral rubble near reefs.  
   
 **Features:** Dense balls of fine
 filaments, each ball 3-5cm across, may cover an area of 15cm. Pinkish

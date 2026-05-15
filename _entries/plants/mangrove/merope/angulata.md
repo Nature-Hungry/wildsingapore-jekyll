@@ -38,34 +38,9 @@ page_images:
     <p>Kranji Nature Trail, Dec 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Limau
-lelang   
-*Merope angulata*  
-Family Rutaceae***updated
-Jan 2013*
-
----
-
-**Where
-seen?** This rare lime-look-alike is found in the back mangroves,
+## Where seen?
+ This rare lime-look-alike is found in the back mangroves,
 growing under mangrove trees. According to Hsuan Keng, they were found
 in Jurong and Kranji, while according to Ng, they were found in Sungei
 Mandai Besar and Sungei Mandai Kecil. According to Corners it is frequently

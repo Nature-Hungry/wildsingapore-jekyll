@@ -31,29 +31,6 @@ page_images:
     <p>Tanah Merah, Apr 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Arcidae](arcidae.htm)
-**'See-hum'**  
-***Anadara* sp.****Family Arcidae***updated May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -62,7 +39,8 @@ local dishes.
 ![](../../../photos/bullet.gif) Its body is red because it has haemoglobin just like us.  
 ![](../../../photos/bullet.gif)It
 can cause cholera, hepatitis A and food poisoning.
- **Where seen?** This robust little clam is still commonly seen
+ ## Where seen?
+  This robust little clam is still commonly seen
 on some parts of our Northern shores, particularly on silty sand. 'See-hum'
 is what locals call it. They are now no longer as common as they
 used to be in the past. Those sold in our markets and restaurants

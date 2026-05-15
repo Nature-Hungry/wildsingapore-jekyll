@@ -49,35 +49,9 @@ page_images:
     <p>East Coast Park (G), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487188728713&set=a.10159487267278713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Fig
-snail  
-*Ficus variegata***  
-**Family Ficidae***updated
-Jul 2020*
-
----
-
- **Where seen?** These snails are not commonly encountered.
+ ## Where seen?
+  These snails are not commonly encountered.
 Mainly on wide clean sandy shores that are rich in buried marine life.
 They are usually more active at night. At low tide they are usually
 buried in the sand and only emerge at high tide.  

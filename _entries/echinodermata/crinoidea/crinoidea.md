@@ -163,17 +163,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order Comatulida
-**Feather
-stars** **Order Comatulida***updated Apr 2020*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif) Feather stars are rarely found near the shore.  
@@ -182,8 +171,8 @@ learn only 3 things about them ...
 long spiny arms are fragile and break easily. Don't disturb
 them.
   
-**Where
-seen?** These feathery animals are sometimes seen on some
+## Where seen?
+ These feathery animals are sometimes seen on some
 of our shores, generally near living reefs. They are also encountered
 by divers on our Southern reefs. Most feather stars
 only come out to feed at night. During the day, they hide in crevices

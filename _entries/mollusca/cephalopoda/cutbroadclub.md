@@ -81,34 +81,9 @@ page_images:
     <p>Beting Bemban Besar, May 22Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10158922915081295&set=a.10158922917211295">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Sepiidae](sepiidae.htm)
-**Broadclub
-cuttlefishes  
-*Sepia latimanus*Family Sepiidae***updated May 2020*
-
----
-
-**Where
-seen?** This plump cuttlefish is sometimes seen near reefy
+## Where seen?
+ This plump cuttlefish is sometimes seen near reefy
 areas, hovering slowly close to the ground. Elsewhere, considered
 among the most common cuttlefishes in reefs to 30m deep, and also
 among the largest of cuttlefishes. On the intertidal, smaller juveniles

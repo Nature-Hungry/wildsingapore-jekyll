@@ -105,33 +105,6 @@ page_images:
     <p>Terumbu Bukom, Nov 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-zoanthids [text
-index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
-**Sea
-mat zoanthid  
-*Palythoa tuberculosa*\*  
-Family Zoanthidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -141,8 +114,8 @@ learn only 3 things about them ...
 rubbery mat is living tissue and animals. Don't step on
 it!
   
-**Where
-seen?** Like some weird rubber mat that coats rocks and rubble, this colony
+## Where seen?
+ Like some weird rubber mat that coats rocks and rubble, this colony
 of animals is commonly seen on our Southern shores. It is often
 found in areas where waves crash onto the rocks in shallow waters.
 When the animals find a happy spot, the colony can cover a large area.  

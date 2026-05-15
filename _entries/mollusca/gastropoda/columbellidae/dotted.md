@@ -45,36 +45,9 @@ page_images:
     <p>John's Island, Sep 07</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Columbellidae](columbellidae.htm)
-**Dotted
-dove snail**  
-***Euplica scripta*****Family Columbellidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This little snail is sometimes seen in numbers on
+## Where seen?
+ This little snail is sometimes seen in numbers on
 some of our shores. Usually on large seagrasses (such as [Tape
 seagrass](../../../plants/seagrass/enhalus.htm)) and large seaweeds (such as [Sargassum](../../../plants/seaweed/phaeophyta/sargassum.htm)). Sometimes many can be seen well dispersed among
 these leafy lifeforms. It was also known as *Columbella versicolor,

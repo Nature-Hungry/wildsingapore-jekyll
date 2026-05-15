@@ -63,36 +63,9 @@ page_images:
     <p>Tuas, Dec 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea pens [text
-index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
-**Sea
-pencil**   
-***Lituaria* sp.****Family Veretillidae**   
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** Resembling a white nose inhaler, this colony of animals on a stick is often
+## Where seen?
+ Resembling a white nose inhaler, this colony of animals on a stick is often
 seen on some of our Northern shores. Among seagrasses and in sandy
 areas near seagrasses. Sometimes in large numbers, especially in the
 dark. At sunrise, most are retracted into the ground. Elsewhere, these sea pens are found in deeper waters.  

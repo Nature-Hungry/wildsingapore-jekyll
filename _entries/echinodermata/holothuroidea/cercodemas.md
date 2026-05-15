@@ -50,22 +50,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Pink
-warty sea cucumber  
-*Cercodemas anceps*  
-Family Cucumariidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small psychedelic sea cucumber is common our Northern
 shores. It appears to be seasonally abundant.
 There are times where many individuals are seen, jammed next to one

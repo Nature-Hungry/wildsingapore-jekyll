@@ -67,21 +67,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Smooth
-sea cucumber  
-*Acaudina* sp.*\**Family Caudinidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** These large smooth sausage-like sea cucumbers are commonly seen on our
+## Where seen?
+ These large smooth sausage-like sea cucumbers are commonly seen on our
 Northern shores, often found half buried in sand bars near seagrasses.   
   
  **Features:** 10-15 cm long. Body cylindrical and

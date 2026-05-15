@@ -28,34 +28,9 @@ page_images:
     <p>Tuas, May 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
-**Discrepant
-venus clam**  
-***Gafrarium dispar\******Family Veneridae***updated
-Nov 11*
-
----
-
-**Where
-seen?** This clam is sometimes seen on sandy shores.
+## Where seen?
+ This clam is sometimes seen on sandy shores.
 Elsewhere, they are found on intertidal shores with sand.   
   
 **Features:** About

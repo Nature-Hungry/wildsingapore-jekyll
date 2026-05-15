@@ -45,20 +45,9 @@ page_images:
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Mangrove shield
-bugs  
-*Calliphara nobilis*  
-Family Pentatomidae***updated
-Nov 2019*
 
----
-
-**Where
-seen?** This colourful insect is sometimes seen in numbers
+## Where seen?
+ This colourful insect is sometimes seen in numbers
 in our mangroves.  
   
 **Features:** Adults about 1-1.5cm

@@ -59,37 +59,9 @@ page_images:
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Taxifolia
-feathery green seaweed  
-*Caulerpa taxifolia\** Family Caulerpaceae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** This beautiful feathery green seaweed is commonly seen on many of
+## Where seen?
+ This beautiful feathery green seaweed is commonly seen on many of
 our shores, growing on coral rubble and sometimes spreading out on
 sandy bottoms. Usually found in clumps, which can cover an area of
 about 40-50cm. But it does not blanket the shore like other seasonally

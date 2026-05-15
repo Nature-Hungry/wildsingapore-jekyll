@@ -109,36 +109,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[Figs
-in general](ficus)
-****Jejawi** **or****Malayan banyan  
-*Ficus microcarpa***  
-**Family Moraceae*****updated
-Feb 11*
-
----
-
-**Where
-seen?** A fabulous specimen of this humungous tree grows
+## Where seen?
+ A fabulous specimen of this humungous tree grows
 next to the tower on the Chek Jawa boardwalk. The tower is in fact
 named after the tree! According to Hsuan Keng, they were formerly
 found in coastal and riverine habitats, but the stranglers became

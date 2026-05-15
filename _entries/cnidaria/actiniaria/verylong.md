@@ -64,37 +64,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Very
-long anemone**  
-***Actinoporus elongatus\**  
-Family Capneidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** A stout anemone that is sometimes seen on our Northern
+## Where seen?
+ A stout anemone that is sometimes seen on our Northern
 and Southern shores. Usually alone in sand bars and sandy stretches
 near reefs and seagrasses and in sandy artificial swimming lagoons.  
   

@@ -61,22 +61,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Luidia
-sea stars  
-*Luidia* sp.  
-Family Luidiidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These sea stars are sometimes encountered on our Northern shores.
+## Where seen?
+ These sea stars are sometimes encountered on our Northern shores.
 In sandy or silty shores. Sometimes, many are seen gathered together.  
   
 **Features:** The

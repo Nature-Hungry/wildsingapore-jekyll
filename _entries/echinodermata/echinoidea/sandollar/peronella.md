@@ -67,39 +67,9 @@ page_images:
     <p>Changi, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10160711617693158&set=a.10160711621108158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi1)
-
-Phylum
-[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
-> Order
-[Clypeasteroida](sandollar)
-**Pink
-sand dollar  
-*Peronella lesueuri*  
-Family Laganidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This bright pink sand dollar is sometimes seen on our Northern shores
+## Where seen?
+ This bright pink sand dollar is sometimes seen on our Northern shores
 on sandy patches among seagrasses, sometimes seen just beneath the
 sand. Several individuals (2-8) are often seen during the same trip.
 According to

@@ -70,37 +70,9 @@ page_images:
     <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3558524051/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-> Family [Soleidae](soleidae)
-**Oriental
-sole**  
-***Brachirus orientalis***  
-**Family Soleidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This large flattened fish is sometimes seen on some of our shore. **Features:** Usually
+## Where seen?
+ This large flattened fish is sometimes seen on some of our shore. **Features:** Usually
 10-12cm, it can grow to 30cm. Eyes on the right side with a small
 curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side.
 Dorsal and anal fins joined with the tail fin and uniformly dark.

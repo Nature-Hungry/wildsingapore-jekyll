@@ -41,35 +41,9 @@ page_images:
     <p>Changi, Jul 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Matutidae](matutidae)
-**Flower
-moon crab*****Matuta*** ***planipes*****Family Matutidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This well decorated moon crab is sometimes very commonly
+## Where seen?
+ This well decorated moon crab is sometimes very commonly
 seen on Changi, on sandy areas near seagrasses. It is more active
 at night and is rarely seen by daytime visitors as they are then often
 buried in the sediments. 'Planipes' in Latin means 'actor who wears

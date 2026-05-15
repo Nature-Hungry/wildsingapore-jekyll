@@ -59,33 +59,6 @@ page_images:
     <p><a href="melanostoma.htm">Black-mouth mangrove periwinkle</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Periwinkles**   
- **Family Littorinidae***updated
-Aug 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -96,8 +69,8 @@ weather.
 ![](../../../photos/bullet.gif)The
 area around a periwinkle is often grazed bare of algae.
   
-**Where
-seen?** Periwinkles sprinkle the rocks on many of our shores.
+## Where seen?
+ Periwinkles sprinkle the rocks on many of our shores.
 They appear dead but are very much alive. At low tide, they are usually
 wedged into crevices and cracks in rocks and even inside the empty
 shells of dead oysters and barnacles.   

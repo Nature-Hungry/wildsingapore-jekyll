@@ -47,35 +47,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-cerianthid [text
-index](../../cnidariaindex.htm#ceriantharia) | [photo index](../../anemonefi8.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Ceriantharia](ceriantharia.htm)
-**Banded
-cerianthid  
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This rather small and often well camouflaged cerianthid
+## Where seen?
+ This rather small and often well camouflaged cerianthid
 is commonly seen on some of our Northern shores.Silty sand near seagrasses.  
   
 **Features:** 2-5cm in diameter. The

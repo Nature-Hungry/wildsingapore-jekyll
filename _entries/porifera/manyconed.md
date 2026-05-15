@@ -71,21 +71,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Yellow
-volcano sponge  
-*Spheciospongia* sp.\*  
-Family Clionaidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This yellow sponge capped with cones that look like mini-volcanos
+## Where seen?
+ This yellow sponge capped with cones that look like mini-volcanos
 is commonly seen on many of our shores, growing among coral rubble.  **Features:** 10-15cm. The sponge has a large base, usually
 globular with many small knobs on the sides. It is topped with several
 tall cones with large holes at the tips. When submerged, the holes

@@ -48,23 +48,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Spinoid
-worms** **Family
-Spionidae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** Tiny ones that form tubes are sometimes seen encrusting
+## Where seen?
+ Tiny ones that form tubes are sometimes seen encrusting
 sponges and other immobile creatures on the shore.  
   
 **Features:** Spionids are generally small slender active worms. They have tentacles

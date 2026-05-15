@@ -27,35 +27,9 @@ page_images:
     <p>Pasir Ris Park, Mar 15Photo by Sean Yap from Singapore Biodiversity Records 2015: 47</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Blue-spotted pufferfish  
-*Arothon caeruleopunctatus***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994. **Features:**  To
+## Where seen?
+ One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994. **Features:**  To
 about 80cm. Yellowish brown on its back and sides, white on the belly, with blue stripes circling the eyes, and numerous small dark-edged blue spots all over the head, body and median fins. A black patch with white spots at the base of its pectoral fin.
  
 

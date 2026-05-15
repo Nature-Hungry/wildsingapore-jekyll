@@ -47,37 +47,9 @@ page_images:
     <p>Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167207994730112&set=a.10167208042325112">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Ostraciidae](ostraciidae)
-**Shortnose
-boxfish**   
-***Rhynchostracion
-nasus*  
-Family Ostraciidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 strange boxy fish is sometimes seen on some of our shores. It is also called the Small nosed boxfish. It was previously
 called *Ostracion nasus*.  
   

@@ -53,21 +53,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Purple
-branching sponge  
-*Callyspongia* sp.\*Family
-Callyspongiidae***updated Oct 2016*
-
----
-
-**Where
-seen?**
 Like a little purple bush, this sponge is commonly seen on hard surfaces near the mid-water mark on our Northern shores. **Features:** A bunch of 'stems' slender (1-1.5cm thick) and
 long (10-15cm), usually growing upright but sometimes sprawling horizontally
 hugging the surface. The stems are not extensively branched and cylindrical

@@ -111,20 +111,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Violet
-brittle star**   
-***Macrophiothrix nereidina\****Family Ophiotrichidae*****updated Apr 2020*
-
----
-
-**Where
-seen?** Although large and startlingly bright pink and violet, this brittle star is only sometimes seen. It is often well hidden under stones, among sponges, corals and other marine life on reefy areas including encrusted jetty legs on our Southern shores.   
+## Where seen?
+ Although large and startlingly bright pink and violet, this brittle star is only sometimes seen. It is often well hidden under stones, among sponges, corals and other marine life on reefy areas including encrusted jetty legs on our Southern shores.   
   
 **Features:** Central disk about 1cm wide, thick
 and pentagonal. Arms about 10-15cm long, broad and flat, tapering at the tips, highly flexible. Along the sides of the arms are long cylindrical

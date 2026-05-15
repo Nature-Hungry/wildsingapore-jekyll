@@ -31,33 +31,9 @@ page_images:
     <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7160002945/in/album-72157630064226482/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Stonefishes  
-Family Synanceiidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** These gruesome looking fishes can sting painfully. **What are stonefishes?** Stonefishes belong to Family Synanceiidae.
+## Where seen?
+ These gruesome looking fishes can sting painfully. **What are stonefishes?** Stonefishes belong to Family Synanceiidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=578):
 the family has 9 genera and 31 species. They are found in the Indo-Pacific
 oceans. They are sometimes classified as members of the [Family

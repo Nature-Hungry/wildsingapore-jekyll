@@ -43,37 +43,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750328097945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Bell
-sea grapes seaweed  
-*Caulerpa racemosa* var *turbinata\**** **Family Caulerpaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?** This juicy looking seaweed is made up of little bell-shaped
+## Where seen?
+ This juicy looking seaweed is made up of little bell-shaped
 'grapes'. Small clumps sometimes seen on our Southern shores on rocks
 and coral rubble near reefs on our Southern shores.  
   

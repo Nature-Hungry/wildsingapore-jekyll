@@ -95,22 +95,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Golf
-ball sponge  
-*Cinachyrella australiensis\**Family Tetillidae**  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This furry ball-shaped sponge is sometimes seen on coral rubble on
 some of our shores. Sometimes with shallow circular depressions, it
 then resembles a golf ball. It is one of the most common and abundant

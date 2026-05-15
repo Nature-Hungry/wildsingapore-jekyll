@@ -25,35 +25,9 @@ page_images:
     <p>Pasir Ris Park, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/gallus/090906prpd0487m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > Class Aves
-**Red
-junglefowl  
-*Gallus gallus*  
-Family Phasianidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** These wild 'chickens' are commonly encountered on
+## Where seen?
+ These wild 'chickens' are commonly encountered on
 Pulau Ubin. They are now also seen in some of our coastal parks such
 as Sungei Buloh Wetland Reserve and Pasir Ris Park. The
 Red junglefowl is the wild ancestor of domesticated chickens. **Features:** The colourful male (about 80cm) has white ear

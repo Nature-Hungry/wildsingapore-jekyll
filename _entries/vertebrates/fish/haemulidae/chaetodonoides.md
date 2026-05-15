@@ -55,36 +55,9 @@ page_images:
     <p>Pulau Semakau, Oct 11 Photro shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8708892453/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Haemulidae](haemulidae.htm)
-**Harlequin
-sweetlips  
-*Plectorhinchus
-chaetodonoides***  **Family Haemulidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 delightful fish with cartoonish spots and which swims in frantic wiggles is sometimes seen on some of our shores. Divers also sometimes encounter it.
 Juveniles are seen in weedy areas, near reefs and seagrasses. Adults
 are seen near reefs in schools.  

@@ -53,36 +53,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509281398660&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi2.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Brown
-feathery soft coral  
-*Awaiting identification*  
-Family Xeniidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This colony of tiny animals is sometimes seen on
+## Where seen?
+ This colony of tiny animals is sometimes seen on
 our Southern shores, but is often overlooked. The colony grows on stones
 and hard surfaces.  
   

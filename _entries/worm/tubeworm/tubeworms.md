@@ -57,16 +57,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 ---
 
-
-worms [text
-index](../wormindex) | [photo index](../wormfi)
-[worms](../worm)
-> various animal groups
-**Tubeworms***updated
-Oct 2016*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)Tubes
@@ -75,8 +65,8 @@ of tiny worms may look like roots, don't step on them.
 ![](../../photos/bullet.gif)They
 live deep in the sand, don't dig them out.
   
-**Where
-seen?** Tubeworms are common on all our shores and near mangroves.
+## Where seen?
+ Tubeworms are common on all our shores and near mangroves.
 They are most obvious on sand bars and flat shores (sandy or muddy)
 where they stick out of the surface in large numbers. In seagrass
 areas, some are found in large numbers in mounds that can be 1m or

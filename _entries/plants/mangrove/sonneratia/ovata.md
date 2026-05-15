@@ -56,33 +56,9 @@ page_images:
     <p>Pulau Ubin, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| *[Sonneratia](sonneratia)* in general
-**Gedabu  
-*Sonneratia ovata*  
-Family Lythraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This rare mangrove tree can be seen in a few
+## Where seen?
+  This rare mangrove tree can be seen in a few
 of our accessible mangroves. It can be seen on Pulau Ubin and Chek
 Jawa, as well as at Sungei Buloh Wetland Reserve, Kranji Nature Trail
 and is also planted at Pasir Ris Park. According to Ng, in Singapore

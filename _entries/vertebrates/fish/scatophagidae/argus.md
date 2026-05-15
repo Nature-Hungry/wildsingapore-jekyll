@@ -53,34 +53,6 @@ page_images:
     <p>Pulau Hantu, Jul 20Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10157563299803576&set=pcb.10157563301188576&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family Scatophagidae
-**Spotted
-scat**  
-***Scatophagus
-argus*  
-Family Scatophagidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -89,8 +61,8 @@ learn only 3 things about it ...
 ![](../../../photos/bullet.gif)It
 has sharp poisonous spines. Don't handle it!
 
-**Where
-seen?** This odd-shaped fish is sometimes seen in muddy and seagrass areas
+## Where seen?
+ This odd-shaped fish is sometimes seen in muddy and seagrass areas
 near mangroves or along the coasts. Also under jetties. It can tolerate
 freshwater so it's sometimes also seen near moonsoon drains.  
  **What are scats?** Scats belong to Family Scatophagidae.

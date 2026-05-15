@@ -34,37 +34,9 @@ page_images:
     <p>Circlet of short filaments.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Fluffy
-green seaweeds  
-*Caulerpa verticillata\** Family
-Caulerpaceae***updated
-Jan 13*
-
----
-
-**Where
-seen?**
 This small fluffy seaweed is sometimes seen on some of our shores,
 growing on coral rubble in sparse clumps covering an area of 10-20cm.  
   

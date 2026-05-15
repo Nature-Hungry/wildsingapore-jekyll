@@ -40,37 +40,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Genus
- *[Caulerpa](caulerpa)*
-**Bottlebrush
-green seaweeds  
-*Caulerpa webbiana\******Family
-Caulerpaceae** *updated Jan 13*
-
----
-
-**Where
-seen?**
 This green seaweed is sometimes seen in clumps covering an area of
 about 20cm, on coral rubble among seagrasses on our Southern shores.  
   

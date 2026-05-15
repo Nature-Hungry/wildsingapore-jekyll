@@ -68,14 +68,6 @@ page_images:
     <p>East Coast Park, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233458373158&set=a.10159233461703158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif
 ---
- 
-
-**Bryozoans  
-Phylum Bryozoa**  
-*updated
-Nov 2019*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -85,8 +77,8 @@ is a colony of many tiny animals.
 ![](../photos/bullet.gif)Unlike
 sponges, bryozoans are complex animals with internal organs.
   
-**Where
-seen?** Delicate
+## Where seen?
+ Delicate
 lacy creatures, bryozoans encrust hard surfaces and even living seagrasses
 and seaweeds. Larger ones are sometimes seen on our Northern shores,
 but tiny ones are probably quite common but simply overlooked.  

@@ -59,37 +59,9 @@ page_images:
     <p>Some have spines on the edges.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Pyramid
-seaweed  
-*Turbinaria* sp.\*** **Family Sargassaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?** This odd triangular seaweed is sometimes seen on
+## Where seen?
+ This odd triangular seaweed is sometimes seen on
 our undisturbed Southern shores, growing on large boulders facing
 strong waves and currents, usually near the low water mark.  
   

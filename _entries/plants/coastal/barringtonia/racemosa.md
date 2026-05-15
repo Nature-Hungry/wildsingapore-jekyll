@@ -39,33 +39,9 @@ page_images:
     <p>Fruits egg- or pear-shaped with angles.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../../coastal/coastalplants.htm) 
-**Putat sungei   
-*Barringtonia racemosa*  
-Family Lecythidaceae***updated
-Jun 2020*
-
----
-
- **Where seen?** This tree with hanging garlands of pretty pink
+ ## Where seen?
+  This tree with hanging garlands of pretty pink
 fluffy flowers is now rare in the wild. It is, however, being planted
 in some of our coastal parks and reserves. Wild trees are found in
 damp places near mangroves, tidal rivers, sandy or rocky shores, freshwater

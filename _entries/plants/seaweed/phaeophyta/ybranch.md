@@ -60,36 +60,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta) > Genus [Dictyota](dictyota)
-**Bluish
-y-branch brown seaweed  
-*Dictyota dichotoma*\*** **Family Dictyotaceae** ***updated
-Feb 13***
-
----
-
-**Where
-seen?** Forming a clump of blue-tinged y-shaped blades, this
+## Where seen?
+ Forming a clump of blue-tinged y-shaped blades, this
 seaweed is sometimes seen on our Southern shores, on coral rubble.  
   
 **Features:** Flat, strap-like structures

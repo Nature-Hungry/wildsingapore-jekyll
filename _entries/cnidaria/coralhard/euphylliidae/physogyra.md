@@ -38,37 +38,9 @@ page_images:
     <p>Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Euphylliidae](euphylliidae.htm) > [*Euphyllia*
-sp.](euphyllia.htm)
-**Pearl bubble coral**  ***Physogyra lichtensteini\**  
-Family Euphylliidae  
-*updated
-Oct 15***
-
----
-
-**Where
-seen?** This hard coral with bubble-shaped tentacles
+## Where seen?
+ This hard coral with bubble-shaped tentacles
 is rarely seen on the intertidal shores in southern Singapore. Elsewhere in the world, it is apparently more often found in murky waters.  
   
 **Features:** Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks. During the day, the colony is usually covered in vesicles or bubbles (1-2cm). The bubbles may have one or two white

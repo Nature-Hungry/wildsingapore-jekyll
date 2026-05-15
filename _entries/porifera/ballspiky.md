@@ -54,22 +54,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Spiky
-ball sponge  
-*Dysidea* sp.*\** Family
-Dysideidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This spiky ball- or cushion-shaped sponge is commonly seen on rock
 and rubble on our Northern shores. **Features:** 8-10cm in diameter, ball- or rounded, cushion
 shape with lots of large holes. Sometimes also encrusting or with

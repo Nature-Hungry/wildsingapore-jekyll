@@ -36,22 +36,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Bubble
-ascidians   
-*awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 clusters of translucent bubble-like animals are sometimes seen on
 and under rocks and stones on our shores.  
   

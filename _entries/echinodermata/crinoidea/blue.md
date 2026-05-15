@@ -77,22 +77,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/060810rlhd5667m3.jpg
 ---
 
-
-crinoids
-[text index](../echinodermindex#crinoidea) | [photo
-index](../crinoideafi)
-
-Phylum [Echinodermata](../echinodermata)
-> Class Crinoidea > Order [Comatulida](crinoidea)
-**Blue
-feather star**  
-***awaiting
-identification****updated Mar 2020*
-
----
-
-**Where
-seen?** This bluish feather star is sometimes seen on some
+## Where seen?
+ This bluish feather star is sometimes seen on some
 of our shores. Usually on coral rubble or near living reefs.  
   
 **Features:** 10-12cm in diameter.

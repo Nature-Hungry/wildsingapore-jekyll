@@ -76,33 +76,9 @@ page_images:
     <p>Beting Bemban Besar, May 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2931753916967242&set=a.2931754650300502">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Batfishes**   
- **Family Ephippidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** The fishes with long fins are sometimes seen, in
+## Where seen?
+ The fishes with long fins are sometimes seen, in
 seagrass meadows, near reefs and at jetties on our Southern shores.  
   
  **What

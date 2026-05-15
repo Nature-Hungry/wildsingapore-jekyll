@@ -45,37 +45,9 @@ page_images:
     <p>Big Sisters Island, Feb 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162086236287906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-lobsters [text
-index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [Lobsters](lobster)
-**Ornate
-rock lobster**  
-***Panulirus ornatus*  
-Family Palinuridae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** Large lobsters are sometimes encountered in Singapore!
+## Where seen?
+ Large lobsters are sometimes encountered in Singapore!
 In deeper water at reefs, underwater rocky areas, even artificial
 sea walls and jetties. Sadly, often also entangled in abandoned driftnets.
 Elsewhere it is found in shallow, sometimes slightly murky coastal

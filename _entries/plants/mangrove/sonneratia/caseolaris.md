@@ -70,34 +70,9 @@ page_images:
     <p>Pasir Ris Park, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| *[Sonneratia](sonneratia)*
-in general
-**Berembang   
-*Sonneratia caseolaris*  
-Family Lythraceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This tree is now rare in the wild. In Singapore,
+## Where seen?
+  This tree is now rare in the wild. In Singapore,
 there were only a few trees at Woodlands Town Garden and the upper
 reaches of Sungei Seletar. In the past, it was also found in tidal
 rivers in Balestier plain and Changi. The tree, however, has since

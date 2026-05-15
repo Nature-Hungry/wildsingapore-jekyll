@@ -36,33 +36,9 @@ page_images:
     <p>Tanah Merah, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8708915959/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Tripletail   
-*Lobotes
-surinamensis***  **Family Lobotidae***updated Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 fish floats on its side with its head down, so it resembles a drifting
 leaf or bit of floating rubbish. It was seen at Tanah Merah. Elsewhere,
 adults are found in bays, coastal areas and muddy estuaries and lower

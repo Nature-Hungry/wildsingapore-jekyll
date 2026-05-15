@@ -37,36 +37,9 @@ page_images:
     <p>Labrador, Aug 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Beaded
-cushion green seaweed *Valonia* sp.\*** **Family Valoniaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 This cushion of little green beads is sometimes seen on our Southern
 shores growing on hard surfaces near reefs.   
   

@@ -52,37 +52,9 @@ page_images:
     <p><a href="umbonium.htm">Button snails</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Top
-shell snails**   
- **Family Trochidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These snails with top-shaped shells are commonly
+## Where seen?
+ These snails with top-shaped shells are commonly
 seen on many of our rocky shores including man-made sea walls. Top
 shell snails are not as well adapted to dry conditions as the [Nerites](../neritidae/neritidae.htm) and [Periwinkles](../littorinidae/littorinidae.htm), and
 are thus generally found closer to the low water mark.   

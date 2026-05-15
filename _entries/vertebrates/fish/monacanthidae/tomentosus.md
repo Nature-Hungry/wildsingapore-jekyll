@@ -129,36 +129,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/33567889063/ "Seagrass filefish (Acreichthys tomentosus)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090606tmftd3135m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Monacanthidae](monacanthidae)
-**Seagrass
-filefish  
-*Acreichthys tomentosus\****  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This filefish with with a 'smiley' on the side of
+## Where seen?
+ This filefish with with a 'smiley' on the side of
 the body is commonly seen on many of our shores, among seagrasses and
 seaweeds on coral rubble.  
   

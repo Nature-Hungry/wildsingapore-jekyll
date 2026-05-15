@@ -40,36 +40,9 @@ page_images:
     <p>On this website, they are grouped by external features for convenience of display.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Apogonidae](apogonidae)
-**Candystripe
-cardinalfish**  
-***Ostorhinchus endekataenia*****\***  
-**Family Apogonidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This fish in pajamas is sometimes seen on our Southern shores in pools
+## Where seen?
+ This fish in pajamas is sometimes seen on our Southern shores in pools
 among coral rubble and reefs. More active at night. It was previously
 known as *Apogon endekataenia*.  
   

@@ -52,22 +52,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Melted
-chocolate sponges  
-*Chondrilla
-australiensis\**Family Chondrillidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 rubbery sheet is commonly seen on our Northern shores, coating rocks
 and stones near the mid-water mark. People often carelessly step on
 them, not realising that they are animals.  

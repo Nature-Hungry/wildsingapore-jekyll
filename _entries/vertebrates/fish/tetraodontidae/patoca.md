@@ -60,36 +60,9 @@ page_images:
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Milk-spotted
-pufferfish  
-*Chelonodon patoca***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** This pretty spotted fat fish is sometimes seen on
+## Where seen?
+ This pretty spotted fat fish is sometimes seen on
 our shores. One was seen half-buried in a sandy stretch at
 Tanah Merah near a freshwater outflow. Elsewhere, it is common in estuaries and shallow waters, in sand flats, mud flats and seagrass meadows, often in schools. Juveniles are common in mangroves,  
   

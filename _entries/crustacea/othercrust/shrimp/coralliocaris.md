@@ -74,37 +74,9 @@ page_images:
     <p>Terumbu Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750445438/in/album-72157624104220316/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**Machine
-gun coral shrimp  
-*Coralliocaris graminea*Family Palaemonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This fat little green shrimp is sometimes living
+## Where seen?
+ This fat little green shrimp is sometimes living
 among branching corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Montipora
 corals](../../../cnidaria/coralhard/acroporidae/montipora) (*Montipora* sp.). It is usually well hidden and hard

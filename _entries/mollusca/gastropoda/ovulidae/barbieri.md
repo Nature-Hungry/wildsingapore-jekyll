@@ -31,37 +31,9 @@ page_images:
     <p>Changi, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14036437133/in/album-72157607622389163/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ovulidae](ovulidae.htm)
-**Dalmation
-spindle cowrie**  
-***Phenacovolva barbieri\**  
-Family Ovulidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This tiny elongated snail is sometimes seen on [sea
+## Where seen?
+ This tiny elongated snail is sometimes seen on [sea
 fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Northern
 shores.   
   

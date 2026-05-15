@@ -30,33 +30,6 @@ page_images:
     <p>Pulau Sekudu, Jul 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Sand
-collars of moon snails**   
- **Family Naticidae***updated
-Aug 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -68,8 +41,8 @@ size of the collar depends on the size of the mother moon
 snail.   
 ![](../../../photos/bullet.gif) When the baby snails hatch, the sand collar disintegrates.
   
-**Where
-seen?** These frilly edged flat spirals are sometimes numerous on sandy shores, as well as seagrass areas. **What is a sand collar?** The sand collar is the egg mass
+## Where seen?
+ These frilly edged flat spirals are sometimes numerous on sandy shores, as well as seagrass areas. **What is a sand collar?** The sand collar is the egg mass
 of a [moon snail](naticidae.htm). A moon snail lays her eggs at night. The
 eggs are laid singly in capsules which are embedded in a matrix of
 sand grains - a combination of mucus and sand which forms a gelatinous

@@ -49,33 +49,6 @@ page_images:
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235743983158&set=a.10159235746118158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family Uranoscopidae
-**Longnosed
-stargazer  
-*Ichthyscopus lebeck*  
-Family Uranoscopidae***updated
-Nov 2020*  
-
----
 
 if you
 learn only 3 things about them ...  
@@ -84,8 +57,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 lure prey towards them with a filament in their mouths.
   
-**Where
-seen?** This bizarre pop-eyed fish is sometimes seen on our
+## Where seen?
+ This bizarre pop-eyed fish is sometimes seen on our
 Northern shores, usually buried in sand bars and sandy shores near
 seagrass areas with only their tiny eyes sticking out. A
 large one (about 30cm) that we rescued from a fish net immediately

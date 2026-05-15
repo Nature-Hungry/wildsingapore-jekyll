@@ -103,35 +103,9 @@ page_images:
     <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Goby
-and snapping shrimp partners**  
-*updated
-Sep 2020*
-
----
-
-**Where
-seen?** These fish and shrimp partnership is seen on some of our shores. Their co-operation is so good that both animals usually quickly disappear into their shared burrow at the slightest sign of danger. Be patient and still, and soon, they will emerge once again.  
+## Where seen?
+ These fish and shrimp partnership is seen on some of our shores. Their co-operation is so good that both animals usually quickly disappear into their shared burrow at the slightest sign of danger. Be patient and still, and soon, they will emerge once again.  
   
 **Features:** The
 shrimp goby lives in the same burrow with a [snapping

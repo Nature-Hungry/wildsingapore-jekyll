@@ -128,35 +128,6 @@ page_images:
     <p>Chek Jawa, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10153811457703119.1073741881.696593118&type=3">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea hares [text
-index](../../molluscaindex.htm#anaspidea) | [photo index](../../slugfi1.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order Anaspidea
-**Sea
-hares   
-Order Anaspidea***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -169,8 +140,8 @@ your step!
 ![](../../../photos/bullet.gif) Sea hares have very specialised diets and should not be
 kept in home aquariums.
   
-**Where
-seen?** Among the largest [sea slugs](../../slug.htm) to be seen,
+## Where seen?
+ Among the largest [sea slugs](../../slug.htm) to be seen,
 sea hares may be commonly seen on our Northern and Southern shores
 in silty and sandy areas near seagrasses and with seaweeds. However,
 they appear to be seasonal. Sometimes they are everywhere, at other

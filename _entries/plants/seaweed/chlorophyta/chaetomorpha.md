@@ -51,36 +51,9 @@ page_images:
     <p>Terumbu Semakau, Mar 11</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg"
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**'Bee
-hoon' green seaweed  
-*Chaetomorpha* sp.\*** **Family Cladophoraceae***updated
-Jan 13*
-
----
-
-**Where
-seen?**
 This green seaweed does look like our local noodle favourite, 'bee
 hoon' (vermicelli)! It is seen on many of our shores, growing entangled
 among seagrasses or other seaweeds. It 'blooms' seasonally, sometimes

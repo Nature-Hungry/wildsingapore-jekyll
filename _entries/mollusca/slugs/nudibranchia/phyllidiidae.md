@@ -78,36 +78,9 @@ page_images:
     <p>64 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Phyllid
-nudibranchs**  
- **Family Phyllidiidae***updated
-Apr 2021*
-
----
-
-**Where
-seen?** These nudibranchs with tough skin are often encountered,
+## Where seen?
+ These nudibranchs with tough skin are often encountered,
 especially on our Southern shores, among coral rubble and on reefs.
 It is believed that these nudibranchs are commonly seen because they
 can roam around in the open with impunity due to the nasty stuff they

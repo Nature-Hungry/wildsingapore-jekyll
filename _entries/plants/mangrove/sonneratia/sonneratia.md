@@ -82,34 +82,9 @@ page_images:
     <p></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Sonneratia   
-*Sonneratia* sp.  
-Family Lythraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** On our shores, the Perepat (*Sonneratia alba*)
+## Where seen?
+  On our shores, the Perepat (*Sonneratia alba*)
 is commonly seen on the seaward side of mangroves, often forming majestic
 large tall trees. According to Corners, these trees are found in all
 tropical shores of the Eastern hemisphere from East Africa to the

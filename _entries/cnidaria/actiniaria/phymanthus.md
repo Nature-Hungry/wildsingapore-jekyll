@@ -75,36 +75,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Frilly
-anemones**  
-***Phymanthus* sp.\***  
-**Family Phymantidae***updated Dec 2024*
-
----
-
-**Where
-seen?** These anemones with many fine 'branches' on their
+## Where seen?
+ These anemones with many fine 'branches' on their
 tentacles are often seen on many of our shores. Among coral rubble,
 usually with the body column wedged in crevices.  
   

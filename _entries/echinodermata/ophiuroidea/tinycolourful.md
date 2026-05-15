@@ -85,22 +85,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Tiny
-colourful brittle stars**   
-***Ophiothela danae*\*  
-Family Ophiotrichidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 tiny brittle stars are sometimes seen on [sea
 fans](../../cnidaria/others/gorgonacea/gorgonacea), [flowery
 soft corals](../../cnidaria/coralsoft/nephtheidae) and other cnidarians and even on [Thorny sea urchins](../echinoidea/urchin/prionocidaris). A single host

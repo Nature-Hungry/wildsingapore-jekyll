@@ -40,36 +40,9 @@ page_images:
     <p>Beting Bronok, Jun 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi3.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Nephtheidea](nephtheidae.htm)
-**Pink
-flowery soft coral  
-*Dendronephthya* sp.\*  
-Family Nephtheidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This bright pink flowery soft coral is
+## Where seen?
+ This bright pink flowery soft coral is
 seen on our Northern shores. Attached to coral rubble, boulders or
 other hard surfaces.  
   

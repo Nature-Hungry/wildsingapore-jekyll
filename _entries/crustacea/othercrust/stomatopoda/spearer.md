@@ -104,36 +104,9 @@ page_images:
     <p>Sisters Island, May 12Photos shared by Geraldine Lee on  <a href="https://www.facebook.com/media/set/?set=a.114375788447.121136.611888447&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/100612chgd5376m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-mantis shrimps
-[text index](../../crustaceaindex#stomatopoda) | [photo
-index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Stomatopoda](stomatopoda)
-**Spearer
-mantis shrimp*****awaiting identification***  
-**Family Squillidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This energetic shrimp-like animal is often seen on
+## Where seen?
+ This energetic shrimp-like animal is often seen on
 our Northern shores, especially among seagrasses. It is more active
 at night.  
   

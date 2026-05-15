@@ -94,36 +94,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467683158&set=a.10159162473618158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
-**Blue-spotted
-fantail ray  
-*Taeniura lymma*  
-Family Dasyatidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This beautiful stingray is sometimes encountered
+## Where seen?
+ This beautiful stingray is sometimes encountered
 on sandy areas and in coral rubble near living reefs on some of our
 shores. It is often also seen by divers. Sadly, it is also sometimes
 encountered trapped in a drift net. It is considered possibly the

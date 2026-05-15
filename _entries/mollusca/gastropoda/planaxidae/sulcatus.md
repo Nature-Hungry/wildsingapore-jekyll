@@ -44,36 +44,9 @@ page_images:
     <p>Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/3028127441/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Planaxis
-snail**  ***Planaxis
-sulcatus*  
-Family Planaxidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large 'groovy' snail is commonly seen, usually
+## Where seen?
+ This large 'groovy' snail is commonly seen, usually
 in clustered together in large numbers, on rocky shores and seawalls on our Southern shores.
 Elsewhere, it is called clusterwink for this grouping habit. It is not active at low tide but disperses to feed at high tide.  
   

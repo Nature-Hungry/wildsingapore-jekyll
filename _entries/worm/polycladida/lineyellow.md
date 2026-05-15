@@ -54,22 +54,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Yellow-lined
-flatworm  
-*Pseudoceros* sp. 3*\******Family
-Pseudocerotidae** *updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small flatworm is sometimes seen on some of our shores, on coral rubble near living reefs.  
+## Where seen?
+ This small flatworm is sometimes seen on some of our shores, on coral rubble near living reefs.  
   
 **Features:** 2-4cm long. Body light bluish-white to bluish (not solid blue and not white). One central line that is yellow with dark blue border. Has
 a pair of pseudotentacles made up of simple folded edges

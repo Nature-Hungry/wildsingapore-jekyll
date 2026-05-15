@@ -42,34 +42,9 @@ page_images:
     <p>Kranji Nature Trail, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
-Phylum Chordata
-> Subphylum Vertebrata > Class Aves
-**Shorebirds
-and   
-sea birds***updated
-Oct 2016*
-
----
-
-**Where
-seen?** These rather drab but very interesting birds can
+## Where seen?
+ These rather drab but very interesting birds can
 be seen on and flying over our [mudflats](../../plants/mangrove/mangroves.htm) and [sandflats](../../concepts/sandy.htm) especially during
 the migratory season of September to March. These are shorebirds visiting
 from afar. They are sometimes also called waders as they are often

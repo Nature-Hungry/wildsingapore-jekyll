@@ -54,36 +54,9 @@ page_images:
     <p>Big Sisters Island, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174366637675112&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [Limpets](limpet.htm)
-**Smooth
-limpet**  
-***Cellana* sp.  
-Family Nacellidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 smooth-shelled limpet is not as commonly seen nor seen in as large
 numbers as other limpets. It is often seen on the smooth surfaces
 of recently opened oyster shells stuck on boulders, especially in

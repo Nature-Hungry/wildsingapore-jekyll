@@ -48,38 +48,9 @@ page_images:
     <p>East Coast Park PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482798748158&set=a.10158482804868158&type=3&theater">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Lined
-moon snail**  
- ***Tanea
-lineata*  
-Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This beautiful moon snail is sometimes seen, usually
+## Where seen?
+ This beautiful moon snail is sometimes seen, usually
 in sand near seagrasses. Elsewhere, it is found on fine sandy to muddy bottoms. It was previously
 known as *Natica lineata*.  
   

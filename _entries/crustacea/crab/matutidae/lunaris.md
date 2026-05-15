@@ -85,35 +85,9 @@ page_images:
     <p>Beting Bemban Besar, Jun 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159189785827906&set=a.10159189773952906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Matutidae](matutidae)
-**Spotted
-moon crab*****Ashtoret*** ***lunaris*****Family Matutidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This spotted moon crab is commonly encountered on
+## Where seen?
+ This spotted moon crab is commonly encountered on
 our shores. Sandy silty shores, especially near seagrasses. It is
 more active at night and is rarely seen by daytime visitors as it
 is then often buried in the sediments. 'Lunaris' in Latin refers to

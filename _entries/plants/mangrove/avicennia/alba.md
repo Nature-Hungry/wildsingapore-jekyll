@@ -68,34 +68,9 @@ page_images:
     <p>Kranji Canal, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > [*Avicennia*](avicennia) in general
-**Api-api
-putih   
-*Avicennia alba*  
-Family Acanthaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This tree with pencil roots is commonly encountered
+## Where seen?
+  This tree with pencil roots is commonly encountered
 in many of our mangroves. It can sometimes even be spotted from afar
 by the white undersides of their narrow leaves, flipping up in the
 wind. It is usually found on newly formed mudbanks on the seaward

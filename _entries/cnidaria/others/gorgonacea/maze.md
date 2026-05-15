@@ -50,38 +50,9 @@ page_images:
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Maze
-sea fan**  
- ***Echinogorgia* sp.*\**  
-Family Plexauridae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This sea fan with maze-like branching is sometimes
+## Where seen?
+ This sea fan with maze-like branching is sometimes
 seen on Beting Bronok. On coral rubble.  
   
 **Features:** 10-15cm tall. Colony

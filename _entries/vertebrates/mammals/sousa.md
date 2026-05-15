@@ -46,20 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Indo-Pacific
-hump-backed dolphin  
-*Sousa chinensis*  
-Family Delphinidae***updated Oct 2019*
-
----
-
-**Where
-seen?** These marvellous creatures are still
+## Where seen?
+ These marvellous creatures are still
 regularly sighted in the waters of our Southern Islands. According
 to Davison, these dolphins have been observed among our Southern Islands
 in the Singapore Straits, as well as near our northern shores in the

@@ -29,22 +29,8 @@ page_images:
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg"
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**'Roti
-jala' sponge  
-*Terpios* sp.\*  
-Family Suberitidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This bright orange jumble of tangled string-like sponge does indeed
+## Where seen?
+ This bright orange jumble of tangled string-like sponge does indeed
 resemble a local favourite [Roti
 Jala](http://hungerhunger.blogspot.sg/2008/03/roti-jala-net-pancakes.html). It is sometimes seen on Beting Bronok.  
  **Features:** Bright orange long skinny strings about 0.2cm

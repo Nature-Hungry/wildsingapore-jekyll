@@ -140,37 +140,9 @@ page_images:
     <p>East Coast Park, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233458668158&set=a.10159233461703158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ovulidae](ovulidae.htm)
-**Nectar
-spindle cowrie**  
-***Phenacovolva nectarea\**  
-Family Ovulidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This tiny elongated snail is sometimes seen on [sea
+## Where seen?
+ This tiny elongated snail is sometimes seen on [sea
 fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Northern
 shores.   
   

@@ -54,13 +54,6 @@ page_images:
     <p>East Coast Park, Aug 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg
 ---
-eggs [text
-index](eggindex) | [photo index](eggfi)
-**Egg
-strings and coils**  
- *updated Apr 2020*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -72,8 +65,8 @@ your step.
 don't bring egg strings home. Thousands of baby animals
 may die.
   
-**Where
-seen?** These noodle-like egg masses are sometimes seen among seagrasses and
+## Where seen?
+ These noodle-like egg masses are sometimes seen among seagrasses and
 seaweeds in clumps.   
   
 **Features:** Some may be large, about

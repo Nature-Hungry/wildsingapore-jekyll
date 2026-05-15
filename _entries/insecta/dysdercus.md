@@ -54,20 +54,9 @@ page_images:
     <p>Seringat-Kias, Nov 2019Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156844575433660&set=a.10156844574398660&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Cotton stainer
-bugs  
-*Dysdercus decussatus*  
-Family Pyrrhocoridae***updated
-Jan 2020*
 
----
-
-**Where
-seen?** This colourful insect is sometimes seen in numbers
+## Where seen?
+ This colourful insect is sometimes seen in numbers
 when the Sea hibiscus is fruiting. These colourful bugs feed
 on the seeds of the [Sea
 Hibiscus](../plants/coastal/hibiscus/tiliaceus.htm) (*Hibiscus tiliaceus*). Both adults and nymphs are

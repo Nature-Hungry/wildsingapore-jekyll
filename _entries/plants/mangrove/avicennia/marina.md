@@ -65,36 +65,9 @@ page_images:
     <p>Pulau Semakau, Jan 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[mangroves](../mangroves)
-> [*Avicennia*](avicennia)
-in general
-**Api-api
-jambu   
-*Avicennia marina*  
-Family Acanthaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This is Singapore's rarest *Avicennia*.
+## Where seen?
+  This is Singapore's rarest *Avicennia*.
 According to Ng, it is known only from St. John's Island, Pulau Tekong
 and Pulau Unum, where it is found on river banks or in marine lagoons.
 It has since been found on Pulau Semakau and also at Sungei Pandan.

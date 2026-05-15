@@ -28,33 +28,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Wentletrap**  
-**Family Epitoniidae***updated
-Aug 2020*
-
----
-
- **Where seen?** A tiny one was seen among a bloom of seaweeds
+ ## Where seen?
+  A tiny one was seen among a bloom of seaweeds
 on a sandy shore in Seletar. 'Wentletrap' is the Dutch word for 'spiral
 staircase'. The elegant shell does indeed resemble one!  
   

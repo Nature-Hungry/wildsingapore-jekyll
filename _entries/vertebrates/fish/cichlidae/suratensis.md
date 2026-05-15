@@ -31,32 +31,9 @@ page_images:
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Green
-chromide  
-*Etroplus suratensis*** **Family Cichlidae***updated Sep 2020*
-
----
-
- **Where seen?** This
+ ## Where seen?
+  This
 large colourful fish is often seen in groups in our mangroves at Sungei
 Buloh Wetland Reserve and Pasir Ris. The fish is native to India and
 Sri Lanka and was introduced to Singapore, possibly through the aquarium

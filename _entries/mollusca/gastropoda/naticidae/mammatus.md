@@ -43,38 +43,9 @@ page_images:
     <p>Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160361848338158&set=a.10160361852213158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Bosom
-moon snail**   
- ***Polinices
-mammatus*   
-Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This flat moon snail is sometimes seen on our Northern
+## Where seen?
+ This flat moon snail is sometimes seen on our Northern
 shores among seagrasses. Elsewhere, they
 are found in deeper water and considered uncommon. *Mamma* means 'breast' in Latin.  
   

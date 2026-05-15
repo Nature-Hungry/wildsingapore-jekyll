@@ -54,35 +54,9 @@ page_images:
     <p>Changi Lost Coast, Jun 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159804110727906&set=a.10159804107292906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Spiral
-babylonia snail**  
-***Babylonia spirata*** **Family Babyloniidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.  
+## Where seen?
+ This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.  
   
 **Features:** 4-6cm. Shell thick,
 conical, smooth with distinctive spiral. Shell colour and pattern

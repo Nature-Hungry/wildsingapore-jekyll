@@ -32,20 +32,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Crumbly sponge  
-*Amorphinopsis excavans**\**Family Halichondriidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near [Rainbow sponges](rainbow.htm) (*Suberites* sp.) **Features:** Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
 
  

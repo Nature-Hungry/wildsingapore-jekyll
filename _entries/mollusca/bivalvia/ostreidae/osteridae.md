@@ -51,30 +51,6 @@ page_images:
     <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**True
-oysters**  **Family Ostreidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -84,8 +60,8 @@ Oysters are often vandalised by thoughtless visitors.
 ![](../../../photos/bullet.gif)Oysters
 can cause food poisoning.
   
-**Where
-seen?** Among our favourite seafood, oysters are often over-collected
+## Where seen?
+ Among our favourite seafood, oysters are often over-collected
 on some of our more accessible shores. Sometimes, they are merely
 vandalised by thoughtless visitors. They are common on the rocks and
 other hard surfaces of many of our shores.  

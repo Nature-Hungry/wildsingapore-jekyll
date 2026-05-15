@@ -117,35 +117,6 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Floral
-egg crab  
-*Atergatis floridus***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -155,8 +126,8 @@ destroyed by cooking.
 ![](../../../photos/bullet.gif)They
 are not venomous but it's best not to touch them.
   
-**Where
-seen?** This round well-camouflaged crab is commonly seen
+## Where seen?
+ This round well-camouflaged crab is commonly seen
 on our Southern shores, among coral rubble or reefs. But sightings usually
 not as numerous as the [Red egg crab](integerrimus) - perhaps because it is more well camouflaged? It is more active at night.   
   

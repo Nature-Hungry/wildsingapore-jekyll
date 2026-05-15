@@ -86,35 +86,9 @@ page_images:
     <p>Terumbu Pempang Kecil, Jan 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152667198413660.1073741854.624178659&type=1">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm#bivalvia) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Limidae](limidae.htm)
-**Swimming
-file clam  
-*Limaria* sp.****Family
-Limidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This intriguing animals with fleshy tentacles are
+## Where seen?
+ This intriguing animals with fleshy tentacles are
 sometimes seen near living reefs, under corals and stones.  
   
 **Features:** 4- 6cm. The two-part

@@ -67,36 +67,9 @@ page_images:
     <p>Changi Creek, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/090707prpd6686m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Pimply
-mangrove anemone**  
-***awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** These large anemones can be seen in numbers in very
+## Where seen?
+ These large anemones can be seen in numbers in very
 soft mud flats on the seaward side of mangroves and other soft silty sandy shores on our Northern shores.  
   
 **Features:** Diameter with tentacles expanded 5-12cm. Tentacles pale, many long

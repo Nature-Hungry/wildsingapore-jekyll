@@ -48,35 +48,9 @@ page_images:
     <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4994858937/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Terapontidae](terapontidae)
-**Trumpeter
-perch**  
-***Pelates
-quadrilineatus*****Family Terapontidae***updated Oct 2020*
-
----
-
-**Where
-seen?** This silvery fish with a dot-dash pattern is sometimes
+## Where seen?
+ This silvery fish with a dot-dash pattern is sometimes
 seen on our Northern shores among seagrasses. **Features:**  About 8cm,
 up to 30cm. Adults have a silvery body with 4-6 dark horizontal lines,
 a black blotch behind the head and below the start of the dorsal fin

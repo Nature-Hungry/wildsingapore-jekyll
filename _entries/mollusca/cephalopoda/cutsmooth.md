@@ -34,34 +34,9 @@ page_images:
     <p>Terumbu Pempang Laut, May 12Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/06/03/120511/">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Sepiidae](sepiidae.htm)
-**Smooth
-cuttlefish *awaiting identification\**** **Family Sepiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These delightful animals are sometimes commonly seen
+## Where seen?
+ These delightful animals are sometimes commonly seen
 on our Northern shores. Usually seen among seagrasses.   
   
 **Features:** 8-13cm long. Body oval

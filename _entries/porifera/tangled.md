@@ -44,20 +44,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Tangled
-sponge  
-*Callyspongia samarensis*\*Family Callyspongiidae** *updated Oct 2016*
-
----
-
-**Where
-seen?** Appearing like a bunch of tangles, this sponge is sometimes seen on
+## Where seen?
+ Appearing like a bunch of tangles, this sponge is sometimes seen on
 our Southern shores. **Features:** 15-20cm
 long, 1cm in diameter. A clump 'stems' flatttened, slender (0.5cm),
 long and sparsely branched, often in a tangle. Small regular holes

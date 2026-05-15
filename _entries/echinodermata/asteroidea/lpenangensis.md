@@ -43,21 +43,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea) > Genus [*Luidia*](luidia)
-**Six-armed Luidia
-sea star  
-*Luidia penangensis*  
-Family Luidiidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 elegant sea star is seldom seen. So far, only our Northern shores at Chek Jawa and Changi. According to Lane, it was recorded from the Changi-Ubin-Tekong area.  
   
 **Features:** Diameter with arms to 8-10cm. Six arms. The

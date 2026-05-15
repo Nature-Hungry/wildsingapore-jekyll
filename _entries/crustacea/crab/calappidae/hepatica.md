@@ -68,37 +68,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5701985501/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans | Family [Calappidae](calappidae)
-**Reef
-box crab**  
-***Calappa hepatica***  
-**Family Calappidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This small boxy crab is rarely seen. Usually near
+## Where seen?
+ This small boxy crab is rarely seen. Usually near
 reefs on our Southern shores.  
   
 **Features:** Body width about 4cm. It has small bumps all over its body

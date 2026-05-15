@@ -58,25 +58,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-> Order Sabellida > Family [Sabellidae](sabellidae)
-
-**Tiny
-sand fanworm** ***awaiting
-identification\******Family
-Sabellidae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** This tiny
+## Where seen?
+ This tiny
 fanworm is sometimes seen on some of our shores, usually in silty
 sandy sheltered lagoons, often in small groups of 2-3 individuals near burrows.  
   

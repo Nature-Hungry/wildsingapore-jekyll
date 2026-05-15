@@ -40,35 +40,9 @@ page_images:
     <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Scorpaenidae](scorpaenidae)
-**Lionfish  
-*Pterois* sp.  
-Family Scorpaenidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they are found in sheltered lagoons, seaward reefs often sheltering under ledges during the day.  
+## Where seen?
+ This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they are found in sheltered lagoons, seaward reefs often sheltering under ledges during the day.  
   
  **Features:** Grows to about 30cm. Brown striped with broad median fins made up of flappy rays. The dorsal fins also long and flappy rays. The sting is extremely painful but rarely fatal.  
   

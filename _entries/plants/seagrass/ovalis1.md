@@ -27,33 +27,6 @@ page_images:
     <p>Pulau Senang, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/091204pawd5334m3.jpg
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Spoon
-seagrasses on Singapore shores**  
-back to [general
-info on spoon seagrasses](ovalis)  
-
----
 
  
 

@@ -73,37 +73,9 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-lobsters [text
-index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [Lobsters](lobster)
-**Coral
-ghost shrimp**  
-***Corallianassa* sp.**  
-**Family Callianassidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** The smooth burrow of this large, brightly coloured
+## Where seen?
+ The smooth burrow of this large, brightly coloured
 animal is sometimes seen among rubble near living reefs on our Southern
 shores. But animal itself is seldom seen out in the open. Often, all
 you might glimpse is just the tip of a bright orange claw in the distinctive

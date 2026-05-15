@@ -81,32 +81,9 @@ page_images:
     <p>Adult</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Damselfishes**   **Family Pomacentridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Damselfishes
+## Where seen?
+ Damselfishes
 such as the anemonefishes are sometimes seen on our intertidal shores. But most
 damselfishes live in deeper waters and are more frequently encountered
 by divers.  

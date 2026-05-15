@@ -145,20 +145,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/archaster/031207cjd0027m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Common
-sea star  
-*Archaster typicus*  
-Family Archasteridae***updated
-Mar 2020*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif) They are no longer common on all our shores.  
@@ -167,8 +153,8 @@ learn only 3 things about them ...
 use water to pump up their bodies. Don't remove them from
 water for too long.
   
-**Where
-seen?** Despite
+## Where seen?
+ Despite
 its name, this elegant sea star is no longer common on all our shores.
 In the North, Chek Jawa used to be the only place where it was seen
 in large numbers. But following massive flooding in Johor in early

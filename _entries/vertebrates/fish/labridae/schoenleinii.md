@@ -47,36 +47,9 @@ page_images:
     <p>Terumbu Semakau, Aug 17Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10155614374353119.1073741947.696593118&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Labridae](labridae)
-**Black-spot
-tuskfish**   
-***Choerodon schoenleinii***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large fish is sometimes seen near reefy
+## Where seen?
+ This large fish is sometimes seen near reefy
 shores. Usually
 found alone in sandy areas and those with seaweeds.  
   

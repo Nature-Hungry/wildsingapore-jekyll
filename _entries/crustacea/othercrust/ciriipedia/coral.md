@@ -53,37 +53,9 @@ page_images:
     <p>Tanah Merah, Aug 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Coral
-barnacle** ***Pyrgoma* sp.\*  
-Family Pyrgomatidae**  
-*updated
-Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 tiny burrowing animals pock-mark some hard corals.  
   
 **Features:** Often, all that can

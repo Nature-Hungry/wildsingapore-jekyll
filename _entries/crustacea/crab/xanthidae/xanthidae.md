@@ -73,33 +73,6 @@ page_images:
     <p><a href="cymo">Hairy coral crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Xanthid
-crabs**   
-**Family Xanthidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -109,8 +82,8 @@ are NOT destroyed by cooking.
 ![](../../../photos/bullet.gif)They
 are not venomous but it's best not to touch them.
 
-**Where
-seen?**This
+## Where seen?
+This
 group includes the most colourful large crabs that you might commonly
 encounter on the shore. The
 Egg crabs (*Atergatis* sp.) are often encountered on many of

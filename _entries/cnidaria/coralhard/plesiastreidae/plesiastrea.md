@@ -83,35 +83,9 @@ page_images:
     <p>464 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-**Pock-marked coral**  
-***Plesiastrea versipora*\*  
-Scleractinia incertae sedis (Family)***updated
-Nov 2019*
-
----
-
-**Where
-seen?** These hard corals pock-marked with circular corallites are more often seen
+## Where seen?
+ These hard corals pock-marked with circular corallites are more often seen
 on our Northern shores. Usually not common. Elsewhere, they grow in shaded areas such as overhangs. It was previously placed in Family Plesiastreidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.  
   
 **Features:** Colonies seen 15-20cm,

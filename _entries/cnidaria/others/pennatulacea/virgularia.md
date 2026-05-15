@@ -87,36 +87,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea pens [text
-index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
-**Slender
-sea pen**  
-***Virgularia* sp.\*  
-Family Virgulariidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Often mistaken for a satay stick stuck in the sand, this
+## Where seen?
+ Often mistaken for a satay stick stuck in the sand, this
 elegant colony of animals is commonly encountered on our Northern
 shores, and sometimes on our Southern shores too. On silty sand and among seagrasses.  
   

@@ -46,33 +46,9 @@ page_images:
     <p>Pasir Ris Park, Aug 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
-**Lenggadai   
-*Bruguiera parviflora*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This endangered tree is rarely seen in our
+## Where seen?
+  This endangered tree is rarely seen in our
 mangroves. According to Ng, it was only seen at Pasir Ris Park, Pulau
 Tekong, Pulau Unum; individuals formerly recorded at Sungei Changi
 seem to have died out. According to Davison, it is found on Pulau

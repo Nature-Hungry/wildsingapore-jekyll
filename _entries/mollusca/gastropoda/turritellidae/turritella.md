@@ -37,38 +37,9 @@ page_images:
     <p>East Coast, Jun 06</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Volutidae](../volutidae/volutidae.htm)
-**Turritella
-snail**  
-***Turritella terebra***  
-**Family
-Turritellidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Only the empty shells have been
+## Where seen?
+ Only the empty shells have been
 seen on our shores so far. The living animal has yet to be encountered
 on the intertidal. The empty shells seen are usually occupied by a
 hermit crab. Elsewhere, they are found on soft bottoms.  

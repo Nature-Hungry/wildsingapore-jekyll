@@ -35,36 +35,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Broad
-strap brown seaweed  
-*Stypopodium zonale\**Family Scytosiphonaceae***updated
-Sep 15*
-
----
-
-**Where
-seen?** This broad strap-like seaweed is sometimes seen on
+## Where seen?
+ This broad strap-like seaweed is sometimes seen on
 our Southern shores, attached to rocks and coral rubble.  
   
 **Features:** Clumps of flat blades

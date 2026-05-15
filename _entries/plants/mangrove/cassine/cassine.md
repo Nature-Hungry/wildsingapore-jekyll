@@ -46,33 +46,9 @@ page_images:
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Kempudang
-baran   
-*Cassine viburnifolia*  
-Family Celastraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This very rare plant can be seen from the Sungei
+## Where seen?
+  This very rare plant can be seen from the Sungei
 Buloh Wetland Reserve mangrove boardwalk. According to Hsuan Keng,
 it was found on sandy beaches including Kranji, Katong and Pulau Brani.
 Elsewhere it is also uncommon or rare, and was found in wet coastal

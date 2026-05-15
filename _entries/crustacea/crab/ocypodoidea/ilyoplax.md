@@ -44,37 +44,9 @@ page_images:
     <p>Sungei Buloh, Nov 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6362277335/in/album-72157607922679778/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Semaphore
-crab**   
-***Ilyoplax* sp.**  
-**Family Dotillidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny but active crab is sometimes seen in our
+## Where seen?
+ This tiny but active crab is sometimes seen in our
 mangroves. The common name comes from its habit of vigorously waving
 its pincers up and down. This is reminiscent of the Semaphore flag-waving
 system used by sailors in the past to send messages over long distances.

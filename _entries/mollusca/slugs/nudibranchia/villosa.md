@@ -62,35 +62,9 @@ page_images:
     <p>Beting Bronok, Jul 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159959537844264&set=a.10159959530369264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Yellow-foot nudibranch  
-*Thordisa villosa* Family Discodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This rather boring but large nudibranch is sometimes seen on our Northern
+## Where seen?
+ This rather boring but large nudibranch is sometimes seen on our Northern
 shores among coral rubble and rocky shores. Sometimes covered in a
 thin layer of silt. It appears to be seasonally common.   
   

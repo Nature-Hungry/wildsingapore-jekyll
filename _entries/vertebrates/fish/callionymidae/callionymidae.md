@@ -43,33 +43,9 @@ page_images:
     <p><a href="dactylopus">Kuiter's dragonet</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Dragonets**  
-**Family Callionymidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Divers
+## Where seen?
+ Divers
 are more familiar with colourful dragonets seen on the reefs. But
 different kinds are also seen on the intertidal. These small fishes are bottom dwellers and generally found on sand
 or mud near reefs. When resting, most are buried in the sand.  **What are dragonets?** Dragonets belong to Family Callionymidae.

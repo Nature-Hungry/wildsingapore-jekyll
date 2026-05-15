@@ -87,41 +87,9 @@ page_images:
     <p>Terumbu Salu, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta) > Family
-Gracilariacea > [Gracilaria](halymeniales/gracilaria)
-species
-**Halymenia
-red seaweed   
-*Halymenia*
-sp.\*  
-Family Halymeniaceae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?**
 Sometimes mistaken for red plastic bags, these traslucent slippery red seaweeds
 are often seen, especially on our Southern shores. Each clump can
 be quite large.  

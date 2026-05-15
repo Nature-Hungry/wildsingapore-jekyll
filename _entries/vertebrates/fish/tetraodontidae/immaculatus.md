@@ -47,36 +47,9 @@ page_images:
     <p>Pulau Semakau, May 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Yelloweye
-pufferfish  
-*Arothron immaculatus***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs. **Features:**  Grows to
+## Where seen?
+ This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs. **Features:**  Grows to
 about 30cm, those seen 8-10cm. Body rather plain without markings,
 tail fin yellowish with a dark brown edge. Sometimes, the eyes are yellow. Sometimes, they are found in small
 groups.

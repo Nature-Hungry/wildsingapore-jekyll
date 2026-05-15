@@ -83,35 +83,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Seashore
-nutmeg   
-*Knema globularia***  
-**Family** Myristicaceae***updated
-Jan 13*
-
----
-
-**Where seen?** A pretty tree with fresh green leaves and bright
+## Where seen?
+  A pretty tree with fresh green leaves and bright
 red fruit, it is a rare tree. There are several on the rocky cliffsides
 of Chek Jawa, Pulau Ubin. According to Hugh Tan, it is also found
 on St. John's Island. It was previously found on Changi and Pulau

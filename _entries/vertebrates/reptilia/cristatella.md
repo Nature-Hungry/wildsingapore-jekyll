@@ -32,21 +32,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Green
-crested lizard   
-*Bronchocela cristatella*  
-Family Agamidae***updated
-Dex 2020*
-
----
-
-**Where
-seen?** This large green lizard is very well camouflaged
+## Where seen?
+ This large green lizard is very well camouflaged
 among the green vegetation where it may perch motionless. It is active
 during the day and is arboreal, found in bushes and trees usually
 in forested areas and inland wild places.   

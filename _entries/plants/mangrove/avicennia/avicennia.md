@@ -69,32 +69,9 @@ page_images:
     <p>Fruits oval with pointed tip smooth.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Api-api  
-*Avicennia sp.*  
-Family Avicenniaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** Some Api-api species are among the most commonly
+## Where seen?
+  Some Api-api species are among the most commonly
 seen species in our mangroves. A few species, hoever, are rarely seen
 on our shores. According to Corners, there are 16 species seen in
 tropical and subtropical shores. There are 5 species in Malaya on

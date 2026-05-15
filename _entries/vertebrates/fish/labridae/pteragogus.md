@@ -54,36 +54,9 @@ page_images:
     <p>Terumbu Semakau, May 23Photo shared by Kevlin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168333683745112/3231020397188690">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Labridae](labridae)
-**Weedy
-wrasse**  
-***Pteragogus*** **sp.\***  
-**Family Labridae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This lively fish is seldom seen. Once seen swimming
+## Where seen?
+ This lively fish is seldom seen. Once seen swimming
 actively among seagrasses, another near coral rubble. It might be
 quite common but overlooked because of its superb camouflage.  
   

@@ -81,33 +81,9 @@ page_images:
     <p>Sepals clasp the propagule.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[mangroves](../mangroves)
-**Bakau  
-*Bruguiera sp.*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** While [Bakau putih](cylindrica)
+## Where seen?
+  While [Bakau putih](cylindrica)
 (*Bruguiera cylindrica*) is one of the most commonly seen trees
 in our mangroves, others are less common, and some are quite rare.  
   

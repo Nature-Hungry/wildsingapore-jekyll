@@ -57,35 +57,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../../fishindex.htm) | [photo index](../../fishfi.htm)
-[fishes](../fish.htm)
-| [Family Synanceiidae](../synanceiidae/horrida.htm) |
-[Family Scorpaenidae](../scorpaenidae/scorpaenidae.htm)
-| [Family Batrachoididae](../batrachoididae/batrachoididae.htm)
-| [Family Serranidae](../serranidae/serranidae.htm)
-
-****Small
-mudskippers****How
-to tell them apart?*****updated
-Sep 2020*
-
----
 
 **Confusing
 mudskippers**  Several different kinds of small mudskippers

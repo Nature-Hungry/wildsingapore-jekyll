@@ -52,31 +52,6 @@ page_images:
     <p>White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25Photo and ID shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122101681779062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Moray
-eels**   
-**Family Muraenidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -86,8 +61,8 @@ through gills.
 ![](../../../photos/bullet.gif)Some
 have strong jaws with sharp teeth. Don't touch them!
   
-**Where
-seen?** Often
+## Where seen?
+ Often
 mistaken for snakes, these large wriggly fishes are occasionally seen
 on our shores. Moray eels are secretive fishes and usually seen only
 at night and in the more undisturbed shores with reefs and coral rubble.

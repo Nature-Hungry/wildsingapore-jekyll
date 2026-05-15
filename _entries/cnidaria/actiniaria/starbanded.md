@@ -49,36 +49,9 @@ page_images:
     <p>Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Wiggly
-sand star anemone**  
-***awaiting identification\*****updated
-Nov 2019*
-
----
-
-**Where
-seen?** This elegant anemone with few banded arms held in
+## Where seen?
+ This elegant anemone with few banded arms held in
 wiggles is sometimes seen on the soft silty shores on our Southern shores. Seen at night only.  
   
 **Features:** Diameter

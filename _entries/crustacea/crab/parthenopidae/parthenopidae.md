@@ -41,36 +41,9 @@ page_images:
     <p><a href="fornicata">Domed elbow crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Elbow
-crabs**  
-**Family Parthenopidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** Tiny ones are common but overlooked as they look like bits of dirt
+## Where seen?
+ Tiny ones are common but overlooked as they look like bits of dirt
 or junk among seaweeds. Some species are larger, more grotesque and
 less often encountered.  
   

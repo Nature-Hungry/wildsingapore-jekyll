@@ -69,21 +69,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea) > Order
-Apodida > Family Synaptidae
-**Synaptid
-sea cucumbers  
-Family Synaptidae***updated Apr 2020*
-
----
-
-**Where
-seen?** These sea cucumbers appear to be seasonally abundant
+## Where seen?
+ These sea cucumbers appear to be seasonally abundant
 and are found on many of our shores. When in 'season', large numbers
 of small skinny ones (5-10cm long) may be seen draped around sponges
 and other encrusting animals. In the seagrass meadows, thicker very

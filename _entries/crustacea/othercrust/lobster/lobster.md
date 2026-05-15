@@ -36,34 +36,9 @@ page_images:
     <p><a href="upogebiidae">Mud shrimp</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-lobsters [text
-index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-**Lobsters
-and lobster-like crustaceans***updated
-Mar 2020*
-
----
-
-**Where
-seen?** Among our favourite seafood, lobsters do exist on our shores but they
+## Where seen?
+ Among our favourite seafood, lobsters do exist on our shores but they
 are usually found in deeper waters and only sometimes seen by divers.
 During the day, they are usually well hidden among corals. Those seen
 on the intertidal, were sadly trapped in drift nets. Some relatives

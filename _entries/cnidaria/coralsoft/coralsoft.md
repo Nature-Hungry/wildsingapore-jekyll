@@ -137,33 +137,6 @@ page_images:
     <p>343 pp.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-**Soft
-corals   
-Order Alcyonacea***updated
-Aug 2025*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -172,8 +145,8 @@ learn only 3 things about them ...
 ![](../../photos/bullet.gif)Each
 soft coral is a colony of countless tiny polyps.
   
-**Where
-seen?** Soft corals are commonly seen on many of our shores.
+## Where seen?
+ Soft corals are commonly seen on many of our shores.
 Some resemble flowery bushes, others giant leathery disks. Yet others
 are tiny and overlooked. They are found growing on boulders and other
 hard surfaces, as well as among coral rubble and living hard corals

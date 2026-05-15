@@ -43,18 +43,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum Phoronida
-**Cerianthid
-phoronid worm *Phoronis australis\******Phylum
-Phoronida***updated Oct 2019*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet2.gif)They
@@ -67,8 +55,8 @@ group.
 tubes are made of chitin, the same substance that insect
 exoskeleton is made of.
   
-**Where
-seen?** Literally
+## Where seen?
+ Literally
 overshadowed by their more glamorous hosts, this tiny fluffy worm
 is commonly seen with [cerianthids](../../cnidaria/others/ceriantharia/ceriantharia) on our northern shores. Often several can be seen near one cerianthid.
 Very shy, the worms retract at the slightest sign of danger. There's

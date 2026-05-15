@@ -68,22 +68,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Sea
-apple sea cucumber**  
-***Pseudocolochirus violaceus***  
-**Family Cucumariidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This amazing technicolour sea cucumber is sometimes
+## Where seen?
+ This amazing technicolour sea cucumber is sometimes
 seen on our Northern shores, among seagrasses or attached to rubble.  
   
 **Features:** 10-20cm long. Body long

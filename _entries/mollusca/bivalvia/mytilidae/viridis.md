@@ -59,31 +59,6 @@ page_images:
     <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on facebook.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Mytilidae](mytilidae.htm)
-**Green
-mussel** ***Perna viridis*  
-Family Mytilidae***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -93,8 +68,8 @@ eating wild caught mussels.
 ![](../../../photos/bullet.gif)It
 is considered a pest outside its natural range.
   
-**Where
-seen?** This edible clam is sometimes very common on our Northern shores,
+## Where seen?
+ This edible clam is sometimes very common on our Northern shores,
 forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted
 to waters that are murky and sediment laden.  
   

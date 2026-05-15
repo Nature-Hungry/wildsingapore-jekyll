@@ -111,34 +111,6 @@ page_images:
     <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Nerite
-snails**   
- **Family Neritidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -150,7 +122,8 @@ your step!
 ![](../../../photos/bullet.gif) The shell's features protect them in the harsh dry area
 where they live.
   
-**Where seen?** These snails with
+## Where seen?
+  These snails with
 thick, rounded shells are common in our mangroves and rocky shores.
 Some colourful nerites are hard to spot as they blend well with the
 equally colourful rocks they are found on. They are usually immobile

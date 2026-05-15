@@ -73,36 +73,9 @@ page_images:
     <p>Chek Jawa, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8171935772/in/album-72157607712316054/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ellobiidae](ellobiidae.htm)
-**Belongkeng
-snail*****Ellobium* sp.**  
- **Family Ellobiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This large snail is sometimes seen in our back mangroves.
+## Where seen?
+ This large snail is sometimes seen in our back mangroves.
 Sometimes, their empty shells are washed ashore on beaches near mangroves.
 It breathes
 air (instead of through gills like most other marine snails). Elsewhere, they are also found in [Nipah

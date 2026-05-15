@@ -35,33 +35,6 @@ page_images:
     <p>White knobs possibly the penis?</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) >
-[*Elysia*](elysiidae.htm) species
-**Elysia
-slugs on Singapore shores awaiting identification**  
-back to [general
-info on elysia slugs](elysiidae.htm)  
-
----
 
 **Unidentified
 *Elysia* slug #1**  

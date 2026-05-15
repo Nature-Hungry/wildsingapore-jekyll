@@ -54,36 +54,9 @@ page_images:
     <p>Chek Jawa, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Sesarmidae](sesarmidae)
-**Face-banded
-sesarmine crab**  
-***Perisesarma* sp.**   
-**Family Sesarmidae***updated
-Dec 2025*
-
----
-
- **Where seen?** This small crab with a bright
+ ## Where seen?
+  This small crab with a bright
 green or blue band between the eyes are commonly seen in
 some of our mangroves. It
 was previously known as *Chiromantes* sp.  

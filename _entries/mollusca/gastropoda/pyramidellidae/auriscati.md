@@ -36,37 +36,9 @@ page_images:
     <p>Tanah Merah, Jun 12Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150891779053660&set=a.10150868048393660.403268.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Cat's
-ear pyramid snail  
-*Otopleura
-auriscati*   
-Family Pyramidellidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This snail is sometimes seen in sandy sheltered man-made lagoons on our Southern shores.
+## Where seen?
+ This snail is sometimes seen in sandy sheltered man-made lagoons on our Southern shores.
 Often, a pair or a handful are seen among the more numerous [Bazillion
 snails](../potamididae/zonalis.htm). According to Abbott, it is
 uncommon. It is among the larger of the [pyramid

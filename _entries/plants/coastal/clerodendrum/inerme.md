@@ -42,35 +42,9 @@ page_images:
     <p>222 pp..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants)
-****Gambir
-laut** **or****Wild jasmine  
-*Clerodendrum inerme***  
-**Family Verbenaceae*****updated
-Jan 13*
-
----
-
-**Where seen?** This small shrub with pretty whiskery flowers
+## Where seen?
+  This small shrub with pretty whiskery flowers
 is sometimes seen among the shore vegetation and in back mangroves.
 According to Hsuan Keng, it is common near the sea in tidal mud including
 Rochore, Changi, Seletar and Pulau Ubin. According to Giesen, it is

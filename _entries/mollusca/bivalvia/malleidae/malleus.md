@@ -75,34 +75,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158429561582945&set=a.10158429573917945">facebok</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Hammer
-oyster** ***Malleus sp.*  
-Family Malleidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This T-shaped clam is sometimes seen lying freely
+## Where seen?
+ This T-shaped clam is sometimes seen lying freely
 among the seagrasses. Some are shaped like tongue depressors
 or spatulas and seen wedged upright crevices among rocks and rubble, or under stones.
 Seen on Changi and some of our Southern shores. The clams

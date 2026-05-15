@@ -67,37 +67,9 @@ page_images:
     <p>Terumbu Semakau, Apr 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10237905270909134">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Naticidae](naticidae.htm)
-**Eggwhite
-moon snail**  
- ***Polinices
-albumen*****Family Naticidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This flat moon snail with a U-shaped depression on the underside is
+## Where seen?
+ This flat moon snail with a U-shaped depression on the underside is
 often seen on Cyrene Reef on the sand bar. It has also been seen in a few of our other sandy shores. Elsewhere, it is found
 in clean sandy bottoms from shallow subtidal area to a depth of about
 70 m. It is also known as *Neverita albumen*.  

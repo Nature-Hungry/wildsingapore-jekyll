@@ -70,36 +70,9 @@ page_images:
     <p>Pulau Hantu, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Monacanthidae](monacanthidae)
-**Feathery
-filefish  
-*Chaetodermis penicilligerus***  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This amazing 'fluffy' fish is sometimes seen on some of our
+## Where seen?
+ This amazing 'fluffy' fish is sometimes seen on some of our
 shores, near seagrasses and coral rubble. It may be quite common but just overlooked due its superb camouflage. Sometimes a few small ones may school together, the group resembling flotsam. It was previously called *Chaetodoerma penicilligera*. It is sometimes also called the
 prickly, tasselled or leafy filefish.  
   

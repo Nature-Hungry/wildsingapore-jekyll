@@ -38,37 +38,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/27728472268/ "Weasel olive snail (Oliva mustelina)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Olividae](olividae.htm)
-**Weasel
-olive snail**  
- ***Oliva mustelina\**  
-Family Olividae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small bullet-shaped snail is sometimes seen
+## Where seen?
+ This small bullet-shaped snail is sometimes seen
 on Changi and our Northern shores. A burrowing snail, more
 often seen above the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath.  
   

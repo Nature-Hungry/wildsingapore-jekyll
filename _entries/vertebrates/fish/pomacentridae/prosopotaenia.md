@@ -47,35 +47,9 @@ page_images:
     <p>Terumbu Hantu, Jul 19Photo shared by Liz Lim on <a href="https://www.facebook.com/liz.lim.568/media_set?set=a.2381236715232987&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Pomacentridae](pomacentridae)
-**Honey-head
-damsel   
-*Dischistodus prosopotaenia*** **Family Pomacentridae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** Juveniles
+## Where seen?
+ Juveniles
 of this fish are sometimes seen on near our reefs. Elsewhere, adults
 are found iin lagoons and coastal reefs, usually in silty areas, may
 be solitary or in groups.  

@@ -49,34 +49,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-****Birds'
-nest fern  
-*Asplenium nidus***  
-**Family Aspleniaceae*****updated
-Aug 09*
-
----
-
-**Where seen?** This huge rosette of large, fresh green fronds
+## Where seen?
+  This huge rosette of large, fresh green fronds
 is commonly seen wedged in the branches of large trees, including
 roadside, forest and mangrove trees. These ferns are not parasites
 and do not suck any water or nutrients off the host tree.  

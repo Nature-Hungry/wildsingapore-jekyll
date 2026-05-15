@@ -193,22 +193,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Cushion
-star  
-*Culcita novaeguineae*  
-Family Oreasteridae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This almost globular sea star is sometimes seen on the larger reefs on our Southern shores. Usually among
+## Where seen?
+ This almost globular sea star is sometimes seen on the larger reefs on our Southern shores. Usually among
 live hard corals. Out of water, it may 'deflate' and appear more star-shaped. It is
 more often encountered by divers in deeper waters, but are sometimes
 also found on reef flats. Usually seen alone or widely spaced apart.

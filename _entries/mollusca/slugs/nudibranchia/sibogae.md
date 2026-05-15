@@ -53,39 +53,9 @@ page_images:
     <p>St John's Island, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158238594451295&set=a.10158238590001295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm) >
-Suborder Aeolidina
-**Cuthona
-nudibranch  
-*Cuthona
-sibogae*   
-Family Tergipedidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This beautiful nudibranch is sometimes seen at Beting Bronok, and
+## Where seen?
+ This beautiful nudibranch is sometimes seen at Beting Bronok, and
 often encountered by divers on our reefs.   
   
 **Features:** 2-3.5cm long. Long narrow,

@@ -79,35 +79,9 @@ page_images:
     <p>285 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../coastalplants)
-****Bakung** **or** **Seashore
-spider lily  
-*Crinum asiaticum***  
-**Family Amaryllidaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** A gianormous lily with lovely white flowers,
+## Where seen?
+  A gianormous lily with lovely white flowers,
 it is seldom found wild on our shores. However, it is extensively
 planted as an ornamental in gardens and public places. According to
 Davidson, it is found in sandy shores and the back mangroves. Wild

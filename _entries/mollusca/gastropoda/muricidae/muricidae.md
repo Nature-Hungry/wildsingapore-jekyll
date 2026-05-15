@@ -100,31 +100,6 @@ page_images:
     <p><a href="ramosus.htm">Ramose murex</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Drills**  
-**Family Muricidae***updated
-Aug 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -134,7 +109,8 @@ the prey's shell.
 remove drills.  
 ![](../../../photos/bullet.gif)Some
 lay large collections of egg capsules on the rocks.
- **Where seen?** You will almost be certain to meet this ferocious
+ ## Where seen?
+  You will almost be certain to meet this ferocious
 predator on our rocky shores! Drills are commonly seen on boulders
 and rocks, including man-made structures such as breakwaters and jetty
 pilings.   

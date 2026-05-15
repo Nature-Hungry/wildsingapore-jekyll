@@ -78,31 +78,6 @@ page_images:
     <p>Cyrene Reef, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Whitings   
-Family
-Sillaginidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -110,7 +85,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif) They may hide in the sand if disturbed.  
 ![](../../../photos/bullet.gif) There are several species although they look similar at
 first glace.
- **Where seen?** These silvery topedo-shaped fishes are often
+ ## Where seen?
+  These silvery topedo-shaped fishes are often
 encountered on many of our sandy shores especially near reefs. **What are whitings?** Whitings belong to the Family Sillaginidae.
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307):
 the family has 3 genera and 31 species, found mainly in the Indo-west

@@ -177,36 +177,9 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158910812067945&set=a.10158910873962945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cnidarians [text
-index](../cnidariaindex.htm) | [photo index](../cnidariafi2.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Pizza
-anemone**  
-***Cryptodendrum adhaesivum***  
-**Family Thalassianthidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This rather large anemone is seldom seen,
+## Where seen?
+ This rather large anemone is seldom seen,
 usually tucked in crevices on rocky and rubbly areas under dead corals on our Southern shores. Possibly simply because
 it just doesn't look like a typical anemone, and because it is usually
 well hidden. During mass coral bleaching, this anemone is often easier to spot as it bleaches white.  

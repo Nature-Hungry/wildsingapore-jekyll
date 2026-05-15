@@ -51,39 +51,9 @@ page_images:
     <p>Chek Jawa, Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158833147063158&set=a.10158833162093158">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Tiny
-colourful fiddler crab**  
-***awaiting identification\******Family Ocypodidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This fiddler crab with red eyes on a dark eye stalk
+## Where seen?
+ This fiddler crab with red eyes on a dark eye stalk
 and a rather short and stout enlarged pincer is seen in the back mangroves.  
   
 **Features:** Body width 1-1.5cm.

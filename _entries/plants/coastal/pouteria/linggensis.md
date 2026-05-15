@@ -52,35 +52,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Nyatoh
-  
-*Pouteria liggensis***  
-**Family** Sapotaceae***updated
-Aug 09*
-
----
-
-**Where seen?** There one of this rare tree on the rocky cliffsides
+## Where seen?
+  There one of this rare tree on the rocky cliffsides
 of Chek Jawa, Pulau Ubin and several are also found on Lazarus. It
 was only recently discovered as native to Singapore.  
   

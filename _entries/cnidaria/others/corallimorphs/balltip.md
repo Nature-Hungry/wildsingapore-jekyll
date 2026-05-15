@@ -95,36 +95,9 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972843858713&set=a.10159972857263713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
-**Ball-tip
-corallimorphs**  
-***Corynactis* sp.****Family **Corallimorphidae*****updated
-Jul 2024*
-
----
-
-**Where
-seen?** This small animal with little balls at the tips of
+## Where seen?
+ This small animal with little balls at the tips of
 its transparent tentacles is seen growing on hard surfaces. Rocks and coral rubble
 in clusters of a few individuals. Sometimes seen on some of our shores.  
   

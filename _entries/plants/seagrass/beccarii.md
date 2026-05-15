@@ -55,21 +55,6 @@ page_images:
   caption: <p></p>
 ---
 
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Beccari's
-seagrass   
-*Halophila beccarii*   
-Family Hydrocharitaceae***updated
-Mar 14*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../photos/bullet.gif)
@@ -79,8 +64,8 @@ It is considered globally rare with a limited global distribution.
 ![](../../photos/bullet.gif)It's
 found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves.
   
-**Where
-seen?**
+## Where seen?
+
 This small seagrass is quite commonly encountered on Chek Jawa, usually
 in small patches on bare sand that are exposed at low tide near the
 boardwalk, with larger meadows on the shore west of House No. 1. The

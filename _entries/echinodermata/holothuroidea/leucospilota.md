@@ -110,22 +110,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea)
-**Black
-long sea cucumber   
-*Holothuria leucospilota*  
-Family Holothuriidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This large long black sea cucumber is commonly seen on our reefy Southern shores. The
+## Where seen?
+ This large long black sea cucumber is commonly seen on our reefy Southern shores. The
 animal usually hides most of its body under large boulders or rocks, with only the front feeding end sticking out.
 Elsewhere, it is considered a very common species, sometimes found in high densities, in reefs, seagrass meadows, sandy and muddy bottoms with rubble or reefs, from shallow areas to 10m deep.   
   

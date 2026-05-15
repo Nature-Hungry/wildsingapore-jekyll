@@ -39,37 +39,9 @@ page_images:
     <p>Cyrene, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2015/08/seagrass-critters-of-cyrene-reefl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Majaoidea](majoidea)
-**Arrow-head
-spider crab  
-*Menatheius* sp.\***  
-**Family Epialtidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny crab is sometimes seen on some of our shores,
+## Where seen?
+ This tiny crab is sometimes seen on some of our shores,
 among seagrasses and seaweeds. It is probably quite common but overlooked
 because it is so well camouflaged.  
   

@@ -82,30 +82,6 @@ page_images:
     <p><a href="giant">Giant hydroids</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class Hydrozoa
-**Hydroids**  
- **Class Hydrozoa***updated
-May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -114,8 +90,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Each
 'bush' is a colony of many little polyps.
   
-**Where
-seen?** A wider variety of those that are large and attached to hard surfaces are commonly encountered on our
+## Where seen?
+ A wider variety of those that are large and attached to hard surfaces are commonly encountered on our
 Northern intertidal shores. Forming colourful fluffy patches. Some fiery stinging ones are also commonly seen on our Southern
 Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).  
   

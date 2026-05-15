@@ -73,35 +73,6 @@ page_images:
     <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237851498/">his flickr</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Banded
-bead anemone**  
-***Anthopleura* sp.\*** **Family Actiniidae***updated
-Jul 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -111,8 +82,8 @@ step on them!
 ![](../../photos/bullet.gif)They
 tuck their tentacles into their bodies at low tide.
   
-**Where
-seen?** These small anemones are often seen on our rocky
+## Where seen?
+ These small anemones are often seen on our rocky
 areas that are exposed even at moderate tides. Usually in clusters
 of many individuals. Crowded near the base of boulders, in crevices
 and cracks of the boulders and even in the sand nearby.   

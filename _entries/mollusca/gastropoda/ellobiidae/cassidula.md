@@ -31,35 +31,9 @@ page_images:
     <p>Berlayar Creek, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ellobiidae](ellobiidae.htm)
-**Mangrove
-ear snail*****Cassidula* sp.**  
- **Family Ellobiidae***updated Jul 2020*
-
----
-
-**Where
-seen?** This snail is sometimes seen in our back mangroves,
+## Where seen?
+ This snail is sometimes seen in our back mangroves,
 creeping around and on the base of mangrove trees. It breathes air (instead of through gills like
 most other marine snails). The shell opening resembles an ear.  
   

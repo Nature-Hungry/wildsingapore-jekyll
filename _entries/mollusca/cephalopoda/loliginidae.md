@@ -45,34 +45,9 @@ page_images:
     <p>96pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm)
-**Pencil
-squids**  **Family Loliginidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These squids are sometimes seen in numbers on our
+## Where seen?
+ These squids are sometimes seen in numbers on our
 Southern shores. Among seagrasses, also near coral rubble and reefs.
 They are often seen with their arms held splayed out when alarmed.
 They typically gather near the bottom during the day, dispersing in

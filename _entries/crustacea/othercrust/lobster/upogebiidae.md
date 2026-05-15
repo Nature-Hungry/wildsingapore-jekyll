@@ -87,35 +87,9 @@ page_images:
     <p>Pulau Semakau (West), Jul 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122174317976554640&type=3&ref=embed_post">fcebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-lobsters [text
-index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [Lobsters](lobster)
-**Mud
-shrimp**  
-**Family Upogebiidae***updated Mar 2020*
-
----
-
-**Where
-seen?** The large pale shrimp is sometimes seen in mangroves, also seagrass
+## Where seen?
+ The large pale shrimp is sometimes seen in mangroves, also seagrass
 areas near mangroves on our Northern shores. Elsewhere, some species are found in reefs and deeper waters.  
   
 **Features:**  4-6cm long. Long abdomen

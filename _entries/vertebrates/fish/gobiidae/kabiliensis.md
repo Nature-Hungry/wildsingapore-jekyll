@@ -36,36 +36,9 @@ page_images:
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Mangrove
-bumblebee goby**  
-***Brachygobius kabiliensis***  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This tiny banded goby is commonly seen in our mangroves, in pools
+## Where seen?
+ This tiny banded goby is commonly seen in our mangroves, in pools
 at low tide. This goby is different from the Bumblebee goby (*Brachygobius
 doriae*) in the aquarium trade. Elsewhere, it is found in fresh
 and brackish water including in mangroves.  

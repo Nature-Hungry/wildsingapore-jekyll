@@ -41,38 +41,9 @@ page_images:
     <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Spotted
-reef crab**  
-***Carpilius maculatus***  
-**Family Carpiliidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** This crab with big red round spots is seldom seen on our shores. So far, on reefy southern shores.  
+## Where seen?
+ This crab with big red round spots is seldom seen on our shores. So far, on reefy southern shores.  
   
 **Features:** Body width to about
 9cm. This crab has a distinctive pattern of large spots on a beige

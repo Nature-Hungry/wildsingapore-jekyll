@@ -84,21 +84,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
 ---
 
+## Where seen?
 
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Yellow
-prickly branching sponge  
-*Pseudoceratina purpurea\**Family Pseudoceratinidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This rubbery prickly sponge usually yellow or with yellow tips is
 commonly seen on coral rubble on many of our Southern shores. **Features:** Extremely
 variable in shape from knobs, lobes, to slender branching stems (8-12cm)

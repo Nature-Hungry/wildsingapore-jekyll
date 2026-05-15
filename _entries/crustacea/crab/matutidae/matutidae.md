@@ -71,36 +71,9 @@ page_images:
     <p><a href="planipes">Flower moon crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Moon
-crabs**  
-**Family Matutidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** These crabs as pale and circular as a full moon are
+## Where seen?
+ These crabs as pale and circular as a full moon are
 commonly encountered on our Northern shores. They are more active
 at night and are rarely seen by daytime visitors as they are then
 often buried in the sediments.

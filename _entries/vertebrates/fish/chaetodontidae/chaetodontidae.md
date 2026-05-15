@@ -63,29 +63,6 @@ page_images:
     <p><a href="octofasciatus.htm">Eightband butterflyfish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Butterflyfishes**   
- **Family Chaetodontidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -95,8 +72,8 @@ tail base.
 ![](../../../photos/bullet.gif)They
 do poorly in aquariums. Don't collect them.
   
-**Where
-seen?** People are generally surprised to hear that colourful
+## Where seen?
+ People are generally surprised to hear that colourful
 butterflyfishes are commonly seen on many of our shores. They usually
 hide among coral rubble and rocks, or among seagrasses. Fishes seen
 range from tiny ones less than 5cm to larger ones up to 20cm. Butterflyfishes

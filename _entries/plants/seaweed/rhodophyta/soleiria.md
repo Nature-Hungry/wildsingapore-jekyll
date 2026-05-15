@@ -49,36 +49,9 @@ page_images:
     <p>Pulau Senang, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Robust
-red seaweed  
-*Solieria
-robusta*Family Solieriaceae***updated Sep 2019*
-
----
-
-**Where
-seen?** This fleshy seaweed is commonly seen on many of our shores, in small
+## Where seen?
+ This fleshy seaweed is commonly seen on many of our shores, in small
 clumps among living reefs, on rubble, also sandy areas near seagrass
 meadows.  
   

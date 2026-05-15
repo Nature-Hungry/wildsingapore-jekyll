@@ -65,20 +65,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Flat-armed brittle star**  
-***awaiting identification\*****updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 agile but well camouflaged brittle star is sometimes commonly encountered
 on our Northern shores, among seagrasses as well as on sand and silty
 sand. Sometimes large numbers may be seen. It is more active at night

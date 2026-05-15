@@ -80,35 +80,9 @@ page_images:
     <p>Lazarus Island, Nov 20Photo shares by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158082799812945&set=a.10158080800827945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > Family
-[Octopodidae](octopus.htm)
-**Big-head
-seagrass octopus**  ***awaiting identification\**  
-Family Octopodidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This octopus with a large smooth head is sometimes
+## Where seen?
+ This octopus with a large smooth head is sometimes
 commonly seen on Changi, among seagrasses.   
   
 **Features:** Head about 6-8cm long,

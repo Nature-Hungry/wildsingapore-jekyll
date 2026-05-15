@@ -48,36 +48,9 @@ page_images:
     <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Ophichthidae](ophichthidae.htm)
-**Mangrove
-snake-eel  
-*awaiting identification*  
-Family Ophichthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This large snake-like fish is sometimes seen foraging in shallow water of the incoming tide
+## Where seen?
+ This large snake-like fish is sometimes seen foraging in shallow water of the incoming tide
 in the mangroves at Pasir Ris at night. One was seen on Chek Jawa seagrass meadows during daylight emerging from a burrow. Others seen on seagrass meadows on the Northern shores.  
   
 **Features:** About 30cm long. A long

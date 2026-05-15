@@ -84,36 +84,9 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753887236295&set=a.10158753863266295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Fungiidae](fungiidae.htm)
-**Sunflower
-mushroom coral  
-*Heliofungia actiniformis*** **Family Fungiidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This free-living coral with Udon-like tentacles
+## Where seen?
+ This free-living coral with Udon-like tentacles
 is only commonly seen on some of our undisturbed Southern shores. They are often seen in shallow silty, sandy areas among seagrasses,
 sometimes wedged among coral rubble. It used to be commonly seen on
 Beting Bronok in the north. It is the only species in the genus *Heliofungia* and is considered among the largest of hard coral polyps.  

@@ -72,38 +72,9 @@ page_images:
     <p>Pulau Hantu, Jul 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/683914653/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**Glass
-shrimp  
-*Palaemon* sp.\*  
-Family Palaemonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This transparent shrimp is sometimes seen on some
+## Where seen?
+ This transparent shrimp is sometimes seen on some
 of our shores. At low tide in pools, in small groups on rubble and
 reefs. Also on sandy silty shores among seaweeds, as well as near
 mangroves.  

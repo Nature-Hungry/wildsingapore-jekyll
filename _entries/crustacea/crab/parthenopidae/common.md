@@ -85,33 +85,6 @@ page_images:
     <p>St John's Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/02/lunar-new-year-day-1-st-johns-islandl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Parthenopidae](parthenopidae)
-**Common elbow crabs**  
-***awaiting identification*  
-Family Parthenopidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -121,8 +94,8 @@ avoid stepping areas thick with seaweeds and seagrasses.
 ![](../../../photos/bullet.gif)To
 see one, look carefully at every bit of 'rubbish'.
   
-**Where
-seen?** These tiny, slow-moving crabs look like bits of dirt or junk among
+## Where seen?
+ These tiny, slow-moving crabs look like bits of dirt or junk among
 seaweeds. Look very carefully to find them. Elbow crabs are commonly
 seen on our Northern shores, among seagrasses and seaweeds.   
   

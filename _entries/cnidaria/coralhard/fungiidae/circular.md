@@ -120,32 +120,6 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719466494/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Fungiidae](fungiidae.htm) > Genus *[Fungia](fungia.htm)*
-**Circular
-mushroom coral** ***Fungia* sp.*\**  
-Family Fungiidae***updated Nov 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -155,8 +129,8 @@ learn only 3 things about them ...
 your step as you might break these flat animals that live
 on sandy areas.
   
-**Where
-seen?** This saucer-shaped hard coral is sometimes seen on
+## Where seen?
+ This saucer-shaped hard coral is sometimes seen on
 many of our Southern shores, on sandy shallow areas near living reefs.
 On some undisturbed shores, many individuals in various stages of
 development can be seen near one another.  

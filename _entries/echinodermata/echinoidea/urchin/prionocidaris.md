@@ -63,39 +63,9 @@ page_images:
     <p>Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830726948158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [sea
-urchins](urchin)
-**Thorny
-sea urchin  
-*Prionocidaris* sp.   
-Family Cidaridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This beautiful pink urchin with unique spiny spines is seasonally
+## Where seen?
+ This beautiful pink urchin with unique spiny spines is seasonally
 common on some of our Northern shores, in seagrass meadows. Sometimes
 many are seen during a visit, and then none for a while. Broken spines
 of this sea urchin may also be seen washed ashore.  

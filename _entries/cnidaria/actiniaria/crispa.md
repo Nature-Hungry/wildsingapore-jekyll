@@ -184,36 +184,9 @@ page_images:
     <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718898967/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Leathery
-anemone**  
-***Radianthus crispa*****Family Stichodactylidae***updated
-Jul 2024*
-
----
-
-**Where
-seen?** This large anemone is sometimes seen on the reef edges of our Southern shores. According to Dr Fautin, it is sometimes seen living on branching
+## Where seen?
+ This large anemone is sometimes seen on the reef edges of our Southern shores. According to Dr Fautin, it is sometimes seen living on branching
 corals. It was previously known as *Heteractis cripsa*.  
   
 **Features:** Diameter

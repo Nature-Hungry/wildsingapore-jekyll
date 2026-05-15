@@ -60,30 +60,6 @@ page_images:
     <p>Pulau Biola, Jan 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649730713158&set=a.10159649733953158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Silversides**  
-**Family Atherinidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -93,8 +69,8 @@ bottom).
 ![](../../../photos/bullet.gif)They
 are important prey for larger fishes and sea birds.
   
-**Where
-seen?**  These flashy little fishes are commonly seen on many of our Southern shores,
+## Where seen?
+  These flashy little fishes are commonly seen on many of our Southern shores,
 near living reefs. Usually in groups of small numbers, zipping about
 near the water surface, especially at night. Sometimes, large schools
 are seen from a boardwalk. In our mangroves, they may school

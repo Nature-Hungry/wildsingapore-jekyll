@@ -57,34 +57,9 @@ page_images:
     <p>Sisters, May 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-amphipods [text
-index](../../crustaceaindex#amphipoda) | [photo index](../../othercrustfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order Amphipoda
-**Amphipods**   
- **Order Amphipoda***updated
-Mar 2020*
-
----
-
-**Where
-seen?** The most commonly encountered are tiny ones in large
+## Where seen?
+ The most commonly encountered are tiny ones in large
 numbers among seaweeds, especially when there is a bloom of [Hairy
 green seaweed](../../../plants/seaweed/chlorophyta/bryopsis) (*Bryopsis* sp.).  
   

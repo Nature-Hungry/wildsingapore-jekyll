@@ -49,35 +49,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Bracket
-brown seaweed*****Lobophora
-variegata\** Family Dictyotaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 Forming flat, fan-shaped clusters encrusting hard surfaces. Some resemble
 terrestrial bracket fungi or fish scales. They are sometimes seen
 on our Southern shores, growing on coral rubble near reefs.  

@@ -91,33 +91,6 @@ page_images:
     <p><a href="hippolytidae">Humpbacked shrimp</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-**Prawns
-and shrimps***updated
-Apr 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -128,8 +101,8 @@ yet others transparent.
 ![](../../../photos/bullet.gif)Some
 live on other animals such as sea anemones and hard corals.
   
-**Where
-seen?** Among our favourite seafood, prawns and shrimps come in various sizes
+## Where seen?
+ Among our favourite seafood, prawns and shrimps come in various sizes
 and colours. Close observation is needed to appreciate their delicate
 patterns and colours, and amusing behaviour. Prawns and shrimps are
 common on almost every shore. However, they are difficult to spot

@@ -168,33 +168,6 @@ page_images:
     <p>Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae) > [pipefishes](pipefish)
-**Seagrass
-pipefish**   
-***awaiting identification\****  
-**Family Syngnathidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -204,8 +177,8 @@ to find one.
 hides among seaweeds and can't move fast. Watch your step!  
 ![](../../../photos/bullet.gif) The male looks carries the eggs.
   
-**Where
-seen?** This skinny long fish can be seasonally abundant
+## Where seen?
+ This skinny long fish can be seasonally abundant
 in seagrass areas on our Northern shores. Also sometimes seen in seagrasses in the South. At low tide, it generally
 remains motionless among seagrasses and seaweeds, and resembles roots
 or twigs. Watch your step!  

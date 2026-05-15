@@ -66,22 +66,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum
-Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Dog-faced
-water snake  
-(Schneider's Bockadam)  
-*Cerberus schneiderii*  
-Family Homalopsidae***updated Oct 2016*
-
----
-
-**Where
-seen?** Although quite commonly seen in our mangroves, this
+## Where seen?
+ Although quite commonly seen in our mangroves, this
 well camouflaged snake is shy and blends in with the mud and the leaf
 litter. It is more active at night and are usually stays well hidden
 during the day. It is mainly estuarine and not found in freshwater.

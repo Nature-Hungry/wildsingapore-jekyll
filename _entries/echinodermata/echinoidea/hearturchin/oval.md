@@ -131,35 +131,9 @@ page_images:
     <p>Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3541m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../echinodermata)
-> Class [Echinodea](../echinoidea) > [heart
-urchins](hearturchin)
-**Keeled
-heart urchin  
-*Brissus latecarinatus*** *updated Apr 2020*
-
----
-
-**Where
-seen?** Usually only their skeletons are seen on some of our shores. Living ones are generally seen above ground
+## Where seen?
+ Usually only their skeletons are seen on some of our shores. Living ones are generally seen above ground
 only at night. They are usually buried in the sand. In seagrass meadows near reefs, also under stones
 in submerged reefs.  
   

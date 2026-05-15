@@ -65,38 +65,9 @@ page_images:
     <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Big
-hermit-hitching anemone**  
-***Calliactis*
-sp.**  
-**Family Hormathidae***updated
-Jul 2024*   
-
----
-
-**Where
-seen?** This rather large anemone is sometimes seen on shells
+## Where seen?
+ This rather large anemone is sometimes seen on shells
 occupied by [hermit
 crabs](../../crustacea/othercrust/anomura/hermit/hermit.htm) on our Northern shores. The anemone is sometimes
 many times larger than the hermit crab! It is also seen attached to rocks and other small rubble, rubbish with a hard surface, as well as living snails.  

@@ -59,32 +59,9 @@ page_images:
     <p><a href="large.htm">Large scallop</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Scallops**  **Family Pectinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These little clams are sometimes seen on some of
+## Where seen?
+ These little clams are sometimes seen on some of
 ours shores, on sandy areas near seagrasses.  
   
 **Features:** 4-7cm.The circular two-part

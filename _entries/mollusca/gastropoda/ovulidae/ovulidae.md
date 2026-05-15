@@ -66,34 +66,9 @@ page_images:
     <p><a href="softcoral.htm">Soft coral false cowrie</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Ovulid
-snails**   
-**Family Ovulidae***updated Sep 2020*
-
----
-
-**Where
-seen?** These amazing snails are seen on our [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) and
+## Where seen?
+ These amazing snails are seen on our [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) and
 [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.htm), particularly on our Northern shores.  
   
 **Features:** 1-3cm. These snails

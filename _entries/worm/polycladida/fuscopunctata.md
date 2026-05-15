@@ -54,23 +54,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Punctuated
-flatworm  
-*Maritigrella fuscopunctata\******Family
-Euryleptidae**  
-*updated
-Feb 2020*
-
----
-
-**Where
-seen?** This well camouflaged worm is so far most commonly seen at Chek Jawa, among coral
+## Where seen?
+ This well camouflaged worm is so far most commonly seen at Chek Jawa, among coral
 rubble usually at night.  
   
 **Features:** 5-7cm long. Body

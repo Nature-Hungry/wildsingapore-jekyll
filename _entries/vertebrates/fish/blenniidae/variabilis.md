@@ -89,36 +89,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171065335/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Blennidae](blenniidae)
-**Variable
-fang-blenny  
-*Petroscirtes variabilis*   
-Family Blenniidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small elongated fish is sometimes encountered on our Southern
+## Where seen?
+ This small elongated fish is sometimes encountered on our Southern
 shores, among seagrasses and seaweeds. Sometimes seen hiding in large
 snail shells, fan clam shells and litter, where it appears to be guarding eggs laid on the hard surface.  
   

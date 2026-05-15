@@ -94,36 +94,9 @@ page_images:
     <p>Terumbu Raya, Aug 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-rayal">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Monacanthidae](monacanthidae)
-**Fan-bellied
-filefish  
-*Monacanthus chinensis\****  
-**Family Monacanthidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This well camouflaged filefish is commonly seen on many of our shores,
+## Where seen?
+ This well camouflaged filefish is commonly seen on many of our shores,
 in sheltered areas with seagrasses and near reefs. It often remains motionless next to seaweeds or rocks, sometimes flattening out against or 'wrapping around'
 sponges, rubble and other large objects.  
   

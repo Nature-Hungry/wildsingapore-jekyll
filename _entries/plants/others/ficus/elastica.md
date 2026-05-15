@@ -69,36 +69,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[Figs
-in general](ficus)
-****India-rubber
-tree   
-*Ficus elastica***  
-**Family Moraceae*****updated
-Mar 10*
-
----
-
-**Where seen?** This large tree can be seen on Pulau Ubin.
+## Where seen?
+  This large tree can be seen on Pulau Ubin.
 According to Hsuan Keng, it is native in the northern Malay peninsula
 and was often planted as an ornamental in Singapore. According to
 Corners, the abundance of this tree in inhabited parts of Malaya is

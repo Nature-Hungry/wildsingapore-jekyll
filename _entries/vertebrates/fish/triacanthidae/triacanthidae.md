@@ -73,30 +73,6 @@ page_images:
     <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Tripodfishes**  
-**Family Triacanthidae***updated
-Nov 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -106,8 +82,8 @@ step!
 ![](../../../photos/bullet.gif)Don't
 take the fish out of the water or it may die.
   
-**Where
-seen?** These flat silvery fishes with surprising pointy
+## Where seen?
+ These flat silvery fishes with surprising pointy
 spines can sometimes be commonly seen on our Northern shores, among
 seagrasses. Some may be tiny (less than 3cm) and being flat, virtually
 disappear when seen from above. Larger ones may be seen in streams

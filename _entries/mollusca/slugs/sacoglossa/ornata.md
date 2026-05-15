@@ -166,36 +166,9 @@ page_images:
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) >
-[*Elysia*](elysiidae.htm) species
-**Ornate
-leaf slug**  
-***Elysia ornata*****Family Plakobranchidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** Often mistaken for leafy seaweed, this slug is seen on all our shores.
+## Where seen?
+ Often mistaken for leafy seaweed, this slug is seen on all our shores.
 However, it appears to be seasonal. Sometimes seen in large numbers,
 at other times, none is to be seen.  
   

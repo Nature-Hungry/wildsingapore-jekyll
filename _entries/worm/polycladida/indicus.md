@@ -106,27 +106,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Blue-dot margined
-flatworm  
-*Pseudoceros
-indicus*\*  
-**Family
-Pseudocerotidae*****updated
-Feb 2020*
-
----
-
-**Where
-seen?** This little flatworm with blue dots on its body margin is often seen on many of our
+## Where seen?
+ This little flatworm with blue dots on its body margin is often seen on many of our
 shores. On rocky shores, on boulders and under stones, also near reefs.  
   
 **Features:** 2-3cm long. Body uniformly white or cream with closely-set dark blue dots along the

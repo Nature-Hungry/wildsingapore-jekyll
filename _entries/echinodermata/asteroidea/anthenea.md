@@ -108,21 +108,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Cake
-sea star  
-*Anthenea aspera*  
-Family Oreasteridae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This large, flat sea star is often seen on our Northern shores. Smaller
+## Where seen?
+ This large, flat sea star is often seen on our Northern shores. Smaller
 ones are usually seen in seagrass meadows while larger ones are usually seen
 on coral rubble, sometimes wedged under large rocks. It is usually seen
 alone and usually more active at night. According to Lane, these sea

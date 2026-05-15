@@ -80,20 +80,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Champagne sponge  
-*Callyspongia diffusa\**Family
-Callyspongiidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This group of champagne pink or lilac, rough thick walled sponges are sometimes
+## Where seen?
+ This group of champagne pink or lilac, rough thick walled sponges are sometimes
 seen on some of our Southern shores, growing on coral rubble. **Features:** Grouped
 on this page are small (10-15cm) sponges with rough thick walls and
 coloured a dull champagne pink or purplish pink (lilac). Texture a fine network

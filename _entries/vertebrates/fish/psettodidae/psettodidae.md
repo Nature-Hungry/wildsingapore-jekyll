@@ -38,34 +38,9 @@ page_images:
     <p>Changi Carpark 6, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10161705255808693&__cft__[0]=AZVo1GjtXIGtN4ebqmGCF0D4uWobNDIWLZJtSEgTemt3iLTh7dmNZ6SnGuNvj7_2TzOiFw8diJf3f-r9J20hweN30dmEXSe7srG9rv6IuvvB4NkHq6nrQxICd9mYgpSq2g8&__tn__=-UC%2CP-R">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-**Halibuts**   
-**Family Psettodidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** The Indian halibut (*Psettodes erumei*) is sometimes
+## Where seen?
+ The Indian halibut (*Psettodes erumei*) is sometimes
 seen on some of our shores, often near seagrasses. **What are halibuts?** They are [flatfishes](../pleuronectiformes/pleuronectiformes) that belong to the Family Psettodidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437):
 the family has 1 genera and 3 species found in West Africa and the
 Indo-West Pacific. They are considered the most primitive of the flatfishes

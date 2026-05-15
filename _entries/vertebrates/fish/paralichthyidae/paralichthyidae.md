@@ -91,32 +91,6 @@ page_images:
     <p>Pulau Semakau North, Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234701792024164">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-**Large-tooth
-flounders**   
-**Family Paralichthyidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -125,8 +99,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)Found
 beneath the sand. Watch your step!
   
-**Where
-seen?** These large flatfishes are seen on some of our shores,
+## Where seen?
+ These large flatfishes are seen on some of our shores,
 on sandy areas near seagrasses or near coral reefs. **What are large-tooth flounders?** Large-tooth flounders are [flatfishes](../pleuronectiformes/pleuronectiformes) belonging to the Family Paralichthyidae (they were previously placed
 in Family Bothidae). According to [FishBase](http://fishbase.sinica.edu.tw/Summary/FamilySummary.cfm?ID=514):
 the family has 16 genera and 86 species. They are found in the Atlantic,

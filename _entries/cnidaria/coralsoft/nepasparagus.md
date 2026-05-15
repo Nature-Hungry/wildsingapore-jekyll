@@ -97,35 +97,9 @@ page_images:
     <p>Terumbu Salu, Jun 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi3.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Nephtheidae](nephtheidae.htm)
-**Asparagus
-flowery soft coral  
-*Nephthea* sp.*\**  
-Family Nephtheidae***updated Nov 2019*
-
----
-
-**Where
-seen?** This large purplish flowery soft coral is commonly
+## Where seen?
+ This large purplish flowery soft coral is commonly
 seen on our Southern shores. When out of water with the polyps retracted,
 the tips of this soft coral looks like asparagus spears. Usually among
 living hard corals on the reef flats.  

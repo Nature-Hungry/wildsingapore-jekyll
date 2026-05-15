@@ -51,34 +51,9 @@ page_images:
     <p>Pulau Ubin, Oct 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../../coastal/coastalplants) 
-**Durian  
-*Durio zibethinus*  
-Family Bombacaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** The target of many obssessed Singaporeans,
+## Where seen?
+  The target of many obssessed Singaporeans,
 Durian trees can still be found growing wild in many parts of Singapore.
 They often mark the locations of 'kampongs' or villages that have
 long since been cleared. Pulau Ubin has lots of durian trees. The

@@ -46,22 +46,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd5005m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm)
-> Phylum [Nemertea](nemertea)
-**Pink
-ribbon worm** ***awaiting identification*\*  
-*updated
-Feb 14***
-
----
-
-**Where
-seen?** This long pink ribbon worm is commonly seen at night
+## Where seen?
+ This long pink ribbon worm is commonly seen at night
 on silty areas among seagrasses and near mangroves.   
   
 **Features:** Grouped in this entry

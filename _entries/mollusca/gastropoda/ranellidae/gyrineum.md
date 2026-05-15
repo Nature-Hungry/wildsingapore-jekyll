@@ -41,36 +41,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ranellidae](ranellidae.htm)
-**Common
-triton snail*****Gyrineum natator*   
-Family Ranellidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small chunky snail is sometimes seen under
+## Where seen?
+ This small chunky snail is sometimes seen under
 stones on our Northern shores. Sometimes a pair might be seen under
 one stone.  **Features:** 3-4cm. Thick shell with a thick ridge along the length and spirals
 of beaded ridges. Shell opening wide with a scalloped inner edge.

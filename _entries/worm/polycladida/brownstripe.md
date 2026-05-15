@@ -160,23 +160,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/brownstripe/060305sisg5452m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Brown-stripe flatworm  
-*Pseudobiceros* sp. 2\*****Family Pseudocerotidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This brownish flatworm with a bold stripe down the centre
+## Where seen?
+ This brownish flatworm with a bold stripe down the centre
 is often encountered on coral rubble near living reefs. They appear
 to be seasonal, with several encountered during a visit, and then
 not at all for some time.   

@@ -50,33 +50,9 @@ page_images:
     <p>Beting Bemban Besar, Mar 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157391599357945&set=a.10157391593172945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Candy
-hydroid*****awaiting
-identification\*****updated Mar 2020*
-
----
-
-**Where
-seen?** This colourful colony in candy colours of pink and
+## Where seen?
+ This colourful colony in candy colours of pink and
 orange is commonly encountered on our Northern shores, but often overlooked
 as it resembles a plant. It grows on rocks, jetty pillings, ropes and other
 hard surfaces.   

@@ -45,36 +45,9 @@ page_images:
     <p>Mouth on underside.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi2)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata) > Class [Echinodea](../echinoidea) > [sea
-urchins](urchin) > Genera *[Salmacis](salmacis)*
-**Two-toned
-salmacis urchin  
-*Salmacis bicolor*  
-Family Temnopleuridae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This spicy-looking red sea urchin
+## Where seen?
+ This spicy-looking red sea urchin
 was seen once along an East Coast Park shore that has since been affected by coastal works.  
  **Features:** The one we saw had a body diameter 5-8cm, yellowish. Spines (1.5-2cm) longer than the more common White sea urchin, and banded white and red. Spines
 on the upper side are sharp. Spines on the underside have spade-like

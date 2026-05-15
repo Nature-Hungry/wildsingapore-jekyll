@@ -82,36 +82,9 @@ page_images:
     <p>Leucosia craniolaris Pulau Semakau, Mar 08Photo shared by Loh Kok Sheng on  <a href="http://wondercreation.blogspot.com/2008/03/my-first-ojt-at-semakaul">his blog</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Pebble
-crabs**   
-**Family Leucosiidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** These crabs really do resemble tiny pebbles and are
+## Where seen?
+ These crabs really do resemble tiny pebbles and are
 sometimes seen on our Northern shores. Silty, sandy areas near seagrasses.
 They are usually buried under the sand.  
   

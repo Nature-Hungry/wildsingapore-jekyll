@@ -54,36 +54,9 @@ page_images:
     <p>400pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Apogonidae](apogonidae)
-**Orbicular
-cardinalfish**  
-***Sphaeramia orbicularis\****  
-**Family Apogonidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small pretty fish is sometimes
+## Where seen?
+ This small pretty fish is sometimes
 seen on our Southern shores, near living reefs. It's fast-moving so
 it's sometimes difficult to spot. Elsewhere, they are found in shallow
 sheltered waters in mangroves, reefs as well as near man-made structures.  

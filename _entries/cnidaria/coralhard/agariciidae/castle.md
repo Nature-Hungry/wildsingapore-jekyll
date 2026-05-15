@@ -76,37 +76,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469803158&set=a.10159162473618158">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Agariciidae](agariciidae.htm)
-**Castle
-coral** ***Pachyseris
-rugosa\**   
-Family Agariciidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This crumpled-looking coral is rarely seen, usually on
+## Where seen?
+ This crumpled-looking coral is rarely seen, usually on
 our undisturbed Southern shores among living corals. 'Pachys' means
 'thick' while 'seris' means 'lettuce-like'. 'Rugosa' means 'wrinkled'.  
   

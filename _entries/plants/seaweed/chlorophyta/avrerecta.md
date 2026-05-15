@@ -54,37 +54,9 @@ page_images:
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > *[Avrainvillea](avrainvillea)*
-species
-**Solitary
-fan green seaweed  
-*Avrainvillea erecta\**  
-Family Udoteaceae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** These solitary stalked green fans are sometimes seen on some of our
+## Where seen?
+ These solitary stalked green fans are sometimes seen on some of our
 shores, sticking out of the ground here and there. Usually in coral
 rubble areas.  
   

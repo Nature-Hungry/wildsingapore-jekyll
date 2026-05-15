@@ -6,33 +6,6 @@ keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, g
   info,  photo
 layout: entry
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Majoidea](majoidea)
-**Velcro
-crabs on Singapore shores**  
-back to [general
-info on velcro crabs](retusa)
-
----
 
 Filmed at Sisters
 Island, Dec 10  

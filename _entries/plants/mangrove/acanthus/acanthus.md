@@ -57,34 +57,9 @@ page_images:
     <p>Pulau Ubin, Aug 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Jeruju
-or Sea
-holly  
-*Acanthus* sp.  
-Family Acanthaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** These prickly plants with pretty flowers are
+## Where seen?
+  These prickly plants with pretty flowers are
 often seen in thickets in the back mangroves, especially on [mud
 lobster mounds](../../../crustacea/othercrust/lobster/thalassina). These plants have no relation whatsoever with
 the Christmas holly, although they appear similar. In fact, not all

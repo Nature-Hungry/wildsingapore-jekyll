@@ -123,37 +123,9 @@ page_images:
     <p>Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-echinoids
-[text index](../../echinodermindex#echinoidea) |
-[photo index](../../echinoideafi1)
-Phylum
-[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
-> Order
-[Clypeasteroida](sandollar)
-**Thick-edged
-sand dollar  
-*Jacksonaster depressum*Family Laganidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This small sand dollar is sometimes seen on soft silty sand
+## Where seen?
+ This small sand dollar is sometimes seen on soft silty sand
 in sheltered lagoons near reefs. Often only a few individuals are seen. According
 to Lane, this is an uncommon species that was only found in trawl
 hauls in the Southern islands. He also observed some at Pulau Semakau,

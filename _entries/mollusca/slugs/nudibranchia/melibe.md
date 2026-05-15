@@ -64,38 +64,9 @@ page_images:
     <p>Pulau Semakau, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/10681259485/in/album-72157637303861923/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Melibe
-nudibranch  
-*Melibe
-viridis*    
-Family Tethydidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This large nudibranch is sometimes on among seagrasses. It may be
+## Where seen?
+ This large nudibranch is sometimes on among seagrasses. It may be
 seasonal: when seen, many individuals are encountered.  
   
 **Features:** 6-12cm long. Soft body

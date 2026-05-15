@@ -73,32 +73,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liau on <a href="https://www.facebook.com/photo?fbid=10158234249821295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Scorpaenidae](scorpaenidae)
-**Longspined
-waspfish   
-*Paracentropogon longispinis*  
-Family Tetrarogidae***updated Oct 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -109,8 +83,8 @@ one.
 venom is only used for protection from predators and not
 to catch prey.
   
-**Where
-seen?** This little waspfish is commonly seen on many of
+## Where seen?
+ This little waspfish is commonly seen on many of
 our shores, among coral rubble or seagrasses. But it is small and
 well camouflaged and thus often overlooked. Now in Family Tetrarogidae
 (waspfishes), it used to be placed in [Family Scorpaenidae](scorpaenidae) (scorpionfishes).  

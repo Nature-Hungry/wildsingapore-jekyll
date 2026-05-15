@@ -61,36 +61,9 @@ page_images:
     <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Hairy
-coral crab*****Cymo
-andreossyi*** **Family Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This tiny hairy crab with big blue eyes is sometimes
+## Where seen?
+ This tiny hairy crab with big blue eyes is sometimes
 seen on our some of our shores living in branching corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Cauliflower
 corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.).They are small and well-camouflaged.  

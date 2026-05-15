@@ -54,33 +54,9 @@ page_images:
     <p>Chek Jawa, Sep 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Mangrove
-ant-house plant  
-*Dischidia major*  
-Family Apocynaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This odd plant with bulbous leaves is sometimes
+## Where seen?
+  This odd plant with bulbous leaves is sometimes
 seen in our mangroves, growing on trees and shrubs. According to Hsuan
 Keng, it was common on trees all over Singapore especially near the
 sea. According to Corners, the Subfamily Asclepiadoideae has "exceedingly

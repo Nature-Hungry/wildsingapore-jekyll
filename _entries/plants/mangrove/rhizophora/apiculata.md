@@ -53,33 +53,9 @@ page_images:
     <p>Sungei Buloh Wetland Reserve, Mar 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves) > [*Rhizophora*](rhizophora) in general
-**Bakau
-minyak   
-*Rhizophora apiculata*  
-Family Rhizophoraceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This mangrove tree is among the most commonly
+## Where seen?
+  This mangrove tree is among the most commonly
 seen *Rhizophora* in our mangroves. According to Ng, it is gregarious
 on deep soft mud of estuaries flooded by high tides. According to
 Geisen it 'avoids' firmer substrates mixed with sand, and prefers

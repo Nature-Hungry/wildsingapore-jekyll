@@ -99,29 +99,6 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/32210599507/ "Fan shell clams (Family Pinnidae)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Fan
-clams****Family Pinnidae***updated May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -133,8 +110,8 @@ find.
 common, fan shells are now listed among our threatened
 animals.
   
-**Where
-seen?** These thin, fan-shaped clams are commonly seen on
+## Where seen?
+ These thin, fan-shaped clams are commonly seen on
 some of our shores, usually near good seagrass meadows. However, they
 are often overlooked as most of the shell is often buried with only
 about 2-3cm of the shell sticking out of the ground. Their razor-sharp

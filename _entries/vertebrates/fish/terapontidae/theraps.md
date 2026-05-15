@@ -50,37 +50,9 @@ page_images:
     <p>Terumbu Hantu, Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168627794075112/203027995785237">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Terapontidae](terapontidae)
-**Banded
-perch**  
-***Terapon
-theraps*****Family Terapontidae  
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?** Small juveniles are often seen near reefs in schools.
+## Where seen?
+ Small juveniles are often seen near reefs in schools.
  **Features:**  Grows to
 28cm, tiny ones 2-3cm long are sometimes seen in small groups near
 reefs. It has a tail fin striped black and white, a large prominent

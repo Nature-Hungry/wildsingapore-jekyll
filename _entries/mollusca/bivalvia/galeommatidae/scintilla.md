@@ -102,34 +102,9 @@ page_images:
     <p>Pulau Biola, Jan 22Shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158707036021295&set=a.10158707026466295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/galeommatidae/scintilla/060212sisg4803m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm)
-**Scintilla
-clam  
-Family
-Galeommatidae***updated May 2020*
-
----
-
-**Where
-seen?** This tiny clam can move like snails, crawling on a foot holding the shell on its back. It is found under stones, often several together, on many of our shores. **Features:** 1-2cm. Shell
+## Where seen?
+ This tiny clam can move like snails, crawling on a foot holding the shell on its back. It is found under stones, often several together, on many of our shores. **Features:** 1-2cm. Shell
 oval, thin and white. The mantle sometimes covers the entire
 valves. When submerged, little finger-like structures appear
 from the mantle. Some have a wide 'foot' created from fused

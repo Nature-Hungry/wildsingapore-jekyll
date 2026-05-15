@@ -90,37 +90,9 @@ page_images:
     <p>Sisters Islands, May 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/523245950/in/photolist-wdhFSn-yngDTM-ygjwiq-ukuT7j-aoWA6q-yJSJ2g-t8q56f-7yXeE6-62Mg1i-pZ21bf-oJzTCN-nxLYgd-qqqmJC-kfqMdK-o8Qubf-i4JhGW-zbis4W-wm1sxL-8hThmy-CKfweV-cicceJ-94ydb3-94v7Ze-NeLNo-8ezigo-8hD93G-2ErDYy-2EneBP-ckfYfd-ckfYz5-2u9bCi-89VVSM-86J5SN-86rCS7-85Ezgm-9ShSS9-NeLMU-7o69dy-5v6heg-84MEXB-7BqhAV-aoWETq-aoWBc1-BsNgYr-7kG2DQ-7kG1GW-7kC7oV-7kFZ31-7kuYps-7kr3fK/">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Mottled
-swimming crab**   
-***Thalamita* sp.\*  
-Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This well camouflaged swimming crab seen on some
+## Where seen?
+ This well camouflaged swimming crab seen on some
 of our shores on coral rubble and reefs. It is particularly active
 at night.  
   

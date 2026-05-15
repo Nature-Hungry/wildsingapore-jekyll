@@ -35,34 +35,9 @@ page_images:
     <p>Mandai, Mar 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8124830898/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) > [*Elysia*](elysiidae.htm) species
-**Mangrove
-leaf slug**  
-***Elysia bangtawaensis*****Family Plakobranchidae***updated Jun 2020*
-
----
-
-**Where
-seen?** This large leaf-like slug is sometimes seen in large numbers in our
+## Where seen?
+ This large leaf-like slug is sometimes seen in large numbers in our
 mangroves. They are named after Bangtawa in Thailand.  
   
 **Features:** 4-5cm. Body long with

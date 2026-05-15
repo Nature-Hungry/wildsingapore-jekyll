@@ -50,35 +50,9 @@ page_images:
     <p>Changi, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155911534303158&set=a.10155911533538158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Waved mitre
-snails**  
-***Pterygia undulosa*** **Family Mitridae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This bullet-shaped burrowing snail was seen on Changi and Chek Jawa. Initially in some numbers, then dwindling away.  
+## Where seen?
+ This bullet-shaped burrowing snail was seen on Changi and Chek Jawa. Initially in some numbers, then dwindling away.  
   
  **Features:** 2-5cm. Shell thick with fine ridges in a cross-hatched pattern. The
 shell has a dark 'skin' which can peel off. There is notch at the

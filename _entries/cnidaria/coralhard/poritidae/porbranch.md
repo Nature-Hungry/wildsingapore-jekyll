@@ -105,37 +105,9 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Poritidae](poritidae)
-**Branching
-pore coral  
-*Porites* sp.\*  
-Family Poritidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This lumpy hard coral with tiny corallites and polyps
+## Where seen?
+ This lumpy hard coral with tiny corallites and polyps
 is commonly seen on many of our shores.  
   
 **Features:** Colonies 10-20cm, sometimes

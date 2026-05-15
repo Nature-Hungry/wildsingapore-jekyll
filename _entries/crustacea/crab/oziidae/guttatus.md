@@ -76,37 +76,9 @@ page_images:
     <p>Pulau Jong, Apr 11 Photo shared by Marcus Ng on <a href="http://www.facebook.com/photo.php?fbid=10150159607888660&set=a.10150159606398660.292070.624178659&type=1">facebook</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Spotted-belly**  **forceps crab**  
-***Ozius guttatus***  
-**Family Oziidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large shy crab is sometimes seen on our Southern shores near rocky
 shores, sea walls and among coral rubble and near living reefs. It
 is more active at night, but even so, very quick to scuttle back into

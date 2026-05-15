@@ -94,23 +94,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea) > Order
-Apodida > Family [Synaptidae](synaptid)
-**Big
-synaptid sea cucumber  
-*awaiting identification\**  
-Family Synaptidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This long fat synaptid sea cucumber with bobbles is sometimes seen on many of our shores among seagrasses and reefs.
+## Where seen?
+ This long fat synaptid sea cucumber with bobbles is sometimes seen on many of our shores among seagrasses and reefs.
 It is possibly seasonally common with many individuals
 encountered over a wide area during a single trip, then none for some time.   
   

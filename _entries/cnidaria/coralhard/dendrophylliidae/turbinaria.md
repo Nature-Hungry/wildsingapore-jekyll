@@ -62,36 +62,9 @@ page_images:
     <p>Polyps tiny with few short tentacles.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Dendrophyllidae](dendrophyllidae.htm)
-**Disk
-corals  
-*Turbinaria* sp.** **Family Dendrophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** These disk-shaped hard corals are
+## Where seen?
+ These disk-shaped hard corals are
 among the most commonly seen on many of our shores.  
   
 **Features****:** Colonies can be large (20-50cm). A colony can take on a wide variety

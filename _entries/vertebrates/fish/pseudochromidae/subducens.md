@@ -147,33 +147,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407093978713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family Pseudochromidae
-**Carpet
-eel-blenny  
-*Congrogadus subducens***  
-**Family Pseudochromidae***updated
-Sep 2019*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -183,8 +156,8 @@ fish.
 ![](../../../photos/bullet.gif)It
 is well camouflaged. Don't step on it!
   
-**Where
-seen?** This snake-like fish is commonly seen on many of
+## Where seen?
+ This snake-like fish is commonly seen on many of
 our shores, among coral rubble and near seagrasses. Most are well
 camouflaged and are thus often overlooked. Big ones trapped in small
 pools at low tide usually hide deep under coral rubble

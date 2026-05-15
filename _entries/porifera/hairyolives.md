@@ -64,21 +64,8 @@ page_images:
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**'Hairy
-olives' sponge  
-*Stelletta clavosa\**Family Ancorinidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This tiny spherical olive-coloured and olive-shaped sponges with fine
+## Where seen?
+ This tiny spherical olive-coloured and olive-shaped sponges with fine
 filaments are sometimes seen sprinkled on coral rubble or even stuck on
 other sponges. This sponge is highly tolerant of silt and can be found
 on most reefs.  

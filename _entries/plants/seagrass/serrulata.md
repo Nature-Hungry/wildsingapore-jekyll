@@ -55,33 +55,6 @@ page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg
   caption: <p></p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-[Seagrasses](seagrass)
-> Family Cymodoceaceae
-**Serrated
-ribbon seagrass   
-*Cymodocea serrulata*  
-Family Cymodoceaceae***updated
-Sep 2017*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -92,8 +65,8 @@ It doesn't flower frequently, and the flowers are small.
 ![](../../photos/bullet.gif)It
 is eaten by dugongs.
   
-**Where
-seen?**
+## Where seen?
+
 These seagrasses are common on Pulau Semakau, growing among the more
 dominant [Tape seagrass](enhalus) (*Enhalus acoroides*).
 They are also commonly seen on Cyrene Reef.  

@@ -66,31 +66,6 @@ page_images:
     <p><a href="melo.htm">Baler volute</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Volutes**   
- **Family Volutidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -106,7 +81,8 @@ highly prized for their large, glossy, patterned shells, living volutes
 are even more beautiful. Their bodies are boldly marked with colourful
 stripes or spots.  
   
-**Where seen?** The [Noble
+## Where seen?
+  The [Noble
 volute](nobilis.htm) is regularly sighted on some
 of our Northern and Southern shores, especially at night when they
 are more active. The [Baler shell](melo.htm) is also sometimes seen on our Northern shores.  

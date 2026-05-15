@@ -51,22 +51,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Ocher-striped
-flatworm  
-*Pseudoceros rubrotentaculatus***Family
-Pseudocerotidae*****updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small white flatworm with three stripes and red tipped pseudotentacles is sometimes seen on many of our shores,
+## Where seen?
+ This small white flatworm with three stripes and red tipped pseudotentacles is sometimes seen on many of our shores,
 on coral rubble near living reefs.   
   
 **Features:** 2-4cm long. Body creamy-white with a blue margin. It has three non-connecting lines along the centre of the body, each line ocher bordered dark brown or purplish brown. There is

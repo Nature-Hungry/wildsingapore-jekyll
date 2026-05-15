@@ -75,21 +75,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Feather-hitching
-brittle stars**   
-***Ophiomaza cacaotica\** Family Ophiotrichidae***updated
-Apr 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 brittle star lives only in a [feather
 star](../crinoidea/crinoidea) (Class Crinoidea). It has been seen on many different kinds
 of feather stars on our shores.  

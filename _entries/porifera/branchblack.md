@@ -44,21 +44,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Black
-antler sponge *Haliclona* sp.\*  
-Family
-Chalinidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This black sponge that resembles antles is sometimes seen on our Northern
+## Where seen?
+ This black sponge that resembles antles is sometimes seen on our Northern
 shores, growing on hard surfaces, including pipes and abandoned drums
 near the mid-water mark. **Features:** Sparsely
 branching 'stems' (up to 20cm long) that are cylindrical thick (about

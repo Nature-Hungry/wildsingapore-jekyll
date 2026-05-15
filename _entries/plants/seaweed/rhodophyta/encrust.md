@@ -67,36 +67,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Encrusting
-coralline red seaweed****Family
-Corallinaceae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** Thin pink layers of these algae are commonly seen encrusting stones,
+## Where seen?
+ Thin pink layers of these algae are commonly seen encrusting stones,
 coral rubble and other hard surfaces, especially on our Southern shores.  
   
 **Features:** This algae covers hard

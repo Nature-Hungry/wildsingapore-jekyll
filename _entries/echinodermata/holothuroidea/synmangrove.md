@@ -61,22 +61,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea) > Order
-Apodida > Family [Synaptidae](synaptid)
-**Mangrove
-synaptid sea cucumber  
-*awaiting identification\**  
-Family Synaptidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This rather long sea cucumber is sometimes seen burrowing in or on mudflats or muddy areas near mangroves on our Northern shores.  
+## Where seen?
+ This rather long sea cucumber is sometimes seen burrowing in or on mudflats or muddy areas near mangroves on our Northern shores.  
   
 **Features:** About 20-30cm long, long
 thin body without bumps along the body. Feeding

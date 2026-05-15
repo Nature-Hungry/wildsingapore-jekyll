@@ -91,34 +91,6 @@ page_images:
     <p>Spherical, with spikes.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi3.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm)
-**Flowery
-soft corals   
-Family Nephtheidae***updated
-Nov 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -128,8 +100,8 @@ step on them!
 ![](../../photos/bullet.gif)Tiny
 animals may live in the colony. Look for them.
   
-**Where
-seen?** Flowery soft corals are commonly seen on many of
+## Where seen?
+ Flowery soft corals are commonly seen on many of
 our shores. They are usually attached to hard surfaces including boulders,
 jetty pilings and coral rubble.  
   

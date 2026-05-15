@@ -79,23 +79,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Scale
-worms*****awaiting identification*  
-Family Polynoidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** These tiny short bristley worms with scales are sometimes seen under
+## Where seen?
+ These tiny short bristley worms with scales are sometimes seen under
 stones or other hidden places. Many are commensals, living together
 with sea stars, sand dollars, sea urchins, sea cucumbers and sea anemones.
 Thus, they are found in a wide variety of ecosystems but are often

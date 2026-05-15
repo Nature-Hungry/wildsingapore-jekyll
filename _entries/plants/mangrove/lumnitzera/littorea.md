@@ -50,35 +50,9 @@ page_images:
     <p>Pulau Semakau, Dec 12</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-> [*Lumnitzera*](lumnitzera)
-in general
-**Teruntum
-merah   
-*Lumnitzera littorea*  
-Family Combretaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This pretty plant with plasticky leaves and
+## Where seen?
+  This pretty plant with plasticky leaves and
 tiny red flowers is sometimes seen in good mangroves. It is found
 in the back mangroves, in soft, muddy substrates where tidal inundation
 is rare. Also along waterways with a permanent and strong input of

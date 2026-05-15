@@ -50,12 +50,6 @@ page_images:
     <p><a href="eudistoma">Yellow clustered bead ascidians</a> Eudistoma sp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg
 ---
-eggs [text
-index](eggindex)
-**Photo
-index of marine eggs on Singapore shores**
-
----
 
  
 

@@ -44,34 +44,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Anomiidae](anomiidae.htm)
-**Under-a-stone
-jingle clam   
-*awaiting identification*****Family
-Anomiidae***updated May 2020*
-
----
-
-**Where
-seen?** Like shiny coins, this clam is sometimes
+## Where seen?
+ Like shiny coins, this clam is sometimes
 seen under stones on our Northern shores. Sometimes also seen stuck to other hard shelled animals
 like [Window pane shells](../placunidae/placuna.htm) (*Placuna* sp.). Shells
 of dead animals are also often washed ashore.  

@@ -61,36 +61,9 @@ page_images:
     <p>Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942205713158&set=a.10159942212483158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-gorgonian
-[text index](../../cnidariaindex#gorgonacea) | [photo
-index](../../gorgonaceafi)
-
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
-**Asparagus
-sea fan**  
-***Dichotella* cf. *gemmacea\**Family Ellisellidae***updated Dec 2019*
-
----
-
-**Where
-seen?** This sparsely branched brightly coloured sea fan
+## Where seen?
+ This sparsely branched brightly coloured sea fan
 is often seen on Beting Bronok and sometimes at Changi, on rubble
 and rocks.  
   

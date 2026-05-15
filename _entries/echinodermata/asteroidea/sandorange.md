@@ -93,22 +93,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-> Genera [*Astropecten*](astropecten)
-**Orange
-sand star  
-*Astropecten* sp.  
-Family Astropectinidae***updated Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 large sea star with a startling orange underside is sometimes seen
 on sandy shores.  
   

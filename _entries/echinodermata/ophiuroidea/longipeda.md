@@ -150,20 +150,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/longipeda/050623cjg8293m3.jpg
 ---
 
-
-brittle
-stars [text index](../echinodermindex#ophiuroidea)
-| [photo index](../ophuiroideafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
-**Very
-long-armed brittle star**   
-***Macrophiothrix longipeda*** **Family Ophiotrichidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This brittle star indeed has very long flat arms!
+## Where seen?
+ This brittle star indeed has very long flat arms!
 It is often encountered among coral rubble and under stones at
 night on many of our shores. Usually, all that can be seen is a small
 part of its very long arms, while the central disk remains safely

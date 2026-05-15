@@ -45,36 +45,9 @@ page_images:
     <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Goose
-barnacle  
-*Lepas* sp.\*  
-Family Lepadidae***updated Mar 2020*
-
----
-
-**Where
-seen?** Ocassionally,
+## Where seen?
+ Ocassionally,
 you might come across this stalked barnacle growing on objects that
 used to float in the open sea, such as large logs washed ashore. Goose
 barnacles usually die once they are stranded on the beach.  

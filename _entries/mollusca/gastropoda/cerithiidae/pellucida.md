@@ -33,38 +33,9 @@ page_images:
     <p>Chek Jawa, Dec 2016Photo shared by Ivan Kwan on <a href="https://www.facebook.com/photo.php?fbid=10154149205526179&set=a.10154149196226179.1073741851.602806178&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Cerithiidae](cerithiidae.htm)
-**Mangrove
-creeper snail  
-*Clypeomorus
-pellucida*  
-Family Cerithiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This rather gnarled creeper snail is sometimes seen near and on mangrove
+## Where seen?
+ This rather gnarled creeper snail is sometimes seen near and on mangrove
 tree roots or stuck to logs near the low water mark.  
   
 **Features:**About 2-3cm long.

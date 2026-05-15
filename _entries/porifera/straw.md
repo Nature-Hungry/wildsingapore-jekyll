@@ -43,21 +43,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Straw
-sponge  
-*awaiting identification\*****updated
-Sep 2019*
-
----
-
-**Where
-seen?** These tiny white straws are sometimes seen on our shores on coral
+## Where seen?
+ These tiny white straws are sometimes seen on our shores on coral
 rubble. **Features:** Clusters
 of short delicate white or transparent straws 1-2cm tall.  
   

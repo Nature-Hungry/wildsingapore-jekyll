@@ -89,22 +89,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Silvery blue
-sponge  
-*Lamellodysidea herbacea*\*  
-Family Dysideidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This pale blue prickly sponge is commonly seen on our Southern shores,
+## Where seen?
+ This pale blue prickly sponge is commonly seen on our Southern shores,
 growing over coral rubble. **Features:** Small, covering an area of 10-15cm. The sponge
 can take various forms; flat spatula-like fingers, lettuce-like 'leaves',
 spindly branches, short thicker lobes, all emerging from an encrusting

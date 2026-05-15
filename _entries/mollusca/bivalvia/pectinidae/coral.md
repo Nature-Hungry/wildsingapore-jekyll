@@ -58,36 +58,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749232887/in/album-72157626616274147/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Pectinidae](pectinidae.htm)
-**Coral
-scallop  
-*Pedum spondyloideum\****  
-**Family
-Pectinidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This little clam is often seen embedded in living hard corals
+## Where seen?
+ This little clam is often seen embedded in living hard corals
 on many of our Southern shores. Sometimes, one coral colony can host many of these tiny clams. It is also called the Iridescent clam, probably because of its sometimes colourful and iridescent mantle?  
   
 **Features:** Diameter 1-1.5cm. A

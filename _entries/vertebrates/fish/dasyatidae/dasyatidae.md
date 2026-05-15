@@ -73,31 +73,6 @@ page_images:
     <p>Whitespotted whipray (Himantura gerrardi) Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159943829888158&set=a.10159943838013158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Rajiformes](rajiformes)
-**Stingrays  
-Family Dasyatidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -108,8 +83,8 @@ of bones.
 will not sting unless you handle them or step on them.
 Watch your step!
   
-**Where
-seen?** Like
+## Where seen?
+ Like
 strange 'flying' saucers with bulbous eyes and long whip-like tails,
 these fishes are often seen in our mangroves and coral reefs. They
 can sting painfully! These fishes often hide in silty bottoms and

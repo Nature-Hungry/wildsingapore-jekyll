@@ -49,37 +49,9 @@ page_images:
     <p>Pulau Ubin, Oct 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/12/highlights-of-trips-with-northern.html">his blog</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Burgundy
-anemone**  
-***Bunodosoma goanense*** **Family Actiniidae***updated Jul 2924*
-
----
-
-**Where
-seen?** This large, fat, dark red anemone has its stronghold at Punggol. Here, many are seen attached to the large smooth boulders
+## Where seen?
+ This large, fat, dark red anemone has its stronghold at Punggol. Here, many are seen attached to the large smooth boulders
 below the low water mark. The anemones are usually well
 spaced apart from one another. We have seen only one pair nestled
 next to one another. Single specimens have been seen on some other Northern shores. It was previously only known from India and possibly from Bangladesh.  

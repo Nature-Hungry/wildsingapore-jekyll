@@ -74,35 +74,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160482043922906&set=a.10160482033187906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Codium
-green seaweed *Codium* sp.\*** **Family Codiaceae  
-*updated
-Feb 2020***
-
----
-
-**Where
-seen?** This spongy, velvety green seaweed is sometimes seen on our Southern
+## Where seen?
+ This spongy, velvety green seaweed is sometimes seen on our Southern
 shores. Branching forms sometimes blooms among seagrasses
 near reefs, e.g., at Pulau Semakau.  
   

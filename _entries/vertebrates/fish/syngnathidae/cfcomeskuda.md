@@ -27,32 +27,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../../fishindex) | [photo index](../../fishfi)
-[fishes](../fish)
-Family [Syngnathidae](syngnathidae) > Genus [Hippocampus](hippocampus)
-**Tiger-tailed
-and estuarine seahorses  
-How
-to tell them apart?***updated
-Oct 2020*
-
----
 
 It is hard to
 tell apart these two kinds of seahorses. According to the Singapore

@@ -74,36 +74,9 @@ page_images:
     <p>Terumbu Hantu, Jul 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157514111363713&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) >
-Family [Elysiidae](elysiidae.htm)
-**Emerald
-slug**  
-***Stiliger smaragdinus* Family Limapontidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This tiny slug is sometimes seen on [Caulerpa
+## Where seen?
+ This tiny slug is sometimes seen on [Caulerpa
 green seaweed](../../../plants/seaweed/chlorophyta/caulerpa.htm) (*Caulerpa* sp.).   
   
 **Features:** A tiny

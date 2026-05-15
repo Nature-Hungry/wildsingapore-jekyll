@@ -73,38 +73,9 @@ page_images:
     <p>Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10156654571338713.1073742153.619308712&type=3">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Parthenopidae](parthenopidae)
-**Domed
-elbow crab**  
-***Cryptopodia
-fornicata*  
-Family Parthenopidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This strange crab is sometimes seen on our northern shores.  
+## Where seen?
+ This strange crab is sometimes seen on our northern shores.  
   
 **Features:** Body width about 6cm.
 A domed body covers the spindly walking legs. Eyes tiny and close

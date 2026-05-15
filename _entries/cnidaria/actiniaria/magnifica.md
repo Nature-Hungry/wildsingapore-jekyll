@@ -160,35 +160,6 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700484513158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Magnificent
-anemone**  
-***Heteractis magnifica***  
-**Family Stichodactylidae***updated July 2024*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -198,8 +169,8 @@ learn only 3 things about them ...
 poke the anemone to try to make fishes or shrimps come out.
 They will instead hide deeper in the anemone.
   
-**Where
-seen?** This stunning, large anemone is well named. It is
+## Where seen?
+ This stunning, large anemone is well named. It is
 seen on our Southern shores, attached to large boulders of dead coral or other solid objects. It is rarely buried in sand or sediments. Several
 of these anemones may be found next to one another. The
 anemone was previously known as *Radianthus ritteri*.  

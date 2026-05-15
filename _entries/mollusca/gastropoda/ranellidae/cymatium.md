@@ -42,36 +42,9 @@ page_images:
     <p>Chek Jawa, Jun 09Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/3716580487/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ranellidae](ranellidae.htm)
-**Leopard
-triton snail*****Cymatium* sp.*\**   
-Family Ranellidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This snail with a leopard spotted body is sometimes
+## Where seen?
+ This snail with a leopard spotted body is sometimes
 seen among seagrasses on some of our shores. **Features:** 3-4cm. Shell thick, oval with curvy pointed tip.
 Shell covered with a hairy 'skin' that covers the fine rings on the shell.
 Shell opening wide with a scalloped inner edge. It has a short siphonal

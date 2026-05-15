@@ -113,21 +113,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea) > Genus [*Luidia*](luidia)
-**Eight-armed
-Luidia sea star  
-*Luidia maculata*  
-Family Luidiidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 elegant large sea star has its stronghold on our Northern shores. Usually seen
 on soft, silty shores, near seagrass meadows and coral rubble. Usually alone, although sometimes, large numbers can be seen gathered together. It moves rapidly and
 is usually more active at night. It appears to be seasonal. Sometimes seen in large numbers and then none seen for some time. According to Marsh and Fromont, it is moderately common on sand or mud in Australia.  

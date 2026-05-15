@@ -145,38 +145,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Red
-swimming crab**  
-***Thalamita
-spinimana***   
-**Family Portunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This bright red swimming crab is commonly seen on
+## Where seen?
+ This bright red swimming crab is commonly seen on
 many of our shores, especially near reefs and coral rubble. It is
 particularly active at night. It can be quite fierce and give a good
 pinch to inquisitive fingers. Don't handle crabs!  

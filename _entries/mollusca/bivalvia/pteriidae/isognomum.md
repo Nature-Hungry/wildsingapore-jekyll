@@ -44,34 +44,9 @@ page_images:
     <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641287967945&set=a.10158641345557945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Pteriidae](pteriidae.htm)
-**Elongated toothed oyster  
-*Isognomon isognomum*Family
-Pteriidae***updated
-May 2020*
-
----
-
-**Where
-seen?** Like tongue depressors, these narrow long clams are
+## Where seen?
+ Like tongue depressors, these narrow long clams are
 sometimes seen stuck upright to rocks and coral rubble near reefs. **Features:** 10-15cm.
 The two-part shell is thick, flat and usually long and narrow, sometimes
 with a T-shape near the bottom where it is stuck to a hard surface

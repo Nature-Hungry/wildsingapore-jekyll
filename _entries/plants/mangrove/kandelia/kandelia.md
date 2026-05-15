@@ -41,32 +41,9 @@ page_images:
     <p>Pasir Ris, May 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Pisang-pisang  
-*Kandelia candel*  
-Family Rhizophoraceae***updated
-Jan 2013*
-
----
-
-**Where seen?** According to Ng, in Singapore, there is only
+## Where seen?
+  According to Ng, in Singapore, there is only
 one treelet found at Sungei Tampines. Occupies a narrow niche in the
 mangrove forest; occuring in the back mangrove communities or on the
 banks of tidal rivers farther inland. According to Hsuan Keng, it

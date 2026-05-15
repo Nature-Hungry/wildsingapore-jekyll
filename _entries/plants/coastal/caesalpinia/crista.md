@@ -56,35 +56,9 @@ page_images:
     <p>Pulau Ubin, Nov 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-**Kuku
-tupai   
-*Caesalpinia crista*  
-Family Fabacea***updated
-Jan 2013*
-
----
-
-**Where seen?** This prickly climber is sometimes seen growing
+## Where seen?
+  This prickly climber is sometimes seen growing
 wild along the seashore and back mangroves. 'Kuku tupai' means 'squirrel's
 claws' in Malay and aptly describes an encounter with this climber.
 The small but sharp thorns on the long, strong stems often catch on

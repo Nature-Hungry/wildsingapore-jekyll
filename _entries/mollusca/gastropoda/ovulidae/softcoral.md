@@ -104,37 +104,9 @@ page_images:
     <p>Cyrene, Apr 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161287790993158&set=a.10161287797883158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Ovulidae](ovulidae.htm)
-**Soft
-coral false cowrie**  
-***awaiting identification\**  
-Family Ovulidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** These snails are sometimes seen in pairs on [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.htm) on many of our shores. They closely resemble the clumps of polyps of the soft corals that they eat. Often a pair is seen in one colony of soft corals.  
+## Where seen?
+ These snails are sometimes seen in pairs on [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.htm) on many of our shores. They closely resemble the clumps of polyps of the soft corals that they eat. Often a pair is seen in one colony of soft corals.  
   
 **Features:** 1.5-2cm. Shell oval,
 white smooth. Some have a fine orange line along the edge, others

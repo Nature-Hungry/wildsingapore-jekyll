@@ -81,31 +81,6 @@ page_images:
     <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171956496/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm)
-**Cephalapod
-eggs**  
-*updated May 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -117,8 +92,8 @@ your step.
 don't bring egg capsules home. Thousands of baby animals
 may die.
   
-**Where
-seen?** These egg capsules are seen on many of our shores
+## Where seen?
+ These egg capsules are seen on many of our shores
 and can be seasonally common. These capsules were probably produced
 by [cephalopods](../cephalopoda.htm) which includes [octopuses](octopus.htm), [squids and cuttlefish](squid.htm).  
   

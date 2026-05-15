@@ -26,37 +26,9 @@ page_images:
     <p><a href="avrcluster">Clustered fan green seaweed</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Fan
-green seaweeds  
-*Avrainvillea* sp.*\**** **Family Udoteaceae  
-*updated
-Jan 12***
-
----
-
-**Where
-seen?**
 These large paddle-shaped velvety green seaweeds are sometimes seen
 on some of our shores. Solitary ones might be seen sticking out of
 the ground here and there in coral rubble areas. Others may form clusters.  

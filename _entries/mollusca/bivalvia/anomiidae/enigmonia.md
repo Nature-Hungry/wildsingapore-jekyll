@@ -35,34 +35,9 @@ page_images:
     <p>Seletar, Jun 02</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Anomiidae](anomiidae.htm)
-**Mangrove
-jingle clam  
-*Enigmonia aenigmatica*Family Anomiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** Like shiny scales, this animal is commonly seen in
+## Where seen?
+ Like shiny scales, this animal is commonly seen in
 groups of a few individuals on leaves, trunks and roots of mangrove
 trees. It usually settles at a height between the high spring and
 high neap tide.  

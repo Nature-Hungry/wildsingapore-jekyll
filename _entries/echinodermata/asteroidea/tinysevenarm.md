@@ -96,22 +96,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Tiny
-seven-armed coral star  
-*Aquilonastra anomala*  
-Family Asterinidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.  
   
 **Features:** Diameter about 2cm. Usually 7 arms, short, often unequal in length. Upperside mottled colours. Underside white without any markings.

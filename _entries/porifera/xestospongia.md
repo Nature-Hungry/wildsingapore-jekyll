@@ -79,21 +79,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Barrel
-sponge  
-*Xestospongia testudinaria*\*  
-Family Petrosiidae***updated Sep 2019*
-
----
-
-**Where
-seen?** This maroon barrel-shaped sponge is sometimes seen on many of our
+## Where seen?
+ This maroon barrel-shaped sponge is sometimes seen on many of our
 shores, near and in reefs. **Features:** Large ones
 have a deep cavity in the centre so they are generally vase- or barrel-shaped.
 The inside of the cavity has an uneven and rough texture. The outside

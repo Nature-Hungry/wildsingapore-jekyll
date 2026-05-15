@@ -36,35 +36,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-jellyfish [text
-index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
-Phylum [Cnidaria](../../cnidaria)
-> various classes | [jellyfish](jellyfish)
-**Mangrove
-jellyfish  
-*Acromitus* sp.  
-Family Catosylidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This energetic little jellyfish is sometimes seen in large numbers near mangrove,
+## Where seen?
+ This energetic little jellyfish is sometimes seen in large numbers near mangrove,
 e.g., at the mouth of mangrove streams, and in estuarine seagrass
 meadows on our Northern shores.  
   

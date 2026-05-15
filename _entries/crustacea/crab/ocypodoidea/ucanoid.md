@@ -45,36 +45,6 @@ page_images:
     <p>Chek Jawa, Jan 11</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crustaceans [text
-index](../../crustaceaindex) | [photo index](../../crustaceafi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-> Genus [Uca](uca)
-**Unidentified
-fiddler crabs**  
-***awaiting identification\******Family Ocypodidae***updated
-Mar 11*
-
----
 
 **Unidentified
 fiddler crab #110327cjd7977**  

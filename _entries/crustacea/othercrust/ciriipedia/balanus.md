@@ -67,37 +67,9 @@ page_images:
     <p>East Coast Park, Jul 16 on a sea fan.Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Acorn
-barnacle  
-*Balanus* sp.\*  
-Family Balanidae  
-*updated Mar 2020***
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small rather pointy barnacle is commonly seen on many of our rocky
 shores and other hard surfaces in the sea such as jetty pilings, sea
 walls. Usually, many are crowded together in lower portions and shaded

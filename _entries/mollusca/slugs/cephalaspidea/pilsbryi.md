@@ -59,37 +59,9 @@ page_images:
     <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519781387/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm) > Family [Aglajidae](aglajidae.htm)
-**Batik
-tailed-slug**   
- ***Philinopsis* cf. *pilsbryi*  
-Family Aglajidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small batik-patterned slug is sometimes seen
+## Where seen?
+ This small batik-patterned slug is sometimes seen
 on some of our shores, burrowing among seagrasses and near living
 reefs.  
   

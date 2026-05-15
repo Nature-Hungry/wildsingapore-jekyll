@@ -46,38 +46,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm) >
-Family [Phyllidiidae](phyllidiidae.htm)
-**Eyed
-phyllid nudibranch**  
- ***Phyllidia
-ocellata*Family Phyllidiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This stunning nudibranch with 'eyes' on its back
+## Where seen?
+ This stunning nudibranch with 'eyes' on its back
 is sometimes seen, on our Southern shores, on coral rubble and
 reefs.  
   

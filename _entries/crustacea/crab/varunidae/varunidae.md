@@ -33,37 +33,9 @@ page_images:
     <p><a href="varuna">Paddler crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Varunid
-crabs**   
-**Family
-Varunidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** These crabs are seen near mangroves
+## Where seen?
+ These crabs are seen near mangroves
 and freshwater streams.  
   
 **Features:** Small crabs that are

@@ -79,35 +79,6 @@ page_images:
     <p><a href="uca">Other unidentified fiddler crabs</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Stalk-eyed
-crabs**   
-**Superfamily Ocypodoidea***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -118,8 +89,8 @@ crabs, soldier crabs, sand bubblers and ghost crabs.
 on them!  
 ![](../../../photos/bullet.gif) They are very shy. To see them, wait quietly without moving.
   
-**Where
-seen?** Crabs belonging to this family include some of the
+## Where seen?
+ Crabs belonging to this family include some of the
 most commonly encountered on our shores during the day: [fiddler
 crabs](uca) (*Uca* sp.), [sand bubbler crabs](scopimera) (*Scopimera* and *Dotilla* spp.) and [soldier crabs](dotilla) (*Dotilla myctiroides*). Others like the [ghost
 crabs](ceratophthalmus) (*Ocypode* sp.) are only active at night.  

@@ -48,33 +48,9 @@ page_images:
     <p>Tail not colourful.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Flatheads**  
-**Family Platycephalidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** Like a cross between a crocodile and a fish, flatheads
+## Where seen?
+ Like a cross between a crocodile and a fish, flatheads
 are often encountered on our shores. In coral rubble areas as well
 as sandy areas and seagrass meadows. Although large, flatheads are
 usually overlooked as they blend in with their surroundings and are

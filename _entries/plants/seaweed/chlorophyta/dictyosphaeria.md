@@ -43,36 +43,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Pimply
-green seaweed  
-*Dictyosphaeria* sp.\*  
-Family Siphonocladaceae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**
 This seaweeed with a pimply or bubbly texture is sometimes seen on some
 of our Southern shores, growing on coral rubble. It forms small scattered
 patches among other encrusting organisms.  

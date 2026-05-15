@@ -47,35 +47,9 @@ page_images:
     <p>Changi Carpark 1, Nov 25 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
-**Bean-shaped
-venus clams  
-*Awaiting identification*  
-Family Veneridae***updated
-May 2020*
-
----
-
-**Where
-seen?** This pretty clam that with striking lines patterns
+## Where seen?
+ This pretty clam that with striking lines patterns
 is sometimes seen on our Northern shores, on sandy areas near seagrasses.  
   
 **Features:** 3-4cm. Shell thick,

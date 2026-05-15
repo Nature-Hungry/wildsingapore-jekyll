@@ -68,36 +68,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta) > [Crunchy
-pom-pom red seaweeds](pompom)
-**Thick
-crunchy pom-pom red seaweed****Family Galaxauraceae   
-*updated
-Oct 2016***
-
----
-
-**Where
-seen?** These pinkish crunchy pom-poms are often seen on our Southern shores,
+## Where seen?
+ These pinkish crunchy pom-poms are often seen on our Southern shores,
 growing among living corals, or on rubble near living reefs. Usually
 seen alone, not forming carpets or covering large areas.  
   

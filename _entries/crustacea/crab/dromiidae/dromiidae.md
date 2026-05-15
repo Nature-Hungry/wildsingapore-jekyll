@@ -92,33 +92,6 @@ page_images:
     <p>Beting Bemban Besar, Aug 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155823573666295&set=a.10155823572731295&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans
-**Sponge
-crab**  
-**Family Dromiidae***updated
-Feb 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -127,8 +100,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 tend to move slowly.
 
-**Where
-seen?** This intriguing crab is seen on our Northern
+## Where seen?
+ This intriguing crab is seen on our Northern
 shores, in coral rubble and seagrasses areas. Those seen often 'carry'
 ascidians and not sponges.
 

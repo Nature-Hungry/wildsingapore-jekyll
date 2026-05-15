@@ -50,22 +50,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Rainbow
-sponge  
-*Suberites* sp.*\**Family
-Suberitidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This smooth sponge that comes in various colours is sometimes common
+## Where seen?
+ This smooth sponge that comes in various colours is sometimes common
 on our rocky Northern shores. **Features:** A thin layer
 encrusting hard surface covering 10-20cm. Sometimes with with irregular
 knobs, folds and lobes/fingers. Holes not obvious when the sponge is out of

@@ -161,32 +161,6 @@ page_images:
     <p><a href="sinum.htm">Naked moon snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Moon
-snails**   
- **Family Naticidae***updated
-Aug 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -198,8 +172,8 @@ are fierce predators that hunt other snails and clams.
 ![](../../../photos/bullet.gif) The body of a moon snail can inflate to many times the
 size of its shell.
   
-**Where
-seen?** With spherical or oval shells and a huge body, these fierce burrowing snails are commonly seen on our sandy shores.
+## Where seen?
+ With spherical or oval shells and a huge body, these fierce burrowing snails are commonly seen on our sandy shores.
 These snails are more commonly seen above ground at night. But a keen
 observer may still detect their presence by the distinctive trails
 these snails leave on the surface as they quietly burrow just beneath

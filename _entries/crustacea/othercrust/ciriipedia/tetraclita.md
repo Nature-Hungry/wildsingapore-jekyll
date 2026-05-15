@@ -60,37 +60,9 @@ page_images:
     <p>Changi West, Sep 20</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Volcano
-barnacle  
-*Tetraclita* sp.\*  
-Family Balanidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 large smooth barnacles are sometimes seen on our rocky shores, on
 large boulders where there is more water movement and where they are
 shaded from the sun at low tide.  

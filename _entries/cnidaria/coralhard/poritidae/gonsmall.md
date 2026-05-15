@@ -92,36 +92,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Poritidae](poritidae) > Genus [*Goniopora*](goniopora)
-**Small
-goniopora coral  
-*Goniopora* sp.\*  
-Family Poritidae***updated Nov 2019*
-
----
-
-**Where
-seen?** This small hard coral with tiny polyps are often
+## Where seen?
+ This small hard coral with tiny polyps are often
 seen on many of of our shores, including some Northern shores. More
 commonly seen on our Southern shores.  
   

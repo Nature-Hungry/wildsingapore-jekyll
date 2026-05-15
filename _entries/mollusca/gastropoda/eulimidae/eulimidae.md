@@ -56,36 +56,9 @@ page_images:
     <p>Cyrene, May 17On <a href="../../../echinodermata/echinoidea/urchin/sphaeroides.htm">White Salmacis urchin</a>.Photo shared on Singapore Biodiversity Records.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Ulimid
-snails   
-Family
-Eulimidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucumbers and sea
+## Where seen?
+ These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucumbers and sea
 urchins.  
   
 **Features:** 0.1-0.5cm. Long

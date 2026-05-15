@@ -50,35 +50,9 @@ page_images:
     <p>Cyrene, Aug 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Tun
-shell snails**  
- **Family Tonnidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This snail with a large, thin spherical shell is
+## Where seen?
+ This snail with a large, thin spherical shell is
 rarely seen. They are usually found in sandy bottoms in deeper water
 and thus living snails are rarely seen on the intertidal. Elsewhere,
 they are found in sandy areas especially in seagrass meadows.  

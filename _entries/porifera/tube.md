@@ -50,22 +50,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Tubular
-sponge  
-*Haliclona* sp.\*  
-Family
-Chalinidae***updated Oct 2016*
-
----
-
-**Where
-seen?** This tubular sponge is commonly seen on our undisturbed Northern shores,
+## Where seen?
+ This tubular sponge is commonly seen on our undisturbed Northern shores,
 growing on coral rubble. Also sometimes seen on undisturbed Southern shores. **Features:** The entire
 sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm
 tall about 1-2cm wide). In some, the tubes may have short spikes on

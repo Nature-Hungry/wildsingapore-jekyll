@@ -39,25 +39,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Straw
-tubeworm  
-*awaiting
-identification*\*  
-Family Chaetopteridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?**  This worm is commonly seen on sand bars at the low water mark. The
+## Where seen?
+  This worm is commonly seen on sand bars at the low water mark. The
 tubes resemble drinking straws.   
   
 **Features:** The tubes are medium, about 0.5cm in diameter, similar in dimension

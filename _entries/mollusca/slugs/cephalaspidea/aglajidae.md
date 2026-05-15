@@ -48,37 +48,9 @@ page_images:
     <p>Chelidonura pallida Pulau Semakau, Nov 07</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm)
-**Tailed-slugs  
-Family Aglajidae***updated
-May 2020*
-
----
-
-**Where
-seen?** These slugs are sometimes seen on some of our shores. They appear to be highly seasonal. Many kinds we see only once and never again.  
+## Where seen?
+ These slugs are sometimes seen on some of our shores. They appear to be highly seasonal. Many kinds we see only once and never again.  
   
 **Features:** Long, cylindrical body with a pair
 of 'wings' (called parapodia) which fold over the centre of the body

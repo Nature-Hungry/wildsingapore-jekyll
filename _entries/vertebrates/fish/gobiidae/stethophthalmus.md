@@ -97,35 +97,9 @@ page_images:
     <p>Terumbu Raya, Mar 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3398625984/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Head-stripe
-lagoon-goby**  
-***Amblygobius stethophthalmus***  
-**Family Gobiidae***updated Sep 2020*
-
----
-
-**Where
-seen?** These colourfully, rather large gobies are often seen on our shores
+## Where seen?
+ These colourfully, rather large gobies are often seen on our shores
 with coral rubble and reefs. Sometimes seen in pairs. On good reefs,
 they can be found in large numbers especially at night. Elsewhere
 found in estuaries and lagoons, on shallow sand-rubble. It makes its burrow under solid objects and is usually found hovering

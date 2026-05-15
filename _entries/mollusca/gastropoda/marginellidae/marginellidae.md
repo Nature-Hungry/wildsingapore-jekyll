@@ -34,34 +34,9 @@ page_images:
     <p>East Coast (PCN), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10159487129613713&set=a.10159487267278713&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Margin snails**  
-*****Cryptospira* sp.**  
-Family Marginellidae***updated
-Dec 2025*
-
----
-
-**Where seen?** Seen twice on sandy shores at Changi East and East Coast.  
+## Where seen?
+  Seen twice on sandy shores at Changi East and East Coast.  
   
 **Features:** About 2cm.
 Smooth tear-drop shaped smooth shell. The open has 'plaits' near the tip. The living animal has a large foot with mottled markings, a long siphon and eyes on stalks.

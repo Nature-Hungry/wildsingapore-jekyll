@@ -30,24 +30,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Sapphire
-flatworm  
-*Pseudoceros caeruleocinctus*****Family
-Pseudocerotidae***updated Feb 2020*
-
----
-
-**Where
-seen?** This beautiful worm is rarely seen.   
+## Where seen?
+ This beautiful worm is rarely seen.   
   
 **Features:** About 4cm long. Body
 black to reddish brown, margin bright blue, the outer margin comprising black with a very fine white outermost margin. Underside uniformly black with a fine white

@@ -82,37 +82,9 @@ page_images:
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352607687/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#notaspidea) | [photo index](../../slugfi5.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Notaspidea](notaspidea.htm)
-**Forskal's
-sidegill slug**  
-***Pleurobranchus forskalii*   
-Family Pleurobranchidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This humungous slug
+## Where seen?
+ This humungous slug
 is sometimes seen, near reefs and seagrass areas. Sometimes seen buried
 just beneath the sand. On Cyrene, large numbers have been seen at
 some times of the year. According to Dr Bill Rudman, it is often found

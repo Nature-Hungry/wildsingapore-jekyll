@@ -29,31 +29,9 @@ page_images:
     <p><a href="pictum.htm">Painted sweetlips</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Sweetlips** **Family Haemulidae***updated
-Sep 2020*
-
----
-
- **Where seen?** These
+ ## Where seen?
+  These
 thick-lipped fishes are sometimes seen on some of our shores. They
 usually hide during the day and are more active at night.  
   

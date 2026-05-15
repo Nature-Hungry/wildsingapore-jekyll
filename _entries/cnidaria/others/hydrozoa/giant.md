@@ -38,34 +38,9 @@ page_images:
     <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437642997945&set=a.10158431262127945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Giant
-hydroid*****awaiting
-identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** This enormously long feathery colony is sometimes
+## Where seen?
+ This enormously long feathery colony is sometimes
 seen washed up on the shore. It grows in deeper water and is more
 commonly encountered by divers.  
   

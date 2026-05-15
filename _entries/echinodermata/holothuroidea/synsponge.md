@@ -80,22 +80,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg
 ---
 
-
-sea
-cucumbers [text index](../echinodermindex#holothuroidea)
-| [photo index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class [Holothuroidea](holothuroidea) > Order
-Apodida > Family [Synaptidae](synaptid)
-**Sponge
-synaptid sea cucumber  
-*awaiting identification\**  
-Family Synaptidae***updated Apr 2020*
-
----
-
-**Where
-seen?** This small synaptid sea cucumber is commonly seen
+## Where seen?
+ This small synaptid sea cucumber is commonly seen
 in groups on all kinds of sponges on many of our Northern shores.  
   
 **Features:** 5-8cm long, can stretch out 15cm. Body cylindrical, thin skinned. Some are smooth, others with bumps in four rows along the body. Colours uniformly white, pink, purple (ranging from lilac to mauve

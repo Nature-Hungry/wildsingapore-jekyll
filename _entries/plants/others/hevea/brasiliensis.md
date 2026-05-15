@@ -79,36 +79,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Rubber
-tree   
-*Hevea brasiliensis***  
-**Family Euphorbiaceae*****updated
-Oct 09*
-
----
-
-**Where seen?** Rubber trees are commonly seen in many of our
+## Where seen?
+  Rubber trees are commonly seen in many of our
 wild places. These are often abandoned rubber plantations, although
 some may have grown wild from dispersed seeds. You can tell they are
 rubber trees as they are often the same size and planted in rows,

@@ -55,36 +55,9 @@ page_images:
     <p>314pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Architectonicidae](architectonicidae.htm)
-**Patridge
-sundial snail  
-*Architectonica perdix*** **Family
-Architectonicidae***updated
-Sep 2020*
-
----
-
- **Where seen?** Sometimes seen on sandy areas near seagrasses on some of our shores.  
+ ## Where seen?
+  Sometimes seen on sandy areas near seagrasses on some of our shores.  
   
 **Features:** 6-8cm in diameter. Shell thick and coils to fom a disc with a
 flat base. Shell pattern of spirals of brown bars on a paler background. Body and fat tentacles are plain (not striped). Operculum thin, flat and made

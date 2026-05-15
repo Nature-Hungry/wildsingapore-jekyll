@@ -71,38 +71,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Euphylliidae](euphylliidae.htm) > [*Euphyllia*
-sp.](euphyllia.htm)
-**Torch
-anchor coral** ***Euphyllia
-glabrescens\**  
-Family Euphylliidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This small hard coral that resembles a cluster of sea anemones
+## Where seen?
+ This small hard coral that resembles a cluster of sea anemones
 is sometimes seen on our undisturbed Southern shores.  
   
 **Features:** The colony appears to

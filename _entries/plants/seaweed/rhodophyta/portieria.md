@@ -46,38 +46,9 @@ page_images:
     <p>Tips are curled.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+## Where seen?
 
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red
-seaweeds [text index](../seaweedindex#rhodophyta)
-| [photo index](../seaweedfi)
-
-[Seaweeds](../seaweed)
-> Division [Rhodophyta](rhodophyta)
-**Curled-tip
-red seaweed   
-*Portieria hornemannii\**  
-Family Rhizophyllidaceae  
-*updated
-Jan 13***
-
----
-
-**Where
-seen?**
 This seaweed with fans of fine branches with curled tips is sometimes seen on our southern
 shores on coral rubble. Elsewhere, it is said to prefer clear water,
 where it is common and a conspicuous element of tropical reef flats.  

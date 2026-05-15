@@ -52,34 +52,6 @@ page_images:
     <p></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-red seaweeds [text index](../seaweedindex#rhodophyta) | [photo
-index](../seaweedfi)
-
-[seaweeds](../seaweed) in general
-**Red
-seaweed   
-Division Rhodophyta  
-*updated
-Dec 11***
-
----
 
 if
 you learn only 3 things about them ...  
@@ -92,8 +64,8 @@ The seaweed used in sushi is a red seaweed!
 of red seaweed are used in our everyday processed food
 and products.
   
-**Where
-seen?** Red seaweeds are found on all our shores. Some are
+## Where seen?
+ Red seaweeds are found on all our shores. Some are
 huge red sheets often mistaken for plastic bags, others are fine feathery
 pink tufts. Yet others are bunches of long skinny filaments or juicy
 fat stems; or crunchy pink branches that form balls.   

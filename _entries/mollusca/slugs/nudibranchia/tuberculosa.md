@@ -80,38 +80,9 @@ page_images:
     <p>Pulau Hantu, Jan 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2928268429/in/album-72157607719695102/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Cauliflower
-nudibranch  
-*Dendrodoris
-tuberculosa*    
-Family Dendrodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This very large nudibranch with whorls of bumps on the upper side
+## Where seen?
+ This very large nudibranch with whorls of bumps on the upper side
 and a spotted underside is sometimes seen on some of our Southern
 shores, near reefs and seagrasses. It may be seasonal: when seen,
 often many individuals are spotted during the same trip.  

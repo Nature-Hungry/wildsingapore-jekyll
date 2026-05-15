@@ -33,27 +33,14 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia
-**Estuarine
-crocodile   
-*Crocodylus porosus*  
-Family Crocodylidae***updated
-Apr 2018*
-
----
-
 if you
 learn only 3 things about them ...  
 ![](../../../photos/bullet.gif)Only healthy mangroves can support these magnificent top predators!  
 ![](../../../photos/bullet.gif)When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite.  
 ![](../../../photos/bullet.gif)Crocodiles don't eat people.
 
-**Where
-seen?** This awesome reptile is often seen at Sungei
+## Where seen?
+ This awesome reptile is often seen at Sungei
 Buloh Wetland Reserve.
 According to Davison, it has been recorded in our estuaries and reservoirs
 including the Singapore River, Kallang River, Sungei Seletar and Kranji

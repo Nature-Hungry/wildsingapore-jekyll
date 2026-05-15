@@ -40,20 +40,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-[worms](../worm)
-> Phylum [Nemertea](nemertea)
-**Short
-ribbon worm*****awaiting identification\*****updated
-Jan 2020*
-
----
-
-**Where
-seen?** Rather short ribbon worms are sometimes seen on some
+## Where seen?
+ Rather short ribbon worms are sometimes seen on some
 of our shores. They are more active at night.  
   
 **Features:** Grouped in this entry

@@ -64,21 +64,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Tiny
-orange star  
-*awaiting identification****updated
-Jul 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.  
   
 **Features:** Diameter about 2cm. Usually 5 arms, slender, equal in length. Upperside orange. Underside pale without markings.

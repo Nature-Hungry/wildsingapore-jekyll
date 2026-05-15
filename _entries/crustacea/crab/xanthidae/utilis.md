@@ -103,38 +103,9 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753868531295&set=a.10158753863266295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Saw-edged
-spooner crab   
-*Etisus utilis***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This crab with distinctive saw-like teeth on the edge of its body is sometimes seen near reefs with lots of corals.  
+## Where seen?
+ This crab with distinctive saw-like teeth on the edge of its body is sometimes seen near reefs with lots of corals.  
   
 **Features:** Body width 4-6cm. Body
 somewhat circular with large teeth on the edges that resembles a saw.

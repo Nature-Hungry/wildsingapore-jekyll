@@ -61,38 +61,9 @@ page_images:
     <p>64 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Hypselodoris
-nudibranchs   
-*Hypselodoris* sp.  
-Family
-Chromodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** These small colourful nudibranchs are sometimes seen on our Northern
+## Where seen?
+ These small colourful nudibranchs are sometimes seen on our Northern
 shores. On coral rubble and rocky shores with sponges and encrusting
 animals.   
   

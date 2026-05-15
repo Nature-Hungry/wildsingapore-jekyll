@@ -60,35 +60,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-
-[coastal
-plants](../coastalplants.htm) 
-****Mengkudu
-akar   
-*Morinda umbellata***  
-**Family** Rubiaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This pretty climber with bright orange fruits
+## Where seen?
+  This pretty climber with bright orange fruits
 is often seen in coastal forests, including natural cliffs. It is
 also found inland. According to Hsuan Keng, it was found in open sandy
 places including Kranji, Changi and Pulau Ubin. 'Mengkudu akar' which

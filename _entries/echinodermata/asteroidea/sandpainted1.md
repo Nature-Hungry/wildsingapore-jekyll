@@ -11,34 +11,6 @@ page_images:
     <p>East Coast, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-> Genera [Astropecten](astropecten)
-**Painted
-sand stars on Singapore shores**  
-back to [general
-info on painted sand stars](sandpainted)
-
----
 
  
 

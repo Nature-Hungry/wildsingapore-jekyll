@@ -76,38 +76,9 @@ page_images:
     <p>Terumbu Pempang Tengah, Jun 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161175291733654&set=a.10161175268323654">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Xanthidae](xanthidae)
-**Curry
-puff crab   
-*Platypodia granulosa***  
-**Family
-Xanthidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This brown crab with distinctive notches on the side
+## Where seen?
+ This brown crab with distinctive notches on the side
 of its body is sometimes seen on our reefs and coral rubble, usually well camouflaged.  
   
 **Features:** Body width 4-6cm. Body

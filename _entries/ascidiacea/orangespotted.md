@@ -33,21 +33,9 @@ page_images:
     <p>Beting Bemban Besar, Mar 20Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo.php?fbid=10221813971887847&set=a.10221813963847646&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg
 ---
- 
 
-ascidians
-[text index](ascidiaceaindex) | [photo
-index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Orange-spotted
-ascidians   
-*awaiting identification\*****updated Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 small blobs with bright orange spots are sometimes seen on some of
 our shores.  
   

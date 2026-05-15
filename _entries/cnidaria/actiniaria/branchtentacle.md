@@ -33,35 +33,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-> Order [Actiniaria](actiniaria.htm)
-**Branched-tentacle
-mangrove anemone**  
-***Pelocoetes exul*****Family Haliactiidae** *updated Dec 2024*
-
----
-
-**Where
-seen?** This small anemone with branching tentacles is sometimes
+## Where seen?
+ This small anemone with branching tentacles is sometimes
 seen in soft mudflats near mangroves and freshwater flows at the Kranji
 Dam sluice gate. It is often found among [Petal-mouthed
 mangrove anemones](mangrove.htm), in much smaller numbers.  

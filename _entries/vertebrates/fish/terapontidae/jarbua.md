@@ -66,37 +66,9 @@ page_images:
     <p>Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0go38mGJSfyJygDkfajeWjyN2MDJjXhZKos9sDVhafGx7yLR9oQQYJaiVB3Q11vSbl?__cft__[0]=AZWCqVMArp8RHjvuL6L95hfPipsVS0TECaleXYFXr_GBy7f-WjS38JtNwfZJvHMI3dSFvjebgMQ-NrFOJHRV1ju63-WDo0WsPgGjCmyNGBccN_Yyi3aAd5JflWyM4E5EZqFcD4Emc5iTfsX6h-GVRLNAbxyZkuqPpRQapqt9lsg75w&__tn__=%2CO%2CP-R">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/040919sntd7091m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Terapontidae](terapontidae)
-**Crescent
-perch**  
-***Terapon
-jarbua***Family Terapontidae  
-*updated
-Oct 2016*
-
----
-
-**Where
-seen?** This fish in pajamas is sometimes seen on some of
+## Where seen?
+ This fish in pajamas is sometimes seen on some of
 our shores, usually in sandy areas near reefs with the incoming tide. **Features:**  Grows to
 30cm, tiny ones 2-3cm long are sometimes seen in small groups in pools
 on the intertidal. It has three blackish stripes on the sides that

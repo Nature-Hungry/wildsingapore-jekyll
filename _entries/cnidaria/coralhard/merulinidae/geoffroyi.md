@@ -92,35 +92,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm) > Family [Merulinidae](merulinidae.htm)
-**Cabbage
-coral  
-*Trachyphyllia geoffroyi***  **Family Merulinidae***updated
-Nov 2019*
-
----
-
-**Where
-seen?** This beautiful hard coral is rarely seen on our shores,
+## Where seen?
+ This beautiful hard coral is rarely seen on our shores,
 and usually seen alone. The Cabbage
 coral is said to be found with other free-living corals like [mushroom
 corals](../fungiidae/fungiidae.htm) (Family Fungidae) in muddy bottoms of protected lagoons,

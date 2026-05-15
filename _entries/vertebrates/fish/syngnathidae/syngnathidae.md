@@ -55,30 +55,6 @@ page_images:
     <p>Changi, Jun 13</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Pipefishes**  **and** **seahorses**   
-**Family Syngnathidae***updated
-Oct 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -89,8 +65,8 @@ the traditional medicine trade.
 are hard to spot and can't move fast. Watch your step
 or you might step on one!
   
-**Where
-seen?** Pipefishes and seahorses are more common than we
+## Where seen?
+ Pipefishes and seahorses are more common than we
 might imagine. They are well camouflaged and thus usually overlooked.
 But the patient and keen-eyed observer is often rewarded with a sighting
 of these amazing fishes on many of our shores especially in seagrass

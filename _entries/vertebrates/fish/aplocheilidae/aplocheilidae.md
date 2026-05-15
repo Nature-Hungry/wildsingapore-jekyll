@@ -33,30 +33,6 @@ page_images:
     <p>According to FishBase, they feed mainly on insects and have been used for mosquito control.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Rivulines**  
-***Aplocheilus panchax\****  
-**Family Aplocheilidae***updated Sep 2020*
-
----
 
  **What are Rivulines?** Rivulines belong to Family Aplocheilidae.
 According to [Fishbase](http://www.fishbase.org/summary/FamilySummary.php?ID=476):

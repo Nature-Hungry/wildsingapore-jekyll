@@ -92,38 +92,9 @@ page_images:
     <p>Pulau Hantu, Dec 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Grapsidae](grapsidae)
-**Sally-light-foot
-crab**  
-***Grapsus albolineatus***  
-**Family Grapsidae**  
-*updated
-Dec 2019*
-
----
-
-**Where
-seen?** This colourful and swift crab is sometimes seen on our some of our
+## Where seen?
+ This colourful and swift crab is sometimes seen on our some of our
 rocky shores. Small groups may clamber noisily among rocks on seawalls
 or natural rocks. Sometimes, it may also be seen on the reef flats
 near the rocky shore. It is more active at night and seldom seen during

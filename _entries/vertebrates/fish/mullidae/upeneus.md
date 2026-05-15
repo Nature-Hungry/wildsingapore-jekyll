@@ -62,36 +62,9 @@ page_images:
     <p>Terumbu Raya, Sep 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
-**Freckled
-goatfish**   
-***Upeneus
-tragula*   
-Family Mullidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This well-camouflaged fish is sometimes seen on
+## Where seen?
+ This well-camouflaged fish is sometimes seen on
 silty sandy shores near seagrasses. It may be common but just overlooked.
 It is considered the most widespread goatfish in the tropical Indo-Pacific.  
   

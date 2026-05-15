@@ -30,20 +30,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
 ---
 
-
-vertebrates [text
-index](../vertindex) | [photo index](../vertfi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Mammalia
-**Pouched tomb bat  
-*Saccolaimus saccolaimus*  
-Family Emballonuridae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This small black-and-white bat is sometimes seen
+## Where seen?
+ This small black-and-white bat is sometimes seen
 roosting in rocky places on our offshore islands. According to Baker,
 it is widespread and common in Singapore.  
   

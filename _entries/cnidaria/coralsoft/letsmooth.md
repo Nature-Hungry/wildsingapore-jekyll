@@ -65,35 +65,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Alcyoniidae](alcyoniidae.htm)
-**Smooth
-leathery soft coral  
-*Sinularia* sp.*\**  
-Family Alcyoniidae***updated Nov 2019*
-
----
-
-**Where
-seen?** This large leathery soft coral may resemble a pile of smooth rubber gloves or cluster of blobs at low tide. It is
+## Where seen?
+ This large leathery soft coral may resemble a pile of smooth rubber gloves or cluster of blobs at low tide. It is
 seen on our Southern shores, on coral rubble.  
   
 **Features:** Colony 20-50cm or larger. Sinularia species have among the greatest

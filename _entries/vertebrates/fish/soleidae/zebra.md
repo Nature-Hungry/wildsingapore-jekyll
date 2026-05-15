@@ -45,37 +45,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/36704530105/in/photolist-BVbkeb-WFYYLa-WFYYHp-WFYYPB-XVsj2X-cmuNj5-cmuNnQ-9HPHxz-9HPHAM-89H6x3-fsLzZk-89H6Bh "Zebra sole (Zebrias zebra)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
-> Family [Soleidae](soleidae)
-**Zebra
-sole**  
-***Zebrias zebra***  
-**Family Soleidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This wacky striped flatfish is sometimes seen on
+## Where seen?
+ This wacky striped flatfish is sometimes seen on
 sandy areas near seagrasses. **Features:** Those seen
 6-10cm, can grow to abot 20cm. Eyes on the right side. Tail fin joined
 to dorsal and anal fins. Body oval, it has a tiny pectoral fin on

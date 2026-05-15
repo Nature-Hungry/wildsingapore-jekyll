@@ -113,22 +113,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/linebraid/100528tkklks3m3.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Braided-line
-flatworm  
-*Pseudoceros* sp. 4*\****Family
-Pseudocerotidae*****updated
-Feb 2020*
-
----
-
-**Where
-seen?** This small flatworm is sometimes seen on our Southern shores, on coral rubble near living reefs.
+## Where seen?
+ This small flatworm is sometimes seen on our Southern shores, on coral rubble near living reefs.
   
   
 **Features:** 2-4cm long. Body bluish-white to bluish (not solid blue and not white). One central line that is golden-speckled yellow with intermittent dull orange, so it appears braided, with dark blue border. Has

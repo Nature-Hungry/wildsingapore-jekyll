@@ -62,23 +62,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Beautiful
-fireworm*****Chloeia* sp.   
-Family Amphinomidae***updated
-Jun 2022*
-
----
-
-**Where
-seen?** This beautiful worm is sometimes seen on some of our shores. Once
+## Where seen?
+ This beautiful worm is sometimes seen on some of our shores. Once
 seen swimming actively at night, in groups of about about 6-8. It
 is also sometimes seen washed ashore in large numbers on Changi beach.
 Although it is among the most beautiful of our worms, its bristles

@@ -42,37 +42,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Family [Onchidiidae](onchidiidae.htm)
-**Ornate
-onch slug  
-*awaiting
-identification\**   
-Family Onchidiidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This small oval slug with an ornate texture is sometimes
+## Where seen?
+ This small oval slug with an ornate texture is sometimes
 seen in mangroves in the North.  
   
 **Features:** 3-5cm. Body hard, oval,

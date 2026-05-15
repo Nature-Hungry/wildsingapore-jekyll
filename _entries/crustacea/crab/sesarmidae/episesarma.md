@@ -60,37 +60,9 @@ page_images:
     <p>Pasir Ris Park, Dec 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/16163390685/in/album-72157649634263729/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Sesarmidae](sesarmidae)
-**Tree
-climbing crab**  
-***Episesarma* sp.**   
-**Family Sesarmidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 crab with a flat, squarish body and flat pointed legs is commonly seen
 in our mangroves. Our mangrove trees are often full of crabs!  
   

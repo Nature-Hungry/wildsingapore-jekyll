@@ -31,22 +31,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum
-Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Puff-faced
-water snake  
-*Homalopsis buccata*  
-Family Homalopsidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** In a suitable freshwater habitat, they can be quite
+## Where seen?
+ In a suitable freshwater habitat, they can be quite
 common. According
 to Baker, in Singapore, they are common in inland water bodies in
 rural areas and forests. However, they are only active at night. Elsewhere,

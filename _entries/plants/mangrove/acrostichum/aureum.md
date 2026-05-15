@@ -40,33 +40,9 @@ page_images:
     <p>Fertile fronds with spores.Pasir Ris, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-| *[Acrostichum](acrostichum)* in general
-**Piai
-raya  *Acrostichum aureum*  
-Family Pteridaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This humungous fern is often seen in back mangroves,
+## Where seen?
+  This humungous fern is often seen in back mangroves,
 flourishing on [mud
 lobster mounds](../../../crustacea/othercrust/lobster/thalassina) and other higher ground along the coasts including
 reclaimed land. According to Giersen, it does not tolerate as much

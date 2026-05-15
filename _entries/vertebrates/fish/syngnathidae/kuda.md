@@ -119,35 +119,9 @@ page_images:
     <p>Sentosa Serapong, Jun 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213576523699687&set=a.10213576506259251&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae) > Genus [Hippocampus](hippocampus)
-**Estuarine
-seahorse*****Hippocampus kuda***  
-**Family Syngnathidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** This seahorse is sometimes seen on many of our Northern
+## Where seen?
+ This seahorse is sometimes seen on many of our Northern
 shores, among seagrasses. According to the Singapore Red Data Book,
 it is found mainly in seagrass
 areas near sources of freshwater and found

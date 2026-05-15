@@ -62,36 +62,9 @@ page_images:
     <p>Terumbu Bemban, Apr 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/fbx/?set=a.161983543861352.37680.133291903397183">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7547m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Hemiramphidae](hemiramphidae.htm)
-**Twig-like
-halfbeak**  
-***awaiting
-identification\**** **Family Hemiramphidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 small twig-like fish is sometimes seen near seagrasses in our Southern
 shores. Often in small groups of a handful of individuals. Floating
 on the surface, they are often dismissed as twigs or floating rubbish.

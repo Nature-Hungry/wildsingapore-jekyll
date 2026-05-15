@@ -74,37 +74,9 @@ page_images:
     <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628140532945&set=a.10158628246612945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Sentinel
-crab**  
-***Macrophthalmus* sp.**  
-**Family Macrophthalmidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This inconspicous little crab with eyes on super
+## Where seen?
+ This inconspicous little crab with eyes on super
 long stalks are sometimes seen on soft silty and muddy shores such
 as swimming lagoons. It builds distinctive holes which are either
 rectangular or oval and seldom circular.  

@@ -77,31 +77,6 @@ page_images:
     <p>The <a href="../coralhard/fungiidae/heliofungia.htm">Sunflower mushroom coral</a> is a hard coral with a hard skeleton.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum [Cnidaria](../cnidaria.htm) > Class [Anthozoa](../anthozoa.htm) > Order [Actiniaria](actiniaria.htm)
-**Large
-sea anemones with long tentacles  
-How to tell them apart?***updated
-Apr 2020*
-
----
 
 These large sea anemones
 (diameter 20cm or more) with long tentacles may look similar at first glance.

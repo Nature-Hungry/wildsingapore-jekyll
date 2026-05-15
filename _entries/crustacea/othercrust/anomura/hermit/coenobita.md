@@ -88,35 +88,6 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Land
-hermit crab  
-*Coenobita* sp.  
-Family Coenobitidae** *updated Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -127,8 +98,8 @@ take any shells home!
 is so well adapted to land it will drown if kept under
 water!
   
-**Where
-seen?** This large hermit crab is sometimes seen on our undisturbed shores
+## Where seen?
+ This large hermit crab is sometimes seen on our undisturbed shores
 near the high water line, especially on our offshore islands. Near
 the high water mark among rocks, boulders and marine debris, and even
 some distance inland among grass and under trees. But it is only active

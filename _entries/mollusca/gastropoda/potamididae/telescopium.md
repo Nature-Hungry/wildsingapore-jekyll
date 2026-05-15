@@ -47,34 +47,6 @@ page_images:
     <p>145 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Potamididae](potamididae.htm)
-**Rodong
-snail  
-*Telescopium telescopium*   
-Family Potamididae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -85,8 +57,8 @@ in the mangroves.
 is edible and was eaten in the past, less so these days.  
 ![](../../../photos/bullet.gif) It is a harmless herbivore, nibbling on algae.
   
-**Where
-seen?** This large snail is about the size and shape of an ice-cream cone!
+## Where seen?
+ This large snail is about the size and shape of an ice-cream cone!
 It is commonly seen in our mangroves, on mud, sometimes in the hundreds
 covering a large area. It is also called *'Rodong'* or *'Berongan'* in Malay.  
   

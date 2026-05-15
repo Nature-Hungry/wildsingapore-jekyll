@@ -94,33 +94,6 @@ page_images:
     <p>Pulau Biola, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-zoanthids [text
-index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
-**Broad
-zoanthid  
-*Palythoa mutuki*****Family
-Zonathidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -129,8 +102,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)They
 are small and may retract at low tide. Don't step on them!
   
-**Where
-seen?** Like a cluster of little brown anemones, this animal is often seen
+## Where seen?
+ Like a cluster of little brown anemones, this animal is often seen
 on many of our shores. On coral rubble and among seagrasses in large
 seagrass meadows.   
   

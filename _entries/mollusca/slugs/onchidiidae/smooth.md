@@ -45,37 +45,9 @@ page_images:
     <p>Pulau Ubin, Mar 08Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2301129551/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Onchidiidae](onchidiidae.htm)
-**Smooth
-little onch slug   
-*awaiting
-identification\**   
-Family Onchidiidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This tiny to small onch slug is commonly seen on
+## Where seen?
+ This tiny to small onch slug is commonly seen on
 sheltered, shady areas with thick mats small seaweeds on many of our
 shores. For example, rocky shores shaded by coastal trees and sea
 walls under a jetty or bridge. Often seen in groups of small numbers.   

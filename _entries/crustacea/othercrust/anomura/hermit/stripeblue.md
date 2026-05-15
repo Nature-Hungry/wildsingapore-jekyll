@@ -112,37 +112,9 @@ page_images:
     <p>St John's Island, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
-**Blue-striped
-hermit crab *Clibanarius longitarsus\**  
-Family Diogenidae***updated
-Jan 2020*
-
----
-
- **Where seen?** This small hermit crab is seen near mangroves,
+ ## Where seen?
+  This small hermit crab is seen near mangroves,
 on sandy shores and among seagrasses. Elsewhere, it is found around
 rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen in such abundance as the [Orange-striped hermit crab](stripeorange).
 

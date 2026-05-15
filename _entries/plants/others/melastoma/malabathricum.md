@@ -85,32 +85,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-****Senduduk  
-*Melastoma malabathricum***  
-**Family** Melastomaceae***updated
-Nov 10*
-
----
-
-**Where seen?** This shrub with pretty purple flowers is commonly
+## Where seen?
+  This shrub with pretty purple flowers is commonly
 seen in many of our open wild places, including coastal areas. It
 is sometimes called the Singapore rhododendron although it is not
 a rhododendron and is not confined to Singapore.  

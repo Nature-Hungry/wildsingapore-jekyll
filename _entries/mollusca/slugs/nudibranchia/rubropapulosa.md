@@ -84,37 +84,9 @@ page_images:
     <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Orange-spotted
-gymnodoris nudibranch  
-*Gymnodoris rubropapulosa*  
-Family Gymnodorididae***updated
-May 2020*
-
----
-
-**Where
-seen?** This rather clownish white nudibranch with orange spots is sometimes
+## Where seen?
+ This rather clownish white nudibranch with orange spots is sometimes
 seen on our more remote Southern shores. They appear to be seasonally common; at
 some times, several can be seen during a visit.  
   

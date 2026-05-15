@@ -35,34 +35,9 @@ page_images:
     <p><a href="encrust.htm">Encrusting disk coral</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-**Dendrophylliid
-corals**  **Family Dendrophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** Disk corals (*Turbinaria* spp.) are among our
+## Where seen?
+ Disk corals (*Turbinaria* spp.) are among our
 most commonly encountered hard corals and seen on many of our Southern
 shores and even some Northern shores. Cave corals (*Tubastraea*  sp.) are small hard corals usually seen in dark places.  
   

@@ -46,36 +46,9 @@ page_images:
     <p>East Coast PCN, Apr 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10210451271050324&set=a.10210451242049599&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
-**Blue-spotted
-stingray  
-*Neotrygon kuhlii*  
-Family Dasyatidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This sand-coloured stingray is sometimes seen on
+## Where seen?
+ This sand-coloured stingray is sometimes seen on
 our Northern shores, and seems particularly common on Pulau Sekudu.
 It is more active at night and at high tide. It was previously known
 as *Dasyatis kuhlii*.  

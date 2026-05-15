@@ -78,38 +78,9 @@ page_images:
     <p>Cyrene, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159405838038158&set=a.10159405840358158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Ridged
-swimming crab**  
-***Charybdis
-natator*\*   
-Family Portunidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This swimming crab is not often encountered, under
+## Where seen?
+ This swimming crab is not often encountered, under
 stones on sandy shores.  
   
 **Features:** Body width 5-7cm, to

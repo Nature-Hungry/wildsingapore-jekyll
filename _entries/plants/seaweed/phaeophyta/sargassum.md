@@ -125,36 +125,9 @@ page_images:
     <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-brown
-seaweeds [text index](../seaweedindex#phaeophyta)
-| [photo index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Phaeophyta](phaeophyta)
-**Sargassum
-seaweed  
-*Sargassum* sp.\*  
-Family Sargassaceae***updated
-Oct 2015*
-
----
-
-**Where
-seen?** The largest of our brown seaweeds, this golden leafy
+## Where seen?
+ The largest of our brown seaweeds, this golden leafy
 seaweed with strange air bladders is commonly encountered on our Southern
 shores, but rarely on our Northern shores. It grows on the rocky shores
 as well as on coral rubble.

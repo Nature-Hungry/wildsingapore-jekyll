@@ -78,36 +78,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-sea pens [text
-index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
-**Flowery
-sea pen**  
-**Family
-Veretillidae\****updated
-Dec 2019*
-
----
-
-**Where
-seen?** This beautiful colony of flowery polyps is often
+## Where seen?
+ This beautiful colony of flowery polyps is often
 seen on our Northern shores, mainly at night. On soft silty sand among
 seagrasses.  
   

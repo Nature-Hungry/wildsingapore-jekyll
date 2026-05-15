@@ -53,33 +53,9 @@ page_images:
     <p>Sungei Pandan, Jun 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[mangroves](../mangroves)
-**Common
-derris   
-*Derris trifoliata*  
-Family Fabaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** This climber with its three-part leaves is
+## Where seen?
+  This climber with its three-part leaves is
 commonly seen twining around trees in the back mangroves. When in
 bloom it turns the mangrove forest into a bridal chamber in pink!
 The Malay name is *Akar ketuil* or *Tuba laut*.   

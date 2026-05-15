@@ -127,26 +127,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
 ---
 
-
-flatworms
-[text index](../wormindex) | [photo
-index](../polycladidafi)
-
-[worms](../worm) > Phylum Platyhelminthes >
-Class
-Turbellaria > [Order Polycladida](polycladida)
-
-**Persian
-carpet flatworm  
-*Pseudobiceros bedfordi*****Family
-Pseudocerotidae**  
-*updated
-Feb 2020*
-
----
-
-**Where
-seen?** This richly patterned flatworm is more often encountered
+## Where seen?
+ This richly patterned flatworm is more often encountered
 by divers. It is sometimes seen in the intertidal near living reefs on
 our Southern shores. This is among the few flatworms named from Singapore, in 1903 by Laidlaw  
   

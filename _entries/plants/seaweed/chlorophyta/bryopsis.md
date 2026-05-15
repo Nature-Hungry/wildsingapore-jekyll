@@ -73,35 +73,6 @@ page_images:
     <p>Pulau Senang, Aug 10</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta)
-**Hairy
-green seaweed  
-*Bryopsis* sp.\*** **Family Bryopsidaceae  
-*updated
-Oct 2016***
-
----
 
 if you
 learn only 3 things about them ...  
@@ -114,8 +85,8 @@ and animals live among the seaweeds.
 ![](../../../photos/bullet.gif)Tiny
 animals are often found in this seaweed. Look for them.
   
-**Where
-seen?**
+## Where seen?
+
 This green seaweed is commonly seen on many of our shores, attached
 to coral rubble. Sometimes in small clumps on sandy areas too. It
 seems to be seasonally abundant, especially on our Southern shores.

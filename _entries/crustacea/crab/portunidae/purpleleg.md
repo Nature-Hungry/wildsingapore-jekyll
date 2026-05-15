@@ -82,38 +82,9 @@ page_images:
     <p>Cyrene, Nov 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161636414613654&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Portunidae](portunidae)
-**Purple-legged
-swimming crab**  
-***Charybdis
-hellerii*****\***  
-**Family Portunidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This swimming crab with purple legs is commonly seen
+## Where seen?
+ This swimming crab with purple legs is commonly seen
 on our Northern shores, rocky areas and rubble. Especially at night.  
   
 **Features:** Body width 5-7cm. Body

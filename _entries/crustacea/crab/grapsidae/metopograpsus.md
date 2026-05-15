@@ -84,35 +84,6 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on <a href="http://www.facebook.com/media/set/?set=a.541764784148.43593.227700992">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Family [Grapsidae](grapsidae)
-**Purple
-climber crab**  
-***Metopograpsus* sp.\***  
-**Family Grapsidae**  
-*updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -122,8 +93,8 @@ over rocks.
 ![](../../../photos/bullet.gif)The
 pincers have scalloped edges and are used to scrape algae.
   
-**Where
-seen?** This
+## Where seen?
+ This
 small purple crab is commonly seen on our rocky shores in the North and South. Usually only active at
 night. During the day, it is usually well hidden in crevices.  
   

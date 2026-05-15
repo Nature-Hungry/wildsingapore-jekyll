@@ -65,37 +65,9 @@ page_images:
     <p>Pulau Hantu, May 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159047498247945&set=a.10159048140602945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Fugly
-nudibranch  
-*Actinocyclus* sp.  
-Family Actinocyclidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This large, lumpy and rather fugly nudibranch is rarely
+## Where seen?
+ This large, lumpy and rather fugly nudibranch is rarely
 seen. The ones encountered were on coral rubble. It is possible that
 they are not all that rare and that these very well camouflaged nudibranchs
 are just overlooked?  

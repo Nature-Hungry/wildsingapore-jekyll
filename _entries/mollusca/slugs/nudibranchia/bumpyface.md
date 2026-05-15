@@ -53,38 +53,9 @@ page_images:
     <p>East Coast Park, Feb 19Photo shared by Teo Say Chong on <a href="https://www.facebook.com/photo.php?fbid=10218783796608300&set=a.10218783795648276&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-nudibranchs [text
-index](../../molluscaindex.htm#nudibranchia) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Nudibranchia](../../nudibranchia.htm)
-**Bumpy-faced
-armina nudibranch**  
-***Armina sp.*  
-Family
-Arminidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This
+## Where seen?
+ This
 armina nudibranch is sometimes seen on Changi and some of our Northern
 shores among seagrass meadows. It is often seen burrowing in sand.  
   

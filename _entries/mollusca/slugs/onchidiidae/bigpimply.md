@@ -124,34 +124,6 @@ page_images:
     <p>Pulau Salu, Aug 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#onchidiidae) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Family [Onchidiidae](onchidiidae.htm)
-**Big
-pimply onch slug  
-*awaiting
-identification\**   
-Family Onchidiidae***updated
-Jun 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -162,8 +134,8 @@ on the rock?
 are slippery and hard to handle, so please don't touch
 them.
   
-**Where
-seen?** This medium to large onch slug is commonly seen,
+## Where seen?
+ This medium to large onch slug is commonly seen,
 sometimes in large numbers, on many of our natural rocky shores. Usually
 on large rocks and boulders, also on small stones on rocky shores,
 sometimes also on sea walls. The slug is often covered with sand (so

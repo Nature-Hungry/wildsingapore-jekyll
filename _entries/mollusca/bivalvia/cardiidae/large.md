@@ -72,34 +72,9 @@ page_images:
     <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641286992945&set=a.10158641345557945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-bivalves [text
-index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Bivalvia](../../bivalvia.htm) > Family [Cardiidae](cardiidae.htm)
-**Large
-cockle**  
-***awaiting identification\******Family Cardiidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This large cockle is sometimes seen on some of our
+## Where seen?
+ This large cockle is sometimes seen on some of our
 shores, usually alone on sandy areas near seagrasses, coral rubble
 and reefs.  
   

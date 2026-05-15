@@ -44,36 +44,9 @@ page_images:
     <p>Chek Jawa, May 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Littorinidae](littorinidae.htm)
-**Knobbly
-periwinkle snail**  
-***Echinolittorina malaccana***  
-**Family Littorinidae***updated Aug 2020*
-
----
-
-**Where
-seen?** This tiny snail with a knobbly shell is sometimes
+## Where seen?
+ This tiny snail with a knobbly shell is sometimes
 seen on some of our rocky shores. In groups on boulders near
 the high water mark, often wedged into crevices and cracks at low
 tide. It was previously known as  *Nodilittorina trochoides* and *Nodilittorina pyramidalis*. **Features:** 0.8-1cm. Shell thin with spirals of tiny knobs.

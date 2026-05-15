@@ -46,36 +46,9 @@ page_images:
     <p>Pulau Jong, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/06/wet-on-jong.html">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Frill-fin
-goby**  
-***Bathygobius*** **sp.**  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This pretty spotted goby is commonly seen on many of our shores, in
+## Where seen?
+ This pretty spotted goby is commonly seen on many of our shores, in
 rocky shores, coral rubble and reefs.  
   
 **Features:** 4-7cm long. It has bulging

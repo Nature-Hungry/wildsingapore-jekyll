@@ -81,37 +81,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Majoidea](majoidea)
-**Sea
-toad spider crab  
-*Schizophrys* sp.\***  
-**Family Majidae***updated
-Dec 2016*
-
----
-
-**Where
-seen?** This large squat crab is sometimes seen on some of
+## Where seen?
+ This large squat crab is sometimes seen on some of
 our shores, clinging to coral rubble, large boulders or hiding under
 living corals. Relying on its camouflage, the crab moves slowly.   
   

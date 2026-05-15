@@ -95,33 +95,6 @@ page_images:
     <p>Small SIsters, Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158470463901295&set=a.10158470457921295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Horn-eyed
-ghost crab**  
-***Ocypode ceratophthalmus***  
-**Family Ocypodidae***updated Mar 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -131,8 +104,8 @@ water mark.
 ![](../../../photos/bullet.gif) Their burrows are deep. Don't try to dig them up.   
 ![](../../../photos/bullet.gif)They
 can move very fast.
- **Where
-seen?** This large but elusive crab is commonly seen on many of
+ ## Where seen?
+ This large but elusive crab is commonly seen on many of
 our shores. Yet, it is hard to spot. It probably got its common name
 because it is active only at night, and it moves so swiftly over the
 sand that you usually literally only get a ghostly glimpse as it skitters away in the darkness.   

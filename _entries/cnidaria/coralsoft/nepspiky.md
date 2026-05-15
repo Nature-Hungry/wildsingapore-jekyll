@@ -94,36 +94,9 @@ page_images:
     <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157664272801295&set=a.10157664270651295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi3.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Nephtheidea](nephtheidae.htm)
-**Spiky
-flowery soft coral  
-*Stereonephthya* sp.\*  
-Family Nephtheidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This flowery soft coral with spikes common on some
+## Where seen?
+ This flowery soft coral with spikes common on some
 of our shores. On coral rubble near living reefs.  
   
 **Features:** Colony bushy about 6-12cm.

@@ -80,35 +80,9 @@ page_images:
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653906282906&set=a.10160653901047906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Merulinidae](../faviidae/faviidae.htm)
-**Hedgehog
-corals**  ***Echinopora* sp.\*  
-Family Merulinidae***updated Nov 2019*
-
----
-
-**Where
-seen?** These delicate plate hard corals with little bumps
+## Where seen?
+ These delicate plate hard corals with little bumps
 are rarely encountered, so far only on our undisturbed Southern islands.  
   
 **Features:** Colonies 20-30cm. May

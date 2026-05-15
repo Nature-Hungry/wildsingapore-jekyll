@@ -53,36 +53,9 @@ page_images:
     <p>Terumbu Semakau, Jul 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/15071169495/in/album-72157645656582534/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Nassariidae](nassariidae.htm)
-**Speckled
-whelk**  
-***Nassarius limnaeiformis*Family Nassariidae***updated
-Aug 2020*
-
----
-
-**Where
-seen?** This whelk with a white body speckled black is sometimes
+## Where seen?
+ This whelk with a white body speckled black is sometimes
 seen on our Southern shores. It is also known as *Nassarius limnaeformis*.  
   
 **Features:** About 2.5cm. Shell thick conical smooth. Shell pattern varies from plain brown to spiralling chevron band and/or fine red lines. Body white with black

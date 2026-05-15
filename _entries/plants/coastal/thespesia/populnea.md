@@ -92,34 +92,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Baru-baru** **or****Portia tree   
-*Thespesia populnea***  
-**Family** Malvaceae***updated
-Nov 10*
-
----
-
-**Where seen?** Not as commonly seen as the [Sea
+## Where seen?
+  Not as commonly seen as the [Sea
 hibiscus](../hibiscus/tiliaceus) (*Hibiscus tiliceaus*), this similar looking plant
 is sometimes seen on our shores and near our mangroves. Elsewhere,
 it is found on beaches, sandy and rocky coasts as well as back mangroves.

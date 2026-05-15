@@ -55,21 +55,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100811slud0120m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Smooth
-green sponge  
-*Awaiting identification\*****updated
-Oct 2016*
-
----
-
-**Where
-seen?** This smooth sponge forms a layer over coral rubble and is often seen
+## Where seen?
+ This smooth sponge forms a layer over coral rubble and is often seen
 on our Southern shores. **Features:** A thin layer
 encrusting coral rubble 10-20cm. Generally a smooth layer but also
 often with irregular knobs, folds and lobes. Tiny circular holes at

@@ -50,34 +50,9 @@ page_images:
     <p>Changi, May 08</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Helmet
-and Bonnet snails** **Family
-Cassidae***updated
-Jul 2020*
-
----
-
- **Where seen?** These large snails are rarely seen on our shores.
+ ## Where seen?
+  These large snails are rarely seen on our shores.
 These slow-moving carnivores are found half buried on large sand flats. Such areas are rare in Singapore as most shallow sandy areas have already been reclaimed.  
   
 **Features:** The shell is usually

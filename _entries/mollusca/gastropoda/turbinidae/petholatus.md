@@ -31,37 +31,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Turbinidae](turbinidae.htm)
-**Tapestry
-turban snail  
-*Turbo petholatus*****Family
-Turbinidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** Rarely seen, this pretty snails is found in living reefs on our Southern shores. It is more active at night. **Features:** About 6cm. Shell
+## Where seen?
+ Rarely seen, this pretty snails is found in living reefs on our Southern shores. It is more active at night. **Features:** About 6cm. Shell
 thick smooth glossy, without any cords. Colours brown, with a spiralling pattern of fine banded lines. Operculum shelly, hemi-spherical
 and smooth, brown and greenish. Body black with a bright orange foot,
 a pair of slender tentacles.  

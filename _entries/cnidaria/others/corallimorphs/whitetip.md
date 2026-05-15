@@ -74,38 +74,9 @@ page_images:
     <p>Pulau Semakau East, Feb 26Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122169568046554640&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-corallimorphs
-[text index](../../cnidariaindex#corallimorph) | [photo
-index](../../anemonefi4)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph)
-**White-tip
-corallimorphs**  
-***Rhodactis indosinensis***  
-**Family Discosomidae**   
-*updated
-Jul 2024*
-
----
-
-**Where
-seen?** This small animal with white bulbous tips on its
+## Where seen?
+ This small animal with white bulbous tips on its
 tentacles is often seen in clusters of several tucked among dead and
 living corals. Sometimes seen on some of our Southern shores.  
   

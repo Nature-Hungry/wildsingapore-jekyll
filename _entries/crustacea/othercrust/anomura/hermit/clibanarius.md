@@ -91,37 +91,9 @@ page_images:
     <p>Short antennae and long antennae dull brown or olive.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../../animals)
-| [all plants](../../../../plants)
-| [concepts](../../../../concepts/indexl)
-| [glossary](../../../../glossary/indexl)
-| [search](../../../../search)
-
-hermit crabs
-[text index](../../../crustaceaindex#anomurans) | [photo
-index](../../../anomurafi)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../../crustacea) >
-Class Malacostraca > Order [Decapoda](../../../decapoda)
-> Anomurans
-> [hermit crabs](hermit)
-**Clibanarius
-hermit crabs *Clibanarius* spp.  
-Family Diogenidae***updated
-Mar 2020*
-
----
-
- **Where seen?** These are among the most commonly seen large
+ ## Where seen?
+  These are among the most commonly seen large
 hermit crabs on our shores. 'Clibanarius' in Latin refers to a soldier
 in chain mail.   
   

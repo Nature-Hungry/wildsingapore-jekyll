@@ -83,37 +83,9 @@ page_images:
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/budak/4708133539/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Lobophylliidae](mussidae)
-**Lobed
-brain coral**  
-***Lobophyllia* sp.\*  
-Family Lobophylliidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This fleshy dome-shaped hard coral with large 'teeth' is commonly
+## Where seen?
+ This fleshy dome-shaped hard coral with large 'teeth' is commonly
 seen on many of our Southern shores.  
   
 **Features:** Colonies seen about

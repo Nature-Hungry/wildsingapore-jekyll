@@ -101,37 +101,9 @@ page_images:
     <p>Tanah Merah, May 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans | Family [Calappidae](calappidae)
-**Spotted
-box crab**  
-***Calappa philargius***   
-**Family Calappidae***updated
-Dec 2019*
-
----
-
-**Where
-seen?** This large boxy crab with four big spots on its flat
+## Where seen?
+ This large boxy crab with four big spots on its flat
 pincers is sometimes seen on the sandy shores near seagrass areas on our Northern shores.
 It is more active at night and are rarely seen by daytime visitors
 as it is then usually buried in the sediments. Once, several pairs

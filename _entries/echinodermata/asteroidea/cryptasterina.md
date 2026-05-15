@@ -73,22 +73,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Cryptic
-sea star  
-*Cryptasterina* sp.  
-Family Asterinidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** This little sea star hides under stones near the mid-water mark. At
+## Where seen?
+ This little sea star hides under stones near the mid-water mark. At
 low tide it clamps tight to the surface almost like a limpet. It is found on natural rocky shores of our Southern shores.   
   
 **Features:** Diameter with arms (3-4cm).

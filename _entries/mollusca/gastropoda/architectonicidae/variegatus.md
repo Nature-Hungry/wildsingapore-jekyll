@@ -39,36 +39,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Architectonicidae](architectonicidae.htm)
-**Variegated
-sundial snail  
-*Heliacus variegatus*** **Family
-Architectonicidae***updated
-Sep 2020*
-
----
-
- **Where seen?** The snail with a unique operculum is sometimes seen on our Southern shores.  
+ ## Where seen?
+  The snail with a unique operculum is sometimes seen on our Southern shores.  
   
 **Features:** Up to 2cm in diameter.
 Shell thick and coiled to form an overall conical shape. Coils have a beaded

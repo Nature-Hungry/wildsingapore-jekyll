@@ -34,22 +34,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum
-Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Reticulated
-python   
-*Broghammerus reticulatus*  
-Family Pythonidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** This enormous but beautiful snake is among the most
+## Where seen?
+ This enormous but beautiful snake is among the most
 commonly sighted snakes in Singapore. According to Baker, it is found
 in almost all habitats from forest to mangroves and also in urban
 areas. From sea level up to 1,000m. Elsewhere also near rivers. It

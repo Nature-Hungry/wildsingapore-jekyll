@@ -47,35 +47,9 @@ page_images:
     <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49099105603/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Nassariidae](nassariidae.htm)
-**Black
-whelk**  
-***Nassarius pullus*Family Nassariidae***updated Aug 2020*
-
----
-
-**Where
-seen?** This little whelk with a broad base on the underside
+## Where seen?
+ This little whelk with a broad base on the underside
 is sometimes seen in sandy areas on our Southern shores.  
   
 **Features:** 1.5-2cm. Shell thick

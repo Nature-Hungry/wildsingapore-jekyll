@@ -35,21 +35,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
 ---
 
-
-
-sponges
-[text index](poriferaindex.htm) | [photo
-index](poriferafi.htm)
-Phylum [Porifera](porifera.htm)
-**Potato
-sponge  
-*Biemna* sp.*\**Family Desmacellidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** Like a potato with eyes, this buried sponge is found on some of our
+## Where seen?
+ Like a potato with eyes, this buried sponge is found on some of our
 shores near reefs. **Features:** Spherical, oval or irregular lumpy, 10-30cm,
 usually buried with only chimneys sticking out of the surface. Chimneys
 about 1cm in diameter, 1-2cm tall. The surface is uneven and very

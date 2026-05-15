@@ -60,18 +60,6 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cj0113m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Banded
-marine snakes****How to tell them apart?**  
-*updated Apr 2020*
-
----
-
  **Banded
 confusion** Both the Yellow-lipped sea snake and the Banded
 file snake are banded snakes with tapered tails that are sometimes

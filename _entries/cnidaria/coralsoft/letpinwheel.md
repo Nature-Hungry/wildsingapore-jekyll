@@ -80,35 +80,9 @@ page_images:
     <p>Pulau Berkas, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Alcyoniidae](alcyoniidae.htm)
-**Pinwheel
-leathery soft coral  
-*Lobophytum* sp.*\**  
-Family Alcyoniidae***updated Nov 2019*
-
----
-
-**Where
-seen?** This large disc-shaped leathery coral that resembles
+## Where seen?
+ This large disc-shaped leathery coral that resembles
 a pinwheel is commonly seen on our Southern shores. On coral rubble.  
   
 **Features:** Colony 30-50cm or larger. The circular colony usually with a flat,

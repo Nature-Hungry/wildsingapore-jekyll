@@ -53,36 +53,9 @@ page_images:
     <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Gobiidae](gobiidae.htm)
-**Black-spotted
-lagoon-goby**  
-***Istigobius goldmanni\****  
-**Family Gobiidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This pretty slender goby is seen on many of our shores, near reefs and rubble.  
+## Where seen?
+ This pretty slender goby is seen on many of our shores, near reefs and rubble.  
   
 **Features:** To about 5cm. Body long slender, pale
 sandy-white with many small black spots on the nape. Distinguished

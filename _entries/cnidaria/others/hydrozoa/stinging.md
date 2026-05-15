@@ -103,34 +103,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250426295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Stinging
-hydroid*****awaiting
-identification\*****updated
-Mar 2020*
-
----
-
-**Where
-seen?** This colony of tiny animals can be common on some offshore Northern shores, forming alarming large colonies. Sometimes also seen on our Southen shores. It grows on coral rubble or hard surfaces.  
+## Where seen?
+ This colony of tiny animals can be common on some offshore Northern shores, forming alarming large colonies. Sometimes also seen on our Southen shores. It grows on coral rubble or hard surfaces.  
   
 **Features:** Colonies can be 20-30cm wide. Made up of black thin branches
 (4-20cm long) with feathery side branches. Some look like clumps

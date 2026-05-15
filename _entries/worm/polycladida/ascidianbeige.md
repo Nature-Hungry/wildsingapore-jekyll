@@ -63,20 +63,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/ascidianbeige/101221tmfts02262m6la.jpg
 ---
 
-
-flatworms [text
-index](../wormindex) | [photo index](../polycladidafi)
-[worms](../worm)
-> Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida)
-**Marbled flatworm  
-*Pseudoceros* sp. 1  
-Family Pseudocerotidae** *updated Feb 2020*
-
----
-
-**Where
-seen?** This small flatworm is sometimes seen on [Beige
+## Where seen?
+ This small flatworm is sometimes seen on [Beige
 sheet asicidians](../../ascidiacea/beige) that are growing under rocks. So far, only seen on our Northern shores.  
   
 **Features:** 1-3cm long. Body

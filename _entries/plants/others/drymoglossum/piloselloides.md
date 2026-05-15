@@ -44,33 +44,9 @@ page_images:
     <p>Mandai, Mar 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
- 
-**Dragon
-scales   
-*Drymoglossum piloselloides*  
-Family Polypodiaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This small creeping fern is an ephiphyte, that
+## Where seen?
+  This small creeping fern is an ephiphyte, that
 is, it usually grows on trees and not on the ground. It is sometimes
 seen coating branches of trees in an armour of green scales. Its Malay
 name is '*Sisek naga*' which means 'dragon scales'. It is not

@@ -96,36 +96,9 @@ page_images:
     <p>Cyrene Reef, Aug 17 Shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154911221498660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/161216cyro150203.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm) >
-[*Elysia*](elysiidae.htm) species
-**Woolly
-leaf slugs**  
-***Elysia* sp.****Family Plakobranchidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** These tiny slugs appear woolly or fuzzy. They are sometimes
+## Where seen?
+ These tiny slugs appear woolly or fuzzy. They are sometimes
 seen on many of our shores, usually on green seaweeds. Sometimes,
 they occur in large numbers.  
   

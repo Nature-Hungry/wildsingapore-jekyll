@@ -101,38 +101,9 @@ page_images:
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171056019/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea anemones
-[text index](../cnidariaindex.htm) | [photo
-index](../anemonefi1.htm)
-Phylum
-[Cnidaria](cnidaria.htm) > Class [Anthozoa](anthozoa.htm)
-> Subclass
-Zoantharia/Hexacorallia > Order [Actiniaria](actiniarianoid/actiniaria.htm)
-**White peachia
-anemone**  
-***Metapeachia tropica***   
-**Family Haloclavidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This small burrowing anemone has a few fat tentacles that
+## Where seen?
+ This small burrowing anemone has a few fat tentacles that
 spread out flat on the surface. It is seen on some of our shores, especially in sheltered
 sandy areas. It is small and usually retracted into the sand at low
 tide so it may actually be quite common but overlooked.  

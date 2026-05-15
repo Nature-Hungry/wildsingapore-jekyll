@@ -61,36 +61,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-green
-seaweeds [text index](../seaweedindex) | [photo
-index](../seaweedfi)
-[Seaweeds](../seaweed)
-> Division [Chlorophyta](chlorophyta) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa)*
-**Delicate
-feathery green seaweed  
-*Caulerpa sertularioides* Family Caulerpaceae***updated
-Sep 2019*
-
----
-
-**Where
-seen?** This elegant feathery green seaweed is sometimes seen on our shores,
+## Where seen?
+ This elegant feathery green seaweed is sometimes seen on our shores,
 growing on sand, coral rubble and among seagrasses. Usually found
 in clumps, which can cover an area of about 40-50cm. But it does not
 blanket the shore like other seasonally abundant seaweeds.  

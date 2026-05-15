@@ -73,34 +73,6 @@ page_images:
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482983158&set=a.10159700487188158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > Family
-[Strombidae](strombidae.htm)
-**Black-lipped
-conch  
-*Canarium urceus***  
-**Family Strombidae***updated
-Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -111,8 +83,8 @@ of its features are adaptations to this hopping lifestyle:
 flared shell, large eyes.  
 ![](../../../photos/bullet.gif) It is listed among the threatened animals of Singapore.
   
-**Where
-seen?** This narrow conch with black lips is sometimes seen
+## Where seen?
+ This narrow conch with black lips is sometimes seen
 in seagrass areas on our shores. Elsewhere, they are found on sand
 or sandy mud bottoms, sometimes associated with sparse algae. Often
 occurring in colonies. Intertidal and sublittoral zones to a depth

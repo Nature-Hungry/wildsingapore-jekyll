@@ -108,36 +108,9 @@ page_images:
     <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19953839440/in/album-72157645656582534/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Ophichthidae](ophichthidae.htm)
-**Evermann's
-snake-eel  
-*Ophichthus lithinus*  
-Family Ophichthidae***updated
-Oct 2019*
-
----
-
-**Where
-seen?** This fat long snake-like fish is sometimes seen in reefs on our Southern shores. It is much more active at night. During one visit to Sisters Island, four of these
+## Where seen?
+ This fat long snake-like fish is sometimes seen in reefs on our Southern shores. It is much more active at night. During one visit to Sisters Island, four of these
 fishes were seen hunting among the corals! It was previously known as *Ophichthus
 evermanni*.  
   

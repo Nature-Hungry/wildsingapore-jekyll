@@ -121,36 +121,9 @@ page_images:
     <p>264 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-soft corals [text
-index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Alcyonacea](coralsoft.htm) > Family [Alcyoniidae](alcyoniidae.htm)
-**Black-and-white
-leathery soft coral   
-*Cladiella* sp.\*  
-Family Alcyoniidae***updated
-Dec 2024*
-
----
-
-**Where
-seen?** This striking leathery coral is commonly seen on
+## Where seen?
+ This striking leathery coral is commonly seen on
 our Southern shores. On coral rubble.  
   
 **Features:** Colony usually 10-20cm, sometimes much larger. Sometimes several are

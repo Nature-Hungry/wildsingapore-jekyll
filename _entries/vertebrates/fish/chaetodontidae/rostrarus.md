@@ -127,33 +127,6 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250486295&set=a.10158234241606295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Chaetodontidae](chaetodontidae.htm)
-**Copperband
-butterflyfish  
-*Chelmon rostratus***  
-**Family
-Chaetodontidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about it ...  
@@ -162,8 +135,8 @@ learn only 3 things about it ...
 ![](../../../photos/bullet.gif)It
 does poorly in a home aquarium, Don't collect them.
   
-**Where
-seen?** This strikingly patterned fish is commonly seen on many
+## Where seen?
+ This strikingly patterned fish is commonly seen on many
 of our shores, among coral rubble and near reefs. It is said to be
 more active during the day, but those seen at night can be quite frisky.
 Elsewhere, they are found on rocky shores, coral reefs, estuaries

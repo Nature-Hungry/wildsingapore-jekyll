@@ -75,36 +75,9 @@ page_images:
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/101224sisd4024m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish) >
-Family [Apogonidae](apogonidae)
-**Black
-cardinalfish**  
-***Apogonichthyoides melas***  
-**Family Apogonidae***updated
-Sep 2020*
-
----
-
-**Where
-seen?** This small black fish with rounded
+## Where seen?
+ This small black fish with rounded
 fins and tail is sometimes seen on our Southern shores, near living
 reefs. Elsewhere, it is seen in shallow well protected coastal bays,
 commonly found under jetties, hiding in dark areas, also in inshore

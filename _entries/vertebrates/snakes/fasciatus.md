@@ -41,22 +41,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
 ---
 
-
-snakes [text
-index](snakeindex) | [photo index](snakeshorefi)
-Phylum Chordata
-> Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore)
-**Banded
-krait  
-*Bungarus fasciatus*  
-Family Elapidae***updated
-Oct 2016*
-
----
-
-**Where
-seen?** Usually rarely seen, this beautiful snake was the
+## Where seen?
+ Usually rarely seen, this beautiful snake was the
 highlight of the Chek Jawa boardwalk grand opening! The Singapore
 Snakes blog [also
 reported](http://singaporesnakes.blogspot.com/2006/05/banded-krait-bungarus-fasciatus_29l) swimming near mangroves on an offshore island. According

@@ -55,37 +55,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) > Family [Penaeidae](penaeidae)
-**Speckled
-penaeid prawn  
-*awaiting identification*  
-Family Penaeidae***updated
-Feb 2020*
-
----
-
-**Where
-seen?** This large prawn sprinkled with spots is sometimes
+## Where seen?
+ This large prawn sprinkled with spots is sometimes
 seen on some of our shores. In sandy areas near reefs. It is more
 active at night and usually seen alone. It is probably quite common
 but overlooked because it is so well camouflaged.  

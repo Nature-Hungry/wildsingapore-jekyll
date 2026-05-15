@@ -46,33 +46,9 @@ page_images:
     <p><a href="cutcurvespine.htm">Curvespine cuttlefish</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm)
-**Cuttlefishes**  **Family Sepiidae**updated
-May 2020
-
----
-
-**Where
-seen?** These rotund and chubby animals are seasonally common
+## Where seen?
+ These rotund and chubby animals are seasonally common
 on many of our shores, usually near seagrass meadows.  
   
 **What are cuttlefish?** Cuttlefish

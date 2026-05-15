@@ -38,20 +38,9 @@ page_images:
     <p>Labrador, Dec 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/23925139105/in/photolist-CsbAjn-CN3im6-svpzdr-nWwoVK-KRiGj-sVzV4M-98MeCA-4yqiWF-4yuAjm-4yqiTg-4yqiNv">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
 ---
-arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Class Insecta
-**Giant
-shield bug  
-*Pycanum* sp.  
-Family Tessaratomidae***updated
-Nov 2019*
 
----
-
-**Where
-seen?** These brightly coloured bugs are sometimes seen on [Simpoh air](../plants/others/dillenia/suffruticosa.htm) (*Dillenia suffruticosa*) which they are believed to feed on.   
+## Where seen?
+ These brightly coloured bugs are sometimes seen on [Simpoh air](../plants/others/dillenia/suffruticosa.htm) (*Dillenia suffruticosa*) which they are believed to feed on.   
   
 **What are shield bugs?** They are
 True Bugs that belong to Order Hemiptera. All members of the Family

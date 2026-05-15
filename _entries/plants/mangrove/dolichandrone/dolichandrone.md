@@ -58,33 +58,9 @@ page_images:
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[mangroves](../mangroves)
-**Tui or Mangrove trumpet tree  
-*Dolichandrone spathacea*  
-Family Bignoniaceae***updated
-Jan 2013*
-
----
-
-**Where seen?** Several of these beautiful trees have been
+## Where seen?
+  Several of these beautiful trees have been
 replanted at Sungei Buloh Wetland Reserve, Pulau Ubin and our coastal
 parks. According to Ng, it is confined to the back-mangrove zone and
 banks of tidal rivers and estuaries. The trees at Changi Point, Pulau

@@ -38,37 +38,9 @@ page_images:
     <p>Tiny egg sacs emerging through the joints.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-barnacles [text
-index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
-Phylum
-[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
-[Crustacea](../../crustacea) > Class
-[Cirripedia](cirripedia)
-**Parasitic
-barnacle  
-*Thompsonia* sp.  
-Family Thompsoniidae***updated
-Mar 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 gruesome animals are often seen growing in [flower
 crabs](../../crab/portunidae/pelagicus) (*Portunus pelagicus*). Infected crabs are usually
 encrusted with non-parasitic barnacles and other animals and seaweeds.

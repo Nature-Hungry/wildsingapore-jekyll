@@ -53,34 +53,9 @@ page_images:
     <p>Pulau Semakau, Mar 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants [text index](../../plantindex) | [photo
-index](../../plantfi)
-[coastal
-plants](../coastalplants) 
-**Rhu or Casuarina
-tree   
-*Casuarina equisetifolia*  
-Family Casuarinaceae***updated
-Oct 2016*
-
----
-
-**Where seen?** This tree with delicate needle-like twigs and
+## Where seen?
+  This tree with delicate needle-like twigs and
 distinctive cones is commonly grown on our seaside parks. It is also
 often seen growing wild on our shores. According to Hsuan Keng, these
 trees were probably wild originally between Tanjung Rhu and Changi.

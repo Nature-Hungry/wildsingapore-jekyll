@@ -152,36 +152,9 @@ page_images:
     <p>Terumbu Pempang Laut, May 12Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/06/03/120511/">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Syngnathidae](syngnathidae) > Genus [Hippocampus](hippocampus)
-**Tiger-tailed
-seahorse*****Hippocampus comes***  
-Family Syngnathidae  
-*updated
-Oct 2020*
-
----
-
-**Where
-seen?** This large seahorse with a black-and-yellow banded
+## Where seen?
+ This large seahorse with a black-and-yellow banded
 tail is often seen on our Southern shores, with one seen at Changi in 2019. According to the Singapore
 Red Data Book, the Tiger-tailed seahorse is usually found in coral
 reefs, in Singapore, mainly around the Southern Islands.   

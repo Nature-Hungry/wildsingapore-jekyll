@@ -45,22 +45,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
 ---
 
-
-sea
-stars [text index](../echinodermindex) | [photo
-index](../echinodermatafi)
-Phylum [Echinodermata](../echinodermata)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea)
-**Pale
-scaly sea stars  
-*Nepanthia maculata*  
-Family Asterinidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** So far, seen only once, on Beting Bronok. According
+## Where seen?
+ So far, seen only once, on Beting Bronok. According
 to Lane, this sea star is rather rare in Singapore. It was only first
 recorded for Singapore in 1991. According to Marsh and Fromont, it is found on muddy to coarse sand with rubble or coral in sheltered waters in Australia.  
   

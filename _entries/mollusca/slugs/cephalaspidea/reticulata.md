@@ -32,37 +32,9 @@ page_images:
     <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24290195313/in/album-72157607718672165/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-slugs [text
-index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm)
-> Order [Cephalaspidea](cephalaspidea.htm) > Family [Aglajidae](aglajidae.htm)
-**Reticulated
-tailed-slug**   
- ***Philinopsis reticulata*  
-Family Aglajidae***updated
-May 2020*
-
----
-
-**Where
-seen?** This small slug was seen at Cyrene in a sandy area
+## Where seen?
+ This small slug was seen at Cyrene in a sandy area
 near seagrasses and reefs.  
   
 **Features:** 2-3cm. A long, cylindrical

@@ -97,37 +97,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hard corals [text
-index](../../coralhardindex) | [photo index](../../cnidariafi1)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Anthozoa](../../anthozoa) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
-> Family [Poritidae](poritidae)
-**Pore
-coral  
-*Porites* sp.  
-Family Poritidae***updated
-Sep 2025*
-
----
-
-**Where
-seen?** This large coral with tiny corallites and polyps
+## Where seen?
+ This large coral with tiny corallites and polyps
 is among the most commonly encountered hard corals on many of our
 shores, including our Northern shores. Pore coral colonies are long-lived and can grow very large. The colonies
 produced by these tiny polyps can be more than 5m across! They can

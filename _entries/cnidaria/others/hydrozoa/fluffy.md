@@ -51,34 +51,9 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-hydroid [text
-index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
-Phylum [Cnidaria](../../cnidaria)
-> Class [Hydrozoa](hydrozoa)
-**Fluffy
-hydroid*****awaiting
-identification\*****updated
-Dec 2019*
-
----
-
-**Where
-seen?** This colony of tiny animals that resembles a fluffy
+## Where seen?
+ This colony of tiny animals that resembles a fluffy
 bush is sometimes seen on our Nothern shores, but often overlooked
 as it resembles a plant. It grows on hard surfaces.  
   

@@ -80,36 +80,9 @@ page_images:
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-plants
-[text index](../../plantindex) | [photo
-index](../../plantfi)
-
-[coastal
-plants](../../coastal/coastalplants) 
-****Jambu
-bol   
-*Syzygium malaccense***  
-**Family Myrtaceae*****updated
-Nov 10*
-
----
-
-**Where seen?** This tall tree with bright eye-piercing pink
+## Where seen?
+  This tall tree with bright eye-piercing pink
 fluffy flowers is sometimes seen in old abandoned 'kampongs' or villages,
 such as the area near Chek Jawa, Pulau Ubin. A native tree, it was
 brought by early traders to India and Africa. Formerly known as *Eugenia

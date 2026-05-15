@@ -87,36 +87,9 @@ page_images:
     <p>Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122120521316927700&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/merulina/060713rlhd4352m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Merulinidae](merulinidae.htm)
-**Ridged
-plate coral** ***Merulina* sp.\*  
-Family
-Merulinidae***updated Nov 2019*
-
----
-
-**Where
-seen?** This plate-like coral with radiating ridges is sometimes
+## Where seen?
+ This plate-like coral with radiating ridges is sometimes
 seen on some of our Southern shores.  
   
 **Features:** Colony 10-15cm, encrusting plates or fans, sometimes with knobbly

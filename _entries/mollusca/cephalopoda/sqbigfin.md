@@ -119,34 +119,9 @@ page_images:
     <p>Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166038170/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/050917smkg2560m3.jpg
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-cephalopods [text
-index](../molluscaindex.htm#cephalopoda) | [photo index](../cephalopodafi.htm)
-Phylum [Mollusca](../mollusca.htm)
-> Class [Cephalopoda](../cephalopoda.htm) > [squids
-and cuttlefishes](squid.htm) > Family [Loliginidae](loliginidae.htm)
-**Bigfin
-reef squid  
-*Sepioteuthis lessoniana*****Family Loliginidae***updated May 2020*
-
----
-
-**Where
-seen?** These squids are sometimes seen in numbers on our
+## Where seen?
+ These squids are sometimes seen in numbers on our
 Southern shores. Among seagrasses, also near coral rubble and reefs.
 It is often seen with its arms held splayed out when alarmed. It typically
 gathers near the bottom during the day, dispersing in the water at

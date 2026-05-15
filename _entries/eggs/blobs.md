@@ -33,13 +33,6 @@ page_images:
     <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3.jpg
 ---
-eggs [text
-index](eggindex) | [photo index](eggfi)
-**Egg
-blobs**  
- *updated Apr 2020*
-
----
 
 if
 you learn only 3 things about them ...  
@@ -50,8 +43,8 @@ them.
 don't bring egg blobs home. Thousands of baby animals
 may die.
   
-**Where
-seen?** These translucent blobs are sometimes seen on our mudflats and sandflats.
+## Where seen?
+ These translucent blobs are sometimes seen on our mudflats and sandflats.
 Seasonally, in large numbers.  
   
 **Features:** About 10cm long. Translucent

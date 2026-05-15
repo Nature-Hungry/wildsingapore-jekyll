@@ -101,32 +101,6 @@ page_images:
     <p><a href="scutus.htm">Hoof-shied limpet</a></p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Limpets***updated
-Aug 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -135,8 +109,8 @@ learn only 3 things about them ...
 ![](../../../photos/bullet.gif)The
 area around a limpet is often grazed bare of algae.
   
-**Where
-seen?** Limpets are found many of our shores. Both on and
+## Where seen?
+ Limpets are found many of our shores. Both on and
 under stones, as well as on rocks and other hard surfaces. Sometimes
 the shell is covered with algae and mud and the limpet might look
 like a sea slug. Immobile at low tide, these abundant snails are often

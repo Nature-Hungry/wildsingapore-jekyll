@@ -124,35 +124,9 @@ page_images:
     <p>](https://www.flickr.com/photos/wildsingapore/40398360790/in/photolist-2eavK6y-27ezk23-26cQJLu-fv13PA-fv13z9-fv13i5-fuKKkt-27jFGEE-26cX1DE-24xSacU-7tAK1F-7tEGHE "Cone snail (Family Conidae)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-shelled snails
-[text index](../../gastropodaindex.htm) | [photo
-index](../../gastropodafi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm)
-**Cone
-snails**   
- **Family Conidae***updated
-Jul 2020*
-
----
-
-**Where
-seen?** Although empty shells of dead snails are sometimes
+## Where seen?
+ Although empty shells of dead snails are sometimes
 seen, living cone snails are rarely encountered. In Singapore's past,
 they were seen on rocky shores, reef flats and reefs.  
   

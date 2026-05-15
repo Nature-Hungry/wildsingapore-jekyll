@@ -31,32 +31,9 @@ page_images:
     <p>Black-blotched porcupinefish (Diodon liturosus) Cyrene, Feb 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10157973767393119&set=a.10157973767323119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish)
-**Porcupinefishes**  
-**Family Diodontidae***updated Sep 2020*
-
----
-
-**Where
-seen?** These
+## Where seen?
+ These
 round spiky fishes are seldom seen. So far, in seagrass meadows.  
  **What are pufferfishes?** Porcupinefishes belong to the Family
 Diodontidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=448):

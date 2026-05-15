@@ -90,36 +90,9 @@ page_images:
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081493713&set=a.10159407302613713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-sea slugs [text
-index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
-Phylum [Mollusca](../../mollusca.htm)
-> Class [Gastropoda](../../gastropoda.htm) > [sea
-slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
-**Bryopsis
-slug**  
-***Placida* sp.*\******Family
-Limapontiidae***updated
-Jun 2020*
-
----
-
-**Where
-seen?** This superbly camouflaged slug is actually quite
+## Where seen?
+ This superbly camouflaged slug is actually quite
 common on many of our shores, particularly when there is a bloom of [Bryopsis
 seaweeds](../../../plants/seaweed/chlorophyta/bryopsis.htm). At this time, lots of them can be seen even in a small
 clump of seaweed. But they are really hard to spot.  

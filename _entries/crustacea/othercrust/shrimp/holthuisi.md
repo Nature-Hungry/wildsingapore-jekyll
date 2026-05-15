@@ -36,37 +36,9 @@ page_images:
     <p>Pulau Semakau, Aug 11 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6001964272/in/photolist-a9jPDK-a9nCSC">flickr</a>.</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg"
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-shrimps [text
-index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> [prawns and shrimps](shrimp) >   
-Family [Palaemonidae](palaemonidae)
-**'Gelek'
-anemone shrimp**  
-***Ancylomenes holthuisi*****Family Palaemonidae***updated
-Jan 2020*
-
----
-
-**Where
-seen?** This slender shrimp is rarely seen, sometimes in large sea anemones. It 'dances'
+## Where seen?
+ This slender shrimp is rarely seen, sometimes in large sea anemones. It 'dances'
 in a waggling way: 'gelek' means dance in Malay.  
   
 **Features:** About 2cm. Body almost

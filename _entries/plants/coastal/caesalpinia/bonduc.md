@@ -59,33 +59,9 @@ page_images:
     <p>Pulau Semakau, Nov 11</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
-
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[coastal
-plants](../coastalplants.htm) 
-**Bonduc   
-*Caesalpinia bonduc*  
-Family Fabacea***updated
-Oct 2016*
-
----
-
-**Where seen?** This rare prickly plant is only seen in Pulau
+## Where seen?
+  This rare prickly plant is only seen in Pulau
 Semakau, Lazarus Island and Pulau Senang. According to Hsuan Keng,
 it was found near the sea in bushes. According to Tomlinson, it is
 aldo found inland in secondary forests up to an altitude of 850m.

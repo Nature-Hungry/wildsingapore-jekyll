@@ -59,24 +59,8 @@ page_images:
 coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
 ---
 
-
-worms
-[text index](../wormindex) | [photo
-index](../wormfi)
-
-[worms](../worm) > Phylum Annelida >
-Class [Polychaeta](polychaeta)
-
-**Spaghetti
-worms  
-*awaiting
-identification*\*** *updated
-Oct 2016*
-
----
-
-**Where
-seen?** Worms with long tentacles are sometimes seen.   
+## Where seen?
+ Worms with long tentacles are sometimes seen.   
   
 **Features:** Displayed on this page
 are worms with long tentacles. They may belong to various different

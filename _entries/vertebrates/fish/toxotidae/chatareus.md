@@ -33,37 +33,9 @@ page_images:
     <p>Sungei Buloh Wetland Reserve, Feb 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Toxotidae](toxotidae)
-**Spotted
-archerfish**  
-***Toxotes
-chatareus*  
-Family Toxotidae***updated
-Oct 2020*
-
----
-
-**Where
-seen?** It is not seen as often as [Banded archerfishes](jaculatrix), but sometimes seen together with these.
+## Where seen?
+ It is not seen as often as [Banded archerfishes](jaculatrix), but sometimes seen together with these.
 Under jetties, bridges in streams near mangroves.  
  **Features:** About 20cm, to about
 40cm long. Smaller black spots between the broad black bands. Sometimes

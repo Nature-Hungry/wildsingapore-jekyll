@@ -29,35 +29,9 @@ page_images:
     <p>Dead Changi, Nov 08Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2998478849/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Family [Tetraodontidae](tetraodontidae)
-**Reticulated pufferfish  
-*Arothon reticularis***  
-**Family Tetraodontidae***updated
-Nov 2020*
-
----
-
-**Where
-seen?** A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
+## Where seen?
+ A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
 about 45cm. Body covered with fine prickles. Body greyish brown with whitish stripes on its snout, cheeks and belly. Brown and whitish lines circle the eye. Whitish rounded spots on the dorsal surface, giving a net-like appearance. Large blackish blotch on the gill flap and on the base of the pectoral fin. Tail fin is spotted and the other fins are translucent yellowish-brown.
  
 

@@ -67,32 +67,6 @@ page_images:
     <p><a href="../callionymidae/callionymidae">Dragonet</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish) >
-Order [Pleuronectiformes](pleuronectiformes)
-**Flatfishes:
-how to tell apart some common families**  
-**Order Pleuronectiformes***updated
-Apr 2020*
-
----
 
  Here's how to
 tell apart the [flatfishes](pleuronectiformes) commonly

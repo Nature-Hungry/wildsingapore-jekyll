@@ -75,36 +75,6 @@ page_images:
     <p>Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159189790812906&set=a.10159189773952906">facebook</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
- 
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-crabs [text
-index](../../crustaceaindex) | [photo index](../../crabfi)
-Phylum [Arthropoda](../../../arthropoda/arthropoda)
-> Subphylum [Crustacea](../../crustacea) > Class
-Malacostraca > Order [Decapoda](../../decapoda)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
-**Sand
-bubbler crab**  
-***Scopimera* and *Dotilla* spp.**  
-**Family Dotillidae***updated
-Dec 2019*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -115,8 +85,8 @@ or from burrowing.
 ![](../../../photos/bullet.gif)They
 are related to fiddler crabs.
   
-**Where
-seen?** This tiny ball-shaped crab is often seen on our sandy
+## Where seen?
+ This tiny ball-shaped crab is often seen on our sandy
 shores, just below the high water line. Resembling the little sand
 balls that it creates all over the shore at low tide, the crab itself
 is often missed. It is also very nervous and disappears instantly

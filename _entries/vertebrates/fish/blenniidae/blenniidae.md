@@ -48,29 +48,6 @@ page_images:
     <p><a href="rockskipper">Rockskipper blenny</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 ---
-[![](../../../../wildfactsheet3.gif)](../../../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../../animals)
-| [all plants](../../../plants)
-| [concepts](../../../concepts/indexl)
-| [glossary](../../../glossary/indexl)
-| [search](../../../search)
-
-fishes [text
-index](../fishindex) | [photo index](../fishfi)
-Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish)
-**Blennies  
-Family Blenniidae***updated Sep 2020*
-
----
 
 if you
 learn only 3 things about them ...  
@@ -80,8 +57,8 @@ back where you found them.
 ![](../../../photos/bullet.gif)Some
 of them nibble on bigger living fishes!
   
-**Where
-seen?** Small fang-blennies are sometimes encountered on some of our Southern
+## Where seen?
+ Small fang-blennies are sometimes encountered on some of our Southern
 shores, among seagrasses. Divers probably see a greater variety of
 blennies.   
   
