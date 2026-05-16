@@ -22,10 +22,22 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+rdb: EN
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/130728mnds02897m6l.jpg
   caption: |
     <p>Mandai mangroves, Jul 2013</p>
+  row_span: 2
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
+  caption: |
+    <p>Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove boardwalk.</p>
+    <p>Sungei Buloh Wetland Reserve, Aug 09</p>
+  row_span: 2
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg
+  caption: |
+    <p>Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk.</p>
+    <p>Chek Jawa, Aug 07</p>
+  row_span: 2
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1175m3.jpg
   caption: |
     <p>Emerges in a rosette of 5-10 leaves.</p>
@@ -40,19 +52,13 @@ page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
-  caption: |
-    <p>Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove boardwalk.</p>
-    <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg
-  caption: |
-    <p>Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk.</p>
-    <p>Chek Jawa, Aug 07</p>
+
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg
   caption: |
     <p>Mandai, Mar 11</p>
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3b.jpg
   caption: <p></p>
+
 links_references: |
   **Links**  
   - [Tiny
@@ -163,44 +169,3 @@ in many regions.
 **Status and threats:** It is listed
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.   
-
- 
-  
-
-
-
-
----
-
-
-
-
----
-
-**Beccari's
-seagrass on Singapore shores**
-
----
-
-Photos of [Beccari's seagrass](https://www.flickr.com/search/?q=Halophila+beccarii&w=54527470%40N00&s=rec) for free
-download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-
-   
-
----
-
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/halophila%252C%2520beccarii/map?&fLat=1.2959&fLon=103.8764&zl=11&order_by=recent)
-
----
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of  
-[seagrasses](http://www.flickr.com/photos/54527470@N00/sets/72157600000714159).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-**You CAN make a difference for Singapore's
-seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)

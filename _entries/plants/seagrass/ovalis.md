@@ -20,6 +20,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+rdb: LC
 display_attributes: [
   "Intertidal","In the mud", "Vulnerable"
 ]

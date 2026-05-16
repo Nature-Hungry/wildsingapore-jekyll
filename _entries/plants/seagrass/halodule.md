@@ -23,6 +23,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+rdb: VU
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg
   caption: |

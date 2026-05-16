@@ -5,6 +5,10 @@
     gap:20px;
     margin-bottom:20px;
 }
+.entry-summary-row .summary{
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}
 .entry-summary-row img{
     width: 100%;
     height: 100%;
@@ -16,6 +20,18 @@
     background-color: lightgray;
     height:100%;
     aspect-ratio: 1/1;
+    width:unset;
+    display:block;
+    margin:0;
+}
+
+.entry-summary-row .attributes{
+    display:flex;
+    gap:0.5rem;
+    justify-content: left;
+}
+.entry-summary-row .attribute{
+    width: fit-content;
 }
 
 .entry-summary-grid{

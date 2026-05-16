@@ -24,6 +24,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Oct 2016
+rdb: CR
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050309smkg3099m3.jpg
   caption: '<p>Pulau Semakau has a vast meadow of tape seagrass Pulau Semakau, Mar
@@ -223,32 +224,7 @@ links_references: |
     Concise Flora of Singapore II: Monoctyledons*
     Singapore University Press. 215 pp.
   
-  **You CAN make a difference for Singapore's
-  seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-  \ Tan, Leo W. H. & Ng, Peter\n  K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- McKenzie,\n  L.J., Yaakub,\
-  \ S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:\n  Guidelines for TeamSeagrass\
-  \ Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*\
-  \ (PDF).\n  Proceedings of a training workshop, National Parks Board, Biodiversity\n\
-  \  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.\n- [Identifying\n\
-  \  seagrasses](http://www.seagrasswatch.org/id_seagrassl)\n  on the Seagrass-Watch\
-  \ website.\n\n\n**References**\n\n\n- Tan, Hugh\n  T.W. L.M. Chou, Darren C. J.\
-  \ Yeo and Peter K.L. Ng. 2007. *The\n  Natural Heritage of Singapore*.\n  Second\
-  \ edition. Prentice Hall. 271 pp.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho\
-  \ Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and animals\
-  \ of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Lim, S.,\n  P. Ng, L.\
-  \ Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life\n  and Times of Labrador\
-  \ Beach*. Division of Biology, School of\n  Science, Nanyang Technological University\
-  \ & Department of Zoology,\n  the National University of Singapore. 160 pp.\n- Waycott,\n\
-  \  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of\n  the Indo-West\
-  \ Pacific.* 2004. James Cook University. 72 pp.\n- Davison,\n  G.W. H. and P. K.\
-  \ L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants\
-  \ and animals of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Calumpong,\n\
-  \  H. P. & Menez, E. G., 1997.*Field\n  Guide to the Common Mangroves, Seagrasses\
-  \ and Algae of the Philippines*.\n  Bookmark, Inc., the Philippines. 197 pp.\n-\
-  \ Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *The\n  Concise Flora of Singapore\
-  \ II: Monoctyledons*\n  Singapore University Press. 215 pp.\n\n**You CAN make a\
-  \ difference for Singapore's\nseagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)"---
+---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
 [wildsingapore

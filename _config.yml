@@ -33,4 +33,4 @@ author:
 collections:
   entries:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/

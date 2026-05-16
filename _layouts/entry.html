@@ -82,6 +82,17 @@
     .trivia-box ul{
         padding:0 3rem 1rem 3rem;
     }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
   </style>
 
 
@@ -104,9 +115,36 @@
                 </div>
             </div>
           <div>
-                <p>{{page.phylum}} > {{page.class}} > {{page.order}} > {{page.family}}</p>
+                <p>
+                    <a href="/{{page.phylum}}">{{page.phylum}}</a>
+                    > 
+                    <a href="/{{page.phylum}}/{{page.class}}">{{page.class}}</a>
+                    > 
+                    <a href="/{{page.phylum}}/{{page.class}}/{{page.order}}">{{page.order}}</a>
+                    >
+                    <a href="/{{page.phylum}}/{{page.class}}/{{page.order}}/{{page.suborder}}">{{page.suborder}}</a>
+                    >
+                    <a href="/{{page.phylum}}/{{page.class}}/{{page.order}}/{{page.suborder}}/{{page.family}}">{{page.family}}</a>
+                </p>
                 <h1>{{page.title}}</h1>
-                <p class="scientific-name">{{page.genus}} {{page.species}}</p>
+                {% if page.genus != '' %}
+                    <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
+                {% elsif page.family != '' %}
+                    <p class="scientific-name">Family {{page.family}}</p>
+                {% elsif page.suborder != '' %}
+                    <p class="scientific-name">Suborder {{page.suborder}}</p>
+                {% elsif page.order != '' %}
+                    <p class="scientific-name">Order {{page.order}}</p>
+                {% elsif page.class != '' %}
+                    <p class="scientific-name">Class {{page.class}}</p>
+                {% elsif page.subphylum != '' %}
+                    <p class="scientific-name">Subphylum {{page.subphylum}}</p>
+                {% elsif page.phylum != '' %}
+                    <p class="scientific-name">Phylum {{page.phylum}}</p>
+                {% else %}
+                    <p class="scientific-name">Kingdom {{page.kingdom}}</p>
+                {% endif %}
+
                 <p><em>Updated {{page.updated}}</em></p>
                 <div class="attributes-row">
                   {% for a in page.display_attributes %}

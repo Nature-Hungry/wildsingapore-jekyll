@@ -21,6 +21,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+rdb: EN
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050309smkd1462m3.jpg
   caption: |

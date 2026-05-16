@@ -23,6 +23,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Oct 2016
+rdb: EN
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050111labg2732m3.jpg
   caption: |

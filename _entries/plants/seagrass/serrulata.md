@@ -22,6 +22,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Sep 2017
+rdb: EN
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/111030skdd3364m3.jpg
   caption: |

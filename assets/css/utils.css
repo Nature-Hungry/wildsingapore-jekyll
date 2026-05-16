@@ -12,3 +12,27 @@
 .align-center{
     align-items: center;
 }
+
+
+
+.redlist{
+    color:white;
+    height:30px;
+    aspect-ratio: 1;
+    margin-bottom: 0.5rem;
+}
+.CR{
+    background-color: #D81E05;
+}
+.EN{
+    background-color:#FC7F3F;
+}
+.VU{
+    background-color:#F9E814 ;
+}
+.NT{
+    background-color:#CCE226;
+}
+.LC{
+    background-color:#60C659;
+}

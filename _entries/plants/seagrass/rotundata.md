@@ -23,6 +23,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+rdb: CR
 page_images:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/090627cjd5679m6l.jpg
   caption: |
