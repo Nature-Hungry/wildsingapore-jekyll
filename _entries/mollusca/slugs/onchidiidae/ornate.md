@@ -21,73 +21,46 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
-  caption: |
-    <p>Kranji Nature Trail, Jan 09</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg
-  caption: |
-    <p>Eyes on stalks.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
-  caption: |
-    <p>Underside</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg
-  caption: |
-    <p>Pulau Semakau, Feb 09</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg"
+      caption: "Kranji Nature Trail, Jan 09"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg"
+      caption: Eyes on stalks.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg"
+      caption: Underside
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg"
+      caption: "Pulau Semakau, Feb 09"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg"
+      caption: ""
 ---
 
-## Where seen?
- This small oval slug with an ornate texture is sometimes
-seen in mangroves in the North.  
-  
-## Features
- 3-5cm. Body hard, oval,
-rounded. Skin with regular pattern of bumps with blunt spikes on them,
-resulting in a very ornate texture! Colour plain, beige or greyish.
-Eyes on long thin stalks. Underside and narrow foot are pale to lemon
-yellow.
+**Where seen?**
+This small oval slug with an ornate texture is sometimes seen in mangroves in the North.
 
- 
+**Features:**
+3-5cm. Body hard, oval, rounded. Skin with regular pattern of bumps with blunt spikes on them, resulting in a very ornate texture! Colour plain, beige or greyish. Eyes on long thin stalks. Underside and narrow foot are pale to lemon yellow.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+***
+*Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Ornate onch slugs on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
-  
- *\***Species are difficult to positively identify
-without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Ornate
-onch slugs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Ornate onch slug) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Ornate onch slug)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Ornate%2520onch%2520slug/map?&fLat=1.3113&fLon=103.8571&zl=11&order_by=recent)
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -32,147 +32,114 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
-  caption: |
-    <p>Tanah Merah, Sep 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3e.jpg
-  caption: |
-    <p>6 small rounded lobes between the eyes.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3a.jpg
-  caption: |
-    <p>5 spines on the body side, edged with small blue and dark spots.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/120604pgld3736m3.jpg
-  caption: |
-    <p>A pair about to mate?</p>
-    <p>Punggol, Jun 12</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200706skdlks2.jpg
-  caption: |
-    <p>Mating pair  Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431583318158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/260105prpezxh5.jpg
-  caption: |
-    <p>Eating a dead fish.</p>
-    <p>Pasir Ris Park, Jan 26Photo shared by Zen Xuan He on <a href="https://www.facebook.com/chen.octavius/posts/2081297236002397?ref=embed_post">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200917sbwmn5.jpg
-  caption: |
-    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157705758308660&set=a.10157485864973660">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250626ubnjd1.jpg
-  caption: |
-    <p>Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on <a href="https://www.facebook.com/media/set?vanity=61561901480594&set=a.122159556872396716">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200622chgmn1.jpg
-  caption: |
-    <p>Changi, Jun 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157477174738660&set=a.10157477171708660&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/100709tmmn.jpg
-  caption: |
-    <p>Tanah Merah, Jul 10 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4785563498/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151031ecpmblks.JPG
-  caption: |
-    <p>East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472154324/in/album-72157607745985508/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/141223tusjll2m3.jpg
-  caption: |
-    <p>Mating pair  Tuas, Dec 14 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152597733211295.1073741843.542241294&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151001blrmn1.jpg
-  caption: |
-    <p>Berlayar Creek, Oct 15 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/22435488336/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251010blyll1.jpg
-  caption: |
-    <p>Berlayar Creek, Oct 25 Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/150829lazlks.JPG
-  caption: |
-    <p>Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24074543586/in/album-72157625976409015/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250909lazlks6.jpg
-  caption: |
-    <p>Seringat Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/240211bigsisvc3.jpg
-  caption: |
-    <p>Big Sisters Island, Feb 24 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224105272945&set=a.10160224174947945">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151129sjimn.jpg
-  caption: |
-    <p>St John's Island, Nov 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153304236688660.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251207hntml5.jpg
-  caption: |
-    <p>Pulau Hantu, Dec 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122193512480554640&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/220504hnttyj2.jpg
-  caption: |
-    <p>Pulau Hantu, May 22 Photo shared by Tang Yong Jen on <a href="https://www.facebook.com/photo/?fbid=10159699275804223&set=a.10159699273919223">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/081227smkmn.jpg
-  caption: |
-    <p>Mating pair  Pulau Semakau, Dec 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3170131170/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg"
+      caption: "Tanah Merah, Sep 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3e.jpg"
+      caption: 6 small rounded lobes between the eyes.
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3a.jpg"
+      caption: "5 spines on the body side, edged with small blue and dark spots."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/120604pgld3736m3.jpg"
+      caption: "A pair about to mate? Punggol, Jun 12"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200706skdlks2.jpg"
+      caption: "Mating pair Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/260105prpezxh5.jpg"
+      caption: "Eating a dead fish. Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200917sbwmn5.jpg"
+      caption: "Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250626ubnjd1.jpg"
+      caption: "Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200622chgmn1.jpg"
+      caption: "Changi, Jun 20 Photo shared by Marcus Ng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/100709tmmn.jpg"
+      caption: "Tanah Merah, Jul 10 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151031ecpmblks.JPG"
+      caption: "East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/141223tusjll2m3.jpg"
+      caption: "Mating pair Tuas, Dec 14 Photo shared by Jianlin Liu on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151001blrmn1.jpg"
+      caption: "Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251010blyll1.jpg"
+      caption: "Berlayar Creek, Oct 25 Photo shared by Liz Lim on facebook ."
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/150829lazlks.JPG"
+      caption: "Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250909lazlks6.jpg"
+      caption: "Seringat Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook"
+  gallery8:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/240211bigsisvc3.jpg"
+      caption: "Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151129sjimn.jpg"
+      caption: "St John's Island, Nov 15 Photo shared by Marcus Ng on facebook ."
+  gallery9:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251207hntml5.jpg"
+      caption: "Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/220504hnttyj2.jpg"
+      caption: "Pulau Hantu, May 22 Photo shared by Tang Yong Jen on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/081227smkmn.jpg"
+      caption: "Mating pair Pulau Semakau, Dec 08 Photo shared by Marcus Ng on flickr ."
 links_references: |
-     **Links**
-  - [Swimming
-    crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
-    L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - Family
-    Portunidae in
-    the Crabs section by Peter K. L. Ng in the FAO Species Identification
-    Guide for Fishery Purposes: The Living Marine Resources of the
-    Western Central Pacific [Volume
-    2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
-    the Food and Agriculture Organization of the United Nations
-    (FAO) website.
-  - [Crenate
-    swimming crab (*Thalamita crenata*)](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361) on [SeaLifeBase](http://www.sealifebase.org/):
-    technical fact sheet.
-  - [Mangrove
-    swimming crab (*Thalamita crenata*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142) on Crabs of Japan
-    in Marine Species Identification Portal: Technical fact sheet.
+  **Links**
+  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.md)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.md)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
+  - [Crenate swimming crab (
+  *Thalamita crenata*
+  )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361)
+  on
+  [SeaLifeBase](http://www.sealifebase.org/)
+  : technical fact sheet.
+  - [Mangrove swimming crab (
+  *Thalamita crenata*
+  )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142)
+  on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
+  
   **References**
-  - Lim, S.,
-    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The
-    Life and Times of Labrador Beach.* Division of Biology, School
-    of Science, Nanyang Technological University & Department of
-    Zoology, the National University of Singapore. 160 pp.
-  - Jones Diana
-    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-    of Australian Waters*. Reed New Holland. 224 pp.
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  - Jones Diana S. and Gary J. Morgan, 2002.
+  *A Field Guide to Crustaceans of Australian Waters*
+  . Reed New Holland. 224 pp.
 ---
 
-## Where seen?
- This swimming crab with powder blue pincers is sometimes
-seen near seagrasses and reefs on some of our shores. Elsewhere, they
-are also found in mangroves and soft-silty bottoms near rocky areas
-without reefs.  
-  
-## Features
- Body width 5-7cm. Body
-somewhat rectangular, the sides of the body with 5 light blue-light
-brown tipped spines of about equal size. The eyes are wide apart.
-Between the eyes are 6 small rounded lobes. Walking legs greenish
-or bluish with orange joints and orange or red tips. Last pair of
-legs are paddle-shaped. Body and pincers sand coloured, plain light
-olive or pinkish, The body edge may have a fine powder blue-brown
-banded pattern. The pincers are powder blue with dark red tips.   
- **Human uses:** Harvested elsewhere by traps, trawling and
-nets although it is not as commercially valuable as other swimming
-crabs.
+**Where seen?**
+This swimming crab with powder blue pincers is sometimes seen near seagrasses and reefs on some of our shores. Elsewhere, they are also found in mangroves and soft-silty bottoms near rocky areas without reefs.
 
- 
+**Features:**
+Body width 5-7cm. Body somewhat rectangular, the sides of the body with 5 light blue-light brown tipped spines of about equal size. The eyes are wide apart. Between the eyes are 6 small rounded lobes. Walking legs greenish or bluish with orange joints and orange or red tips. Last pair of legs are paddle-shaped. Body and pincers sand coloured, plain light olive or pinkish, The body edge may have a fine powder blue-brown banded pattern. The pincers are powder blue with dark red tips.
 
+**Human uses:**
+Harvested elsewhere by traps, trawling and nets although it is not as commercially valuable as other swimming crabs.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Powder blue-clawed swimming crabs on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
-  
-*\*Species are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Powder
-blue-clawed swimming crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Thalamita%20crenata) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Thalamita%20crenata)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Thalamita%2520crenata/map?&fLat=1.2622&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -180,46 +147,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery8 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery9 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

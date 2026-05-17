@@ -24,86 +24,54 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
-  caption: |
-    <p>Pulau Semakau, Nov 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3.jpg
-  caption: |
-    <p>Cyrene Reef, May 08</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3.jpg
-  caption: |
-    <p>St.</p>
-    <p>John's Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3b.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
+      caption: "Pulau Semakau, Nov 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3.jpg"
+      caption: "Cyrene Reef, May 08"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3b.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3.jpg"
+      caption: "St. John's Island, Oct 11"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3b.jpg"
+      caption: ""
 ---
 
-## Where seen?
- This large prawn sprinkled with spots is sometimes
-seen on some of our shores. In sandy areas near reefs. It is more
-active at night and usually seen alone. It is probably quite common
-but overlooked because it is so well camouflaged.  
-  
-## Features
- 5-8cm long. Body speckled
-with small spots all over, reddish, greyish or brown. There may be
-faint bands on the body.
- 
+**Where seen?**
+This large prawn sprinkled with spots is sometimes seen on some of our shores. In sandy areas near reefs. It is more active at night and usually seen alone. It is probably quite common but overlooked because it is so well camouflaged.
 
+**Features:**
+5-8cm long. Body speckled with small spots all over, reddish, greyish or brown. There may be faint bands on the body.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Speckled penaeid prawns on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
----
-
-
-
-
-  
-*\*Species are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Speckled
-penaeid prawns on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Speckled penaeid prawn) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Speckled penaeid prawn)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Speckled%2520penaeid%2520prawn/map?&fLat=1.2612&fLon=103.8661&zl=11&order_by=recent)
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

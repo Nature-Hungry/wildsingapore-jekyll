@@ -22,71 +22,60 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
-  caption: |
-    <p>Changi, Aug 08</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
-  caption: |
-    <p>Pointed tube feet.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
-  caption: |
-    <p>Changi, Jul 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211066888320371&set=a.10208831078666527&type=3&theater">facebook</a>..</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
+      caption: "Changi, Aug 08"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg"
+      caption: Underside.
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg"
+      caption: Pointed tube feet.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg"
+      caption: "Changi, Jul 17 Photo shared by Abel Yeo on facebook .."
 links_references: |
   **Links**
-  - [*Luidia hardwicki*](http://www.sealifebase.org/summary/Luidia-hardwickil) on SeaLife Base: Technical fact sheet.
-   **References**
-  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Didier VandenSpiegel
-    et al. 1998. *The
-    Asteroid fauna (Echinodermata) of Singapore with a distribution
-    table and illustrated identification to the species*. The Raffles
-    Bulletin of Zoology 1998 46(2): 431-470.
+  - [*Luidia hardwicki*](http://www.sealifebase.org/summary/Luidia-hardwicki.html)
+  on SeaLife Base: Technical fact sheet.
+  
+  **References**
+  - Loisette M. Marsh and Jane Fromont.
+  *Field Guide to Shallow Water Seastars of Australia*
+  . 2020. Western Australian Museum. 543pp
+  - Lane, David J.W. and Didier Vandenspiegel. 2003
+  *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+  . Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel et al. 1998.
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+  . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
-## Where seen?
- This
-elegant sea star is sometimes seen, so far, only on Changi.
-On soft silty shores near seagrasses. It appears to be seasonal with several being seen and none seen again for some time. According to Lane, recorded from Sultan Shoal and the Pulau Ayer Chawan islands that
-have since been reclaimed to form Jurong Island. According to Marsh and Fromont, it is found in sand, mud and shelly sand in Australia.  
-  
-## Features
- Diameter with arms to 5-8cm. 5 arms, long, slightly rounded, and tapered to a pointed tip, edged
-with tiny spines along the sides. Upperside plain, beige, grey or pinkish, sometimes with darker arm tips or darker band along the arms. Upperside
-covered with special flat-topped, pillar-like structures called paxillae.
-Underside pale without markings. Tube feet large, translucent with pointed tips, It has bivalve pedicellariae which require a strong hand lens to see.  
-  
-**What does it eat?** According to Marsh and Fromont, it eats predominantly clams and snails. But it also eats other echinoderms, crustaceans and foraminifera. It also scavenges on dead animals and may also be cannibals. Prey are swallowed whole.
+**Where seen?**
+This elegant sea star is sometimes seen, so far, only on Changi. On soft silty shores near seagrasses. It appears to be seasonal with several being seen and none seen again for some time. According to Lane, recorded from Sultan Shoal and the Pulau Ayer Chawan islands that have since been reclaimed to form Jurong Island. According to Marsh and Fromont, it is found in sand, mud and shelly sand in Australia.
 
- 
+**Features:**
+Diameter with arms to 5-8cm. 5 arms, long, slightly rounded, and tapered to a pointed tip, edged with tiny spines along the sides. Upperside plain, beige, grey or pinkish, sometimes with darker arm tips or darker band along the arms. Upperside covered with special flat-topped, pillar-like structures called paxillae. Underside pale without markings. Tube feet large, translucent with pointed tips, It has bivalve pedicellariae which require a strong hand lens to see.
 
-
-
-
+**What does it eat?**
+According to Marsh and Fromont, it eats predominantly clams and snails. But it also eats other echinoderms, crustaceans and foraminifera. It also scavenges on dead animals and may also be cannibals. Prey are swallowed whole.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---
 
-**Five-armed Luidia
-sea stars on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Five-armed Luidia sea stars on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Luidia hardwicki) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Luidia hardwicki)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Luidia%2520hardwicki/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -94,6 +83,5 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---

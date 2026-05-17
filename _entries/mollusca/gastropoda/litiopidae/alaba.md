@@ -10,43 +10,38 @@ genus: Alaba
 species: virgata*
 attributes: []
 updated: Aug 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
-  caption: |
-    <p>Changi, Jul 15.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg
-  caption: |
-    <p>Changi, Jul 15</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg
-  caption: |
-    <p>Chek Jawa, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153437829118713.1073741963.619308712&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg"
+      caption: "Changi, Jul 15 ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg"
+      caption: "Changi, Jul 15"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg"
+      caption: "Chek Jawa, Jul 15 Photo shared by Toh Chay Hoon on facebook ."
 ---
 
-## Where seen?
- These tiny snails are often seen in large numbers on seagrasses on our Northern shores.   
-  
-## Features
- 0.5cm or smaller. Shell thin,
-conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.
+**Where seen?**
+These tiny snails are often seen in large numbers on seagrasses on our Northern shores.
 
- 
+**Features:**
+0.5cm or smaller. Shell thin, conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-  
-*\*Species
-are difficult to positively identify without close examination.   
-On this website, they are grouped by external features for convenience
-of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
 **Tiny seagrass snails on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Alaba virgata) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Alaba virgata)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Alaba%2520virgata/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -54,26 +49,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Acknowledgement**  
-Grateful thanks to Tan Siong Kiat for the possible identification of this snail. **References**
+**Acknowledgement**
 
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
+Grateful thanks to Tan Siong Kiat for the possible identification of this snail.
+**References**
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+- Tan Siong Kiat and Henrietta P. M. Woo, 2010
+*Preliminary Checklist of The Molluscs of Singapore*
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.

@@ -17,79 +17,6 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
-  caption: |
-    <p>Sisters Island, Jan 12</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
-  caption: |
-    <p>Cyrene Reef, Jul 11</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
-  caption: |
-    <p>Sisters Island, Jan 12</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5926m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
-  caption: |
-    <p>Labrador, Feb 06</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5284m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
-  caption: |
-    <p>Terumbu</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8553m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
-  caption: |
-    <p>Terumbu</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>Australian Institute of Marine Science, Australia.</p>
-    <p>3 volumes.</p>
-    <p>- Chou, L.</p>
-    <p>M., 1998.</p>
-    <p>A Guide to the Coral Reef Life of Singapore.</p>
-    <p>Singapore Science Centre.</p>
-    <p>128 pages.</p>
-    <p>- Erhardt, Harry and Daniel Knop.</p>
-    <p>2005.</p>
-    <p>Corals:</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>IKAN-Unterwasserachiv, Frankfurt.</p>
-    <p>305 pp.</p>
-    <p>- Borneman, Eric H.</p>
-    <p>2001.</p>
-    <p>Aquarium</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>T.F.</p>
-    <p>H Publications.</p>
-    <p>464 pp</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
 links_references: |
   **Links**
@@ -103,6 +30,7 @@ links_references: |
     microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)* and *[Cyphastrea
     serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)* on
     SeaLife Base: Technical fact sheet.
+  
   **References**
   - Danwei
     Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
@@ -112,56 +40,68 @@ links_references: |
     Zoology Supplement No. 22: 69-80.
   - Veron,
     Jen. 2000. *Corals
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg"
+      caption: "Sisters Island, Jan 12"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg"
+      caption: "Cyrene Reef, Jul 11"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg"
+      caption: "Sisters Island, Jan 12"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg"
+      caption: "Labrador, Feb 06"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg"
+      caption: "Terumbu Hantu, Apr 17"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg"
+      caption: "Terumbu Berkas, Jan 10"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg"
+      caption: "Terumbu Salu, Jan 10"
+  gallery5:
+    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+      caption: "Links Corals of the World with species factsheets. IUCN Red List of Threatened Species with species factsheets. Cyphastrea on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet. Cyphastrea chalcidium , Cyphastrea microphthalma and Cyphastrea serailia on SeaLife Base: Technical fact sheet. References Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80. Veron, Jen. 2000. Corals of the World Australian Institute of Marine Science, Australia. 3 volumes. Chou, L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages. Erhardt, Harry and Daniel Knop. 2005. Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 305 pp. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry and Natural History T.F. H Publications. 464 pp"
 ---
 
-## Where seen?
- These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen
-on many of our Southern shores.  
-  
-## Features
- Colonies seen 15-30cm,
-sometimes much larger. The colony is generally a smooth boulder shape,
-sometimes forming smooth hillocks of different
-sizes, or small towers. The corallites have separate walls that are rather thick, forming
-a tiny circular ring (0.2cm or less) and are packed close to, but
-not squashed against one another. The result is a regular pattern
-of tiny rings. The surface between corallites often has tiny granular
-bumps. The polyps are tiny with many short tentacles, usually close
-to the colony surface, i.e., body column is not long.  
-  
-Colours seen include brown, yellow, orange and green.  
-  
-*Monstastrea curta* and *Favia stelligera* may appear similar. It's hard to distinguish them without
-close examination of small features and they are grouped here by large
-external features for convenience of display.
+**Where seen?**
+These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen on many of our Southern shores.
 
- 
+**Features:**
+Colonies seen 15-30cm, sometimes much larger. The colony is generally a smooth boulder shape, sometimes forming smooth hillocks of different sizes, or small towers. The corallites have separate walls that are rather thick, forming a tiny circular ring (0.2cm or less) and are packed close to, but not squashed against one another. The result is a regular pattern of tiny rings. The surface between corallites often has tiny granular bumps. The polyps are tiny with many short tentacles, usually close to the colony surface, i.e., body column is not long.
 
+Colours seen include brown, yellow, orange and green.
 
+*Monstastrea curta*
+and
+*Favia stelligera*
+may appear similar. It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}**Species are difficult to positively identify without close examination.
 
-
-
-
- *\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience
-of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
 **Meteor corals on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cyphastrea) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cyphastrea)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/cyphastrea/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -169,43 +109,31 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
 ***Cyphastrea*
-species recorded for Singapore**Danwei
-Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-*An inventory of zooxanthellate sclerectinian corals in Singapore
-including 33 new records*   
-\*\*the species found on many shores
-in Danwei's paper.  
+species recorded for Singapore**
+Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+*An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+**the species found on many shores in Danwei's paper.
+
 in red are those listed as threatened
-on the [IUCN global list](../faviidae/ring/www.iucnredlist.org).   
-  
- 
-**[Family
-Merulinidae](merulinidae.htm)  
-Genus *Cyphastrea***
- 
-*Cyphastrea
-chalcidicum\*\*  
-Cyphastrea microphthalma\*\*  
-Cyphastrea serailia\*\** 
+on the
+[IUCN global list](../faviidae/ring/www.iucnredlist.org)
+.
+
+**[Family Merulinidae](merulinidae.md)
+
+Genus
+*Cyphastrea***
+
+*Cyphastrea chalcidicum**
+
+Cyphastrea microphthalma**
+
+Cyphastrea serailia***
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery5 %}

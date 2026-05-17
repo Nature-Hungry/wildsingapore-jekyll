@@ -5,70 +5,49 @@ keywords: wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiid
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg
-  caption: |
-    <p>White knobs possibly the penis?</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg"
+      caption: "White knobs possibly the penis?"
 ---
 
 **Unidentified
-*Elysia* slug #1**  
-About 2cm long.
-Green body with only has a black margin around the parapodia (no orange
-margin). Little black spots. *Pulau Sekudu, May 04*
- 
+*Elysia*
+slug #1**
 
+About 2cm long. Green body with only has a black margin around the parapodia (no orange margin). Little black spots.
+*Pulau Sekudu, May 04*
+
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
 **Unidentified
-*Elysia* slug #2**  
-About 0.5-1cm long.
-Olive green body tapering 'wings' and very long rhinophores. Many
-seen on a bloom of unknown fine hairy green stuff on a sandy silty
-shore. *Seletar Feb 12*
+*Elysia*
+slug #2**
 
+About 0.5-1cm long. Olive green body tapering 'wings' and very long rhinophores. Many seen on a bloom of unknown fine hairy green stuff on a sandy silty shore.
+*Seletar Feb 12*
 
-back to [general info on elysia slugs](elysiidae.htm)
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
-tagged with [Sacoglossa](http://www.flickr.com/photos/54527470@N00/tags/sacoglossa).
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+back to
+[general info on elysia slugs](elysiidae.md)

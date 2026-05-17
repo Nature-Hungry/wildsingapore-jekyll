@@ -27,66 +27,56 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
-  caption: |
-    <p>Sisters Island, Nov 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg
-  caption: |
-    <p>Sisters Island, Nov 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg
-  caption: |
-    <p>Beting Bronok, May 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5736708784/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg
-  caption: |
-    <p>Beting Bronok, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/pretty-creatures-of-beting-bronok.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg"
+      caption: "Sisters Island, Nov 05"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg"
+      caption: "Sisters Island, Nov 05"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg"
+      caption: "Beting Bronok, May 11 Photo shared by James Koh on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg"
+      caption: "Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog ."
 links_references: |
-  **Links**  
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-    photos of [*Notobryon
-    wardi*](http://www.seaslugforum.net/find/notoward)
+  **Links**
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: including descriptions and photos of
+  [*Notobryon wardi*](http://www.seaslugforum.net/find/notoward)
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Humann, Paul
-    and Ned Deloach. 2010. *Reef
-    Creature Identification: Tropical Pacific* New World Publications.
-    497pp.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul and Ned Deloach. 2010.
+  *Reef Creature Identification: Tropical Pacific*
+  New World Publications. 497pp.
 ---
 
-## Where seen?
- Sometimes seen on some of our reefy shores.  
-  
-## Features
- About 3cm long. It has
-a pair of 'flaps' (mantle lobes) in the middle of the body which it
-can use to swim with. There are fluffy structures (dendritic gill-like
-structures) inside the mantle lobes. The brush-like rhinophores are
-tiny and are at the tip of a huge rhinophore stalk.  
-  
-**What does it eat?** This nudibranch
-eats [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm).
+**Where seen?**
+Sometimes seen on some of our reefy shores.
 
- 
+**Features:**
+About 3cm long. It has a pair of 'flaps' (mantle lobes) in the middle of the body which it can use to swim with. There are fluffy structures (dendritic gill-like structures) inside the mantle lobes. The brush-like rhinophores are tiny and are at the tip of a huge rhinophore stalk.
 
-
+**What does it eat?**
+This nudibranch eats
+[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Notobryon
-nudibranchs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Notobryon nudibranchs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Notobryon) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Notobryon)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Notobryon/map?&fLat=1.2622&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -94,21 +84,5 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

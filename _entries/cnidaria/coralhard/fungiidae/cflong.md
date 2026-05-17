@@ -17,85 +17,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
-  caption: |
-    <p><a href="polyphyllia.htm">Mole mushroom hard coral</a> Polyphyllia talpina</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
-  caption: |
-    <p>Central groove may not be distinct.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
-  caption: |
-    <p>Short, petal-shaped walls that form radial patterns, instead of parallel lines.</p>
-    <p>Tentacles tiny.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
-  caption: |
-    <p><a href="herpolitha.htm">Tongue mushroom hard coral</a> Herpolitha limax</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg
-  caption: |
-    <p>Long distinct central groove.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
-  caption: |
-    <p>Walls in several short overlapping lines running perpendicular to central groove to the edge.</p>
-    <p>Tentacles tiny.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
-  caption: |
-    <p><a href="ctenactis.htm">Feather mushroom hard coral</a> Ctenactis sp.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
-  caption: |
-    <p>Long distinct central furrow.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg
-  caption: |
-    <p>Walls in thin generally unbroken lines running perpendicular to central groove to the edge.</p>
-    <p>Tentacles tiny, very sparse.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
-  caption: |
-    <p><a href="oval.htm">Oval mushroom coral</a> Fungia sp.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
-  caption: |
-    <p>Central furrow distinct in various lengths.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
-  caption: |
-    <p>Walls in several long overlapping lines running perpendicular to central groove to the edge.</p>
-    <p>Wall teeth tiny not obvious when covered by tissue.</p>
-    <p>Tentacles tiny.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg"
+      caption: Mole mushroom hard coral Polyphyllia talpina
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg"
+      caption: Central groove may not be distinct.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg"
+      caption: "Short, petal-shaped walls that form radial patterns, instead of parallel lines. Tentacles tiny."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg"
+      caption: Tongue mushroom hard coral Herpolitha limax
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg"
+      caption: Long distinct central groove.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg"
+      caption: Walls in several short overlapping lines running perpendicular to central groove to the edge. Tentacles tiny.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg"
+      caption: Feather mushroom hard coral Ctenactis sp.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg"
+      caption: Long distinct central furrow.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg"
+      caption: "Walls in thin generally unbroken lines running perpendicular to central groove to the edge. Tentacles tiny, very sparse."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
+      caption: Oval mushroom coral Fungia sp.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg"
+      caption: Central furrow distinct in various lengths.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg"
+      caption: Walls in several long overlapping lines running perpendicular to central groove to the edge. Wall teeth tiny not obvious when covered by tissue. Tentacles tiny.
 ---
 
- These elongated
-mushroom corals that lie unattached to the ground may look similar
-at first glance.
-Here's more on how to tell them apart.
+These elongated mushroom corals that lie unattached to the ground may look similar at first glance. Here's more on how to tell them apart.
 
 ---
-
- 
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery4 %}

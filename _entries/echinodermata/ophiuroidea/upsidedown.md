@@ -27,63 +27,49 @@ suborder: Gnathophiurina
 superfamily: Ophiactoidea
 subgenus: Ophiothrix
 updated: Apr 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg
-  caption: |
-    <p>Upperside.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jun 05</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg
-  caption: |
-    <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086356272945&set=a.10158086509267945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg
-  caption: |
-    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858753158&set=a.10158625872343158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG
-  caption: |
-    <p>Coney Island, Nov 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23780503769/in/album-72157662420076169/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg
-  caption: |
-    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg
-  caption: |
-    <p>Beting Bronok, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161767901058693&type=3&ref=embed_post">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg"
+      caption: Upperside.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg"
+      caption: "Pulau Sekudu, Jun 05"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg"
+      caption: Underside.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg"
+      caption: "Punggol, Nov 20 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg"
+      caption: "Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG"
+      caption: "Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg"
+      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg"
+      caption: "Beting Bronok, Jun 25 Photo shared by Adriane Lee on facebook ."
 ---
 
-## Where seen?
- This sea star with an odd preference to be upside
-down is sometimes seen among seaweeds and seagrasses on our Northern
-shores. Especially active at night. Usually seen alone.  
-  
-## Features
- Disk diameter less than
-1cm, arms about 5cm long. Disk thick, petal-shaped. Arms long with
-blunt cylindrical spines arranged all around the arms like bristles of a bottle brush. Often seen upside
-down and if turned the right side up will turn upside down again.
-This may be an adaptation to feeding on substances on the water surface?
+**Where seen?**
+This sea star with an odd preference to be upside down is sometimes seen among seaweeds and seagrasses on our Northern shores. Especially active at night. Usually seen alone.
 
- 
-
-
-
+**Features:**
+Disk diameter less than 1cm, arms about 5cm long. Disk thick, petal-shaped. Arms long with blunt cylindrical spines arranged all around the arms like bristles of a bottle brush. Often seen upside down and if turned the right side up will turn upside down again. This may be an adaptation to feeding on substances on the water surface?
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---
 
-**Upsidedown
-brittle stars on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Upsidedown brittle stars on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=upsidedown brittle star) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=upsidedown brittle star)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Ophiothrix%2520sp./map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -91,19 +77,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
 **References**
-
-- Lane, David
-  J.W. and Didier Vandenspiegel. 2003*. A
-  Guide to Sea Stars and Other Echinoderms of Singapore*.
-  Singapore Science Centre. 187pp.
+- Lane, David J.W. and Didier Vandenspiegel. 2003
+*. A Guide to Sea Stars and Other Echinoderms of Singapore*
+. Singapore Science Centre. 187pp.

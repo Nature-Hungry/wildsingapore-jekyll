@@ -19,65 +19,39 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Ergalataxinae
 updated: Aug 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
-  caption: |
-    <p>Pulau Semakau, Dec 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
-  caption: |
-    <p>Teeth at narrow shell opening Kusu Island, Dec 04</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg"
+      caption: "Pulau Semakau, Dec 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg"
+      caption: "Teeth at narrow shell opening Kusu Island, Dec 04"
 ---
 
-## Where seen?
- This drill
-is sometimes seen on our Southern shores. Usually in groups on boulders
-as well as man-made structures such as seawalls.  
-  
-## Features
- 2-3cm. Shell thick,
-narrow and long with a spiral patterns of rounded bumps. The shell,
-however, is often obscured by encrusting plants and animals. Shell
-opening narrow with 'teeth'. Operculum brown.  
-  
-Various
-species of *Morula* commonly seen on our shores have this kind
-of shell. They are difficult to distinguish with certainty in the
-field. On this website, they are grouped by external features for
-convenience of display.
+**Where seen?**
+This drill is sometimes seen on our Southern shores. Usually in groups on boulders as well as man-made structures such as seawalls.
 
- 
+**Features:**
+2-3cm. Shell thick, narrow and long with a spiral patterns of rounded bumps. The shell, however, is often obscured by encrusting plants and animals. Shell opening narrow with 'teeth'. Operculum brown.
 
+Various species of
+*Morula*
+commonly seen on our shores have this kind of shell. They are difficult to distinguish with certainty in the field. On this website, they are grouped by external features for convenience of display.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Knobbly
-drills on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Knobbly drills on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Knobbly drill (Muricidae)) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Knobbly drill (Muricidae))
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Knobbly%2520drill%2520%2528Muricidae%2529/map?&fLat=1.2612&fLon=103.863&zl=11&order_by=recent)
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

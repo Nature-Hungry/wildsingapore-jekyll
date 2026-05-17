@@ -23,55 +23,39 @@ suborder: Yangochiroptera
 superfamily: Emballonuroidea
 subfamily: Taphozoinae
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
-  caption: |
-    <p>Pulau Sekudu, Jul 03</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
 links_references: |
   **Links**
-  - [Pouched
-    Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat) on Nick Baker's EcologyAsia website: fact sheet with
-    photos.
+  - [Pouched Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat.md)
+  on Nick Baker's EcologyAsia website: fact sheet with photos.
+  
   **References**
-  - Baker, Nick
-    and Kelvin Lim. 2008. *Wild
-    Animals of Singapore: A Photographic Guide to Mammals, Reptiles,
-    Amphibians and Freshwater Fishes*
-    Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-  - Nowak, Ronald
-    M. 1994. *Walker's
-    Bats of the World*The Johns Hopkins University Press. 287 pp.
-  - Francis,
-    Charles M. 2001. *Mammals
-    of South-East Asia*
-    New Holland Publishers. 128 pp.
+  - Baker, Nick and Kelvin Lim. 2008.
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+  Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+  - Nowak, Ronald M. 1994.
+  *Walker's Bats of the World*
+  **
+  The Johns Hopkins University Press. 287 pp.
+  - Francis, Charles M. 2001.
+  *Mammals of South-East Asia*
+  New Holland Publishers. 128 pp.
 ---
 
-## Where seen?
- This small black-and-white bat is sometimes seen
-roosting in rocky places on our offshore islands. According to Baker,
-it is widespread and common in Singapore.  
-  
-## Features
-Forearm length about 8cm. A small bat with a large ears and a
-short muzzle without an elaborate 'nose leaf'. The upperside is blackish
-brown with white markings, the underside is white. The wings are distinctly
-white. There is a large pouch under the chin for both males and females.  
-  
-This bat is social and roosts in colonies with as many as 300 individuals.
-They roost in rock crevices, hollow trees and within buildings.  
-  
-**What does it eat?** It eats insects,
-foraging for these high above the canopy of trees.  
+**Where seen?**
+This small black-and-white bat is sometimes seen roosting in rocky places on our offshore islands. According to Baker, it is widespread and common in Singapore.
 
- 
+**Features:**
+****
+Forearm length about 8cm. A small bat with a large ears and a short muzzle without an elaborate 'nose leaf'. The upperside is blackish brown with white markings, the underside is white. The wings are distinctly white. There is a large pouch under the chin for both males and females.
+
+This bat is social and roosts in colonies with as many as 300 individuals. They roost in rock crevices, hollow trees and within buildings.
+
+**What does it eat?**
+It eats insects, foraging for these high above the canopy of trees.
+
+*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg)*
+*Pulau Sekudu,*
+*Jul 03*
 
 ---
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
-Make your own badge [here](http://www.flickr.com/badge.gne).

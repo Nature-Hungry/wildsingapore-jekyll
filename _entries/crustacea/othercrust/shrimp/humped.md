@@ -24,60 +24,47 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
-  caption: |
-    <p>Sisters Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/110123sisd5269m3.jpg
-  caption: |
-    <p>Sisters Island, Jan 01</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/100809cyrd9757m3a.jpg
-  caption: |
-    <p>On a flowery soft coral.</p>
-    <p>Cyrene Reef, Aug 10</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/220715cjjk1.jpg
-  caption: |
-    <p>With eggs.</p>
-    <p>Chek Jawa, Jul 22Photo by James Koh on <a href="https://www.facebook.com/photo/?fbid=5967382176608437&set=a.5967384696608185">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/200706skdtch3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jul 20Photo by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158634924263713&set=a.10158634969763713&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/120722cyrmn.jpg
-  caption: |
-    <p>Cyrene Reef, Jul 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7659582370/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+      caption: "Sisters Island, Oct 11"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/110123sisd5269m3.jpg"
+      caption: "Sisters Island, Jan 01"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/100809cyrd9757m3a.jpg"
+      caption: "On a flowery soft coral. Cyrene Reef, Aug 10"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/220715cjjk1.jpg"
+      caption: "With eggs. Chek Jawa, Jul 22 Photo by James Koh on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/200706skdtch3.jpg"
+      caption: "Pulau Sekudu, Jul 20 Photo by Toh Chay Hoon on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/120722cyrmn.jpg"
+      caption: "Cyrene Reef, Jul 12 Photo shared by Marcus Ng on flickr ."
 ---
 
-## Where seen?
- This tiny green shrimp is sometimes seen on some
-of our shores near and on reefs, on seagrasses, coral rubble and soft
-corals.  
-  
-## Features
- Less than 1cm long.
-Body thick with an obvious humped back. A broad long 'nose'. It doesn't
-have long pincers. Usually green.  
-  
+**Where seen?**
+This tiny green shrimp is sometimes seen on some of our shores near and on reefs, on seagrasses, coral rubble and soft corals.
+
+**Features:**
+Less than 1cm long. Body thick with an obvious humped back. A broad long 'nose'. It doesn't have long pincers. Usually green.
+
 Several different species of shrimps might have this appearance.
- 
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Humpbacked
-shrimps on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Humpbacked shrimps on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Humpbacked shrimp) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Humpbacked shrimp)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Humpbacked%2520shrimp/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -85,20 +72,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

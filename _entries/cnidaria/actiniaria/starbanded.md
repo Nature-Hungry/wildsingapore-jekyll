@@ -15,79 +15,59 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg
-  caption: |
-    <p>Pulau Hantu, Nov 09</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks.JPG
-  caption: |
-    <p>Pulau Hantu, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5807348935/in/album-72157607719695102/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks1.JPG
-  caption: |
-    <p>Pulau Hantu, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5807916878/in/album-72157607719695102/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110103sjilks.JPG
-  caption: |
-    <p>St.</p>
-    <p>John's Island, Feb 11Photo shared by Loh Kok Sheng on flickr.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg
-  caption: |
-    <p>Pulau Semakau, Aug 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/08/strolling-semakau.html">her blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg
-  caption: |
-    <p>Terumbu Bemban, Jul 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg
-  caption: |
-    <p>Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg"
+      caption: "Pulau Sudong, Dec 09"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg"
+      caption: "Pulau Hantu, Nov 09"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks.JPG"
+      caption: "Pulau Hantu, Jun 11 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks1.JPG"
+      caption: "Pulau Hantu, Jun 11 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110103sjilks.JPG"
+      caption: "St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg"
+      caption: "Pulau Semakau, Aug 10 Photo shared by Neo Mei Lin on her blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg"
+      caption: "Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg"
+      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog ."
 ---
 
-## Where seen?
- This elegant anemone with few banded arms held in
-wiggles is sometimes seen on the soft silty shores on our Southern shores. Seen at night only.  
-  
-## Features
- Diameter
-with tentacles extended 4-5cm. Tentacles
-few (about 20), thick at the base and tapering to a slender tip. Most
-of the tentacles are usually held flat against the surface, arranged
-in pairs or sets of three, with the tips in 'wiggles'. Often, 5 of
-the tentacles are held upright
-forming a 'tent' over the mouth. Oral
-disk tiny. The
-mouth is often seen upturned.   
-  
-The tentacles come in shades of brown with many regular dark bands
-along the length. The body column appears to be covered with a leathery
-skin.  
-  
-**Sometimes mistaken for** the [Wiggly reef star anemone](star.htm) which tends to be more colourful, lacks the regular bands and tends
-to be found near coral reefs and among coral rubble.
+**Where seen?**
+This elegant anemone with few banded arms held in wiggles is sometimes seen on the soft silty shores on our Southern shores. Seen at night only.
 
- 
+**Features:**
+Diameter with tentacles extended 4-5cm.
+Tentacles few (about 20), thick at the base and tapering to a slender tip. Most of the tentacles are usually held flat against the surface, arranged in pairs or sets of three, with the tips in 'wiggles'. Often, 5 of the tentacles are held
+upright forming a 'tent' over the mouth.
+Oral disk tiny.
+The mouth is often seen upturned.
 
+The tentacles come in shades of brown with many regular dark bands along the length. The body column appears to be covered with a leathery skin.
 
- *\*Species are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+**Sometimes mistaken for**
+the
+[Wiggly reef star anemone](star.md)
+which tends to be more colourful, lacks the regular bands and tends to be found near coral reefs and among coral rubble.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Wiggly
-sand star anemones on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Wiggly sand star anemones on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Wiggly sand star anemones) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Wiggly sand star anemones)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Wiggly%2520sand%2520star%2520anemones/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -95,23 +75,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

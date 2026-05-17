@@ -19,56 +19,46 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
-  caption: |
-    <p>Pulau Hantu, Mar 06</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
-  caption: |
-    <p>East Coast Park, May 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7181930840/in/album-72157607719316847/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg"
+      caption: "Pulau Hantu, Mar 06"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg"
+      caption: Underside.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG"
+      caption: "East Coast Park, May 12"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG"
+      caption: Photo shared by Loh Kok Sheng on flickr .
 ---
 
-## Where seen?
- This tiny elongated snail is sometimes seen on [sea
-fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm) on our Southern
-shores.   
-  
-## Features
- 1-2cm. Shell thin
-and pointed at the ends. Shell colour white, cream also pink and rose. Body mantle translucent with white protruding bumps and irregular red blotches. Foot translucent white fine dark margins and one or a few fine stripes.Tentacles banded white and red.   
-  
-The two species found in Singapore are quite similar *P. angasi and P. improcera.*
+**Where seen?**
+This tiny elongated snail is sometimes seen on
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+on our Southern shores.
 
- 
+**Features:**
+1-2cm. Shell thin and pointed at the ends. Shell colour white, cream also pink and rose. Body mantle translucent with white protruding bumps and irregular red blotches. Foot translucent white fine dark margins and one or a few fine stripes.Tentacles banded white and red.
 
+The two species found in Singapore are quite similar
+*P. angasi and P. improcera.*{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-  
-
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Rose
-spindle cowries on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Rose spindle cowries on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pellasimnia) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pellasimnia)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/%2520Pellasimnia/map?&fLat=1.2622&fLon=103.8657&zl=11&order_by=recent)
 
 ---
@@ -76,28 +66,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
 **References**
 
-- Wong, H.
-  W., 2011. *The
-  Ovulidae (Mollusca: Gastropoda) of Singapore*. Lee Kong Chian Natural History Museum.
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* Lee Kong Chian Natural History Museum.
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+- Wong, H. W., 2011.
+*The Ovulidae (Mollusca: Gastropoda) of Singapore*
+. Lee Kong Chian Natural History Museum.
+- Tan Siong Kiat and Henrietta P. M. Woo, 2010
+*Preliminary Checklist of The Molluscs of Singapore*
+Lee Kong Chian Natural History Museum.

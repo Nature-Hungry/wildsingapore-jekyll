@@ -28,98 +28,72 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
-  caption: |
-    <p>Pulau Hantu, May 13</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3b.jpg
-  caption: |
-    <p>Rhinophore and rosette pattern.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3a.jpg
-  caption: |
-    <p>Feathery gills.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7870m6l.jpg
-  caption: |
-    <p>Pulau Semakau, Jul 15</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7873m3.jpg
-  caption: |
-    <p>Spotted underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8110m3.jpg
-  caption: |
-    <p>Cyrene Reef, Jul 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8114m3.jpg
-  caption: |
-    <p>Spotted underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621hntmn.jpg
-  caption: |
-    <p>Pulau Hantu, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/25576146077/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn.jpg
-  caption: |
-    <p>Diseased?</p>
-    <p>Cyrene Reed, Jun 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn2.jpg
-  caption: |
-    <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2560061415">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk1m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk6m3.jpg
-  caption: |
-    <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besar.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621tsmkmn.jpg
-  caption: |
-    <p>Terumbu Semakau, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19054101502/in/album-72157652530457954/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/240708smkerk3l.jpg
-  caption: |
-    <p>Pulau Semakau (East), Jul 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161255000977906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/160313trymn10.jpg
-  caption: |
-    <p>Terumbu Raya, Mar 16 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG
-  caption: |
-    <p>Pulau Hantu, Jan 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2928268429/in/album-72157607719695102/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg"
+      caption: "Pulau Hantu, May 13"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3b.jpg"
+      caption: Rhinophore and rosette pattern.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3a.jpg"
+      caption: Feathery gills.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7870m6l.jpg"
+      caption: "Pulau Semakau, Jul 15"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7873m3.jpg"
+      caption: Spotted underside.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8110m3.jpg"
+      caption: "Cyrene Reef, Jul 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8114m3.jpg"
+      caption: Spotted underside.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621hntmn.jpg"
+      caption: "Pulau Hantu, Jun 15 Photo shared by Marcus Ng on flickr ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn.jpg"
+      caption: "Diseased? Cyrene Reed, Jun 08 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk1m3.jpg"
+      caption: "Beting Bemban Besar, May 11 Photo shared by James Koh on his blog ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621tsmkmn.jpg"
+      caption: "Terumbu Semakau, Jun 15 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/240708smkerk3l.jpg"
+      caption: "Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/160313trymn10.jpg"
+      caption: "Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG"
+      caption: "Pulau Hantu, Jan 08 Photo shared by Loh Kok Sheng on flickr ."
 links_references: |
-  **Links**  
-  - [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet
-    on *[Dendrodoris
-    tuberculosa](http://www.seaslugforum.net/find/dendtube)*
+  **Links**
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: photos and fact sheet on
+  *[Dendrodoris tuberculosa](http://www.seaslugforum.net/find/dendtube)*
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
 ---
 
-## Where seen?
- This very large nudibranch with whorls of bumps on the upper side
-and a spotted underside is sometimes seen on some of our Southern
-shores, near reefs and seagrasses. It may be seasonal: when seen,
-often many individuals are spotted during the same trip.  
-  
-## Features
- 12-15cm long. The upperside
-with lots of conical bumps arranged in clusters so that that resembles
-a cauliflower. Colours from dark greyish blue, pinkish purple to pale pink. The underside is distinctive with large pale round spots on a plain smooth background, usually darker. Large rhinophores and large feathery
-gills.
+**Where seen?**
+This very large nudibranch with whorls of bumps on the upper side and a spotted underside is sometimes seen on some of our Southern shores, near reefs and seagrasses. It may be seasonal: when seen, often many individuals are spotted during the same trip.
 
- 
-
-
-
-
-
-
-
+**Features:**
+12-15cm long. The upperside with lots of conical bumps arranged in clusters so that that resembles a cauliflower. Colours from dark greyish blue, pinkish purple to pale pink. The underside is distinctive with large pale round spots on a plain smooth background, usually darker. Large rhinophores and large feathery gills.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 ---
 
 **Cauliflower nudibranchs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Dendrodoris tuberculosa) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Dendrodoris tuberculosa)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Dendrodoris%2520tuberculosa/map?&fLat=1.2622&fLon=103.8653&zl=11&order_by=recent)
 
 ---
@@ -127,36 +101,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
 
+Filmed on Jul 08 at Cyrene Reefs
 
-
----
-
-
-
----
-
-Filmed on Jul
-08 at Cyrene Reefs  
-
-[Nudibranch ~ up very close and very personal @ Cyrene Reef, Singapore](https://vimeo.com/1441724) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
+[Nudibranch ~ up very close and very personal @ Cyrene Reef, Singapore](https://vimeo.com/1441724)
+from
+[SgBeachBum](https://vimeo.com/sgbeachbum)
+on
+[Vimeo](https://vimeo.com)
+.
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

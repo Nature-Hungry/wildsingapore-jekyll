@@ -17,93 +17,69 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
-  caption: |
-    <p>Tuas, Apr 05</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg
-  caption: |
-    <p>Beting Bronok, Jul 03</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG
-  caption: |
-    <p>East Coast Park, Jul 09</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3a.JPG
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
-  caption: |
-    <p>Tuas, Apr 05</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4447m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg
-  caption: |
-    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233459078158&set=a.10159233461703158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg
-  caption: |
-    <p>An ovulid snail on the sea fan.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg"
+      caption: "Tuas, Apr 05"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg"
+      caption: "Beting Bronok, Jul 03"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG"
+      caption: "East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg"
+      caption: "Tuas, Apr 05"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg"
+      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg"
+      caption: An ovulid snail on the sea fan.
 links_references: |
   **Links**
-  - [*Subergorgia
-    suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosal)
-    and *[Subergorgia
-    mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollisl)* on SeaLife Base: technical fact sheet.
+  - [*Subergorgia suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosa.html)
+  and
+  *[Subergorgia mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollis.html)*
+  on SeaLife Base: technical fact sheet.
   - [*Subergorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Subergorgia)
-    on [Reef
-    Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
-    Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
-  **References**
-  - Fabricius,
-    Katharina and Philip Alderslade, 2001. *Soft
-    Corals and Sea Fans*.
-    Australian Institute of Marine Science and the Museum and Art
-    Gallery of the Northern Territoriy. 264 pp.
-  - Goh, N.K.C.
-    and Chou, L.M. 20 December 1996. *An
-    annotated checklist of the gorgonians (Anthozoa: Octocorallia)
-    of Singapore, with a discussion of gorgonian diversity in the
-    Indo-West Pacific*. Raffles
-    Museum Bulletin of Zoology Pp. 435-459.
----
-
-## Where seen?
- This sea fan with flat branches is sometimes seen
-on some of our Northern shores on coral rubble.  
+  on
+  [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+  on the
+  [Marine Species Identification Portal](http://species-identification.org/index.php)
+  : Technical fact sheet and photos.
   
-## Features
- 10-20cm long. Colony
-comprises many long sturdy stems that randomly branch forming an elegant
-tree-like silhouette on one plane, with some branches overlapping.
-The stems are flattened, often with a groove along the length. Dull
-brown-orange, to orange or red. Relatively large white polyps emerge
-along two sides of the flattened stem, not in the grooves.
- 
+  **References**
+  - Fabricius, Katharina and Philip Alderslade, 2001.
+  *Soft Corals and Sea Fans*
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+  - Goh, N.K.C. and Chou, L.M. 20 December 1996.
+  *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
+  . Raffles Museum Bulletin of Zoology Pp. 435-459.
+---
 
+**Where seen?**
+This sea fan with flat branches is sometimes seen on some of our Northern shores on coral rubble.
 
-
- *\***Species
-are difficult to positively identify without close examination.**On this website, they are grouped by external
-features for convenience of display*.
+**Features:**
+10-20cm long. Colony comprises many long sturdy stems that randomly branch forming an elegant tree-like silhouette on one plane, with some branches overlapping. The stems are flattened, often with a groove along the length. Dull brown-orange, to orange or red. Relatively large white polyps emerge along two sides of the flattened stem, not in the grooves.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+***
+*Species are difficult to positively identify without close examination.*
+*On this website, they are grouped by external features for convenience of display*
+.
 
 ---
 
-**Flat
-branch sea fans on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Flat branch sea fans on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Subergorgia sp.) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Subergorgia sp.)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Subergorgia/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -111,26 +87,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-
-
----
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+****

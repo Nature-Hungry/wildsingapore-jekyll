@@ -18,118 +18,47 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg"
+      caption: ""
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg"
+      caption: ""
 ---
 
-**Confusing
-mudskippers**  Several different kinds of small mudskippers
-look very similar. Here's more on
-how to tell them apart.
+**Confusing mudskippers**
+Several different kinds of small mudskippers look very similar. Here's more
+on how to tell them apart.
 
 ---
-
- 
-
-[**Dusky-gilled
-mudskipper**](variabilis.htm)  
-(*Periophthalmus variabilis*)
-
-Body
-slender. First dorsal fin close to second dorsal fin. Iridiscent bluish speckles on head and body. On the underside,
-has blackish area near the gills.
-
-Pectoral
-and tail fins reddish at the margins.
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
-
-
-
-
-[**Slender
-mudskipper**](gracilis.htm)  
-(*Periophthalmus gracilis*)
-
-Body
-slender. First dorsal fin small. Large gap between the first dorsal
-fin  
-and second dorsal fin.
-
-Pectoral
-fins not reddish.
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
-[**Silver-lined
-mudskipper**](argentilineatus.htm)  
-(*Periophthalmus argentilineatus*)
-
-Body
-stout. Bright silvery fine bars along the side of the body. Small
-gap between first dorsal fin and second dorsal fin.
-Pectoral
-fins not reddish.
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-[**Yellow-spotted
-mudskipper**](walailakae.htm)  
-(*Periophthalmus walailakae*)
-
-Body
-stout. No Iridiscent bluish speckles.
-Pectoral
-fins not reddish.
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery4 %}

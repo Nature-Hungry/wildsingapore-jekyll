@@ -23,104 +23,78 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
-  caption: |
-    <p>Beting Bronok, Jul 08</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg
-  caption: |
-    <p>Paxillae cover the upper body.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg
-  caption: |
-    <p>Pointed tube feet.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
-  caption: |
-    <p>Pointed tube feet.</p>
-    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg
-  caption: |
-    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
-  caption: |
-    <p>Beting Bronok, Jun 16 Shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg
-  caption: |
-    <p>Beting Bronok, Jun 17 Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154759351698660.1073741927.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg
-  caption: |
-    <p>Beting Bronok, Jun 18 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078643158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks04m3a.jpg
-  caption: |
-    <p>Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/tanah-merah-surprisesl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks5m3.jpg
-  caption: |
-    <p>Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
-  caption: |
-    <p>Beting Bronok, Jun 16 Shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg"
+      caption: "Beting Bronok, Jul 08"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg"
+      caption: Paxillae cover the upper body.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg"
+      caption: Underside.
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg"
+      caption: Pointed tube feet.
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg"
+      caption: "Pointed tube feet. Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg"
+      caption: "Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg"
+      caption: ""
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg"
+      caption: "Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg"
+      caption: "Beting Bronok, Jun 17 Shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg"
+      caption: "Beting Bronok, Jun 18 Shared by Loh Kok Sheng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg"
+      caption: "East Coast Park, Feb 09 Shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg"
+      caption: "Beting Bronok, Jul 14 Shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg"
+      caption: "Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook ."
 links_references: |
   **Links**
-  - [*Craspidaster
-    hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperusl)
-    on SeaLife Base: Technical fact sheet.
+  - [*Craspidaster hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperus.html)
+  on SeaLife Base: Technical fact sheet.
+  
   **References**
-  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Didier VandenSpiegel
-    et al. 1998. *The
-    Asteroid fauna (Echinodermata) of Singapore with a distribution
-    table and illustrated identification to the species*. The Raffles
-    Bulletin of Zoology 1998 46(2): 431-470.
+  - Loisette M. Marsh and Jane Fromont.
+  *Field Guide to Shallow Water Seastars of Australia*
+  . 2020. Western Australian Museum. 543pp
+  - Lane, David J.W. and Didier Vandenspiegel. 2003
+  *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+  . Singapore Science Centre. 187pp.
+  - Didier VandenSpiegel et al. 1998.
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+  . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
 ---
 
-## Where seen?
- This beautiful sea star is sometimes seen on Beting Bronok. 'Craspedo'
-means border or edge. According to Lane, this sea star is seen from
-the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.  
-  
-## Features
- Diameter with arms about
-10cm. A flat sea star with five elegant smooth tapered arms. Upper surface
-pale blue sometimes beige, and covered with special flat-topped, pillar-like structures
-called paxillae. The body edges are bordered with large, wide marginal
-plates. Underside pale without markings, tube feet are pointed (not tipped with suckers).   
-  
-**What does it eat?** According to Marsh and Fromont, it probably eats microscopic life found in the silt and sand.
+**Where seen?**
+This beautiful sea star is sometimes seen on Beting Bronok. 'Craspedo' means border or edge. According to Lane, this sea star is seen from the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.
 
- 
+**Features:**
+Diameter with arms about 10cm. A flat sea star with five elegant smooth tapered arms. Upper surface pale blue sometimes beige, and covered with special flat-topped, pillar-like structures called paxillae. The body edges are bordered with large, wide marginal plates. Underside pale without markings, tube feet are pointed (not tipped with suckers).
 
-
-
-
+**What does it eat?**
+According to Marsh and Fromont, it probably eats microscopic life found in the silt and sand.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---
 
-**Bordered
-sea stars on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Bordered sea stars on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Craspidaster hesperus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Craspidaster hesperus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Craspidaster%2520hesperus/map?&fLat=1.2633&fLon=103.8647&zl=11&order_by=recent)
 
 ---
@@ -128,18 +102,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---

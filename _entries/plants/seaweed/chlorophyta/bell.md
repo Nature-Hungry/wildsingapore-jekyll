@@ -19,82 +19,67 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5133m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750328097945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg"
+      caption: "Terumbu Semakau, May 10"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg"
+      caption: "Pulau Semakau, May 08"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg"
+      caption: "Pulau Jong, Jul 06"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg"
+      caption: "Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook ."
 links_references: |
   **Links**
-  - [*Caulerpa
-    racemosa* var. *turbinata*](http://www.algaebase.org/search/species/detail/?species_id=4458) on [AlgaeBase](http://www.algaebase.org/):
-    technical fact sheet.
+  - [*Caulerpa racemosa*
+  var.
+  *turbinata*](http://www.algaebase.org/search/species/detail/?species_id=4458)
+  on
+  [AlgaeBase](http://www.algaebase.org/)
+  : technical fact sheet.
+  
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-  - Pham, M.
-    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-  - Huisman,
-    John M. 2000. *Marine
-    Plants of Australia*
-    University of Western Australia Press. 300pp.
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+  *A photographic guide to the marine algae of Singapore*
+  , 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+  *A Checklist of the Algae of Singapore*
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman, John M. 2000.
+  *Marine Plants of Australia*
+  University of Western Australia Press. 300pp.
 ---
 
-## Where seen?
- This juicy looking seaweed is made up of little bell-shaped
-'grapes'. Small clumps sometimes seen on our Southern shores on rocks
-and coral rubble near reefs on our Southern shores.  
-  
-## Features
- The seaweed resembles
-bunches of little bells, with a flattened top. Each bunch about 6-8cm
-long, with bell-shaped bead (the 'grapes') arranged on a vertical
-'stem'. These bunches of 'grapes' emerge from a long horizontal 'stem'
-that creeps over hard surfaces or just under the sand. Colours range
-from green to bluish-green.   
-  
-**Sometimes confused with** [Round
-sea grape seaweeds](lentillifera) (*Caulerpa lentillifera*). Here's more
-on [how to tell apart the sea grapes seaweeds](cfgrapes).
+**Where seen?**
+This juicy looking seaweed is made up of little bell-shaped 'grapes'. Small clumps sometimes seen on our Southern shores on rocks and coral rubble near reefs on our Southern shores.
 
- 
+**Features:**
+The seaweed resembles bunches of little bells, with a flattened top. Each bunch about 6-8cm long, with bell-shaped bead (the 'grapes') arranged on a vertical 'stem'. These bunches of 'grapes' emerge from a long horizontal 'stem' that creeps over hard surfaces or just under the sand. Colours range from green to bluish-green.
 
+**Sometimes confused with**
+[Round sea grape seaweeds](lentillifera.md)
+(
+*Caulerpa lentillifera*
+). Here's more on
+[how to tell apart the sea grapes seaweeds](cfgrapes.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination of internal parts.
 
-  
-*\*Species are difficult to positively identify without close examination
-of internal parts.   
-On this website, they are grouped by external features
-for convenience of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Bell
-sea grapes on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Bell sea grapes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Caulerpa racemosa var turbinata) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Caulerpa racemosa var turbinata)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Caulerpa%2520racemosa%2520var%2520turbinata/map?&fLat=1.2612&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -102,20 +87,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}**
 
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

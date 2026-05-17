@@ -25,95 +25,84 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG
-  caption: |
-    <p>Chek Jawa, Jul 13</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlksa.jpg
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24888155875/in/album-72157607712316054/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg
-  caption: |
-    <p>Lazaraus, Aug 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170714prpay1.jpg
-  caption: |
-    <p>Pasir Ris Park, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211104869269871.1073741897.1000600604&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190801chgjll2.jpg
-  caption: |
-    <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/200822prpvc1.jpg
-  caption: |
-    <p>Pasir Ris Park, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157891014932945&set=a.10157891012412945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3a.jpg
-  caption: |
-    <p>Pulau Sekudu, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190901labll3.jpg
-  caption: |
-    <p>Labrador, Sep 19Photo shared by Liz Lim on <a href="https://www.facebook.com/liz.lim.568/media_set?set=a.2478340892189235&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/090809sjitch1m3.jpg
-  caption: |
-    <p>St.</p>
-    <p>Johh's Island, Aug 09Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.sg/2009/08/sluggish-day-st-johns.html">her blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/201115sntvc3.jpg
-  caption: |
-    <p>Sentosa Tg Rimau, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158080143752945&set=a.10158080156422945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/100911sntlksm3.JPG
-  caption: |
-    <p>Sentosa, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/11/no-galloping-but-still-lively-at.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120819cyrlksm3.JPG
-  caption: |
-    <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/110830cyrlks2m3.jpg
-  caption: |
-    <p>Cyrene Reef, Aug 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reef.html">his blog</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190707thntch1.jpg
-  caption: |
-    <p>Terumbu Hantu, Jul 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157514111363713&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG"
+      caption: "Chek Jawa, Jul 13"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlksa.jpg"
+      caption: Photo shared by Loh Kok Sheng on flickr .
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg"
+      caption: "Lazaraus, Aug 12"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170714prpay1.jpg"
+      caption: "Pasir Ris Park, Jul 17 Photo shared by Abel Yeo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190801chgjll2.jpg"
+      caption: "Changi, Aug 19 Photo shared by Jianlin Liu on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/200822prpvc1.jpg"
+      caption: "Pasir Ris Park, Aug 20 Photo shared by Vincent Choo on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3a.jpg"
+      caption: "Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3.jpg"
+      caption: "Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190901labll3.jpg"
+      caption: "Labrador, Sep 19 Photo shared by Liz Lim on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/090809sjitch1m3.jpg"
+      caption: "St. Johh's Island, Aug 09 Photo shared by Toh Chay Hoon on her blog ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/201115sntvc3.jpg"
+      caption: "Sentosa Tg Rimau, Nov 20 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/100911sntlksm3.JPG"
+      caption: "Sentosa, Nov 10 Photo shared by Loh Kok Sheng on his blog ."
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120819cyrlksm3.JPG"
+      caption: "Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/110830cyrlks2m3.jpg"
+      caption: "Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190707thntch1.jpg"
+      caption: "Terumbu Hantu, Jul 19 Photo shared by Toh Chay Hoon on facebook ."
 links_references: |
-  **Links**  
-  - [*Stiliger
-    smaragdinus*](http://www.seaslugforum.net/find/stilsmar)
-    on the [The Sea Slug Forum](http://www.seaslugforum.net/)
-    by Dr Bill Rudman: fact sheet
-  **References**
-  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-  - Kathe
-    R. Jensen. 30 Dec 2009. *Sacoglossa
-    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
----
-
-## Where seen?
- This tiny slug is sometimes seen on [Caulerpa
-green seaweed](../../../plants/seaweed/chlorophyta/caulerpa.htm) (*Caulerpa* sp.).   
+  **Links**
+  - [*Stiliger smaragdinus*](http://www.seaslugforum.net/find/stilsmar)
+  on the
+  [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: fact sheet
   
-## Features
- A tiny
-well camouflaged slug (2-4cm long). Long, soft slender body covered
-with spherical bumps (cerata) that resemble the seaweed's colour and shape. The
-cerata contain its digestive system and are thus often the same colour
-as the seaweed it feeds on. There are many iridescent blue dots at the base of the cerata. It has a pair of rhinophores that is green with whitish tips.
+  **References**
+  - K. R. Jensen.
+  *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+  - Kathe R. Jensen. 30 Dec 2009.
+  *Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore*
+  . The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+---
 
- 
+**Where seen?**
+This tiny slug is sometimes seen on
+[Caulerpa green seaweed](../../../plants/seaweed/chlorophyta/caulerpa.md)
+(
+*Caulerpa*
+sp.).
 
-
+**Features:**
+A tiny well camouflaged slug (2-4cm long). Long, soft slender body covered with spherical bumps (cerata) that resemble the seaweed's colour and shape. The cerata contain its digestive system and are thus often the same colour as the seaweed it feeds on. There are many iridescent blue dots at the base of the cerata. It has a pair of rhinophores that is green with whitish tips.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Emerald
-slugs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Emerald slugs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?q=Stiliger+smaragdinus&w=54527470%40N00&s=rec) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?q=Stiliger+smaragdinus&w=54527470%40N00&s=rec)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Stiliger%2520smaragdinus/map?&fLat=1.2609&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -121,41 +110,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

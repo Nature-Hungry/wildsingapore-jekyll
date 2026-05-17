@@ -17,115 +17,75 @@ subclass: Heteroscleromorpha
 order: Axinellida
 subfamily: Echinodictyinae
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg
-  caption: |
-    <p>East Coast Park, Aug 09</p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3a.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg"
+      caption: "East Coast Park, Aug 09"
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg"
+      caption: "Pulau Sekudu, May 12"
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg"
+      caption: "Changi, Jul 12"
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg"
+      caption: "Changi, Apr 12"
 links_references: |
   **Links**
-  - [*Echinodictyum
-    conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
-    on SeaLife Base: technical fact sheet.
-  - [*Echinodictyum
-    conulosum*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167971) on the World Porifera Database.
+  - [*Echinodictyum conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
+  on SeaLife Base: technical fact sheet.
+  - [*Echinodictyum conulosum*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167971)
+  on the World Porifera Database.
+  
   **References**
-  - Lim Swee
-    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-    Guide to Sponges of Singapore*. Singapore Science Centre.
-    173pp.
+  - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+  *A Guide to Sponges of Singapore*
+  . Singapore Science Centre. 173pp.
 ---
 
-## Where seen?
+**Where seen?**
+This black prickly sponge is sometimes seen on our Northern shores.
+**Features:**
+A small prickly bushy shape made up of lobes with many large cavities. Texture with many prickly spikes. The skeleton is made up of a large proportion of silica to spongin and it has thick, robust bundles of spicules (hard, spiky bits). Holes scattered irregularly on the surface with a membranous lip which is more obvious when the sponge is submerged. Colour is black with a purple tinge.
 
-This black prickly sponge is sometimes seen on our Northern shores. ## Features
- A small prickly bushy shape made up of lobes
-with many large cavities. Texture with many prickly spikes. The skeleton
-is made up of a large proportion of silica to spongin and it has thick,
-robust bundles of spicules (hard, spiky bits). Holes scattered irregularly
-on the surface with a membranous lip which is more obvious when the
-sponge is submerged. Colour is black with a purple tinge.  
-  
-Another black encrusting sponge is *Iotrochota baculifera* and
-Iotrochota purpurea.  
-  
-**Sometimes confused with** [Black
-bath sponges](blackbath.htm) (Family Spongiidae) which are usually globular dome-shaped
-or loaf-shaped.
+Another black encrusting sponge is
+*Iotrochota baculifera*
+and Iotrochota purpurea.
 
- 
+**Sometimes confused with**
+[Black bath sponges](blackbath.md)
+(Family Spongiidae) which are usually globular dome-shaped or loaf-shaped.
 
+![](http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg)
 
+*Pulau Ubin, Dec 09*
+![](http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3a.jpg)
 
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-
-  
-*\*Species are difficult to positively identify without close examination.   
-On this website, they are grouped by external features for convenience
-of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Black
-prickly sponges on Singapore shores**
+**Black prickly sponges on Singapore shores**
 
 ---
 
-Photos of [Black prickly sponges](https://www.flickr.com/search/?q=Echinodictyum+conulosum&w=54527470%40N00&s=rec) for free
-download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
+Photos of
+[Black prickly sponges](https://www.flickr.com/search/?q=Echinodictyum+conulosum&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Echinodictyum%2520conulosum/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Echinodictyum%2520conulosum/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

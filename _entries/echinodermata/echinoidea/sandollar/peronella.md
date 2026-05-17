@@ -28,89 +28,61 @@ order: Echinolampadacea
 suborder: Scutelloida
 infraorder: Laganiformes
 updated: Apr 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
-  caption: |
-    <p>Upperside Changi, May 11</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg
-  caption: |
-    <p>Underside.</p>
-    <p>Changi, Jul 11</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg
-  caption: |
-    <p>Side view: slightly raised centre on upperside.</p>
-    <p>Changi, Jul 11</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg
-  caption: |
-    <p>Petalloid.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg
-  caption: |
-    <p>Mouth on the underside</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg
-  caption: |
-    <p>Often half buried in sand.</p>
-    <p>Changi, May 12</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3a.jpg
-  caption: |
-    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul">her blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg
-  caption: |
-    <p>Changi, Sep 10</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3a.jpg
-  caption: |
-    <p>Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/09/fantastic-changil">her blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg
-  caption: |
-    <p>Changi, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10160711617693158&set=a.10160711621108158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg"
+      caption: "Upperside Changi, May 11"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg"
+      caption: "Underside. Changi, Jul 11"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg"
+      caption: "Side view: slightly raised centre on upperside. Changi, Jul 11"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg"
+      caption: Petalloid.
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg"
+      caption: Mouth on the underside
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg"
+      caption: "Often half buried in sand. Changi, May 12"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg"
+      caption: "Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg"
+      caption: "Changi, Sep 10 Photo shared by Neo Mei Lin on her blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg"
+      caption: "Changi, Sep 10 Photo shared by Loh Kok Sheng on facebook ."
 links_references: |
   **Links**
-  - [The
-    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-    History Museum website: everything you could possibly want to
-    know about sand dollars and sea urchins with lots of large close-up
-    images and explanatory diagrams. With technical descriptions and
-    photos of *[Peronella](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=792)*.
-  - [*Peronella
-    lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuril) on SeaLife Base: Technical fact sheet.
-  **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
----
-
-## Where seen?
- This bright pink sand dollar is sometimes seen on our Northern shores
-on sandy patches among seagrasses, sometimes seen just beneath the
-sand. Several individuals (2-8) are often seen during the same trip.
-According to
-Lane, this is an uncommon species that was only found south of the
-mainland. But we have yet to find this on the intertidal in the South.  
+  - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
+  by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams. With technical descriptions and photos of
+  *[Peronella](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=792)*
+  .
+  - [*Peronella lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuri.html)
+  on SeaLife Base: Technical fact sheet.
   
-## Features
- Body diameter 6-8cm.
-Circular to oval, bright pink, the petalloid is obvious even in living
-specimens. The centre of upperside is slightly raised.
+  **References**
+  - Lane, David J.W. and Didier Vandenspiegel. 2003
+  *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+  . Singapore Science Centre. 187pp.
+---
 
- 
+**Where seen?**
+This bright pink sand dollar is sometimes seen on our Northern shores on sandy patches among seagrasses, sometimes seen just beneath the sand. Several individuals (2-8) are often seen during the same trip. According to Lane, this is an uncommon species that was only found south of the mainland. But we have yet to find this on the intertidal in the South.
 
-
-
-
+**Features:**
+Body diameter 6-8cm. Circular to oval, bright pink, the petalloid is obvious even in living specimens. The centre of upperside is slightly raised.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---
 
-**Pink
-sand dollars on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Pink sand dollars on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Peronella%20lesueuri) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Peronella%20lesueuri)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Peronella%2520lesueuri/map?&fLat=1.2622&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -118,22 +90,5 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

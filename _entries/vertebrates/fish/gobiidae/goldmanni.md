@@ -24,68 +24,68 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
-  caption: |
-    <p>Tanah Merah Ferry Terminal, Jul 09</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg
-  caption: |
-    <p>Pairs of close-set round black spots along the side of the body.</p>
-    <p>Tanah Merah, Jul 09 \Species are difficult to positively identify without close examination.</p>
-    <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg
-  caption: |
-    <p>Chek Jawa, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/24083414027/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg
-  caption: |
-    <p>Tuas, Dec 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152597733211295.1073741843.542241294&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg
-  caption: |
-    <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg
-  caption: |
-    <p>Lazarus Island, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6904300150/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg
-  caption: |
-    <p>Pulau Semakau (West), Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162822850792906&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg"
+      caption: "Tanah Merah Ferry Terminal, Jul 09"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg"
+      caption: "Pairs of close-set round black spots along the side of the body. Tanah Merah, Jul 09"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg"
+      caption: "Chek Jawa, Jun 17 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg"
+      caption: "Tuas, Dec 14 Photo shared by Jianlin Liu on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg"
+      caption: "Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg"
+      caption: "Lazarus Island, Feb 11 Photo shared by Marcus Ng on flickr ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg"
+      caption: "Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg"
+      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr ."
 links_references: |
-  **Links**  
-  - [Goldman's
-    goby (*Istigobius goldmanni*)](http://www.fishbase.org/summary/speciessummary.php?id=4327) from [FishBase](http://www.fishbase.org/):
-    Technical fact sheet.
+  **Links**
+  - [Goldman's goby (
+  *Istigobius goldmanni*
+  )](http://www.fishbase.org/summary/speciessummary.php?id=4327)
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet.
+  
   **References**
-  - Larson, Helen
-    K and Kelvin K. P. Lim. 2005. *A
-    Guide to Gobies of Singapore*. Singapore Science Centre.
-    164pp.
+  - Larson, Helen K and Kelvin K. P. Lim. 2005.
+  *A Guide to Gobies of Singapore*
+  . Singapore Science Centre. 164pp.
 ---
 
-## Where seen?
- This pretty slender goby is seen on many of our shores, near reefs and rubble.  
-  
-## Features
- To about 5cm. Body long slender, pale
-sandy-white with many small black spots on the nape. Distinguished
-by a row of pairs of close-set round black spots along the side of the body.  
-  
-**Sometimes mistaken for** the [Ornate
-lagoon-goby](ornatus.htm) which has 'dashed' lines
-on the sides of the body instead of pairs of spots.
- 
+**Where seen?**
+This pretty slender goby is seen on many of our shores, near reefs and rubble.
+
+**Features:**
+To about 5cm. Body long slender, pale sandy-white with many small black spots on the nape. Distinguished by a row of pairs of close-set round black spots along the side of the body.
+
+**Sometimes mistaken for**
+the
+[Ornate lagoon-goby](ornatus.md)
+which has 'dashed' lines on the sides of the body instead of pairs of spots.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Black-spotted
-lagoon-gobies on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Black-spotted lagoon-gobies on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?text=Istigobius goldmanni&sort=date-taken-desc&user_id=54527470@N00) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?text=Istigobius goldmanni&sort=date-taken-desc&user_id=54527470@N00)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Istigobius%2520goldmanni/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -93,31 +93,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

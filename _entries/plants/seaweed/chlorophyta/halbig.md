@@ -26,136 +26,96 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
-  caption: |
-    <p>Large stretch of shore covered with this seaweed.</p>
-    <p>Tuas, Sep 08</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg
-  caption: |
-    <p>Sisters Islands, Jan 06</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
-  caption: |
-    <p>St.</p>
-    <p>John's Island, May 06</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg
-  caption: |
-    <p>A pair of <a href="../../../mollusca/slugs/sacoglossa/pusilla">slugs</a> on the seaweed.</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg
-  caption: |
-    <p>Sentosa, Jun 04</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2920711074712316&set=a.2920978031352287&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg
-  caption: |
-    <p>Terumbu Berkas, Jan 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg
-  caption: |
-    <p>Pulau Pawai, Dec 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg"
+      caption: "Large stretch of shore covered with this seaweed. Tuas, Sep 08"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg"
+      caption: "Sisters Islands, Jan 06"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg"
+      caption: "St. John's Island, May 06"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg"
+      caption: "Labrador, Mar 05 A pair of slugs on the seaweed."
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg"
+      caption: "Sentosa, Jun 04"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg"
+      caption: "Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg"
+      caption: "Raffles Lighthouse, Jul 06"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg"
+      caption: "Pulau Pawai, Dec 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg"
+      caption: "Pulau Senang, Jun 10"
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg"
+      caption: "Terumbu Berkas, Jan 10"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg"
+      caption: "Pulau Pawai, Dec 09"
 links_references: |
   **Links**
-  - [Calcified
-    seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
-    L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [*Halimeda* spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda) on the [Sea Slug Forum](http://www.seaslugforum.net/):
-    photo and description of the seaweed and the slugs that eat it.
-  - [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699) on [AlgaeBase](http://www.algaebase.org/): Technical
-    fact sheet.
+  - [Calcified seaweed (
+  *Halimeda*
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  - [*Halimeda*
+  spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda)
+  on the
+  [Sea Slug Forum](http://www.seaslugforum.net/)
+  : photo and description of the seaweed and the slugs that eat it.
+  - [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699)
+  on
+  [AlgaeBase](http://www.algaebase.org/)
+  : Technical fact sheet.
+  
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-  - Pham, M.
-    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A
-    Checklist of the Algae of Singapore*, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+  *A photographic guide to the marine algae of Singapore*
+  , 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+  *A Checklist of the Algae of Singapore*
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 ---
 
-## Where seen?
- This seaweed with large flat coin-like shapes are seen on many of
-our shores, especially on our Southern shores. Usually growing on
-coral rubble or among living corals. May sometimes form large 'meadows'
-on sandy areas near reefs.  
-  
-## Features
- An upright chain (5-10cm
-long) of joined up coin-like flattened segments. Each coin-like segment
-is hard as it is impregnated with calcium carbonate. Big coin green
-seaweeds have larger segments about 2cm in diameter. The segments
-are thin and relatively smooth and unwrinkled. The segments may sometimes
-be curved into a spoon-shape. In some, clusters of these chains are
-held up on a stalk that is buried. Colours range from light green
-to bluish green. The segments of big coin green seaweeds are lightly
-calcified and thus are not as stiff as segments of some [smaller
-coin green seaweed species](halsmall).   
-  
-**Living on halimeda:** The keen-eyed
-observer may spot the tiny [Halimeda
-slugs](../../../mollusca/slugs/sacoglossa/pusilla) (*Elysiella pusilla*) found on this seaweed. The slugs
-are difficult to spot as they usually the same colour as the seaweed
-or somewhat translucent.   
-  
-During one [visit
-to Tuas in Sep 08](http://wildshores.blogspot.com/2008/09/tuas-with-teamseagrass-of-scheringl), a large stretch (about 20m) of shore at the
-low water mark was thickly covered with this seaweed. The seaweeds
-grew to about 10-15cm tall. The thickets of stiff seaweeds seemed
-to provide shelter for a wide variety of animals and were overgrown
-with a variety of encrusting organisms.
+**Where seen?**
+This seaweed with large flat coin-like shapes are seen on many of our shores, especially on our Southern shores. Usually growing on coral rubble or among living corals. May sometimes form large 'meadows' on sandy areas near reefs.
 
- 
+**Features:**
+An upright chain (5-10cm long) of joined up coin-like flattened segments. Each coin-like segment is hard as it is impregnated with calcium carbonate. Big coin green seaweeds have larger segments about 2cm in diameter. The segments are thin and relatively smooth and unwrinkled. The segments may sometimes be curved into a spoon-shape. In some, clusters of these chains are held up on a stalk that is buried. Colours range from light green to bluish green. The segments of big coin green seaweeds are lightly calcified and thus are not as stiff as segments of some
+[smaller coin green seaweed species](halsmall.md)
+.
 
+**Living on halimeda:**
+The keen-eyed observer may spot the tiny
+[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla.md)
+(
+*Elysiella pusilla*
+) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
 
+During one
+[visit to Tuas in Sep 08](http://wildshores.blogspot.com/2008/09/tuas-with-teamseagrass-of-schering.html)
+, a large stretch (about 20m) of shore at the low water mark was thickly covered with this seaweed. The seaweeds grew to about 10-15cm tall. The thickets of stiff seaweeds seemed to provide shelter for a wide variety of animals and were overgrown with a variety of encrusting organisms.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination of internal parts.
+
+On this website, they are grouped by external features for convenience of display*
 
 ---
 
+**Big coin green seaweeds on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
- *\*Species are difficult
-to positively identify without close examination of internal parts.  
-On this website, they are grouped by external features for convenience of
-display*
-
----
-
-**Big
-coin green seaweeds on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Big Halimeda) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Big Halimeda)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Big%2520Halimeda/map?&fLat=1.2609&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -163,29 +123,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

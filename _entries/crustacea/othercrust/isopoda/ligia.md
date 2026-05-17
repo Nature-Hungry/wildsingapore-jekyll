@@ -21,61 +21,6 @@ order: Isopoda
 suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
-  caption: |
-    <p>Mating?</p>
-    <p>Kranji, Jun 06</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg
-  caption: |
-    <p>Just moulted.</p>
-    <p>Empty skin on the left.</p>
-    <p>Pulau Sekudu, Jul 20</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
-  caption: |
-    <p>Body very flat.</p>
-    <p>Labrador, May 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
-  caption: |
-    <p>Sentosa, Oct 04</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
-  caption: |
-    <p>Chek Jawa, Jan 05</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
-  caption: |
-    <p>Feeding on recently destroyed barnacles?</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
-  caption: |
-    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
-  caption: |
-    <p>Small Sisters Island, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648322517945&set=a.10158648464857945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
-  caption: |
-    <p>Captured by a <a href="../../crab/grapsidae/metopograpsus">Purple climbing crab</a>.</p>
-    <p>Pulau Hantu May 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3524330760/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
-  caption: |
-    <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476140771310&set=a.10158476213361310">facebook</a>.</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
-    <p>pp.</p>
-    <p>963.</p>
-    <p>- Lim, S., P.</p>
-    <p>Ng, L.</p>
-    <p>Tan, & W.</p>
-    <p>Y.</p>
-    <p>Chin, 1994.</p>
-    <p>Rhythm of the Sea: The Life and Times of Labrador Beach.</p>
-    <p>Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore.</p>
-    <p>160 pp.</p>
-    <p>- Jones Diana S.</p>
-    <p>and Gary J.</p>
-    <p>Morgan, 2002.</p>
-    <p>A Field Guide to Crustaceans of Australian Waters.</p>
-    <p>Reed New Holland.</p>
-    <p>224 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
 links_references: |
   **Links**
@@ -97,56 +42,75 @@ links_references: |
   - *[Ligia
     exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)* by
     J. Masterson on Smithsonian Marine Station at Fort Pierce.
+  
   **References**
   - Edward E.
     Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: if you learn only 3 things about them ... They are NOT insects! They are more like crabs. They have seven pairs of legs and move very quickly. They are scavengers.
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: They are NOT insects! They are more like crabs. They have seven pairs of legs and move very quickly. They are scavengers.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg"
+      caption: "Mating? Kranji, Jun 06"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg"
+      caption: "Just moulted. Empty skin on the left. Pulau Sekudu, Jul 20"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg"
+      caption: "Body very flat. Labrador, May 09"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg"
+      caption: "Sentosa, Oct 04"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg"
+      caption: "Chek Jawa, Jan 05"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg"
+      caption: "Feeding on recently destroyed barnacles?"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg"
+      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg"
+      caption: "Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg"
+      caption: Captured by a Purple climbing crab . Pulau Hantu May 09 Photo shared by Marcus Ng on flickr .
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg"
+      caption: "Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook ."
+  gallery6:
+    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+      caption: "Links Order Isopoda Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Mangrove sea slater ( Ligia hawaiiensis ) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Ligia exotica (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254. Isopods and amphipods and Marine slater on the Life on Australian Seashores by Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams. Ligia exotica by J. Masterson on Smithsonian Marine Station at Fort Pierce. References Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963. Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life and Times of Labrador Beach. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans of Australian Waters . Reed New Holland. 224 pp."
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../../photos/bullet.gif) They are NOT insects! They are more like crabs.  
-![](../../../photos/bullet.gif) They have seven pairs of legs and move very quickly.  
-![](../../../photos/bullet.gif)They
-are scavengers.
-  
-## Where seen?
- These nervous little animals are commonly seen on
-almost all our shores, often swarming in large numbers at low tide.
-They are common on rocky shores, also among mangroves.  
-  
-**What are sea slaters?** Sea slaters
-are sometimes called sea cockroaches. Although sea slaters are also [arthropods](../../../arthropoda/arthropoda), they
-are not insects! They are [crustaceans](../../crustacea) like crabs and prawns; but are very happy out of water. ## Features
- 2-3cm. Sea slaters have seven pairs of legs and
-move very fast! They have huge eyes and very long antennae. They are
-well adapted for life out of water, breathing air directly through
-'pseudo-lungs'.
- 
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Where seen?**
+These nervous little animals are commonly seen on almost all our shores, often swarming in large numbers at low tide. They are common on rocky shores, also among mangroves.
 
+**What are sea slaters?**
+Sea slaters are sometimes called sea cockroaches. Although sea slaters are also
+[arthropods](../../../arthropoda/arthropoda.md)
+, they are not insects! They are
+[crustaceans](../../crustacea.md)
+like crabs and prawns; but are very happy out of water.
+**Features:**
+2-3cm. Sea slaters have seven pairs of legs and move very fast! They have huge eyes and very long antennae. They are well adapted for life out of water, breathing air directly through 'pseudo-lungs'.
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**What do they eat?**
+Sea slaters may scavenge, nibbling on whatever recently died on the rocky shore. They may also eat tiny creatures and seaweeds. At low tide, they swarm over the rocks in large numbers.
 
-**What do they eat?** Sea slaters
-may scavenge, nibbling on whatever recently died on the rocky shore.
-They may also eat tiny creatures and seaweeds. At low tide, they swarm
-over the rocks in large numbers.  
-  
-**Slater
-babies:** Sea slaters brood their young in special
-pouches. The young are released as miniature adults instead
-of free-swimming larvae.
+**Slater babies:**
+Sea slaters brood their young in special pouches. The young are released as miniature adults instead of free-swimming larvae.
 
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**Sea
-slaters on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Sea slaters on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Ligia) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Ligia)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/ligia/map?&fLat=1.2619&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -154,25 +118,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery6 %}

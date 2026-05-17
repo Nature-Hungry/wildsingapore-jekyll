@@ -77,6 +77,12 @@ page_images5:
   caption: |
     <p>Burnt, cause unknown.</p>
     <p>Sentosa, Apr 11</p>
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [
+  "Not all seagrasses look like land grasses.",
+  "They grow from underground stems and will be damaged if they are stepped upon. Avoid stepping on seagrasses.",
+  "Dugongs eat mainly seagrasses!"
+]
 links_references: |
   **Links**
   - [TeamSeagrass
@@ -115,6 +121,7 @@ links_references: |
     and on the [wildsingapore
     news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses) and on the [teamseagrass
     blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).
+  
   **References**
   - L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida Pp. 60-77. 29 June 2016. *Seagrass habitats in Singapore: Environmental drivers and key processes.* The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II).
   - Siti M Yaakub, Lim RLF, Lim WL & Todd PA (2013) *The diversity and distribution of seagrass in Singapore*. Nature in Singapore, 6: 105–111.
@@ -156,13 +163,6 @@ links_references: |
     S.C. Chin and H. T. W. Tan.1998, *The
     Concise Flora of Singapore II: Monoctyledons*
     Singapore University Press. 215 pp.
-  
-trivia_title: "if you learn only 3 things about them ..."
-trivia_items: [
-  "Not all seagrasses look like land grasses.",
-  "They grow from underground stems and will be damaged if they are stepped upon. Avoid stepping on seagrasses.",
-  "Dugongs eat mainly seagrasses!"
-]
 ---
 
   
@@ -339,7 +339,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download.
 ---
 
 ## Seagrasses on Singapore shores 
-from Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\*in
+from Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*./*in
 red are those listed among the threatened plants of Singapore
 from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The
 Singapore Red Data Book: Threatened plants and animals of Singapore*. 

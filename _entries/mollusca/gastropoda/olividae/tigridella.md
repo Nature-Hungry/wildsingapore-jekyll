@@ -18,82 +18,63 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
-  caption: |
-    <p>Changi, Apr 13</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
-  caption: |
-    <p>Tall conical spire.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
-  caption: |
-    <p>Shell opening purplish brown</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5134m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4783m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4968m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
-  caption: |
-    <p>Changi East (Lost Coast), Dec 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163467533269264&type=3&ref=embed_post">facebook</a>..</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
----
-
-## Where seen?
- This small bullet-shaped snail is sometimes seen
-on our Northern shores. A burrowing snail, it is more
-often seen above the ground at night or with the incoming tide.   
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg"
+      caption: "Changi, Apr 13"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg"
+      caption: . Tall conical spire.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg"
+      caption: Shell opening purplish brown
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg"
+      caption: "Changi, Apr 13"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg"
+      caption: "Changi, Jun 09"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg"
+      caption: "East Coast Park, Jun 09"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg"
+      caption: "Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on facebook .."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg"
+      caption: ""
+links_references: |
+  **Links**
+  - [*Oliva tigridella*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
+  on SeaLife Base: Technical fact sheet and photo.
   
-## Features
- 2-3.5cm. Shell thick
-heavy glossy, cylindrical bullet-shaped with tall conical spire. Shell pattern various from plain to dark speckles to large
-dark brown or black blotchy bars. The shell opening purplish brown.Body large beige with brownish spots all over. A
-long siphon sticks out of the notch in the shell. It does not have
-an operculum.
+  **References**
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+---
 
- 
+**Where seen?**
+This small bullet-shaped snail is sometimes seen on our Northern shores. A burrowing snail, it is more often seen above the ground at night or with the incoming tide.
 
+**Features:**
+2-3.5cm. Shell thick heavy glossy, cylindrical bullet-shaped with tall conical spire. Shell pattern various from plain to dark speckles to large dark brown or black blotchy bars. The shell opening purplish brown.Body large beige with brownish spots all over. A long siphon sticks out of the notch in the shell. It does not have an operculum.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Tigerish olive snails on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Tigerish
-olive snails on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-taken-desc&view_all=1&text=Oliva tigridella) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-taken-desc&view_all=1&text=Oliva tigridella)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Oliva%2520tigridella/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -101,34 +82,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**Acknowledgements**  
-With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity
-Research for identifying this snail. **Links**
+**Acknowledgements**
 
-- [*Oliva
-  tigridella*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039) on SeaLife Base: Technical fact sheet and photo.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity Research for identifying this snail.

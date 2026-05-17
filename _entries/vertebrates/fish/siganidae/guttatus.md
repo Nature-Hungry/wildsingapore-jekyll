@@ -22,89 +22,73 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
-  caption: |
-    <p>Tanah Merah, May 10</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg
-  caption: |
-    <p>Large golden spot near the tail.</p>
-    <p>Chek Jawa, Aug 02</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg
-  caption: |
-    <p>Punggol, Aug 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167273586160112&set=a.10167273582760112">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg
-  caption: |
-    <p>Tanah Merah, Jun 23 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168433602810112/997249805054269">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG
-  caption: |
-    <p>Tanah Merah, May 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13989048150/in/album-72157664044624940/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg
-  caption: |
-    <p>St John's Island, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169627167815112">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
-  caption: |
-    <p>Kusu Island, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928723993660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg"
+      caption: "Tanah Merah, May 10"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg"
+      caption: "Large golden spot near the tail. Chek Jawa, Aug 02"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg"
+      caption: "Punggol, Aug 22 Photo shared by Kelvin Yong on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg"
+      caption: "Tanah Merah, Jun 23 Photo shared by Kelvin Yong on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG"
+      caption: "Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg"
+      caption: "St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg"
+      caption: "Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook ."
 links_references: |
-  **Links**  
-  - [Orange-spotted
-    rabbitfish (*Siganus guttatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588) from [FishBase](http://www.fishbase.org/):
-    Technical fact sheet.
-  - [Volume
-    4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
-    Identification Guide for Fishery Purposes The Living Marine Resources
-    of the Western Central Pacific.
+  **Links**
+  - [Orange-spotted rabbitfish (
+  *Siganus guttatus*
+  )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588)
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet.
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+  
   **References**
-  - Allen, Gerry,
-    2000. *Marine Fishes of South-East Asia: A Field Guide for Anglers
-    and Divers*. Periplus Editions. 292 pp.
-  - Lieske, Ewald
-    and Robert Myers. 2001. *Coral
-    Reef Fishes of the World*
-    Periplus Editions. 400pp.
+  - Allen, Gerry, 2000.
+  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+  . Periplus Editions. 292 pp.
+  - Lieske, Ewald and Robert Myers. 2001.
+  *Coral Reef Fishes of the World*
+  Periplus Editions. 400pp.
 ---
 
-## Where seen?
- This gaily spotted fish is sometimes seen on on our
-Northern shores, among coral rubble. Sadly, often encountered trapped
-in driftnets. Elsewhere, it is found in turbid reefs near mangroves
-and appears to prefer places with lower salinity. Young fishes settle
-in seagrass beds near river mouths while adults leave and enter rivers
-with the tides. Adults travel in groups of 10-15. Unlike other rabbitfishes,
-this species is said to be active at night.  
-  
-## Features
- To about 40cm, those
-seen about 15-20cm. It is named
-for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
-or possibly for its habit of grazing on seaweeds. It is also called
-Spinefoot after the spines on its pelvic fins, a unique feature of
-this family. It has tiny scales. It is distinguished by the spotted pattern and
-large golden spot below the dorsal fin near the tail which is about
-the same diameter as the eye. The upper body is dusky blue, and lower
-body silvery. The head has lines and spots. It has stout, venomous
-spines.
- 
-  
-**Painful sting!** The rabbitfish has spines on its fins
-that are grooved and contain venom glands. These spines may be found
-on the dorsal, anal and pelvic fins. The sting of these spines can
-be quite painful to humans, but is generally not fatal. The fishes
-use their spines in self-defence and not for hunting prey.**How to stay safe:** Wear covered shoes. Don't handle rabbitfishes.
-  
-**What does it eat?** It eats algae
-that grows on the sea bottom. **Human uses:** Sold fresh in some places as food.
+**Where seen?**
+This gaily spotted fish is sometimes seen on on our Northern shores, among coral rubble. Sadly, often encountered trapped in driftnets. Elsewhere, it is found in turbid reefs near mangroves and appears to prefer places with lower salinity. Young fishes settle in seagrass beds near river mouths while adults leave and enter rivers with the tides. Adults travel in groups of 10-15. Unlike other rabbitfishes, this species is said to be active at night.
+
+**Features:**
+To about 40cm, those seen about 15-20cm. It is named for its rabbit-like snout ('siganus' means 'has a nose like a rabbit') or possibly for its habit of grazing on seaweeds. It is also called Spinefoot after the spines on its pelvic fins, a unique feature of this family. It has tiny scales. It is distinguished by the spotted pattern and large golden spot below the dorsal fin near the tail which is about the same diameter as the eye. The upper body is dusky blue, and lower body silvery. The head has lines and spots. It has stout, venomous spines.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+**Painful sting!**
+The rabbitfish has spines on its fins that are grooved and contain venom glands. These spines may be found on the dorsal, anal and pelvic fins. The sting of these spines can be quite painful to humans, but is generally not fatal. The fishes use their spines in self-defence and not for hunting prey.
+**
+**How to stay safe:**
+Wear covered shoes. Don't handle rabbitfishes.
+
+**What does it eat?**
+It eats algae that grows on the sea bottom.
+**Human uses:**
+Sold fresh in some places as food.
 
 ---
 
-**Orange-spotted
-rabbitfishes on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Orange-spotted rabbitfishes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?sort=date-taken-desc&text=Siganus%20guttatus&user_id=54527470%40N00) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?sort=date-taken-desc&text=Siganus%20guttatus&user_id=54527470%40N00)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Siganus%2520guttatus/map?&fLat=1.2815&fLon=103.8293&zl=11&order_by=recent)
 
 ---
@@ -112,28 +96,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

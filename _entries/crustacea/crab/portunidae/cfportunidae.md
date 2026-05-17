@@ -25,220 +25,90 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Portunoidea
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
-  caption: |
-    <p><a href="blue">Banded-leg swimming crab</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
-  caption: |
-    <p><a href="tiny">Tiny swimming crabs</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
-  caption: |
-    <p><a href="powderblue">Powder blue-clawed swimming crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg"
+      caption: ""
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg"
+      caption: ""
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg"
+      caption: ""
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg"
+      caption: ""
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg"
+      caption: ""
+  gallery8:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg"
+      caption: Banded-leg swimming crab
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg"
+      caption: Tiny swimming crabs
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg"
+      caption: Powder blue-clawed swimming crab
 ---
 
-**Swamped
-by swimming crabs?**   
-Several different kinds of swimming
-crabs can be found on our shores.   
-Here's more on
-how to tell them apart.
+**Swamped by swimming crabs?**
+
+Several different kinds of swimming crabs can be found on our shores.
+
+Here's more
+on how to tell them apart.
 
 ---
-
- 
-
-**[Flower
-crab](pelagicus)**  
-(*Portunus pelagicus*)  
-Body fan-shaped
-
-Nine 'teeth on the side of the   
-body shell, the last one is   
-enlarged into a long spine.
-
-Eyes
-are not far apart.
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
 ---
 
-
-
-
-[**Mud
-crab**](scylla)   
-(*Scylla* sp.)  
-Body fan-shaped
-
-Nine
-'teeth' on the side of   
-the body shell, all of equal length
-
-Eyes
-not far apart
+**More comparisons**
 
 ---
-
-
-
-
-[**Purple-legged
-swimming crab**](purpleleg)  
-(*Charybdis hellerii*)   
-Body fan-shaped
-
-Six
-'teeth' on the side of the   
-body shell, all of equal length.
-
-Eyes
-are not far apart.
-
----
-
-
-
-
-[**Red
-swimming crab**](spinimana)  
-(*Thalamita spinimana*)  
-Body is rather rectangular.
-
-Five'
-teeth' on the   
-side of the body shell.
-
-The
-eyes are very wide apart
-
----
-
-
-
-
-[**Blue
-swimming crab**](blue)  
-(*Thalamita danae*)  
-Body rather rectangular
-
-Five 'teeth' on the side of the body shell, body hairy which traps sand.
-
-The
-eyes are wide apart
-
----
-
-
-
-
-**[Mottled swimming crab](mottled)**  
-(*Thalamita* sp.)  
-Body rather rectangular
-
-5 'teeth' on the side of the body shell, tooth number four much smaller than the other teeth. Body not hairy.
-
-The
-eyes are wide apart
-
----
-
-
-
-
-[**Blue-spined
-swimming crab**](bluespined)  
-(*Thalamita prymna*)  
-Body rather rectangular
-
-Five
-'teeth' on the side of the body shell, tooth number four much smaller than the other teeth. Body not hairy.
-
-The
-eyes are very wide apart
-
----
-
-**More
-comparisons**
-  
-
----
-
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery8 %}

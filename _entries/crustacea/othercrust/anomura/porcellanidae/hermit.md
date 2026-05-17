@@ -25,58 +25,37 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
-  caption: |
-    <p>In a shell occupied by a <a href="../hermit/clibanarius">Striped hermit crab</a>.</p>
-    <p>Changi, Apr 05</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
-  caption: |
-    <p>Chek Jawa, Mar 05</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3.jpg"
+      caption: "In a shell occupied by a Striped hermit crab . Changi, Apr 05"
+    - url: "http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg"
+      caption: "Chek Jawa, Mar 05"
 ---
 
-## Where seen?
- This tiny porcelain crab is sometimes seen inside
-large shells occupied by [hermit crabs](../hermit/hermit) on our Northern shores.   
-  
- ## Features
- Body width usually
-less than 1cm. Drab brown or grey. Usually seen in pairs in large
-shells occupied by a hermit crab.
+**Where seen?**
+This tiny porcelain crab is sometimes seen inside large shells occupied by
+[hermit crabs](../hermit/hermit.md)
+on our Northern shores.
 
- 
+**Features:**
+Body width usually less than 1cm. Drab brown or grey. Usually seen in pairs in large shells occupied by a hermit crab.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-  
-*\*Species are
-difficult to positively identify without close examination.   
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Hermit
-porcelain crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Hermit porcelain crabs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Hermit porcelain crabs) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Hermit porcelain crabs)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Hermit%2520porcelain%2520crabs/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
-
-[links](../../../../links)
-| [references](../../../../references)
-| [about](../../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

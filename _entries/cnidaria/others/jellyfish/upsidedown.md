@@ -20,116 +20,86 @@ order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Sep 2025
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
-  caption: |
-    <p>Upper side.</p>
-    <p>Pulau Semakau, Mar 08</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg
-  caption: |
-    <p>Turning around.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg
-  caption: |
-    <p>Upside down.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg
-  caption: |
-    <p>Pulau Semakau, Nov 07</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg
-  caption: |
-    <p>Closer look at the underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg
-  caption: |
-    <p>Changi Lost Coast, Jun 22Shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159804112767906&set=a.10159804107292906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg
-  caption: |
-    <p>Sentosa Tg Rimau, Nov 21Shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=10159544063688158&set=a.10159544071408158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg
-  caption: |
-    <p>Sentosa Tg Rimau, Jan 22Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159652571753158&set=a.10159652575878158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg
-  caption: |
-    <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg
-  caption: |
-    <p>Pulau Tekukor, Mar 24Shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10161031538947906&set=a.10161031532427906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg
-  caption: |
-    <p>Kusu Island, Apr 17Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154598945733660&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg
-  caption: |
-    <p>Kusu Island, Sep 09Shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolatel">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg
-  caption: |
-    <p>Upside down.</p>
-    <p>Pulau Semakau, Nov 07</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg
-  caption: |
-    <p>Upside down.</p>
-    <p>Terumbu Semakau, Nov 12</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg
-  caption: |
-    <p>Terumbu Raya, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywherel">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg
-  caption: |
-    <p>Pulau Semakau East, Jan 16Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660&type=3&pnref=story">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg
-  caption: |
-    <p>Beting Bemban Besar, Apr 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4540476794/in/datetaken/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
+      caption: "Upper side. Pulau Semakau, Mar 08"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg"
+      caption: Turning around.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg"
+      caption: Upside down.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg"
+      caption: "Pulau Semakau, Nov 07"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg"
+      caption: Closer look at the underside.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg"
+      caption: "Changi Lost Coast, Jun 22 Shared by Richard Kuah on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg"
+      caption: "Sentosa Tg Rimau, Nov 21 Shared by James Koh on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg"
+      caption: "Sentosa Tg Rimau, Jan 22 Shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg"
+      caption: "Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg"
+      caption: "Pulau Tekukor, Mar 24 Shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg"
+      caption: "Kusu Island, Apr 17 Shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg"
+      caption: "Kusu Island, Sep 09 Shared by James Koh on his blog ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg"
+      caption: "Upside down. Pulau Semakau, Nov 07"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg"
+      caption: "Upside down. Terumbu Semakau, Nov 12"
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg"
+      caption: "Terumbu Raya, Jul 09 Photo shared by James Koh on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg"
+      caption: "Pulau Semakau East, Jan 16 Shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg"
+      caption: "Beting Bemban Besar, Apr 10 Shared by Loh Kok Sheng on his flickr ."
 links_references: |
   **Links**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - [The
-    Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info about
-    jellyfishes in Class Scyphozoa.
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
+  by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.
 ---
 
-## Where seen?
- This topsy turvy jellyfish can be seasonally common on our Southern shores. Especially onPulau Semaku,
-found throughout the intertidal from the seagrass meadows to the reef
-flats. And also in the submerged reefs nearby. It is also seen on some of our other Southern shores.  
-  
-## Features
- Bell about 4-12cm, with short stout branched oral arms. The oral arm
-length about half the diameter of the bell. There is usually a pattern
-of white bars on the upper and underside of the bell.   
-  
-The animal prefers to be 'upside down', with its bell facing the sea
-floor and oral arms facing upwards toward the light. When one is turned
-the 'right' way up, it will slowly turn itself upside down again.   
-  
-**Sometimes mistaken for** a sea anemone, in its preferred position, with only its oral arms visible and bell
-hidden beneath.
+**Where seen?**
+This topsy turvy jellyfish can be seasonally common on our Southern shores. Especially onPulau Semaku, found throughout the intertidal from the seagrass meadows to the reef flats. And also in the submerged reefs nearby. It is also seen on some of our other Southern shores.
 
- 
+**Features:**
+Bell about 4-12cm, with short stout branched oral arms. The oral arm length about half the diameter of the bell. There is usually a pattern of white bars on the upper and underside of the bell.
 
+The animal prefers to be 'upside down', with its bell facing the sea floor and oral arms facing upwards toward the light. When one is turned the 'right' way up, it will slowly turn itself upside down again.
 
+**Sometimes mistaken for**
+a sea anemone, in its preferred position, with only its oral arms visible and bell hidden beneath.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Farm in its arms:**
+The jellyfish harbours microscopic, single-celled algae (called zooxanthellae) inside its body. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the jellyfish, which in return provides the algae with shelter and minerals. It is the algae which gives the jellyfish its colours. Because it relies on photosynthesis, the jellyfish tends to be found in shallow waters.
 
-**Farm in its arms:** The jellyfish harbours
-microscopic, single-celled algae (called zooxanthellae) inside its
-body. The algae undergo photosynthesis to produce food from sunlight.
-The food produced is shared with the jellyfish, which in return provides
-the algae with shelter and minerals. It is the algae which gives the
-jellyfish its colours. Because it relies on photosynthesis,
-the jellyfish tends to be found in shallow waters.  
-  
-**Status:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
+**Status:**
+There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Upsidedown
-jellyfishes on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Upsidedown jellyfishes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cassiopea sp.) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cassiopea sp.)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Cassiopea/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -137,61 +107,45 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
+---
 
+Seringat-Kias, Nov 2019
 
 ---
 
-
-
-
----
-
-
-
-
----
-
-
+[upside-down jellyfish](https://vimeo.com/8312015)
+from
+[SgBeachBum](https://vimeo.com/sgbeachbum)
+on
+[Vimeo](https://vimeo.com)
+.
 
 ---
 
+**Family Cassiopeidae on Singapore Shores**
+from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
+**Family Cassiopeidae**
+(Upsidedown jellyfish)
 
-
----
-
-Seringat-Kias, Nov 2019  
-
----
-
-[upside-down jellyfish](https://vimeo.com/8312015) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
-
----
-
-**Family Cassiopeidae on Singapore Shores** from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.  
-  
- 
-**Family
-Cassiopeidae** (Upsidedown jellyfish)
- 
-*Cassiopea andromeda* (Upside-down jellyfish) *Cassiopea xamachana* (Upside-down jellyfish)
+*Cassiopea andromeda*
+(Upside-down jellyfish)
+*Cassiopea xamachana*
+(Upside-down jellyfish)
 
 ---
 
-**Acknowlegement**  
-With grateful thanks to [Dr
-Michael N Dawson](http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=73) of the University of California, Merced for identifying
-this jellyfish.  
-  
+**Acknowlegement**
 
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+With grateful thanks to
+[Dr Michael N Dawson](http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=73)
+of the University of California, Merced for identifying this jellyfish.

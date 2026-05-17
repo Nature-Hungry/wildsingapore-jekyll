@@ -23,74 +23,73 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
-  caption: |
-    <p>SIsters Island, Feb 07</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg
-  caption: |
-    <p>Seringat-Kias, Apr 12</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg
-  caption: |
-    <p>Changi, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156547443268158&set=a.10156547440993158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg
-  caption: |
-    <p>Beting Bronok, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg
-  caption: |
-    <p>Pulau Hantu, Jul 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/683902525/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
-  caption: |
-    <p>Pulau Semakau, May 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg"
+      caption: "SIsters Island, Feb 07"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg"
+      caption: "Seringat-Kias, Apr 12"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg"
+      caption: "Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg"
+      caption: "Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg"
+      caption: "Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg"
+      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg"
+      caption: "Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog ."
 links_references: |
-  **Links**  
-  - [Yelloweye
-    Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395) Lim, Kelvin K. P. & Jeffrey
-    K. Y. Low, 1998. *[A
-    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
-    Science Centre. 163 pp.
-  - [Puffer
-    or Globe fish (*Arothron* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter
-    K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Immaculate
-    puffer (*Arothron immaculatus*)](http://www.fishbase.org/summary/7188) from [FishBase](http://www.fishbase.org/):
-    Technical fact sheet.
+  **Links**
+  - [Yelloweye Puffer (
+  *Arothron immaculatus*
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.md)
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*
+  . Singapore Science Centre. 163 pp.
+  - [Puffer or Globe fish (
+  *Arothron*
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253.md)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  - [Immaculate puffer (
+  *Arothron immaculatus*
+  )](http://www.fishbase.org/summary/7188)
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet.
+  
   **References**
-  - Allen, Gerry,
-    2000. *Marine
-    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-    Periplus Editions. 292 pp.
-  - Kuiter, Rudie
-    H. 2002. *Guide
-    to Sea Fishes of Australia: A Comprehensive Reference for Divers
-    & Fishermen*
-    New Holland Publishers. 434pp.
+  - Allen, Gerry, 2000.
+  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+  . Periplus Editions. 292 pp.
+  - Kuiter, Rudie H. 2002.
+  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+  New Holland Publishers. 434pp.
 ---
 
-## Where seen?
- This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs. ## Features
-  Grows to
-about 30cm, those seen 8-10cm. Body rather plain without markings,
-tail fin yellowish with a dark brown edge. Sometimes, the eyes are yellow. Sometimes, they are found in small
-groups.
- 
-
+**Where seen?**
+This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs.
+**Features:**
+Grows to about 30cm, those seen 8-10cm. Body rather plain without markings, tail fin yellowish with a dark brown edge.
+Sometimes, the eyes are yellow. Sometimes, they are found in small groups.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Yelloweye
-pufferfishes in Singapore**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Yelloweye pufferfishes in Singapore**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&view_all=1&text=Arothron%20immaculatus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&view_all=1&text=Arothron%20immaculatus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Arothron%2520immaculatus/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -98,30 +97,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

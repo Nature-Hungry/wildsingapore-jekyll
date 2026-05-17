@@ -23,56 +23,78 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
-  caption: |
-    <p>Pulau Hantu, Jun 09</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
-  caption: |
-    <p>Tiny white dots regularly spaced on face and in rows on its body.</p>
-    <p>St.</p>
-    <p>John's Island, Sep 07</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
-  caption: |
-    <p>East Coast NSRCC, Nov 20Photo shared by James Koh on flickr.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
-  caption: |
-    <p>Berlayar Creek, Oct 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3&pnref=story">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
-  caption: |
-    <p>Sentosa Serapong, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153650562648660.1073741902.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
-  caption: |
-    <p>Pulau Jong, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/06/wet-on-jong.html">her blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg"
+      caption: "Pulau Hantu, Jun 09"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg"
+      caption: "Tiny white dots regularly spaced on face and in rows on its body. St. John's Island, Sep 07"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg"
+      caption: "East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg"
+      caption: "Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg"
+      caption: "Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg"
+      caption: "Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog ."
+links_references: |
+  **Links**
+  - [Common frill-fin goby (
+  *Bathygobius fuscus*
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360.md)
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+  . Singapore Science Centre. 163 pp.
+  - [Dusky frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
+  [(
+  *Bathygobius fuscus*
+  )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
+  and
+  [Meggitt's goby (
+  *Bathygobius meggitti*
+  )](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431)
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet.
+  - [*Bathygobius fuscus*](http://www.iucnredlist.org/details/172443/0)
+  on the IUCN Red List.
+  - [Common frill-fin goby](http://www.ecologyasia.com/verts/brackish-fishes/common-frill-fin-goby.md)
+  on
+  [EcologyAsia](http://www.ecologyasia.com/)
+  : photos and fact sheet
+  
+  **References**
+  - Larson, Helen K and Kelvin K. P. Lim. 2005.
+  *A Guide to Gobies of Singapore*
+  . Singapore Science Centre. 164pp.
 ---
 
-## Where seen?
- This pretty spotted goby is commonly seen on many of our shores, in
-rocky shores, coral rubble and reefs.  
-  
-## Features
- 4-7cm long. It has bulging
-cheeks and a pattern of tiny white spots regularly spaced on its face
-and in rows down its body. Usually a pair of dark saddles, as well
-as dark blotches, along the body length.  
-  
-The most commonly seen frill-fin gobies on our shores are the Common
-frill-fin goby (*Bathygobius fuscus*) and Meggitt's frill-fin
-goby (*Bathygobius meggitti*) which look very similar.
+**Where seen?**
+This pretty spotted goby is commonly seen on many of our shores, in rocky shores, coral rubble and reefs.
 
- 
+**Features:**
+4-7cm long. It has bulging cheeks and a pattern of tiny white spots regularly spaced on its face and in rows down its body. Usually a pair of dark saddles, as well as dark blotches, along the body length.
 
+The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (
+*Bathygobius fuscus*
+) and Meggitt's frill-fin goby (
+*Bathygobius meggitti*
+) which look very similar.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Frill-fin
-gobies on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Frill-fin gobies on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?text=Bathygobius&sort=date-taken-desc&user_id=54527470@N00) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?text=Bathygobius&sort=date-taken-desc&user_id=54527470@N00)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Bathygobius/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -80,53 +102,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-
-
----
-
-
----
-
-**Acknowledgements**Thanks to Dr
-Zeehan Jaafar for identifying some of these fishes. **Links**  
-
-- [Common
-  frill-fin goby (*Bathygobius fuscus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360.htm) Lim, Kelvin K.
-  P. & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Dusky
-  frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201) [(*Bathygobius
-  fuscus*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
-  and [Meggitt's
-  goby (*Bathygobius meggitti*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [*Bathygobius
-  fuscus*](http://www.iucnredlist.org/details/172443/0)
-  on the IUCN Red List.
-- [Common
-  frill-fin goby](http://www.ecologyasia.com/verts/brackish-fishes/common-frill-fin-goby.htm) on [EcologyAsia](http://www.ecologyasia.com/):
-  photos and fact sheet
-
-**References**
-
-- Larson, Helen
-  K and Kelvin K. P. Lim. 2005. *A
-  Guide to Gobies of Singapore*. Singapore Science Centre.
-  164pp.
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**Acknowledgements**
+Thanks to Dr Zeehan Jaafar for identifying some of these fishes.

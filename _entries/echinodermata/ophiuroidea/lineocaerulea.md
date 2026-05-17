@@ -26,97 +26,74 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
-  caption: |
-    <p>Beting Bronok, Jun 10</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg
-  caption: |
-    <p>Pulau Sekudu, Aug 04</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jul 04</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg
-  caption: |
-    <p>Releasing eggs?</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, May 11</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks3m3.jpg
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
-  caption: |
-    <p>Changi, May 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14036443733/in/album-72157607622389163/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg"
+      caption: "Beting Bronok, Jun 10"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg"
+      caption: Underside.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg"
+      caption: "Pulau Sekudu, Aug 04"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg"
+      caption: ""
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg"
+      caption: "Pulau Sekudu, Jul 04"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg"
+      caption: "Releasing eggs?"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg"
+      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG"
+      caption: "Changi, May 13 Photo shared by Loh Kok Sheng on flickr ."
 links_references: |
   **Links**
-  - [*Macrophiothrix
-    lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaeruleal)
-    on SeaLife Base: Technical fact sheet.
+  - [*Macrophiothrix lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaerulea.html)
+  on SeaLife Base: Technical fact sheet.
+  
   **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
+  - Lane, David J.W. and Didier Vandenspiegel. 2003
+  *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+  . Singapore Science Centre. 187pp.
 ---
 
-## Where seen?
- This elegantly marked long-armed brittle star is sometimes seen in
-rubbly areas near seagrasses on our Northern shores, especially at
-night. It was previously known as *Ophiothrix lineocaerulea*.  
-  
-## Features
- Disk
-diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat
-pentagonal. Long blunt cylindrical spines along the length of the
-arms, held in a bristley manner so the arm resembles a bottle brush.
-A pair of dark parallel lines along the upperside of the arms. This
-pair of lines continues on the central disk. The arms have diffuse
-banding of blue and yellow.
+**Where seen?**
+This elegantly marked long-armed brittle star is sometimes seen in rubbly areas near seagrasses on our Northern shores, especially at night. It was previously known as
+*Ophiothrix lineocaerulea*
+.
 
- 
+**Features:**
+Disk diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat pentagonal. Long blunt cylindrical spines along the length of the arms, held in a bristley manner so the arm resembles a bottle brush. A pair of dark parallel lines along the upperside of the arms. This pair of lines continues on the central disk. The arms have diffuse banding of blue and yellow.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Sometimes confused with**
+the
+[Very long armed brittle star](longipeda.md)
+(
+*Macrophiothrix longipeda*
+) which also has very long arms but lacks the blue lines and has flatter spines.
 
+**Status and threats:**
+The Blue-lined brittle star is listed among the threatened animals of Singapore.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 
-
-**Sometimes confused with** the [Very
-long armed brittle star](longipeda) (*Macrophiothrix longipeda*) which
-also has very long arms but lacks the blue lines and has flatter spines.  
-  
-**Status
-and threats:** The Blue-lined brittle star is listed among
-the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by
-human activities such as reclamation and pollution. Trampling by careless
-visitors also have an impact on local populations.
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
+**Blue-lined brittle stars on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
----
-
-**Blue-lined
-brittle stars on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Macrophiothrix lineocaerulea) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Macrophiothrix lineocaerulea)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Macrophiothrix%2520lineocaerulea/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -124,7 +101,5 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---

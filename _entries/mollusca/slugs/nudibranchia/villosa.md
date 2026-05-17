@@ -23,97 +23,74 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
-  caption: |
-    <p>Chek Jawa, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3c.jpg
-  caption: |
-    <p>Tapering papillae on the body.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
-  caption: |
-    <p>Underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3790m3.jpg
-  caption: |
-    <p>Punggol, Jun 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3792m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3b.jpg
-  caption: |
-    <p>Small feathery gills.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3a.jpg
-  caption: |
-    <p>Larger bumps are filled with fluid.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3a.jpg
-  caption: |
-    <p>Rhinophores.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528chgsafmn3.jpg
-  caption: |
-    <p>Changi Creek, May 21 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158287454753660&set=a.10158287457408660">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528lygjll8.jpg
-  caption: |
-    <p>Changi Loyang, May 21 Photo shared by Jianline Liu on <a href="https://www.facebook.com/photo?fbid=10158302308111295&set=a.10158300364091295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg
-  caption: |
-    <p>Beting Bronok, Jul 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159959537844264&set=a.10159959530369264">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg"
+      caption: "Chek Jawa, May 05"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3c.jpg"
+      caption: Tapering papillae on the body.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg"
+      caption: Underside.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3790m3.jpg"
+      caption: "Punggol, Jun 12"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3792m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3b.jpg"
+      caption: Small feathery gills.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3a.jpg"
+      caption: Larger bumps are filled with fluid.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3a.jpg"
+      caption: Rhinophores.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528chgsafmn3.jpg"
+      caption: "Changi Creek, May 21 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528lygjll8.jpg"
+      caption: "Changi Loyang, May 21 Photo shared by Jianline Liu on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg"
+      caption: "Beting Bronok, Jul 22 Photo shared by Tammy Lim on facebook ."
 links_references: |
-  **Links**  
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet of
-    *[Thordisa
-    villosa](http://www.seaslugforum.net/find/thorvill)*
+  **Links**
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: photos and fact sheet of
+  *[Thordisa villosa](http://www.seaslugforum.net/find/thorvill)*
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Humann, Paul
-    and Ned Deloach. 2010. *Reef
-    Creature Identification: Tropical Pacific* New World Publications.
-    497pp.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Humann, Paul and Ned Deloach. 2010.
+  *Reef Creature Identification: Tropical Pacific*
+  New World Publications. 497pp.
 ---
 
-## Where seen?
- This rather boring but large nudibranch is sometimes seen on our Northern
-shores among coral rubble and rocky shores. Sometimes covered in a
-thin layer of silt. It appears to be seasonally common.   
-  
-## Features
- 4-8cm long. The upperside
-of the broad hard body looks like coral rubble in colour and texture.
-Body yellow with a characteristic pattern of dark brown patches around
-the mantle edge. It is covered with bumps and some of the larger tapering
-finger-like structures (papillae) may be filled with fluid. The underside
-and small foot is yellow with brown or black spots. The body doesn't
-fall apart when handled. Tiny rhinophores and small feathery gills.  
-  
-**What does it eat?** It eats [sponges](../../../porifera/porifera.htm).
+**Where seen?**
+This rather boring but large nudibranch is sometimes seen on our Northern shores among coral rubble and rocky shores. Sometimes covered in a thin layer of silt. It appears to be seasonally common.
 
- 
+**Features:**
+4-8cm long. The upperside of the broad hard body looks like coral rubble in colour and texture. Body yellow with a characteristic pattern of dark brown patches around the mantle edge. It is covered with bumps and some of the larger tapering finger-like structures (papillae) may be filled with fluid. The underside and small foot is yellow with brown or black spots. The body doesn't fall apart when handled. Tiny rhinophores and small feathery gills.
 
-
+**What does it eat?**
+It eats
+[sponges](../../../porifera/porifera.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
-
-
-
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
 **Yellow-foot nudibranchs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Thordisa villosa) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Thordisa villosa)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Thordisa%2520villosa/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -121,24 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

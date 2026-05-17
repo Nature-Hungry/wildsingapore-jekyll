@@ -18,131 +18,59 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Apr 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3a.jpg
-  caption: |
-    <p>Oral disk has white stripes that may extend onto the tentacles.</p>
-    <p>Oral disk lacks white stripes.</p>
-    <p>Oral disk lacks white stripes.</p>
-    <p>Oral disk sparsely covered in tentacles.</p>
-    <p>Oral disk densely covered in tentacles.</p>
-    <p>Oral disk densely covered in tentacles.</p>
-    <p>Tentacle tips are tapered.</p>
-    <p>Tentacle tips are rounded or swollen and bubble-like.</p>
-    <p>Tentacle tips are tapered often with pink or colourful tips.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3c.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3a.jpg
-  caption: |
-    <p>Large eye-shaped verrucae.</p>
-    <p>Small verrucae in rows near the top of the body column.</p>
-    <p>Large obvious bumpy verrucae in rows on a pale body column.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
-  caption: |
-    <p><a href="haddoni.htm">Haddon's carpet anemone</a> has short tentacles and is found in sand.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg
-  caption: |
-    <p><a href="mertensii.htm">Merten's carpet anemone</a> has short tentacles and is found on reefs.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg
-  caption: |
-    <p>The <a href="entacmaea.htm">bulb tip anemone</a> usually has bulbous tips.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/040423sntd0079m3.jpg
-  caption: |
-    <p>Some <a href="../coralsoft/alcyoniidae.htm">leathery soft corals</a> may look like large sea anemones.</p>
-    <p>They have tiny polyps with tentacles.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100601slud4724m3a.jpg
-  caption: |
-    <p>This is a <a href="../coralhard/poritidae/goniopora.htm">hard coral</a> with long-bodied polyps tipped with tentacles.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
-  caption: |
-    <p>The <a href="../coralhard/fungiidae/heliofungia.htm">Sunflower mushroom coral</a> is a hard coral with a hard skeleton.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3c.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg"
+      caption: Haddon's carpet anemone has short tentacles and is found in sand.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg"
+      caption: Merten's carpet anemone has short tentacles and is found on reefs.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg"
+      caption: The bulb tip anemone usually has bulbous tips.
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/coralsoft/letomelette/040423sntd0079m3.jpg"
+      caption: Some leathery soft corals may look like large sea anemones. They have tiny polyps with tentacles.
+    - url: "http://www.wildsingapore.com/wildfacts/coralhard/poritidae/gonbig/100601slud4724m3a.jpg"
+      caption: This is a hard coral with long-bodied polyps tipped with tentacles.
+    - url: "http://www.wildsingapore.com/wildfacts/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg"
+      caption: The Sunflower mushroom coral is a hard coral with a hard skeleton.
 ---
 
-These large sea anemones
-(diameter 20cm or more) with long tentacles may look similar at first glance.
-Here's more on how to tell them apart.
+These large sea anemones (diameter 20cm or more) with long tentacles may look similar at first glance. Here's more on how to tell them apart.
 
 ---
-
- 
-
-[**Snaky
-anemone**](doreensis.htm)(*Heteractis
-doreensis*)  
-Family Actiniidae
-
-[**Magnificent
-anemone**](magnifica.htm)  
-(*Heteractis magnifica)*Family Stichodactylidae
-
-[**Leathery
-anemone**](crispa.htm)   
-(*Heteractis crispa*)Family Stichodactylidae
-
-Usually
-seen in coral rubble areas.
-Usually
-seen in living reefs among living hard corals.
-Usually
-seen in coral rubble areas and among living hard corals.
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**More
-comparisons**
-  
+**More comparisons**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
 how to tell apart
-
-- [animals
-  with a ring of smooth tentacles](../cfringtentacles.htm)
-- [animals
-  with a ring of feathery arms](../../glossary/feathery.htm)
-- [large
-  sea anemones with short tentacles](stichodactyla.htm)
-- [large
-  'hairy' cnidarians](../cflargecnidarians.htm)
-
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+- [animals with a ring of smooth tentacles](../cfringtentacles.md)
+- [animals with a ring of feathery arms](../../glossary/feathery.md)
+- [large sea anemones with short tentacles](stichodactyla.md)
+- [large 'hairy' cnidarians](../cflargecnidarians.md)

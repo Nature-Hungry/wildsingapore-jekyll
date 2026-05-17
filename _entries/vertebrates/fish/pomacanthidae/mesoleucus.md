@@ -23,75 +23,54 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
-  caption: |
-    <p>An adult caught in a fish trap.</p>
-    <p>Kusu Island, Jun 04</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519768153/in/album-72157626616274147/">flickr</a>.</p>
-    <p>What does it eat?</p>
-    <p>It eats sponges, ascidians and filamentous algae.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
+      caption: "An adult caught in a fish trap. Kusu Island, Jun 04"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg"
+      caption: "Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
 links_references: |
-   **Links**  
-  - [Yellowtail
-    or Vermiculated angelfish (*Chaetodontoplus mesoleucus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334.htm)
-    Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
-    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-    Science Centre. 163 pp.
-  - *[Chaetodontoplus mesoleucus](http://www.iucnredlist.org/details/165884/0)* from the IUCN Red List.
+  **Links**
+  - [Yellowtail or Vermiculated angelfish (
+  *Chaetodontoplus mesoleucus*
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334.md)
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+  . Singapore Science Centre. 163 pp.
+  - *[Chaetodontoplus mesoleucus](http://www.iucnredlist.org/details/165884/0)*
+  from the IUCN Red List.
+  
   **References**
-  - Allen, Gerry,
-    2000. *Marine
-    Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
-    Periplus Editions. 292 pp.
-  - Lieske, Ewald
-    and Robert Myers. 2001. *Coral
-    Reef Fishes of the World*
-    Periplus Editions. 400pp.
+  - Allen, Gerry, 2000.
+  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+  . Periplus Editions. 292 pp.
+  - Lieske, Ewald and Robert Myers. 2001.
+  *Coral Reef Fishes of the World*
+  Periplus Editions. 400pp.
 ---
 
-## Where seen?
- Adults
-sometimes seen in fish traps. The adults
-are found solitary or in pairs, in silty reefs and sheltered lagoons.  
-  
-## Features
- To about 18cm. Body
-oval with yellow tail, blackish, purplish brown rear portion and dorsal
-and anal fins, and a black bar on the head over the eyes. Large spine
-on the gill cover. Juveniles are bluish-black with white and blue
-narrow bars on the sides.
- 
-  
-**Human uses:** It is frequently sold
-in the aquarium trade.
+**Where seen?**
+Adults sometimes seen in fish traps. The adults are found solitary or in pairs, in silty reefs and sheltered lagoons.
+
+**Features:**
+To about 18cm. Body oval with yellow tail, blackish, purplish brown rear portion and dorsal and anal fins, and a black bar on the head over the eyes. Large spine on the gill cover. Juveniles are bluish-black with white and blue narrow bars on the sides.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**What does it eat?**
+It eats sponges, ascidians and filamentous algae.
+
+**Human uses:**
+It is frequently sold in the aquarium trade.
 
 ---
 
-**Vermiculated
-angelfishes on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Vermiculated angelfishes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?text=Chaetodontoplus mesoleucus&safe_search=3&sort=date-taken-desc&user_id=54527470@N00) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?text=Chaetodontoplus mesoleucus&safe_search=3&sort=date-taken-desc&user_id=54527470@N00)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Chaetodontoplus%2520mesoleucus/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

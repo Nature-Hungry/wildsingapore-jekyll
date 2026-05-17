@@ -29,76 +29,56 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Cyclograpsinae
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
-  caption: |
-    <p>Sungei Buloh Wetland Reserve, Feb 10</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
-  caption: |
-    <p>Mandai, Feb 13</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
-  caption: |
-    <p>Mandai, Feb 13</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg"
+      caption: "Sungei Buloh Wetland Reserve, Feb 10"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
+      caption: "Mandai, Feb 13"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg"
+      caption: "Mandai, Feb 13"
 links_references: |
   **Links**
-  - [Orange
-    signaller crab (*Metaplax elegans*)](http://mangrove.nus.edu.sg/guidebooks/text/2051)
-    Ng, Peter K. L. & N. Sivasothi, 1999. *[A
-    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-    Singapore Science Centre. 168 pp.
-  - [Orange
-    signaller crab (*Metaplax elegans*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742) on Crabs of Japan in
-    Marine Species Identification Portal: Technical fact sheet.
+  - [Orange signaller crab (
+  *Metaplax elegans*
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2051.md)
+  Ng, Peter K. L. & N. Sivasothi, 1999.
+  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+  . Singapore Science Centre. 168 pp.
+  - [Orange signaller crab (
+  *Metaplax elegans*
+  )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742)
+  on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
+  
   **References**
-  - Ng, Peter
-    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-    No. 17, 31 Jan 2008. 286 pp.
+  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+  . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
 ---
 
-## Where seen?
- This tiny energetic crab with long
-orange pincers is found in the back mangroves in very soft mud. Often in large groups
-near stream banks, digging out burrows to live in.  
-  
-## Features
- Body width about 2cm.
-Body somewhat rectangular, eyes on short eyestalks. Pincers long large,
-bright orange, about equal sized. Long flattened legs with pointed
-tips. Males wave their distinctive long orange pincers, and 'bounce'
-up and down on their legs, to compete for females.   
-  
-**What does it eat?**It
-feeds mainly on worms, coming of out its burrow at low tide.
- 
+**Where seen?**
+This tiny energetic crab with long orange pincers is found in the back mangroves in very soft mud.
+Often in large
+groups near stream banks, digging out burrows to live in
+.
 
+**Features:**
+Body width about 2cm. Body somewhat rectangular, eyes on short eyestalks. Pincers long large, bright orange, about equal sized. Long flattened legs with pointed tips. Males wave their distinctive long orange pincers, and 'bounce' up and down on their legs, to compete for females.
 
+**What does it eat?**
+It feeds mainly on worms, coming of out its burrow at low tide.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Orange
-signaller crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Orange signaller crabs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Metaplax elegans) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Metaplax elegans)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Metaplax%2520elegans/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

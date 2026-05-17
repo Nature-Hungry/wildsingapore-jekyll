@@ -27,70 +27,51 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Chlorodiellinae
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
-  caption: |
-    <p>St.</p>
-    <p>John's Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
+      caption: "St. John's Island, Oct 11"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg"
+      caption: ""
 links_references: |
   **Links**
-  - [Pilodius
-    Crab (*Pilodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/207) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-    *[A Guide
-    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-    160 pp.
+  - [Pilodius Crab (
+  *Pilodius*
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/207.md)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  
   **References**
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+  . Nature Society (Singapore). 285 pp.
 ---
 
-## Where seen?
- These tiny crabs are often seen under stones on rocky
-shores near reefs. Instead of rushing away, these crabs usually remain
-immobile when disturbed.  
-  
-## Features
- Body width about 1cm.
-The pincers with spoon-shaped tips. Legs with pointed tips.  
-  
-**Sometimes confused with** juveniles
-of other crabs of the [Family Xanthidae](xanthidae).
+**Where seen?**
+These tiny crabs are often seen under stones on rocky shores near reefs. Instead of rushing away, these crabs usually remain immobile when disturbed.
 
- 
+**Features:**
+Body width about 1cm. The pincers with spoon-shaped tips. Legs with pointed tips.
 
-
+**Sometimes confused with**
+juveniles of other crabs of the
+[Family Xanthidae](xanthidae.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
 **Pilodius rock crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pilodius) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pilodius)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Pilodius/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

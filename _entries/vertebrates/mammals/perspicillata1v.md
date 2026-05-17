@@ -7,62 +7,50 @@ keywords: smooth, otter, lutrogale, perspicillata, mustelidae, vertebrate, field
 layout: entry
 ---
 
-Otters, Tanah
-Merah Ferry Terminal, Aug 2013  
-Shared by Heng Pei Yan  
+Otters, Tanah Merah Ferry Terminal, Aug 2013
+
+Shared by Heng Pei Yan
 
 ---
 
-Smooth otter
-at Sungei Buloh Wetland Reserve seen in Jun 08. 
+Smooth otter at Sungei Buloh Wetland Reserve seen in Jun 08.
 
-  
-Shared by Loh Kok
-Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/video-of-otter-at-sungei-bulohl).
+Shared by Loh Kok Sheng on
+[his blog](http://wondercreation.blogspot.com/2008/06/video-of-otter-at-sungei-buloh.html)
+.
 
 ---
 
-Sungei Buloh
-Wetland Reserve, Apr 11  
+Sungei Buloh Wetland Reserve, Apr 11
 
-[3
-otters @ SBWR 30Apr2011](http://vimeo.com/23238662) from [SgBeachBum](http://vimeo.com/user466756)
-on [Vimeo](http://vimeo.com).
-
----
-
-Otters hunting
-fish, Sungei Buloh Wetland Reserve, May 11 
-
-[otter
-makantime II @ SBWR 08May2011](http://vimeo.com/23663239) from [SgBeachBum](http://vimeo.com/user466756)
-on [Vimeo](http://vimeo.com).
+[3 otters @ SBWR 30Apr2011](http://vimeo.com/23238662)
+from
+[SgBeachBum](http://vimeo.com/user466756)
+on
+[Vimeo](http://vimeo.com)
+.
 
 ---
 
-Otter eating
-fish, Sungei Buloh Wetland Reserve, Apr 11
+Otters hunting fish, Sungei Buloh Wetland Reserve, May 11
 
-[otter
-makantime I @ SBWR 30Apr2011](http://vimeo.com/23612594) from [SgBeachBum](http://vimeo.com/user466756)
-on [Vimeo](http://vimeo.com).
+[otter makantime II @ SBWR 08May2011](http://vimeo.com/23663239)
+from
+[SgBeachBum](http://vimeo.com/user466756)
+on
+[Vimeo](http://vimeo.com)
+.
 
-  
-back to [general
-info on smooth-coated otters](perspicillata)
+---
 
-[www.**flickr**.com](http://www.flickr.com)  
+Otter eating fish, Sungei Buloh Wetland Reserve, Apr 11
 
-FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
-Make your own badge [here](http://www.flickr.com/badge.gne).
+[otter makantime I @ SBWR 30Apr2011](http://vimeo.com/23612594)
+from
+[SgBeachBum](http://vimeo.com/user466756)
+on
+[Vimeo](http://vimeo.com)
+.
 
-[links](../../links) | [references](../../references)
-| [about](../../about) | [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+back to
+[general info on smooth-coated otters](perspicillata.md)

@@ -9,51 +9,28 @@ division: Chlorophyta
 family: ''
 genus: Parvocaulis
 species: parvulus
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg
-  caption: |
-    <p>Lazarus Island, Feb 11</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3a.jpg
-  caption: |
-    <p>Pulau Jong, May 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3b.jpg
-  caption: |
-    <p>Pulau Jong, May 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
-  caption: |
-    <p>Pulau Senang, Aug 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
-  caption: |
-    <p>Terumbu Berkas, Jan 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg
 ---
 
  
-
-
-
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg"
+      caption: "Lazarus Island, Feb 11"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3a.jpg"
+      caption: "Pulau Jong, May 10"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3b.jpg"
+      caption: "Pulau Jong, May 10"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg"
+      caption: "Pulau Senang, Aug 10"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg"
+      caption: "Terumbu Berkas, Jan 10"
 ---
 
-
-
-back
-to [general info on daisy green seaweed](daisy)
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of   
-[green
-seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**
+back to
+[general info on daisy green seaweed](daisy.md)

@@ -23,77 +23,71 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
-  caption: |
-    <p>Changi, Jul 09</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
-  caption: |
-    <p>Male.</p>
-    <p>Changi, Jun 13</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
-  caption: |
-    <p>Male.</p>
-    <p>Changi, Jun 09</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
-  caption: |
-    <p>Underside of a dead specimen.</p>
-    <p>Tanah Merah, Oct 09</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
-  caption: |
-    <p>Changi, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2912101548906602&set=a.2912214035562020&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
-  caption: |
-    <p>Tiny, about 1cm.</p>
-    <p>Changi, Aug 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7729337268/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
-  caption: |
-    <p>Changi East, Jun 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10159643137598660&set=a.10159640772768660">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
-  caption: |
-    <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550000353158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg"
+      caption: "Changi, Jul 09"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg"
+      caption: "Male. Changi, Jun 13"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg"
+      caption: "Male. Changi, Jun 09"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg"
+      caption: "Underside of a dead specimen. Tanah Merah, Oct 09"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg"
+      caption: "Changi, Jun 20 Photo shared by Dayna Cheah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg"
+      caption: "Tiny, about 1cm. Changi, Aug 12 Photo shared by Marcus Ng on flickr ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg"
+      caption: "Changi East, Jun 23 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg"
+      caption: "East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+links_references: |
+  **Links**
+  - [Smallhead dragonet (
+  *Callionymus erythraeus*
+  )](http://www.fishbase.us/summary/Callionymus-erythraeus.html)
+  **
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet.
+  - [Dragonets](http://www.ecologyasia.com/verts/fishes/dragonets.md)
+  on Ecology Asia: Fact sheet with photos.
+  
+  **References**
+  - Ng, H. H., 2012.
+  *The dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*
+  . Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
 ---
 
-## Where seen?
- This
-little fish with a permanent pout is often seen on Changi, sometimes seen on our Northern shores, on sandy
-areas near seagrasses. Well camouflaged on the sand, it is hard to
-spot. It is more active at night. ## Features
- Those seen about 5cm, grows to about 10cm. Body somewhat
-flattened downwards. Head broad and flat with a narrow pointed mouth so that
-the head appears triangular when seen from above. The mouth can stick
-out downwards forming a tube and the upper jaw can be greatly extended.
-Large eyes are set high on the head. Gill openings reduced to
-small pores on the top of the broad head. It has a pattern of spots that blend well with
-the sand, usually beige with indistinct dusky spots. But sometimes
-with colourful blue spots too. It is white on the underside.
-In the male, the first three spines of the dorsal fin are greatly
-elongated into filaments. The females lack this.  
-  
-According to Ng, it lacks a distinct dark spot at the base of the
-pectoral fin and anal-fin rays. It is otherwise distinguished from
-the other dragonets of Singapore in having a sharply delineated wavy
-line separating the colour pattern on the upper and lower surfaces
-of the body, dark markings on the anal fin, and the first dorsal fin
-of males with elongate second, third, and fourth fin rays. The females
-lack this.   
-  
-**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads).
- 
+**Where seen?**
+This little fish with a permanent pout is often seen on Changi, sometimes seen on our Northern shores, on sandy areas near seagrasses. Well camouflaged on the sand, it is hard to spot. It is more active at night.
+**Features:**
+Those seen about 5cm, grows to about 10cm. Body somewhat flattened downwards. Head broad and flat with a narrow pointed mouth so that the head appears triangular when seen from above. The mouth can stick out downwards forming a tube and the upper jaw can be greatly extended. Large eyes are set high on the head. Gill openings reduced to small pores on the top of the broad head. It has a pattern of spots that blend well with the sand, usually beige with indistinct dusky spots. But sometimes with colourful blue spots too. It is white on the underside. In the male, the first three spines of the dorsal fin are greatly elongated into filaments. The females lack this.
 
+According to Ng, it lacks a distinct dark spot at the base of the pectoral fin and anal-fin rays. It is otherwise distinguished from the other dragonets of Singapore in having a sharply delineated wavy line separating the colour pattern on the upper and lower surfaces of the body, dark markings on the anal fin, and the first dorsal fin of males with elongate second, third, and fourth fin rays. The females lack this.
 
+**Sometimes mistaken**
+for
+[flatheads](../platycephalidae/platycephalidae.md)
+(Family Platycephalidae). Here's more on
+[how to tell apart fish with flat heads](../cfflatheads.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---
 
-**Smallhead
-dragonets on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Smallhead dragonets on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&view_all=1&text=Callionymus%20erythraeus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&view_all=1&text=Callionymus%20erythraeus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Callionymus%2520erythraeus/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -101,39 +95,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
- 
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-
----
-
-**Acknowledgement**Grateful
-thanks to Dr Ng Heok Hee for correcting the identification of these
-fishes. **Links**  
-
-- [Smallhead
-  dragonet (*Callionymus erythraeus*)](http://www.fishbase.us/summary/Callionymus-erythraeusl)from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet.
-- [Dragonets](http://www.ecologyasia.com/verts/fishes/dragonets)
-  on Ecology Asia: Fact sheet with photos.
-
-**References**
-
-- Ng, H. H.,
-  2012. *The
-  dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
-  Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**Acknowledgement**
+Grateful thanks to Dr Ng Heok Hee for correcting the identification of these fishes.

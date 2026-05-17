@@ -24,70 +24,53 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
-  caption: |
-    <p>Changi, Apr 07</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg
-  caption: |
-    <p>With reddish chest may be juveniles.</p>
-    <p>Cyrene Reef, Jun 10</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg
-  caption: |
-    <p>Changi East (Lost Coast), Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234678123392463">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg
-  caption: |
-    <p>Pulau Hantu, Jul 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27168728945/in/album-72157654314180383/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg
-  caption: |
-    <p>St John's Island, Oct 20Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50506368337/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg
-  caption: |
-    <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158068553/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg"
+      caption: "Changi, Apr 07"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg"
+      caption: "With reddish chest may be juveniles. Cyrene Reef, Jun 10"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg"
+      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Tommy Tan on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg"
+      caption: "Pulau Hantu, Jul 15 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg"
+      caption: "St John's Island, Oct 20 Photo shared by James Koh on flickr ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg"
+      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg"
+      caption: "Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr ."
 ---
 
-## Where seen?
- This large prawn with blue markings on the tail is
-often seen on some of our shores. In sandy, silty areas and near seagrasses.
-It is more active at night and usually seen alone.  
-  
-## Features
- 5-8cm long. Body beige
-usually plain with dark spots on the sides. The tail with blue-edged
-black 'eyes' sometimes with reddish edges. Those which are transparent
-with a reddish chest may be juveniles. It can bury itself rapidly
-in soft silty sand leaving only the tip of its 'nose' and its eyes
-above the surface.
+**Where seen?**
+This large prawn with blue markings on the tail is often seen on some of our shores. In sandy, silty areas and near seagrasses. It is more active at night and usually seen alone.
 
- 
+**Features:**
+5-8cm long. Body beige usually plain with dark spots on the sides. The tail with blue-edged black 'eyes' sometimes with reddish edges. Those which are transparent with a reddish chest may be juveniles. It can bury itself rapidly in soft silty sand leaving only the tip of its 'nose' and its eyes above the surface.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-
-  
-*\*Species are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Blue-tailed
-penaeid prawns on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Blue-tailed penaeid prawns on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Blue-tailed penaeid prawn) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Blue-tailed penaeid prawn)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Blue-tailed%2520penaeid%2520prawn/map?&fLat=1.2612&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -95,22 +78,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery4 %}

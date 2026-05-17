@@ -16,103 +16,66 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
-  caption: |
-    <p>Labrador, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
-  caption: |
-    <p>Labrador, Mar 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
-  caption: |
-    <p>Labrador, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
-  caption: |
-    <p>Labrador, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
-  caption: |
-    <p>Cyrene Reef, Oct 07</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg"
+      caption: "Labrador, Mar 05"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg"
+      caption: "Labrador, May 05"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg"
+      caption: "Labrador, May 05"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg"
+      caption: "Cyrene Reef, Oct 07"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg"
+      caption: ""
 links_references: |
   **Links**
-  - [*Caulerpa
-    webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537) on [AlgaeBase](http://www.algaebase.org/):
-    Technical fact sheet.
+  - [*Caulerpa webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537)
+  on
+  [AlgaeBase](http://www.algaebase.org/)
+  : Technical fact sheet.
+  
   **References**
-  - Huisman,
-    John M. 2000. *Marine
-    Plants of Australia*
-    University of Western Australia Press. 300pp.
+  - Huisman, John M. 2000.
+  *Marine Plants of Australia*
+  University of Western Australia Press. 300pp.
 ---
 
-## Where seen?
+**Where seen?**
+This green seaweed is sometimes seen in clumps covering an area of about 20cm, on coral rubble among seagrasses on our Southern shores.
 
-This green seaweed is sometimes seen in clumps covering an area of
-about 20cm, on coral rubble among seagrasses on our Southern shores.  
-  
-## Features
- Each stem about 4-6cm
-long with tiny bristles made up of many branched fine filaments, arranged
-in whorls around the central 'stem' to give the overall appearance
-of a stiff bottlebrush. Green to olive green.  
-  
+**Features:**
+Each stem about 4-6cm long with tiny bristles made up of many branched fine filaments, arranged in whorls around the central 'stem' to give the overall appearance of a stiff bottlebrush. Green to olive green.
 
- 
+![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg)
 
+*Labrador, May 05*
 
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+**Species are difficult to positively identify without close examination of internal parts.
 
-
-
-
-  
-*\*Species are difficult
-to positively identify without close examination of internal parts.   
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Bottlebrush
-green seaweeds on Singapore shores**
+**Bottlebrush green seaweeds on Singapore shores**
 
 ---
 
-Photos of [Bottlebrush green seaweeds](https://www.flickr.com/search/?q=Caulerpa+webbiana&w=54527470%40N00&s=rec) for
-free download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
-  
+Photos of
+[Bottlebrush green seaweeds](https://www.flickr.com/search/?q=Caulerpa+webbiana&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Caulerpa%2520webbiana/map?&fLat=1.2609&fLon=103.8661&zl=11&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Caulerpa%2520webbiana/map?&fLat=1.2609&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of   
-[green
-seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

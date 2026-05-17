@@ -17,143 +17,90 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/181225kusm6l.jpg
-  caption: |
-    <p>Clusters of the coral can form large clumps.</p>
-    <p>Kusu Island, Dec 18</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3.jpg
-  caption: |
-    <p>Pulau Semakau, Mar 05</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3b.jpg
-  caption: |
-    <p>Polyps can retract completely .</p>
-    <p>Corallites closely packed.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3d.jpg
-  caption: |
-    <p>Polyps large often with long body.</p>
-- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/110802smkd8294m3.jpg
-  caption: |
-    <p><a href="../../../worm/acoela/acoela">Acoel flatworms</a> Pulau Semakau, Aug 11</p>
-- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/050724bbg0145m3a.jpg
-  caption: |
-    <p><a href="../../../worm/acoela/acoela">Acoel flatworms</a> Beting Bronok, Jul 05</p>
-- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/110517tptd1581m3b.jpg
-  caption: |
-    <p><a href="../../../worm/acoela/acoela">Acoel flatworms</a> Terumbu Pempang Tengah, May 11</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/150617ecpbslks1m3.jpg
-  caption: |
-    <p>East Coast Park Big Splash, Jun 15</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/150617ecpbslks1m3a.jpg
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/210628ecpBlks8.jpg
-  caption: |
-    <p>East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300986513158&set=a.10159300990763158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100613sngd5538m3.jpg
-  caption: |
-    <p>Pulau Senang, Jun 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100613sngd5538m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100810sngd0006m3.jpg
-  caption: |
-    <p>Pulau Senang, Aug 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100810sngd0007m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100531biod4525m3.jpg
-  caption: |
-    <p>Pulau Biola, May 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100531biod4525m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091205sudd5536m3.jpg
-  caption: |
-    <p>Pulau Sudong, Dec 09</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091205sudd5536m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100601slud4724m3.jpg
-  caption: |
-    <p>Pulau Salu, Jun 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100601slud4724m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100131slulks4m3.jpg
-  caption: |
-    <p>Terumbu Salu, Jan 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100131slulks4m3a.jpg
-  caption: |
-    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4350448249/">his flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd0053m3.jpg
-  caption: |
-    <p>Pulau Pawai, Dec 09</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd0055m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd5252m3.jpg
-  caption: |
-    <p>Pulau Pawai,</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd5252m3a.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/181225kusm6l.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/181225kusm6l.jpg"
+      caption: "Clusters of the coral can form large clumps. Kusu Island, Dec 18"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3.jpg"
+      caption: "Pulau Semakau, Mar 05"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3b.jpg"
+      caption: Polyps can retract completely . Corallites closely packed.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3d.jpg"
+      caption: Polyps large often with long body.
+  gallery3:
+    - url: "http://www.wildsingapore.com/worm/acoela/acoela/110802smkd8294m3.jpg"
+      caption: "Acoel flatworms Pulau Semakau, Aug 11"
+    - url: "http://www.wildsingapore.com/worm/acoela/acoela/050724bbg0145m3a.jpg"
+      caption: "Acoel flatworms Beting Bronok, Jul 05"
+    - url: "http://www.wildsingapore.com/worm/acoela/acoela/110517tptd1581m3b.jpg"
+      caption: "Acoel flatworms Terumbu Pempang Tengah, May 11"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/150617ecpbslks1m3.jpg"
+      caption: "East Coast Park Big Splash, Jun 15"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/150617ecpbslks1m3a.jpg"
+      caption: Photo shared by Loh Kok Sheng on facebook .
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/210628ecpBlks8.jpg"
+      caption: "East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100613sngd5538m3.jpg"
+      caption: "Pulau Senang, Jun 10"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100810sngd0006m3.jpg"
+      caption: "Pulau Senang, Aug 10"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100531biod4525m3.jpg"
+      caption: "Pulau Biola, May 10"
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091205sudd5536m3.jpg"
+      caption: "Pulau Sudong, Dec 09"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100601slud4724m3.jpg"
+      caption: "Pulau Salu, Jun 10"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100131slulks4m3.jpg"
+      caption: "Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd0053m3.jpg"
+      caption: "Pulau Pawai, Dec 09"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/091204pawd5252m3.jpg"
+      caption: "Pulau Pawai, Dec 09"
 ---
 
-## Where seen?
- This hard coral with long-bodied polyps is commonly
-seen on many of our reefs, including those on our Northern shores.
-Although it is more common on our Southern shores, where clusters of the coral can form quite a large clump.  
-  
-## Features
- Colonies clusters of
-short, fat columns with rounded tops, each about 10-15cm in diameter.
-The polyps may be large (0.5-1cm in diameter). The polyps have 24
-tentacles and are usually extended when submerged, even in daylight.
-Some may have long skinny tentacles, others have short and fat ones.
-The body column can be very long (2-5cm). The polyps can retract completely
-into the skeleton, revealing the small corallites (0.5cm) circular
-or polygonal holes packed close to one another. Colours seen include
-shades of purple, pink, brown and blue.  
-  
-**May be mistaken for**  [sea
-anemones](../../actiniaria/actiniaria) when the long polyps are extended and hide the hard skeleton,
-thus its common name. Another common name is Flower pot coral as the
-colony looks like a bunch of long-stemmed flowers emerging from a
-pot. Here's
-more on how to tell apart [large
-sea anemones with long tentacles](../../actiniaria/cfbiglong) and [large
-'hairy' cnidarians](../../cflargecnidarians).   
-  
-Sometimes, tiny brown [acoel
-flatworms](../../../worm/acoela/acoela) are seen on the oral disk or body columns of the polyps.
+**Where seen?**
+This hard coral with long-bodied polyps is commonly seen on many of our reefs, including those on our Northern shores. Although it is more common on our Southern shores, where clusters of the coral can form quite a large clump.
 
- 
+**Features:**
+Colonies clusters of short, fat columns with rounded tops, each about 10-15cm in diameter. The polyps may be large (0.5-1cm in diameter). The polyps have 24 tentacles and are usually extended when submerged, even in daylight. Some may have long skinny tentacles, others have short and fat ones. The body column can be very long (2-5cm). The polyps can retract completely into the skeleton, revealing the small corallites (0.5cm) circular or polygonal holes packed close to one another. Colours seen include shades of purple, pink, brown and blue.
 
+**May be mistaken for**
+[sea anemones](../../actiniaria/actiniaria.md)
+when the long polyps are extended and hide the hard skeleton, thus its common name. Another common name is Flower pot coral as the colony looks like a bunch of long-stemmed flowers emerging from a pot.
+Here's more on how to tell apart
+[large sea anemones with long tentacles](../../actiniaria/cfbiglong.md)
+and
+[large 'hairy' cnidarians](../../cflargecnidarians.md)
+.
 
+Sometimes, tiny brown
+[acoel flatworms](../../../worm/acoela/acoela.md)
+are seen on the oral disk or body columns of the polyps.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Anemone corals on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Anemone
-corals on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=%22Anemone%20coral%22) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=%22Anemone%20coral%22)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/%2522anemone%2520coral%2522/map?&fLat=1.2955&fLon=103.8764&zl=11&order_by=recent)
 
 ---
@@ -161,32 +108,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery7 %}

@@ -22,102 +22,104 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
-  caption: |
-    <p><a href="saron">Saron shrimp</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
-  caption: |
-    <p><a href="lysmata">Cleaner shrimp</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
-  caption: |
-    <p><a href="humped">Humpbacked shrimp</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg"
+      caption: Saron shrimp
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg"
+      caption: Cleaner shrimp
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+      caption: Humpbacked shrimp
 ---
 
-**What
-are Hippolytid shrimps?** Hippolytid
-shrimps are [crustaceans](../../crustacea) that belong
-to Family Hippolytidae.    
-## Features
- Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on [sea whips](../../../cnidaria/others/gorgonacea/whip).
+**What are Hippolytid shrimps?**
+Hippolytid shrimps are
+[crustaceans](../../crustacea.md)
+that belong to Family Hippolytidae.
+****
+
+**Features:**
+Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on
+[sea whips](../../../cnidaria/others/gorgonacea/whip.md)
+.
 
 ---
 
-**Some Hippolytoid
-shrimps on Singapore shores**
+**Some Hippolytoid shrimps on Singapore shores**
 
 ---
-
- 
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**Family
-Hippolytidae recorded for Singapore**  
-from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.  
-+from Singapore Biodiversity Records etc
-.   
-  
- 
-**Family
-Hippolytidae**
- 
-*Gelastocaris
-paronae  
-  
-Hippolysmata enriostris=^Exhippolysmata ensirostris ensirostris   
-+Hippolyte singaporensis* spec. nov. *Hippolyte ventricosa* *Hippolysmata vittata=^Lysmata vittata  
-  
-Hippolyte ventricosa  
-  
-Latreutes anoplonyx  
-Latreutes mucronatus  
-Latreutes porcinus  
-Latreutes pymaeus=^Latreutes pymoeus*[*Lysmata* sp.](lysmata) (Cleaner shrimp) *\*\*Lysmata vittata  
-  
-Mimocaris heterocarpoides  
-  
-Phycocaris* sp. [*Saron* sp.](saron) (Saron shrimp) *Saron marmoratus* (Marbled shrimp) *Saron neglectus  
-  
-Thor paschalis  
-  
-Tozeuma lanceolatum* (Sea whip shrimp)
+**Family Hippolytidae recorded for Singapore**
+
+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+
++from Singapore Biodiversity Records etc .
+
+**Family Hippolytidae**
+
+*Gelastocaris paronae
+
+Hippolysmata enriostris=^Exhippolysmata ensirostris ensirostris
+
++Hippolyte singaporensis*
+spec. nov.
+*Hippolyte ventricosa*
+*Hippolysmata vittata=^Lysmata vittata
+
+Hippolyte ventricosa
+
+Latreutes anoplonyx
+
+Latreutes mucronatus
+
+Latreutes porcinus
+
+Latreutes pymaeus=^Latreutes pymoeus*
+[*Lysmata*
+sp.](lysmata.md)
+(Cleaner shrimp)
+***Lysmata vittata
+
+Mimocaris heterocarpoides
+
+Phycocaris*
+sp.
+**
+[*Saron*
+sp.](saron.md)
+(Saron shrimp)
+*Saron marmoratus*
+(Marbled shrimp)
+*Saron neglectus
+
+Thor paschalis
+
+Tozeuma lanceolatum*
+(Sea whip shrimp)
+**
 
 ---
 
 **References**
 
-- Zhibin Gan & Xinzheng Li. *A new species of the genus Hippolyte (Decapoda: Caridea: Hippolytidae) from Singapore*. 12 June 2017. Raffles Bulletin of Zoology 65: 207–212
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
-  of Australian Waters*. Reed New Holland. 224 pp.
-- Humann,
-  Paul and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World
-  Publications. 497pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+- Zhibin Gan & Xinzheng Li.
+*A new species of the genus Hippolyte (Decapoda: Caridea: Hippolytidae) from Singapore*
+. 12 June 2017. Raffles Bulletin of Zoology 65: 207–212
+- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+*Rhythm of the Sea: The Life and Times of Labrador Beach*
+. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+- Debelius, Helmut, 2001.
+*Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+- Jones Diana S. and Gary J. Morgan, 2002.
+*A Field Guide to Crustaceans of Australian Waters*
+. Reed New Holland. 224 pp.
+- Humann, Paul and Ned Deloach. 2010.
+*Reef Creature Identification: Tropical Pacific*
+New World Publications. 497pp.
+- Debelius, Helmut, 2001.
+*Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.

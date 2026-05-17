@@ -24,130 +24,100 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
-  caption: |
-    <p>Growing on a large boulder.</p>
-    <p>Changi, Jan 04</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
-  caption: |
-    <p>Growing on a large boulder.</p>
-    <p>Changi, Jan 04</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
-  caption: |
-    <p>Growing in cracks of boulder.</p>
-    <p>Punggol, Jun 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
-  caption: |
-    <p>Chek Jawa, Dec 03</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
-  caption: |
-    <p>When submerged, filter feeds.</p>
-    <p>Punggol, Jun 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
-  caption: |
-    <p>It has a large mobile foot.</p>
-    <p>From the <a href="https://singapore.biodiversity.online/species/A-Moll-Bivalvia-000146">Lee Kong Chian Natural History Museum</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
-  caption: |
-    <p>Coney Island, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158651295897906&set=a.10158651280122906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
-  caption: |
-    <p>Tuas, Mar 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3558550953/in/album-72157618623639729/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
-  caption: |
-    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on facebook.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: if you learn only 3 things about them ... It is among our favourite seafood. But be careful about eating wild caught mussels. It attaches itself to a hard surface by producing threads! It is considered a pest outside its natural range.
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: It is among our favourite seafood. But be careful about eating wild caught mussels. It attaches itself to a hard surface by producing threads! It is considered a pest outside its natural range.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+      caption: "Growing on a large boulder. Changi, Jan 04"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg"
+      caption: "Growing on a large boulder. Changi, Jan 04"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg"
+      caption: "Growing in cracks of boulder. Punggol, Jun 12"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg"
+      caption: "Chek Jawa, Dec 03"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg"
+      caption: "When submerged, filter feeds. Punggol, Jun 12"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg"
+      caption: It has a large mobile foot. From the Lee Kong Chian Natural History Museum
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg"
+      caption: "Coney Island, Nov 20 Photo shared by Richard Kuah on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG"
+      caption: "Tuas, Mar 09 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg"
+      caption: "Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook."
 links_references: |
   **Links**
-  - [Green
-    Mussel (*Perna viridis*)](http://mangrove.nus.edu.sg/pub/seashore/text/158.htm) Tan, Leo W. H. & Ng, Peter K.
-    L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Green
-    mussel (*Perna viridis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835) from SeaLife Base: Technical
-    fact sheet.
-  - Asian brown
-    mussel (*Perna viridis*) in
-    the Bivalves section by J.M. Poutiers in the FAO Species Identification
-    Guide for Fishery Purposes: The Living Marine Resources of the
-    Western Central Pacific [Volume
-    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-    Agriculture Organization of the United Nations (FAO) website.
+  - [Green Mussel (
+  *Perna viridis*
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/158.md)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  - [Green mussel (
+  *Perna viridis*
+  )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835)
+  from SeaLife Base: Technical fact sheet.
+  - Asian brown mussel (
+  *Perna viridis*
+  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
+  
   **References**
-  - Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip Obbard. June 2004. [Organochlorine Pesticides and Heavy Metals in Green Mussel, *Perna viridis* in Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55). Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103–116T
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S.
-    & L. M. Chou, 2000. *A
-    Guide to the Common Seashells of Singapore*. Singapore
-    Science Centre. 160 pp.
-  - Abbott, R.
-    Tucker, 1991. *Seashells
-    of South East Asia*.
-    Graham Brash, Singapore. 145 pp.
+  - Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip Obbard. June 2004.
+  [Organochlorine Pesticides and Heavy Metals in Green Mussel,
+  *Perna viridis*
+  in Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55)
+  . Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103–116T
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Tan, K. S. & L. M. Chou, 2000.
+  *A Guide to the Common Seashells of Singapore*
+  . Singapore Science Centre. 160 pp.
+  - Abbott, R. Tucker, 1991.
+  *Seashells of South East Asia*
+  . Graham Brash, Singapore. 145 pp.
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../../photos/bullet.gif) It is among our favourite seafood. But be careful about
-eating wild caught mussels.  
-![](../../../photos/bullet.gif) It attaches itself to a hard surface by producing threads!  
-![](../../../photos/bullet.gif)It
-is considered a pest outside its natural range.
-  
-## Where seen?
- This edible clam is sometimes very common on our Northern shores,
-forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted
-to waters that are murky and sediment laden.  
-  
-## Features
- 5-8cm. The two-part
-shell is thin, smooth. Young clams often all bright green, older clams usually brownish edged in green. The animal
-attaches to hard surfaces with byssus threads, usually in clusters
-of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
- 
+**Where seen?**
+This edible clam is sometimes very common on our Northern shores, forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted to waters that are murky and sediment laden.
 
+**Features:**
+5-8cm. The two-part shell is thin, smooth. Young clams often all bright green, older clams usually brownish edged in green. The animal attaches to hard surfaces with byssus threads, usually in clusters of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**What does it eat?**
+Like most other bivalves, it is a filter feeder. At high tide, it opens its shell a little. It then generates a current of water through the shell and sieves out the food particles with enlarged gills. When the tide goes out, it clamps up its shells tightly to prevent water loss.
 
+{% include img-wrap-group.html items=page.galleries.gallery3 %}**What eats it?**
+Besides humans, other animals that relish them include fishes, crabs and octopuses.
 
-**What does it eat?** Like most other
-bivalves, it is a filter feeder. At high tide, it opens
-its shell a little. It then generates a current of water through
-the shell and sieves out the food particles with enlarged gills. When
-the tide goes out, it clamps up its shells tightly to prevent water
-loss.
+**Human uses:**
+Green mussels are considered the economically most important mussel in our region. They are farmed in many parts of Southeast Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding clams, however, mussels may be affected by
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+. During such times, the mussels concentrate toxins and people who eat them may get seriously ill.
 
-
-
-
-**What eats it?** Besides humans, other animals that relish them include fishes, crabs and octopuses.  
-  
-**Human
-uses:** Green mussels are considered the economically most
-important mussel in our region. They are farmed in many parts of Southeast
-Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding
-clams, however, mussels may be affected by [red
-tide and other harmful algal blooms](../../../plants/seaweed/redtide.htm). During such times, the mussels
-concentrate toxins and people who eat them may get seriously ill.  
-  
-Outside its natural range of the Asia-Pacific region, the Green mussel
-is considered an introduced pest and an unwelcome invasive species.
-There, unchecked by natural predators, the mussels multiply rapidly
-and clog industrial pipes, foul aquaculture and disturb local ecosystems.
+Outside its natural range of the Asia-Pacific region, the Green mussel is considered an introduced pest and an unwelcome invasive species. There, unchecked by natural predators, the mussels multiply rapidly and clog industrial pipes, foul aquaculture and disturb local ecosystems.
 
 ---
 
-**Green
-mussels on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Green mussels on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Perna viridis) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Perna viridis)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Perna%2520viridis/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -155,24 +125,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

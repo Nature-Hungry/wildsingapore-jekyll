@@ -20,97 +20,76 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
-  caption: |
-    <p>Beting Bemban Besar, Aug 12</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg
-  caption: |
-    <p>Raised 'teeth' on the underside.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg
-  caption: |
-    <p>Sisters Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg
-  caption: |
-    <p>Sisters Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg
-  caption: |
-    <p>Sisters Island, Oct 11</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg
-  caption: |
-    <p>Sentosa, Sep 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg
-  caption: |
-    <p>Sentosa, Sep 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg
-  caption: |
-    <p>Sentosa, Sep 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg
-  caption: |
-    <p>Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159863222878654&set=a.10159863197898654">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG
-  caption: |
-    <p>Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5761591250/in/album-72157607751329669/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG
-  caption: |
-    <p>Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg"
+      caption: "Beting Bemban Besar, Aug 12"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg"
+      caption: Raised 'teeth' on the underside.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg"
+      caption: "Sisters Island, Oct 11"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg"
+      caption: "Sisters Island, Oct 11"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg"
+      caption: "Sisters Island, Oct 11"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg"
+      caption: "Sentosa, Sep 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg"
+      caption: "Sentosa, Sep 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg"
+      caption: "Sentosa, Sep 08"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg"
+      caption: "Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG"
+      caption: "Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG"
+      caption: "Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog ."
 links_references: |
   **Links**
-  - [*Cypraea
-    quadrimaculata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104986)
-    on SeaLife Base: Technical fact sheet.
+  - [*Cypraea quadrimaculata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104986)
+  on SeaLife Base: Technical fact sheet.
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
 ---
 
-## Where seen?
- This
-little cowrie is sometimes seen on our Southern shores among coral
-rubble near living reefs. It was previously known as *Cypraea quadrimaculata*.  
-  
-## Features
-  2-3cm. Shell
-cylindrical, generally pale blue with 4 very pale brown bands and small brown speckles all over. There are four large
-rather triangular brown spots on the shell, two spots at the front
-end of the shell and two at the back end. The underside is white,
-the 'teeth' are raised and not coloured. The living animal has a dark
-to black mantle with white or pinkish spots.  
-  
-When the shell is completely covered in its mantle, it is sometimes
-mistaken for a [sea slug](../../slug.htm). Here's more
-on [how to tell apart
-slugs and animals that look like slugs](../../../glossary/flatwormslug.htm).
+**Where seen?**
+This little cowrie is sometimes seen on our Southern shores among coral rubble near living reefs. It was previously known as
+*Cypraea quadrimaculata*
+.
 
- 
+**Features:**
+2-3cm.
+Shell cylindrical, generally pale blue with 4 very pale brown bands and small brown speckles all over. There are four large rather triangular brown spots on the shell, two spots at the front end of the shell and two at the back end. The underside is white, the 'teeth' are raised and not coloured. The living animal has a dark to black mantle with white or pinkish spots.
 
-
+When the shell is completely covered in its mantle, it is sometimes mistaken for a
+[sea slug](../../slug.md)
+. Here's more on
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
+**Four-spot cowries on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
----
-
-**Four-spot
-cowries on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Eclogavena%20quadrimaculata) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Eclogavena%20quadrimaculata)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Eclogavena%2520quadrimaculata/map?&fLat=1.2622&fLon=103.8657&zl=11&order_by=recent)
 
 ---
@@ -118,26 +97,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**Acknowledgement**With
-grateful thanks to Tan Siong Kiat of the [Raffles
-Museum of Biodiversity Research](http://rmbr.nus.edu.sg/) for identifying this cowrie.  
-  
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**Acknowledgement**
+With grateful thanks to Tan Siong Kiat of the
+[Raffles Museum of Biodiversity Research](http://rmbr.nus.edu.sg/)
+for identifying this cowrie.

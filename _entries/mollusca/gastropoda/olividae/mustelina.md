@@ -18,78 +18,60 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
-  caption: |
-    <p>Changi, Jun 06</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
-  caption: |
-    <p>Shell opening violet.</p>
-    <p>East Coast Park, Aug 09</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
-  caption: |
-    <p>Short conical spire.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg
-  caption: |
-    <p>Typical trail of a burrowing olive snail in wet sand.</p>
-    <p>Chek Jawa, Jul 08</p>
-- url: https://live.staticflickr.com/908/27728472268_7084b0f9c3_z.jpg
-  caption: |
-    <p>](https://www.flickr.com/photos/wildsingapore/27728472268/ "Weasel olive snail (Oliva mustelina)")</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
+      caption: "Changi, Jun 06"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg"
+      caption: "Shell opening violet. East Coast Park, Aug 09"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg"
+      caption: Short conical spire.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg"
+      caption: "Typical trail of a burrowing olive snail in wet sand. Chek Jawa, Jul 08"
+  gallery3:
+    - url: "https://live.staticflickr.com/908/27728472268_7084b0f9c3_z.jpg"
+      caption: ""
 links_references: |
   **Links**
-  - [*Oliva
-    mustelina*](http://www.sealifebase.org/summary/Oliva-mustelina.html) on SeaLife Base: Technical fact sheet and photo.
-  - Family
-    Olividae in the Gastropods section by J.M. Poutiers in the FAO
-    Species Identification Guide for Fishery Purposes: The Living
-    Marine Resources of the Western Central Pacific [Volume
-    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-    Agriculture Organization of the United Nations (FAO) website.
+  - [*Oliva mustelina*](http://www.sealifebase.org/summary/Oliva-mustelina.html)
+  on SeaLife Base: Technical fact sheet and photo.
+  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Abbott, R.
-    Tucker, 1991. *Seashells
-    of South East Asia*.
-    Graham Brash, Singapore. 145 pp.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R. Tucker, 1991.
+  *Seashells of South East Asia*
+  . Graham Brash, Singapore. 145 pp.
 ---
 
-## Where seen?
- This small bullet-shaped snail is sometimes seen
-on Changi and our Northern shores. A burrowing snail, more
-often seen above the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath.  
-  
-## Features
- 2-3.5cm. Shell thick
-heavy glossy, cylindrical bullet-shaped with conical spire. Shell pattern
-beige with closely set fine dark brown zig-zag lines. Shell opening
-violet. Body large beige with brownish spots all
-over. A long siphon sticks out of the notch in the shell.
+**Where seen?**
+This small bullet-shaped snail is sometimes seen on Changi and our Northern shores. A burrowing snail, more often seen above the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath.
 
- 
+**Features:**
+2-3.5cm. Shell thick heavy glossy, cylindrical bullet-shaped with conical spire. Shell pattern beige with closely set fine dark brown zig-zag lines. Shell opening violet. Body large beige with brownish spots all over. A long siphon sticks out of the notch in the shell.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Weasel
-olive snails on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Weasel olive snails on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Oliva mustelina) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Oliva mustelina)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Oliva%2520mustelina/map?&fLat=1.2822&fLon=103.8173&zl=11&order_by=recent)
 
 ---
@@ -97,17 +79,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

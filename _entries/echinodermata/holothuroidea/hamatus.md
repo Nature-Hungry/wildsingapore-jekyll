@@ -25,76 +25,67 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
-  caption: |
-    <p>Half buried in silty sand.</p>
-    <p>Changi, May 11</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg
-  caption: |
-    <p>Changi, Jul 10</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg
-  caption: |
-    <p>Tube feet short, stiff, conical with orange tips.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg
-  caption: |
-    <p>Changi, Aug 16 Photo shared by Lisa Lim on <a href="https://www.facebook.com/lim.lisa/media_set?set=a.10154140494663964.1073741886.716233963&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg
-  caption: |
-    <p>Changi, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744990062284429&set=a.1744988158951286&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg
-  caption: |
-    <p>Changi Carpark 6, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159231445748158&set=a.10159231448318158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg
-  caption: |
-    <p>Changi Carpark 1, Jul 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160587841932906&set=a.10160587835882906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg
-  caption: |
-    <p>Changi, Jun 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158386045213158&set=a.10158386046153158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg
-  caption: |
-    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg
-  caption: |
-    <p>Beting Bronok, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158682184153713&set=a.10158682253873713&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg
-  caption: |
-    <p>Beting Bronok, Jul 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168526815865112&set=a.10168526808550112">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg
-  caption: |
-    <p>Beting Bronok, Jul 19 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10156721307532945&set=a.10156721306377945&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
-  caption: |
-    <p>East Coast Park, May 16Photo shared by Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg"
+      caption: "Half buried in silty sand. Changi, May 11"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg"
+      caption: "Changi, Jul 10"
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg"
+      caption: "Tube feet short, stiff, conical with orange tips."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg"
+      caption: "Changi, Aug 16 Photo shared by Lisa Lim on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg"
+      caption: "Changi, Sep 18 Photo shared by Dayna Cheah on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg"
+      caption: "Changi Carpark 6, May 21 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg"
+      caption: "Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg"
+      caption: "Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg"
+      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg"
+      caption: "Beting Bronok, Jul 20 Photo shared by Toh Chay Hoon on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg"
+      caption: "Beting Bronok, Jul 23 Photo shared by Kelvin Yong on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg"
+      caption: "Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg"
+      caption: "East Coast Park, May 16 Photo shared by Ywee Chieh on facebook ."
 links_references: |
   **Links**
-  - [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatusl) on SeaLife Base: Technical
-    fact sheet.
-  **References**
-  - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
----
-
-## Where seen?
- This large stiff sea cucumber feels rather plasticky. It is sometimes seen on
-our Northern shores half buried in silty sand among seagrasses.  
+  - [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatus.html)
+  on SeaLife Base: Technical fact sheet.
   
-## Features
- 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
+  **References**
+  - Ong J. Y. & H. P. S. Wong.
+  *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+---
 
- 
+**Where seen?**
+This large stiff sea cucumber feels rather plasticky. It is sometimes seen on our Northern shores half buried in silty sand among seagrasses.
 
-
+**Features:**
+6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Plasticky
-sea cucumbers on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Plasticky sea cucumbers on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cladolabes hamatus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Cladolabes hamatus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Cladolabes%2520hamatus/map?&fLat=1.2626&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -102,23 +93,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---

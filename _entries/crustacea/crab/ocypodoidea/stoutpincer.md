@@ -27,75 +27,54 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-page_images:
-- url: ../../../../Templates/fornatureguides.gif
-  caption: |
-    <p>](../../fngfiddlers)</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg
-  caption: |
-    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
-  caption: |
-    <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg
-  caption: |
-    <p>Chek Jawa, Sep 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg
-  caption: |
-    <p>Chek Jawa, Dec 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg
-  caption: |
-    <p>Pasir Ris Park, Apr 10</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg
-  caption: |
-    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg
-  caption: |
-    <p>Chek Jawa, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/pulau-ubin-with-nhcl">his blog</a>.</p>
 coverimg: ../../../../Templates/fornatureguides.gif
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg"
+      caption: "Sungei Buloh Wetland Reserve, Sep 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
+      caption: "Sungei Buloh Wetland Reserve, Aug 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg"
+      caption: "Chek Jawa, Sep 09"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg"
+      caption: "Chek Jawa, Dec 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg"
+      caption: "Pasir Ris Park, Apr 10"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg"
+      caption: "Sungei Buloh Wetland Reserve, Sep 09"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg"
+      caption: "Chek Jawa, Aug 09 Photo shared by James Koh on his blog ."
 ---
 
-## Where seen?
- This fiddler crab with a rather short and stout enlarged
-pincer is seen in the back mangroves.  
-  
-## Features
- Body width 1-1.5cm.
-Body squarish. The male fiddler crab's enlarged pincer about one and
-half time as long as the body width. The enlarged pincer's outer palm
-is pimply with groove on the lower edge. The movable upper finger
-meets (does not extend past) the immobile lower finger. The tips of
-the fingers are flattened and sword- or sabre-like. There is a wide
-gape between the upper and lower finger. The enlarged pincer may be
-orange, pinkish, purplish. Body colour dark often with a pair of pale
-bars. Eyes reddish or black, on long stalks pale or yellowish, walking
-legs short black or brown.   
-  
-Crabs on this page may be from different species including *Uca
-dussumieri, Uca paradussumieri* and *Uca forcipata=Uca manii*.
-These are difficult to tell apart in the field.
+**Where seen?**
+This fiddler crab with a rather short and stout enlarged pincer is seen in the back mangroves.
 
+**Features:**
+Body width 1-1.5cm. Body squarish. The male fiddler crab's enlarged pincer about one and half time as long as the body width. The enlarged pincer's outer palm is pimply with groove on the lower edge. The movable upper finger meets (does not extend past) the immobile lower finger. The tips of the fingers are flattened and sword- or sabre-like. There is a wide gape between the upper and lower finger. The enlarged pincer may be orange, pinkish, purplish. Body colour dark often with a pair of pale bars. Eyes reddish or black, on long stalks pale or yellowish, walking legs short black or brown.
 
+Crabs on this page may be from different species including
+*Uca dussumieri, Uca paradussumieri*
+and
+*Uca forcipata=Uca manii*
+. These are difficult to tell apart in the field.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Stout pincered fiddler crabs on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
- *\*Species are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Stout
-pincered fiddler crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Stout%20pincered%20fiddler%20crab) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Stout%20pincered%20fiddler%20crab)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Stout%2520pincered%2520fiddler%2520crab/map?&fLat=1.2616&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -103,16 +82,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

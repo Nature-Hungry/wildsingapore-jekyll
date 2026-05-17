@@ -17,107 +17,47 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
-  caption: |
-    <p><a href="turbinidae/angaria.htm">Dolphin shell</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
-  caption: |
-    <p><a href="turbinidae/calcar.htm">Spurred top shell snail</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
-  caption: |
-    <p><a href="turbinidae/intercostalis.htm">Ribbed turban snail</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/081113jngd1785m3.jpg
-  caption: |
-    <p><a href="trochidae/maculatus.htm">Spotted top shell snail</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/120818lazs02354m3.jpg
-  caption: |
-    <p><a href="trochidae/niloticus.htm">Giant top shell snail</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
+      caption: Dolphin shell
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
+      caption: Spurred top shell snail
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg"
+      caption: Ribbed turban snail
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/081113jngd1785m3.jpg"
+      caption: Spotted top shell snail
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/120818lazs02354m3.jpg"
+      caption: Giant top shell snail
 ---
 
-**Top
-or Turban?**   
-These two kinds of snails are commonly encountered on our rocky shores.
-Here's how to tell them apart. 
+**Top or Turban?**
+
+These two kinds of snails are commonly encountered on our rocky shores. Here's how to tell them apart.
+**
 
 ---
-
- 
-
-
-**[Top
-shell snail](trochidae/trochidae.htm)**Family
-Trochidae
-
-**[Turban
-shell snail](turbinidae/turbinidae.htm)**Family
-Turbinidae
-
-Shell
-is more pyramidal or top-shaped.
-
-Shell
-has more distinct whorls, as in a turban.
-
-Operculum
-is thin and made of a horn-like material.
-
-Operculum
-is thick, rounded and chalky.
-
-
-
-
-
-The
-foot of the living animal  
-is fringed with long tentacles.
-
-The
-animal doesn't have   
-tentacles on the foot.
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**More
-comparisons**
+**More comparisons**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

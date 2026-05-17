@@ -10,67 +10,51 @@ genus: ''
 species: identification*
 attributes: []
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
-  caption: |
-    <p>Raffles Lighthouse, Aug 06</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
-  caption: |
-    <p>Kusu Island, Jun 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg
-  caption: |
-    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140893857945&set=a.10158140917142945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg
-  caption: |
-    <p>Lazarus, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083940372945&set=a.10158084785112945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg
-  caption: |
-    <p>Pulau Tekukor, Jun 16Photo shared by Ian Siah on <a href="https://www.facebook.com/iansiah/media_set?set=a.10153663165622227.1073741921.533257226&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg
-  caption: |
-    <p>Pulau Jong, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158645190857945&set=a.10158645270727945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg
-  caption: |
-    <p>Pulau Biola, May 10</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg"
+      caption: "Raffles Lighthouse, Aug 06"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg"
+      caption: "Kusu Island, Jun 05"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg"
+      caption: "Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg"
+      caption: "Lazarus, Nov 20 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg"
+      caption: "Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg"
+      caption: "Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg"
+      caption: "Pulau Biola, May 10"
 ---
 
-## Where seen?
- This oyster with a zig-zag opening at the valves
-is sometimes seen on some of our shores, on boulders and seawalls.
-Usually a few are squished in cracks near the mid water mark.  
-  
-## Features
- 3-8cm. The two-part
-shell is thick and chalky. The opening between the valves is a regular
-fine zig-zag. The opening is usually well away from the rock surface.
-Some are crowded next to one another, others are found singly.   
-  
-Oysters are difficult to distinguish by shell shape alone and those
-on this page may in fact be different species that appear similar.
+**Where seen?**
+This oyster with a zig-zag opening at the valves is sometimes seen on some of our shores, on boulders and seawalls. Usually a few are squished in cracks near the mid water mark.
 
- 
+**Features:**
+3-8cm. The two-part shell is thick and chalky. The opening between the valves is a regular fine zig-zag. The opening is usually well away from the rock surface. Some are crowded next to one another, others are found singly.
 
+Oysters are difficult to distinguish by shell shape alone and those on this page may in fact be different species that appear similar.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Zig
-zag oysters on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Zig zag oysters on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&safe_search=3&view_all=1&text=Zig zag oysters) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&safe_search=3&view_all=1&text=Zig zag oysters)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Zig%2520zag%2520oysters/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -78,22 +62,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -25,62 +25,38 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
-  caption: |
-    <p>Changi, Jun 11</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
-  caption: |
-    <p>Changi, Jun 11</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3551m3.jpg
-  caption: |
-    <p>Under a stone.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg"
+      caption: "Changi, Jun 11"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg"
+      caption: "Changi, Jun 11"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg"
+      caption: "Changi, May 08 Under a stone."
 ---
 
-## Where seen?
- This
-tiny snapping shrimp is often found under stones and inside sponges.
-Often found in pairs.   
-  
-## Features
- Body 1-2cm long. Usually translucent pale with tiny dark spots.  
-  
-[White snapping shrimps](alphballsoft) are also often
-seen in ball soft corals.
+**Where seen?**
+This tiny snapping shrimp is often found under stones and inside sponges. Often found in pairs.
 
- 
+**Features:**
+Body 1-2cm long. Usually translucent pale with tiny dark spots.
 
+[White snapping shrimps](alphballsoft.md)
+are also often seen in ball soft corals.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Commensal
-snapping shrimps on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Commensal snapping shrimps on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Commensal snapping shrimp) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Commensal snapping shrimp)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Commensal%2520snapping%2520shrimp/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

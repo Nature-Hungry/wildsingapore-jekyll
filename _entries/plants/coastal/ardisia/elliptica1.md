@@ -5,60 +5,26 @@ keywords: ardisia, elliptica, myrsinaceae, tree, mangrove, mangroves, field, gui
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
 layout: entry
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
-  caption: |
-    <p>Chek Jawa,</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m3a.jpg
-  caption: |
-    <p>Chek Jawa, Mar 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8711m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg
-  caption: |
-    <p>Planted specimen.</p>
-    <p>Chek Jawa, Mar 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0379m6l.jpg
-  caption: |
-    <p>Planted specimen.</p>
-    <p>Pasir Ris, Apr 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
 ---
 
  
-
-
-
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
+      caption: "Chek Jawa, Mar 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m3a.jpg"
+      caption: "Chek Jawa, Mar 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
+      caption: "Planted specimen. Chek Jawa, Mar 09"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg"
+      caption: "Pasir Ris, Apr 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0379m6l.jpg"
+      caption: "Planted specimen. Pasir Ris, Apr 09"
 ---
 
-
-
-back
-to [general info on mata pelandok](elliptica.htm)
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of [coastal
-plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links.htm) |
-[references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}back to
+[general info on mata pelandok](elliptica.md)

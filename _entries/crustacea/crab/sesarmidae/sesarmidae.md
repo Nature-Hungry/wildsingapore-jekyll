@@ -24,187 +24,197 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
-  caption: |
-    <p>About to munch on flowers?</p>
-    <p>Sungei Buloh Wetland Reserve, Sep 03</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg
-  caption: |
-    <p>This mama crab was carrying lots of eggs!</p>
-    <p>Kranji, Jun 06</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
-  caption: |
-    <p><a href="brockii">Mangrove tree-dwelling crab</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
-  caption: |
-    <p><a href="episesarma">Tree climbing crab</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg
-  caption: |
-    <p><a href="perisesarma">Face-banded sesarmine crab</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
-  caption: |
-    <p><a href="sarmatium">Mound crab</a></p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: if you learn only 3 things about them ... These crabs have long legs with pointy tips to cling to and scramble over hard surfaces. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: These crabs have long legs with pointy tips to cling to and scramble over hard surfaces. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
+      caption: "About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg"
+      caption: "This mama crab was carrying lots of eggs! Kranji, Jun 06"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg"
+      caption: Mangrove tree-dwelling crab
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg"
+      caption: Tree climbing crab
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg"
+      caption: Face-banded sesarmine crab
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg"
+      caption: Mound crab
 links_references: |
   **Links**
-  - [Sesarmine
-    crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048), [Tree-climbing/Vinegar
-    crabs (*Episesarma* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049), [Mangrove
-    tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050), Ng, Peter K.
-    L. & N. Sivasothi, 1999. *[A
-    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-    Singapore Science Centre. 168 pp.
-  - [Sesarmine
-    Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198); *[Selatium
-    brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199)* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
-    Singapore. 160 pp.
+  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+  ,
+  [Tree-climbing/Vinegar crabs (
+  *Episesarma*
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049.md)
+  ,
+  [Mangrove tree-dwelling crab (
+  *Selatium brockii*
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2050.md)
+  , Ng, Peter K. L. & N. Sivasothi, 1999.
+  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+  . Singapore Science Centre. 168 pp.
+  - [Sesarmine Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198.md)
+  ;
+  *[Selatium brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199.md)*
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
+  . The Singapore Science Centre, Singapore. 160 pp.
+  
   **References**
-  - Marcus F. C. Ng. 28 Oct 2016. *A mangrove crab Perisesarma fasciatum at Pulau Ubin*. Singapore Biodiversity Records 2016: 156
-  - Tan Heok Hui. 5 December 2014. *Kusu rock crabs at Pulau Senang, Lithoselatium kusu*. Singapore Biodiversity Records 2014: 320.
-  - Lim, S.,
-    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-    and Times of Labrador Beach.* Division of Biology, School of
-    Science, Nanyang Technological University & Department of Zoology,
-    the National University of Singapore. 160 pp.
-  - Wee Y.C.
-    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-    National Council on the Environment. 163pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Jones Diana
-    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-    Australian Waters*. Reed New Holland. 224 pp.
+  - Marcus F. C. Ng. 28 Oct 2016.
+  *A mangrove crab Perisesarma fasciatum at Pulau Ubin*
+  . Singapore Biodiversity Records 2016: 156
+  - Tan Heok Hui. 5 December 2014.
+  *Kusu rock crabs at Pulau Senang, Lithoselatium kusu*
+  . Singapore Biodiversity Records 2014: 320.
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994.
+  *A First Look at Biodiversity in Singapore*
+  . National Council on the Environment. 163pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+  . Nature Society (Singapore). 285 pp.
+  - Jones Diana S. and Gary J. Morgan, 2002.
+  *A Field Guide to Crustaceans of Australian Waters*
+  . Reed New Holland. 224 pp.
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../../photos/bullet.gif) These crabs have long legs with pointy tips to cling to
-and scramble over hard surfaces.  
-![](../../../photos/bullet.gif) They have a flat body to slip through narrow crevices.  
-![](../../../photos/bullet.gif)They
-are very shy and disappear at the slightest sign of trouble.
-  
-## Where seen?
-  Small sesarmid crabs
-are commonly seen in our mangroves, especially at night. There are
-as many as 40 species of these crabs in our mangroves. They are often
-hard to spot as they are well camouflaged, although some may have
-colourful markings. They are more active at night.  
-  
-## Features
- Body width 4-6cm. Sesarmid
-crabs are adapted for scrambling over slippery surfaces. They have
-well-developed hooks on the tips of their long legs that grip these
-surfaces. Their bodies and legs are flattened, allowing them to squeeze
-deep into narrow cracks and crevices. In some species, males have
-larger pincers than females. Many can stay out of the water for some
-time.
- 
- 
-**Role in the habitat:** By feeding
-on mangrove leaves, these crabs recycle nutrients in the mangrove
-forest. Quickly breaking down the leaves for others in the food chain
-to eat, e.g., animals that eat the fragments left over by the crabs,
-what comes out of the crab after it eats the leaves, and of course,
-the crab itself!   
-  
-**Status and threats:** Some of our
-Sesarmid crabs are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by
-human activities such as reclamation and pollution. Trampling by careless
-visitors can also affect local populations.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+**Where seen?**
+Small sesarmid crabs are commonly seen in our mangroves, especially at night. There are as many as 40 species of these crabs in our mangroves. They are often hard to spot as they are well camouflaged, although some may have colourful markings. They are more active at night.
+
+**Features:**
+Body width 4-6cm. Sesarmid crabs are adapted for scrambling over slippery surfaces. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females. Many can stay out of the water for some time.
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**Role in the habitat:**
+By feeding on mangrove leaves, these crabs recycle nutrients in the mangrove forest. Quickly breaking down the leaves for others in the food chain to eat, e.g., animals that eat the fragments left over by the crabs, what comes out of the crab after it eats the leaves, and of course, the crab itself!
+
+**Status and threats:**
+Some of our Sesarmid crabs are listed among the threatened animals of Singapore.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.
 
 ---
 
-**Some Sesarmid
-crabs on Singapore shores**
+**Some Sesarmid crabs on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
+**Family Sesarmidae recorded for Singapore**
+from Wee Y.C. and Peter K. L. Ng. 1994.
+*A First Look at Biodiversity in Singapore*
 
----
-
-**Family
-Sesarmidae recorded for Singapore**from
-Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity
-in Singapore*  
 +from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  
-\*\*Ng, Peter K. L. & N. Sivasothi, 1999. *A Guide
-to the Mangroves of Singapore II (Animal Diversity)*.  
-in red are those listed among the threatened
-animals of Singapore from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*.^from [WORMS](http://www.marinespecies.org/)
- 
-**Family Sesarmidae** (previously Grapsidae)
- 
-*Bresedium
-sedilense* *Clistocoeloma lanatum  
-Clistocoeloma merguiense*  
-+*Clistocoeloma villosum*   
-[*Episesarma* sp.](episesarma) **tree
-climbing crabs** *with list of species recorded for
-Singapore   
-  
-+Fasciarma fasciatum  
-  
-Geosesarma clavicrure  
-Geosesarma nemesis* (EN:
-Endangered) *Geosesarma peraccae* (VU: Vulnerable) *Haberma nanum* (VU:
-Vulnerable) *Labuanium politum  
-  
-+Lithoselatium kusu* (Kusu rock crab) *Nanosesarma* spp. (Dwarf sesarmine crabs) *^Nanosesarma (Beanium) batavicum=^Nanosesarma batavicum  
-^Nanosesarma (Beanium) edamensis=^Nanosesarma edamense  
-Nanosesarma minutum   
-^Nanosesarma (Beanium) nunongi=^Nanosesarma nunongi  
-Nanosesarma pontianacense   
-  
-Neosesarma gemmiferum  
-  
-Nanosesarmatium smithi=^Neosarmatium smithi  
-  
-+Parasesarma eumolpe  
-+Parasesarma rutilimanum  
-  
-Perisesarma bidens   
-Perisesarma dussumieri  
-Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe* ([Face-banded
-sesarmine crabs](perisesarma)) *+Perisesarma fasciatum  
-Perisesarma indiarum* ([Face-banded
-sesarmine crabs](perisesarma)) *+Perisesarma cf. lenzii   
-Perisesarma onychophorum  
-Perisesarma semperi  
-  
-+Pseudosesarma bocourti  
-+Pseudosesarma edwardsi* *\*[Sarmatium
-germaini](sarmatium)* (Mound crab) (EN:
-Endangered) *Sarmatium striaticarpus  
-  
-[Selatium brockii](brockii)* (Mangrove tree-dwelling
-crabs)  
-  
+
+**Ng, Peter K. L. & N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)*
+.
+
+in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+*The Singapore Red Data Book: Threatened plants and animals of Singapore*
+.
+**
+^from
+[WORMS](http://www.marinespecies.org/)
+**
+
+**Family Sesarmidae**
+(previously Grapsidae)
+
+*Bresedium sedilense*
+*Clistocoeloma lanatum
+
+Clistocoeloma merguiense*
+
++
+*Clistocoeloma villosum*
+
+****
+[*Episesarma*
+sp.](episesarma.md)
+**tree climbing crabs**
+*with list of species recorded for Singapore
+
++Fasciarma fasciatum
+
+Geosesarma clavicrure
+
+Geosesarma nemesis*
+(EN: Endangered)
+*Geosesarma peraccae*
+(VU: Vulnerable)
+*Haberma nanum*
+(VU: Vulnerable)
+*Labuanium politum
+
++Lithoselatium kusu*
+(Kusu rock crab)
+*Nanosesarma*
+spp. (Dwarf sesarmine crabs)
+*^Nanosesarma (Beanium) batavicum=^Nanosesarma batavicum
+
+^Nanosesarma (Beanium) edamensis=^Nanosesarma edamense
+
+Nanosesarma minutum
+
+^Nanosesarma (Beanium) nunongi=^Nanosesarma nunongi
+
+Nanosesarma pontianacense
+
+Neosesarma gemmiferum
+
+Nanosesarmatium smithi=^Neosarmatium smithi
+
++Parasesarma eumolpe
+
++Parasesarma rutilimanum
+
+Perisesarma bidens
+
+Perisesarma dussumieri
+
+Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe*
+(
+[Face-banded sesarmine crabs](perisesarma.md)
+)
+*+Perisesarma fasciatum
+
+Perisesarma indiarum*
+(
+[Face-banded sesarmine crabs](perisesarma.md)
+)
+*+Perisesarma cf. lenzii
+
+Perisesarma onychophorum
+
+Perisesarma semperi
+
++Pseudosesarma bocourti
+
++Pseudosesarma edwardsi*
+**
+[Sarmatium germaini](sarmatium.md)*
+(Mound crab) (EN: Endangered)
+*Sarmatium striaticarpus
+
+[Selatium brockii](brockii.md)*
+(Mangrove tree-dwelling crabs)
+
 *Sesarmoides borneensis*
 (EN: Endangered)
 
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

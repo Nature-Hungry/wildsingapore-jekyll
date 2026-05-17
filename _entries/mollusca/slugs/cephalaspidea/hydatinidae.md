@@ -34,84 +34,69 @@ infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
-  caption: |
-    <p>Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2409238425/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
-  caption: |
-    <p>Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on <a href="https://www.facebook.com/carol.phillips.1044186/media_set?set=a.10161170432345023&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
-  caption: |
-    <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
+      caption: "Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg"
+      caption: "Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg"
+      caption: "Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook ."
 links_references: |
   **Links**
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: including descriptions and
-    photos of various bubble snails.
-  - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta) and
-    *[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)* on SeaLife Base.
-  - [Family
-    Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html) on [The
-    Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University
-    Tri-Cities Natural History Museum website: brief description and
-    photos.
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: including descriptions and photos of various bubble snails.
+  - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta)
+  and
+  *[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)*
+  on SeaLife Base.
+  - [Family Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html)
+  on
+  [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
+  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
+  
   **References**
-  - Tan Siong Kiat. 24 July 2015. *A record of the white banded bubble Hydatina albocincta in Singapore*. Singapore Biodiversity Records 2015: 104
-  - Tan SK, Low MEY, Nguang LHS & Toh CH (2014) *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*. Nature in Singapore, 7: 121–127.
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Gosliner,
-    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-    Sea Challengers. 314pp.
+  - Tan Siong Kiat. 24 July 2015.
+  *A record of the white banded bubble Hydatina albocincta in Singapore*
+  . Singapore Biodiversity Records 2015: 104
+  - Tan SK, Low MEY, Nguang LHS & Toh CH (2014)
+  *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*
+  . Nature in Singapore, 7: 121–127.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+  Sea Challengers. 314pp.
 ---
 
-## Where seen?
- These beautiful snail is sometimes seen on our Northern shores. It was previously
-placed in Family Hydatinidae.  
-  
-## Features
- 1-4cm. Shell smooth
-globular may be thin, usually with colourful spirally stripes. The
-body mantle is much larger than the shell and held in frills. It
-lacks an operculum. The animal can withdraw completely or almost completely into its shell.  
-  
-**What does it eat?**  It feeds exclusively on [Spaghetti worms](../../../worm/polychaeta/spaghetti.htm) (Family Cirratulidae), swallowing them whole and incorporating the
-toxins of their prey for their own defence.
- 
+**Where seen?**
+These beautiful snail is sometimes seen on our Northern shores. It was previously placed in Family Hydatinidae.
 
+**Features:**
+1-4cm. Shell smooth globular may be thin, usually with colourful spirally stripes. The body mantle is much larger than the shell and held in frills. It lacks an operculum. The animal can withdraw completely or almost completely into its shell.
 
+**What does it eat?**
+It feeds exclusively on
+[Spaghetti worms](../../../worm/polychaeta/spaghetti.md)
+(Family Cirratulidae), swallowing them whole and incorporating the toxins of their prey for their own defence.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Family Aplustridae recorded for Singapore**from
-Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist
-of The Molluscs of Singapore*.  
-^from [WORMS](http://www.marinespecies.org/)  
-  
- 
-**Family
-^Aplustridae=Hydatinidae (paper bubble snails)** 
+**Family Aplustridae recorded for Singapore**
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+*Preliminary Checklist of The Molluscs of Singapore*
+.
 
-*Hydatina albocincta  
+^from
+[WORMS](http://www.marinespecies.org/)
+
+**Family ^Aplustridae=Hydatinidae (paper bubble snails)**
+
+*Hydatina albocincta
+
 Hydatina zonata*
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -25,73 +25,62 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jun 05</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3c.jpg
-  caption: |
-    <p>Eggs seen through the transparent body!</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftd2926m3.jpg
-  caption: |
-    <p>Changi, Apr 05</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050819cjg1478m3.jpg
-  caption: |
-    <p>Size in comparison to carpet anemone</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftg5260m3.jpg
-  caption: |
-    <p>Changi, Apr 05</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091106smkgl2m3.jpg
-  caption: |
-    <p>Pulau Semakau, Nov 09Photo shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul">her blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091203ubnjk2m3.jpg
-  caption: |
-    <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+      caption: "Pulau Sekudu, Jun 05"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3c.jpg"
+      caption: Eggs seen through the transparent body!
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftd2926m3.jpg"
+      caption: "Changi, Apr 05"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050819cjg1478m3.jpg"
+      caption: Size in comparison to carpet anemone
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftg5260m3.jpg"
+      caption: "Changi, Apr 05"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091106smkgl2m3.jpg"
+      caption: "Pulau Semakau, Nov 09 Photo shared by Geraldine Lee on her blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091203ubnjk2m3.jpg"
+      caption: "Pulau Ubin, Dec 09 Photo shared by James Koh on his blog ."
 ---
 
-## Where seen?
- This tiny shrimp is often seen in [Haddon's
-carpet anemones](../../../cnidaria/actiniaria/haddoni) (*Stichodactyla haddoni*) on our Northern
-shores, including small anemones less than 10cm in diameter. One anemone
-may have 10 or more of these tiny shrimps! They are more active at
-night, when they move about on the surface of the sea anemone. They
-are rarely seen during the day.  
-  
-Studies of some specimens found at Chek Jawa, Pulau Semakau and the Singapore Straits identified them as *Periclimenes* cf. *obscurus*. But this is suspected to be a species complex that contains more than one species and a more detailed study is required to identify them more precisely.  
-  
-## Features
- To about 1cm. Almost
-completely transparent. Some with a dark stripe along the body length
-and blue eyes.
+**Where seen?**
+This tiny shrimp is often seen in
+[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni.md)
+(
+*Stichodactyla haddoni*
+) on our Northern shores, including small anemones less than 10cm in diameter. One anemone may have 10 or more of these tiny shrimps! They are more active at night, when they move about on the surface of the sea anemone. They are rarely seen during the day.
 
- 
+Studies of some specimens found at Chek Jawa, Pulau Semakau and the Singapore Straits identified them as
+*Periclimenes*
+cf.
+*obscurus*
+. But this is suspected to be a species complex that contains more than one species and a more detailed study is required to identify them more precisely.
 
+**Features:**
+To about 1cm. Almost completely transparent. Some with a dark stripe along the body length and blue eyes.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
+**Tiny carpet anemone shrimps on Singapore shores**
 
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-
-  
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
-
----
-
-**Tiny
-carpet anemone shrimps on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Tiny carpet anemone shrimp) for free
-  download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Tiny carpet anemone shrimp)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Tiny%2520carpet%2520anemone%2520shrimp/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -99,23 +88,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References** 
-
-- Veron Pwa Keay Hoon & Jin-Ho Park. 30 November 2020. *New record of shrimp, Periclimenes cf. obscurus, on carpet anemone*. Singapore Biodiversity Records 2020: 204-205. The National University of Singapore.
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**References**
+- Veron Pwa Keay Hoon & Jin-Ho Park. 30 November 2020.
+*New record of shrimp, Periclimenes cf. obscurus, on carpet anemone*
+. Singapore Biodiversity Records 2020: 204-205. The National University of Singapore.

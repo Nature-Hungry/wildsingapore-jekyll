@@ -17,139 +17,44 @@ subclass: Patellogastropoda
 order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/110803chgd8435m3.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/polyplacophora/chiton/110803chgd8435m3.jpg"
+      caption: ""
 ---
 
-**Limpets
-Look-alike** Different kinds of [limpets](limpet.htm) may look very similar from above, especially when the shell is covered
-with encrusting algae or organisms. But they look very different underneath.
-Please don't pry limpets off the rocks. They cling so tightly that
-you will hurt them if you do so. These photos were taken by gently
-encouraging the limpets to move onto the glass.
+**Limpets Look-alike**
+Different kinds of
+[limpets](limpet.md)
+may look very similar from above, especially when the shell is covered with encrusting algae or organisms. But they look very different underneath. Please don't pry limpets off the rocks. They cling so tightly that you will hurt them if you do so. These photos were taken by gently encouraging the limpets to move onto the glass.
 
 ---
-
- 
-
-
-
-[**Smooth
-limpets**](cellana.htm)  
-*Cellana* sp.   
-Family Nacellidae
-
-[**Star
-limpets**](patelloida.htm)  
-*Patelloida sacchroides*   
-Family Lottiidae
-
-[**Guam
-false limpets**](guamensis.htm)  
-*Siphonaria guamensis*   
-Family Siphonariidae
-
-There
-is no hole   
-at the top of the shell.
-
-There
-is no hole   
-at the top of the shell.
-
-There
-is no hole   
-at the top of the shell.
-
-
-
-
-True
-limpets breathe through gills. This one has a ring of gill leaflets
-along the edge of its body
-True
-limpets breathe through gills. This one has one feathery gill on the
-side of the body.
-False
-limpets breathe through lungs instead of gills.
-
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**More
-comparisons**
-  
+**More comparisons**
 
 ---
-
-
-
-
-[**Keyhole
-limpet**](keyhole.htm)  
-Diodora sp.  
-Family Fissurellidae
-
-[**Hoof-shield
-limpet**](scutus.htm)  
-Scutus sp.  
-Family Fissurellidae
-
-[**Chiton**](../../polyplacophora/chiton.htm)  
-Order Placophora
-
- 
- 
- 
-These
-true limpets have a hole   
-at the top of the shell.
-These
-true limpets have a body   
-that is much larger than the shell.
-This
-is not a limpet, but a strange kind of mollusc with 8 overlapping
-plates.
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-how to tell apart [animals
-with conical shells found on rocks](../../../glossary/limpetbarnacle.htm)
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+how to tell apart
+[animals with conical shells found on rocks](../../../glossary/limpetbarnacle.md)

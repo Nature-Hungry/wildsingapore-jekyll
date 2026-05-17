@@ -28,143 +28,116 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
-  caption: |
-    <p>Labrador, Jun 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg
-  caption: |
-    <p>Sentosa, Mar 07</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg
-  caption: |
-    <p>Pulau Sekudu, Aug 24Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161804173833713&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg
-  caption: |
-    <p>Sentosa, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156864204063158&set=a.10156864202778158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg
-  caption: |
-    <p>Lazarus Island, Mar 16Photo shared by Law Ing Sind on <a href="https://www.facebook.com/law.ingsind/media_set?set=a.1238950662786007.1073741856.100000132558559&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg
-  caption: |
-    <p>Kusu Island, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153369005738713.1073741960.619308712&type=1&pnref=story">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg
-  caption: |
-    <p>St John's Island, Aug 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3802731849/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg
-  caption: |
-    <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806534681295&set=a.10157806532326295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg
-  caption: |
-    <p>Pulau Tekukor, Nov 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157865070256295&set=a.10157865069206295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg
-  caption: |
-    <p>Small Sisters Island, May 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1588496161267154&set=a.1588495367933900&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg
-  caption: |
-    <p>Big Sisters Island, Jun 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154729383778660&set=a.10154515554383660&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg
-  caption: |
-    <p>Big Sisters Island, Feb 24Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161408200308713&set=a.10161408222498713">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg
-  caption: |
-    <p>Cyrene, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157964169638158&set=a.10157964167633158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg
-  caption: |
-    <p>Cyrene, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162602846021295&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg
-  caption: |
-    <p>Pulau Semakau East, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg
-  caption: |
-    <p>Terumbu Semakau, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158178673076295&set=a.10158178663866295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg
-  caption: |
-    <p>Terumbu Bemban, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159415588443713&set=a.10159415623518713">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg
-  caption: |
-    <p>Terumbu Pempang Laut, Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663482075112&set=a.10166663476025112">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg
-  caption: |
-    <p>Terumbu Pempang Laut, May 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg
-  caption: |
-    <p>Terumbu Pempang Tengah, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159420062498713&set=a.10159420118948713">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg
-  caption: |
-    <p>Pulau Berkas, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4651690003/in/album-72157624164673134/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg
-  caption: |
-    <p>Pulau Biola, Jan 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649732598158&set=a.10159649733953158">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg"
+      caption: "Labrador, Jun 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg"
+      caption: "Sentosa, Mar 07"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg"
+      caption: "Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg"
+      caption: "Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg"
+      caption: "Lazarus Island, Mar 16 Photo shared by Law Ing Sind on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg"
+      caption: "Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg"
+      caption: "St John's Island, Aug 09 Photo shared by James Koh on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg"
+      caption: "St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg"
+      caption: "Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg"
+      caption: "Small Sisters Island, May 18 Photo shared by Dayna Cheah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg"
+      caption: "Big Sisters Island, Jun 17 Photo shared by Marcus Ng on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg"
+      caption: "Big Sisters Island, Feb 24 Photo shared by Toh Chay Hoon on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg"
+      caption: "Cyrene, Feb 20 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg"
+      caption: "Cyrene, Feb 26 Photo shared by Jianlin Liu on facebook ."
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg"
+      caption: "Pulau Semakau East, Jul 15 Photo shared by Toh Chay Hoon on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg"
+      caption: "Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg"
+      caption: "Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook ."
+  gallery8:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg"
+      caption: "Terumbu Pempang Laut, Jan 22 Photo shared by Kelvin Yong on facebook"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg"
+      caption: "Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg"
+      caption: "Terumbu Pempang Tengah, May 21 Photo shared by Toh Chay Hoon on facebook"
+  gallery9:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg"
+      caption: "Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg"
+      caption: "Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook ."
 links_references: |
-  **Links**  
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheets on
-    *[Dermatobranchus
-    albus](http://www.seaslugforum.net/find/dermalbu)*.
+  **Links**
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)
+  by Dr Bill Rudman: photos and fact sheets on
+  *[Dermatobranchus albus](http://www.seaslugforum.net/find/dermalbu)*
+  .
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Debelius,
-    Helmut, 2001. *Nudibranchs
-    and Sea Snails: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-  - Wells, Fred
-    E. and Clayton W. Bryce. 2000. *Slugs
-    of Western Australia: A guide to the species from the Indian to
-    West Pacific Oceans*.
-    Western Australian Museum. 184 pp.
-  - Coleman,
-    Neville. 2001. *1001
-    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-  - Humann, Paul
-    and Ned Deloach. 2010. *Reef
-    Creature Identification: Tropical Pacific* New World Publications.
-    497pp.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Debelius, Helmut, 2001.
+  *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+  - Wells, Fred E. and Clayton W. Bryce. 2000.
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+  . Western Australian Museum. 184 pp.
+  - Coleman, Neville. 2001.
+  *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
+  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+  - Humann, Paul and Ned Deloach. 2010.
+  *Reef Creature Identification: Tropical Pacific*
+  New World Publications. 497pp.
 ---
 
-## Where seen?
- This
-tiny nudibranch is sometimes seen on coral rubble and seaweeds near
-reefs on our Southern shores. Relatively regular encounters suggest
-they may be quite common but often overlooked because they are so
-tiny.  
-  
-## Features
- About 1cm long. Body
-very long and slender, dark with fine white ridges with an even finer
-yellow line down the centre of the ridges. Yellow body margins, dark
-rhinophores, a white wedge-shaped flap over its mouth (oral veil)
-also with yellow margins. The underside is white. It lacks a feathery
-gill on its back.  
-  
-**Sometimes confused with** [Armina
-nudibranchs](semperi.htm) *(Armina* sp.) which are much larger.
+**Where seen?**
+**
+This tiny nudibranch is sometimes seen on coral rubble and seaweeds near reefs on our Southern shores. Relatively regular encounters suggest they may be quite common but often overlooked because they are so tiny.
 
- 
+**Features:**
+About 1cm long. Body very long and slender, dark with fine white ridges with an even finer yellow line down the centre of the ridges. Yellow body margins, dark rhinophores, a white wedge-shaped flap over its mouth (oral veil) also with yellow margins. The underside is white. It lacks a feathery gill on its back.
 
-
-
-**What does it eat?** According to
-Bill Rudman
-some species eat [soft
-corals](../../../cnidaria/coralsoft/coralsoft.htm) and [sea
-fans](../../../cnidaria/others/gorgonacea/gorgonacea.htm).
+**Sometimes confused with**
+[Armina nudibranchs](semperi.md)
+*(Armina*
+sp.) which are much larger.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**What does it eat?**
+According to Bill Rudman some species eat
+[soft corals](../../../cnidaria/coralsoft/coralsoft.md)
+and
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+.
 
 ---
 
-**Tiny
-striped nudibranchs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Tiny striped nudibranchs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Dermatobranchus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Dermatobranchus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Dermatobranchus/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -172,53 +145,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery8 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery9 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

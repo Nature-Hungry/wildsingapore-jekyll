@@ -20,43 +20,6 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
-  caption: |
-    <p>Venus clams being harvested.</p>
-    <p>Pulau Sekudu, Jul 03</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
-  caption: |
-    <p>Half buried under a stone.</p>
-    <p>Chek Jawa, Sep 02</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
-  caption: |
-    <p>Siphon sticking out.</p>
-    <p>Changi, Feb 02 Human uses: Many of the commercially important clams are venus clams.</p>
-    <p>Some are also used as fish bait.</p>
-    <p>Venus clams are among the favourite seafood of people everywhere.</p>
-    <p>Like other filter-feeding clams, however, venus clams may be affected by <a href="../../../plants/seaweed/redtide.htm">red tide and other harmful algal blooms</a>.</p>
-    <p>Such clams can then be harmful to eat.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
-  caption: |
-    <p><a href="forked.htm">Forked venus clam</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
-  caption: |
-    <p><a href="scripta.htm">Script venus clam</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
-  caption: |
-    <p><a href="bean.htm">Bean-shaped venus clam</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
-  caption: |
-    <p><a href="ribbed.htm">Ribbed venus clam</a></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
-  caption: |
-    <p><a href="white.htm">White venus clam</a></p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>.</p>
-    <p>The Nature Society (Singapore), Singapore.</p>
-    <p>343 pp.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 links_references: |
   **Links**
@@ -83,6 +46,7 @@ links_references: |
     Western Central Pacific [Volume
     1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
     Agriculture Organization of the United Nations (FAO) website.
+  
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 April 2020. *Sightings of the long-leaf irus clam, Irus irus, in Singapore*. Singapore Biodiversity Records 2020: 49-52 ISSN 2345-7597
   - Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019. *Sowerby’s venus clam, Lioconcha sowerbyi, a new record for Singapore*, Singapore Biodiversity Records 2019: 118-119 ISSN 2345-7597.
@@ -102,183 +66,229 @@ links_references: |
     National Council on the Environment. 163pp.
   - Ng, P. K.
     L. & Y. C. Wee, 1994. *The
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: "if you learn only 3 things about them ... Many venus clam species are edible. However, don't eat wild clams as some may make you ill. They are eaten by snails that bore a hole in their shell. See if you can find such a shell?"
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: "Many venus clam species are edible. However, don't eat wild clams as some may make you ill. They are eaten by snails that bore a hole in their shell. See if you can find such a shell?"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
+      caption: "Venus clams being harvested. Pulau Sekudu, Jul 03"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg"
+      caption: "Half buried under a stone. Chek Jawa, Sep 02"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg"
+      caption: "Siphon sticking out. Changi, Feb 02"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
+      caption: Forked venus clam
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg"
+      caption: Script venus clam
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg"
+      caption: Bean-shaped venus clam
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
+      caption: Ribbed venus clam
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
+      caption: White venus clam
+  gallery5:
+    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+      caption: "Acknowledgements With grateful thanks to Andre Sartori from eBivalvia on EOL's Life Desk for identifying some of the Venus clams. Links Clams ( Marcia marmorata ) , Kepah ( Meretrix meretrix) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Bivalves in general Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Family Veneridae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos. Family Veneridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Chan Sow-Yan & Lau Wing Lup. 30 April 2020. Sightings of the long-leaf irus clam, Irus irus, in Singapore . Singapore Biodiversity Records 2020: 49-52 ISSN 2345-7597 Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019. Sowerby’s venus clam, Lioconcha sowerbyi, a new record for Singapore , Singapore Biodiversity Records 2019: 118-119 ISSN 2345-7597. Tan Siong Kiat and Chan Sow-Yan. 31 Oct 2017. First Singapore record of Venus clam, Pitar lineolatus . Singapore Biodiversity Records 2017: 142 Tan Siong Kiat. 31 Aug 2017. Lyrate Asiatic hard clam, Meretrix lyrata, at Changi coast . Singapore Biodiversity Records 2017: 142 Tan Siong Kiat. 31 Aug 2017. Two species of venus clams new to Singapore: , Antigona chemnitzii and Hyphantosoma intricatum . Singapore Biodiversity Records 2017: 114-115. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp."
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../../photos/bullet.gif) Many venus clam species are edible.  
-![](../../../photos/bullet.gif) However, don't eat wild clams as some may make you ill.  
-![](../../../photos/bullet.gif)They
-are eaten by snails that bore a hole in their shell. See
-if you can find such a shell?
- ## Where seen?
-  Another seafood favourite, in Singapore, these clams are also called
-'la-la'. Venus clams are still commonly seen on some of our shores,
-in sandy and rocky areas near seagrasses and coral rubble.  
-**What are venus clams?** Venus clams belong to the Family Veneridae. There are more than 400
-known species in this family with some of the most colourful of bivalves.
-Many are edible.   
-  
-## Features
- 3-4cm. The two-part
-shells are thick. Some have ridges or various patterns. They are usually
-buried just beneath the surface. The fine ridges on their shells to
-help them stay buried.   
-  
-**What eats them?** Despite their thick hard shells they are still preyed upon by predators
-such as [moon snails](../../gastropoda/naticidae/naticidae.htm), [drills](../../gastropoda/muricidae/muricidae.htm), crabs
-and shorebirds. Of course humans love to eat them too.  
- **What do they eat?** Like many other
-bivalves, venus clams are filter feeders. They lie buried in the sand
-and extend their siphons to the surface at high tide. They use their
-siphons to suck in water and filter out microscopic food. The water
-also brings fresh oxygen to the animal.
-Clams in this and related families, have a
-folded gill structure that is well developed for filtering out tiny
-food particles. The Gladys Archerd Shell Collection website has a [drawing
-of this complex filter](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Venus_Gilll.html).   
- 
-  
-**Status and threats:** None of our
-venus clams are listed among the threatened animals of Singapore.
-However, like other creatures of the intertidal zone, they are affected
-by human activities such as reclamation and pollution. Trampling by
-careless visitors and over-collection can also affect local populations
-of young clams.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+Another seafood favourite, in Singapore, these clams are also called 'la-la'. Venus clams are still commonly seen on some of our shores, in sandy and rocky areas near seagrasses and coral rubble.
 
----
+****
+**What are venus clams?**
+Venus clams belong to the Family Veneridae. There are more than 400 known species in this family with some of the most colourful of bivalves. Many are edible.
 
-**Some Venus
-clams on Singapore shores**
+**Features:**
+3-4cm. The two-part shells are thick. Some have ridges or various patterns. They are usually buried just beneath the surface. The fine ridges on their shells to help them stay buried.
 
----
+**What eats them?**
+Despite their thick hard shells they are still preyed upon by predators such as
+[moon snails](../../gastropoda/naticidae/naticidae.md)
+,
+[drills](../../gastropoda/muricidae/muricidae.md)
+, crabs and shorebirds. Of course humans love to eat them too.
 
+**What do they eat?**
+Like many other bivalves, venus clams are filter feeders. They lie buried in the sand and extend their siphons to the surface at high tide. They use their siphons to suck in water and filter out microscopic food. The water also brings fresh oxygen to the animal. Clams in this and related families, have a folded gill structure that is well developed for filtering out tiny food particles. The Gladys Archerd Shell Collection website has a
+[drawing of this complex filter](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Venus_Gilll.html)
+.
 
+{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+Many of the commercially important clams are venus clams. Some are also used as fish bait. Venus clams are among the favourite seafood of people everywhere. Like other filter-feeding clams, however, venus clams may be affected by
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+. Such clams can then be harmful to eat.
 
----
-
-
-
-
----
-
-**Unidentified
-venus clams on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
-
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&view_all=1&text=unidentified%20veneridae) for free
-  download
+**Status and threats:**
+None of our venus clams are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
 
 ---
 
-**Family
-Veneridae recorded for Singapore** from Tan Siong
-Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The
-Molluscs of Singapore*.  
-^from [WORMS](http://www.marinespecies.org/)  
-+Other additions (Singapore Biodiversity Record, etc)    
-  
- 
-**Venus
-clams seen awaiting identification**   
-*Species
-are difficult to positively identify without close examination.**On this website, they are grouped
-by external features for convenience of display**.*
- 
-[Bean-shaped venus clam](bean.htm)  
-[Ribbed venus clam](ribbed.htm)  
-[White venus clams](white.htm) 
-  
- 
-**Family
-Veneridae**
+**Some Venus clams on Singapore shores**
 
-*Anomalocardia
-squamosa  
-Anomalocardia malonei  
-  
-+Antigona chemnitzii  
-Antigona lamellaris  
-  
-Bassina foliacea   
-  
-Callista chinensis  
-  
-[Circe scripta](scripta.htm)* (Script venus
-clam) *Circe tumefacta  
-Circe undatina  
-  
-Clementia papyracea  
-  
-Dosinia cretacea  
-Dosinia exasperata  
-Dosinia juvenilis  
-Dosinia laminata  
-Dosinia trigona=^Costellipitar madecassinus  
-  
-Gafrarium dispar* (Discrepant venus clam) *[Gafrarium divaricatum](forked.htm)* (Forked
-venus clam) *Gafrarium pectinatum   
-Gafrarium tumidum=^Gafrarium pectinatum* (Tumid venus clam) *Globivenus toreuma=Venus toreum  
-  
-+Hyphantosoma intricatum  
-  
-Irus irus=Venerupis chinensis* (Long-leaf irus clam) *+**Lioconcha sowerbyi* (Sowerby’s venus clam) *Marcia hiantina  
-Marcia flammea  
-Marcia japonica   
-+ Marcia recens  
-  
-Meretrix lusoria   
-+Meretrix lyrata* (Lyrate Asiatic hard clam) *Meretrix meretrix* (Meretrix venus clam)  
-  
- *Paphia
-alapapilionis=^Paphia rotundata* (Butterfly venus clam) *Paphia sinuosa  
-Paphia textile* (Textile venus clam) *Paphia undulata* (Undulating venus clam) *+Paratapes undulatus  
-  
-Periglypta ata  
-Periglypta crispata   
-Periglypta puerpera* (Youthful venus clam) *Pitar affinis   
-Pitar belcheri   
-Pitar citrinus   
-Pitar deshayesi  
-+Pitar lineolatus   
-Pitar marrowae  
-Pitar striata   
-  
-Placamen calophyllum   
-Placamen chloroticum  
-Placamen isabellina  
-+Placamen lamellatum  
-  
-Protapes gallus=Paphia gallus  
-  
-Ruditapes philippinarum  
-Ruditapes variegatus   
-  
-Tapes belcheri   
-Tapes literatus   
-  
-Timoclea arakana  
-Timoclea chuangi   
-Timoclea decorata  
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+
+**Unidentified venus clams on Singapore shores**
+
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&view_all=1&text=unidentified%20veneridae)
+for free download
+
+---
+
+**Family Veneridae recorded for Singapore**
+**
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+*Preliminary Checklist of The Molluscs of Singapore*
+.
+
+^from
+[WORMS](http://www.marinespecies.org/)
+
++Other additions (Singapore Biodiversity Record, etc)
+[http://www.marinespecies.org/](http://www.marinespecies.org/)
+
+**Venus clams seen awaiting identification**
+
+*Species are difficult to positively identify without close examination.*
+*On this website, they are grouped by external features for convenience of display*
+*.*
+
+[Bean-shaped venus clam](bean.md)
+
+[Ribbed venus clam](ribbed.md)
+
+[White venus clams](white.md)
+
+**Family Veneridae**
+
+*Anomalocardia squamosa
+
+Anomalocardia malonei
+
++Antigona chemnitzii
+
+Antigona lamellaris
+
+Bassina foliacea
+
+Callista chinensis
+
+[Circe scripta](scripta.md)*
+(Script venus clam)
+*Circe tumefacta
+
+Circe undatina
+
+Clementia papyracea
+
+Dosinia cretacea
+
+Dosinia exasperata
+
+Dosinia juvenilis
+
+Dosinia laminata
+
+Dosinia trigona=^Costellipitar madecassinus
+
+Gafrarium dispar*
+(Discrepant venus clam)
+*[Gafrarium divaricatum](forked.md)*
+(Forked venus clam)
+*Gafrarium pectinatum
+
+Gafrarium tumidum=^Gafrarium pectinatum*
+(Tumid venus clam)
+*Globivenus toreuma=Venus toreum
+
++Hyphantosoma intricatum
+
+Irus irus=Venerupis chinensis*
+(Long-leaf irus clam)
+*+*
+*Lioconcha sowerbyi*
+(Sowerby’s venus clam)
+*Marcia hiantina
+
+Marcia flammea
+
+Marcia japonica
+
++ Marcia recens
+
+Meretrix lusoria
+
++Meretrix lyrata*
+(Lyrate Asiatic hard clam)
+*Meretrix meretrix*
+(Meretrix venus clam)
+
+*Paphia alapapilionis=^Paphia rotundata*
+(Butterfly venus clam)
+*Paphia sinuosa
+
+Paphia textile*
+(Textile venus clam)
+*Paphia undulata*
+(Undulating venus clam)
+*+Paratapes undulatus
+
+Periglypta ata
+
+Periglypta crispata
+
+Periglypta puerpera*
+(Youthful venus clam)
+*Pitar affinis
+
+Pitar belcheri
+
+Pitar citrinus
+
+Pitar deshayesi
+
++Pitar lineolatus
+
+Pitar marrowae
+
+Pitar striata
+
+Placamen calophyllum
+
+Placamen chloroticum
+
+Placamen isabellina
+
++Placamen lamellatum
+
+Protapes gallus=Paphia gallus
+
+Ruditapes philippinarum
+
+Ruditapes variegatus
+
+Tapes belcheri
+
+Tapes literatus
+
+Timoclea arakana
+
+Timoclea chuangi
+
+Timoclea decorata
+
 Timoclea lionota*
 
 ---
-
-**Acknowledgements**  
-With grateful thanks to Andre Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/)
-on EOL's Life Desk for identifying some of the Venus clams.  
-  
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery5 %}

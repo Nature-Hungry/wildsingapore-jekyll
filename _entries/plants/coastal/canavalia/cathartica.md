@@ -23,93 +23,63 @@ subfamily: Faboideae
 tribe: Diocleae
 inat_id: 159808
 updated: Jan 2013
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
-  caption: |
-    <p>Pulau Ubin, Jan 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
-  caption: |
-    <p>Pulau Ubin, Jan 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
-  caption: |
-    <p>Pasir Ris Park, Jan 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
-  caption: |
-    <p>Pasir Ris Park, Oct 09</p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg"
+      caption: "Pulau Ubin, Jan 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg"
+      caption: "Pasir Ris Park, Jan 10"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg"
+      caption: "Pasir Ris Park, Oct 09"
 links_references: |
   **Links**
-  - [*Canavalia
-    cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
+  - [*Canavalia cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/)
+  on Total Vascular Flora of Singapore Online: photos and fact sheet.
+  
   **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *The
-    Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
-    Singapore University Press. 222 pp.
-  - Burkill,
-    I. H., 1993. *A
-    Dictionary of the Economic Products of the Malay Peninsula*.
-    3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-    Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+  *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+  . Singapore University Press. 222 pp.
+  - Burkill, I. H., 1993.
+  *A Dictionary of the Economic Products of the Malay Peninsula*
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-## Where seen?
-  This climber with large lilac flowers and dark
-green leaves is sometimes seen on our wild coastal areas. According
-to Hsuan Keng, it was common on our sandy shores. It was previously
-known as *Canavalia turgida, C. obtusifolia*.  
-  
- ## Features
- A twinning climber.
-Compound leaf made up of three leaflets eye-shaped (4-9cm) thin. Flowers
-(2-2.5cm) rose-pink to dark purple. Several flowers on a long stalk.
-Fruits are oval pods (3-5cm long) with 3 keels pointed tip, flat green
-ripening brown with several beans, black oval and poisonous.  
-  
-According
-to Butterfly Circle, this plant is one of the host plants for the
-caterpillar of the [Common
-Sailor](http://butterflycircle.blogspot.sg/2010/07/life-history-of-common-sailorl) (*Neptis hylas papaja*).
+**Where seen?**
+This climber with large lilac flowers and dark green leaves is sometimes seen on our wild coastal areas. According to Hsuan Keng, it was common on our sandy shores. It was previously known as
+*Canavalia turgida, C. obtusifolia*
+.
 
- 
+**Features:**
+A twinning climber. Compound leaf made up of three leaflets eye-shaped (4-9cm) thin. Flowers (2-2.5cm) rose-pink to dark purple. Several flowers on a long stalk. Fruits are oval pods (3-5cm long) with 3 keels pointed tip, flat green ripening brown with several beans, black oval and poisonous.
+****
 
+According to Butterfly Circle, this plant is one of the host plants for the caterpillar of the
+[Common Sailor](http://butterflycircle.blogspot.sg/2010/07/life-history-of-common-sailor.html)
+(
+*Neptis hylas papaja*
+).
 
+![](http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
 
+*Pulau Ubin, Jan 09*
 
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**Poisonous
-sea bean on Singapore shores**
+**Poisonous sea bean on Singapore shores**
 
 ---
 
-Photos of [Poisonous sea bean](https://www.flickr.com/search/?q=Canavalia+cathartica&w=54527470%40N00&s=rec) for free
-download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
+Photos of
+[Poisonous sea bean](https://www.flickr.com/search/?q=Canavalia+cathartica&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Canavalia%2520cathartica/map?&fLat=1.2887&fLon=103.808&zl=12&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Canavalia%2520cathartica/map?&fLat=1.2887&fLon=103.808&zl=12&order_by=recent)
 
 ---
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of [coastal
-plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

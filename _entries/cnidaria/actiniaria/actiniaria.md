@@ -18,106 +18,6 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-page_images:
-- url: ../../../Templates/fornatureguides.gif
-  caption: |
-    <p>](../fngcactiniaria.htm)</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
-  caption: |
-    <p>The <a href="dofleinia.htm">glass anemone</a> has very long tentacles.</p>
-    <p>Beting Bronok, Jun 10</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg
-  caption: |
-    <p>The <a href="star.htm">Wiggly reef star anemone</a> has few tentacles.</p>
-    <p>Pulau Hantu, Apr 06</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
-  caption: |
-    <p>The <a href="phymanthus.htm">Phymanthus anemone</a> has branched tentacles.</p>
-    <p>Sentosa, May 08 Getting a grip: Most anemones don't move around a lot.</p>
-    <p>Anemones also have a long smooth body column.</p>
-    <p>The other end of the body column may end in a flat muscular pedal disk that attaches to a hard surface.</p>
-    <p>Some anemones can move slowly by gliding on the pedal disk.</p>
-    <p>The <a href="boloceroididae.htm">Swimming anemone</a> can indeed swim, but can also cling in place with its pedal disk.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg
-  caption: |
-    <p>Long body column of a burrowing <a href="doreensis.htm">Snaky anemone</a>.</p>
-    <p>Beting Bronok, Aug 05</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
-  caption: |
-    <p>The <a href="boloceroididae.htm">Swimming anemone</a> really does swim!</p>
-    <p>Pulau Sekudu, Jun 06</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
-  caption: |
-    <p>Some anemones are tiny and lie half buried in the sand.</p>
-    <p>Don't step on them!</p>
-    <p>Chek Jawa, Oct 04 Sometimes mistaken for <a href="../coralsoft/coralsoft.htm">soft corals</a>.</p>
-    <p>Some large anemones and large leathery and flowery soft corals may be mistaken for one another.</p>
-    <p>Here's more on <a href="../cflargecnidarians.htm">how to tell apart large soft cnidarians</a> on the shore.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
-  caption: |
-    <p>Carpet anemone eating a sand dollar Chek Jawa, Feb 04</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
-  caption: |
-    <p>A <a href="tiger.htm">tiger anemone</a> attempting to swallow a <a href="others/pennatulacea/pennatulacea.htm">sea pen</a>!</p>
-    <p>Changi, Jul 04 What do they eat?</p>
-    <p>Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water.</p>
-    <p>Larger anemones can capture and swallow prey such as fishes whole.</p>
-    <p>Anemones have <a href="../cnidaria.htm">stingers like other cnidarians</a>.</p>
-    <p>Prey is captured and immobilised with these stingers.</p>
-    <p>Tentacles may push larger prey into the central mouth.</p>
-    <p>The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed.</p>
-    <p>The mouth and body column can expand wide to accommodate the prey whole.</p>
-    <p>Or the anemone may fold its oral disk over the prey.</p>
-    <p>Like other cnidarians, the anemone lacks an anus.</p>
-    <p>So it has to spit out any indigestible bits through the mouth.</p>
-    <p>Farm in their arms: Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) in their tentacles.</p>
-    <p>The algae undergo photosynthesis to produce food from sunlight.</p>
-    <p>The food produced is shared with the anemone, which in return provides the algae with shelter and minerals.</p>
-    <p>The zooxanthellae are believed to give anemone tentacles their brown or greenish tinge.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
-  caption: |
-    <p>Some anemones live on shells occupied by <a href="hermitsmall.htm">hermit crabs</a>.</p>
-    <p>East Coast Park, Jun 15</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
-  caption: |
-    <p>So do <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">anemone shrimps</a>!</p>
-    <p>Kusu Island, Jul 04</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
-  caption: |
-    <p>The <a href="../vertebrates/fish/pomacentridae/ocellaris.htm">False clown anemonefish</a> can live happily in the  <a href="actiniaria/stichodactyla.htm">carpet anemone</a> that would eat any other fish.</p>
-    <p>Kusu Island, Jun 04</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
-    <p>pp.</p>
-    <p>963 - Pechenik, Jan A., 2005.</p>
-    <p>Biology</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>.</p>
-    <p>5th edition.</p>
-    <p>McGraw-Hill Book Co., Singapore.</p>
-    <p>578 pp.</p>
-    <p>- Wee Y.C.</p>
-    <p>and Peter K.</p>
-    <p>L.</p>
-    <p>Ng.</p>
-    <p>1994.</p>
-    <p>A First Look at Biodiversity in Singapore.</p>
-    <p>National Council on the Environment.</p>
-    <p>163pp.</p>
-    <p>- Ng, P.</p>
-    <p>K.</p>
-    <p>L.</p>
-    <p>& Y.</p>
-    <p>C.</p>
-    <p>Wee, 1994.</p>
-    <p>The</p>
-- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-  caption: |
-    <p>.</p>
-    <p>The Nature Society (Singapore), Singapore.</p>
-    <p>343 pp.</p>
 coverimg: ../../../Templates/fornatureguides.gif
 links_references: |
   **Links**  
@@ -145,6 +45,7 @@ links_references: |
       anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)
     - [Can
       eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)
+  
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
     Red Data Book: Threatened plants and animals of Singapore*.
@@ -155,170 +56,173 @@ links_references: |
     species*. The Raffles Bulletin of Zoology. Pp. 121-143.
   - Edward E.
     Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: if you learn only 3 things about them ... An anemone is an animal and not a plant. Don't step on it. Some anemones can sting. Don't touch them. Anemones can be found in all kinds of places. Look for them.
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: An anemone is an animal and not a plant. Don't step on it. Some anemones can sting. Don't touch them. Anemones can be found in all kinds of places. Look for them.
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+      caption: "The glass anemone has very long tentacles. Beting Bronok, Jun 10"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg"
+      caption: "The Wiggly reef star anemone has few tentacles. Pulau Hantu, Apr 06"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
+      caption: "The Phymanthus anemone has branched tentacles. Sentosa, May 08"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg"
+      caption: "Long body column of a burrowing Snaky anemone . Beting Bronok, Aug 05"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg"
+      caption: "The Swimming anemone really does swim! Pulau Sekudu, Jun 06"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg"
+      caption: "Some anemones are tiny and lie half buried in the sand. Don't step on them! Chek Jawa, Oct 04"
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+      caption: "Carpet anemone eating a sand dollar Chek Jawa, Feb 04"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg"
+      caption: "A tiger anemone attempting to swallow a sea pen ! Changi, Jul 04"
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
+      caption: "Some anemones live on shells occupied by hermit crabs . East Coast Park, Jun 15"
+    - url: "http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+      caption: "So do anemone shrimps ! Kusu Island, Jul 04"
+    - url: "http://www.wildsingapore.com/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+      caption: "The False clown anemonefish can live happily in the carpet anemone that would eat any other fish. Kusu Island, Jun 04"
+  gallery6:
+    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+      caption: "Links Phylum Cnidaria and Sea anemones ( Stoichactis sp.) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Mangrove anemones Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore . Singapore Science Centre. 168 pp. Hexacorallians of the World website by Dr Daphne Fautin: all about sea anemones, corals and their allies with classification, distribution, biological associations and more. From the wild shores of singapore blog. Warrior anemones: blobs can be belligerent Sea anemone venom may help treat multiple sclerosis Sea anemone stingers for younger looking skin Can eat or not? - Sea anemones References Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore . 3rd edition. National Parks Board. 663 pp. D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59. Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species . The Raffles Bulletin of Zoology. Pp. 121-143. Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp."
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../photos/bullet.gif) An anemone is an animal and not a plant. Don't step
-on it.  
-![](../../photos/bullet.gif) Some anemones can sting. Don't touch them.  
-![](../../photos/bullet.gif)Anemones can be found in all kinds of places. Look for
-them.
-  
-## Where seen?
- A wide variety of anemones can be seen on all
-our shores. Tiny anemones often wedge in crevices on rocky shores.
-Sandy shores teem with anemones; some small and well camouflaged
-or hidden in the sand. Seagrass meadows often have carpet anemones
-that may be bigger than your face! Large colourful anemones are
-also common in coral rubble areas. Anemones may also settle on
-shells occupied by [hermit crabs](hermitsmall.htm) or even [living snails](snail.htm).  
-  
-**What are sea anemones?** Sea anemones
-are to [Phylum Cnidaria](../cnidaria.htm), which includes
-jellyfishes and corals. Anemones belong to the [Class
-Anthozoa](../anthozoa.htm) that includes [cerianthids](../others/ceriantharia/ceriantharia.htm) and [hard corals](../coralhard/coralhard.htm). There
-are about 1,350 known species of anemones. They are found from
-deep to shallow waters, attached to hard surfaces or burrowing into
-the ground.  
-  
-## Features
- Most anemones are small, from 1.5-10cm long and 1-5cm in diameter. But
-some can be 50cm in diameter or more! Unlike hard corals which are
-colonies of small polyps connected to one another that produce a hard
-skeleton, anemones are larger solitary polyps that don't produce
-a hard skeleton. Like jellyfish and other cnidarians, anemones
-have tentacles with stingers. What we first notice of the anemone
-is a broad, flat disk. This is called the oral disk because that is
-where the mouth is, at the centre of disk. The mouth is usually a
-slit. Anemones don't have teeth.   
-  
-**Stingers!** The upper side of the oral disk is usually covered with lots of hollow
-tentacles. The tentacles are armed with stingers that are used for
-feeding and self-defence.Many anemones have
-nematocysts or stingers that can inject toxins. They may also have
-a kind of stinger that produces a long adhesive thread (called spirocysts).
-These make the tentacles sticky and are used to entangle hard-bodied
-prey such as crabs that may blunder into them. Stingers are concentrated
-on the tentacles.
-  
-Many anemones burrow in sand,
-mud or crevices in rocks or coral rubble. These may have
-a bulbous tip at the end of the body column that helps them dig down and stay anchored. Part or most of the body column may be buried or hidden. The body column may have
-bumps or spots (called verrucae). In some, these are sticky, to
-help the animal grip the surroundings where it is buried, or to keep
-the oral disk spread out, flat against a hard surface.   
-  
-In most anemones, the body column can retract towards the base
-to hide from predators or minimise exposure at low tide. Most can
-also tuck their tentacles and oral disk into the body column. When
-small anemones do this, they look like beads of jelly. Others can
-simply retract their entire bodies into a hole, crevice or into the
-sand. This is usually done by expelling fluids so that the tentacles
-and body deflate like balloons. To inflate again, anemones have
-special body structures to pump in and retain water.
-  
-Some animals look like anemones but are not, e.g., [cerianthids](../others/ceriantharia/ceriantharia.htm), [corallimorphs](../others/corallimorphs/corallimorph.htm) and [zoanthids](../others/zoanthid/zoanthid.htm). Here's
-more on [how to tell apart animals
-with a ring of smooth tentacles](../cfringtentacles.htm).
-  
-**Anemone friends:** Some anemones
-may live with other animals such as [hermit
-crabs](hermitsmall.htm) and [living snails](snail.htm). Other animals
-have adapted to live among the tentacles of anemones. The [Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion.htm) (*Amphiprion* sp.) is coated with mucus that does not trigger
-off the host anemone's stingers. Other creatures that also make
-their homes in anemones include [anemone
-shrimps](../../crustacea/othercrust/shrimp/palaemonidae.htm) (*Periclimenes* sp.).  
-  
-**Should I 'save' animals trapped in an anemone?** Please don't. If you do, you will be depriving the anemone of a meal.
-It might not get so lucky again for a while. The animal that you 'saved'
-might also not survive if it was badly stung by the anemone.  
-  
-**Should I feed the anemones?** Please
-don't. Anemones know how to feed themselves. You might hurt the anemone
-if you put the wrong thing on it, for example a toxic animal. If you
-put another living animal on an anemone you will be hurting two animals.
-Please don't put objects such as litter or dead crabs on an anemone
-either.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Where seen?**
+A wide variety of anemones can be seen on all our shores. Tiny anemones often wedge in crevices on rocky shores. Sandy shores teem with anemones; some small and well camouflaged or hidden in the sand. Seagrass meadows often have carpet anemones that may be bigger than your face! Large colourful anemones are also common in coral rubble areas. Anemones may also settle on shells occupied by
+[hermit crabs](hermitsmall.md)
+or even
+[living snails](snail.md)
+.
 
+**What are sea anemones?**
+Sea anemones are to
+[Phylum Cnidaria](../cnidaria.md)
+, which includes jellyfishes and corals. Anemones belong to the
+[Class Anthozoa](../anthozoa.md)
+that includes
+[cerianthids](../others/ceriantharia/ceriantharia.md)
+and
+[hard corals](../coralhard/coralhard.md)
+. There are about 1,350 known species of anemones. They are found from deep to shallow waters, attached to hard surfaces or burrowing into the ground.
 
+**Features:**
+Most anemones are small, from 1.5-10cm long and 1-5cm in diameter. But some can be 50cm in diameter or more! Unlike hard corals which are colonies of small polyps connected to one another that produce a hard skeleton, anemones are larger solitary polyps that don't produce a hard skeleton. Like jellyfish and other cnidarians, anemones have tentacles with stingers. What we first notice of the anemone is a broad, flat disk. This is called the oral disk because that is where the mouth is, at the centre of disk. The mouth is usually a slit. Anemones don't have teeth.
 
-**Anemone
-Babies:** Most anemones are hermaphrodites,
-but act as one gender at any one time. That is, they produce either
-sperm or eggs during one reproductive period. Fertilisation may be
-external, or the eggs may be fertilised inside the anemone. The eggs
-develop into free-swimming larvae that eventually settle to the bottom
-and develop tentacles.   
-  
-Some anemones can reproduce asexually by detaching a portion of
-their body, such as the pedal disk, or even by dividing into two.
-The detached portion eventually grows into new anemones. The [Swimming anemone](boloceroididae.htm) can regenerate a new anemone from a dropped tentacle.
-But not all anemones do this, so please don't mutilate anemones.  
-  
-**Human Uses:** Unfortunately, these
-beautiful creatures are popular in the live aquarium trade and many
-are harvested from the wild for this trade. Studies of their fascinating
-structures have medical applications, such as the use of their stingers
-to [inject
-substances through human skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html).  
-  
-**Status and threats:** A few of our
-anemones are listed among the endangered animals of Singapore.
-Llike other animals harvested for the live aquarium trade,
-most die before they can reach the retailers. Without professional
-care, most die soon after they are sold. Those that do survive are
-unlikely to breed successfully. Like other creatures of the intertidal
-zone, they are affected by human activities such as reclamation and
-pollution. Trampling by careless visitors, and over-collection also
-have an impact on local populations.
+**Stingers!**
+The upper side of the oral disk is usually covered with lots of hollow tentacles. The tentacles are armed with stingers that are used for feeding and self-defence.
+****
+Many anemones have nematocysts or stingers that can inject toxins. They may also have a kind of stinger that produces a long adhesive thread (called spirocysts). These make the tentacles sticky and are used to entangle hard-bodied prey such as crabs that may blunder into them. Stingers are concentrated on the tentacles.
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**Getting a grip:**
+Most anemones don't move around a lot. Anemones also have a long smooth body column. The other end of the body column may end in a flat muscular pedal disk that attaches to a hard surface. Some anemones can move slowly by gliding on the pedal disk. The
+[Swimming anemone](boloceroididae.md)
+can indeed swim, but can also cling in place with its pedal disk.
+
+Many anemones burrow in sand, mud or crevices in rocks or coral rubble. These may have a bulbous tip at the end of the body column that helps them dig down and stay anchored. Part or most of the body column may be buried or hidden. The body column may have bumps or spots (called verrucae). In some, these are sticky, to help the animal grip the surroundings where it is buried, or to keep the oral disk spread out, flat against a hard surface.
+
+In most anemones, the body column can retract towards the base to hide from predators or minimise exposure at low tide. Most can also tuck their tentacles and oral disk into the body column. When small anemones do this, they look like beads of jelly. Others can simply retract their entire bodies into a hole, crevice or into the sand. This is usually done by expelling fluids so that the tentacles and body deflate like balloons. To inflate again, anemones have special body structures to pump in and retain water.
+
+{% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
+[soft corals](../coralsoft/coralsoft.md)
+. Some large anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on
+[how to tell apart large soft cnidarians](../cflargecnidarians.md)
+on the shore.
+
+Some animals look like anemones but are not, e.g.,
+[cerianthids](../others/ceriantharia/ceriantharia.md)
+,
+[corallimorphs](../others/corallimorphs/corallimorph.md)
+and
+[zoanthids](../others/zoanthid/zoanthid.md)
+. Here's more on
+[how to tell apart animals with a ring of smooth tentacles](../cfringtentacles.md)
+.
+
+{% include img-wrap-group.html items=page.galleries.gallery4 %}**What do they eat?**
+Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water.
+Larger anemones can capture and swallow prey such as fishes whole. Anemones have
+[stingers like other cnidarians](../cnidaria.md)
+. Prey is captured and immobilised with these stingers. Tentacles may push larger prey into the central mouth. The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed. The mouth and body column can expand wide to accommodate the prey whole. Or the anemone may fold its oral disk over the prey. Like other cnidarians, the anemone lacks an anus. So it has to spit out any indigestible bits through the mouth.
+
+**Farm in their arms:**
+Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) in their tentacles. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give anemone tentacles their brown or greenish tinge.
+
+**Anemone friends:**
+Some anemones may live with other animals such as
+[hermit crabs](hermitsmall.md)
+and
+[living snails](snail.md)
+. Other animals have adapted to live among the tentacles of anemones. The
+[Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion.md)
+(
+*Amphiprion*
+sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include
+[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae.md)
+(
+*Periclimenes*
+sp.).
+
+**Should I 'save' animals trapped in an anemone?**
+Please don't. If you do, you will be depriving the anemone of a meal. It might not get so lucky again for a while. The animal that you 'saved' might also not survive if it was badly stung by the anemone.
+
+**Should I feed the anemones?**
+Please don't. Anemones know how to feed themselves. You might hurt the anemone if you put the wrong thing on it, for example a toxic animal. If you put another living animal on an anemone you will be hurting two animals. Please don't put objects such as litter or dead crabs on an anemone either.
+
+{% include img-wrap-group.html items=page.galleries.gallery5 %}**Anemone Babies:**
+Most anemones are hermaphrodites, but act as one gender at any one time. That is, they produce either sperm or eggs during one reproductive period. Fertilisation may be external, or the eggs may be fertilised inside the anemone. The eggs develop into free-swimming larvae that eventually settle to the bottom and develop tentacles.
+
+Some anemones can reproduce asexually by detaching a portion of their body, such as the pedal disk, or even by dividing into two. The detached portion eventually grows into new anemones.
+The
+[Swimming anemone](boloceroididae.md)
+can regenerate a new anemone from a dropped tentacle. But not all anemones do this, so please don't mutilate anemones.
+
+**Human Uses:**
+Unfortunately, these beautiful creatures are popular in the live aquarium trade and many are harvested from the wild for this trade. Studies of their fascinating structures have medical applications, such as the use of their stingers to
+[inject substances through human skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)
+.
+
+**Status and threats:**
+A few of our anemones are listed among the endangered animals of Singapore. Llike other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
 ---
 
-****Order
-Actiniaria recorded for Singapore**  
-[text index](../cnidariaindex.htm) and [photo
-index](../anemonefi1.htm) of sea anemones seen on Singapore shores**  Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.  
-  
-Anemones listed in the Red Data Book 2024 which are NOT on this website  
- 
-**Family
-Actiniidae**
- 
- *Gyractis excavata*
-  
- 
-**Family
-Edwardsiidae** 
- 
-*Edwardsianthus pudicus   
+****Order Actiniaria recorded for Singapore**
+
+[text index](../cnidariaindex.md)
+and
+[photo index](../anemonefi1.md)
+of sea anemones seen on Singapore shores**
+**
+Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+Anemones listed in the Red Data Book 2024 which are NOT on this website
+
+**Family Actiniidae**
+
+*Gyractis excavata*
+
+**Family Edwardsiidae**
+
+*Edwardsianthus pudicus
+
 Scolanthus armatus*
-  
- 
-**Family
-Heteranthidae**
- 
+
+**Family Heteranthidae**
+
 *Heteranthus verruculatus*
-  
- 
-**Family
-Thalassianthidae**
- 
-*Thalassianthus* sp.
+
+**Family Thalassianthidae**
+
+*Thalassianthus*
+sp.
 
 ---
-
-
-
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery6 %}

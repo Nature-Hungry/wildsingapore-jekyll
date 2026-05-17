@@ -17,69 +17,52 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
 updated: Jul 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
-  caption: |
-    <p>Changi, Jun 13</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg
-  caption: |
-    <p>Muscular foot with operculum.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg
-  caption: |
-    <p>Scavenging on something dead?</p>
-    <p>Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160587839917906&set=a.10160587835882906">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg
-  caption: |
-    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg
-  caption: |
-    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157485865148660&set=a.10157485864973660">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg
-  caption: |
-    <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706823983158&set=a.10158706826698158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg
-  caption: |
-    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625857423158&set=a.10158625872343158">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg
-  caption: |
-    <p>Changi, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157519439248660&set=a.10157519442258660&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg
-  caption: |
-    <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914551643158&set=a.10155914547808158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg
-  caption: |
-    <p>Changi Lost Coast, Jun 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159804110727906&set=a.10159804107292906">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg"
+      caption: "Changi, Jun 13"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg"
+      caption: Muscular foot with operculum.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg"
+      caption: "Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg"
+      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg"
+      caption: "Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg"
+      caption: "Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg"
+      caption: "Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg"
+      caption: "Changi, Jul 20 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg"
+      caption: "Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg"
+      caption: "Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook ."
 ---
 
-## Where seen?
- This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.  
-  
-## Features
- 4-6cm. Shell thick,
-conical, smooth with distinctive spiral. Shell colour and pattern
-variable, from plain brown to white with orange or brown spots. There
-is notch at the tip of the shell where the long siphon emerges. Operculum
-thin and flexible, made of a horn-like material. Body pale, with a
-long muscular foot that is dark with an orange rim, short tentacles
-and long siphon.
- 
+**Where seen?**
+This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.
 
-
-
+**Features:**
+4-6cm. Shell thick, conical, smooth with distinctive spiral. Shell colour and pattern variable, from plain brown to white with orange or brown spots. There is notch at the tip of the shell where the long siphon emerges. Operculum thin and flexible, made of a horn-like material. Body pale, with a long muscular foot that is dark with an orange rim, short tentacles and long siphon.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Spiral
-babylonia snails on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Spiral babylonia snails on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&view_all=1&text=Babylonia spirata) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&view_all=1&text=Babylonia spirata)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Babylonia%2520spirata/map?&fLat=1.264&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -87,35 +70,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
 **References**
 
-- Siong Kiat
-  Tan and Martyn E. Y Low. 14 August 2013. *First
-  record of Babylonia spirata (Linnaeus) in Singapore, with notes
-  on congeners in the local seafood trade (Mollusca: Gastropoda:
-  Babyloniidae)*. Raffles Museum of Biodiversity Research, National
-  University of Singapore Nature in Singapore 2013 6: 191-195
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+- Siong Kiat Tan and Martyn E. Y Low. 14 August 2013.
+*First record of Babylonia spirata (Linnaeus) in Singapore, with notes on congeners in the local seafood trade (Mollusca: Gastropoda: Babyloniidae)*
+. Raffles Museum of Biodiversity Research, National University of Singapore Nature in Singapore 2013 6: 191-195

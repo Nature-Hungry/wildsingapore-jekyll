@@ -25,151 +25,108 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 2016
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
-  caption: |
-    <p>Pulau Sekudu, Jul 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg
-  caption: |
-    <p>White rounded 'caps' at the tips.</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg
-  caption: |
-    <p>Loose bunches growing among seagrasses.</p>
-    <p>Changi, Apr 12</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
-  caption: |
-    <p>Growing on an abandoned rope.</p>
-    <p>Changi, May 11</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
-  caption: |
-    <p>Loose tangles growing among seagrasses.</p>
-    <p>Cyrene Reef, Apr 08</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg
-  caption: |
-    <p>Chek Jawa, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg
-  caption: |
-    <p>Labrador, Jun 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg
-  caption: |
-    <p>Sentosa, Jul 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3b.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg"
+      caption: "Loose bunches growing among seagrasses. Changi, Apr 12"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg"
+      caption: "Growing on an abandoned rope. Changi, May 11"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg"
+      caption: "Loose tangles growing among seagrasses. Cyrene Reef, Apr 08"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg"
+      caption: "Chek Jawa, May 05"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg"
+      caption: "Labrador, Jun 05"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg"
+      caption: "Sentosa, Jul 05"
 links_references: |
   **Links**
-  - [*Jania*](http://www.algaebase.org/search/genus/detail/?genus_id=S9179393d6e18098f&-session=abv4:3BBD37D318d53140DFOr35D3FFEA) on [AlgaeBase](http://www.algaebase.org/): Technical fact
-    sheet.
+  - [*Jania*](http://www.algaebase.org/search/genus/detail/?genus_id=S9179393d6e18098f&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
+  on
+  [AlgaeBase](http://www.algaebase.org/)
+  : Technical fact sheet.
+  
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng, *A photographic guide to the marine algae of Singapore*, 2015. Tropical Marine Science Institute, 201 pp.
-  - Pham, M.
-    N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [A
-    Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf), 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-    Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
-  - Huisman,
-    John M. 2000. *Marine
-    Plants of Australia* University of Western Australia Press. 300pp.
-  - Calumpong,
-    H. P. & Menez, E. G., 1997.*Field
-    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-    Bookmark, Inc., the Philippines. 197 pp.
-  - Trono, Gavino.
-    C. Jr., 1997. *Field
-    Guide and Atlas of the Seaweed Resources of the Philippines.*.
-    Bookmark, Inc., the Philippines. 306 pp.
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+  *A photographic guide to the marine algae of Singapore*
+  , 2015. Tropical Marine Science Institute, 201 pp.
+  - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  - Huisman, John M. 2000.
+  *Marine Plants of Australia*
+  University of Western Australia Press. 300pp.
+  - Calumpong, H. P. & Menez, E. G., 1997.
+  *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+  . Bookmark, Inc., the Philippines. 197 pp.
+  - Trono, Gavino. C. Jr., 1997.
+  *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+  . Bookmark, Inc., the Philippines. 306 pp.
 ---
 
-## Where seen?
+**Where seen?**
+These pinkish crunchy pom-poms are seen on both our Northern and Southern shores, growing in clusters on rubble near living reefs, densely on abandoned ropes, sometimes a tangled layer among seagrasses forming a crunchy carpet that covers a large area. Smaller
+*Jania*
+species may grow on seagrasses and seaweeds.
 
-These pinkish crunchy pom-poms are seen on both our Northern and
-Southern shores, growing in clusters on rubble near living reefs,
-densely on abandoned ropes, sometimes a tangled layer among seagrasses
-forming a crunchy carpet that covers a large area. Smaller *Jania*
-species may grow on seagrasses and seaweeds.  
-  
-## Features
- A cluster (3-6cm)
-of many stiff, slender, cylindrical 'stems' that are regularly branched.
-The 'stem' tips often with a white rounded 'cap'. The cluster may
-be a spherical bushy shape densely packed or rather loose. The seaweed
-incorporates calcium carbonate making the 'stems' hard and brittle.
-Colours pink, dark pink and purple.  
-  
-Besides *Jania* species, seaweed recorded for Singapore that look like Slender crunchy pom-pom
-red seaweeds include *Amphiroa fragilissima.*  
-  
-**May be confused with** other [pinkish seaweeds with a pom
-pom shape.](pompom)
+**Features:**
+A cluster (3-6cm) of many stiff, slender, cylindrical 'stems' that are regularly branched. The 'stem' tips often with a white rounded 'cap'. The cluster may be a spherical bushy shape densely packed or rather loose. The seaweed incorporates calcium carbonate making the 'stems' hard and brittle. Colours pink, dark pink and purple.
 
- 
+Besides
+*Jania*
+species, seaweed recorded for Singapore that look like Slender crunchy pom-pom red seaweeds include
+*Amphiroa fragilissima.*
 
+**May be confused with**
+other
+[pinkish seaweeds with a pom pom shape.](pompom.md)
 
+*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg)
 
+Pulau Sekudu, Jul 09
 
+![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg)*
+White rounded 'caps' at the tips.
+
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
+**Seaweed species are difficult to positively identify without microscopic examination.
 
-
-
-  
-*\*Seaweed species
-are difficult to positively identify without microscopic examination.   
-On this website, they are grouped by external features for convenience
-of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Slender
-crunchy pom-pom red seaweeds on Singapore shores**
+**Slender crunchy pom-pom red seaweeds on Singapore shores**
 
 ---
 
-Photos of [Slender crunchy pom-pom red seaweeds](https://www.flickr.com/search/?q=Slender+crunchy+pom+pom+red+seaweed&w=54527470%40N00&s=rec) for
-free download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
+Photos of
+[Slender crunchy pom-pom red seaweeds](https://www.flickr.com/search/?q=Slender+crunchy+pom+pom+red+seaweed&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Slender%2520crunchy%2520pom%2520pom%2520red%2520seaweed/map?&fLat=1.2629&fLon=103.864&zl=11&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Slender%2520crunchy%2520pom%2520pom%2520red%2520seaweed/map?&fLat=1.2629&fLon=103.864&zl=11&order_by=recent)
 
 ---
 
-***Jania* recorded for Singapore** Pham, M. N.,
-H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. *A Checklist of
-the Algae of Singapore*.  
-  
- 
- *Jania adhaerens   
-Jania capillacea   
+***Jania*
+recorded for Singapore**
+**
+Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+*A Checklist of the Algae of Singapore*
+.
+
+*Jania adhaerens
+
+Jania capillacea
+
 Jania verrucosa*
 
 ---
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of  
-[red
-seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

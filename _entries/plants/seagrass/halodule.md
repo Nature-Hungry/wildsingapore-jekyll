@@ -24,175 +24,123 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 rdb: VU
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg
-  caption: |
-    <p>Large stretches of Halodule.</p>
-    <p>Changi, Apr 10</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg
-  caption: |
-    <p>Halodule with very broad blades.</p>
-    <p>Sentosa, Jun 07</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg
-  caption: |
-    <p>Chek Jawa, Jun 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
-  caption: |
-    <p>Long skinnyHalodule.</p>
-    <p>Chek Jawa, Aug 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg
-  caption: |
-    <p>Long broad Halodule.</p>
-    <p>Sentosa, Jun 07</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg
-  caption: |
-    <p>Short skinny Halodule.</p>
-    <p>Chek Jawa, Mar 05</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg
-  caption: |
-    <p>Pulau Semakau, May 09</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
-  caption: |
-    <p>Broad Halodule.</p>
-    <p>Cyrene Reefs, Aug 11</p>
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg
-  caption: |-
-    <p>Skinny Halodule.</p>
-    <p>Cyrene Reefs, Aug 11</p>
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: "if you learn only 3 things about them ... Identified by prominent central mid-rib vein. It deson't flower frequently, and the flowers are small. It is eaten by dugongs."
+    - url: "http://www.wildsingapore.com/photos/bullet.gif"
+      caption: "Identified by prominent central mid-rib vein. It deson't flower frequently, and the flowers are small. It is eaten by dugongs."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg"
+      caption: "Long skinny Halodule. Chek Jawa, Aug 05"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg"
+      caption: "Long broad Halodule. Sentosa, Jun 07"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg"
+      caption: "Short skinny Halodule. Chek Jawa, Mar 05"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg"
+      caption: "Pulau Semakau, May 09"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg"
+      caption: "Broad Halodule. Cyrene Reefs, Aug 11"
+    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg"
+      caption: "Skinny Halodule. Cyrene Reefs, Aug 11"
 links_references: |
-  **Links**  
-  - McKenzie,
-    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-    Proceedings of a training workshop, National Parks Board, Biodiversity
-    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-  - [Identifying
-    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-  - [Fruits
-    of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32l) on the CRC Reef Research
-    Centre website: brief introduction to the ways seagrasses reproduce
-    and re-establish themselves if affected by natural disturbances,
-    and how *Halodule uninervis* 'stores' its seeds in the sediments.
+  **Links**
+  - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
+  *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
+  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+  on the Seagrass-Watch website.
+  - [Fruits of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32.html)
+  on the CRC Reef Research Centre website: brief introduction to the ways seagrasses reproduce and re-establish themselves if affected by natural disturbances, and how
+  *Halodule uninervis*
+  'stores' its seeds in the sediments.
+  
   **References**
-  - Waycott,
-    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-  - Calumpong,
-    H. P. & Menez, E. G., 1997.*Field
-    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-    Bookmark, Inc., the Philippines. 197 pp.
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *The
-    Concise Flora of Singapore II: Monoctyledons*
-    Singapore University Press. 215 pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
+  - Waycott, Michelle (et. al). 2004.
+  *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+  2004. James Cook University. 72 pp.
+  - Calumpong, H. P. & Menez, E. G., 1997.
+  *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+  . Bookmark, Inc., the Philippines. 197 pp.
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+  *The Concise Flora of Singapore II: Monoctyledons*
+  Singapore University Press. 215 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+  . Nature Society (Singapore). 285 pp.
 ---
 
-if you
-learn only 3 things about them ...  
-![](../../photos/bullet.gif)
-Identified by prominent central mid-rib vein.  
-![](../../photos/bullet.gif)
-It deson't flower frequently, and the flowers are small.  
-![](../../photos/bullet.gif)It
-is eaten by dugongs.
-  
-## Where seen?
-  This thin flat needle-like
-seagrass is sometimes seen on some of our shores, often mixed with
-other seagrasses. But luxuriant growths are more commonly seen on
-large natural shores such as Chek Jawa, where it is commonly found
-on the seaward side of the sand bars. The [preliminary
-results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halodule%20uninervis) shows it is widely distributed
-in the seagrass lagoon there.   
-  
-Needle seagrass is found throughout tropical Indo-West Pacific. It
-grows well in areas with high disturbance and plays a key role in
-stabilising the sediments with its mat of rhizomes and fibrous roots.
-  
-  
-## Features
-Needle seagrass
-is common on all our shores, especially on the edges of the sand bars
-towards the low water mark. The leaves may be short to very long.
-The leaves have three parallel veins which can be quite distinct.
-In most, the central mid-rib vein is quite prominent. The leaves emerge
-from thin rhizomes (underground stems) which have fine roots. *Halodule
-uninervis* has narrow leaves (0.1-0.3cm), 3-15cm long. These have
-a tip with two or three points. Sometimes those with broad leaves
-(1cm) are seen. *Halodule pinifolia* is said to be differentiated
-from *H. uninervis* by a single blunt rounded end, but a single
-rhizome may have leaves with one, two or three points. This confusion
-suggests the two are not actually separate species.  
-  
-**Sometimes confused with** other
-ribbon-like seagrasses. Here's more on [how
-to tell apart ribbon-like seagrasses](cfribbon).   
-  
-**Flowers and fruits:** Needle seagrass
-has separate male and female plants. The flowers are tiny, usually
-forming at the base of the leaf sheath, buried in the sediment and
-emerging only for a short period. It produces seeds with a hard seed
-coat. Needle seagrass has an unusual way of releasing its seeds directly
-into the sediments so the seeds are not washed away by the currents.
-Studies suggest the seeds can remain dormant for some time. In this
-way, the seeds may help re-establish the species if the parent plants
-are destroyed by some natural disturbance. However, needle seagrass
-tends to spread more by vegetative growth than through its seeds.  
-  
-**Role in the habitat:** Although
-tiny, needle seagrass grows rapidly and densely from its underground
-stems. Forming a mat, it traps, builds up, and stabilises sediments.
-This allows other seagrasses to establish themselves and provides
-a more stable environment for burrowing creatures. Needle seagrass
-is also one of the seagrasses preferred by dugongs.   
-  
-**Status and threats:** *Halodule
-pinifolia* is listed as 'Critically Endangered' while *Halodule
-uninervis* is listed as 'Vulnerable' on the Red List of threatened
-plants of Singapore.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
- 
-  
-  
+**Where seen?**
+This thin flat needle-like seagrass is sometimes seen on some of our shores, often mixed with other seagrasses. But luxuriant growths are more commonly seen on large natural shores such as Chek Jawa, where it is commonly found on the seaward side of the sand bars. The
+[preliminary results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halodule%20uninervis.md)
+shows it is widely distributed in the seagrass lagoon there.
 
+Needle seagrass is found throughout tropical Indo-West Pacific. It grows well in areas with high disturbance and plays a key role in stabilising the sediments with its mat of rhizomes and fibrous roots.
 
+**Features:**
+**
+Needle seagrass is common on all our shores, especially on the edges of the sand bars towards the low water mark. The leaves may be short to very long. The leaves have three parallel veins which can be quite distinct. In most, the central mid-rib vein is quite prominent. The leaves emerge from thin rhizomes (underground stems) which have fine roots.
+*Halodule uninervis*
+has narrow leaves (0.1-0.3cm), 3-15cm long. These have a tip with two or three points. Sometimes those with broad leaves (1cm) are seen.
+*Halodule pinifolia*
+is said to be differentiated from
+*H. uninervis*
+by a single blunt rounded end, but a single rhizome may have leaves with one, two or three points. This confusion suggests the two are not actually separate species.
 
+**Sometimes confused with**
+other ribbon-like seagrasses. Here's more on
+[how to tell apart ribbon-like seagrasses](cfribbon.md)
+.
 
+**Flowers and fruits:**
+Needle seagrass has separate male and female plants. The flowers are tiny, usually forming at the base of the leaf sheath, buried in the sediment and emerging only for a short period. It produces seeds with a hard seed coat. Needle seagrass has an unusual way of releasing its seeds directly into the sediments so the seeds are not washed away by the currents. Studies suggest the seeds can remain dormant for some time. In this way, the seeds may help re-establish the species if the parent plants are destroyed by some natural disturbance. However, needle seagrass tends to spread more by vegetative growth than through its seeds.
 
+**Role in the habitat:**
+Although tiny, needle seagrass grows rapidly and densely from its underground stems. Forming a mat, it traps, builds up, and stabilises sediments. This allows other seagrasses to establish themselves and provides a more stable environment for burrowing creatures. Needle seagrass is also one of the seagrasses preferred by dugongs.
 
+**Status and threats:**
+*Halodule pinifolia*
+is listed as 'Critically Endangered' while
+*Halodule uninervis*
+is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
+
+![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg)
+
+Large stretches of
+*Halodule.
+
+Changi, Apr 10*
+
+![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg)
+
+*Halodule*
+with very broad blades.
+*Sentosa, Jun 07*
+
+![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg)
+
+*Chek Jawa, Jun 05*
+
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 ---
 
-**Needle
-seagrass on Singapore shores**
+**Needle seagrass on Singapore shores**
 
 ---
 
-Photos of [Needle seagrass](https://www.flickr.com/search/?q=Halodule&w=54527470%40N00&s=rec) for free
-download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
+Photos of
+[Needle seagrass](https://www.flickr.com/search/?q=Halodule&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/halodule%252C%2520/map?&fLat=1.2959&fLon=103.8764&zl=11&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/halodule%252C%2520/map?&fLat=1.2959&fLon=103.8764&zl=11&order_by=recent)
 
 ---
-
-
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of  
-[seagrasses](http://www.flickr.com/photos/54527470@N00/sets/72157600000714159).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-**You CAN make a difference for Singapore's
-seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)

@@ -12,64 +12,34 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3a.jpg
-  caption: |
-    <p>On <a href="../../../plants/seagrass/enhalus">Tape seagrass</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3a.jpg
-  caption: |
-    <p>On <a href="../../../plants/seagrass/enhalus">Tape seagrass</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3a.jpg
-  caption: |
-    <p>On <a href="../../../plants/seagrass/ovalis">Spoon seagrass</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg"
+      caption: "Pulau Semakau, Dec 08 On Tape seagrass ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg"
+      caption: "Pulau Hantu, Feb 08 On Tape seagrass ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg"
+      caption: "Changi, Oct 10 On Spoon seagrass ."
 ---
 
-## Where seen?
- Tiny feathery creatures that grow on the leaf blades
-of seagrasses.  
-  
-## Features
- 0.5cm long or shorter.
-Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
+**Where seen?**
+Tiny feathery creatures that grow on the leaf blades of seagrasses.
 
- 
+**Features:**
+0.5cm long or shorter. Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Species are difficult to positively identify without close examination.
 
-
-
-*\*Species are difficult
-to positively identify without close examination.  
-On this website, the animals are grouped by external features for convenience
-of display.*
+On this website, the animals are grouped by external features for convenience of display.*
 
 ---
 
-**Seagrass
-hydroids on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Seagrass hydroids on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Seagrass hydroids) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Seagrass hydroids)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/seagrass%2520hydroid/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

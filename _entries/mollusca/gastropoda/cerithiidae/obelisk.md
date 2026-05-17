@@ -18,116 +18,91 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
-  caption: |
-    <p>Sentosa, Oct 08</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
-  caption: |
-    <p>St.</p>
-    <p>John's Island, Sep 07</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
-  caption: |
-    <p>Mating?</p>
-    <p>Sisters Island, May 07</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
-  caption: |
-    <p>Labrador, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152768654323158.1073741860.547198157&type=1">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
-  caption: |
-    <p>St John's Island, Oct 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162128558571295&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
-  caption: |
-    <p>Small Sisters Island, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173350275700112&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
-  caption: |
-    <p>Big Sisters Island, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.918105007372907">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
-  caption: |
-    <p>Terumbu Selegie, Jan 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154977119278158&set=a.10154977116448158.1073741932.547198157&type=3&l=cda22f1c8c&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
-  caption: |
-    <p>Terumbu Hantu, Jul 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158582880833119&set=a.10158582872123119&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
-  caption: |
-    <p>Cyrene, Feb 26Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163627378368654&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
-  caption: |
-    <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407096328713&set=a.10159407302613713">facebook</a>..</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
-  caption: |
-    <p>Pulau Biola, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4232299965/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
+      caption: "Sentosa, Oct 08"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg"
+      caption: "St. John's Island, Sep 07"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg"
+      caption: "Mating? Sisters Island, May 07"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg"
+      caption: "Labrador, Oct 14 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg"
+      caption: "St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg"
+      caption: ""
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg"
+      caption: "Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg"
+      caption: "Big Sisters Island, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg"
+      caption: "Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg"
+      caption: "Terumbu Hantu, Jul 20 Photo shared by Jonathan Tan on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg"
+      caption: "Cyrene, Feb 26 Photo shared by Che Cheng Neo on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg"
+      caption: "Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg"
+      caption: "Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
 links_references: |
   **Links**
-  - [Obelisk
-    vertagus (*Rhinoclavis sinensis*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis) in SeaLife Base: Technical
-    fact sheet.
-  - Family
-    Cerithiidae in
-    the Gastropods section by J.M. Poutiers in the FAO Species Identification
-    Guide for Fishery Purposes: The Living Marine Resources of the
-    Western Central Pacific [Volume
-    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-    Agriculture Organization of the United Nations (FAO) website.
+  - [Obelisk vertagus (
+  *Rhinoclavis sinensis*
+  )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis)
+  in SeaLife Base: Technical fact sheet.
+  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
+  
   **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Abbott, R.
-    Tucker, 1991. *Seashells
-    of South East Asia*.
-    Graham Brash, Singapore. 145 pp.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Abbott, R. Tucker, 1991.
+  *Seashells of South East Asia*
+  . Graham Brash, Singapore. 145 pp.
 ---
 
-## Where seen?
- This large creeper snail with an elegant shell is commonly seen on
-our Southern shores. Often seen burrowing in sandy
-areas near reefs, or found among seaweeds on coral rubble near reefs.
-Usually alone, or a few individuals. So far not seen in gatherings of large numbers like other common Creeper snails. Elsewhere, they are seen on reef flats, sandy and coral rubble bottoms and lagoons.  
-  
-## Features
-3-7cm long. Shell
-conical with a pattern of white spiralling large notched bumps with
-fine ridges of dashed dots in between. Shell opening large with flared
-lip and upturned spout at tip. Operculum made out of a horn-like material,
-whorls not easily seen. Animal with mottled body.  
-  
-They are preyed upon by other snails such as [Drills](../muricidae/muricidae.htm) as well as by crabs.  
-  
-**Human uses:** Where they are abundant,
-they may be collected for food and for their shell.
+**Where seen?**
+This large creeper snail with an elegant shell is commonly seen on our Southern shores. Often seen burrowing in sandy areas near reefs, or found among seaweeds on coral rubble near reefs. Usually alone, or a few individuals. So far not seen in gatherings of large numbers like other common Creeper snails. Elsewhere, they are seen on reef flats, sandy and coral rubble bottoms and lagoons.
 
- 
+**Features:**
+****
+3-7cm long. Shell conical with a pattern of white spiralling large notched bumps with fine ridges of dashed dots in between. Shell opening large with flared lip and upturned spout at tip. Operculum made out of a horn-like material, whorls not easily seen. Animal with mottled body.
 
+They are preyed upon by other snails such as
+[Drills](../muricidae/muricidae.md)
+as well as by crabs.
 
+**Human uses:**
+Where they are abundant, they may be collected for food and for their shell.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**Species are difficult to positively identify without close examination.
 
-
-
- *\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Obelisk
-creeper snails on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Obelisk creeper snails on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Rhinoclavis sinensis) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Rhinoclavis sinensis)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Rhinoclavis%2520sinensis/map?&fLat=1.206&fLon=103.853&zl=11&order_by=recent)
 
 ---
@@ -135,35 +110,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

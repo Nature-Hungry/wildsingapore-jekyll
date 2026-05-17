@@ -23,57 +23,52 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
-  caption: |
-    <p>Large head, small eyes, pectoral fins.</p>
-    <p>Pasir Ris Park, Dec 12</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg
-  caption: |
-    <p>Pasir Ris Park, Dec 12</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg
-  caption: |
-    <p>Chek Jawa, Dec 19Photo shared by Adrianne Lee on <a href="https://www.facebook.com/photo.php?fbid=10157016714053693&set=a.10157016713653693&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg
-  caption: |
-    <p>Changi, May 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155349694313158&set=pcb.10155349682483158&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg
-  caption: |
-    <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg
-  caption: |
-    <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg"
+      caption: "Large head, small eyes, pectoral fins. Pasir Ris Park, Dec 12"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg"
+      caption: "Pasir Ris Park, Dec 12"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg"
+      caption: "Chek Jawa, Dec 19 Photo shared by Adrianne Lee on facebook ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg"
+      caption: "Changi, May 17 Photo shared by Loh Kok Sheng on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg"
+      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg"
+      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
 ---
 
-## Where seen?
- This large snake-like fish is sometimes seen foraging in shallow water of the incoming tide
-in the mangroves at Pasir Ris at night. One was seen on Chek Jawa seagrass meadows during daylight emerging from a burrow. Others seen on seagrass meadows on the Northern shores.  
-  
-## Features
- About 30cm long. A long
-tubular body pale with a dark stripe along the length at the top.
-A pair of small rounded pectoral fins. Head large, with small eyes
-near the tip of the head. It has a pointed tail. Body pattern uniform, those seen were bluish or pinkish grey, beige and yellow. The dorsal fin dark, forming a dark strip along the body length.  
-  
-**Sometimes mistaken for** [worms](../../../worm/worm.htm) or [sea snakes](../../snakes/hydrophiidae/laticauda.htm).
-Here's more on [how to tell
-apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
- 
+**Where seen?**
+This large snake-like fish is sometimes seen foraging in shallow water of the incoming tide in the mangroves at Pasir Ris at night. One was seen on Chek Jawa seagrass meadows during daylight emerging from a burrow. Others seen on seagrass meadows on the Northern shores.
 
+**Features:**
+About 30cm long. A long tubular body pale with a dark stripe along the length at the top. A pair of small rounded pectoral fins. Head large, with small eyes near the tip of the head. It has a pointed tail. Body pattern uniform, those seen were bluish or pinkish grey, beige and yellow. The dorsal fin dark, forming a dark strip along the body length.
+
+**Sometimes mistaken for**
+[worms](../../../worm/worm.md)
+or
+[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+. Here's more on
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Mangrove
-snake-eels on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Mangrove snake-eels on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-taken-desc&safe_search=3&view_all=1&text=Mangrove snake eel) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-taken-desc&safe_search=3&view_all=1&text=Mangrove snake eel)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Mangrove%2520snake%2520eel/map?&fLat=1.2622&fLon=103.8653&zl=11&order_by=recent)
 
 ---
@@ -81,26 +76,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 ---
-
-
-
-  
-
----
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery4 %}

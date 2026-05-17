@@ -24,47 +24,42 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
-  caption: |
-    <p>Cyrene Reef, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154911219433660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
-  caption: |
-    <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484931383713&set=a.10159484959768713">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg"
+      caption: "Cyrene Reef, Oct 17 Photo shared by Marcus Ng on facebook ."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg"
+      caption: "Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook ."
 links_references: |
-   **Links**  
-  - [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.fishbase.org/summary/8406) on SeaLife Base: technical fact sheet.
-  - [White-patch tuskfish (*Choerodon oligacanthus*)](http://www.iucnredlist.org/details/187568/0)
-    on the IUCN Red List.
-  **References**
-  - Marcus F. C. Ng. 31 Oct 2017. *Singapore tuskfish at Cyrene Reef* Singapore Biodiversity Records 2017: 147
----
-
-## Where seen?
- This large fish was seen at Cyrene Reef. Elsewhere,
-they are usually seen in sand-rubble next to coastal reefs, usually in turbulent water with muddy substrates. It is also called the
-White-patch tuskfish.  
+  **Links**
+  - [White-patch tuskfish (
+  *Choerodon oligacanthus*
+  )](http://www.fishbase.org/summary/8406)
+  on SeaLife Base: technical fact sheet.
+  - [White-patch tuskfish (
+  *Choerodon oligacanthus*
+  )](http://www.iucnredlist.org/details/187568/0)
+  on the IUCN Red List.
   
-## Features
- To 28cm. It has bluish stripes on the lower sides of its body and does NOT have a black spot on the middle of its dorsal fin. [SeaLife Base](http://www.fishbase.org/summary/8406) describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
- 
-
-
-**Human uses:** It is sold fresh.
-
+  **References**
+  - Marcus F. C. Ng. 31 Oct 2017.
+  *Singapore tuskfish at Cyrene Reef*
+  Singapore Biodiversity Records 2017: 147
 ---
 
+**Where seen?**
+This large fish was seen at Cyrene Reef. Elsewhere, they are usually seen in sand-rubble next to coastal reefs, usually in turbulent water with muddy substrates. It is also called the White-patch tuskfish.
 
+**Features:**
+To 28cm. It has bluish stripes on the lower sides of its body and does NOT have a black spot on the middle of its dorsal fin.
+[SeaLife Base](http://www.fishbase.org/summary/8406)
+describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+**Human uses:**
+It is sold fresh
+.
 
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+---

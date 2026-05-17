@@ -16,86 +16,66 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
-  caption: |
-    <p>Pulau Semakau, Apr 08</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3b.jpg
-  caption: |
-    <p>Fine stripes on outer tentacles.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/160607bblks1.jpg
-  caption: |
-    <p>Beting Bronok, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27710054742/in/album-72157607605004155/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080124sntlks01m3.jpg
-  caption: |
-    <p>Sentosa, Feb 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/01/sentosa-attraction-that-i-go-to.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100711cyrlks1m3.jpg
-  caption: |
-    <p>Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4782242597/">his flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/181027smksjll2.jpg
-  caption: |
-    <p>Pulau Semakau South, Oct 18 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155981327231295&set=a.10155981326811295&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250403smksrk5.jpg
-  caption: |
-    <p>Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/201215smkejll5.jpg
-  caption: |
-    <p>Pulau Semakau (East), Dec 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157925669801295&set=a.10157925700911295">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250727smkwky1.jpg
-  caption: |
-    <p>Pulau Semakau West, Jul 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10172722581570112">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100519tsmjk13m3.jpg
-  caption: |
-    <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/170514bbbrl2.jpg
-  caption: |
-    <p>Beting Bemban Besar, Apr 17Photo shared by Russel Low on <a href="https://www.facebook.com/photo.php?fbid=10154987101001273&set=pcb.10154987102166273&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/200310bbbmn2.jpg
-  caption: |
-    <p>Beting Bemban Besar, Mar 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157132109953660&set=a.10157132104008660&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/251008bbbyls3.jpg
-  caption: |
-    <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/091231biolks9m3.jpg
-  caption: |
-    <p>Pulau Biola, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4233057288/">his flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg"
+      caption: "Pulau Semakau, Apr 08"
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3b.jpg"
+      caption: Fine stripes on outer tentacles.
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg"
+      caption: ""
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/160607bblks1.jpg"
+      caption: "Beting Bronok, Jun 16 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080124sntlks01m3.jpg"
+      caption: "Sentosa, Feb 08 Photo shared by Loh Kok Sheng on his blog ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100711cyrlks1m3.jpg"
+      caption: "Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his flickr ."
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/181027smksjll2.jpg"
+      caption: "Pulau Semakau South, Oct 18 Photo shared by Jianlin Liu on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250403smksrk5.jpg"
+      caption: "Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/201215smkejll5.jpg"
+      caption: "Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250727smkwky1.jpg"
+      caption: "Pulau Semakau West, Jul 25 Photo shared by Kelvin Yong on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100519tsmjk13m3.jpg"
+      caption: "Terumbu Semakau, May 10 Photo shared by James Koh on his blog ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/170514bbbrl2.jpg"
+      caption: "Beting Bemban Besar, Apr 17 Photo shared by Russel Low on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/200310bbbmn2.jpg"
+      caption: "Beting Bemban Besar, Mar 20 Photo shared by Marcus Ng on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/251008bbbyls3.jpg"
+      caption: "Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook ."
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/091231biolks9m3.jpg"
+      caption: "Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
 ---
 
-## Where seen?
- This rather large cerianthid with a dark centre and
-neon inner tentacles is sometimes seen on some of our shores. Among
-coral rubble, near seagrasses.  
-  
-## Features
- 12-15cm in diameter.
-The very long tapering outer tentacles are transparent to pale white or beige.
-In some, the pale outer tentacles have fine darker stripes. The 'mouth'
-is very dark brown to black while the short inner tentacles are usually
-a pale neon green. Body column black.
+**Where seen?**
+This rather large cerianthid with a dark centre and neon inner tentacles is sometimes seen on some of our shores. Among coral rubble, near seagrasses.
 
- 
+**Features:**
+12-15cm in diameter. The very long tapering outer tentacles are transparent to pale white or beige. In some, the pale outer tentacles have fine darker stripes. The 'mouth' is very dark brown to black while the short inner tentacles are usually a pale neon green. Body column black.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
+**Species are difficult to positively identify without close examination.
 
-
-  
-*\*Species are difficult
-to positively identify without close examination.   
-On this website, the animals are grouped by external features for convenience
-of display.*
+On this website, the animals are grouped by external features for convenience of display.*
 
 ---
 
-**Black-mouth
-cerianthids on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Black-mouth cerianthids on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=%22Black-mouth%20cerianthid%22) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=%22Black-mouth%20cerianthid%22)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/%2522Black-mouth%2520cerianthid%2522/map?&fLat=1.1915&fLon=103.8019&zl=13&order_by=recent)
 
 ---
@@ -103,35 +83,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery6 %}

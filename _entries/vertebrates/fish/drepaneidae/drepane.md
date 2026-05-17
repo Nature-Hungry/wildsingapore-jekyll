@@ -20,55 +20,60 @@ phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
 updated: Sep 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
-  caption: |
-    <p>Juvenile.</p>
-    <p>Tanah Merah, Aug 13</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
-  caption: |
-    <p>Spotted sicklefish (Drepane punctata) Adults were among those seen during a mass fish death event.</p>
-    <p>Sungei Buloh Wetland Reserve, Mar 15</p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
-  caption: |
-    <p>Spotted sicklefish (Drepane punctata) Adults removed from fish net Chek Jawa, May 16Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/26591403590/">flickr</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg"
+      caption: "Juvenile. Tanah Merah, Aug 13"
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg"
+      caption: ""
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg"
+      caption: "Spotted sicklefish ( Drepane punctata ) Adults were among those seen during a mass fish death event. Sungei Buloh Wetland Reserve, Mar 15"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg"
+      caption: "Spotted sicklefish ( Drepane punctata ) Adults removed from fish net Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr ."
+links_references: |
+  **Links**
+  - [Spotted Sicklefish (
+  *Drepane punctata*
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327.md)
+  from Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+  . Singapore Science Centre. 163 pp.
+  - [Spotted Sicklefish (
+  *Drepane punctata*
+  )](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=454)
+  from
+  [FishBase](http://www.fishbase.org/)
+  : Technical fact sheet on the family, including fact sheets on the species.
 ---
 
- ## Where seen?
-  A
-juvenile was seen once at Tanah Merah. Adults sometimes seen dead in mass fish death events or trapped in abandoned fish nets.  
-  
-## Features
- Adults usually 25cm,
-to 45cm long. Flat rhomboid body silvery. Juvenile brown with a 'beard'
-under the chin.  
-  
-**Sometimes confused:** Juveniles may be mistaken for [Brown
-sweetlips](../haemulidae/gibbosus).
+**Where seen?**
+A juvenile was seen once at Tanah Merah. Adults sometimes seen dead in mass fish death events or trapped in abandoned fish nets.
 
- 
+**Features:**
+Adults usually 25cm, to 45cm long. Flat rhomboid body silvery. Juvenile brown with a 'beard' under the chin.
 
+**Sometimes confused:**
+Juveniles may be mistaken for
+[Brown sweetlips](../haemulidae/gibbosus.md)
+.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**What does it eat?**
+It eats bottom dwelling animals.
 
-
-**What does it eat?** It eats bottom
-dwelling animals.  
-  
-**Human uses:** It is sometimes sold
-fresh in local markets.
+**Human uses:**
+It is sometimes sold fresh in local markets.
 
 ---
 
-**Sicklefishes
-on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Sicklefishes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?text=Drepane&sort=date-taken-desc&user_id=54527470%40N00) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?text=Drepane&sort=date-taken-desc&user_id=54527470%40N00)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Drepaneidae/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -76,31 +81,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Acknoweldgement**Grateful thanks
-to Kelvin Lim K. P. for identifiying this fish. **Links**  
-
-- [Spotted
-  Sicklefish (*Drepane punctata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327) from Lim, Kelvin K. P.
-  & Jeffrey K. Y. Low, 1998. *[A
-  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
-- [Spotted
-  Sicklefish (*Drepane punctata*)](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=454) from [FishBase](http://www.fishbase.org/):
-  Technical fact sheet on the family, including fact sheets on the
-  species.
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**Acknoweldgement**
+Grateful thanks to Kelvin Lim K. P. for identifiying this fish.

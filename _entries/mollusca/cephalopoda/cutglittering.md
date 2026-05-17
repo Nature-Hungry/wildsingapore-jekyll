@@ -20,63 +20,67 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
-  caption: |
-    <p>Changi, May 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
-  caption: |
-    <p>The same cuttlefish rapidly changing ...</p>
-    <p>Changi, May 06</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
-  caption: |
-    <p>...</p>
-    <p>colours and patterns.</p>
-    <p>Changi, May 06</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
-  caption: |
-    <p>Changi, Sep 18 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744989162284519&set=a.1744988158951286&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
-  caption: |
-    <p>Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10159136902943119&set=pcb.10159136917293119">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+      caption: "Changi, May 05"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg"
+      caption: "The same cuttlefish rapidly changing ... Changi, May 06"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg"
+      caption: "... colours and patterns. Changi, May 06"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg"
+      caption: "Changi, Sep 18 Photo shared by Dayna Cheah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg"
+      caption: "Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on facebook ."
+links_references: |
+  **Links**
+  - [*Sepiella inermis*](http://sealifebase.ca/summary/Sepiella-inermis.html)
+  on SeaLife Base: Technical fact sheet.
+  - [*Sepiella inermis*](http://www.iucnredlist.org/details/162500/0)
+  in IUCN Red List: fact sheet.
+  - [*Sepiella inermis*](ftp://ftp.fao.org/docrep/fao/009/a0150e/a0150e16.pdf)
+  on
+  [Cephalopods of the World](http://www.fao.org/docrep/009/a0150e/a0150e00.HTM)
+  on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 1.
+  - [*Sepiella inermis*](https://wiki.nus.edu.sg/display/TAX/Sepiella+inermis+-+Spineless+cuttlefish)
+  - Spineless cuttlefish by Anya, 02 Jan 2019 on Taxo4254.
+  
+  **References**
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+  *Preliminary Checklist of The Molluscs of Singapore*
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Norman, Mark and Helmut Debelius, 2000.
+  *Cephalopods: A World Guide*
+  . ConchBooks, Germany. 319 pp.
 ---
 
-## Where seen?
- This small stout cuttlefish edged with iridescent
-glittering spots is sometimes seen among seagrasses especially on
-our Northern shores. It is also called the Spineless cuttlefish because
-its cuttlebone lacks a spine at the tip that many other cuttlefishes
-have. 'Inermis' in Latin means 'harmless', 'peaceful'.  
-  
-## Features
- 5-8cm long. Body oval
-with fins all around the edges, with about 7 reddish patches and glittering
-iridescent spots or dashes on each side of the body. Short fat arms.
-Body texture generally smooth and does not form into bumps or pimples.  
-  
-**Glittering babies:** Females, which are usually bigger than males, lay a single
-black globular egg capsule, attaching it to a hard surface.  
-  
-**What does it eat?** The cuttlefish
-hunts fishes, crustaceans and other cephalopods.  
-  
-**Human uses:** The cuttlefish is
-an important commercial seafood harvested by trawls, nets with lights
-at night. There has been efforts to aquaculture this cuttlefish.
- 
+**Where seen?**
+This small stout cuttlefish edged with iridescent glittering spots is sometimes seen among seagrasses especially on our Northern shores. It is also called the Spineless cuttlefish because its cuttlebone lacks a spine at the tip that many other cuttlefishes have. 'Inermis' in Latin means 'harmless', 'peaceful'.
 
+**Features:**
+5-8cm long. Body oval with fins all around the edges, with about 7 reddish patches and glittering iridescent spots or dashes on each side of the body. Short fat arms. Body texture generally smooth and does not form into bumps or pimples.
 
+**Glittering babies:**
+Females, which are usually bigger than males, lay a single black globular egg capsule, attaching it to a hard surface.
+
+**What does it eat?**
+The cuttlefish hunts fishes, crustaceans and other cephalopods.
+
+**Human uses:**
+The cuttlefish is an important commercial seafood harvested by trawls, nets with lights at night. There has been efforts to aquaculture this cuttlefish.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
-**Glittering
-cuttlefishes on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Glittering cuttlefishes on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Sepiella inermis) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Sepiella inermis)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Sepiella%2520inermis/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---
@@ -84,43 +88,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Acknowledgement**Grateful
-thanks to Tay Ywee Chieh for identifying this cuttlefish. **Links**
-
-- [*Sepiella
-  inermis*](http://sealifebase.ca/summary/Sepiella-inermis.html)
-  on SeaLife Base: Technical fact sheet.
-- [*Sepiella inermis*](http://www.iucnredlist.org/details/162500/0) in IUCN Red List: fact sheet.
-- [*Sepiella
-  inermis*](ftp://ftp.fao.org/docrep/fao/009/a0150e/a0150e16.pdf) on [Cephalopods
-  of the World](http://www.fao.org/docrep/009/a0150e/a0150e00.HTM) on the FAO Species Catalogue for Fishery Purposes
-  No. 4, Vol. 1.
-- [*Sepiella inermis*](https://wiki.nus.edu.sg/display/TAX/Sepiella+inermis+-+Spineless+cuttlefish) - Spineless cuttlefish by Anya, 02 Jan 2019 on Taxo4254.
-
-**References**
-
-- Tan Siong
-  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-  Checklist of The Molluscs of Singapore* (pdf), Raffles
-  Museum of Biodiversity Research, National University of Singapore.
-- Norman, Mark
-  and Helmut Debelius, 2000. *Cephalopods:
-  A World Guide*.
-  ConchBooks, Germany. 319 pp.
-
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+**Acknowledgement**
+Grateful thanks to Tay Ywee Chieh for identifying this cuttlefish.

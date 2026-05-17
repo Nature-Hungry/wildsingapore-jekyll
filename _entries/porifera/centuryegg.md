@@ -3,7 +3,7 @@ description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
 keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
 layout: entry
 shape: ""
-title: 'Century egg'  sponge
+title: "'Century egg' sponge"
 family: Suberitidae
 genus: Aaptos
 species: suberitoides*
@@ -16,45 +16,38 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
-  caption: |
-    <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3c.jpg"
-  caption: |
-    <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg"
-  caption: |
-    <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616m3b.jpg"
-  caption: |
-    <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg"
-  caption: |
-    <p>Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on <a href="https://www.facebook.com/photo.php?fbid=10158404749936310&set=a.10158404815076310&type=3&theater">facebook</a>.</p>
 coverimg: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
+      caption: "Terumbu Pempang Tengah, Apr 12"
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg"
+      caption: "Terumbu Pempang Laut, Jun 15"
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg"
+      caption: "Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on facebook ."
 links_references: |
   **Links**
-  - [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html) on SeaLife Base: technical fact sheet.
-  - [*Aaptos suberitoides*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170743) on the World Porifera Database.
+  - [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html)
+  on SeaLife Base: technical fact sheet.
+  - [*Aaptos suberitoides*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170743)
+  on the World Porifera Database.
+  
   **References**
-  - Lim Swee
-    Cheng, Nicole de Voogd and Tan Koh Siang. 2008. *A
-    Guide to Sponges of Singapore*. Singapore Science Centre.
-    173pp.
+  - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+  *A Guide to Sponges of Singapore*
+  . Singapore Science Centre. 173pp.
 ---
 
-## Where seen?
- This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.  
- ## Features
- Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
+**Where seen?**
+This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.
 
- 
+**Features:**
+Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**Species are difficult to positively identify without close examination.
 
-
- *\*Species are difficult to positively identify without close examination.   
-On this website, they are grouped by external features for convenience
-of display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
@@ -62,34 +55,20 @@ of display.*
 
 ---
 
-Photos of ['Century egg' sponges](https://www.flickr.com/search/?q=Aaptos+suberitoides&w=54527470%40N00&s=rec) for
-free download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
+Photos of
+['Century egg' sponges](https://www.flickr.com/search/?q=Aaptos+suberitoides&w=54527470%40N00&s=rec)
+for free download from
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Aaptos%2520suberitoides/map?&fLat=1.2622&fLon=103.865&zl=11&order_by=recent)
+Distribution in Singapore on
+[this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Aaptos%2520suberitoides/map?&fLat=1.2622&fLon=103.865&zl=11&order_by=recent)
 
 ---
 
 **Other sightings on Singapore shores**
 
 ---
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-
-
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

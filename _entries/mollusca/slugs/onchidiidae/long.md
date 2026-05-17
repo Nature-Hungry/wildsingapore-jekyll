@@ -21,74 +21,47 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
-  caption: |
-    <p>Lim Chu Kang, Aug 05</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg
-  caption: |
-    <p>Eyes on stalks.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg
-  caption: |
-    <p>Underside</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg
-  caption: |
-    <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg"
+      caption: "Lim Chu Kang, Aug 05"
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg"
+      caption: Eyes on stalks.
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg"
+      caption: Underside
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg"
+      caption: "Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg"
+      caption: ""
 ---
 
-## Where seen?
- This small long slug is often seen on mangrove trees,
-usually at night, crawling along leaves or branches.  
-  
-## Features
- 2-3cm. Body hard, long
-and narrow and rounded. Skin smooth with regular bumps. Generally
-greyish or brown. Sometimes with spots. One seen had opaque white
-spots which made it look powdery. Eyes on long thin stalks. Underside
-and narrow foot are white.
+**Where seen?**
+This small long slug is often seen on mangrove trees, usually at night, crawling along leaves or branches.
 
- 
+**Features:**
+2-3cm. Body hard, long and narrow and rounded. Skin smooth with regular bumps. Generally greyish or brown. Sometimes with spots. One seen had opaque white spots which made it look powdery. Eyes on long thin stalks. Underside and narrow foot are white.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+***
+*Species are difficult to positively identify without close examination.
 
-
-
- *\***Species
-are difficult to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+On this website, they are grouped by external features for convenience of display.*
 
 ---
 
-**Long
-onch slugs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Long onch slugs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Long%20onch%20slug) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Long%20onch%20slug)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Long%2520onch%2520slug/map?&fLat=1.3113&fLon=103.8571&zl=11&order_by=recent)
-
-  
 
 ---
 
 **Other sightings on Singapore shores**
 
 ---
-
-
-
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+{% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -18,63 +18,34 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda.gif
-  caption: |
-    <p></p>
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif
 links_references: |
-  **Links**  
-  - [Project
-    Seahorse](http://seahorse.fisheries.ubc.ca/relativesl): Lourie, S. A., Sarah J. Foster, Ernest W. T. Cooper,
-    and Amanda C. J. Vincent, 2004. A
-    Guide to the Identification of Seahorses. Project Seahorse
-    and TRAFFIC North America. Washington D.C.: University of British
-    Columbia and World Wildlife Fund.
+  **Links**
+  - [Project Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html)
+  : Lourie, S. A., Sarah J. Foster, Ernest W. T. Cooper, and Amanda C. J. Vincent, 2004. A Guide to the Identification of Seahorses. Project Seahorse and TRAFFIC North America. Washington D.C.: University of British Columbia and World Wildlife Fund.
+  
   **References**
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+  . Nature Society (Singapore). 285 pp.
 ---
 
-It is hard to
-tell apart these two kinds of seahorses. According to the Singapore
-Red Data Book, the [Tiger-tailed seahorse](comes) (*Hippocampus
-comes*) is usually found in coral reefs, while the [Estuarine
-seahorse](kuda) (*Hippocampus kuda*) is found mainly in seagrass
-areas near sources of freshwater. In Singapore, the Tiger-tailed seahorse
-is mainly found around the Southern Islands, while the Estuarine seahorse
-is found all around Singapore in shallow waters.   
-  
-These two diagrams were taken from Lourie, S. A., Sarah J. Foster,
-Ernest W. T. Cooper, and Amanda C. J. Vincent, 2004. A
-Guide to the Identification of Seahorses. Project Seahorse and
-TRAFFIC North America. Washington D.C.: University of British Columbia
-and World Wildlife Fund.
+It is hard to tell apart these two kinds of seahorses. According to the Singapore Red Data Book, the
+[Tiger-tailed seahorse](comes.md)
+(
+*Hippocampus comes*
+) is usually found in coral reefs, while the
+[Estuarine seahorse](kuda.md)
+(
+*Hippocampus kuda*
+) is found mainly in seagrass areas near sources of freshwater. In Singapore, the Tiger-tailed seahorse is mainly found around the Southern Islands, while the Estuarine seahorse is found all around Singapore in shallow waters.
+
+These two diagrams were taken from Lourie, S. A., Sarah J. Foster, Ernest W. T. Cooper, and Amanda C. J. Vincent, 2004. A Guide to the Identification of Seahorses. Project Seahorse and TRAFFIC North America. Washington D.C.: University of British Columbia and World Wildlife Fund.
 
 ---
 
- 
-  
+![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif)
+
+![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda.gif)
 
 ---
-
-
-
-  
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

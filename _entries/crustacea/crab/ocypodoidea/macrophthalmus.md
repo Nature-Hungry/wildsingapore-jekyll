@@ -22,120 +22,103 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Owstoniinae
 updated: Dec 2019
-page_images:
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg
-  caption: |
-    <p></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3b.jpg
-  caption: |
-    <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156408097666295&type=3">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg
-  caption: |
-    <p>Nibbling on a worm.</p>
-    <p>Pasir Ris, Jan 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg
-  caption: |
-    <p>Squarish burrow opening.</p>
-    <p>Pulau Hantu, Jun 09</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg
-  caption: |
-    <p>Just moulted!</p>
-    <p>Moult has transparent eyes.</p>
-    <p>Pasir Ris, Dec 08</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg
-  caption: |
-    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg
-  caption: |
-    <p>Moult with transparent eyestalks and eye Pulau Hantu, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.898278796022195&type=3&ref=embed_post">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg
-  caption: |
-    <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202615962945&set=a.10158202634262945">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG
-  caption: |
-    <p>St John's Island, Jan 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567771885/in/album-72157607929563969/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg
-  caption: |
-    <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a></p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG
-  caption: |
-    <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4995475022/in/album-72157607725117581/">flickr</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg
-  caption: |
-    <p>Beting Bemban Besar, Aug 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1893310434025620&set=a.1893308220692508&type=3&theater">facebook</a>.</p>
-- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
-  caption: |
-    <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628140532945&set=a.10158628246612945">facebook</a>.</p>
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+galleries:
+  gallery1:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg"
+      caption: "Pulau Hantu, May 05"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg"
+      caption: "Pulau Hantu, May 19 Photo shared by Jianlin Liu on facebook ."
+  gallery2:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg"
+      caption: "Nibbling on a worm. Pasir Ris, Jan 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg"
+      caption: "Squarish burrow opening. Pulau Hantu, Jun 09"
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg"
+      caption: "Just moulted! Moult has transparent eyes. Pasir Ris, Dec 08"
+  gallery3:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg"
+      caption: "Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg"
+      caption: "Moult with transparent eyestalks and eye Pulau Hantu, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  gallery4:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg"
+      caption: "East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook ."
+  gallery5:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG"
+      caption: "St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg"
+      caption: "St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook"
+  gallery6:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG"
+      caption: "Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on flickr . ."
+  gallery7:
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg"
+      caption: "Beting Bemban Besar, Aug 18 Photo shared by Liz Lim on facebook ."
+    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg"
+      caption: "Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook ."
 links_references: |
   **Links**
-  - [Sentinel
-    crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055) Ng, Peter K. L. & N. Sivasothi,
-    1999. *[A Guide
-    to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
-    Science Centre. 168 pp.
-  - *[Ilyograpsus
-    paludicola](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1670)*
-    and *[Macrophthalmus
-    boscii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1806&menuentry=soorten)* and [*Macrophthalmus
-    brevis*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1793&menuentry=soorten) and [*Macrophthalmus
-    erato*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1808&menuentry=soorten) and [*Macrophthalmus
-    japonicus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1796&menuentry=soorten) and [Latreille's
-    sentinel crab (*Macrophthalmus latreillei*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797) and [*Macrophthalmus
-    pacificus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1804&menuentry=soorten) in Crabs of Japan on Marine Species Identification
-    Portal.
+  - [Sentinel crabs (
+  *Macrophthalmus*
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055.md)
+  Ng, Peter K. L. & N. Sivasothi, 1999.
+  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+  . Singapore Science Centre. 168 pp.
+  - *[Ilyograpsus paludicola](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1670)*
+  and
+  *[Macrophthalmus boscii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1806&menuentry=soorten)*
+  and
+  [*Macrophthalmus brevis*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1793&menuentry=soorten)
+  and
+  [*Macrophthalmus erato*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1808&menuentry=soorten)
+  and
+  [*Macrophthalmus japonicus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1796&menuentry=soorten)
+  and
+  [Latreille's sentinel crab (
+  *Macrophthalmus latreillei*
+  )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797)
+  and
+  [*Macrophthalmus pacificus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1804&menuentry=soorten)
+  in Crabs of Japan on Marine Species Identification Portal.
+  
   **References**
-  - Ng, Peter
-    K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
-    Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-    crabs of the world*. The Raffles Bulletin of Zoology. Supplement
-    No. 17, 31 Jan 2008. 286 pp.
-  - Jones Diana
-    S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-    Australian Waters*. Reed New Holland. 224 pp.
+  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+  . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+  - Jones Diana S. and Gary J. Morgan, 2002.
+  *A Field Guide to Crustaceans of Australian Waters*
+  . Reed New Holland. 224 pp.
 ---
 
-## Where seen?
- This inconspicous little crab with eyes on super
-long stalks are sometimes seen on soft silty and muddy shores such
-as swimming lagoons. It builds distinctive holes which are either
-rectangular or oval and seldom circular.  
-  
-## Features
- Body width 0.5-1cm.
-Body is flattened, squarish or somewhat rectangular. The eye stalks
-are long and in some species can even extend outside the sides of
-the body. This feature probably gave them their common name. Both
-pincers of equal size. **Sometimes confused with** [fiddler crabs](uca) (*Uca* spp.). Sentinel crabs do not have one enlarged pincer
-like the fiddler crabs. Sentinel crabs are also not colourful, usually
-drab brown with darker mottling. Here's more on [how
-to tell apart small crabs with long eye stalks](cflongeyedcrabs).  
-  
-**What does it eat?** It feeds on
-detritus and small worms.
- 
- 
+**Where seen?**
+This inconspicous little crab with eyes on super long stalks are sometimes seen on soft silty and muddy shores such as swimming lagoons. It builds distinctive holes which are either rectangular or oval and seldom circular.
+
+**Features:**
+Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
+**Sometimes confused with**
+[fiddler crabs](uca.md)
+(
+*Uca*
+spp.). Sentinel crabs do not have one enlarged pincer like the fiddler crabs. Sentinel crabs are also not colourful, usually drab brown with darker mottling. Here's more on
+[how to tell apart small crabs with long eye stalks](cflongeyedcrabs.md)
+.
+
+**What does it eat?**
+It feeds on detritus and small worms.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
-
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Sentinel
-crabs on Singapore shores**
-On [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)  
+**Sentinel crabs on Singapore shores**
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Macrophthalmus) for free
-  download
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Macrophthalmus)
+for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Macrophthalmus/map?&fLat=1.2605&fLon=103.8654&zl=11&order_by=recent)
 
 ---
@@ -143,74 +126,66 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
 
 ---
-
-
-
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
 ---
 
-
----
-
-
-
----
-
-
+**Family Macrophthalmidae recorded for Singapore**
+from Wee Y.C. and Peter K. L. Ng. 1994.
+*A First Look at Biodiversity in Singapore*
+in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+*The Singapore Red Data Book: Threatened plants and animals of Singapore*
 .
 
----
+**from Ng, Peter K. L. & N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)*
 
-
-
----
-
-**Family
-Macrophthalmidae recorded for Singapore**from
-Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity
-in Singapore*in red are those listed among the threatened
-animals of Singapore from Davison, G.W. H. and P. K. L. Ng
-and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened
-plants and animals of Singapore*.  
-\*\*from Ng, Peter K. L. & N. Sivasothi, 1999. *A Guide to the Mangroves
-of Singapore II (Animal Diversity)*  
 +from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  
-  
- 
-**Family
-Macrophthalmidae** (previously Ocypodidae)
- 
-*+Chaenostoma cf. boscii  
-  
-+Ilyograpsus sp.  
-Ilyograpsus
-paludicola  
-Macrophthalmus boscii  
-Macrophthalmus brevis=Macrophthalmus dilatatus  
-Macrophthalmus convexus  
-Macrophthalmus crassipes  
-\*\*Macrophthalmus crinitus* (Little sentinel crab)  
-*Macrophthalmus erato  
-Macrophthalmus japonicus  
-Macrophthalmus latreilllei* (Latreille's sentinel crab)  
-*+Macrophthalmus milloti*   
-*Macrophthalmus pacificus  
-Macrophthalmus parvimanus  
-Macrophthalmus telescopicus  
+
+**Family Macrophthalmidae**
+(previously Ocypodidae)
+
+*+Chaenostoma cf. boscii
+
++Ilyograpsus sp.
+
+Ilyograpsus paludicola
+[macrophthalmus.htm](macrophthalmus.md)
+
+Macrophthalmus boscii
+
+Macrophthalmus brevis=Macrophthalmus dilatatus
+
+Macrophthalmus convexus
+
+Macrophthalmus crassipes
+
+**Macrophthalmus crinitus*
+(Little sentinel crab)
+
+*Macrophthalmus erato
+
+Macrophthalmus japonicus
+
+Macrophthalmus latreilllei*
+(Latreille's sentinel crab)
+
+*+Macrophthalmus milloti*
+
+*Macrophthalmus pacificus
+
+Macrophthalmus parvimanus
+
+Macrophthalmus telescopicus
+
 Macrophthalmus travancorensis*
 
 ---
-
-
-
-[links](../../../links)
-| [references](../../../references)
-| [about](../../../about)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
