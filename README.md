@@ -35,6 +35,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			🔲 Identify features to group entries by
 			🔲 Prototype
 🔲 New pages that reflect the goals of the new site
+
 🟡 Layout components (subject to feedback & change)
 
 	🔲 Responsive css
