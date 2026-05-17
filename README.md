@@ -7,24 +7,22 @@ The rest of the entries and indexes have not been touched yet and is generated f
 but we aim to standardize all to what we are working on in the seagrass sections
 
 
+
 # Roadmap
-
-🟡 Clean and structure original data from http://www.wildsingapore.com
-
-	🟡 Entries	
-		 ✅ Image galleries
-		 ✅ Text sections
-		 🟡 Links & References
-		 🔲 Titles
-		 🔲 Location information
-		 🔲 IUCN & RDB status
-		 🟡 Entry attributes
-		 ✅ Atomic entry content
-		 🔲 Higher rank entries content
-	 🔲 Entry guides
-		 🔲 Pages to aggregate guides
-		 🔲 Entry guide content
-		 
+	🟡 Clean and structure original data from http://www.wildsingapore.com
+		🟡 Entries	
+			 ✅ Image galleries
+			 ✅ Text sections
+			 🟡 Links & References
+			 🔲 Titles
+			 🔲 Location information
+			 🔲 IUCN & RDB status
+			 🟡 Entry attributes
+			 ✅ Atomic entry content
+			 🔲 Higher rank entries content
+		 🔲 Entry guides
+			 🔲 Pages to aggregate guides
+			 🔲 Entry guide content
 	🟡 Entry aggregates
 		🟡 Explore page
 			✅ Text query search
@@ -34,13 +32,13 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Step-by-step Photo indexes
 			🔲 Identify features to group entries by
 			🔲 Prototype
-🔲 New pages that reflect the goals of the new site
+	🔲 New pages that reflect the goals of the new site
+	🟡 Layout components (subject to feedback & change)
+		🔲 Responsive css
+		🟡 Navigation header
+		🔲 Footer
+		
 
-🟡 Layout components (subject to feedback & change)
-
-	🔲 Responsive css
-	🟡 Navigation header
-	🔲 Footer
 		
 
 
