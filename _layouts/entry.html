@@ -131,15 +131,15 @@
                     <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
                 {% elsif page.family != '' %}
                     <p class="scientific-name">Family {{page.family}}</p>
-                {% elsif page.suborder != '' %}
+                {% elsif page.suborder and page.suborder != '' %}
                     <p class="scientific-name">Suborder {{page.suborder}}</p>
-                {% elsif page.order != '' %}
+                {% elsif page.order != '' and page.order %}
                     <p class="scientific-name">Order {{page.order}}</p>
-                {% elsif page.class != '' %}
+                {% elsif page.class != ''  and page.class %}
                     <p class="scientific-name">Class {{page.class}}</p>
-                {% elsif page.subphylum != '' %}
+                {% elsif page.subphylum != '' and page.subphylum %}
                     <p class="scientific-name">Subphylum {{page.subphylum}}</p>
-                {% elsif page.phylum != '' %}
+                {% elsif page.phylum != '' and page.phylum %}
                     <p class="scientific-name">Phylum {{page.phylum}}</p>
                 {% else %}
                     <p class="scientific-name">Kingdom {{page.kingdom}}</p>

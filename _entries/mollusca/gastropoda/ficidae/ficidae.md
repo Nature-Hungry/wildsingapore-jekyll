@@ -12,12 +12,10 @@ species: variegata
 attributes: []
 inat_id: 50996
 stateofmatter: Life
-kingdom: Plantae
-phylum: Tracheophyta
-subphylum: Angiospermae
-class: Magnoliopsida
-order: Rosales
-tribe: Ficeae
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+order: Littorinimorpha
 updated: Jul 2020
 coverimg: 
   http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg

@@ -77,20 +77,61 @@ filters:
             echinoderms:
                 name: echinodermata
                 rank: phylum
+                children:
+                    sea stars:
+                        name: asteroidea
+                        rank: class
+                    crinoids:
+                        name: crinoidea
+                        rank: class
+                    urchins:
+                        name: echinoidea
+                        rank: class
+                    sea cucumbers:
+                        name: holothuroidea
+                        rank: class
+                    brittle stars:
+                        name: ophiuroidea
+                        rank: class
             sponges:
                 name: porifera
                 rank: phylum
             molluscs:
                 name: mollusca
                 rank: phylum
+                children:
+                    bivalves:
+                        name: bivalvia
+                        rank: class
+                    cephalopods:
+                        name: cephalopoda
+                        rank: class
+                    gastropods:
+                        name: gastropoda
+                        rank: class
+                    chitons:
+                        name: polyplacophora
+                        rank: class
             others:
                 name: others
     plants:
         name: plantae
         rank: kingdom
         children:
-            seagrass:
-                name: alismatales
-                rank: order
+            red algae:
+                name: rhodophyta
+                rank: phylum
+            green algae:
+                name: chlorophyta
+                rank: phylum
+            vascular plants:
+                name: tracheophyta
+                rank: phylum
+                children:
+                    seagrass:
+                        name: alismatales
+                        rank: order
+                    others:
+                        name: others
            
             

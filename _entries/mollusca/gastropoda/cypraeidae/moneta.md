@@ -12,13 +12,14 @@ species: moneta
 attributes: []
 inat_id: 51809
 stateofmatter: Life
-kingdom: Plantae
-phylum: Tracheophyta
-subphylum: Angiospermae
-class: Magnoliopsida
-order: Ericales
-subfamily: Myrsinoideae
-section: Nummularia
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erroneinae
+tribe: Erroneini
 updated: Sep 2019
 coverimg: 
   http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
