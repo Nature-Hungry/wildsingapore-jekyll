@@ -1,9 +1,10 @@
 ---
 title: Trumpeter perch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: trumpeter, grunter, perch, fish, pelates, quadrilineatus, teraponidae, theraponidae,
-  therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: trumpeter, grunter, perch, fish, pelates, quadrilineatus, teraponidae,
+  theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,27 +24,36 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg"
-      caption: "Chek Jawa, Apr 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/080731chgd8425m6l.jpg"
-      caption: "Changi, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
+    caption: Chek Jawa, Apr 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/080731chgd8425m6l.jpg
+    caption: Changi, Jul 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/200804chg4rk2.jpg"
-      caption: "Changi, Aug 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/200804chg4rk2.jpg
+    caption: Changi, Aug 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/220616chgevc5.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/220616chgevc5.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook 
+      .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/160507cjmn.jpg"
-      caption: "Chek Jawa, May 16 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/160507cjmn.jpg
+    caption: Chek Jawa, May 16 Photo shared by Marcus Ng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/151001blyjt11m3.jpg"
-      caption: "Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg"
-      caption: "Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/151001blyjt11m3.jpg
+    caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg
+    caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: |
   **Links**
   - [Trumpeter Perch (
@@ -62,7 +72,7 @@ links_references: |
   : Technical fact sheet.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -73,6 +83,12 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- chg
+- cj
+- skd
+- lab
+- kus
 ---
 
 **Where seen?**

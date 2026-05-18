@@ -1,9 +1,10 @@
 ---
 title: Kumquat sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cucumber, seacucumber, actinopyga, holothuriidae, holothuroidae, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cucumber, seacucumber, actinopyga, holothuriidae, holothuroidae, 
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -25,37 +26,59 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3.jpg"
-      caption: "Pulau Hantu, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5678m3.jpg"
-      caption: Flat underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3.jpg
+    caption: Pulau Hantu, Jan 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5770m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/120123hntd5678m3.jpg
+    caption: Flat underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/180520tsmk6lks.jpg"
-      caption: "Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/180520tsmk6lks.jpg
+    caption: Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/090309cyrlks04m3.jpg"
-      caption: "Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130525tsmklks1.JPG"
-      caption: "Terumbu Semakau, May 13 Shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/090309cyrlks04m3.jpg
+    caption: Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130525tsmklks1.JPG
+    caption: Terumbu Semakau, May 13 Shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/180421smkslks.jpg"
-      caption: "Pulau Semakau (South), Apr 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130428tsmklks.JPG"
-      caption: "Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/220619tsmtl4.jpg"
-      caption: "Terumbu Semakau, Jun 22 Shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/180421smkslks.jpg
+    caption: Pulau Semakau (South), Apr 18 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130428tsmklks.JPG
+    caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/220619tsmtl4.jpg
+    caption: Terumbu Semakau, Jun 22 Shared by Tammy Lim on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/140617tblks2m3.JPG"
-      caption: "Terumbu Bemban, Jun 14 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/230221tryrk1.jpg"
-      caption: "Terumbu Raya, Feb 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130427tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/140617tblks2m3.JPG
+    caption: Terumbu Bemban, Jun 14 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/230221tryrk1.jpg
+    caption: Terumbu Raya, Feb 23 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/kumquat/130427tptlks.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
+      flickr
+location:
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

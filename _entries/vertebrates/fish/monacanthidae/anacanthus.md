@@ -1,9 +1,10 @@
 ---
 title: Bearded filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus, monacanthidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus,
+  monacanthidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,21 +25,28 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg"
-      caption: "Tanah Merah, Sep 11 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg"
-      caption: "Cyrene Reef, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
+    caption: Tanah Merah, Sep 11 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg
+    caption: Cyrene Reef, May 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg"
-      caption: Tiny uptuned mouth. Barbel under the chin that can be straightened out.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg"
-      caption: "Like other filefishes, it has a flap under the body."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg
+    caption: Tiny uptuned mouth. Barbel under the chin that can be straightened 
+      out.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg
+    caption: Like other filefishes, it has a flap under the body.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg"
-      caption: "Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg
+    caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Bearded leatherjacket (
@@ -51,7 +59,7 @@ links_references: |
   on the IUCN Red List.
   - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Sam Shu Qin.
   *Bearded leatherjacket at Sentosa*
@@ -65,6 +73,10 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- tm
+- snt
+- cyr
 ---
 
 **Where seen?**

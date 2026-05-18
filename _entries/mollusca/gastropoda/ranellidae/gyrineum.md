@@ -1,9 +1,10 @@
 ---
 title: Common triton snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, 
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ranellidae
 genus: Gyrineum
@@ -18,23 +19,39 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
-      caption: "Pulau Sekudu, Sep 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg"
-      caption: "The snail has a long proboscis. Pulau Sekudu, Jan 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg"
-      caption: "Under a stone: Laying eggs? East Coast Park, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+    caption: Pulau Sekudu, Sep 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg
+    caption: The snail has a long proboscis. Pulau Sekudu, Jan 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg
+    caption: 'Under a stone: Laying eggs? East Coast Park, Aug 11'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg"
-      caption: "Changi, Dec 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg
+    caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg"
-      caption: "Cyrene, Jul 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg
+    caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg
+    caption: ''
+location:
+- chg
+- ubn
+- cj
+- skd
+- tm
+- ecp
+- lab
+- cyr
 ---
 
 **Where seen?**

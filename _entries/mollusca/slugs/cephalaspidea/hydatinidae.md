@@ -1,9 +1,10 @@
 ---
 title: 'Paper bubble snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -34,15 +35,19 @@ infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
-      caption: "Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg"
-      caption: "Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg"
-      caption: "Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+    caption: Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
+    caption: Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
+    caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -55,7 +60,7 @@ links_references: |
   on
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  
+
   **References**
   - Tan Siong Kiat. 24 July 2015.
   *A record of the white banded bubble Hydatina albocincta in Singapore*
@@ -69,6 +74,9 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- prp
+- cj
 ---
 
 **Where seen?**

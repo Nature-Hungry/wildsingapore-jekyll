@@ -1,9 +1,10 @@
 ---
 title: 'Horn snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc,
-  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, 
+  mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: ''
@@ -17,32 +18,46 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... You are almost certain to see these large snails during a visit to our mangroves. Many are edible and were eaten in the past, less so these days. Most are harmless herbivores, nibbling on algae."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "You are almost certain to see these large snails during a visit to our mangroves. Many are edible and were eaten in the past, less so these days. Most are harmless herbivores, nibbling on algae."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... You are almost certain to
+      see these large snails during a visit to our mangroves. Many are edible 
+      and were eaten in the past, less so these days. Most are harmless 
+      herbivores, nibbling on algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: You are almost certain to see these large snails during a visit to 
+      our mangroves. Many are edible and were eaten in the past, less so these 
+      days. Most are harmless herbivores, nibbling on algae.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg"
-      caption: "Rodong snails mating? Sungei Buloh Wetland Reserve, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg"
-      caption: "The Red Chut-chut snail on a mangrove tree trunk. Kranji, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg"
-      caption: "Shell structure East Coast Park, Feb 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+    caption: Rodong snails mating? Sungei Buloh Wetland Reserve, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
+    caption: The Red Chut-chut snail on a mangrove tree trunk. Kranji, Jan 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
+    caption: Shell structure East Coast Park, Feb 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
-      caption: Rodong
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg"
-      caption: Belitong
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
-      caption: Girdled horn snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+    caption: Rodong
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+    caption: Belitong
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+    caption: Girdled horn snail
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg"
-      caption: Red Chut-chut
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg"
-      caption: Black Chut-chut
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+    caption: Red Chut-chut
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
+    caption: Black Chut-chut
 links_references: |
   **Links**
   - [Mud creepers (
@@ -77,7 +92,7 @@ links_references: |
   - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -94,6 +109,10 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- lab
+- kus
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

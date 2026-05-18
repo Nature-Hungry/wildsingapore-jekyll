@@ -1,9 +1,10 @@
 ---
 title: 'Dolphin snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod,
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, 
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Angariidae
 genus: Angaria
@@ -18,30 +19,41 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg"
-      caption: "Upper side usuallyunder a thick layer of encrusting organisms. Tanah Merah, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
-      caption: "Tanah Merah, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg"
-      caption: "Tanah Merah, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+    caption: Upper side usuallyunder a thick layer of encrusting organisms. 
+      Tanah Merah, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+    caption: Tanah Merah, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+    caption: Tanah Merah, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG"
-      caption: "Sentosa Serapong, May 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg"
-      caption: "Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
+    caption: Sentosa Serapong, May 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
+    caption: Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by 
+      Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg"
-      caption: "Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
+    caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on 
+      facebook .
 links_references: |
   **Links**
   - *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan SK & Low MEY (2013)
   *Singapore Mollusca: 1. The Family Angariidae (Gastropoda: Vetigastropoda: Angarioidea)*
@@ -55,6 +67,18 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- tm
+- snt
+- kus
+- laz
+- rfl
+- tm
+- snt
+- laz
+- sis
+- tsm
+- rfl
 ---
 
 **Where seen?**

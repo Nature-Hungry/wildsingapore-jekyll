@@ -1,9 +1,10 @@
 ---
 title: Blue-dot margined
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, turbellaria,
-  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, 
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -17,77 +18,110 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg"
-      caption: "Pulau Sekudu, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3a.jpg"
-      caption: Front end of the worm.
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/060323ulrd0461m3.jpg"
-      caption: "Faint line in the centre is the intestine showing through the body. Pulau Hantu, Mar 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg
+    caption: Pulau Sekudu, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3a.jpg
+    caption: Front end of the worm.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/060323ulrd0461m3.jpg
+    caption: Faint line in the centre is the intestine showing through the body.
+      Pulau Hantu, Mar 06
   gallery2:
-    - url: "http://www.wildsingapore.com/ascidiacea/beige/050822cjg2070m3.jpg"
-      caption: "Seen on Beige ascidians . Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg"
-      caption: "Eating Yellow clustered bead ascidians ? Changi, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/260217bsisjll4.jpg"
-      caption: "Pinkness from something it ate? Big Sisters Island, Feb 26 Photo shared by Jianlin Liu on facebook ."
+  - url: http://www.wildsingapore.com/ascidiacea/beige/050822cjg2070m3.jpg
+    caption: Seen on Beige ascidians . Chek Jawa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg
+    caption: Eating Yellow clustered bead ascidians ? Changi, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/260217bsisjll4.jpg
+    caption: Pinkness from something it ate? Big Sisters Island, Feb 26 Photo 
+      shared by Jianlin Liu on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100614bblks1m3.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170626skdjll1.jpg"
-      caption: "Pulau Sekudu, Jun 17 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100614bblks1m3.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170626skdjll1.jpg
+    caption: Pulau Sekudu, Jun 17 Photo shared by Jianlin Liu on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/211009blyjll1.jpg"
-      caption: "Berlayar Creek, Oct 21 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200805sntlks3.jpg"
-      caption: "Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/160509srpis1.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Ian Siah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/211009blyjll1.jpg
+    caption: Berlayar Creek, Oct 21 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200805sntlks3.jpg
+    caption: Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/160509srpis1.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Ian Siah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/141109lazmn1m3.jpg"
-      caption: "Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100528tkklks6m3.jpg"
-      caption: "Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210824tkkjll2.jpg"
-      caption: "Pulau Tekukor, Aug 21 Photo shared by Jianlin LIu on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/141109lazmn1m3.jpg
+    caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100528tkklks6m3.jpg
+    caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210824tkkjll2.jpg
+    caption: Pulau Tekukor, Aug 21 Photo shared by Jianlin LIu on facebook
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200126bsisjll3.jpg"
-      caption: "Big Sisters Island, Jan 20 Photo shared by JIanlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/090822sisnml3m3.JPG"
-      caption: "Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170129slglks.JPG"
-      caption: "Terumbu Selegie, Jan 17* Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200126bsisjll3.jpg
+    caption: Big Sisters Island, Jan 20 Photo shared by JIanlin Liu on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/090822sisnml3m3.JPG
+    caption: Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170129slglks.JPG
+    caption: Terumbu Selegie, Jan 17* Photo shared by Loh Kok Sheng on his blog 
+      .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210812jngjll2.jpg"
-      caption: "Pulau Jong, Aug 21 Photo shared by Jianlin LIu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220504hntjll1.jpg"
-      caption: "Pulau Hantu, May 22 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220814thntccn1.jpg"
-      caption: "Terumbu Hantu, Aug 22 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210812jngjll2.jpg
+    caption: Pulau Jong, Aug 21 Photo shared by Jianlin LIu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220504hntjll1.jpg
+    caption: Pulau Hantu, May 22 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220814thntccn1.jpg
+    caption: Terumbu Hantu, Aug 22 Photo shared by Che Cheng Neo on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/140811smkrl.jpg"
-      caption: "Pulau Semakau, Aug 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100502trytch7m3.jpg"
-      caption: "Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/140811smkrl.jpg
+    caption: Pulau Semakau, Aug 14 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100502trytch7m3.jpg
+    caption: Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/111225tsmkjk2m3.jpg"
-      caption: "Terumbu Semakau, Dec 11 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210402tmskjll5.jpg"
-      caption: "Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210428slutch2.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/111225tsmkjk2m3.jpg
+    caption: Terumbu Semakau, Dec 11 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210402tmskjll5.jpg
+    caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210428slutch2.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100403tbblks3m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100617tbtch1m6l.jpg"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100403tbblks3m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100617tbtch1m6l.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
 links_references: |
   **Links**
   - [*Pseudoceros indicus*](http://polycladida.lifedesks.org/pages/4224)
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-  
+
   **References**
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
@@ -101,6 +135,26 @@ links_references: |
   - Newman, Leslie and Lester Cannon. 2003.
   *Marine Flatworms: The World of Polyclads*
   . CSIRO Publishing. 97pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

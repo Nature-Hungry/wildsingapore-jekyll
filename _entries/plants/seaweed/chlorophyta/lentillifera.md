@@ -1,9 +1,10 @@
 ---
 title: Round sea grapes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, green,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, 
+  green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,32 +20,44 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Constriction where the 'grape' attached to the stalk."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg"
-      caption: "Labrador, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg"
-      caption: "Pulau Semakau, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Constriction where the 'grape' attached
+      to the stalk.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
+    caption: Labrador, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
+    caption: Pulau Semakau, May 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg"
-      caption: "Pulau Senang, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
+    caption: Pulau Senang, Aug 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg"
-      caption: "Pulau Salu, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
+    caption: Pulau Salu, Aug 10
 links_references: |
   **Links**
   - [*Caulerpa lentillifera*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79160:caulerpa-lentillifera-j-agardh&catid=8:botanical-information&Itemid=113)
@@ -73,7 +86,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -96,6 +109,28 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

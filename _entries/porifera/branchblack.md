@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, 
+  seashore,
 layout: entry
 shape: branching
 title: Black antler sponge
@@ -16,31 +18,45 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg"
-      caption: "Changi, Jul 07"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3.jpg"
-      caption: "Pulau Sekudu, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3.jpg"
-      caption: "Changi, Jul 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
+    caption: Changi, Jul 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3.jpg
+    caption: Pulau Sekudu, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3.jpg
+    caption: Changi, Jul 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/260103prplks4.jpg"
-      caption: "Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/160208smkshpy1.jpg"
-      caption: "Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchblack/260103prplks4.jpg
+    caption: Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchblack/160208smkshpy1.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on 
+      facebook .
 links_references: |
   **Links**
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
   on SeaLife Base: technical fact sheet.
   - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- tus
+- smk
 ---
 
 **Where seen?**

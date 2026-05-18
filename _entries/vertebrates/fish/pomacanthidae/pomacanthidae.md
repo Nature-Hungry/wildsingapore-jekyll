@@ -1,8 +1,9 @@
 ---
 title: Angelfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pomacanthidae
 genus: ''
@@ -17,18 +18,24 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
-      caption: "Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu Island, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg"
-      caption: "The juvenile looks very different. Tanah Merah, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+    caption: Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu 
+      Island, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
+    caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG"
-      caption: Yellowtail or Vermiculated anglefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg"
-      caption: Blue-ring angelfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG
+    caption: Yellowtail or Vermiculated anglefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+    caption: Blue-ring angelfish
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -56,7 +63,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheets.
-  
+
   **References**
   - *Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,*
   29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597, National University of Singapore.
@@ -81,6 +88,9 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- kus
+- tpg
 ---
 
 **Where seen?**

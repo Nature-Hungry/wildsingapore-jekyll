@@ -1,8 +1,10 @@
 ---
 title: Slender penaeid prawn
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 84
@@ -24,22 +26,39 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
-      caption: "Labrador, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+    caption: Labrador, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg"
-      caption: "East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg
+    caption: East Coast, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg
+    caption: ''
+location:
+- prp
+- cj
+- tm
+- ecp
+- lab
+- snt
+- cyr
+- hnt
+- lfa
 ---
 
 **Where seen?**

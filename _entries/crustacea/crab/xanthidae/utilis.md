@@ -1,9 +1,10 @@
 ---
 title: 'Saw-edged spooner crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: saw, edge, spooner, crab, etisus, utilis, xanthidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: saw, edge, spooner, crab, etisus, utilis, xanthidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,63 +32,93 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Etisinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg"
-      caption: "Pulau Semakau, Sep 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+    caption: Pulau Semakau, Sep 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250201bsislks1.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240512jngky2.jpg"
-      caption: "Pulau Jong, May 24 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230805thntccn1.jpg"
-      caption: "Terumbu Hantu, Aug 23 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250201bsislks1.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240512jngky2.jpg
+    caption: Pulau Jong, May 24 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230805thntccn1.jpg
+    caption: Terumbu Hantu, Aug 23 Photo shared by Che Cheng Neo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/130511hntlks.JPG"
-      caption: "Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/141011hntlks.JPG"
-      caption: "Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240623hntky2.jpg"
-      caption: "Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/130511hntlks.JPG
+    caption: Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/141011hntlks.JPG
+    caption: Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240623hntky2.jpg
+    caption: Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/201215smkelks2.jpg"
-      caption: "Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/150718smkelks3m3.jpg"
-      caption: "Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/201215smkelks2.jpg
+    caption: Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/150718smkelks3m3.jpg
+    caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250727smkwtl1.jpg"
-      caption: "Pulau Semakau (West), Jul 25 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250727smkwtl1.jpg
+    caption: Pulau Semakau (West), Jul 25 Photo shared by Tammy Lim on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140713tsmkmn2m3.jpg"
-      caption: "Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230509tsmkmn1.jpg"
-      caption: "Terumbu Semakau, May 23 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/090920smklks.JPG"
-      caption: "Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140713tsmkmn2m3.jpg
+    caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230509tsmkmn1.jpg
+    caption: Terumbu Semakau, May 23 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/090920smklks.JPG
+    caption: Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/170627tbay4.jpg"
-      caption: "Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/200625tblks1.jpg"
-      caption: "Terumbu Bemban, Jun 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240526bbbky3.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/170627tbay4.jpg
+    caption: Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/200625tblks1.jpg
+    caption: Terumbu Bemban, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240526bbbky3.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on facebook
+      .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811trylks.JPG"
-      caption: "Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811tryjll3m3.jpg"
-      caption: "Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230221tryky5.jpg"
-      caption: "Terumbu Raya, Fen 23 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811trylks.JPG
+    caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811tryjll3m3.jpg
+    caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230221tryky5.jpg
+    caption: Terumbu Raya, Fen 23 Photo shared by Kelvin Yong on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220503tptlks1.jpg"
-      caption: "Terumbu Pempang Tengah, May 22 Photo shared by Loh Koh Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220201brkjll3.jpg"
-      caption: "Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220503tptlks1.jpg
+    caption: Terumbu Pempang Tengah, May 22 Photo shared by Loh Koh Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220201brkjll3.jpg
+    caption: Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
 links_references: |
   **Links**
   - [Sawedged spooner (
@@ -96,6 +127,14 @@ links_references: |
   on
   [SeaLife Base](http://www.sealifebase.fisheries.ubc.ca/search.php)
   : Technical fact sheet.
+location:
+- sis
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Anemonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Pomacentridae
 genus: Amphiprion
@@ -19,33 +20,49 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Anemonefish need their anemones. Do not disturb them or their anemones. One anemone may be home to many anemonefishes. These fishes are threatened by over-collection for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Anemonefish need their anemones. Do not disturb them or their anemones. One anemone may be home to many anemonefishes. These fishes are threatened by over-collection for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Anemonefish need their 
+      anemones. Do not disturb them or their anemones. One anemone may be home 
+      to many anemonefishes. These fishes are threatened by over-collection for 
+      the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Anemonefish need their anemones. Do not disturb them or their 
+      anemones. One anemone may be home to many anemonefishes. These fishes are 
+      threatened by over-collection for the aquarium trade. Don't keep Nemo in 
+      your home, he belongs in the ocean.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
-      caption: "In a Magnificent anemone . Terumbu Semakau, Jul 14"
-    - url: "http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg"
-      caption: "In a Merten's carpet anemone . Terumbu Hantu, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg"
-      caption: "Stranded at low tide: best to leave it alone. Kusu Island, Aug 19"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+    caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
+  - url: 
+      http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+    caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
+    caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg"
-      caption: "Fishes of several different sizes in one anemone. Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg"
-      caption: "Eggs laid near the host sea anemone. Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
+    caption: Fishes of several different sizes in one anemone. Pulau Pawai, Dec 
+      09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
+    caption: Eggs laid near the host sea anemone. Terumbu Raya, Jun 15 Photo 
+      shared by Toh Chay Hoon on facebook .
   gallery4:
-    - url: "https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg"
-      caption: "Pulau Semakau, Apr 17"
+  - url: https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg
+    caption: Pulau Semakau, Apr 17
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
-      caption: Clown anemonefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
-      caption: Tomato anemonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+    caption: Clown anemonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+    caption: Tomato anemonefish
 links_references: |
   **Links**
   - [Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
@@ -66,7 +83,7 @@ links_references: |
   - [Acid oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)
   - [Clown anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)
   : about how these fishes find their way to a suitable sea anemone host
-  
+
   **References**
   - Toh Chay Hoon. 11 April 2014.
   *Spawn of the saddleback anemonefish*
@@ -98,6 +115,16 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- tm
+- snt
+- kus
+- sji
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

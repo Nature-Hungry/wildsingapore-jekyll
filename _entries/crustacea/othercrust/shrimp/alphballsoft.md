@@ -1,9 +1,10 @@
 ---
 title: White snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -25,25 +26,39 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg"
-      caption: "Tuas, Dec 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg"
-      caption: "Beting Bronok, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+    caption: Tuas, Dec 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg
+    caption: Beting Bronok, Jul 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
-      caption: "Beting Bronok, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+    caption: Beting Bronok, May 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg"
-      caption: "Changi, May 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg"
-      caption: "Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg
+    caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg
+    caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
+location:
+- chg
+- cj
+- skd
+- bb
+- tus
 ---
 
 **Where seen?**

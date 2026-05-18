@@ -1,9 +1,10 @@
 ---
 title: Peacock sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: peacock, flat, fish, flatfish, sole, pardachirus, pavoninus, soleidae, pleuronectiformes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: peacock, flat, fish, flatfish, sole, pardachirus, pavoninus, soleidae,
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,81 +25,114 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m6l.jpg"
-      caption: "Tail fin joined to the dorsal and anal fins only at the base . Chek Jawa, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m6l.jpg
+    caption: Tail fin joined to the dorsal and anal fins only at the base . Chek
+      Jawa, Jul 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3b.jpg"
-      caption: Eyes on the right side .
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3848m3.jpg"
-      caption: "Underside. Pulau Jong, Apr 15"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3849m3.jpg"
-      caption: "Underside. Pulau Jong, Apr 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3b.jpg
+    caption: Eyes on the right side .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3848m3.jpg
+    caption: Underside. Pulau Jong, Apr 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3849m3.jpg
+    caption: Underside. Pulau Jong, Apr 15
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080721cyrd8122m3.jpg"
-      caption: "Well camouflaged! Cyrene Reef, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050820bbg1728m3.jpg"
-      caption: "Beting Bronok, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chgd5305m3.jpg"
-      caption: "Changi, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080721cyrd8122m3.jpg
+    caption: Well camouflaged! Cyrene Reef, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050820bbg1728m3.jpg
+    caption: Beting Bronok, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chgd5305m3.jpg
+    caption: Changi, Jun 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080604chglksm3.jpg"
-      caption: "Changi, Jun 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chglks4m6l.jpg"
-      caption: "Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080604chglksm3.jpg
+    caption: Changi, Jun 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chglks4m6l.jpg
+    caption: Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/180519skddc1.jpg"
-      caption: "Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/221226ecpglks2.jpg"
-      caption: "East Coast (G), Dec 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/180519skddc1.jpg
+    caption: Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/221226ecpglks2.jpg
+    caption: East Coast (G), Dec 22 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090725tmjkm6l.jpg"
-      caption: "Tanah Merah, Jul 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090818tmjk3m3.jpg"
-      caption: "Tanah Merah, Aug 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090725tmjkm6l.jpg
+    caption: Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090818tmjk3m3.jpg
+    caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150618tmftlks3m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100709tmmn2m6l.jpg"
-      caption: "Tanah Merah, Jul 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150618tmftlks3m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100709tmmn2m6l.jpg
+    caption: Tanah Merah, Jul 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200311blylks3.jpg"
-      caption: "Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200311blylks3.jpg
+    caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/160509srpmn6.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230508srprk1.jpg"
-      caption: "Sentosa Serapong, May 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/220517sntmn2.jpg"
-      caption: "Sentosa Tg Rimau, May 22 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/160509srpmn6.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230508srprk1.jpg
+    caption: Sentosa Serapong, May 23 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/220517sntmn2.jpg
+    caption: Sentosa Tg Rimau, May 22 Photo shared by Marcus Ng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/130427sntmn.jpg"
-      caption: "Sentosa, Apr 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/240113lazjll2.jpg"
-      caption: "Lazarus Island, Jan 24 Photo shared by Jianlin Liu on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/130427sntmn.jpg
+    caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/240113lazjll2.jpg
+    caption: Lazarus Island, Jan 24 Photo shared by Jianlin Liu on facebook
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200705kusrk2.jpg"
-      caption: "Kusu Island, Jul 20 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230831sjirk5.jpg"
-      caption: "St John's Island, Aug 23 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200705kusrk2.jpg
+    caption: Kusu Island, Jul 20 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230831sjirk5.jpg
+    caption: St John's Island, Aug 23 Photo shared by Richard Kuah on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200820ssismn2.jpg"
-      caption: "Small Sisters Island, Aug 2020 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200820ssismn2.jpg
+    caption: Small Sisters Island, Aug 2020 Photo shared by Marcus Ng on 
+      facebook .
   gallery13:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/210821cyrdc2.jpg"
-      caption: "Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/110717tbjk5m3.jpg"
-      caption: "Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/210821cyrdc2.jpg
+    caption: Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/110717tbjk5m3.jpg
+    caption: Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog .
   gallery14:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100613sngtch2m6l.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Toh Chay Hoon on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100613sngtch2m6l.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Toh Chay Hoon on her flickr .
   gallery15:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/091205sudjk13m6l.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/091205sudjk13m6l.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
 links_references: |
   **Links**
   - [Peacock Sole (
@@ -119,7 +153,7 @@ links_references: |
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [How to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html)
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -130,6 +164,25 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

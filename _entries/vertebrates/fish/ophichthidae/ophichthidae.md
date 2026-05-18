@@ -1,8 +1,9 @@
 ---
 title: 'Worm-eels '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Ophichthidae
 genus: ''
@@ -18,20 +19,28 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Often mistaken for snakes or worms, they are fish! They breathe through gills. They have smooth skin instead of scales. Most are burrowing and only active at night."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Often mistaken for snakes or worms, they are fish! They breathe through gills. They have smooth skin instead of scales. Most are burrowing and only active at night."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Often mistaken for snakes
+      or worms, they are fish! They breathe through gills. They have smooth skin
+      instead of scales. Most are burrowing and only active at night.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Often mistaken for snakes or worms, they are fish! They breathe 
+      through gills. They have smooth skin instead of scales. Most are burrowing
+      and only active at night.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg"
-      caption: Worm-eels
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg"
-      caption: Evermann's snake-eel
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg"
-      caption: Mangrove snake-eel
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+    caption: Worm-eels
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
+    caption: Evermann's snake-eel
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
+    caption: Mangrove snake-eel
 links_references: |
   **Links**
   - [Green worm-eel (
@@ -70,7 +79,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   .
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -84,6 +93,11 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- prp
+- chg
+- cj
+- tm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

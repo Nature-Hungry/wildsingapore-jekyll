@@ -1,9 +1,10 @@
 ---
 title: Keyhole sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: keyhole, sand, dollar, clypeasteroida, astriclypeidae, echinodiscus, truncatus,
-  bisperforatus, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: keyhole, sand, dollar, clypeasteroida, astriclypeidae, echinodiscus, 
+  truncatus, bisperforatus, echinoidea, echinoderm, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -29,46 +30,63 @@ suborder: Scutelloida
 infraorder: Scutelliformes
 superfamily: Scutelloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg"
-      caption: "Upperside of living sand dollar Chek Jawa, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3b.jpg"
-      caption: Petalloid.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+    caption: Upperside of living sand dollar Chek Jawa, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3b.jpg
+    caption: Petalloid.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3.jpg"
-      caption: Underside
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3.jpg
+    caption: Underside
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg"
-      caption: "Upperside of test. Chek Jawa, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0019m3.jpg"
-      caption: Upperside of test .
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0022m3.jpg"
-      caption: Underside of rest
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
+    caption: Upperside of test. Chek Jawa, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0019m3.jpg
+    caption: Upperside of test .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0022m3.jpg
+    caption: Underside of rest
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/090210tmd6927m3.jpg"
-      caption: "Test of dead keyhole sand dollar. Tanah Merah, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080603tmlks01m3.jpg"
-      caption: "East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/121214chgelks.JPG"
-      caption: "Changi East, Dec 12 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/090210tmd6927m3.jpg
+    caption: Test of dead keyhole sand dollar. Tanah Merah, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080603tmlks01m3.jpg
+    caption: East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/121214chgelks.JPG
+    caption: Changi East, Dec 12 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1.jpg"
-      caption: "Lazarus Island, Nov 22 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3.jpg"
-      caption: "Cyrene, Apr 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/241117cyrlks2.jpg"
-      caption: "Cyrene, Nov 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1.jpg
+    caption: Lazarus Island, Nov 22 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3.jpg
+    caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/241117cyrlks2.jpg
+    caption: Cyrene, Nov 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg"
-      caption: "Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg
+    caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
@@ -76,7 +94,7 @@ links_references: |
   [*Echinodiscus.*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=846)
   - [*Echinodiscus bisperforatus*](http://www.sealifebase.org/summary/Echinodiscus-bisperforatus.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
@@ -84,6 +102,12 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- chg
+- cj
+- tm
+- laz
+- cyr
 ---
 
 **Where seen?**

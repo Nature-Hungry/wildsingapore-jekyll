@@ -1,8 +1,10 @@
 ---
 title: 'Paddler crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: paddler, crab, varuna, varunidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: paddler, crab, varuna, varunidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,29 +31,42 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Varuninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg"
-      caption: Changi Jun 07
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+    caption: Changi Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1.jpg"
-      caption: "Clinging onto a floating coconut . Beting Bemban Besar, May 24"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb2.jpg"
-      caption: "Clinging onto floating trash. Beting Bemban Besar, May 24"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1.jpg
+    caption: Clinging onto a floating coconut . Beting Bemban Besar, May 24
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb2.jpg
+    caption: Clinging onto floating trash. Beting Bemban Besar, May 24
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250627bbio5a.jpg"
-      caption: "On floating trash. Beting Bronok, Jun 25 Photo shared by Isaac Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/251009sjiky3.jpg"
-      caption: "On a Nipah palm fruit. St. John's Island, Oct 25 Photo shared by Kelvin Yong on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250503cyrml2.jpg"
-      caption: "On floating trash. Cyrene, May 25 Photo shared by Mathias Luk on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
+    caption: On floating trash. Beting Bronok, Jun 25 Photo shared by Isaac Ong 
+      on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
+    caption: On a Nipah palm fruit. St. John's Island, Oct 25 Photo shared by 
+      Kelvin Yong on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
+    caption: On floating trash. Cyrene, May 25 Photo shared by Mathias Luk on 
+      facebook
 links_references: |
   **Links**
   - [Paddler crab (
@@ -67,7 +82,7 @@ links_references: |
   *Varuna yui*
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Varuna&speciesname=yui)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -78,6 +93,12 @@ links_references: |
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
+location:
+- chg
+- bb
+- sji
+- cyr
+- tsm
 ---
 
 **Where seen?**

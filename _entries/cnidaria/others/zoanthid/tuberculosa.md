@@ -1,9 +1,10 @@
 ---
 title: Sea mat zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, zoanthidae,
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, 
+  zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -20,56 +21,99 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Each is a colony of many little animals. Some may be highly toxic. Don't touch them! The rubbery mat is living tissue and animals. Don't step on it!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Each is a colony of many little animals. Some may be highly toxic. Don't touch them! The rubbery mat is living tissue and animals. Don't step on it!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Each is a colony of many 
+      little animals. Some may be highly toxic. Don't touch them! The rubbery 
+      mat is living tissue and animals. Don't step on it!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Each is a colony of many little animals. Some may be highly toxic. 
+      Don't touch them! The rubbery mat is living tissue and animals. Don't step
+      on it!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg"
-      caption: "Coating a rock in a rubbery mat. Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg"
-      caption: "St. John's Island, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg"
-      caption: "Sisters Island, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
+    caption: Coating a rock in a rubbery mat. Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg
+    caption: St. John's Island, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg
+    caption: Sisters Island, Jul 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg"
-      caption: "Pulau Sekudu, Aug 24 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG"
-      caption: "Terumbu Buran, Nov 10 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg
+    caption: Pulau Sekudu, Aug 24 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG
+    caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg"
-      caption: "Pulau Salu, Aug 10 Bleaching."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg"
-      caption: "Pulau Senang, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg
+    caption: Pulau Salu, Aug 10 Bleaching.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg
+    caption: Pulau Senang, Aug 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg"
-      caption: "South Cyrene, Oct 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg"
-      caption: "Terumbu Bukom, Nov 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg
+    caption: South Cyrene, Oct 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg
+    caption: Terumbu Bukom, Nov 10
+location:
+- skd
+- bb
+- tus
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

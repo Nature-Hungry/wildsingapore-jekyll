@@ -1,9 +1,10 @@
 ---
 title: Java fat-nose goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,16 +25,21 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg"
-      caption: "Kranji, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
+    caption: Kranji, Jun 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg"
-      caption: "First dorsal fin with black blotch at the rear portion, black bar under the first dorsal fin."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
+    caption: First dorsal fin with black blotch at the rear portion, black bar 
+      under the first dorsal fin.
 links_references: |
   **Links**
   - [Javanese fatnose goby (
@@ -52,11 +58,13 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- sbw
 ---
 
 **Where seen?**

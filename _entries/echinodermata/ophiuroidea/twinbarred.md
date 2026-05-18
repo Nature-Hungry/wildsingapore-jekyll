@@ -1,9 +1,10 @@
 ---
 title: Twin-barred brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: twin, barred, brittle, star, brittlestar, ophiuroidea, echinoderm, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: twin, barred, brittle, star, brittlestar, ophiuroidea, echinoderm, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -17,51 +18,77 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: May 2024
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1a.jpg"
-      caption: Central disk
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1b.jpg"
-      caption: Upperside of arm.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1a.jpg
+    caption: Central disk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240528tsllks1b.jpg
+    caption: Upperside of arm.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk4.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Richard Kuah on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk4a.jpg"
-      caption: Central disk
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk3a.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk4.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Richard Kuah on 
+      facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk4a.jpg
+    caption: Central disk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbrk3a.jpg
+    caption: Underside.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1a.jpg"
-      caption: "Cyrene, Jun 24 Photo shared by Che Cheng Neo on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1b.jpg"
-      caption: Central disk
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1d.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1a.jpg
+    caption: Cyrene, Jun 24 Photo shared by Che Cheng Neo on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1b.jpg
+    caption: Central disk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240610cyrccn1d.jpg
+    caption: Underside.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240527snttl3a.jpg"
-      caption: "Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240512jngccn1.jpg"
-      caption: "Pulau Jong, May 24 Photo shared by Che Cheng Neo on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbccn2a.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240527snttl3a.jpg
+    caption: Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240512jngccn1.jpg
+    caption: Pulau Jong, May 24 Photo shared by Che Cheng Neo on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbccn2a.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on 
+      facebook
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/250503cyrtt1.jpg"
-      caption: "Cyrene, May 25 Photo shared by Tommy Tan on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/260201cyrtt1.jpg"
-      caption: "Cyrene, Feb 26 Photo shared by Tommy Tan on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/250503cyrtt1.jpg
+    caption: Cyrene, May 25 Photo shared by Tommy Tan on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/260201cyrtt1.jpg
+    caption: Cyrene, Feb 26 Photo shared by Tommy Tan on facebook
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240822tsmktt3.jpg"
-      caption: "Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbtt2.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Tommy Tan on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/250131tkkrk2.jpg"
-      caption: "Pulau Tekukor, Jan 25 Photo shared by Richard Kuah on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240822tsmktt3.jpg
+    caption: Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/240526bbbtt2.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Tommy Tan on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/250131tkkrk2.jpg
+    caption: Pulau Tekukor, Jan 25 Photo shared by Richard Kuah on facebook
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/220122biovc1.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/twinbarred/220122biovc1.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook
+location:
+- snt
+- tkr
+- cyr
+- tsm
 ---
 
 **Where seen?**

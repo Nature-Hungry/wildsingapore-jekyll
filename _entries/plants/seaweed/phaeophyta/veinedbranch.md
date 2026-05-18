@@ -1,9 +1,10 @@
 ---
 title: Veined branched brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: veined, branch, brown, seaweed, weed, dictyopteris, dictyotaceae, phaeophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: veined, branch, brown, seaweed, weed, dictyopteris, dictyotaceae, 
+  phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
@@ -21,22 +22,26 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3.jpg"
-      caption: "Cyrene Reef, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3.jpg"
-      caption: "Pulau Jong, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg"
-      caption: "Lazarus Island, Feb 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3.jpg
+    caption: Cyrene Reef, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3.jpg
+    caption: Pulau Jong, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg
+    caption: Lazarus Island, Feb 11
 links_references: |
   **Links**
   - [*Dictyopteris*](http://www.algaebase.org/search/genus/detail/?genus_id=50)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -56,6 +61,13 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- snt
+- tkr
+- laz
+- cyr
+- jng
+- tpg
 ---
 
 **Where seen?**

@@ -1,8 +1,10 @@
 ---
 title: 'Xanthid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Xanthidae
 genus: ''
@@ -24,46 +26,67 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Xanthoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking. They are generally secretive and slow-moving. They are not venomous but it's best not to touch them.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking. They are generally secretive and slow-moving. They are not venomous but it's best not to touch them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These colourful crabs are
+      poisonous to eat! Their toxins are NOT destroyed by cooking. They are 
+      generally secretive and slow-moving. They are not venomous but it's best 
+      not to touch them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These colourful crabs are poisonous to eat! Their toxins are NOT 
+      destroyed by cooking. They are generally secretive and slow-moving. They 
+      are not venomous but it's best not to touch them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg"
-      caption: "The Mosaic reef crab is the most poisonous crab on our shores. Sentosa, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg"
-      caption: "Floral egg crab eating a fish. Sentosa, Sep 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg"
-      caption: "A Red egg crab eating a sea urchin. Tanah Merah, Jun 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+    caption: The Mosaic reef crab is the most poisonous crab on our shores. 
+      Sentosa, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
+    caption: Floral egg crab eating a fish. Sentosa, Sep 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
+    caption: A Red egg crab eating a sea urchin. Tanah Merah, Jun 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg"
-      caption: Red egg crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg"
-      caption: Mosaic reef crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg"
-      caption: Saw-edged spooner crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
+    caption: Red egg crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
+    caption: Mosaic reef crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+    caption: Saw-edged spooner crab
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg"
-      caption: Floral egg crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg"
-      caption: Curry puff crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+    caption: Floral egg crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
+    caption: Curry puff crab
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg"
-      caption: Smooth spooner crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg"
-      caption: Rock crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg"
-      caption: Lumpy rock crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
+    caption: Smooth spooner crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+    caption: Rock crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+    caption: Lumpy rock crab
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
-      caption: Pilodius rock crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
-      caption: Ruby reef crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg"
-      caption: Hairy coral crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+    caption: Pilodius rock crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+    caption: Ruby reef crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
+    caption: Hairy coral crab
 links_references: |
   **Links**
   - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
@@ -86,7 +109,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Tetrodotoxin ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv.md)
   by Jim Johnson on Molecule of the Month of the School of Chemistry, University of Bristol website: lots of details about the toxin's effects, creatures that carry it and how it came about, with LOTS of links to more about tetrodotoxin.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -113,6 +136,8 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai’'i exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- lab
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

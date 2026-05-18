@@ -1,9 +1,10 @@
 ---
 title: Turritella snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: screw, turritella, terebra, turritellidae, gastropod, mollusc, snail, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: screw, turritella, terebra, turritellidae, gastropod, mollusc, snail, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,15 +26,19 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Turritellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg"
-      caption: "Changi, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg"
-      caption: "East Coast, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+    caption: Changi, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
+    caption: East Coast, Jun 06
 links_references: |
   **Links**
   - [Screw turret (
@@ -45,7 +50,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -53,6 +58,9 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- chg
+- ecp
 ---
 
 **Where seen?**

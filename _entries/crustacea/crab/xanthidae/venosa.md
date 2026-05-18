@@ -1,9 +1,10 @@
 ---
 title: 'Ruby   reef crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ruby, reef, crab, actaea, liomera, venosa, xanthidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ruby, reef, crab, actaea, liomera, venosa, xanthidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Xanthidae
 genus: Actaea
@@ -19,18 +20,23 @@ order: Ranunculales
 subfamily: Ranunculoideae
 tribe: Actaeeae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+    caption: Labrador, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206.md)*
@@ -39,7 +45,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Liomera venosa*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1210)
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
@@ -47,6 +53,8 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- lab
 ---
 
 **Where seen?**

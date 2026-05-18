@@ -1,9 +1,10 @@
 ---
 title: Banded mangrove ear snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cassidula, nucleus, mustelina, snail, ellobiidae, gastropod, mollusc, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cassidula, nucleus, mustelina, snail, ellobiidae, gastropod, mollusc, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: Cassidula
@@ -22,18 +23,23 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg"
-      caption: "Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg"
-      caption: "Berlayar Creek, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
+    caption: Pulau Semakau, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg
+    caption: Berlayar Creek, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg"
-      caption: "Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg
+    caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: |
   **Links**
   - [*Cassidula nucleus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Cassidula&speciesname=nucleus)
@@ -46,7 +52,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -54,6 +60,11 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- lck
+- lab
+- smk
 ---
 
 **Where seen?**

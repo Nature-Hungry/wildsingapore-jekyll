@@ -1,9 +1,10 @@
 ---
 title: Tiny maretia heart urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida,
-  echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: heart, urchin, maretia, planulata, maretiidae, spatangidae, 
+  spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -29,32 +30,45 @@ order: Spatangoida
 suborder: Brissidina
 superfamily: Spatangoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg"
-      caption: "Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3b.jpg"
-      caption: "A few long banded spines, many more short spines."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
+    caption: Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3b.jpg
+    caption: A few long banded spines, many more short spines.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6364m3.jpg"
-      caption: "This one seemed to have popped out of the sand, leaving a hole of the same shape."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6370m3.jpg"
-      caption: Side view.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6368m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6364m3.jpg
+    caption: This one seemed to have popped out of the sand, leaving a hole of 
+      the same shape.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6370m3.jpg
+    caption: Side view.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6368m3.jpg
+    caption: Underside.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/120508skdjk1m3.jpg"
-      caption: "Pulau Sekudu, May 12 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/180301cyll2.jpg"
-      caption: "Cyrene Reef, Apr 18 Photo shared by Liz Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/120508skdjk1m3.jpg
+    caption: Pulau Sekudu, May 12 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/180301cyll2.jpg
+    caption: Cyrene Reef, Apr 18 Photo shared by Liz Lim on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp17m3.jpg"
-      caption: "Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3a.jpg"
-      caption: "Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg"
-      caption: "Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp17m3.jpg
+    caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3a.jpg
+    caption: Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg
+    caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [*Maretia*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=351)
@@ -64,11 +78,16 @@ links_references: |
   [Order Spatangoida](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/taxon.jsp?id=244)
   - [*Maretia planulata*](http://www.sealifebase.org/summary/Maretia-planulata.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- skd
+- cyr
+- smk
+- lfa
 ---
 
 **Where seen?**

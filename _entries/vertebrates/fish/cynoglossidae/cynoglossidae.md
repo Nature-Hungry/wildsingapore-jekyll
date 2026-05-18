@@ -1,9 +1,10 @@
 ---
 title: Tongue-soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,44 +25,61 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Small and flat, they are often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal fins joined all around the body. Found beneath the sand. Watch your step!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Small and flat, they are often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal fins joined all around the body. Found beneath the sand. Watch your step!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Small and flat, they are 
+      often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal 
+      and anal fins joined all around the body. Found beneath the sand. Watch 
+      your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Small and flat, they are often mistaken for flatworms! Eyes on left
+      side of the body. Tail, dorsal and anal fins joined all around the body. 
+      Found beneath the sand. Watch your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg"
-      caption: "A tiny one. Changi, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg"
-      caption: "Changi, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+    caption: A tiny one. Changi, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
+    caption: Changi, Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg"
-      caption: "Seringat-Kias, Feb 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
+    caption: Seringat-Kias, Feb 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg"
-      caption: "Pasir Ris, Jul 18 Shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
+    caption: Pasir Ris, Jul 18 Shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg"
-      caption: "Changi CP7, Jan 21 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg"
-      caption: "Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
+    caption: Changi CP7, Jan 21 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
+    caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg"
-      caption: "Changi Lost Coast, Jun 22 Shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
+    caption: Changi Lost Coast, Jun 22 Shared by Dayna Cheah on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg"
-      caption: "East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+    caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG"
-      caption: "East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
+    caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg"
-      caption: "East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+    caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg"
-      caption: "Tanah Merah, Jan 10 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
+    caption: Tanah Merah, Jan 10 Photo shared by James Koh on flickr .
 links_references: |
   **Links**
   - [Doublelined Tongue-Sole (
@@ -108,11 +126,17 @@ links_references: |
   .
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Kelvin K. P. Lim & Tan Heok Hui.
   *Bleeker’s fringelip tongue-sole at East Coast.*
   29 March 2018. Singapore Biodiversity Records 2018: 33-34 ISSN 2345-7597. National University of Singaporec.
+location:
+- prp
+- chg
+- tm
+- ecp
+- laz
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

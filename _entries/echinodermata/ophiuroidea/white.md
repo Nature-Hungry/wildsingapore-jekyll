@@ -1,9 +1,10 @@
 ---
 title: 'Ghost brittle star '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ghost, white, brittle, star, brittlestar, ophiuroidea, echinoderm, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ghost, white, brittle, star, brittlestar, ophiuroidea, echinoderm, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -17,35 +18,53 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3831m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3831m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3831m3.jpg"
-      caption: "Changi, Jun 16"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg"
-      caption: "Changi, Jun 16"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg"
-      caption: "Tuas, Dec 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3831m3.jpg
+    caption: Changi, Jun 16
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
+    caption: Changi, Jun 16
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg
+    caption: Tuas, Dec 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/130526chglksl.jpg"
-      caption: "Changi, May 13"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/130526chglks2.JPG"
-      caption: .Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/130526chglksl.jpg
+    caption: Changi, May 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/130526chglks2.JPG
+    caption: .Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/210501chgmn1.jpg"
-      caption: "Changi, May 21 Photo shared by Marcus Ng on facebook."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/210501chgmn1.jpg
+    caption: Changi, May 21 Photo shared by Marcus Ng on facebook.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/150802bblks1.jpg"
-      caption: "Beting Bronok, Aug 15"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/150802bblks1a.jpg"
-      caption: Photo shared by Loh Kok Sheng on flickr .
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/101011chglks.JPG"
-      caption: "Changi, Oct 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/150802bblks1.jpg
+    caption: Beting Bronok, Aug 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/150802bblks1a.jpg
+    caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/101011chglks.JPG
+    caption: Changi, Oct 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/090528ecplks.JPG"
-      caption: "East Coast Park, May 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/091218tmlks.JPG"
-      caption: "Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/090528ecplks.JPG
+    caption: East Coast Park, May 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/091218tmlks.JPG
+    caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on flickr .
+location:
+- chg
+- bb
+- tus
+- tm
+- ecp
 ---
 
 **Where seen?**

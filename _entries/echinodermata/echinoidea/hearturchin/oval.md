@@ -1,9 +1,10 @@
 ---
 title: Keeled heart urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: oval, heart, urchin, brissus, latecarinatus, spatangoida, echinoidea, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: oval, heart, urchin, brissus, latecarinatus, spatangoida, echinoidea, 
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -28,61 +29,104 @@ subterclass: Atelostomata
 order: Spatangoida
 suborder: Brissidina
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3541m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3541m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3541m3.jpg"
-      caption: "Upperside. Several seen above ground after the May 2010 oil spill at Tanah Merah. Tanah Merah, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3536m3.jpg"
-      caption: "Underside. Tanah Merah, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3536m3a.jpg"
-      caption: Mouth on the underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3541m3.jpg
+    caption: Upperside. Several seen above ground after the May 2010 oil spill 
+      at Tanah Merah. Tanah Merah, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3536m3.jpg
+    caption: Underside. Tanah Merah, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100527tmd3536m3a.jpg
+    caption: Mouth on the underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0018m3.jpg"
-      caption: "Upperside. Pulau Sekudu, Dec 03"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0018m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0015m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0018m3.jpg
+    caption: Upperside. Pulau Sekudu, Dec 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0018m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/031225skdd0015m3.jpg
+    caption: Underside.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/200400chg7jt.jpg"
-      caption: "Changi, Apr 20 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/200400chg7jt.jpg
+    caption: Changi, Apr 20 Photo shared by Jonathan Tan on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/090426skdtch03m3.jpg"
-      caption: "Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/090426skdtch04m3.jpg"
-      caption: "Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100516skdtch3m3.jpg"
-      caption: "Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/090426skdtch03m3.jpg
+    caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/090426skdtch04m3.jpg
+    caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100516skdtch3m3.jpg
+    caption: Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/170626skdlks1.jpg"
-      caption: "Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/230803skdtch3.jpg"
-      caption: "Pulau Sekudu, Aug 23 Photo shared by Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/170626skdlks1.jpg
+    caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/230803skdtch3.jpg
+    caption: Pulau Sekudu, Aug 23 Photo shared by Chay Hoon on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/250430sjiml6.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Mathias Luk on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/150219lsisrl1m3.jpg"
-      caption: "Small Sisters Island, Feb 15 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/250430sjiml6.jpg
+    caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/150219lsisrl1m3.jpg
+    caption: Small Sisters Island, Feb 15 Photo shared by Russel Low on facebook
+      .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/110619tslglks4m3.JPG"
-      caption: "Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100616cyrc5101m3.jpg"
-      caption: "Cyrene Reef, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/180812cyrjt3.jpg"
-      caption: "Cyrene Reef, Aug 18 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/110619tslglks4m3.JPG
+    caption: Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/100616cyrc5101m3.jpg
+    caption: Cyrene Reef, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/180812cyrjt3.jpg
+    caption: Cyrene Reef, Aug 18 Photo shared by Jonathan Tan on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/120607kushpy1m3.jpg"
-      caption: "Kusu Island, Jun 12 Photo shared by Heng Pei Yan on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/120707jnglks.JPG"
-      caption: "Pulau Jong, Jul 12 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/120607kushpy1m3.jpg
+    caption: Kusu Island, Jun 12 Photo shared by Heng Pei Yan on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/120707jnglks.JPG
+    caption: Pulau Jong, Jul 12 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/181124jt.jpg"
-      caption: "Beting Bemban Besar, Nov 18 Photo shared by Juria Toramae on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/200709bbbdc1.jpg"
-      caption: "Beting Bemban Besar, Jul 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/251008bbbky10.jpg"
-      caption: "Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/181124jt.jpg
+    caption: Beting Bemban Besar, Nov 18 Photo shared by Juria Toramae on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/200709bbbdc1.jpg
+    caption: Beting Bemban Besar, Jul 20 Photo shared by Dayna Cheah on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/oval/251008bbbky10.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook
+      .
+location:
+- prp
+- chg
+- cj
+- skd
+- tus
+- tm
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- smk
+- tsm
 ---
 
 **Where seen?**

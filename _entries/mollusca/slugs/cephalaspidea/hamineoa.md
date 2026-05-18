@@ -1,9 +1,10 @@
 ---
 title: Bubble-shell snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -35,33 +36,44 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Haminoeoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg"
-      caption: "Chek Jawa, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3b.jpg"
-      caption: "Releasing purple secretion. Chek Jawa, Feb 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
+    caption: Chek Jawa, Apr 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3b.jpg
+    caption: Releasing purple secretion. Chek Jawa, Feb 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg"
-      caption: "Chek Jawa, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3a.jpg"
-      caption: "Chek Jawa, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1143m3.jpg"
-      caption: "Sometimes seen in a row. Chek Jawa, Apr 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
+    caption: Chek Jawa, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3a.jpg
+    caption: Chek Jawa, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1143m3.jpg
+    caption: Sometimes seen in a row. Chek Jawa, Apr 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/141223tustch1m3.jpg"
-      caption: "Tuas, Dec 14 Photo shared by Toh Chay Hoon on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/091230prpjk2m3.jpg"
-      caption: "Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/141223tustch1m3.jpg
+    caption: Tuas, Dec 14 Photo shared by Toh Chay Hoon on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/091230prpjk2m3.jpg
+    caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/251205cjlks3a.jpg"
-      caption: "Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/160706skdnml1.jpg"
-      caption: "Pulau Sekudu, Jul 16 Photo shared by Neo Mei Lin on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/251205cjlks3a.jpg
+    caption: Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/160706skdnml1.jpg
+    caption: Pulau Sekudu, Jul 16 Photo shared by Neo Mei Lin on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/191127lazjll1.jpg"
-      caption: "Lazarus Island, Nov 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/191127lazjll1.jpg
+    caption: Lazarus Island, Nov 19 Photo shared by Jianlin Liu on facebook .
 links_references: |
   **Links**
   - [Bubble shell (
@@ -78,7 +90,7 @@ links_references: |
   on
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  
+
   **References**
   - Toh Chay Hoon & Tan Siong Kiat. 10 July 2015.
   *White nut sheath bubble shell Atys naucum at Pulau Hantu*
@@ -101,6 +113,14 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- prp
+- cj
+- skd
+- tus
+- ecp
+- laz
+- smk
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Ornate rock lobster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lobster, panulirus, ornatus, palinuridae, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lobster, panulirus, ornatus, palinuridae, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 84
@@ -25,28 +26,37 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg"
-      caption: "Lobsters are sometimes seen on the intertidal, sadly, usually in driftnets. St John's Island, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg"
-      caption: A lobster released from a driftnet. Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
+    caption: Lobsters are sometimes seen on the intertidal, sadly, usually in 
+      driftnets. St John's Island, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+    caption: A lobster released from a driftnet. Jun 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg"
-      caption: "Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg"
-      caption: "Trapped in a net, Lazarus, Jan 22 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg
+    caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg
+    caption: Trapped in a net, Lazarus, Jan 22 Photo shared by Kelvin Yong on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook
+      .
 links_references: |
   **Links**
   - [Ornate spiny lobster (
   *Panulirus ornatus*
   )](http://www.sealifebase.ca/summary/Panulirus-ornatus.html)
   on SeaLife Base.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
@@ -57,6 +67,11 @@ links_references: |
   - Debelius, Helmut, 2001.
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+location:
+- ecp
+- laz
+- sji
+- sis
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Cave corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cave, Tubastraea, dendrophylliidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cave, Tubastraea, dendrophylliidae, coral, hard, scleractinia, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Tubastraea
@@ -17,77 +18,109 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/120605lygd3943m3.jpg"
-      caption: "Changi, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/091011mkbd2831m3.jpg"
-      caption: "Keppel Bay, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/120605lygd3943m3.jpg
+    caption: Changi, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/091011mkbd2831m3.jpg
+    caption: Keppel Bay, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/040507rlhbd0060m3.jpg"
-      caption: "Raffles Lighthouse, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090820ecpd9512m3.jpg"
-      caption: "East Coast Park, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/120704chgd6837m3.jpg"
-      caption: "Changi, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/040507rlhbd0060m3.jpg
+    caption: Raffles Lighthouse, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090820ecpd9512m3.jpg
+    caption: East Coast Park, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/120704chgd6837m3.jpg
+    caption: Changi, Jul 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3.jpg"
-      caption: "Pasir Ris Park, Jul 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3a.jpg"
-      caption: Photo shared by James Koh on his blog .
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/101223pgllks.JPG"
-      caption: "Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3.jpg
+    caption: Pasir Ris Park, Jul 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3a.jpg
+    caption: Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/101223pgllks.JPG
+    caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/240527srplks5.jpg"
-      caption: "Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/240528tslvc12.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/240527srplks5.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/240528tslvc12.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/220518kusmn2.jpg"
-      caption: "Kusu Island, May 22 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg"
-      caption: "Kusu Island, Sep 19 Photo shared by Leon Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/220518kusmn2.jpg
+    caption: Kusu Island, May 22 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
+    caption: Kusu Island, Sep 19 Photo shared by Leon Tan on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/110220lazrl2m3.jpg"
-      caption: "Lazarus Island, Feb 11 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg"
-      caption: "Kusu Island, Sep 19 Photo shared by Leon Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/230901kuslks3.jpg"
-      caption: "Kusu Island, Sep 23 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/110220lazrl2m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
+    caption: Kusu Island, Sep 19 Photo shared by Leon Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/230901kuslks3.jpg
+    caption: Kusu Island, Sep 23 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/200820ssislks4.jpg"
-      caption: "Small Sisters Island, Aug 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/100103sislks.JPG"
-      caption: "Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/230321tkrlks1.jpg"
-      caption: "Pulau Tekukor, Mar 23 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/200820ssislks4.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/100103sislks.JPG
+    caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/230321tkrlks1.jpg
+    caption: Pulau Tekukor, Mar 23 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/110422tbmlks7m3.jpg"
-      caption: "Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/130427tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/110422tbmlks7m3.jpg
+    caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/130427tptlks.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
+      flickr .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks.JPG"
-      caption: "Terumbu Semakau, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks2.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks3.JPG"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks.JPG
+    caption: Terumbu Semakau, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks2.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks3.JPG
+    caption: ''
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/091231biolks4m3.jpg"
-      caption: "Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/100403tbblks4m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/150605kuslks1m3.JPG"
-      caption: "Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/091231biolks4m3.jpg
+    caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/100403tbblks4m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/150605kuslks1m3.JPG
+    caption: Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -103,6 +136,21 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- pgl
+- prp
+- chg
+- ubn
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sis
+- jng
+- tpg
+- tsm
+- rfl
 ---
 
 **Where seen?**

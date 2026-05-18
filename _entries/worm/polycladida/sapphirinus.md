@@ -1,9 +1,11 @@
 ---
 title: Sapphire flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, sapphirinus,
-  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, 
+  sapphirinus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -17,20 +19,24 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg"
-      caption: "Tuas, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg"
-      caption: Pseudotentacles made up of folded edges of body margin.
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/200310lazvc1.jpg"
-      caption: "Lazarus, Mar 20 Photo shared by VIncent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+    caption: Tuas, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg
+    caption: Pseudotentacles made up of folded edges of body margin.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/200310lazvc1.jpg
+    caption: Lazarus, Mar 20 Photo shared by VIncent Choo on facebook .
 links_references: |
   **Links**
   - [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-  
+
   **References**
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
@@ -50,6 +56,9 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- tus
+- laz
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Scintillating flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, worm, flatworm, pseudoceros, scintillatus, polyclad, turbellaria,
-  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, worm, flatworm, pseudoceros, scintillatus, polyclad, 
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -17,16 +18,24 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg"
-      caption: "Pulau Sekudu, Jun 18 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180714cjcyf1.jpg"
-      caption: "Chek Jawa, Jul 18 Photo shared by Choo Yi Feng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
+    caption: Pulau Sekudu, Jun 18 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180714cjcyf1.jpg
+    caption: Chek Jawa, Jul 18 Photo shared by Choo Yi Feng on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/150422jngmn.jpg"
-      caption: "Pulau Jong, Apr 15 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/150422jngmn.jpg
+    caption: Pulau Jong, Apr 15 Photo shared by Marcus Ng on flickr .
+location:
+- cj
+- skd
+- jng
 ---
 
 **Where seen?**

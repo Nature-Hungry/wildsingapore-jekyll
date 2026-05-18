@@ -1,9 +1,10 @@
 ---
 title: Tiny red sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -17,29 +18,47 @@ family: Cucumariidae
 genus: awating
 species: identification*
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg"
-      caption: "Chek Jawa, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
+    caption: Chek Jawa, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg"
-      caption: "Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg
+    caption: Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG"
-      caption: "East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg"
-      caption: "Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG
+    caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg
+    caption: Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on facebook .
+location:
+- chg
+- cj
+- skd
+- tus
+- tm
+- ecp
 ---
 
 **Where seen?**

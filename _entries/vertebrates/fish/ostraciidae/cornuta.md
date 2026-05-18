@@ -1,9 +1,10 @@
 ---
 title: 'Longhorn cowfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: longhorn, cow, cowfish, fish, lactoria, cornuta, ostraciidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: longhorn, cow, cowfish, fish, lactoria, cornuta, ostraciidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,48 +24,69 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg"
-      caption: "Tanah Merah, Aug 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m6l.jpg"
-      caption: "Cyrene, Jun 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg
+    caption: Tanah Merah, Aug 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m6l.jpg
+    caption: Cyrene, Jun 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/090512tmftd1497m6l.jpg"
-      caption: "Tanah Merah, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/sbr.JPG"
-      caption: "Juvenile. Tuas, Apr 17 Photo from Singapore Biodiversity Records 2017:97"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/090512tmftd1497m6l.jpg
+    caption: Tanah Merah, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/sbr.JPG
+    caption: Juvenile. Tuas, Apr 17 Photo from Singapore Biodiversity Records 
+      2017:97
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170530chg7lks.jpg"
-      caption: "Changi, May 17 Photo shared by Lok Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210528chg7lks1.jpg"
-      caption: "Changi Carpark 7, May 21 Photo shared by Lok Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170530chg7lks.jpg
+    caption: Changi, May 17 Photo shared by Lok Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210528chg7lks1.jpg
+    caption: Changi Carpark 7, May 21 Photo shared by Lok Kok Sheng on facebook 
+      .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/240821skdky1.jpg"
-      caption: "Pulau Sekudu, Aug 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/240821skdky1.jpg
+    caption: Pulau Sekudu, Aug 24 Photo shared by Kelvin Yong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170501tsmktch4.jpg"
-      caption: "Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210228lazjll1.jpg"
-      caption: "Lazarus Island, Feb 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170501tsmktch4.jpg
+    caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook 
+      ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210228lazjll1.jpg
+    caption: Lazarus Island, Feb 21 Photo shared by Jianlin Liu on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100725hntlks3m6l.jpg"
-      caption: "Pulau Hantu, Jul 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/131104smkmn.jpg"
-      caption: "Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100713cyrtch4m6l.jpg"
-      caption: "Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100725hntlks3m6l.jpg
+    caption: Pulau Hantu, Jul 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/131104smkmn.jpg
+    caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100713cyrtch4m6l.jpg
+    caption: Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210823smkerk1.jpg"
-      caption: "Pulau Semakau East, Aug 21 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/200627cyrlks6.jpg"
-      caption: "Cyrene, Jun 20 Photo shared by Lok Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210823smkerk1.jpg
+    caption: Pulau Semakau East, Aug 21 Photo shared by Richard Kuah on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/200627cyrlks6.jpg
+    caption: Cyrene, Jun 20 Photo shared by Lok Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/180419cycw1.jpg"
-      caption: "Cyrene Reef, Apr 18 Photo shared by Chris Wong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110731trylks4m3.jpg"
-      caption: "Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/180419cycw1.jpg
+    caption: Cyrene Reef, Apr 18 Photo shared by Chris Wong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110731trylks4m3.jpg
+    caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Longhorn cowfish (
@@ -73,7 +95,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Bee Yan & Jeremy W. L. Yeo. 28 Jul 2017.
   *A juvenile longhorn cowfish*
@@ -87,6 +109,17 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- chg
+- skd
+- tus
+- tm
+- kus
+- laz
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

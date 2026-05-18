@@ -1,9 +1,10 @@
 ---
 title: Planaxis snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, snail,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, 
+  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,20 +27,26 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Planaxinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg"
-      caption: "Sisters Islands, Feb 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/080510smkd2954m3a.jpg"
-      caption: "Pulau Semakau, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/120707jngd7462m3a.jpg"
-      caption: "Pulau Jong, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
+    caption: Sisters Islands, Feb 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/080510smkd2954m3a.jpg
+    caption: Pulau Semakau, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/120707jngd7462m3a.jpg
+    caption: Pulau Jong, Jul 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck01m3.jpg"
-      caption: "Pulau Jong, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg"
-      caption: Photo shared by Chim Chee Kong on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck01m3.jpg
+    caption: Pulau Jong, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg
+    caption: Photo shared by Chim Chee Kong on his flickr .
 links_references: |
   **Links**
   - [*Planaxis sulcatus*](http://www.sealifebase.org/summary/speciessummary.php?id=4317)
@@ -48,7 +55,7 @@ links_references: |
   on
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
   by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
-  
+
   **References**
   - Tan SK & Low MEY (2014)
   *Singapore Mollusca: 5. The subfamily Planaxinae (Gastropoda: Caenogastropoda: Cerithioidea: Planaxidae).*
@@ -68,6 +75,22 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- skd
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- tpg
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

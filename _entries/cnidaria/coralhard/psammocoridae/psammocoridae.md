@@ -1,9 +1,10 @@
 ---
 title: 'Sandpaper corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Psammocoridae
 genus: ''
@@ -17,33 +18,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg"
-      caption: Tiny petal-shaped holes.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg"
-      caption: Granular surface giving their common name of sandpaper coral.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+    caption: Tiny petal-shaped holes.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
+    caption: Granular surface giving their common name of sandpaper coral.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg"
-      caption: "A tiny shrimp. Sentosa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg"
-      caption: "A tiny scallop clam . Pulau Hantu, Mar 06"
-    - url: "http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg"
-      caption: "A fan worm . Raffles Lighthouse, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg
+    caption: A tiny shrimp. Sentosa, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
+    caption: A tiny scallop clam . Pulau Hantu, Mar 06
+  - url: 
+      http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
+    caption: A fan worm . Raffles Lighthouse, Aug 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg"
-      caption: Crinkled sandpaper coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg"
-      caption: Crinkled sandpaper coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg"
-      caption: Boulder sandpaper coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
+    caption: Crinkled sandpaper coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
+    caption: Crinkled sandpaper coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+    caption: Boulder sandpaper coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -54,7 +67,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
   - *[Psammocora digitata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45488)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -71,6 +84,22 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp.
+location:
+- cj
+- skd
+- tus
+- tm
+- lab
+- snt
+- tkr
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- rfl
 ---
 
 **Where seen?**

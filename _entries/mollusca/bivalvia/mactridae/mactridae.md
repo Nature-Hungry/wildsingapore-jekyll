@@ -1,9 +1,10 @@
 ---
 title: Mactra clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Mactridae
 genus: ''
@@ -21,15 +22,19 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Mactroidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg"
-      caption: "Changi, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg"
-      caption: "Pulau Sekudu, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1783m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+    caption: Changi, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
+    caption: Pulau Sekudu, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1783m3.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Surf clams (Family Mactridae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html)
@@ -39,7 +44,7 @@ links_references: |
   - Family Mactridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -47,6 +52,17 @@ links_references: |
   - Wong, H. W., 2009.
   *The Mactridae (Mollusca: Bivalvia) of East Coast Park, Singapore*
   . Nature in Singapore, 2: 283-296.
+location:
+- prp
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- laz
+- sji
+- sis
 ---
 
 **Where seen?**

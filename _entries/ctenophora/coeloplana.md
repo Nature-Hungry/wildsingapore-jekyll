@@ -1,8 +1,9 @@
 ---
 title: Leathery soft coral ctenophores
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: Coeloplana
@@ -15,31 +16,44 @@ phylum: Ctenophora
 class: Tentaculata
 order: Platyctenida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg"
-      caption: "Sentosa, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0493m3.jpg"
-      caption: "Cyrene Reef, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
+    caption: Sentosa, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0493m3.jpg
+    caption: Cyrene Reef, Aug 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/100528ttkkd3747m3.jpg"
-      caption: "Pulau Tekukor, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg"
-      caption: "Cyrene Reef, Jul 12"
-    - url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0430m3.jpg"
-      caption: "Cyrene Reef, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/100528ttkkd3747m3.jpg
+    caption: Pulau Tekukor, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg
+    caption: Cyrene Reef, Jul 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0430m3.jpg
+    caption: Cyrene Reef, Aug 12
 links_references: |
   **Links**
   - [Benthic ctenophores](http://www.seaslugforum.net/find/ctenopho)
   on the Sea Slug Forum by Dr Bill Rudman
   - [Tiny ctenophores](http://wildshores.blogspot.sg/2011/12/tiny-ctenophores.html)
   on the wild shores of singapore
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+location:
+- snt
+- tkr
+- sis
+- cyr
+- hnt
+- tpg
 ---
 
 **Where seen?**

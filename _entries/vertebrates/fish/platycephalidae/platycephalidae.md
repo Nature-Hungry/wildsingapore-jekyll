@@ -1,8 +1,10 @@
 ---
 title: Flatheads
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flathead, flat, head, fish, platycephalidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flathead, flat, head, fish, platycephalidae, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Platycephalidae
 genus: ''
@@ -18,27 +20,36 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg"
-      caption: "East Coast, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg"
-      caption: "Changi, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+    caption: East Coast, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg
+    caption: Changi, Jun 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Bartail Flathead (
@@ -93,6 +104,26 @@ links_references: |
   : Technical fact sheet on the family, including fact sheets on individual species.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
+location:
+- chg
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

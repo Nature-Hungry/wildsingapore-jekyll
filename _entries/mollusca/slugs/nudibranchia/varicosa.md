@@ -1,9 +1,10 @@
 ---
 title: Varicose phyllid nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: varicose, phyllid, phyllidia, varicosa, phyllidiidae, nudibranch, slug,
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: varicose, phyllid, phyllidia, varicosa, phyllidiidae, nudibranch, 
+  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,80 +29,122 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg"
-      caption: "Terumbu Semakau, May 12 ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg"
-      caption: Orange rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2736m3.jpg"
-      caption: "Another set of tentacles underneath. Terumbu Semakau, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
+    caption: Terumbu Semakau, May 12 .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg
+    caption: Orange rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2736m3.jpg
+    caption: Another set of tentacles underneath. Terumbu Semakau, May 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/060727jngd5064.jpg"
-      caption: "Dark stripe or line of dark dashes/dots on the underside. Pulau Jong, Jul 06."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2744m3.jpg"
-      caption: "Gills on the sides instead of in a feathery bunch on the back Terumbu Semakau, May 12 ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/060727jngd5064.jpg
+    caption: Dark stripe or line of dark dashes/dots on the underside. Pulau 
+      Jong, Jul 06.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2744m3.jpg
+    caption: Gills on the sides instead of in a feathery bunch on the back 
+      Terumbu Semakau, May 12 .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210228lazjk2.jpg"
-      caption: "Lazarus Island, Feb 21 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/080208bsistch.jpg"
-      caption: "Big Sisters Island, Feb 08 Photo shared by Toh Chay Hoon on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210228lazjk2.jpg
+    caption: Lazarus Island, Feb 21 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/080208bsistch.jpg
+    caption: Big Sisters Island, Feb 08 Photo shared by Toh Chay Hoon on flickr 
+      .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/260217bsislks5a.jpg"
-      caption: "Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/260217bsislks5b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/260217bsislks5a.jpg
+    caption: Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/260217bsislks5b.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/250530kustt1.jpg"
-      caption: "Kusu Island, May 25 Photo shared by Tommy Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/220202bsisjk1.jpg"
-      caption: "Big Sisters Island, Feb 22 Photo shared by James Koh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/250201bsisky7.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/250530kustt1.jpg
+    caption: Kusu Island, May 25 Photo shared by Tommy Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/220202bsisjk1.jpg
+    caption: Big Sisters Island, Feb 22 Photo shared by James Koh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/250201bsisky7.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/230705ssisccn1.jpg"
-      caption: "Small Sisters Island, Jul 23 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150220lsislks4m3.JPG"
-      caption: "Small Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on his blog."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/230705ssisccn1.jpg
+    caption: Small Sisters Island, Jul 23 Photo shared by Che Cheng Neo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150220lsislks4m3.JPG
+    caption: Small Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on his 
+      blog.
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210430sjijll2b.jpg"
-      caption: "St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210430sjijll2a.jpg"
-      caption: "St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210430sjijll2b.jpg
+    caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210430sjijll2a.jpg
+    caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/240309tkccn2.jpg"
-      caption: "Pulau Tekukor, Mar 24 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150422jngmn3m3.jpg"
-      caption: "Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/090412hnttch07m3.jpg"
-      caption: "Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/240309tkccn2.jpg
+    caption: Pulau Tekukor, Mar 24 Photo shared by Che Cheng Neo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150422jngmn3m3.jpg
+    caption: Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/090412hnttch07m3.jpg
+    caption: Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150720smknjtm2m3.jpg"
-      caption: "Pulau Semakau North, Jul 15 Photo shared by Juria Toramae on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150720smknjtm1m3.jpg"
-      caption: "Pulau Semakau North, Jul 15 Photo shared by Juria Toramae on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150720smknjtm2m3.jpg
+    caption: Pulau Semakau North, Jul 15 Photo shared by Juria Toramae on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/150720smknjtm1m3.jpg
+    caption: Pulau Semakau North, Jul 15 Photo shared by Juria Toramae on 
+      facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/201215smkejll2.jpg"
-      caption: "Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/201215smkelks4.jpg"
-      caption: "Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/201215smkejll2.jpg
+    caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/201215smkelks4.jpg
+    caption: Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210402tmskjll3.jpg"
-      caption: "Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/180815bbbjll1.jpg"
-      caption: "Beting Bemban Besar, Aug 18 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/210402tmskjll3.jpg
+    caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/180815bbbjll1.jpg
+    caption: Beting Bemban Besar, Aug 18 Photo shared by Jianlin Liu on facebook
+      .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/190608bbbjll2.jpg"
-      caption: "Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/190608bbbjll5.jpg"
-      caption: "Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/190608bbbjll2.jpg
+    caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/190608bbbjll5.jpg
+    caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook
+      .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheet of
   *[Phyllidia varicosa](http://www.seaslugforum.net/find/phylvari)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -124,6 +167,16 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

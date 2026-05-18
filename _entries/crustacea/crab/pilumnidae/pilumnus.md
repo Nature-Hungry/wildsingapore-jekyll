@@ -1,9 +1,10 @@
 ---
 title: Common hairy crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: crab, hairy, crustacea, pilumnus, vespertilio, pilumnidae, decapod, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: crab, hairy, crustacea, pilumnus, vespertilio, pilumnidae, decapod, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,91 +31,138 @@ zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... 'Hair' covers almost every part of the body! The hairs trap sediments, adding to their camouflage. So please watch out when you step among the rocks. They are mildy poisonous!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "'Hair' covers almost every part of the body! The hairs trap sediments, adding to their camouflage. So please watch out when you step among the rocks. They are mildy poisonous!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... 'Hair' covers almost 
+      every part of the body! The hairs trap sediments, adding to their 
+      camouflage. So please watch out when you step among the rocks. They are 
+      mildy poisonous!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: "'Hair' covers almost every part of the body! The hairs trap sediments,
+      adding to their camouflage. So please watch out when you step among the rocks.
+      They are mildy poisonous!"
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg"
-      caption: "Labrador, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/040817sntd4704m3.jpg"
-      caption: "Sentosa, Aug 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080606cyrtch.jpg"
-      caption: "A pair mating? Cyrene Reef, Jun 08 Photo shared by Toh Chay Hoon on flickr .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+    caption: Labrador, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/040817sntd4704m3.jpg
+    caption: Sentosa, Aug 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080606cyrtch.jpg
+    caption: A pair mating? Cyrene Reef, Jun 08 Photo shared by Toh Chay Hoon on
+      flickr ..
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080321smkd0342m3.jpg"
-      caption: "Eating a bristleworm! Pulau Semakau, Mar 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/081017cyrtch01m3.jpg"
-      caption: "Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Toh Chay Hoon on her flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/190522tsmsg1.jpg"
-      caption: "Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Shawne Goh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080321smkd0342m3.jpg
+    caption: Eating a bristleworm! Pulau Semakau, Mar 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/081017cyrtch01m3.jpg
+    caption: Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Toh Chay Hoon 
+      on her flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/190522tsmsg1.jpg
+    caption: Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Shawne Goh on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/120409tptd8682m3.jpg"
-      caption: "Nibbling on a Hairy olive sponge. Terumbu Pempang Tengah, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210502tptvc12.jpg"
-      caption: "About to nibble on a sponge? Terumbu Pempang Tengah, May 21 Shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080707hntd7507m3a.jpg"
-      caption: "About to nibble on nudibranch? Pulau Hantu, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/120409tptd8682m3.jpg
+    caption: Nibbling on a Hairy olive sponge. Terumbu Pempang Tengah, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210502tptvc12.jpg
+    caption: About to nibble on a sponge? Terumbu Pempang Tengah, May 21 Shared 
+      by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080707hntd7507m3a.jpg
+    caption: About to nibble on nudibranch? Pulau Hantu, Jul 08
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/060228labg5330m3.jpg"
-      caption: "Nibbling on hard seaweed. Labrador, Feb 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251008bbbky2.jpg"
-      caption: "Eating seaweed? Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200625tbdc1.jpg"
-      caption: "Eating a sponge-seaweed. Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/060228labg5330m3.jpg
+    caption: Nibbling on hard seaweed. Labrador, Feb 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251008bbbky2.jpg
+    caption: Eating seaweed? Beting Bemban Besar, Oct 25 Photo shared by Kelvin 
+      Yong on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200625tbdc1.jpg
+    caption: Eating a sponge-seaweed. Terumbu Bemban, Jun 20 Photo shared by 
+      Dayna Cheah on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/250501skdjt2.jpg"
-      caption: "Pulau Sekudu, May 25 Photo shared by Jonathan Tan on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/250501skdjt2.jpg
+    caption: Pulau Sekudu, May 25 Photo shared by Jonathan Tan on facebook
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210628ecpBvc3.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/171009blycw2.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Chris Wong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210628ecpBvc3.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/171009blycw2.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Chris Wong on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251011tgrlks23.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/201215bsrpvc7.jpg"
-      caption: "Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251011tgrlks23.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/201215bsrpvc7.jpg
+    caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200820ssistch2.jpg"
-      caption: "Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/20070724thntdc1.jpg"
-      caption: "Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/160124smkejt2.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200820ssistch2.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/20070724thntdc1.jpg
+    caption: Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/160124smkejt2.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Jonathan Tan on facebook
+      .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/110522bbblks1m3.jpg"
-      caption: "Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/090330trylks1m3.jpg"
-      caption: "Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/110522bbblks1m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/090330trylks1m3.jpg
+    caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on flickr .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220102biovc3.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091231biod6945m3.jpg"
-      caption: "Pulau Biola, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220102biovc3.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091231biod6945m3.jpg
+    caption: Pulau Biola, Dec 09
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100130brkd8719m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220201brkvc5.jpg"
-      caption: "Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100131slulks6m3.jpg"
-      caption: "Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100130brkd8719m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220201brkvc5.jpg
+    caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100131slulks6m3.jpg
+    caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery13:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091204pawd5222m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091205sudd5454m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210428slutch3.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091204pawd5222m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091205sudd5454m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210428slutch3.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
   gallery14:
-    - url: "https://live.staticflickr.com/1674/24814977961_a792b43b2d_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/1674/24814977961_a792b43b2d_z.jpg
+    caption: ''
   gallery15:
-    - url: "https://live.staticflickr.com/8006/28765538656_873772655b_z.jpg"
-      caption: "Hairy crabs about to mate?"
+  - url: https://live.staticflickr.com/8006/28765538656_873772655b_z.jpg
+    caption: Hairy crabs about to mate?
 links_references: |
   **Links**
   - [Hairy Crab (
@@ -129,7 +177,7 @@ links_references: |
   on
   [SeaLife Base](http://www.sealifebase.fisheries.ubc.ca/search.php)
   : Technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
   - Chou, L. M., 1998.
@@ -147,6 +195,28 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,9 +1,10 @@
 ---
 title: Ball moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod,
-  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, 
+  gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Neverita
@@ -19,18 +20,23 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg"
-      caption: "Tanah Merah, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg"
-      caption: "Tanah Merah, Feb 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+    caption: Tanah Merah, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
+    caption: Tanah Merah, Feb 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg"
-      caption: "Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg"
-      caption: Siphon (upper left) and tentcles
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+    caption: Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+    caption: Siphon (upper left) and tentcles
 links_references: |
   **Links**
   - [Bladder moon snail (
@@ -42,7 +48,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -53,6 +59,11 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- cj
+- tm
+- ecp
 ---
 
 **Where seen?**

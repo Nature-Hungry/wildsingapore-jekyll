@@ -1,9 +1,10 @@
 ---
 title: Ridged corallimorph
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: corallimorph, platyzoanthus, mussoides, discosomidae, corallimorpharia,
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: corallimorph, platyzoanthus, mussoides, discosomidae, 
+  corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -20,34 +21,55 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg"
-      caption: "Sisters Island, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg
+    caption: Sisters Island, Jan 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060212sisg4720m3.jpg"
-      caption: "Sisters Islands, Feb 06 Splitting up into two?"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060628sntd3753m3.jpg"
-      caption: "Sentosa, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5569m3.jpg"
-      caption: "St John's Island, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060212sisg4720m3.jpg
+    caption: Sisters Islands, Feb 06 Splitting up into two?
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060628sntd3753m3.jpg
+    caption: Sentosa, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5569m3.jpg
+    caption: St John's Island, Aug 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100617tbjk2m3.jpg"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/220619tsmjk1.jpg"
-      caption: "Terumbu Semakau, Jun 22 Photo shared by James Koh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100617tbjk2m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/220619tsmjk1.jpg
+    caption: Terumbu Semakau, Jun 22 Photo shared by James Koh on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100131slulks4m3.jpg"
-      caption: "Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/110717tblks6m3.jpg"
-      caption: "Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/210428slulks1.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100131slulks4m3.jpg
+    caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/110717tblks6m3.jpg
+    caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/210428slulks1.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+location:
+- snt
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

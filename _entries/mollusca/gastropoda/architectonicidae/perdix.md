@@ -1,9 +1,10 @@
 ---
 title: Patridge sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: partridge, sundial, architectonica, perdix, architectonicidae, gastropod,
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: partridge, sundial, architectonica, perdix, architectonicidae, 
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: Architectonica
@@ -17,7 +18,8 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
 links_references: |
   **Links**
   - [Family
@@ -26,7 +28,7 @@ links_references: |
     website: brief fact sheet with photos.
   - [*Architectonica
     perdix*](http://www.sealifebase.fisheries.ubc.ca/summary/Architectonica-perdix.html) in SeaLife Base: Technical fact sheet.
-  
+
   **References**  
   - Neo Mei Lin. 29 Sep 2017. *Possible mating and spawning behaviour of partridge sundial snails*. Singapore Biodiversity Records 2017: 121-122.
   - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
@@ -38,23 +40,48 @@ links_references: |
     R. Tucker, 1991. *Seashells
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg"
-      caption: "Dead specimen. Terumbu Pempang Tengah, Apr 17"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg"
-      caption: "Underside. Terumbu Pempang Tengah, Apr 17"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+    caption: Dead specimen. Terumbu Pempang Tengah, Apr 17
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
+    caption: Underside. Terumbu Pempang Tengah, Apr 17
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg"
-      caption: "East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
+    caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG"
-      caption: "Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg"
-      caption: "Photo shared by Toh Chay Hoon on facebook . Chek Jawa, Mar 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
+    caption: Photo shared by Toh Chay Hoon on facebook . Chek Jawa, Mar 13
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Family Architectonicidae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos. Architectonica perdix in SeaLife Base: Technical fact sheet. References Neo Mei Lin. 29 Sep 2017. Possible mating and spawning behaviour of partridge sundial snails . Singapore Biodiversity Records 2017: 121-122. Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. Recent sightings of two species of sundial shells at eastern Singapore . Singapore Biodiversity Records 2017: 116-118. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Family Architectonicidae on The Gladys Archerd Shell Collection
+      at Washington State University Tri-Cities Natural History Museum website: brief
+      fact sheet with photos. Architectonica perdix in SeaLife Base: Technical fact
+      sheet. References Neo Mei Lin. 29 Sep 2017. Possible mating and spawning behaviour
+      of partridge sundial snails . Singapore Biodiversity Records 2017: 121-122.
+      Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. Recent sightings of two species
+      of sundial shells at eastern Singapore . Singapore Biodiversity Records 2017:
+      116-118. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist
+      of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research,
+      National University of Singapore. Abbott, R. Tucker, 1991. Seashells of South
+      East Asia . Graham Brash, Singapore. 145 pp. Gosliner, Terrence M., David W.
+      Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific:
+      Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers.
+      314pp.'
+location:
+- cj
+- ecp
+- tpg
 ---
 
 **Where seen?**

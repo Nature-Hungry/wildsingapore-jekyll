@@ -1,9 +1,10 @@
 ---
 title: 'Orange signaller crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, signaller, metaplax, elegans, varunidae, decapod, crustacea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: orange, signaller, metaplax, elegans, varunidae, decapod, crustacea, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,15 +30,19 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Cyclograpsinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
-      caption: "Mandai, Feb 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg"
-      caption: "Mandai, Feb 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+    caption: Mandai, Feb 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
+    caption: Mandai, Feb 13
 links_references: |
   **Links**
   - [Orange signaller crab (
@@ -50,11 +55,13 @@ links_references: |
   *Metaplax elegans*
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742)
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+location:
+- sbw
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Margined conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: margined, conch, strombus,  marginatus, robustus, sowerbyorum, strombidae,
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: margined, conch, strombus,  marginatus, robustus, sowerbyorum, 
+  strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,39 +26,58 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg"
-      caption: "St. John's Island, Jul 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg"
-      caption: "Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+    caption: St. John's Island, Jul 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
+    caption: Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg"
-      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg"
-      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg"
-      caption: "Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on 
+      facebook ..
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg"
-      caption: "East Coast Park, Sep 10 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG"
-      caption: "East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg
+    caption: East Coast Park, Sep 10 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG
+    caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG"
-      caption: "Pasir Ris, May 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG"
-      caption: "Beting Bemban Besar, Nov 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg"
-      caption: "Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG
+    caption: Pasir Ris, May 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG
+    caption: Beting Bemban Besar, Nov 14 Photo shared by Loh Kok Sheng on flickr
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg
+    caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg"
-      caption: "Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg"
-      caption: "Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg
+    caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
+    caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [Marginate conch (
@@ -69,7 +89,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -77,6 +97,17 @@ links_references: |
   - Chim, C. K., M. L. Neo & K. S. Loh, 2009.
   *The status in Singapore of Strombus (Dolomena) marginatus sowerbyorum Visser & Man In't Veld, 2005*
   (Mollusca: Gastropoda: Strombidae). Nature in Singapore, 2: 379-384.
+location:
+- prp
+- chg
+- tm
+- ecp
+- laz
+- sji
+- sis
+- cyr
+- smk
+- tsm
 ---
 
 **Where seen?**

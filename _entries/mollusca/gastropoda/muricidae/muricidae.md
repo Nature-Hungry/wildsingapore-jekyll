@@ -1,8 +1,9 @@
 ---
 title: Drills
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: ''
@@ -17,69 +18,100 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Muricoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are fierce predators! Some can bore a hole through the prey's shell. It takes them a long time to get at their prey. Don't remove drills. Some lay large collections of egg capsules on the rocks.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are fierce predators! Some can bore a hole through the prey's shell. It takes them a long time to get at their prey. Don't remove drills. Some lay large collections of egg capsules on the rocks.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are fierce 
+      predators! Some can bore a hole through the prey's shell. It takes them a 
+      long time to get at their prey. Don't remove drills. Some lay large 
+      collections of egg capsules on the rocks.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are fierce predators! Some can bore a hole through the prey's 
+      shell. It takes them a long time to get at their prey. Don't remove 
+      drills. Some lay large collections of egg capsules on the rocks.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg"
-      caption: "Kusu Island, Dec 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg"
-      caption: "Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg"
-      caption: "Most have a strong foot. Changi, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
+    caption: Kusu Island, Dec 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
+    caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
+    caption: Most have a strong foot. Changi, Aug 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg"
-      caption: "A drill feeding on Little black mussels ? Lim Chu Kang, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg"
-      caption: "A drill clasping a Bazillion snail . Tanah Merah, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/070521tusd1356m3.jpg"
-      caption: "A 'gang' of drills stuck onto a clam. Tuas, May 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
+    caption: A drill feeding on Little black mussels ? Lim Chu Kang, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg
+    caption: A drill clasping a Bazillion snail . Tanah Merah, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/070521tusd1356m3.jpg
+    caption: A 'gang' of drills stuck onto a clam. Tuas, May 07
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/060129skdg4157m3a.jpg"
-      caption: "Drills laying eggs on a rock Pulau Sekudu, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg"
-      caption: "Close up of egg capsules Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/120604pgld3562m3a.jpg"
-      caption: "Close up of egg capsules Punggol, Jun 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/060129skdg4157m3a.jpg
+    caption: Drills laying eggs on a rock Pulau Sekudu, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
+    caption: Close up of egg capsules Changi, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/120604pgld3562m3a.jpg
+    caption: Close up of egg capsules Punggol, Jun 12
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg"
-      caption: "Egg capsules of the Reef murex . Cyrene Reef, Jul 17"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg"
-      caption: "Egg capsules of Mangrove murex Kranji Nature Trail, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg"
-      caption: "Drill eating eggs laid by another animal? East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg
+    caption: Egg capsules of the Reef murex . Cyrene Reef, Jul 17
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
+    caption: Egg capsules of Mangrove murex Kranji Nature Trail, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg
+    caption: Drill eating eggs laid by another animal? East Coast (PCN), May 21 
+      Photo shared by Vincent Choo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg"
-      caption: Elegant drills
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg"
-      caption: Elegant drills
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3.jpg"
-      caption: Elegant drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
+    caption: Elegant drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
+    caption: Elegant drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3.jpg
+    caption: Elegant drills
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg"
-      caption: Chunky drills
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/110204sisd5789m3.jpg"
-      caption: Chunky drills
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg"
-      caption: Chunky drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg
+    caption: Chunky drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/110204sisd5789m3.jpg
+    caption: Chunky drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg
+    caption: Chunky drills
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/110204sisd5769m3.jpg"
-      caption: Dark drill
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/060716sisg6742m3.jpg"
-      caption: Knobbly drills
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg"
-      caption: Rare-spined murex
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/110204sisd5769m3.jpg
+    caption: Dark drill
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/060716sisg6742m3.jpg
+    caption: Knobbly drills
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
+    caption: Rare-spined murex
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg"
-      caption: Mangrove murex
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg"
-      caption: Reef murex
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg"
-      caption: Ramose murex
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
+    caption: Mangrove murex
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
+    caption: Reef murex
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
+    caption: Ramose murex
 links_references: |
   **Links**
   - [Drill (
@@ -125,7 +157,7 @@ links_references: |
   on the Man and Molluscs website: an introduction to the wide range of dyes produced by members of the Family Muricidae with links to photos of the shells.
   - [Tyrian purple](http://www.chriscooksey.demon.co.uk/tyrian/)
   : details about the chemical structure of the dye and how it was collected in the past and a massive bibliography of further readings on the subject.
-  
+
   **References**
   - Chan Sow-Yan, Lau Wing Lup & Tan Siong Kiat. 27 March 2020.
   *A fig drill, Orania ficula, at Changi Beach*
@@ -157,6 +189,25 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- hnt
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

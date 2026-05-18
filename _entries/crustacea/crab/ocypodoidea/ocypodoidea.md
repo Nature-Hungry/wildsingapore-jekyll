@@ -1,9 +1,10 @@
 ---
 title: 'Stalk-eyed crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Camptandriidae
 genus: ''
@@ -28,45 +29,68 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... This group includes crabs usually found on sandy shores: fiddler crabs, soldier crabs, sand bubblers and ghost crabs. They come out at low tide and cover the shore. Don't step on them! They are very shy. To see them, wait quietly without moving."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "This group includes crabs usually found on sandy shores: fiddler crabs, soldier crabs, sand bubblers and ghost crabs. They come out at low tide and cover the shore. Don't step on them! They are very shy. To see them, wait quietly without moving."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: "if you learn only 3 things about them ... This group includes crabs
+      usually found on sandy shores: fiddler crabs, soldier crabs, sand bubblers and
+      ghost crabs. They come out at low tide and cover the shore. Don't step on them!
+      They are very shy. To see them, wait quietly without moving."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: "This group includes crabs usually found on sandy shores: fiddler crabs,
+      soldier crabs, sand bubblers and ghost crabs. They come out at low tide and
+      cover the shore. Don't step on them! They are very shy. To see them, wait quietly
+      without moving."
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg"
-      caption: "The eye stalks of a ghost crab 'fold' away into grooves at the side of its body. Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg"
-      caption: "The Sentinel crab has super long eye stalks. Pulau Hantu, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg"
-      caption: "Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+    caption: The eye stalks of a ghost crab 'fold' away into grooves at the side
+      of its body. Tanah Merah, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
+    caption: The Sentinel crab has super long eye stalks. Pulau Hantu, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+    caption: Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, 
+      Mar 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg"
-      caption: Horn-eyed ghost crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg"
-      caption: Smooth-eyed ghost crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg"
-      caption: Sentinel crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+    caption: Horn-eyed ghost crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+    caption: Smooth-eyed ghost crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+    caption: Sentinel crab
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg"
-      caption: Sand bubbler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg"
-      caption: Soldier crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg"
-      caption: Semaphore crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
+    caption: Sand bubbler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+    caption: Soldier crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+    caption: Semaphore crab
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
-      caption: Porcelain fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg"
-      caption: Orange fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
-      caption: Rosy fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+    caption: Porcelain fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+    caption: Orange fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+    caption: Rosy fiddler crab
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
-      caption: Stout pincered fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
-      caption: Tiny colourful fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
-      caption: Other unidentified fiddler crabs
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+    caption: Stout pincered fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+    caption: Tiny colourful fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+    caption: Other unidentified fiddler crabs
 links_references: |
   **Links**
   - [Soldier crab (
@@ -108,7 +132,7 @@ links_references: |
   on
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet on deposit feeders including crabs.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -122,6 +146,9 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- sbw
+- lck
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, 
+  seashore,
 layout: entry
 shape: ball
 title: Spiky ball sponge
@@ -16,33 +18,49 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/060611cjd2765m3e.jpg"
-      caption: "Brittle star deep in the crevices. Chek Jawa, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg"
-      caption: "Sometimes draped with synaptid sea cucumbers Chek Jawa, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3b.jpg"
-      caption: Spiky with net-like texture.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/ballspiky/060611cjd2765m3e.jpg
+    caption: Brittle star deep in the crevices. Chek Jawa, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg
+    caption: Sometimes draped with synaptid sea cucumbers Chek Jawa, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3b.jpg
+    caption: Spiky with net-like texture.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/020101cjcpd3741m3.jpg"
-      caption: "Chek Jawa, Jan 02"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/080704sekd6895m3.jpg"
-      caption: "Pulau Sekudu, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/110518bbd1887m3.jpg"
-      caption: "Beting Bronok, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/ballspiky/020101cjcpd3741m3.jpg
+    caption: Chek Jawa, Jan 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/ballspiky/080704sekd6895m3.jpg
+    caption: Pulau Sekudu, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/ballspiky/110518bbd1887m3.jpg
+    caption: Beting Bronok, May 11
 links_references: |
   **Links**
   - [*Dysidea avara*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=51088&genusname=Dysidea&speciesname=avara)
   on SeaLife Base: technical fact sheet.
   - [*Dysidea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131745)
   on the World Porifera Database
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
 ---
 
 **Where seen?**

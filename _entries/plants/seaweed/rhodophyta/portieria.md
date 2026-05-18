@@ -1,9 +1,10 @@
 ---
 title: 'Curled-tip red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, 
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhizophyllidaceae
@@ -22,29 +23,36 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg"
-      caption: "Sisters Island, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg"
-      caption: Tips are curled.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg
+    caption: Sisters Island, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg
+    caption: Tips are curled.
 links_references: |
   **Links**
   - [*Portieria hornemannii*](http://www.algaebase.org/search/species/detail/?species_id=3543)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -61,6 +69,10 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- sis
+- cyr
+- lfa
 ---
 
 **Where seen?**

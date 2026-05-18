@@ -1,9 +1,10 @@
 ---
 title: Rose nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: red, dendrodoris, fumata, nudibranchia, slug, seaslug, opisthobranch, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: red, dendrodoris, fumata, nudibranchia, slug, seaslug, opisthobranch, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,81 +29,113 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg"
-      caption: "Pulau Sekudu, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m3b.jpg"
-      caption: Rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg
+    caption: Pulau Sekudu, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m3b.jpg
+    caption: Rhinophores.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060723skdg6809m3.jpg"
-      caption: "Underside. Pulau Sekudu, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnd2605m3.jpg"
-      caption: "Next to eaten up Lumpy pink sponge . Pulau Ubin, Dec 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/130330cyrs01883m3.jpg"
-      caption: "Laying egg mass. Cyrene, Mar 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060723skdg6809m3.jpg
+    caption: Underside. Pulau Sekudu, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnd2605m3.jpg
+    caption: Next to eaten up Lumpy pink sponge . Pulau Ubin, Dec 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/130330cyrs01883m3.jpg
+    caption: Laying egg mass. Cyrene, Mar 13
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/120604pglhpy1m3.jpg"
-      caption: "Punggol, Jun 12 Photo shared by Heng Pei Yan on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/131107pglmn.jpg"
-      caption: "Punggol, Nov 13 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/120604pglhpy1m3.jpg
+    caption: Punggol, Jun 12 Photo shared by Heng Pei Yan on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/131107pglmn.jpg
+    caption: Punggol, Nov 13 Photo shared by Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110120pgljk.jpg"
-      caption: "Punggol, Jan 11 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110120pgljk.jpg
+    caption: Punggol, Jan 11 Photo shared by James Koh on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/091019tmlks1m6l.jpg"
-      caption: "Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/091019tmlks1m6l.jpg
+    caption: Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnlks.JPG"
-      caption: "Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/171205ubnay1.jpg"
-      caption: "Pulau Ubin, Dec 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnlks.JPG
+    caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/171205ubnay1.jpg
+    caption: Pulau Ubin, Dec 17 Photo shared by Abel Yeo on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251205cjlks2.jpg"
-      caption: "Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251205cjlks2.jpg
+    caption: Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090426skdtch07m3.jpg"
-      caption: "Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks4m3.jpg"
-      caption: "Pulau Sekudu, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks3m3.jpg"
-      caption: Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090426skdtch07m3.jpg
+    caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks4m3.jpg
+    caption: Pulau Sekudu, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks3m3.jpg
+    caption: Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/250627bbvc2.jpg"
-      caption: "Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/160607bbik.jpg"
-      caption: "Beting Bronok, Jun 16 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/250627bbvc2.jpg
+    caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/160607bbik.jpg
+    caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on flickr .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110518bbrl1m3.jpg"
-      caption: "Beting Bronok, May 11 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/100614bblks2m3.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110518bbrl1m3.jpg
+    caption: Beting Bronok, May 11 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/100614bblks2m3.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251012chgmn9.jpg"
-      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210528lygjll2.jpg"
-      caption: "Changi Loyang, May 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251012chgmn9.jpg
+    caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210528lygjll2.jpg
+    caption: Changi Loyang, May 21 Photo shared by Jianlin Liu on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251011tgrlks4.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251011tgrlks4.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on facebook .
   gallery13:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjijk1m3.jpg"
-      caption: "St. John's Island, Jul 09 Photo shared by James Koh on flickr."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjilks.JPG"
-      caption: "St. John's Island, Jul 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240212sjitch1.jpg"
-      caption: "St. John's Island, Feb 24 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjijk1m3.jpg
+    caption: St. John's Island, Jul 09 Photo shared by James Koh on flickr.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjilks.JPG
+    caption: St. John's Island, Jul 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240212sjitch1.jpg
+    caption: St. John's Island, Feb 24 Photo shared by Toh Chay Hoon on facebook
+      .
   gallery14:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240309tkrtch1.jpg"
-      caption: "Pulau Tekukor, Apr 24 Photo shared by Toh Chay Hoon on facbook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/170611bsistyc1.jpg"
-      caption: "Big Sisters Island, Jun 17 Photo shared by Tay Ywee Chieh on facbook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240309tkrtch1.jpg
+    caption: Pulau Tekukor, Apr 24 Photo shared by Toh Chay Hoon on facbook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/170611bsistyc1.jpg
+    caption: Big Sisters Island, Jun 17 Photo shared by Tay Ywee Chieh on 
+      facbook .
   gallery15:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210402tmskvc2.jpg"
-      caption: "Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/220102biotch6.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210402tmskvc2.jpg
+    caption: Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/220102biotch6.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -111,7 +144,7 @@ links_references: |
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
   *[Dendrodoris fumata](http://slugsite.us/bow/nudwk256.md)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -122,6 +155,22 @@ links_references: |
   - Coleman, Neville. 2001.
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
   . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- snt
+- tkr
+- sji
+- sis
+- cyr
+- tsm
+- rfl
 ---
 
 **Where seen?**

@@ -1,6 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
+  shore,
 layout: entry
 shape: encrusting
 title: Veined sponge
@@ -9,27 +10,36 @@ genus: Clathria
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg"
-      caption: "Changi, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
+    caption: Changi, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/veined/130501sntlks.JPG"
-      caption: "Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/veined/101205blylks1.jpg"
-      caption: "Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: http://www.wildsingapore.com/wildfacts/porifera/veined/130501sntlks.JPG
+    caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/veined/101205blylks1.jpg
+    caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [*Clathria (Microciona) mima*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167665)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- chg
+- lab
+- snt
+- tkr
 ---
 
 **Where seen?**

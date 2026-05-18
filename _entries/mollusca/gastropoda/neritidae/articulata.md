@@ -1,9 +1,10 @@
 ---
 title: Lined nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lined, common, nerita, nerite, articulata, lineata, balteata, neritidae,
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lined, common, nerita, nerite, articulata, lineata, balteata, 
+  neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,28 +27,38 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg"
-      caption: "Berlayar, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg"
-      caption: "Tuas, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg"
-      caption: "Pulau Sarimbun, Mar 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+    caption: Berlayar, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+    caption: Tuas, May 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg
+    caption: Pulau Sarimbun, Mar 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg"
-      caption: "Lim Chu Kang, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg"
-      caption: "Sungei Buloh, Mar 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg
+    caption: Lim Chu Kang, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg
+    caption: Sungei Buloh, Mar 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg"
-      caption: "Sembawang, Oct 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg
+    caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg"
-      caption: "Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg
+    caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Common nerite (
@@ -64,7 +75,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Nerita articulata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=153256)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -75,6 +86,19 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- lck
+- prp
+- chg
+- ubn
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- smk
 ---
 
 **Where seen?**

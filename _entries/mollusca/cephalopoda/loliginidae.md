@@ -1,8 +1,10 @@
 ---
 title: 'Pencil squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Loliginidae
 genus: ''
@@ -17,7 +19,8 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
 links_references: |
   **Links**
   - Family Loliginidae
@@ -26,7 +29,7 @@ links_references: |
     of the Western Central Pacific [Volume
     1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
     Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong
     Kiat and Henrietta P. M. Woo, 2010 *Preliminary
@@ -36,18 +39,48 @@ links_references: |
     and Helmut Debelius, 2000. *Cephalopods:
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
-      caption: "Ink squirted out retains its shape. Sister Island, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg"
-      caption: "Which is ink and which is squid? Tanah Merah, Jun 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+    caption: Ink squirted out retains its shape. Sister Island, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
+    caption: Which is ink and which is squid? Tanah Merah, Jun 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg"
-      caption: Bigfin reef squid
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg"
-      caption: Indian squid
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
+    caption: Bigfin reef squid
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
+    caption: Indian squid
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Family Loliginidae in the Cephalopod section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Norman, Mark and Helmut Debelius, 2000. Cephalopods: A World Guide . ConchBooks, Germany. 319 pp Norman, Mark and Amanda Reid. 2000. A Guide to Squid, Cuttlefish and Octopuses of Australasia The Gould League of Australia. 96pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Family Loliginidae in the Cephalopod section by J.M. Poutiers
+      in the FAO Species Identification Guide for Fishery Purposes: The Living Marine
+      Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves
+      and gastropods on the Food and Agriculture Organization of the United Nations
+      (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary
+      Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity
+      Research, National University of Singapore. Norman, Mark and Helmut Debelius,
+      2000. Cephalopods: A World Guide . ConchBooks, Germany. 319 pp Norman, Mark
+      and Amanda Reid. 2000. A Guide to Squid, Cuttlefish and Octopuses of Australasia
+      The Gould League of Australia. 96pp.'
+location:
+- prp
+- chg
+- cj
+- tm
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

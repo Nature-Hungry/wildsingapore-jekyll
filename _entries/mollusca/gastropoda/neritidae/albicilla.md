@@ -1,9 +1,10 @@
 ---
 title: Ox-tongue nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ox, tongue, palate, nerita, nerite, albicilla, neritidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ox, tongue, palate, nerita, nerite, albicilla, neritidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Nerita
@@ -19,37 +20,51 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg"
-      caption: "Sisters Island, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3624m3.jpg"
-      caption: "Sisters Islands, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg"
-      caption: "Pulau Semakau, Feb 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
+    caption: Sisters Island, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3624m3.jpg
+    caption: Sisters Islands, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
+    caption: Pulau Semakau, Feb 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/070420sntrd0218m3a.jpg"
-      caption: "Sentosa, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090413blyd0095m3.jpg"
-      caption: "Berlayar Creek, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/081113jngd1805m3.jpg"
-      caption: "Pulau Jong, Nov 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/070420sntrd0218m3a.jpg
+    caption: Sentosa, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090413blyd0095m3.jpg
+    caption: Berlayar Creek, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/081113jngd1805m3.jpg
+    caption: Pulau Jong, Nov 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/210529epcnvc4.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/251208meky4.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/210529epcnvc4.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/251208meky4.jpg
+    caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/250714srplvo1.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared by Lon Voon Ong on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/250714srplvo1.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Lon Voon Ong on facebook 
+      ..
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg"
-      caption: "Pulau Biola, Dec 09 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg
+    caption: Pulau Biola, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: |
   **Links**
   - [Oxpalate nerite (
@@ -61,7 +76,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -75,6 +90,23 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

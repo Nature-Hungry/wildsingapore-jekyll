@@ -1,9 +1,10 @@
 ---
 title: 'Tiny fern red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, rhodophyceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, 
+  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
@@ -21,22 +22,26 @@ subphylum: Vertebrata
 class: Aves
 order: Pelecaniformes
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg"
-      caption: "Labrador, Dec 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
+    caption: Labrador, Dec 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Bostrychia*](http://www.algaebase.org/search/genus/detail/?genus_id=32785)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : LOTS of very technical information.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -53,6 +58,10 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
+- jng
 ---
 
 **Where seen?**

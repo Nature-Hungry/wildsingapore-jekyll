@@ -1,9 +1,10 @@
 ---
 title: Milk-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, tetraodontidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, 
+  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,36 +24,49 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/100430chgd1951m6l.jpg"
-      caption: "Changi, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+    caption: Labrador, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/100430chgd1951m6l.jpg
+    caption: Changi, Apr 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/241216cjmn1.jpg"
-      caption: "Chek Jawa, Dec 2024 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/241216cjmn1.jpg
+    caption: Chek Jawa, Dec 2024 Photo shared by Marcus Ng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200917prplks6.jpg"
-      caption: "Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160507cjjll1.jpg"
-      caption: "Chek Jawa, May 16 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200917prplks6.jpg
+    caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160507cjjll1.jpg
+    caption: Chek Jawa, May 16 Photo shared by Jianlin Liu on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/190801chglks2.jpg"
-      caption: "Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/110615chgjk.jpg"
-      caption: "Changi, Jun 11 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/190801chglks2.jpg
+    caption: Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/110615chgjk.jpg
+    caption: Changi, Jun 11 Photo shared by James Koh on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160705ecplks3.jpg"
-      caption: "East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/180909ecpdc2.jpg"
-      caption: "East Coast Park, Sep 19 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200819ecptch4.jpg"
-      caption: "East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160705ecplks3.jpg
+    caption: East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/180909ecpdc2.jpg
+    caption: East Coast Park, Sep 19 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200819ecptch4.jpg
+    caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg"
-      caption: "East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg
+    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on 
+      facebook .
 links_references: |
   **Links**
   - [Milk-spotted Puffer (
@@ -69,7 +83,7 @@ links_references: |
   : Technical fact sheet.
   - [*Chelonodon patoca*](http://www.iucnredlist.org/details/172416/0)
   from IUCN Red List.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -77,6 +91,14 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- prp
+- chg
+- cj
+- tm
+- ecp
+- lab
+- snt
 ---
 
 **Where seen?**

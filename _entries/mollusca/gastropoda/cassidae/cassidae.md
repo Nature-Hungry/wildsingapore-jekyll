@@ -1,8 +1,10 @@
 ---
 title: 'Helmet and Bonnet snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Cassidae
 genus: ''
@@ -17,29 +19,40 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg"
-      caption: "On top of a Cake sand dollar. Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg"
-      caption: "Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg"
-      caption: "Thick strong foot. Cyrene Reef, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+    caption: On top of a Cake sand dollar. Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
+    caption: Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+    caption: Thick strong foot. Cyrene Reef, Aug 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg"
-      caption: "Half buried next to a Cake sand dollar. East Coast Park, Jul 15"
-    - url: "http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg"
-      caption: The 'burn' marks on the test of this recently dead sea urchin might have been made by a Helmet snail!
-    - url: "http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg"
-      caption: "Changi, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
+    caption: Half buried next to a Cake sand dollar. East Coast Park, Jul 15
+  - url: 
+      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
+    caption: The 'burn' marks on the test of this recently dead sea urchin might
+      have been made by a Helmet snail!
+  - url: 
+      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+    caption: Changi, May 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg"
-      caption: Japanese bonnet snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg"
-      caption: Grey bonnet snail
-    - url: "http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg"
-      caption: "Changi, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
+    caption: Japanese bonnet snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
+    caption: Grey bonnet snail
+  - url: 
+      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+    caption: Changi, May 08
 links_references: |
   **Links**
   - [Family Cassidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cassidae.html)
@@ -51,7 +64,7 @@ links_references: |
   - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Heok Hui and Tan Siong Kiat. 30 November 2016.
   *Grey bonnet preying on sand dollar at Changi*
@@ -71,6 +84,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- cj
+- ecp
+- kus
+- laz
+- cyr
 ---
 
 **Where seen?**

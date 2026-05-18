@@ -1,8 +1,10 @@
 ---
 title: Sea mussels
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Mytilidae
 genus: ''
@@ -18,30 +20,42 @@ infraclass: Pteriomorphia
 order: Mytilida
 superfamily: Mytiloidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Some species of mussels can bore into concrete. Some tiny mussels live in a colony of thousands. Mussels can cause food poisoning.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Some species of mussels can bore into concrete. Some tiny mussels live in a colony of thousands. Mussels can cause food poisoning.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Some species of mussels 
+      can bore into concrete. Some tiny mussels live in a colony of thousands. 
+      Mussels can cause food poisoning.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Some species of mussels can bore into concrete. Some tiny mussels 
+      live in a colony of thousands. Mussels can cause food poisoning.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
-      caption: "Green mussels growing on a large boulder. Changi, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg"
-      caption: "Nest mussels can form vast mats Chek Jawa, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg"
-      caption: "Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu, Jul 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+    caption: Green mussels growing on a large boulder. Changi, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
+    caption: Nest mussels can form vast mats Chek Jawa, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
+    caption: Tiny Green mussels growing among tinier Nest mussels . Pulau 
+      Sekudu, Jul 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg"
-      caption: Green mussels
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg"
-      caption: Horse mussels
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+    caption: Green mussels
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+    caption: Horse mussels
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg"
-      caption: Little black mussels
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg"
-      caption: Nest mussels
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
+    caption: Little black mussels
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
+    caption: Nest mussels
 links_references: |
   **Links**
   - [Green Mussel (
@@ -67,7 +81,7 @@ links_references: |
   - Family Mytilidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -78,6 +92,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

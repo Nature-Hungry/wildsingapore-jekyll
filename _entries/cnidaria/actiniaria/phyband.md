@@ -1,9 +1,10 @@
 ---
 title: Banded frilly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: banded, branched, tentacle, anemone, phymanthus, phymantidae, actiniaria,
-  cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: banded, branched, tentacle, anemone, phymanthus, phymantidae, 
+  actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,32 +23,63 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
-      caption: "Sentosa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070630sisg0760m3.jpg"
-      caption: "Just ate a crab? Sisters Island, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
+    caption: Sentosa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070630sisg0760m3.jpg
+    caption: Just ate a crab? Sisters Island, Jun 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110619tslgd4302m3.jpg"
-      caption: "Terumbu Selegie, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070804smkg1882m3.jpg"
-      caption: "Pulau Semakau, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/040507rlhad0102m3.jpg"
-      caption: "Raffles Lighthous, May 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110619tslgd4302m3.jpg
+    caption: Terumbu Selegie, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070804smkg1882m3.jpg
+    caption: Pulau Semakau, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/040507rlhad0102m3.jpg
+    caption: Raffles Lighthous, May 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100130brklks4m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110220lazrl12m3.jpg"
-      caption: "Lazarus Island, Feb 11 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100130brklks4m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110220lazrl12m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/160124smkegl2.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Geraldine Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100629tpdjk2m3.jpg"
-      caption: "Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/160124smkegl2.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Geraldine Lee on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100629tpdjk2m3.jpg
+    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog
+      .
+location:
+- cj
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

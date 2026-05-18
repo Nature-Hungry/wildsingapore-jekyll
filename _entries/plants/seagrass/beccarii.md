@@ -1,9 +1,10 @@
 ---
-title: 'Beccari''s seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass,
-  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+title: "Beccari's seagrass "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, 
+  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -11,8 +12,8 @@ englishname: Beccari's seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: beccarii
-summary: Seagrass with the smallest leaves, 0.5cm wide, emerging in a rosette of 5-10
-  leaves. Common on Chek Jawa.
+summary: Seagrass with the smallest leaves, 0.5cm wide, emerging in a rosette of
+  5-10 leaves. Common on Chek Jawa.
 coverimg: https://live.staticflickr.com/5051/5534139131_cb5be6fac8_n.jpg
 inat_id: 50373
 stateofmatter: Life
@@ -25,24 +26,38 @@ updated: Mar 14
 rdb: EN
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Tiny narrow leaves emerge in a rosette. It is considered globally rare with a limited global distribution. It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Tiny narrow leaves emerge in a rosette. It is considered globally rare with a limited global distribution. It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Tiny narrow leaves emerge
+      in a rosette. It is considered globally rare with a limited global 
+      distribution. It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai 
+      mangroves.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Tiny narrow leaves emerge in a rosette. It is considered globally 
+      rare with a limited global distribution. It's found at Chek Jawa, Sungei 
+      Buloh, Kranji and Mandai mangroves.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg"
-      caption: "Seen growing next to byssus nests created by Nest mussels . Chek Jawa, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg"
-      caption: "Chek Jawa, Sep 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg"
-      caption: "Chek Jawa, Sep 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg
+    caption: Seen growing next to byssus nests created by Nest mussels . Chek 
+      Jawa, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg
+    caption: Chek Jawa, Sep 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg
+    caption: Chek Jawa, Sep 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg"
-      caption: "Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove boardwalk. Sungei Buloh Wetland Reserve, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg"
-      caption: "Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk. Chek Jawa, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg"
-      caption: ". Mandai, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
+    caption: Lush carpets of this tiny seagrass grow under the Sungei Buloh 
+      mangrove boardwalk. Sungei Buloh Wetland Reserve, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg
+    caption: Patches of this tiny seagrass sometimes grow near the Chek Jawa 
+      boardwalk. Chek Jawa, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg
+    caption: . Mandai, Mar 11
 links_references: |
   **Links**
   - [Tiny but Mighty:
@@ -70,7 +85,7 @@ links_references: |
   - [Back to the rare seagrass meadows at Kranji for a closer look](http://wildshores.blogspot.com/2011/02/back-to-rare-seagrass-meadows-at-kranji.html)
   - [Vast meadows of rare seagrasses at Kranji](http://wildshores.blogspot.com/2011/02/vast-meadows-of-rare-seagrasses-at.html)
   - [Rare seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-trail.html)
-  
+
   **References**
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
@@ -84,6 +99,9 @@ links_references: |
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
   *The Concise Flora of Singapore II: Monoctyledons*
   Singapore University Press. 215 pp.
+location:
+- sbw
+- cj
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

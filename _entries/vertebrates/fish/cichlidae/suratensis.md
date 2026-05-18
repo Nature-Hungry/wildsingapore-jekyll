@@ -1,8 +1,10 @@
 ---
 title: Green chromide
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -22,14 +24,18 @@ superorder: Acanthomorpha
 order: Cichliformes
 subfamily: Etroplinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg"
-      caption: "Pasir Ris Park, Feb 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+    caption: Pasir Ris Park, Feb 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg"
-      caption: "East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
+    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on 
+      facebook .
 links_references: |
   **Links**
   - [Green chromide (
@@ -46,11 +52,16 @@ links_references: |
   : Technical fact sheet on the family, including fact sheets on the species.
   - [*Etroplus suratensis*](http://www.iucnredlist.org/details/172368/0)
   on the IUCN Red List.
-  
+
   **References**
   - Tan Heok Hui and Lionel Ng Chin Soon. 28 Oct 2016.
   *Green chromides spawning at Sentosa*
   . Singapore Biodiversity Records 2016: 141-142.
+location:
+- sbw
+- prp
+- tus
+- ecp
 ---
 
 **Where seen?**

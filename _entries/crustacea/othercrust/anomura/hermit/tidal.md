@@ -1,9 +1,10 @@
 ---
 title: Tidal hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tidal, hermit, crab, diogenes, diogenidae, anomura, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tidal, hermit, crab, diogenes, diogenidae, anomura, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -25,33 +26,48 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They come in all sizes from tiny ones you can hardly see, to larger ones. Every empty shell is a potential hermit crab home. Don't take any shells home! Many other animals live together with a hermit crab. Look for them."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They come in all sizes from tiny ones you can hardly see, to larger ones. Every empty shell is a potential hermit crab home. Don't take any shells home! Many other animals live together with a hermit crab. Look for them."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They come in all sizes 
+      from tiny ones you can hardly see, to larger ones. Every empty shell is a 
+      potential hermit crab home. Don't take any shells home! Many other animals
+      live together with a hermit crab. Look for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They come in all sizes from tiny ones you can hardly see, to larger
+      ones. Every empty shell is a potential hermit crab home. Don't take any 
+      shells home! Many other animals live together with a hermit crab. Look for
+      them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg"
-      caption: "Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3.jpg"
-      caption: "Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3.jpg"
-      caption: "Changi, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
+    caption: Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3.jpg
+    caption: Changi, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3.jpg
+    caption: Changi, Jun 05
   gallery3:
-    - url: "https://live.staticflickr.com/4514/37595095762_23ab8b6cd7_z.jpg"
-      caption: "East Coast Park, Oct 2017"
+  - url: https://live.staticflickr.com/4514/37595095762_23ab8b6cd7_z.jpg
+    caption: East Coast Park, Oct 2017
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/210213bsisjc1.jpg"
-      caption: "Big Sisters Island, Feb 21 Photo shared by Joleen Chan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/210213bsisjc1.jpg
+    caption: Big Sisters Island, Feb 21 Photo shared by Joleen Chan on facebook 
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/201115tkkmn1.jpg"
-      caption: "Pulau Tekukor, Nov 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg"
-      caption: "Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg"
-      caption: "Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/201115tkkmn1.jpg
+    caption: Pulau Tekukor, Nov 20 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
+    caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg
+    caption: Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook .
 links_references: |
   **Links**
   - [Mangrove hermit crab (
@@ -64,7 +80,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
@@ -72,6 +88,21 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- pgl
+- prp
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- sji
+- sis
+- cyr
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

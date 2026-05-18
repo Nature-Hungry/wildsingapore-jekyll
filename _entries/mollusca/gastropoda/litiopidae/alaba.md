@@ -1,25 +1,33 @@
 ---
 title: Tiny seagrass snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Litiopidae
 genus: Alaba
 species: virgata*
 attributes: []
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg"
-      caption: "Changi, Jul 15 ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg"
-      caption: "Changi, Jul 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
+    caption: Changi, Jul 15 .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg
+    caption: Changi, Jul 15
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg"
-      caption: "Chek Jawa, Jul 15 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg
+    caption: Chek Jawa, Jul 15 Photo shared by Toh Chay Hoon on facebook .
+location:
+- chg
+- cj
 ---
 
 **Where seen?**

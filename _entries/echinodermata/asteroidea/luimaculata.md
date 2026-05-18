@@ -1,9 +1,10 @@
 ---
 title: Eight-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: eight, armed, sand, sea star, seastar, starfish, star, fish, luidia, maculata,
-  luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: eight, armed, sand, sea star, seastar, starfish, star, fish, luidia, 
+  maculata, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -22,12 +23,13 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
 links_references: |
   **Links**
   - [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog
   - [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star) - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
-  
+
   **References**
   - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
   - Lane, David
@@ -48,56 +50,107 @@ links_references: |
     of the Philippines: A guide to common shallow water sea stars,
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg"
-      caption: "Changi, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg"
-      caption: "Flat-topped, pillar-like structures called paxillae"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190620chgm6l.jpg"
-      caption: "Sometimes, many are seen together. Changi, Jun 2019"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2497m3.jpg"
-      caption: ". Underside. Pulau Sekudu, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg"
-      caption: Pointed tube feet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+    caption: Changi, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
+    caption: Flat-topped, pillar-like structures called paxillae
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190620chgm6l.jpg
+    caption: Sometimes, many are seen together. Changi, Jun 2019
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2497m3.jpg
+    caption: . Underside. Pulau Sekudu, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
+    caption: Pointed tube feet
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210527chg.jpg"
-      caption: "In spawning position? Changi, May 21"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg"
-      caption: "In spawning position? East Coast, Dec 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210527chg.jpg
+    caption: In spawning position? Changi, May 21
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
+    caption: In spawning position? East Coast, Dec 08
   gallery3:
-    - url: "https://live.staticflickr.com/31337/49638982618_692f186789_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/31337/49638982618_692f186789_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210528pglrk2.jpg"
-      caption: "Punggol, May 21 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190422cnyrk4.jpg"
-      caption: "Coney Island, Apr 19 Shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210528pglrk2.jpg
+    caption: Punggol, May 21 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190422cnyrk4.jpg
+    caption: Coney Island, Apr 19 Shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/181222prpcp.jpg"
-      caption: "Cluster of many large sea stars. Pasir Ris, Dec 18 Shared by Carol Phillips on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/180714prprk2.jpg"
-      caption: "Cluster of many large sea stars. Pasir Ris, Jul 18 Shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/181222prpcp.jpg
+    caption: Cluster of many large sea stars. Pasir Ris, Dec 18 Shared by Carol 
+      Phillips on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/180714prprk2.jpg
+    caption: Cluster of many large sea stars. Pasir Ris, Jul 18 Shared by 
+      Richard Kuah on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/160511chg7mn.jpg"
-      caption: "With five arms. Changi, May 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/090624chglks1m3.jpg"
-      caption: "Changi, Jun 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/090721skdd7607m3.jpg"
-      caption: "Pulau Sekudu, Jul 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/160511chg7mn.jpg
+    caption: With five arms. Changi, May 16 Photo shared by Marcus Ng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/090624chglks1m3.jpg
+    caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/090721skdd7607m3.jpg
+    caption: Pulau Sekudu, Jul 09
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/130527tmlks.JPG"
-      caption: "Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/150320tuslks1m3.JPG"
-      caption: "Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210529ecpblks10.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/130527tmlks.JPG
+    caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/150320tuslks1m3.JPG
+    caption: Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/210529ecpblks10.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/110814smkjk4m3.jpg"
-      caption: "Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/110814smkjk4m3a.jpg"
-      caption: Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/110814smkjk4m3.jpg
+    caption: Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/110814smkjk4m3a.jpg
+    caption: Photo shared by James Koh on his blog .
   gallery9:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Learning about Luidia ! 5 Things about The OTHER Sand Star! by Dr Christopher Mah on Echinoblog Luidia maculata - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254. References Loisette M. Marsh and Jane Fromont. Field Guide to Shallow Water Seastars of Australia . 2020. Western Australian Museum. 543pp. Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species . The Raffles Bulletin of Zoology 1998 46(2): 431-470. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition, Singapore. 144 pp. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Links Learning about Luidia ! 5 Things about The OTHER Sand Star! by
+      Dr Christopher Mah on Echinoblog Luidia maculata - Eight-armed Sea Star by Tashfia
+      Raquib, 02 Jan 2019 on Taxo4254. References Loisette M. Marsh and Jane Fromont.
+      Field Guide to Shallow Water Seastars of Australia . 2020. Western Australian
+      Museum. 543pp. Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to
+      Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp.
+      Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata) of Singapore
+      with a distribution table and illustrated identification to the species . The
+      Raffles Bulletin of Zoology 1998 46(2): 431-470. Davison, G.W. H. and P. K.
+      L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants
+      and animals of Singapore . Nature Society (Singapore). 285 pp. Schoppe, Sabine,
+      2000. Echinoderms of the Philippines: A guide to common shallow water sea stars,
+      brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition,
+      Singapore. 144 pp. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific.
+      Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp. Gosliner,
+      Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals
+      of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates
+      Sea Challengers. 314pp."
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- smk
 ---
 
 **Where seen?**

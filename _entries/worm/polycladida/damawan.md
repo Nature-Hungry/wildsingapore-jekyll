@@ -1,9 +1,10 @@
 ---
 title: Damawan flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, platyhelminthes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, 
+  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
@@ -17,23 +18,29 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg"
-      caption: "Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg"
-      caption: "Pseudotentacles squarish, ruffled on the sided."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg"
-      caption: Underside white with broad orange and thin black margin.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+    caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg
+    caption: Pseudotentacles squarish, ruffled on the sided.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg
+    caption: Underside white with broad orange and thin black margin.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg"
-      caption: "Kusu Island, Feb 14 Photo shared by Heng Pei Yan on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg
+    caption: Kusu Island, Feb 14 Photo shared by Heng Pei Yan on her blog .
 links_references: |
   **Links**
   - [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-  
+
   **References**
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
@@ -50,6 +57,9 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- kus
+- sis
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Beaded cushion green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Valoniaceae
@@ -19,22 +20,26 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg"
-      caption: "Kusu Island, Sep 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg"
-      caption: "Labrador, Aug 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
+    caption: Kusu Island, Sep 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
+    caption: Labrador, Aug 04
 links_references: |
   **Links**
   - [*Valonia*](http://www.algaebase.org/search/genus/detail/?genus_id=33606)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -51,6 +56,12 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
+- kus
+- sji
+- cyr
 ---
 
 **Where seen?**

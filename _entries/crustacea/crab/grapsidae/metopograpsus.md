@@ -1,9 +1,10 @@
 ---
 title: Purple climber crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: purple, climber, crab, metopograpsus, grapsidae, decapod, crustacea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: purple, climber, crab, metopograpsus, grapsidae, decapod, crustacea, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -27,54 +28,79 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These crabs have long pointy legs to cling to and scramble over rocks. They have a flat body to slip through narrow crevices. The pincers have scalloped edges and are used to scrape algae.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These crabs have long pointy legs to cling to and scramble over rocks. They have a flat body to slip through narrow crevices. The pincers have scalloped edges and are used to scrape algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These crabs have long 
+      pointy legs to cling to and scramble over rocks. They have a flat body to 
+      slip through narrow crevices. The pincers have scalloped edges and are 
+      used to scrape algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These crabs have long pointy legs to cling to and scramble over 
+      rocks. They have a flat body to slip through narrow crevices. The pincers 
+      have scalloped edges and are used to scrape algae.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg"
-      caption: "Kusu Island, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg"
-      caption: Scalloped pincers
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+    caption: Kusu Island, Apr 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg
+    caption: Scalloped pincers
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg"
-      caption: "Sembawang Park, Jan 12 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg"
-      caption: "Pulau Ubin, Jun 08 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg
+    caption: Sembawang Park, Jan 12 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg
+    caption: Pulau Ubin, Jun 08 Photo shared by Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg"
-      caption: "Grabbed a fiddler crab then headed back to the boardwalk legs. Chek Jawa, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg"
-      caption: "Pulau Sekudu, Jul 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg
+    caption: Grabbed a fiddler crab then headed back to the boardwalk legs. Chek
+      Jawa, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg
+    caption: Pulau Sekudu, Jul 09 Photo shared by James Koh on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG"
-      caption: "Terumbu Buran, Nov 10 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg
+    caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG
+    caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg"
-      caption: "Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg"
-      caption: "Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg
+    caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg
+    caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg"
-      caption: "A pair, getting ready to mate? St. John's Island, May 10"
-    - url: "http://www.wildsingapore.com/othercrust/isopoda/ligia/090510hntmn.jpg"
-      caption: Captured a Shore cricket Pulau Hantu May 09 Photo shared by Marcus Ng on flickr .
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg"
-      caption: "Pulau Hantu, Dec 2025 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
+    caption: A pair, getting ready to mate? St. John's Island, May 10
+  - url: http://www.wildsingapore.com/othercrust/isopoda/ligia/090510hntmn.jpg
+    caption: Captured a Shore cricket Pulau Hantu May 09 Photo shared by Marcus 
+      Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg
+    caption: Pulau Hantu, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg"
-      caption: "Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG"
-      caption: "Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg
+    caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG
+    caption: Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on 
+      facebook .
 links_references: |
   **Links**
   - [Purple Climber Crabs (
@@ -93,7 +119,7 @@ links_references: |
   and
   [*Metopograpsus quadridentatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1662)
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -104,6 +130,27 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

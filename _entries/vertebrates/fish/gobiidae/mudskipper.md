@@ -1,8 +1,10 @@
 ---
 title: Mudskippers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mudskipper, mud, skipper, fish, gobiidae, goby, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mudskipper, mud, skipper, fish, gobiidae, goby, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Gobiidae
 genus: ''
@@ -18,44 +20,64 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are fishes but can breathe out of water. How do they do it? They use their pectoral fins to crawl. They are well camouflaged. Watch your step!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are fishes but can breathe out of water. How do they do it? They use their pectoral fins to crawl. They are well camouflaged. Watch your step!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are fishes but can 
+      breathe out of water. How do they do it? They use their pectoral fins to 
+      crawl. They are well camouflaged. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are fishes but can breathe out of water. How do they do it? 
+      They use their pectoral fins to crawl. They are well camouflaged. Watch 
+      your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg"
-      caption: "Bulbous eyes high on the head. Kusu Island, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg"
-      caption: "Dorsal fin often colourful and raised to communicate with other mudskippers. Chek Jawa, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg"
-      caption: "These fishes can be quite quarrelsome. Chek Jawa, Oct 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
+    caption: Bulbous eyes high on the head. Kusu Island, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg
+    caption: Dorsal fin often colourful and raised to communicate with other 
+      mudskippers. Chek Jawa, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg
+    caption: These fishes can be quite quarrelsome. Chek Jawa, Oct 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg"
-      caption: "A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland Reserve, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg"
-      caption: "Mudskipper tracks on the mud. Sungei Buloh Wetland Reserve, Feb 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
+    caption: A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland 
+      Reserve, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg
+    caption: Mudskipper tracks on the mud. Sungei Buloh Wetland Reserve, Feb 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg"
-      caption: Gold-spotted mudskipper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg"
-      caption: Giant mudskipper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg"
-      caption: Yellow-spotted mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg
+    caption: Gold-spotted mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg
+    caption: Giant mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg
+    caption: Yellow-spotted mudskipper
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg"
-      caption: Bearded mudskipper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg"
-      caption: Blue-spotted mudskipper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg"
-      caption: Silver lined mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+    caption: Bearded mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg
+    caption: Blue-spotted mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg
+    caption: Silver lined mudskipper
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
-      caption: Slender mudskipper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
-      caption: Dusky-gilled mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
+    caption: Slender mudskipper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
+    caption: Dusky-gilled mudskipper
 links_references: |
   **Links**
   - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
@@ -74,7 +96,7 @@ links_references: |
   by Gianluca Polgar: Technical fact sheets with lots of photos.
   - [Invasion of the singing mudskippers](http://wildshores.blogspot.com/2009/02/invasion-of-singing-mudskippers.html)
   on the wild shores of singapore blog.
-  
+
   **References**
   - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
   [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of
@@ -95,6 +117,11 @@ links_references: |
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
+location:
+- sbw
+- prp
+- ubn
+- cj
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,9 +1,10 @@
 ---
 title: Mangrove jingle clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, 
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -23,15 +24,19 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg"
-      caption: "Lim Chu Kang, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg"
-      caption: "Seletar, Jun 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+    caption: Lim Chu Kang, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
+    caption: Seletar, Jun 02
 links_references: |
   **Links**
   - [Enigma oyster (
@@ -48,7 +53,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Enigmonia aenigmatica*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=80404)
   on SeaLife Base: technical fact sheet.
-  
+
   **References**
   - Sigurdsson, J.B. & Sundari, G.
   *Colour changes in the shell of the tree-climbing bivalve Enigmonia aenigatica (Holten, 1802) (Anomiidae)*
@@ -59,6 +64,9 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- lck
 ---
 
 **Where seen?**

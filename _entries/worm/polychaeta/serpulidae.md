@@ -1,8 +1,9 @@
 ---
 title: Keelworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Serpulidae
 genus: ''
@@ -17,15 +18,19 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg"
-      caption: "Growing on a living small crab. Changi, Oct 11"
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg"
-      caption: "Growing on a fan shell . Pulau Sekudu, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg"
-      caption: "Growing on a shell occupied by a hermit crab . Changi, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
+    caption: Growing on a living small crab. Changi, Oct 11
+  - url: 
+      http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+    caption: Growing on a fan shell . Pulau Sekudu, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
+    caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08
 links_references: |
   **Links**
   - [Keelworm (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126.md)
@@ -44,7 +49,7 @@ links_references: |
   from
   [Marine Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/)
   by Man Chun Ho on the City University of Hong Kong website: brief introduction with photos of the worm out of its tube.
-  
+
   **References**
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
   *Invertebrate Zoology*
@@ -52,6 +57,19 @@ links_references: |
   - Pechenik, Jan A., 2005.
   *Biology of the Invertebrates*
   . 5
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- tus
+- ecp
+- tm
+- lab
+- snt
+- sis
+- smk
 ---
 
 **Where seen?**

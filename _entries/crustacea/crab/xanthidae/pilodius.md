@@ -1,8 +1,10 @@
 ---
 title: Pilodius rock crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rock, crab, pilodius, xanthidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: rock, crab, pilodius, xanthidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -27,15 +29,19 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Chlorodiellinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
-      caption: "St. John's Island, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+    caption: St. John's Island, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Pilodius Crab (
@@ -44,11 +50,13 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- sji
 ---
 
 **Where seen?**

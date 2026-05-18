@@ -1,9 +1,10 @@
 ---
 title: Variegated creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: variegated, creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc,
-  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: variegated, creeper, cerith, snail, shell, cerithiidae, gastropod, 
+  mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -24,28 +25,49 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg"
-      caption: "Sisters Island, Feb 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3a.jpg"
-      caption: Closeup of shell opening and operculum.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/050706sntg8955m3.jpg"
-      caption: "Sentosa, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+    caption: Sisters Island, Feb 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3a.jpg
+    caption: Closeup of shell opening and operculum.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/050706sntg8955m3.jpg
+    caption: Sentosa, Jul 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/110121tmfts03807m6l.jpg"
-      caption: "Tanah Merah, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/080920hntd0782m3.jpg"
-      caption: "Pulau Hantu, Sep 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/110121tmfts03807m6l.jpg
+    caption: Tanah Merah, Jan 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/080920hntd0782m3.jpg
+    caption: Pulau Hantu, Sep 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250727smkwrk2.jpg"
-      caption: "Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250727smkwrk2.jpg
+    caption: Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/200709bbbvc2.jpg"
-      caption: "Beting Bemban Besar, Jul 20 Photo shared by VIncent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250712tplrk5.jpg"
-      caption: "Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/200709bbbvc2.jpg
+    caption: Beting Bemban Besar, Jul 20 Photo shared by VIncent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250712tplrk5.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on 
+      facebook .
+location:
+- snt
+- tkr
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

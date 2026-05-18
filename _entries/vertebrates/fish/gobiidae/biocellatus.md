@@ -1,9 +1,10 @@
 ---
 title: Crocodile flathead goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: common, frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: common, frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,31 +26,41 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg"
-      caption: "Changi, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/070615sntrg0341m6l.jpg"
-      caption: "This one caught another goby! Sentosa, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+    caption: Changi, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/070615sntrg0341m6l.jpg
+    caption: This one caught another goby! Sentosa, Jun 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276.jpg"
-      caption: "Changi, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3a.jpg"
-      caption: Lower jaw longer than upper. Single tiny 'eyelid'.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276.jpg
+    caption: Changi, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3a.jpg
+    caption: Lower jaw longer than upper. Single tiny 'eyelid'.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/081019cjtch.jpg"
-      caption: "Chek Jawa, Oct 08 Photo shared by Toh Chay Hoon on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/081019cjtch.jpg
+    caption: Chek Jawa, Oct 08 Photo shared by Toh Chay Hoon on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/200819ecptch2.jpg"
-      caption: "East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/090512tmlks1m3.jpg"
-      caption: "Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/200819ecptch2.jpg
+    caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/090512tmlks1m3.jpg
+    caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/250430sjiml2.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Mathias Luk on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/220302hntjk1.jpg"
-      caption: "Pulau Hantu, Mar 22 Photo shared by James Koh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/250430sjiml2.jpg
+    caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/220302hntjk1.jpg
+    caption: Pulau Hantu, Mar 22 Photo shared by James Koh on facebook .
 links_references: |
   **Links**
   - [Sleepy goby](http://www.fishbase.org/summary/speciessummary.php?id=9946)
@@ -61,11 +72,22 @@ links_references: |
   : Technical fact sheet.
   - [*Psammogobius biocellatus*](http://www.iucnredlist.org/details/9266/0)
   on the IUCN Red List.
-  
+
   **References**
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- chg
+- cj
+- bb
+- tm
+- ecp
+- snt
+- kus
+- sji
+- hnt
+- smk
 ---
 
 **Where seen?**

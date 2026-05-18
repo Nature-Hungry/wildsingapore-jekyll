@@ -1,9 +1,10 @@
 ---
 title: Reef box crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: box, crab, calappa, hepatica, calappidae, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: box, crab, calappa, hepatica, calappidae, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,37 +30,50 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
-      caption: "Pulau Hantu, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+    caption: Pulau Hantu, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG"
-      caption: "Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/170212bsismn.jpg"
-      caption: "Big Sisters Island, Feb 17 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG
+    caption: Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/170212bsismn.jpg
+    caption: Big Sisters Island, Feb 17 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Tommy Tan on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG"
-      caption: "Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg"
-      caption: "Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG
+    caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg
+    caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook ..
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG"
-      caption: "Cyrene Reef, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG
+    caption: Cyrene Reef, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [Reef box crab (
@@ -68,7 +82,7 @@ links_references: |
   on
   [SeaLifeBase](http://www.sealifebase.org/search.php)
   : technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -79,6 +93,12 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- tm
+- laz
+- sis
+- cyr
+- hnt
 ---
 
 **Where seen?**

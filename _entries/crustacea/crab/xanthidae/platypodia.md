@@ -1,9 +1,10 @@
 ---
 title: 'Curry puff crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,42 +32,61 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg"
-      caption: "Terumbu Raya, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
+    caption: Terumbu Raya, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250131tkkrk1.jpg"
-      caption: "Pulau Tekukor, Jan 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240608kustl5.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/190520hntlks2.jpg"
-      caption: "Pulau Hantu, Mau 19 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250131tkkrk1.jpg
+    caption: Pulau Tekukor, Jan 25 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240608kustl5.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/190520hntlks2.jpg
+    caption: Pulau Hantu, Mau 19 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240725smkntt4.jpg"
-      caption: "Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250629smkeal2.jpg"
-      caption: "Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250727smkwml1.jpg"
-      caption: "Pulau Semakau (West), Jul 25 Photo shared by Mathias Luk on fcebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240725smkntt4.jpg
+    caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250629smkeal2.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250727smkwml1.jpg
+    caption: Pulau Semakau (West), Jul 25 Photo shared by Mathias Luk on fcebook
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/230221trylks3.jpg"
-      caption: "Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/230221trylks3.jpg
+    caption: Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240310tplvc3.jpg"
-      caption: "Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg"
-      caption: "Terumbu Pempang Tengah, Jun 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240310tplvc3.jpg
+    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg
+    caption: Terumbu Pempang Tengah, Jun 24 Photo shared by Loh Kok Sheng on 
+      facebook .
 links_references: |
   **Links**
   - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
@@ -79,7 +99,7 @@ links_references: |
   on
   [SeaLife Base](http://www.sealifebase.fisheries.ubc.ca/search.php)
   : Technical fact sheet.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
@@ -87,6 +107,13 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- tkr
+- kus
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

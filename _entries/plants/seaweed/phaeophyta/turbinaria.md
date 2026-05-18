@@ -1,9 +1,10 @@
 ---
 title: Pyramid seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pyramid, brown, seaweed, weed, turbinaria, sargassaceae, phaeophyta, algae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pyramid, brown, seaweed, weed, turbinaria, sargassaceae, phaeophyta, 
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Sargassaceae
@@ -21,29 +22,36 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507rflbd0083m3.jpg"
-      caption: "Short 'columns' on rocks facing waves. Raffles Lighthouse, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070203smkg7449m3.jpg"
-      caption: "With long stems in more sheltered areas. Pulau Semakau, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3b.jpg"
-      caption: "Tiny bumps reproductive structures?"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507rflbd0083m3.jpg
+    caption: Short 'columns' on rocks facing waves. Raffles Lighthouse, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070203smkg7449m3.jpg
+    caption: With long stems in more sheltered areas. Pulau Semakau, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3b.jpg
+    caption: Tiny bumps reproductive structures?
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3.jpg"
-      caption: "Sisters Islands, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg"
-      caption: "Sisters Island, Aug 07 Some have spines on the edges."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3.jpg
+    caption: Sisters Islands, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg
+    caption: Sisters Island, Aug 07 Some have spines on the edges.
 links_references: |
   **Links**
   - [*Turbinaria*](http://www.algaebase.org/search/genus/detail/?genus_id=36321)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -63,6 +71,12 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- kus
+- sji
+- sis
+- smk
+- rfl
 ---
 
 **Where seen?**

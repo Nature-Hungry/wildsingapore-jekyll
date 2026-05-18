@@ -1,8 +1,9 @@
 ---
 title: Surf clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Donacidae
 genus: ''
@@ -20,15 +21,19 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg"
-      caption: "Changi, Oct 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+    caption: Changi, Oct 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
+    caption: ''
 links_references: |
   **Links**
   - *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*
@@ -38,7 +43,7 @@ links_references: |
   - Family Donacidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan SK & Low MEY (2013)
   *Singapore Mollusca: 3. The Family Donacidae (Bivalvia: Veneroida: Tellinoidea)*
@@ -49,6 +54,8 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- chg
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Frog snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: frog, bufonaria, bursidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: frog, bufonaria, bursidae, gastropod, mollusc, snail, shell, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Bursidae
 genus: Bufonaria
@@ -18,27 +19,36 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg"
-      caption: "East Coast, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+    caption: East Coast, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg"
-      caption: Muscular foot with operculum.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg
+    caption: Muscular foot with operculum.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg"
-      caption: "East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg"
-      caption: "Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg"
-      caption: "Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+    caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg
+    caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
+    caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Family Bursidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Bursidae.html)
@@ -58,7 +68,7 @@ links_references: |
   ) in Family Bursidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -72,6 +82,10 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- bb
+- ecp
 ---
 
 **Where seen?**

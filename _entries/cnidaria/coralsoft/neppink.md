@@ -1,9 +1,10 @@
 ---
 title: Pink flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Nephtheidea
 genus: Dendronephthya
@@ -17,22 +18,29 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg"
-      caption: "Beting Bronok, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+    caption: Beting Bronok, Jun 06
   gallery2:
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
-      caption: "False cowrie snail . Chek Jawa, Apr 08"
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg"
-      caption: "Tiny colourful brittle star Pulau Sekudu, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg"
-      caption: "Tiny porcelain crab. Beting Bronok, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+    caption: False cowrie snail . Chek Jawa, Apr 08
+  - url: 
+      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
+    caption: Tiny colourful brittle star Pulau Sekudu, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
+    caption: Tiny porcelain crab. Beting Bronok, Jun 06
 links_references: |
   **Links**
   - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
@@ -41,11 +49,19 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
 ---
 
 **Where seen?**

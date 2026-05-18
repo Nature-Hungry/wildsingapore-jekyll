@@ -1,9 +1,10 @@
 ---
 title: 'Halibuts '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, 
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,16 +25,21 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg"
-      caption: "Juvenile Indian halibut (about 3cm long) Tuas, Mar 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg"
-      caption: "Indian halibutL Large mouth with fang-like teeth. Tail fin well separated from dorsal and anal fins. Changi, Jun 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+    caption: Juvenile Indian halibut (about 3cm long) Tuas, Mar 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
+    caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well 
+      separated from dorsal and anal fins. Changi, Jun 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg"
-      caption: "Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
+    caption: Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook .
 links_references: |
   **Links**
   - [Indian Halibut (
@@ -52,7 +58,7 @@ links_references: |
   : Technical fact sheet on the family and fact sheets on individual species.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -60,6 +66,10 @@ links_references: |
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
   . Periplus Editions. 292 pp.
+location:
+- chg
+- tus
+- ecp
 ---
 
 **Where seen?**

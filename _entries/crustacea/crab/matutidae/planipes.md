@@ -1,9 +1,10 @@
 ---
 title: 'Flower moon crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: reticulated, moon, crab, matuta, planipes, matutidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: reticulated, moon, crab, matuta, planipes, matutidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,15 +30,19 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg"
-      caption: "Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg"
-      caption: "Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg"
-      caption: "Changi, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+    caption: Changi, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg
+    caption: Changi, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
+    caption: Changi, Jul 08
 links_references: |
   **Links**
   - [Flower moon crab (
@@ -46,7 +51,7 @@ links_references: |
   on
   [SeaLifeBase](http://sealifebase.org/)
   : technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -54,6 +59,8 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- chg
 ---
 
 **Where seen?**

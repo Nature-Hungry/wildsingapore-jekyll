@@ -1,9 +1,10 @@
 ---
 title: Lightning dove snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lightning, dove, shell, snail, pictocolumbella, ocellata, pyrene, fulgurans,
-  columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lightning, dove, shell, snail, pictocolumbella, ocellata, pyrene, 
+  fulgurans, columbellidae, gastropod, mollusc, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
 genus: ''
@@ -18,25 +19,35 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg"
-      caption: "Usually black, but sometimes also red or orange. Pulau Tekukor, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg"
-      caption: "Lazarus, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg"
-      caption: "Kusu Island, Dec 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
+    caption: Usually black, but sometimes also red or orange. Pulau Tekukor, Jan
+      10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg
+    caption: Lazarus, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+    caption: Kusu Island, Dec 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg"
-      caption: "St John's Island, Oct 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg
+    caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg"
-      caption: "Kusu Island, Dec 04 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg
+    caption: Kusu Island, Dec 04 Photo shared by Jonathan Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: |
   **Links**
   - [Pigeon or Dove Shell (
@@ -47,7 +58,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - *[Pictocolumbella ocellata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102109)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -58,6 +69,21 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- cj
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

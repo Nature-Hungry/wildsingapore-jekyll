@@ -1,9 +1,10 @@
 ---
 title: Orange-striped hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, striped, hermit, crab, clibanarius, infraspinatus, diogenidae, anomura,
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: orange, striped, hermit, crab, clibanarius, infraspinatus, diogenidae,
+  anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -25,43 +26,62 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They come in orange, red and blue. Every empty shell is a potential hermit crab home. Don't take any shells home! Many other animals live together with a hermit crab. Look for them."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They come in orange, red and blue. Every empty shell is a potential hermit crab home. Don't take any shells home! Many other animals live together with a hermit crab. Look for them."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They come in orange, red 
+      and blue. Every empty shell is a potential hermit crab home. Don't take 
+      any shells home! Many other animals live together with a hermit crab. Look
+      for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They come in orange, red and blue. Every empty shell is a potential
+      hermit crab home. Don't take any shells home! Many other animals live 
+      together with a hermit crab. Look for them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg"
-      caption: "East Coast Park, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg"
-      caption: "East Coast Park, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+    caption: East Coast Park, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
+    caption: East Coast Park, May 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg"
-      caption: "Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg
+    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg"
-      caption: "Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg"
-      caption: "Coney Island, Feb 19 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg
+    caption: Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg
+    caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG"
-      caption: "Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg
+    caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG
+    caption: Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg"
-      caption: "Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg"
-      caption: "Pulau Semakau South, Feb 16 Photo shared by Juria Toramae on facbook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg"
-      caption: "Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg
+    caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Juria Toramae on 
+      facbook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
   gallery7:
-    - url: "https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg"
-      caption: ""
+  - url: https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Mangrove hermit crab (
@@ -80,7 +100,7 @@ links_references: |
   on BiotaTaiwanica: Technical fact sheet with photo.
   - [*Clibanarius infraspinatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clibanarius%20infraspinatus.html)
   (Decapoda: Diogenidae) Orange-striped Hermit Crab on Taxo4254.
-  
+
   **References**
   - Dwi Listyo Rahayu, 2000.
   *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)*
@@ -96,6 +116,26 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

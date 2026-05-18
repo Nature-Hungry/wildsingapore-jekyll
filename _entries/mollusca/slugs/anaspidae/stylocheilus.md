@@ -1,9 +1,10 @@
 ---
 title: Furry sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seahare, hare, anaspidea, aplysiidae, stylocheilus, opisthobranch, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seahare, hare, anaspidea, aplysiidae, stylocheilus, opisthobranch, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Stylocheilus
@@ -20,41 +21,57 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg"
-      caption: "St John's Island, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg"
-      caption: Long narrow tail with spots.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg"
-      caption: Two pairs of tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+    caption: St John's Island, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg
+    caption: Long narrow tail with spots.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg
+    caption: Two pairs of tentacles.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg"
-      caption: Spiky projections.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg"
-      caption: Purple or blue spots with fine lines running along the length of the body.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg
+    caption: Spiky projections.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg
+    caption: Purple or blue spots with fine lines running along the length of 
+      the body.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg"
-      caption: "Well camouflaged among seaweeds. St John's Island, Nov 15"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg"
-      caption: "Tiny one among seagrasses. Changi, Jun 15"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg"
-      caption: "Small one among seagrasses. Changi, Apr 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg
+    caption: Well camouflaged among seaweeds. St John's Island, Nov 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg
+    caption: Tiny one among seagrasses. Changi, Jun 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg
+    caption: Small one among seagrasses. Changi, Apr 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg"
-      caption: "Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg"
-      caption: "Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg"
-      caption: "Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg"
-      caption: "Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg
+    caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg
+    caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
@@ -62,7 +79,7 @@ links_references: |
   *[Stylocheilus striatus](http://www.seaslugforum.net/factsheet.cfm?base=stylstri)*
   and
   *[Stylocheilus longicauda](http://www.seaslugforum.net/stylcaud.md)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -85,6 +102,13 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- chg
+- cj
+- laz
+- sji
+- cyr
+- tsm
 ---
 
 **Where seen?**

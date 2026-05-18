@@ -1,9 +1,10 @@
 ---
 title: Barbatia ark clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Arcidae
 genus: Barbatia
@@ -19,37 +20,48 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg"
-      caption: "St John's Island, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg"
-      caption: "St. John's Island, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
+    caption: St John's Island, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg
+    caption: St. John's Island, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg"
-      caption: "Tuas, Mar 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg
+    caption: Tuas, Mar 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG"
-      caption: "Labrador, Oct 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg"
-      caption: "Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg"
-      caption: "Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG
+    caption: Labrador, Oct 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg
+    caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg
+    caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg"
-      caption: "Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg"
-      caption: "Beting Bemban Besar, Jul 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg
+    caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg
+    caption: Beting Bemban Besar, Jul 20 Photo shared by Vincent Choo on 
+      facebook .
 links_references: |
   **Links**
   - *Barbatia*
   species in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -60,6 +72,15 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- lab
+- snt
+- tkr
+- sji
+- cyr
+- jng
+- tpg
+- tsm
 ---
 
 **Where seen?**

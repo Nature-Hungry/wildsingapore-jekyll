@@ -1,9 +1,10 @@
 ---
 title: Spiral babylonia snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Babyloniidae
 genus: Babylonia
@@ -17,34 +18,53 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg"
-      caption: "Changi, Jun 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg"
-      caption: Muscular foot with operculum.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg"
-      caption: "Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
+    caption: Changi, Jun 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg
+    caption: Muscular foot with operculum.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg
+    caption: Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared
+      by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg"
-      caption: "Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg
+    caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg"
-      caption: "Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg"
-      caption: "Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg
+    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg
+    caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg"
-      caption: "Changi, Jul 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg"
-      caption: "Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg
+    caption: Changi, Jul 20 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg
+    caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook 
+      .
+location:
+- prp
+- chg
+- ubn
 ---
 
 **Where seen?**

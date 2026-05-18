@@ -1,9 +1,10 @@
 ---
 title: 'Bushy ball red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spiky, ball, seaweed, weed, algae, hypnea, pannosa, cystocloniaceae, hypneaceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spiky, ball, seaweed, weed, algae, hypnea, pannosa, cystocloniaceae, 
+  hypneaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Cystocloniaceae
@@ -22,32 +23,40 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/031028sntad0019m3.jpg"
-      caption: "Sentosa, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/050413labg4676m3.jpg"
-      caption: "Labrador, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/031028sntad0019m3.jpg
+    caption: Sentosa, Oct 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/050413labg4676m3.jpg
+    caption: Labrador, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/200822jngjc2.jpg"
-      caption: "Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/200822jngjc2.jpg
+    caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100601slud4821m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100811slud0055m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100810sngd9935m3.jpg"
-      caption: "Pulau Senang, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100601slud4821m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100811slud0055m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100810sngd9935m3.jpg
+    caption: Pulau Senang, Aug 10
 links_references: |
   **Links**
   - *[Hypnea pannosa](http://www.algaebase.org/search/species/detail/?species_id=2719)*
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -61,6 +70,16 @@ links_references: |
   - Calumpong, H. P. & Menez, E. G., 1997.
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
   . Bookmark, Inc., the Philippines. 197 pp.
+location:
+- lab
+- snt
+- sji
+- jng
+- cyr
+- hnt
+- tpg
+- tsm
+- lfa
 ---
 
 **Where seen?**

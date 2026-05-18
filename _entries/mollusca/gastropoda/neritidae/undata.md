@@ -1,9 +1,10 @@
 ---
 title: Waved nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, 
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,30 +27,41 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg"
-      caption: "Sisters Island, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg"
-      caption: "Sisters Island, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/101109snt.jpg"
-      caption: "Sentosa, Nov 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
+    caption: Sisters Island, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
+    caption: Sisters Island, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/101109snt.jpg
+    caption: Sentosa, Nov 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg"
-      caption: "Sembawang, Oct 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg
+    caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg"
-      caption: "East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg
+    caption: East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg"
-      caption: "Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg"
-      caption: "St John's Island, Oct 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg
+    caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
 links_references: |
   **Links**
   - [Waved nerite (
@@ -63,7 +75,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -73,6 +85,21 @@ links_references: |
   . Zoological Studies 47(4): 481-494.
   - Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore. Singapore Science Centre. 160 pp.
   - Abbott, R. Tucker, 1991. Seashells of South East Asia. Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

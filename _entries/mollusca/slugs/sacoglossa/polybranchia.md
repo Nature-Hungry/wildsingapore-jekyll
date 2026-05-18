@@ -1,10 +1,11 @@
 ---
 title: Bushy slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug,
-  sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, 
+  seaslug, sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, 
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -26,32 +27,44 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg"
-      caption: "Out of water, the internal parts can be seen. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3a.jpg"
-      caption: Branched rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3d.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
+    caption: Out of water, the internal parts can be seen. Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3a.jpg
+    caption: Branched rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3d.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050819cjg1522m3.jpg"
-      caption: "Mating? Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg"
-      caption: "Pulau Sekudu, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050819cjg1522m3.jpg
+    caption: Mating? Chek Jawa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg
+    caption: Pulau Sekudu, Aug 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/210528chg7tch3.jpg"
-      caption: "Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/180714cjtch1.jpg"
-      caption: "Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/230803skdky3.jpg"
-      caption: "Pulau Sekudu, Aug 23 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/210528chg7tch3.jpg
+    caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/180714cjtch1.jpg
+    caption: Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/230803skdky3.jpg
+    caption: Pulau Sekudu, Aug 23 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/070714bbmn1.jpg"
-      caption: "Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/130723ecplks.JPG"
-      caption: "East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/070714bbmn1.jpg
+    caption: Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/130723ecplks.JPG
+    caption: East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -61,7 +74,7 @@ links_references: |
   - [The Slug Site](http://slugsite.us/)
   Branch of the Week: photo and fact sheet on
   *[Polybranchia orientalis](http://slugsite.us/bow/nudwk353.md)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -81,6 +94,14 @@ links_references: |
   - Coleman, Neville. 2001.
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
   . Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- chg
+- cj
+- skd
+- bb
+- ecp
+- sji
+- cyr
 ---
 
 **Where seen?**

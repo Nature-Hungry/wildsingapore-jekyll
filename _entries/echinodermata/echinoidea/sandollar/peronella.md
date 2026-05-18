@@ -1,9 +1,10 @@
 ---
 title: Pink sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, sand, dollar, peronella, lesueuri, laganidae, echinoidea, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pink, sand, dollar, peronella, lesueuri, laganidae, echinoidea, 
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -28,29 +29,39 @@ order: Echinolampadacea
 suborder: Scutelloida
 infraorder: Laganiformes
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg"
-      caption: "Upperside Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg"
-      caption: "Underside. Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg"
-      caption: "Side view: slightly raised centre on upperside. Changi, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+    caption: Upperside Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg
+    caption: Underside. Changi, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg
+    caption: 'Side view: slightly raised centre on upperside. Changi, Jul 11'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg"
-      caption: Petalloid.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg"
-      caption: Mouth on the underside
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg"
-      caption: "Often half buried in sand. Changi, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg
+    caption: Petalloid.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg
+    caption: Mouth on the underside
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg
+    caption: Often half buried in sand. Changi, May 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg"
-      caption: "Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg"
-      caption: "Changi, Sep 10 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg"
-      caption: "Changi, Sep 10 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg
+    caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg
+    caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg
+    caption: Changi, Sep 10 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
@@ -59,11 +70,14 @@ links_references: |
   .
   - [*Peronella lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuri.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- chg
+- skd
 ---
 
 **Where seen?**

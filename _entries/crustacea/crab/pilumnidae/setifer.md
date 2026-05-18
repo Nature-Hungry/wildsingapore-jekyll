@@ -1,9 +1,10 @@
 ---
 title: Rubble-carrying  crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: crab, hairy, crustacea, actumnus, setifer, pilumnidae, decapod, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: crab, hairy, crustacea, actumnus, setifer, pilumnidae, decapod, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -28,28 +29,36 @@ zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg"
-      caption: "Chek Jawa, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9603m3.jpg"
-      caption: "Chek Jawa, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9599m3.jpg"
-      caption: "Chek Jawa, Jul 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+    caption: Chek Jawa, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9603m3.jpg
+    caption: Chek Jawa, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9599m3.jpg
+    caption: Chek Jawa, Jul 13
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/160625tkklks3.jpg"
-      caption: "Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/160625tkklks3.jpg
+    caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/120722cyrmn1m3a.jpg"
-      caption: "Cyrene Reef, Jul 12 Photo shared by Marcus Ng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn4.jpg"
-      caption: "Cyrene, Aug 17 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn3.jpg"
-      caption: "Cyrene, Aug 17 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/120722cyrmn1m3a.jpg
+    caption: Cyrene Reef, Jul 12 Photo shared by Marcus Ng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn4.jpg
+    caption: Cyrene, Aug 17 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn3.jpg
+    caption: Cyrene, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery4:
-    - url: "https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg"
-      caption: 1 Jun 2013 Video clip shared by Marcus Ng on his blog .
+  - url: https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg
+    caption: 1 Jun 2013 Video clip shared by Marcus Ng on his blog .
 links_references: |
   **Links**
   - [*Actumnus setifer*](http://www.sealifebase.ca/summary/Actumnus-setifer.html)
@@ -58,7 +67,7 @@ links_references: |
   : Technical fact sheet.
   - [*Actumnus setifer*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1406&tab=beschrijving)
   on Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Johnson, P.R., Davie, P.J.F., Neil, D.T. & Fellegara, I.
   [Excavation, habitation and transportation of massive corals by the crab
@@ -68,6 +77,10 @@ links_references: |
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+location:
+- cj
+- tkr
+- cyr
 ---
 
 **Where seen?**

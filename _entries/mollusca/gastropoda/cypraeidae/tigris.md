@@ -1,9 +1,10 @@
 ---
 title: 'Tiger cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Cypraea
@@ -20,47 +21,69 @@ superfamily: Cypraeoidea
 subfamily: Cypraeinae
 tribe: Cypraeini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg"
-      caption: "Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/121115tsmkd1116m3.jpg"
-      caption: "Terumbu Semakau, Nov 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100531bionml1m3.jpg"
-      caption: "Pulau Biola, May 10 Photo shared by Neo Mei Lin on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
+    caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/121115tsmkd1116m3.jpg
+    caption: Terumbu Semakau, Nov 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/100531bionml1m3.jpg
+    caption: Pulau Biola, May 10 Photo shared by Neo Mei Lin on her flickr .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/181224sntlks2.jpg"
-      caption: "Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200805sntlks2.jpg"
-      caption: "Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/181224sntlks2.jpg
+    caption: Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200805sntlks2.jpg
+    caption: Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/240527sntlks1.jpg"
-      caption: "Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/260104trmlvo1.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/240527sntlks1.jpg
+    caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/260104trmlvo1.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8.jpg"
-      caption: "Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8.jpg
+    caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8a.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks.JPG"
-      caption: "Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200111smkslt1.jpg"
-      caption: "Pulau Semakau (South), Jan 20 Photo shared by Leon Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks.JPG
+    caption: Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200111smkslt1.jpg
+    caption: Pulau Semakau (South), Jan 20 Photo shared by Leon Tan on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/250629smkelks2.jpg"
-      caption: "Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/201215smkejll3.jpg"
-      caption: "Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/250629smkelks2.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/201215smkejll3.jpg
+    caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on 
+      facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/120609tmskrl1m3.jpg"
-      caption: "Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200310bbbjc2.jpg"
-      caption: "Beting Bemban Besar, 20 Photo shared by Jesselyn Chua on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/120609tmskrl1m3.jpg
+    caption: Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/200310bbbjc2.jpg
+    caption: Beting Bemban Besar, 20 Photo shared by Jesselyn Chua on facebook .
 links_references: |
   **Links**
   - [Tiger cowrie (
@@ -76,7 +99,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -93,6 +116,12 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- snt
+- tkr
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Big parasol green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -20,34 +21,44 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100627hntd7284m3.jpg"
-      caption: "Pulau Hantu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090112smkd5058m3.jpg"
-      caption: "Pulau Semakau, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg"
-      caption: "Tuas, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100627hntd7284m3.jpg
+    caption: Pulau Hantu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090112smkd5058m3.jpg
+    caption: Pulau Semakau, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg
+    caption: Tuas, Jun 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090822sisnml4m3.JPG"
-      caption: "Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/210502tptvc13.jpg"
-      caption: "Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090822sisnml4m3.JPG
+    caption: Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/210502tptvc13.jpg
+    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100810sngd9934m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100811slud0096m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100810sngd9934m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100811slud0096m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg
+    caption: Terumbu Berkas, Jan 10
 links_references: |
   **Links**
   - [*Caulerpa peltata*](http://www.algaebase.org/search/species/detail/?species_id=14511)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -58,6 +69,23 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- cj
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sis
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

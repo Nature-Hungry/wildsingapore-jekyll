@@ -1,9 +1,10 @@
 ---
 title: Common whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: common, whelk, nassarius, livescens, nassariidae, gastropod, mollusc, shell,
-  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: common, whelk, nassarius, livescens, nassariidae, gastropod, mollusc, 
+  shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,45 +26,61 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
-      caption: "Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3a.jpg"
-      caption: The operculum has 'teeth' along the edges.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+    caption: Changi, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3a.jpg
+    caption: The operculum has 'teeth' along the edges.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg"
-      caption: "Very long foot with a pair of tentacles at the end, operculum with a dark blotch. Changi, May 05"
-    - url: "http://www.wildsingapore.com/cnidaria/actiniaria/snail/081216prpd3576m3.jpg"
-      caption: "With tiny sea anemones on it. Pasir Ris, Dec 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg
+    caption: Very long foot with a pair of tentacles at the end, operculum with 
+      a dark blotch. Changi, May 05
+  - url: 
+      http://www.wildsingapore.com/cnidaria/actiniaria/snail/081216prpd3576m3.jpg
+    caption: With tiny sea anemones on it. Pasir Ris, Dec 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG"
-      caption: "Feeding on a clam! Lazarus Island, Feb 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6731m3.jpg"
-      caption: "Cleaning out a shell while hermits wait patiently. Changi, Jul 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6764.jpg"
-      caption: "Gathered on a dead crab. Changi, Jul 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG
+    caption: Feeding on a clam! Lazarus Island, Feb 09 Photo shared by Loh Kok 
+      Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6731m3.jpg
+    caption: Cleaning out a shell while hermits wait patiently. Changi, Jul 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6764.jpg
+    caption: Gathered on a dead crab. Changi, Jul 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201019cnyrk6.jpg"
-      caption: "Coney Island, Oct 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201019cnyrk6.jpg
+    caption: Coney Island, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgerk3.jpg"
-      caption: Changi East (Lost Coast). Dec 25
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgetrka.jpg"
-      caption: Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgerk3.jpg
+    caption: Changi East (Lost Coast). Dec 25
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgetrka.jpg
+    caption: Photo shared by Richard Kuah on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201115tkksg1.jpg"
-      caption: "Pulau Tekukor, Nov 20 Photo shared by Shwne Goh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201115tkksg1.jpg
+    caption: Pulau Tekukor, Nov 20 Photo shared by Shwne Goh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: |
   **Links**
   - [*Nassarius livescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105145)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -74,6 +91,24 @@ links_references: |
   - Bunjamin Dharma. 1988.
   *Indonesian shells (Siput dan Kerang Indonesia)*
   . PT Sarana Graha. Indonesia. 111 pp.
+location:
+- prp
+- chg
+- cj
+- bb
+- tus
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Ball flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ball, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ball, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Nephtheidea
 genus: Dendronephthya
@@ -17,29 +18,42 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg"
-      caption: "Beting Bronok, Jun 06 Polyps in clusters with spikes. Beting Bronok, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7119m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg"
-      caption: "Beting Bronok, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+    caption: Beting Bronok, Jun 06 Polyps in clusters with spikes. Beting 
+      Bronok, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7119m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg
+    caption: Beting Bronok, May 11
   gallery2:
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg"
-      caption: "Ghost brittle star . Tuas, Dec 11"
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg"
-      caption: "False cowrie eats the soft coral. Tuas, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg"
-      caption: "Tiny white snapping shrimps often found in a pair in this soft coral. Beting Bronok, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg
+    caption: Ghost brittle star . Tuas, Dec 11
+  - url: 
+      http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
+    caption: False cowrie eats the soft coral. Tuas, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg
+    caption: Tiny white snapping shrimps often found in a pair in this soft 
+      coral. Beting Bronok, Jul 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170430lyglks3.jpg"
-      caption: "Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170716prpay1.jpg"
-      caption: "Pasir Ris Park, Jul 17 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/220617skdjt1.jpg"
-      caption: "Porcelain crabs seen in a colony. Pulau Sekudu, Jun 22 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170430lyglks3.jpg
+    caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170716prpay1.jpg
+    caption: Pasir Ris Park, Jul 17 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/220617skdjt1.jpg
+    caption: Porcelain crabs seen in a colony. Pulau Sekudu, Jun 22 Photo shared
+      by Jonathan Tan on facebook .
 links_references: |
   **Links**
   - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
@@ -48,7 +62,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Tan Heok Hui & Tan Siong Kiat. 12 December 2014.
   *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*
@@ -56,6 +70,15 @@ links_references: |
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
 ---
 
 **Where seen?**

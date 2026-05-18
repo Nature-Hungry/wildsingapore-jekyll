@@ -1,8 +1,9 @@
 ---
 title: Needlefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: needlefish, needle, fish, belonidae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 attributes:
 - 9
@@ -22,36 +23,48 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg"
-      caption: "Chek Jawa, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg"
-      caption: "Chek Jawa, Nov 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
+    caption: Chek Jawa, Nov 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg
+    caption: Chek Jawa, Nov 09
   gallery2:
-    - url: "https://live.staticflickr.com/697/23083752273_7b02985f61_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/697/23083752273_7b02985f61_z.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg"
-      caption: "Chek Jawa, Oct 16 Photo shared by James Chua on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg"
-      caption: "Chek Jawa, Oct 16"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg
+    caption: Chek Jawa, Oct 16 Photo shared by James Chua on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg
+    caption: Chek Jawa, Oct 16
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg"
-      caption: "Dead fish. Marina East, Feb 26 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg
+    caption: Dead fish. Marina East, Feb 26 Photo shared by Kelvin Yong on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG"
-      caption: "Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG
+    caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg"
-      caption: "St John's Island, Dec 16 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg"
-      caption: "Pulau Hantu, Dec 25 Photo shared by Lon Voon Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG"
-      caption: "Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg
+    caption: St John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg
+    caption: Pulau Hantu, Dec 25 Photo shared by Lon Voon Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG
+    caption: Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [Spot-tail Needlefish (
@@ -95,7 +108,7 @@ links_references: |
   : Technical fact sheet on the family.
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Kelvin K. P. Lim. 26 February 2016.
   *Large congregation of yellowfin needlefish at Harbourfront*
@@ -112,6 +125,17 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- sbw
+- cj
+- tm
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
 ---
 
 **Where seen?**

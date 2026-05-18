@@ -1,9 +1,10 @@
 ---
 title: Cabbage coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cabbage, banana, trachyphyliidae, siderastretidae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cabbage, banana, trachyphyliidae, siderastretidae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Trachyphyllia
@@ -17,54 +18,80 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
-      caption: "Beting Bronok, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg"
-      caption: Many mouths located in the valleys.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+    caption: Beting Bronok, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg
+    caption: Many mouths located in the valleys.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG"
-      caption: "Tanah Merah, Jun 16 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG"
-      caption: "Tanah Merah, Mar 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG
+    caption: Tanah Merah, Jun 16 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG
+    caption: Tanah Merah, Mar 13 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg"
-      caption: "Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg"
-      caption: "Pulau Hantu, Jun 24 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg
+    caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg
+    caption: Pulau Hantu, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg"
-      caption: "Terumbu Hantu (Cigar Reef), May 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg"
-      caption: "Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg
+    caption: Terumbu Hantu (Cigar Reef), May 25 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg
+    caption: Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG"
-      caption: "Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG"
-      caption: "Pulau Semakau, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg"
-      caption: "Pulau Semakau East, Jun 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG
+    caption: Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG
+    caption: Pulau Semakau, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg
+    caption: Pulau Semakau East, Jun 20 Photo shared by Dayna Cheah on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg"
-      caption: "Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg"
-      caption: "Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg
+    caption: Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook
+      .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg"
-      caption: "Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg"
-      caption: "Beting Bemban Besar, Jun 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg
+    caption: Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg
+    caption: Beting Bemban Besar, Jun 21 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg"
-      caption: "Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg"
-      caption: "Raffles Lighthouse, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg
+    caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg
+    caption: Raffles Lighthouse, Jun 07
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -75,7 +102,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
   - *[Trachyphyllia geoffroyi](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45504)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -98,6 +125,15 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- bb
+- tm
+- sji
+- sis
+- hnt
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

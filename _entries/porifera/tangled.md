@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tangled, sponge, callyspongia, samarensis, callyspongiidae, porifera, field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tangled, sponge, callyspongia, samarensis, callyspongiidae, porifera, 
+  field,
 layout: entry
 shape: branching
 title: Tangled sponge
@@ -16,31 +18,43 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/080510smkd3114m3.jpg"
-      caption: "Pulau Semakau, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/070701hntd3035m3.jpg"
-      caption: "Pulau Hantu, Jul 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tangled/080510smkd3114m3.jpg
+    caption: Pulau Semakau, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tangled/070701hntd3035m3.jpg
+    caption: Pulau Hantu, Jul 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/110324tryrl1m3.jpg"
-      caption: "Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/110522bbbrl5m3.jpg"
-      caption: "Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tangled/110324tryrl1m3.jpg
+    caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tangled/110522bbbrl5m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook 
+      .
 links_references: |
   **Links**
   - [*Callyspongia samarensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-samarensis.html)
   on SeaLife Base: technical fact sheet.
   - [*Callyspongia (Cladochalina) samarensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166225)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- hnt
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

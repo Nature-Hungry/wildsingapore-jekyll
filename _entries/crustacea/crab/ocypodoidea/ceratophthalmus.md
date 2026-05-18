@@ -1,9 +1,10 @@
 ---
 title: Horn-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod,
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, 
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -32,52 +33,77 @@ superfamily: Ocypodoidea
 subfamily: Ocypodinae
 complex: Ocypode ceratophthalmus
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They only seen at night. But the large holes to their burrows are commonly seen on sandy shores near the high water mark. Their burrows are deep. Don't try to dig them up. They can move very fast.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They only seen at night. But the large holes to their burrows are commonly seen on sandy shores near the high water mark. Their burrows are deep. Don't try to dig them up. They can move very fast.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They only seen at night. 
+      But the large holes to their burrows are commonly seen on sandy shores 
+      near the high water mark. Their burrows are deep. Don't try to dig them 
+      up. They can move very fast.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They only seen at night. But the large holes to their burrows are 
+      commonly seen on sandy shores near the high water mark. Their burrows are 
+      deep. Don't try to dig them up. They can move very fast.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg"
-      caption: "A slot on the body for the eye stalk to 'fold' away. Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg"
-      caption: "Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah Merah, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+    caption: A slot on the body for the eye stalk to 'fold' away. Tanah Merah, 
+      Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg
+    caption: Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah 
+      Merah, May 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg"
-      caption: "Some have white pincers, one much bigger than the other. Sisters Islands, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg"
-      caption: "No 'horns' on the eyes: young one? East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg"
-      caption: "Typical burrow near the high water mark. Changi, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg
+    caption: Some have white pincers, one much bigger than the other. Sisters 
+      Islands, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg
+    caption: "No 'horns' on the eyes: young one? East Coast, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg
+    caption: Typical burrow near the high water mark. Changi, Apr 05
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg"
-      caption: "Eating a shrimp. Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg"
-      caption: "Eating a Moon crab. Pulau Tekukor, Apr 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg"
-      caption: "Eating crab. Pulau Hantu, Nov 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg
+    caption: Eating a shrimp. Tanah Merah, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg
+    caption: Eating a Moon crab. Pulau Tekukor, Apr 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg
+    caption: Eating crab. Pulau Hantu, Nov 03
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg"
-      caption: "Eating a fireworm . Changi, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg"
-      caption: "Eating a fish, probably a goby. Tanah Merah, Sep 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg
+    caption: Eating a fireworm . Changi, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg
+    caption: Eating a fish, probably a goby. Tanah Merah, Sep 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG"
-      caption: "Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg"
-      caption: "Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG
+    caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg
+    caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg"
-      caption: "Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg
+    caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg"
-      caption: "Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
+    caption: Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook .
 links_references: |
   **Links**
   - [Ghost Crab (
@@ -106,7 +132,7 @@ links_references: |
   by Petra H. Lenz on the University of Hawaii website: listing of records of animal performance, and the Ghost crab ranks among the top fastest terrestrial animals.
   - From the wild shores of singapore blog
   - [Ghosts as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-our.html)
-  
+
   **References**
   - Shirley S. L. Lim* & Adeline Y. P. Yong.
   *Rapid population recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae) after an oil spill in Singapore*
@@ -120,6 +146,26 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- pgl
+- prp
+- chg
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

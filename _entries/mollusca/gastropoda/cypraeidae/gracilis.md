@@ -1,9 +1,10 @@
 ---
 title: 'Graceful cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, gastropod,
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, 
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -27,33 +28,43 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg"
-      caption: "Pulau Sekudu, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg"
-      caption: "Pulau Sekudu, Aug 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+    caption: Pulau Sekudu, Aug 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg
+    caption: Pulau Sekudu, Aug 13
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG"
-      caption: "Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG"
-      caption: "Pulau Ubin, Dec 09 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG
+    caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG
+    caption: Pulau Ubin, Dec 09 Photo shared by James Koh on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG"
-      caption: "Changi, Jan 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG"
-      caption: "Changi, Aug 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG"
-      caption: "Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG
+    caption: Changi, Jan 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG
+    caption: Changi, Aug 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG
+    caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on 
+      facebook .
 links_references: |
   **Links**
   - *[Cypraea gracilis](http://www.sealifebase.fisheries.ubc.ca/summary/Cypraea-gracilis.html)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   [Preliminary Checklist of The Molluscs of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH%20Museum%20Books/LKCNHM%20Books/preliminary_checklist_molluscs_singapore.pdf)
@@ -61,6 +72,12 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- ecp
 ---
 
 **Where seen?**

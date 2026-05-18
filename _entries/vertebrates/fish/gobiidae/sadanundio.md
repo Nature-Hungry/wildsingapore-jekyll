@@ -1,9 +1,10 @@
 ---
 title: Grey knight-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,13 +25,16 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg"
-      caption: "Admiralty Park, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg"
-      caption: "Admiralty Park, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+    caption: Admiralty Park, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
+    caption: Admiralty Park, Mar 11
 links_references: |
   **Links**
   - [Grey knight-goby (
@@ -47,11 +51,17 @@ links_references: |
   : Technical fact sheet.
   - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby.md)*
   from EcologyAsia.
-  
+
   **References**
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- bb
+- tm
+- laz
+- sis
+- tsm
 ---
 
 **Where seen?**

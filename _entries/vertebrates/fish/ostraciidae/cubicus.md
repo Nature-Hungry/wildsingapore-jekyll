@@ -1,9 +1,10 @@
 ---
 title: 'Yellow boxfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,15 +24,19 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg"
-      caption: "Pulau Sekudu, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg"
-      caption: Tiny stick-like tail and tiny dorsal fins.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg"
-      caption: "Small, downward-pointing tube-like mouth."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+    caption: Pulau Sekudu, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
+    caption: Tiny stick-like tail and tiny dorsal fins.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
+    caption: Small, downward-pointing tube-like mouth.
 links_references: |
   **Links**
   - [Yellow boxfish (
@@ -40,7 +45,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -48,6 +53,8 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- skd
 ---
 
 **Where seen?**

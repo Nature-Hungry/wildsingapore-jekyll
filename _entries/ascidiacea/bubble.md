@@ -1,32 +1,43 @@
 ---
 title: 'Bubble ascidians (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, 
+  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg"
-      caption: "Clavelina sp.? Pulau Sekudu, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1967m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1969m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
+    caption: Clavelina sp.? Pulau Sekudu, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1967m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1969m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3.jpg"
-      caption: "Ecteinascidia thurstoni? Sisters Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3.jpg
+    caption: Ecteinascidia thurstoni? Sisters Island, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3.jpg"
-      caption: "Ecteinascidia thurstoni? Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3.jpg
+    caption: Ecteinascidia thurstoni? Pulau Sekudu, Jun 18 Photo shared by Loh 
+      Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155)
@@ -34,11 +45,18 @@ links_references: |
   [*Clavelina*
   sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-  
+
   **References**
   - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert.
   *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*
   . 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
+location:
+- ubn
+- cj
+- skd
+- laz
+- sis
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Ruffled halymenia red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: halymenia, dilatata, red, seaweed, weed, algae, halymeniaceae, halymeniales,
-  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: halymenia, dilatata, red, seaweed, weed, algae, halymeniaceae, 
+  halymeniales, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Halymeniales
@@ -13,32 +14,43 @@ attributes:
 - 97
 - 98
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg"
-      caption: "Raffles Lighthouse, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg"
-      caption: "Sentosa, Oct 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg
+    caption: Raffles Lighthouse, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg
+    caption: Beting Bemban Besar, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg
+    caption: Sentosa, Oct 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg"
-      caption: "Pulau Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg
+    caption: Pulau Berkas, May 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Halymenia dilatata*](http://www.algaebase.org/search/species/detail/?species_id=1999)
@@ -46,7 +58,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -57,6 +69,23 @@ links_references: |
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
   *[New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)*
   . Pp. 5-40. in the Raffles Bulletin of Zoology.
+location:
+- skd
+- bb
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

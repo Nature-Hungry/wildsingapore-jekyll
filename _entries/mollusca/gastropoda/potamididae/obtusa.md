@@ -1,9 +1,10 @@
 ---
 title: Red chut-chut snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
-  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, 
+  potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: Cerithidea
@@ -17,23 +18,30 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg"
-      caption: "Sungei Buloh, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg"
-      caption: "Pulau Ubin, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg"
-      caption: "The animal has red eyes! Sungei Pandan, Jun 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+    caption: Sungei Buloh, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+    caption: Pulau Ubin, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
+    caption: The animal has red eyes! Sungei Pandan, Jun 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg"
-      caption: "Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
+    caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg"
-      caption: "Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg"
-      caption: "Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
+    caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
+    caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: |
   **Links**
   - [Mud creepers (
@@ -57,7 +65,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -65,6 +73,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- sbw
+- prp
+- ubn
+- cj
+- ecp
+- smk
 ---
 
 **Where seen?**

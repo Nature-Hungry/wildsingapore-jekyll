@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae,
+  field,
 layout: entry
 shape: ball
 title: Golf ball sponge
@@ -17,64 +19,110 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Spirophorina
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/090412hntd9690m3.jpg"
-      caption: "Regular circular indentations makes it resemble a golf ball. Pulau Hantu, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070101cjd7268m3.jpg"
-      caption: "Possibly a dead golfball sponge? Chek Jawa, Jan 07"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/090412hntd9690m3.jpg
+    caption: Regular circular indentations makes it resemble a golf ball. Pulau 
+      Hantu, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/070101cjd7268m3.jpg
+    caption: Possibly a dead golfball sponge? Chek Jawa, Jan 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3.jpg"
-      caption: "Pulau Semakau, Aug 07 Broken ones reveal the yellow radiating internal skeleton."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3.jpg"
-      caption: "Changi, Sep 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3.jpg"
-      caption: "Pulau Ubin, Dec 12 Tiny blobs at the filament tips: buds that fall off to become new sponges?"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3.jpg
+    caption: Pulau Semakau, Aug 07 Broken ones reveal the yellow radiating 
+      internal skeleton.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3.jpg
+    caption: Changi, Sep 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3.jpg
+    caption: 'Pulau Ubin, Dec 12 Tiny blobs at the filament tips: buds that fall off
+      to become new sponges?'
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/201117labrk1.jpg"
-      caption: "Labrador, Nov 20 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/210822ssisvc6.jpg"
-      caption: "Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/201117labrk1.jpg
+    caption: Labrador, Nov 20 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/210822ssisvc6.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3b.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091231biod6937m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091205pawlks9m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8647m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/091231biod6937m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/091205pawlks9m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8647m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8786m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8863m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8786m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8863m3.jpg
+    caption: Terumbu Salu, Jan 10
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4815m3b.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100530tbkd4301m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4704m3.jpg"
-      caption: "Pulau Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4815m3b.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100530tbkd4301m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4704m3.jpg
+    caption: Pulau Salu, Jun 10
 links_references: |
   **Links**
   - [*Cinachyrella australiensis*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=129800&genusname=Cinachyrella&speciesname=australiensis)
   on SeaLife Base: technical fact sheet.
   - [*Cinachyrella australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=171296)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

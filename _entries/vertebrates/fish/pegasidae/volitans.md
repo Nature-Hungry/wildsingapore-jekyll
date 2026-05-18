@@ -1,9 +1,10 @@
 ---
 title: Slender seamoth
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,69 +26,98 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Dactylopteroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Their large pectoral fins are often spread out, thus they resemble moths. They have a long stiff snout and a bony outer skeleton, like the seahorse. They are collected for the traditional Chinese medicine trade."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Their large pectoral fins are often spread out, thus they resemble moths. They have a long stiff snout and a bony outer skeleton, like the seahorse. They are collected for the traditional Chinese medicine trade."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Their large pectoral fins
+      are often spread out, thus they resemble moths. They have a long stiff 
+      snout and a bony outer skeleton, like the seahorse. They are collected for
+      the traditional Chinese medicine trade.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Their large pectoral fins are often spread out, thus they resemble 
+      moths. They have a long stiff snout and a bony outer skeleton, like the 
+      seahorse. They are collected for the traditional Chinese medicine trade.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg"
-      caption: "Changi, Aug 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg"
-      caption: "Pasir Ris, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
+    caption: Changi, Aug 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg
+    caption: Pasir Ris, Apr 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg"
-      caption: "Changi, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg"
-      caption: "Changi, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg
+    caption: Changi, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg
+    caption: Changi, May 05
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg"
-      caption: "Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg"
-      caption: "Tuas, Dec 14 Photo shared by Heng Pei Yan on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg
+    caption: Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg
+    caption: Tuas, Dec 14 Photo shared by Heng Pei Yan on her blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg"
-      caption: "Chek Jawa, Jan 16 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg"
-      caption: "Changi, Aug 12 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg
+    caption: Chek Jawa, Jan 16 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg
+    caption: Changi, Aug 12 Photo shared by Marcus Ng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg"
-      caption: "Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg"
-      caption: "Changi, May 08 Photo shared by Toh Chay Hoon on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg"
-      caption: Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg
+    caption: Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg
+    caption: Changi, May 08 Photo shared by Toh Chay Hoon on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg
+    caption: Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg"
-      caption: "Tanah Merah, Aug 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg"
-      caption: "East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg
+    caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg
+    caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg"
-      caption: "St John's Island, Feb 24 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg
+    caption: St John's Island, Feb 24 Photo shared by Marcus Ng on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg"
-      caption: "Pulau Hantu, Mar 10 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg"
-      caption: "Kusu Island, Jun 15 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg
+    caption: Pulau Hantu, Mar 10 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg
+    caption: Kusu Island, Jun 15 Photo shared by Marcus Ng on flickr .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg"
-      caption: "Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg
+    caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG"
-      caption: "Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg"
-      caption: "Cyrene Reef, Apr 18 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG
+    caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg
+    caption: Cyrene Reef, Apr 18 Photo shared by Abel Yeo on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg"
-      caption: "Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg
+    caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook .
   gallery13:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg"
-      caption: "Pulau Semakau South, Mar 19 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg"
-      caption: "Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg
+    caption: Pulau Semakau South, Mar 19 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on 
+      facebook .
 links_references: |
   **Links**
   - [Slender Seamoth (
@@ -105,7 +135,7 @@ links_references: |
   : Technical fact sheet.
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Kelvin K. P. Lim & Jasond Ong. 9 October 2015.
   *New record of brick seamoth in Singapore*
@@ -122,6 +152,18 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- prp
+- chg
+- cj
+- tus
+- tm
+- ecp
+- kus
+- sji
+- cyr
+- hnt
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

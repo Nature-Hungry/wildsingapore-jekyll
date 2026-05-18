@@ -1,9 +1,10 @@
 ---
 title: Durian sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber,  holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber,  
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,33 +27,44 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg"
-      caption: "Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg"
-      caption: Close up of 'thorns'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
+    caption: Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg
+    caption: Close up of 'thorns'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg"
-      caption: Tube feet on the flat underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg
+    caption: Tube feet on the flat underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/230902smkntl1.jpg"
-      caption: "Pulau Semakau North, Sep 23 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/230902smkntl1.jpg
+    caption: Pulau Semakau North, Sep 23 Photo shared by Tammy Lim on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks.JPG"
-      caption: "Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks3.JPG"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks.JPG
+    caption: Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks3.JPG
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks1.JPG"
-      caption: "Pulau Semakau, Jul 15 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks3.JPG"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks1.JPG
+    caption: Pulau Semakau, Jul 15 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks3.JPG
+    caption: ''
 links_references: |
   **Links**
   - [*Stichopus horrens (*
@@ -68,6 +80,11 @@ links_references: |
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
   - [Malaysia lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html)
   on the wild shores of singapore blog with an article about the trade in gamat on Pulau Langkawi.
+location:
+- tm
+- laz
+- smk
+- tsm
 ---
 
 **Where seen?**

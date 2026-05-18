@@ -1,8 +1,10 @@
 ---
 title: Banded krait
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Elapidae
 genus: Bungarus
@@ -17,19 +19,24 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg"
-      caption: "Chek Jawa, Jul 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
+    caption: Chek Jawa, Jul 02
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg"
-      caption: "Chek Jawa, Jul 07 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
+    caption: Chek Jawa, Jul 07 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Banded Kraits](http://singaporesnakes.blogspot.com/search/label/Banded%20Krait)
@@ -42,7 +49,7 @@ links_references: |
   on the habitatnews blog.
   - [*Bungarus fasciatus*](http://www.iucnredlist.org/details/192063/0)
   on the IUCN Red List.
-  
+
   **References**
   - *Banded krait entering mud lobster mound at Chek Jawa*
   , 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.
@@ -66,6 +73,8 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- cj
 ---
 
 **Where seen?**

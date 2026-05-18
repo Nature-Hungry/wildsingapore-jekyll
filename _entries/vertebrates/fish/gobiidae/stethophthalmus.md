@@ -1,9 +1,10 @@
 ---
 title: Head-stripe lagoon-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: head, stripe, byno, lagoon, goby, amblygobius, bynoensis, stethophthalmus,
-  fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: head, stripe, byno, lagoon, goby, amblygobius, bynoensis, 
+  stethophthalmus, fish, gobiidae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,61 +26,88 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg"
-      caption: "Sisters Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/091204pawd5345m3.jpg"
-      caption: "Sometimes seen in pairs. Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg
+    caption: Sisters Island, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/091204pawd5345m3.jpg
+    caption: Sometimes seen in pairs. Pulau Pawai, Dec 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/070603sntrg9954m3.jpg"
-      caption: "This one was in a burrow occupied by a snapping shrimp, but this may be just a coincidence. Sentosa, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/240410cyrlks2.jpg"
-      caption: "This one was near a snapping shrimp, but this may be just a coincidence. Cyrene, Apr 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/070603sntrg9954m3.jpg
+    caption: This one was in a burrow occupied by a snapping shrimp, but this 
+      may be just a coincidence. Sentosa, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/240410cyrlks2.jpg
+    caption: This one was near a snapping shrimp, but this may be just a 
+      coincidence. Cyrene, Apr 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/240821skdrk4.jpg"
-      caption: "Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg"
-      caption: "Flashing display! Chek Jawa, Aug 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/240821skdrk4.jpg
+    caption: Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
+    caption: Flashing display! Chek Jawa, Aug 02
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/160509srpik3.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/160509srpik3.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/251011tgrlks22.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/251011tgrlks22.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/161214sjimn.jpg"
-      caption: "St John's Island, Dec 16 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/230831sjijk2.jpg"
-      caption: "St John's Island, Aug 23 Photo shared by James Koh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/161214sjimn.jpg
+    caption: St John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/230831sjijk2.jpg
+    caption: St John's Island, Aug 23 Photo shared by James Koh on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/250810bsismn1.jpg"
-      caption: "Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/200919bsislks4.jpg"
-      caption: "Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/250810bsismn1.jpg
+    caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/200919bsislks4.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/250331hntjll3.jpg"
-      caption: "Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg"
-      caption: "Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/250331hntjll3.jpg
+    caption: Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg
+    caption: Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg"
-      caption: "Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100810cyrmn1m3.jpg"
-      caption: "Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg"
-      caption: "Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg
+    caption: Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100810cyrmn1m3.jpg
+    caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg
+    caption: Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr.
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/210113smkwvc2.jpg"
-      caption: "Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/220520tryccn1.jpg"
-      caption: "Terumbu Raya, May 22 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/210113smkwvc2.jpg
+    caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on 
+      facebook.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/220520tryccn1.jpg
+    caption: Terumbu Raya, May 22 Photo shared by Che Cheng Neo on facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/110422tbmtch6m6l.jpg"
-      caption: "Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/090330trymn.jpg"
-      caption: "Terumbu Raya, Mar 09 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/110422tbmtch6m6l.jpg
+    caption: Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/090330trymn.jpg
+    caption: Terumbu Raya, Mar 09 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Byno Goby (
@@ -95,11 +123,30 @@ links_references: |
   : Technical fact sheet on the family, including fact sheet.
   - [*Amblygobius stethophthalmus*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1210)
   from NParks Flora and Fauna website.
-  
+
   **References**
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- cj
+- skd
+- bb
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

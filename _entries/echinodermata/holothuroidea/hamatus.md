@@ -1,9 +1,10 @@
 ---
 title: Plasticky sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: beige, cucumber, seacucumber, cladolabes, hamatus, sclerodactylidae, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: beige, cucumber, seacucumber, cladolabes, hamatus, sclerodactylidae, 
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -25,49 +26,68 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg"
-      caption: "Half buried in silty sand. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg"
-      caption: "Changi, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg"
-      caption: "Tube feet short, stiff, conical with orange tips."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+    caption: Half buried in silty sand. Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg
+    caption: Changi, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg
+    caption: Tube feet short, stiff, conical with orange tips.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg"
-      caption: "Changi, Aug 16 Photo shared by Lisa Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg"
-      caption: "Changi, Sep 18 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg
+    caption: Changi, Aug 16 Photo shared by Lisa Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg
+    caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg"
-      caption: "Changi Carpark 6, May 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg"
-      caption: "Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg
+    caption: Changi Carpark 6, May 21 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg
+    caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg"
-      caption: "Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg"
-      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg
+    caption: Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg
+    caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg"
-      caption: "Beting Bronok, Jul 20 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg"
-      caption: "Beting Bronok, Jul 23 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg
+    caption: Beting Bronok, Jul 20 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg
+    caption: Beting Bronok, Jul 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg"
-      caption: "Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg"
-      caption: "East Coast Park, May 16 Photo shared by Ywee Chieh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg
+    caption: Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
+    caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
 links_references: |
   **Links**
   - [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatus.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Ong J. Y. & H. P. S. Wong.
   *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
   . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+location:
+- chg
+- bb
+- ecp
 ---
 
 **Where seen?**

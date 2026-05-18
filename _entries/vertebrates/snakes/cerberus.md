@@ -1,9 +1,10 @@
 ---
 title: Dog-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, schneiderii,
-  rynchops, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, 
+  schneiderii, rynchops, homalopsidae, colubridae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Homalopsidae
 genus: Cerberus
@@ -18,33 +19,45 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070222prpd8325m3.jpg"
-      caption: "The fish is lifted out of water. Pasir Ris Park, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8802m3.jpg"
-      caption: "Attempted theft of prey. Pasir Ris Park, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8785m3.jpg"
-      caption: "Attempting to eat a dead rotten fish head. Pasir Ris Park, Mar 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070222prpd8325m3.jpg
+    caption: The fish is lifted out of water. Pasir Ris Park, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8802m3.jpg
+    caption: Attempted theft of prey. Pasir Ris Park, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8785m3.jpg
+    caption: Attempting to eat a dead rotten fish head. Pasir Ris Park, Mar 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/110129mndik.jpg"
-      caption: "Mandai Mangroves, Jan 11 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/110129mndik.jpg
+    caption: Mandai Mangroves, Jan 11 Photo shared by Ivan Kwan on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8792m3.jpg"
-      caption: "Swallowing a fish bigger than its head! Pasir Ris Park, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8806m3.jpg"
-      caption: Swallowed head first...slowly...slowly.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8816m3.jpg"
-      caption: Gulp!
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8792m3.jpg
+    caption: Swallowing a fish bigger than its head! Pasir Ris Park, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8806m3.jpg
+    caption: Swallowed head first...slowly...slowly.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8816m3.jpg
+    caption: Gulp!
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/131007smkjk.JPG"
-      caption: "Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/131007smkjk.JPG
+    caption: Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo 
+      shared by James Koh on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksjll4.jpg"
-      caption: "Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksrl1.jpg"
-      caption: "Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksjll4.jpg
+    caption: Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksrl1.jpg
+    caption: Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
 links_references: |
   **Links**
   - [Mangrove snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112.md)
@@ -60,7 +73,7 @@ links_references: |
   (Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan, 2011 on taxo4254.
   - [*Cerberus rynchops*](http://www.iucnredlist.org/details/176680/0)
   on the IUCN Red List.
-  
+
   **References**
   - Craig Justin Tan. 29 May 2020.
   *Malayan water monitor preying on dog-faced water snake.*
@@ -80,6 +93,12 @@ links_references: |
   - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
   *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
   New Holland. pp 144.
+location:
+- sbw
+- prp
+- cj
+- lab
+- smk
 ---
 
 **Where seen?**

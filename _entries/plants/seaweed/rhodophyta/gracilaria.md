@@ -1,9 +1,10 @@
 ---
 title: 'Agar-agar red seaweeds '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, 
+  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Gracilariaceae
@@ -22,18 +23,27 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Agar-agar is extracted from these seaweeds. Lots of little animals often hide in them. Look for them! They grow rapidly on abandoned rope. In fact, they are farmed on ropes."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Agar-agar is extracted from these seaweeds. Lots of little animals often hide in them. Look for them! They grow rapidly on abandoned rope. In fact, they are farmed on ropes."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Agar-agar is extracted 
+      from these seaweeds. Lots of little animals often hide in them. Look for 
+      them! They grow rapidly on abandoned rope. In fact, they are farmed on 
+      ropes.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Agar-agar is extracted from these seaweeds. Lots of little animals 
+      often hide in them. Look for them! They grow rapidly on abandoned rope. In
+      fact, they are farmed on ropes.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg"
-      caption: "Pulau Sekudu, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg"
-      caption: "Made up of club-shaped segments. Knobbly agar-agar red seaweed Chek Jawa, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
+    caption: Pulau Sekudu, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
+    caption: Made up of club-shaped segments. Knobbly agar-agar red seaweed Chek
+      Jawa, May 05
 links_references: |
   **Links**
   - [Training Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00.md)
@@ -50,7 +60,7 @@ links_references: |
   on
   [The Seaweed Site](http://www.seaweed.ie/)
   : history of its use and spread, cultivation and species used to produce it.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -70,6 +80,20 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- laz
+- hnt
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

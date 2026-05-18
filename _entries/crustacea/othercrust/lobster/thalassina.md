@@ -1,9 +1,10 @@
 ---
 title: Mud lobster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 84
@@ -25,40 +26,59 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Gebiidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are rarely seen but are a vital part of a healthy mangrove. They are responsible for the huge mounds of mud in the back mangroves. Many other plants and animals live and feed on these mounds.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are rarely seen but are a vital part of a healthy mangrove. They are responsible for the huge mounds of mud in the back mangroves. Many other plants and animals live and feed on these mounds.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are rarely seen but 
+      are a vital part of a healthy mangrove. They are responsible for the huge 
+      mounds of mud in the back mangroves. Many other plants and animals live 
+      and feed on these mounds.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are rarely seen but are a vital part of a healthy mangrove. 
+      They are responsible for the huge mounds of mud in the back mangroves. 
+      Many other plants and animals live and feed on these mounds.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg"
-      caption: "Chek Jawa, Nov 01"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg"
-      caption: "Fresh mud from a mound suggests an active mud lobster deep underground. Chek Jawa, Mar 12"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/m321c.gif"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+    caption: Chek Jawa, Nov 01
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg
+    caption: Fresh mud from a mound suggests an active mud lobster deep 
+      underground. Chek Jawa, Mar 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/m321c.gif
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg"
-      caption: "Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg"
-      caption: "Mudlobster in its burrow. Chek Jawa, Oct 07"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg"
-      caption: "Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, Aug 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg
+    caption: Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg
+    caption: Mudlobster in its burrow. Chek Jawa, Oct 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg
+    caption: Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, 
+      Aug 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg"
-      caption: "Mudlobster mounds Sungei Pandan, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg"
-      caption: "Mudlobster mounds Chek Jawa, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg
+    caption: Mudlobster mounds Sungei Pandan, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg
+    caption: Mudlobster mounds Chek Jawa, Oct 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg"
-      caption: "Chek Jawa, Aug 09 Shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg
+    caption: Chek Jawa, Aug 09 Shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery6:
-    - url: "https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1"
-      caption: Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video clip shared by November on her flickr.
+  - url: https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1
+    caption: Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video 
+      clip shared by November on her flickr.
 links_references: |
   **Links**
   - [Mud lobster (
@@ -82,7 +102,7 @@ links_references: |
   *Thalassina anomala*
   )](http://species-identification.org/species.php?species_group=lobsters&id=75)
   in Marine Lobsters of the World on Marine Life Species Identification Portal.
-  
+
   **References**
   - *Banded krait entering mud lobster mound at Chek Jawa*
   , 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.
@@ -98,6 +118,12 @@ links_references: |
   - Debelius, Helmut, 2001.
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+location:
+- sbw
+- lck
+- prp
+- ubn
+- cj
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

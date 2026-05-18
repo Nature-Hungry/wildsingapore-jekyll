@@ -1,8 +1,10 @@
 ---
 title: Sicklefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sickle, fish, sicklefish, drepane, drepaneidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sickle, fish, sicklefish, drepane, drepaneidae, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -20,18 +22,25 @@ phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg"
-      caption: "Juvenile. Tanah Merah, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg"
-      caption: "Spotted sicklefish ( Drepane punctata ) Adults were among those seen during a mass fish death event. Sungei Buloh Wetland Reserve, Mar 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+    caption: Juvenile. Tanah Merah, Aug 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
+    caption: Spotted sicklefish ( Drepane punctata ) Adults were among those 
+      seen during a mass fish death event. Sungei Buloh Wetland Reserve, Mar 15
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg"
-      caption: "Spotted sicklefish ( Drepane punctata ) Adults removed from fish net Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
+    caption: Spotted sicklefish ( Drepane punctata ) Adults removed from fish 
+      net Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr .
 links_references: |
   **Links**
   - [Spotted Sicklefish (
@@ -46,6 +55,10 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, including fact sheets on the species.
+location:
+- sbw
+- cj
+- tm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Anchor   tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: anchor, tuskfish, tusk, fish, choerodon, anchorago, labridae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: anchor, tuskfish, tusk, fish, choerodon, anchorago, labridae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,59 +25,81 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg"
-      caption: "Kusu Island, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m6l.jpg"
-      caption: "Tanah Merah, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
+    caption: Kusu Island, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m6l.jpg
+    caption: Tanah Merah, Apr 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110422mkbmn.jpg"
-      caption: "Marina Keppel Bay, Apr 11 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/120507sntsrghpy1m3.jpg"
-      caption: "Sentosa Serapong, May 12 Photo shared by Heng Pei Yan on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110422mkbmn.jpg
+    caption: Marina Keppel Bay, Apr 11 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/120507sntsrghpy1m3.jpg
+    caption: Sentosa Serapong, May 12 Photo shared by Heng Pei Yan on her blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/121215sislks.jpg"
-      caption: "Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240623hntky3.jpg"
-      caption: "Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/121215sislks.jpg
+    caption: Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240623hntky3.jpg
+    caption: Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100710cyrmn.jpg"
-      caption: "Cyrene Reef, Jul 10 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/200918cyrjll2.jpg"
-      caption: "Cyrene, Sep 20 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100710cyrmn.jpg
+    caption: Cyrene Reef, Jul 10 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/200918cyrjll2.jpg
+    caption: Cyrene, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210821cyrlks1.jpg"
-      caption: "Cyrene Reef, Aug 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/220911cyrccn1.jpg"
-      caption: "Cyrene, Sep 22 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210821cyrlks1.jpg
+    caption: Cyrene Reef, Aug 21 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/220911cyrccn1.jpg
+    caption: Cyrene, Sep 22 Photo shared by Che Cheng Neo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240410cyrky5.jpg"
-      caption: "Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/260101cyryls2.jpg"
-      caption: "Cyrene, Apr 26 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240410cyrky5.jpg
+    caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/260101cyryls2.jpg
+    caption: Cyrene, Apr 26 Photo shared by Yan Le Su on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170430thntay.jpg"
-      caption: "Terumbu Hantu, Apr 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170430thntay.jpg
+    caption: Terumbu Hantu, Apr 17 Photo shared by Abel Yeo on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/101107tburrl.jpg"
-      caption: "Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210811trylks2.jpg"
-      caption: "Terumbu Raya, Aug 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/101107tburrl.jpg
+    caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210811trylks2.jpg
+    caption: Terumbu Raya, Aug 21 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/160424smknmn1.jpg"
-      caption: "Pulau Semakau (North), Apr 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/160424smknmn1.jpg
+    caption: Pulau Semakau (North), Apr 16 Photo shared by Marcus Ng on facebook
+      .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100612sngmn.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slujll1.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100612sngmn.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slujll1.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slumn1.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slulks4.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slumn1.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slulks4.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Anchor Tuskfish (
@@ -94,7 +117,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -105,6 +128,16 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- tm
+- snt
+- kus
+- sis
+- cyr
+- hnt
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

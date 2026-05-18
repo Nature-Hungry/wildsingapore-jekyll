@@ -1,9 +1,10 @@
 ---
 title: Eeltail catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Plotosidae
 genus: ''
@@ -19,29 +20,42 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They lack scales and are sometimes mistaken for eels or snakes. The 'whiskers' don't sting. They are used to find food in murky waters. They have venomous spines. Don't touch them!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They lack scales and are sometimes mistaken for eels or snakes. The 'whiskers' don't sting. They are used to find food in murky waters. They have venomous spines. Don't touch them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They lack scales and are 
+      sometimes mistaken for eels or snakes. The 'whiskers' don't sting. They 
+      are used to find food in murky waters. They have venomous spines. Don't 
+      touch them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They lack scales and are sometimes mistaken for eels or snakes. The
+      'whiskers' don't sting. They are used to find food in murky waters. They 
+      have venomous spines. Don't touch them!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
-      caption: "'Whiskers' help it to find food in murky waters. Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg"
-      caption: "Small ones may swim in tight groups. Kusu Island, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg"
-      caption: "Great billed heron caught an eeltail catfish! Chek Jawa, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+    caption: "'Whiskers' help it to find food in murky waters. Changi, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
+    caption: Small ones may swim in tight groups. Kusu Island, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
+    caption: Great billed heron caught an eeltail catfish! Chek Jawa, Jan 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Black eeltail catfish (
@@ -81,7 +95,7 @@ links_references: |
   : Technical fact sheet on the order, including fact sheets.
   - [Sting of the cat: thousands of catfishes may be venomous](http://wildshores.blogspot.com/2009/12/sting-of-cat-thousands-of-catfishes-may.html)
   on the wild shores of singapore blog.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -98,6 +112,22 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- kus
+- sji
+- sis
+- cyr
+- tpg
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

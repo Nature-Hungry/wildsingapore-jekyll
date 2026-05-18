@@ -1,9 +1,10 @@
 ---
 title: Polished nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: polished, nerita, nerite, polita, neritidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: polished, nerita, nerite, polita, neritidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,25 +27,33 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg"
-      caption: "Labrador, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg"
-      caption: "Labrador, Jan 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg"
-      caption: "Not all have glossy shells. Sentosa, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
+    caption: Labrador, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
+    caption: Labrador, Jan 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg
+    caption: Not all have glossy shells. Sentosa, May 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg"
-      caption: "Labrador, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg"
-      caption: "Sentosa, Dec 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
+    caption: Labrador, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg
+    caption: Sentosa, Dec 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Polished nerite (
@@ -56,7 +65,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -64,6 +73,12 @@ links_references: |
   - Tan, S.K. & Clements, R. (2008)
   [Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf)
   . Zoological Studies 47(4): 481-494.
+location:
+- lab
+- snt
+- kus
+- sji
+- jng
 ---
 
 **Where seen?**

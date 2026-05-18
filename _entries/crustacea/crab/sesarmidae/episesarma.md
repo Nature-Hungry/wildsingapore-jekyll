@@ -1,9 +1,10 @@
 ---
 title: Tree climbing crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,29 +30,42 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
-      caption: "About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg"
-      caption: "Kranji Nature Trail, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Dec 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+    caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
+    caption: Kranji Nature Trail, Dec 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Dec 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg"
-      caption: Singapore tree climbing crab ( Episesarma singaporense ) has all red pincers.
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg"
-      caption: Violet tree climbing crab ( Episesarma versicolor ) has purple-white pincers.
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg"
-      caption: Pink tree climbing crab ( Episesarma chentongense ) has red-white pincers.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
+    caption: Singapore tree climbing crab ( Episesarma singaporense ) has all 
+      red pincers.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
+    caption: Violet tree climbing crab ( Episesarma versicolor ) has 
+      purple-white pincers.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
+    caption: Pink tree climbing crab ( Episesarma chentongense ) has red-white 
+      pincers.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG"
-      caption: "Chek Jawa, Sep 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG"
-      caption: "Chek Jawa, Sep 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG"
-      caption: "Pasir Ris Park, Dec 14 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
+    caption: Chek Jawa, Sep 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
+    caption: Chek Jawa, Sep 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
+    caption: Pasir Ris Park, Dec 14 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
@@ -76,7 +90,7 @@ links_references: |
   - [*Episesarma versicolor*
   - Violet vinegar crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Episesarma%20versicolor.html)
   . Hariz. 2017. Taxo4254, Wiki.nus.
-  
+
   **References**
   - Lee B. Y., Ng N. K. & P. K. L. Ng.
   *The taxonomy of five species of Episesarma De Man, 1895 in Singapore (Crustacea: Decapoda: Brachyura: Sesarmidae)*
@@ -90,6 +104,11 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
   Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- sbw
+- prp
+- cj
+- smk
 ---
 
 **Where seen?**

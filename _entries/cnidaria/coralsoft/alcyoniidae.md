@@ -1,9 +1,10 @@
 ---
 title: 'Leathery soft corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: leathery, alcyoniidae,  alcyonacea, soft, coral, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: leathery, alcyoniidae,  alcyonacea, soft, coral, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: ''
@@ -20,72 +21,106 @@ updated: Dec 2024
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are animals! Although they look like plants. Don't step on them! They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are animals! Although they look like plants. Don't step on them! They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are animals! 
+      Although they look like plants. Don't step on them! They don't produce a 
+      hard skeleton. Each soft coral is a colony of countless tiny polyps.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are animals! Although they look like plants. Don't step on 
+      them! They don't produce a hard skeleton. Each soft coral is a colony of 
+      countless tiny polyps.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg"
-      caption: "Leathery soft corals can be quite large! Pulau Hantu, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg"
-      caption: "Some colonies are mushroom-shaped with a stem beneath a broad top. Pulau Tekukor, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/090412hntd9624m3.jpg"
-      caption: "Different kinds of polyps: Smaller siphonozooids with larger, taller autozooids. Pulau Hantu, Apr 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+    caption: Leathery soft corals can be quite large! Pulau Hantu, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg
+    caption: Some colonies are mushroom-shaped with a stem beneath a broad top. 
+      Pulau Tekukor, May 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/090412hntd9624m3.jpg
+    caption: 'Different kinds of polyps: Smaller siphonozooids with larger, taller
+      autozooids. Pulau Hantu, Apr 09'
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0631m3.jpg"
-      caption: "Colony can contract when out of water. St. John's Island, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/070304hntd8771m3a.jpg"
-      caption: "Shedding a layer of mucus. Pulau Hantu, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg"
-      caption: "Stinging tentacles produced by ctenophores living on the leathery soft coral. Sentosa, Nov 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0631m3.jpg
+    caption: Colony can contract when out of water. St. John's Island, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/070304hntd8771m3a.jpg
+    caption: Shedding a layer of mucus. Pulau Hantu, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg
+    caption: Stinging tentacles produced by ctenophores living on the leathery 
+      soft coral. Sentosa, Nov 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
-      caption: Omelette leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg"
-      caption: Autozooids on long body column.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110423tpld9944m3.jpg"
-      caption: Has siphonozooids.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+    caption: Omelette leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg
+    caption: Autozooids on long body column.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110423tpld9944m3.jpg
+    caption: Has siphonozooids.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/070204hntd7874m3a.jpg"
-      caption: Pimply leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg"
-      caption: Autozooids on short body column.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100812tpld0310m3a.jpg"
-      caption: Has siphonozooids.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/070204hntd7874m3a.jpg
+    caption: Pimply leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg
+    caption: Autozooids on short body column.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100812tpld0310m3a.jpg
+    caption: Has siphonozooids.
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0864m3.jpg"
-      caption: Pinwheel leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3e.jpg"
-      caption: Autozooids on short body column.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100528tkkd3835m3.jpg"
-      caption: Has siphonozooids.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0864m3.jpg
+    caption: Pinwheel leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3e.jpg
+    caption: Autozooids on short body column.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100528tkkd3835m3.jpg
+    caption: Has siphonozooids.
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg"
-      caption: Smooth leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/080920hntd0749m3c.jpg"
-      caption: Autozooids on short body column.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg"
-      caption: No siphonozooids.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
+    caption: Smooth leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/080920hntd0749m3c.jpg
+    caption: Autozooids on short body column.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg
+    caption: No siphonozooids.
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060402ulrd0976m3.jpg"
-      caption: Black-and-white leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg"
-      caption: Autozooids on short body column.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg"
-      caption: No siphonozooids.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060402ulrd0976m3.jpg
+    caption: Black-and-white leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg
+    caption: Autozooids on short body column.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg
+    caption: No siphonozooids.
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg"
-      caption: Starry leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg"
-      caption: "Autozooids very short body column, star-like."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg"
-      caption: No siphonozooids. Spindle-shaped structures in common tissue.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg"
-      caption: Starry leathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg"
-      caption: "Autozooids very short body column, star-like."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg"
-      caption: No siphonozooids. Prickly surface due to tiny spicules.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+    caption: Starry leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg
+    caption: Autozooids very short body column, star-like.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg
+    caption: No siphonozooids. Spindle-shaped structures in common tissue.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
+    caption: Starry leathery soft coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
+    caption: Autozooids very short body column, star-like.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg
+    caption: No siphonozooids. Prickly surface due to tiny spicules.
 links_references: |
   **Links**
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.md)
@@ -99,7 +134,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
@@ -125,6 +160,23 @@ links_references: |
   - Pechenik, Jan A., 2005.
   *Biology of the Invertebrates*
   . 5
+location:
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

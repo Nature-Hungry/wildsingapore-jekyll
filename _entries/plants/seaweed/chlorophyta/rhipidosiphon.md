@@ -1,9 +1,10 @@
 ---
 title: Pleated fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, 
+  udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
@@ -19,25 +20,30 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jul 2025
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg"
-      caption: "Chek Jawa, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg
+    caption: Labrador, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg
+    caption: Chek Jawa, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg"
-      caption: "Cyrene, Jul 25 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg
+    caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
 links_references: |
   **Links**
   - [*Rhipidosiphon javensis*](http://www.algaebase.org/search/species/detail/?species_id=4561)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Photos and technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -54,6 +60,11 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- cj
+- bb
+- lab
+- cyr
 ---
 
 **Where seen?**

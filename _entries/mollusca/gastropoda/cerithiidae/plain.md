@@ -1,9 +1,10 @@
 ---
 title: Plain creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, 
+  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -24,29 +25,53 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+    caption: Labrador, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg"
-      caption: "Pulau Hantu, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg"
-      caption: "Pulau Hantu, Feb 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg"
-      caption: "Sisters Island, Feb 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg
+    caption: Pulau Hantu, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg
+    caption: Pulau Hantu, Feb 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg
+    caption: Sisters Island, Feb 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg"
-      caption: "Pulau Jong, Nov 08 Photo shared by Chim Chee Kong on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg"
-      caption: "Terumbu Bemban, Aug 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg
+    caption: Pulau Jong, Nov 08 Photo shared by Chim Chee Kong on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg
+    caption: Terumbu Bemban, Aug 25 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg
+    caption: ''
+location:
+- prp
+- tus
+- tm
+- lab
+- snt
+- kus
+- laz
+- sis
+- jng
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Face-banded sesarmine crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae,
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, 
+  sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -29,22 +30,29 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2025
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg"
-      caption: "Kranji Nature Trail, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg"
-      caption: "Perisesarma indiarum Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg"
-      caption: Bright upside-down V-shape under the face-band.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+    caption: Kranji Nature Trail, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
+    caption: Perisesarma indiarum Pulau Semakau, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
+    caption: Bright upside-down V-shape under the face-band.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg"
-      caption: "Pasir Ris, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg"
-      caption: "Kranji Nature Trail, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg"
-      caption: "Chek Jawa, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
+    caption: Pasir Ris, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
+    caption: Kranji Nature Trail, Dec 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
+    caption: Chek Jawa, Dec 09
 links_references: |
   **Links**
   - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
@@ -78,7 +86,7 @@ links_references: |
   - [Wild victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-our.html)
   - [When crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dance.html)
   Grace Chua, Straits Times 11 Jul 09.
-  
+
   **References**
   - "NUS researchers discover what’s behind the electric blue strip on local mangrove crab" Zachary Lim
   [Straits Times](https://www.straitstimes.com/singapore/environment/nus-researchers-discover-whats-behind-the-electric-blue-strip-on-local-mangrove-crab)
@@ -89,6 +97,12 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
   Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- sbw
+- lck
+- prp
+- cj
+- smk
 ---
 
 **Where seen?**

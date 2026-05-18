@@ -1,8 +1,10 @@
 ---
 title: Venus clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Veneridae
 genus: ''
@@ -20,7 +22,8 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 links_references: |
   **Links**
   - [Clams
@@ -46,7 +49,7 @@ links_references: |
     Western Central Pacific [Volume
     1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
     Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 April 2020. *Sightings of the long-leaf irus clam, Irus irus, in Singapore*. Singapore Biodiversity Records 2020: 49-52 ISSN 2345-7597
   - Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019. *Sowerby’s venus clam, Lioconcha sowerbyi, a new record for Singapore*, Singapore Biodiversity Records 2019: 118-119 ISSN 2345-7597.
@@ -68,32 +71,88 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Many venus clam species are edible. However, don't eat wild clams as some may make you ill. They are eaten by snails that bore a hole in their shell. See if you can find such a shell?"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Many venus clam species are edible. However, don't eat wild clams as some may make you ill. They are eaten by snails that bore a hole in their shell. See if you can find such a shell?"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Many venus clam species 
+      are edible. However, don't eat wild clams as some may make you ill. They 
+      are eaten by snails that bore a hole in their shell. See if you can find 
+      such a shell?
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Many venus clam species are edible. However, don't eat wild clams 
+      as some may make you ill. They are eaten by snails that bore a hole in 
+      their shell. See if you can find such a shell?
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
-      caption: "Venus clams being harvested. Pulau Sekudu, Jul 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg"
-      caption: "Half buried under a stone. Chek Jawa, Sep 02"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg"
-      caption: "Siphon sticking out. Changi, Feb 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+    caption: Venus clams being harvested. Pulau Sekudu, Jul 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
+    caption: Half buried under a stone. Chek Jawa, Sep 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
+    caption: Siphon sticking out. Changi, Feb 02
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
-      caption: Forked venus clam
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg"
-      caption: Script venus clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+    caption: Forked venus clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
+    caption: Script venus clam
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg"
-      caption: Bean-shaped venus clam
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
-      caption: Ribbed venus clam
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
-      caption: White venus clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
+    caption: Bean-shaped venus clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+    caption: Ribbed venus clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+    caption: White venus clam
   gallery5:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Acknowledgements With grateful thanks to Andre Sartori from eBivalvia on EOL's Life Desk for identifying some of the Venus clams. Links Clams ( Marcia marmorata ) , Kepah ( Meretrix meretrix) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Bivalves in general Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Family Veneridae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos. Family Veneridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Chan Sow-Yan & Lau Wing Lup. 30 April 2020. Sightings of the long-leaf irus clam, Irus irus, in Singapore . Singapore Biodiversity Records 2020: 49-52 ISSN 2345-7597 Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019. Sowerby’s venus clam, Lioconcha sowerbyi, a new record for Singapore , Singapore Biodiversity Records 2019: 118-119 ISSN 2345-7597. Tan Siong Kiat and Chan Sow-Yan. 31 Oct 2017. First Singapore record of Venus clam, Pitar lineolatus . Singapore Biodiversity Records 2017: 142 Tan Siong Kiat. 31 Aug 2017. Lyrate Asiatic hard clam, Meretrix lyrata, at Changi coast . Singapore Biodiversity Records 2017: 142 Tan Siong Kiat. 31 Aug 2017. Two species of venus clams new to Singapore: , Antigona chemnitzii and Hyphantosoma intricatum . Singapore Biodiversity Records 2017: 114-115. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Acknowledgements With grateful thanks to Andre Sartori from eBivalvia
+      on EOL's Life Desk for identifying some of the Venus clams. Links Clams ( Marcia
+      marmorata ) , Kepah ( Meretrix meretrix) Ng, Peter K. L. & N. Sivasothi, 1999.
+      A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science
+      Centre. 168 pp. Bivalves in general Tan, Leo W. H. & Ng, Peter K. L., 1988.
+      A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp.
+      Family Veneridae on The Gladys Archerd Shell Collection at Washington State
+      University Tri-Cities Natural History Museum website: brief description and
+      photos. Family Veneridae in the Bivalves section by J.M. Poutiers in the FAO
+      Species Identification Guide for Fishery Purposes: The Living Marine Resources
+      of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods
+      on the Food and Agriculture Organization of the United Nations (FAO) website.
+      References Chan Sow-Yan & Lau Wing Lup. 30 April 2020. Sightings of the long-leaf
+      irus clam, Irus irus, in Singapore . Singapore Biodiversity Records 2020: 49-52
+      ISSN 2345-7597 Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019.
+      Sowerby’s venus clam, Lioconcha sowerbyi, a new record for Singapore , Singapore
+      Biodiversity Records 2019: 118-119 ISSN 2345-7597. Tan Siong Kiat and Chan Sow-Yan.
+      31 Oct 2017. First Singapore record of Venus clam, Pitar lineolatus . Singapore
+      Biodiversity Records 2017: 142 Tan Siong Kiat. 31 Aug 2017. Lyrate Asiatic hard
+      clam, Meretrix lyrata, at Changi coast . Singapore Biodiversity Records 2017:
+      142 Tan Siong Kiat. 31 Aug 2017. Two species of venus clams new to Singapore:
+      , Antigona chemnitzii and Hyphantosoma intricatum . Singapore Biodiversity Records
+      2017: 114-115. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist
+      of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research,
+      National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A Guide to
+      the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C.
+      and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National
+      Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore
+      Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society
+      (Singapore), Singapore. 343 pp."
+location:
+- prp
+- chg
+- tus
+- tm
+- ecp
+- lab
+- kus
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

@@ -1,8 +1,10 @@
 ---
 title: Tun shell snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,22 +27,31 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg"
-      caption: "Possibly the Spotted tun. Changi, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
+    caption: Possibly the Spotted tun. Changi, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG"
-      caption: "Empty shell. Chek Jawa, Jun 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg"
-      caption: "Empty shell. Cyrene, Aug 13 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg"
-      caption: "Shell occupied by a hemit crab. Cyrene, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG
+    caption: Empty shell. Chek Jawa, Jun 12 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg
+    caption: Empty shell. Cyrene, Aug 13 Photo shared by Loh Kok Sheng on his 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
+    caption: Shell occupied by a hemit crab. Cyrene, Aug 11
 links_references: |
   **Links**
   - [Family Tonnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Tonnidae.html)
@@ -48,7 +59,7 @@ links_references: |
   - Family Tonnidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -56,6 +67,8 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
 ---
 
 **Where seen?**

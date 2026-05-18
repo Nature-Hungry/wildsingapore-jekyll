@@ -1,51 +1,68 @@
 ---
 title: Japanese bonnet snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bonnet, helmet, phalium, semicassis, bisulcata, cassidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bonnet, helmet, phalium, semicassis, bisulcata, cassidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cassidae
 genus: Phalium/Semicassis
 species: bisulcata
 attributes: []
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg"
-      caption: "Cyrene Reef, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
+    caption: Cyrene Reef, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg"
-      caption: "Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg
+    caption: Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg
+    caption: Underside.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg"
-      caption: "Dead one. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg"
-      caption: "Changi, Feb 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg"
-      caption: "Changi, Jan 18 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg
+    caption: Dead one. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
+    caption: Changi, Feb 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg
+    caption: Changi, Jan 18 Photo shared by Abel Yeo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg"
-      caption: "East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg"
-      caption: "East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg
+    caption: East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg
+    caption: East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg"
-      caption: "Cyrene Reef, Mar 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg"
-      caption: "Cyrene Reef, Mar 09 Photo shared by Chim Chee Kong on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg
+    caption: Cyrene Reef, Mar 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg
+    caption: Cyrene Reef, Mar 09 Photo shared by Chim Chee Kong on his flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG"
-      caption: "Cyrene Reef, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG
+    caption: Cyrene Reef, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [Globular helmet shell (
@@ -56,7 +73,7 @@ links_references: |
   on
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
   by Des Beechey Research Associate, Australian Museum:
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -67,6 +84,11 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- cj
+- ecp
+- cyr
 ---
 
 **Where seen?**

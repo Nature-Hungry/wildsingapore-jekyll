@@ -1,9 +1,10 @@
 ---
 title: 'Cotton candy red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, bonnemaisoniaceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, 
+  bonnemaisoniaceae, rhodophyta, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Ceramiaceae
@@ -22,15 +23,26 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Oct 15
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg"
-      caption: "Raffles Lighthouse, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg"
-      caption: "Terumbu Buran, Nov 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg"
-      caption: "Bloom on seagrasses Chek Jawa, Dec 25"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+    caption: Raffles Lighthouse, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
+    caption: Terumbu Buran, Nov 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
+    caption: Bloom on seagrasses Chek Jawa, Dec 25
+location:
+- lab
+- snt
+- tkr
+- sji
+- sis
+- rfl
 ---
 
 **Where seen?**

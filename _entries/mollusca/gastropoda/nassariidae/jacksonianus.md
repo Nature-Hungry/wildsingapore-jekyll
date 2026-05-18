@@ -1,9 +1,10 @@
 ---
 title: Mud whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mud, whelk, nassarius, jacksonianus, nassariidae, gastropod, mollusc, shell,
-  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mud, whelk, nassarius, jacksonianus, nassariidae, gastropod, mollusc, 
+  shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,18 +26,23 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg"
-      caption: "Tuas, Sep 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg"
-      caption: "Large numbers cluster on a dead fish. Changi, Jan 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+    caption: Tuas, Sep 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg
+    caption: Large numbers cluster on a dead fish. Changi, Jan 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [*Nassarius jacksonianus*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?id=138139)
@@ -47,11 +53,18 @@ links_references: |
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
   (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+location:
+- prp
+- chg
+- ubn
+- cj
+- tus
+- ecp
 ---
 
 **Where seen?**

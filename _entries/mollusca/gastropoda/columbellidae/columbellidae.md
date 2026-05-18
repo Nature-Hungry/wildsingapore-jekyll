@@ -1,8 +1,10 @@
 ---
 title: Dove snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Columbellidae
 genus: ''
@@ -20,24 +22,34 @@ updated: Jul 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These small pretty snails are often hidden under stones. Some are well camouflaged. Look carefully for them. Some shells may contain tiny hermit crabs and not living snails!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These small pretty snails are often hidden under stones. Some are well camouflaged. Look carefully for them. Some shells may contain tiny hermit crabs and not living snails!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These small pretty snails
+      are often hidden under stones. Some are well camouflaged. Look carefully 
+      for them. Some shells may contain tiny hermit crabs and not living snails!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These small pretty snails are often hidden under stones. Some are 
+      well camouflaged. Look carefully for them. Some shells may contain tiny 
+      hermit crabs and not living snails!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg"
-      caption: "Kusu Island, Dec 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg"
-      caption: "Sentosa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg"
-      caption: Narrow opening in a thick shell.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+    caption: Kusu Island, Dec 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+    caption: Sentosa, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
+    caption: Narrow opening in a thick shell.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg"
-      caption: Turtle dove snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg"
-      caption: Lighting dove snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg"
-      caption: Dotted dove snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
+    caption: Turtle dove snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
+    caption: Lighting dove snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+    caption: Dotted dove snail
 links_references: |
   **Links**
   - [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)
@@ -62,7 +74,7 @@ links_references: |
   - Family Columbellidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan.
   *Two small species of dove-shells found at East Coast Park: Mitrella pudica and Retizafra intricata*
@@ -97,6 +109,21 @@ links_references: |
   - Coleman, Neville. 2003.
   *2002 Sea Shells: Catalogue of Indo-Pacific Mollusca*
   Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- cj
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- smk
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

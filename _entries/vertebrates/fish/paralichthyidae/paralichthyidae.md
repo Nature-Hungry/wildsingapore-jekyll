@@ -1,9 +1,10 @@
 ---
 title: 'Large-tooth flounders '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: large, tooth, flat, fish, flatfish, flounder, paralichthyidae, pleuronectiformes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: large, tooth, flat, fish, flatfish, flounder, paralichthyidae, 
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,64 +25,92 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Eyes on the left side of the body only. Tail and dorsal and anal fins separated. Found beneath the sand. Watch your step!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Eyes on the left side of the body only. Tail and dorsal and anal fins separated. Found beneath the sand. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Eyes on the left side of 
+      the body only. Tail and dorsal and anal fins separated. Found beneath the 
+      sand. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Eyes on the left side of the body only. Tail and dorsal and anal 
+      fins separated. Found beneath the sand. Watch your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg"
-      caption: "Some species have a white patch under the pectoral fin. Changi, Jul 06."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m6l.jpg"
-      caption: "Tail fin well separated from dorsal and anal fins. Pulau Semakau, Sep 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
+    caption: Some species have a white patch under the pectoral fin. Changi, Jul
+      06.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m6l.jpg
+    caption: Tail fin well separated from dorsal and anal fins. Pulau Semakau, 
+      Sep 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2478m6l.jpg"
-      caption: Eyes on the left side. Large mouth with canine teeth. Pelvic fin.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2478m6l.jpg
+    caption: Eyes on the left side. Large mouth with canine teeth. Pelvic fin.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/210528chgsafmn2.jpg"
-      caption: "Changi Creek, May 21 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgjk2m3.jpg"
-      caption: "Changi, May 11 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/210528chgsafmn2.jpg
+    caption: Changi Creek, May 21 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgjk2m3.jpg
+    caption: Changi, May 11 Photo shared by James Koh on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/140615skdmn.jpg"
-      caption: "Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgmn.jpg"
-      caption: "Changi, May 11 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/140615skdmn.jpg
+    caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgmn.jpg
+    caption: Changi, May 11 Photo shared by Marcus Ng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240509ecpky1.jpg"
-      caption: "East Coast Sailing Centre, May 2024 Photo shared by Kelvin Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/150705skdlks1.JPG"
-      caption: "Pulau Sekudu, Jul 15 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240509ecpky1.jpg
+    caption: East Coast Sailing Centre, May 2024 Photo shared by Kelvin Lim on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/150705skdlks1.JPG
+    caption: Pulau Sekudu, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190704bbay3a.jpg"
-      caption: "Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/160607bbjt1.jpg"
-      caption: "Beting Bronok, Jun 16 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190704bbay3a.jpg
+    caption: Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/160607bbjt1.jpg
+    caption: Beting Bronok, Jun 16 Photo shared by Jonathan Tan on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110220lazlks6m6la.jpg"
-      caption: "Seringat-Kias, Feb 11 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110220lazlks6m6la.jpg
+    caption: Seringat-Kias, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2a.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2a.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Marcus Ng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/170726lsisll1.jpg"
-      caption: "Little Sisters Island, Jul 17 Photo shared by Lisa Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100103tkkjk2m3.jpg"
-      caption: "Cyrene Reef, May 08 Photo shared by James Koh on his flickr"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/170726lsisll1.jpg
+    caption: Little Sisters Island, Jul 17 Photo shared by Lisa Lim on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100103tkkjk2m3.jpg
+    caption: Cyrene Reef, May 08 Photo shared by James Koh on his flickr
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190122cyrjll4.jpg"
-      caption: "Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190122cyrjll4.jpg
+    caption: Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100711cyrjk7m3.jpg"
-      caption: "Cyrene Reef, Jul 10 Photo shared by James Koh on his blog"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/230423cyrlks3.jpg"
-      caption: "Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240725smkntt6.jpg"
-      caption: "Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100711cyrjk7m3.jpg
+    caption: Cyrene Reef, Jul 10 Photo shared by James Koh on his blog
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/230423cyrlks3.jpg
+    caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240725smkntt6.jpg
+    caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
 links_references: |
   **Links**
   - [Largetooth Flounder (
@@ -112,7 +141,7 @@ links_references: |
   : Technical fact sheet on the family and fact sheets on individual species.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017.
   *Deep flounder, Pseudorhombus neglectus, at East Coast.*
@@ -126,6 +155,17 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- chg
+- skd
+- bb
+- tm
+- ecp
+- kus
+- laz
+- sis
+- cyr
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

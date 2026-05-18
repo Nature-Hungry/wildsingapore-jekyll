@@ -1,8 +1,10 @@
 ---
 title: Scorpionfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Scorpaenidae
 genus: ''
@@ -18,36 +20,53 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are well camouflaged. Look carefully to find them. Some have venomous spines. Don't handle them! Their venom is only used for protection from predators and not to catch prey.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are well camouflaged. Look carefully to find them. Some have venomous spines. Don't handle them! Their venom is only used for protection from predators and not to catch prey.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are well 
+      camouflaged. Look carefully to find them. Some have venomous spines. Don't
+      handle them! Their venom is only used for protection from predators and 
+      not to catch prey.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are well camouflaged. Look carefully to find them. Some have 
+      venomous spines. Don't handle them! Their venom is only used for 
+      protection from predators and not to catch prey.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg"
-      caption: "Perfectly camouflaged! Tanah Merah, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg"
-      caption: "The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+    caption: Perfectly camouflaged! Tanah Merah, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+    caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo 
+      shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg"
-      caption: The Stonefish is from a different family.
-    - url: "http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg"
-      caption: The False scorpionfish is from a dffierent family.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg"
-      caption: The Long-spined waspfish is now in a different family
+  - url: 
+      http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg
+    caption: The Stonefish is from a different family.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+    caption: The False scorpionfish is from a dffierent family.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+    caption: The Long-spined waspfish is now in a different family
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg"
-      caption: Painted scorpionfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg"
-      caption: False stonefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg"
-      caption: Lionfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
+    caption: Painted scorpionfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
+    caption: False stonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
+    caption: Lionfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -57,7 +76,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the order, including a fact sheets on individual species.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -74,6 +93,23 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

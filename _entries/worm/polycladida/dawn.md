@@ -1,9 +1,11 @@
 ---
 title: Dawn flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, black, flat, worm, flatworm, pseudobiceros, hancockanus, uniarborensis,
-  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: orange, black, flat, worm, flatworm, pseudobiceros, hancockanus, 
+  uniarborensis, polyclad, turbellaria, platyhelminthes,  field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
@@ -17,74 +19,106 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg"
-      caption: "St. John's Island, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3a.jpg"
-      caption: "Marginal band: orange, grey, white. Pseudotentacles all black with white tips. Grey or white stripe on the head."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/050528kusg7077m3a.jpg"
-      caption: Underside uniformly grey semi-translucent.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3.jpg
+    caption: St. John's Island, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/060131sjig4519m3a.jpg
+    caption: 'Marginal band: orange, grey, white. Pseudotentacles all black with white
+      tips. Grey or white stripe on the head.'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/050528kusg7077m3a.jpg
+    caption: Underside uniformly grey semi-translucent.
   gallery2:
-    - url: "https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/080920hntd0722m3.jpg"
-      caption: "Pulau Hantu, Sep 08"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/090806tmd8299m3.jpg"
-      caption: "Tanah Merah, Aug 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/080920hntd0722m3.jpg
+    caption: Pulau Hantu, Sep 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/090806tmd8299m3.jpg
+    caption: Tanah Merah, Aug 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/2007024pcnlks19.jpg"
-      caption: "East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/2007024pcnlks19.jpg
+    caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100102sntlks1m3.jpg"
-      caption: "Sentosa, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140519sntsrplks1m3.JPG"
-      caption: "Sentosa Serapong, May 15 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/240528tsllks6.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100102sntlks1m3.jpg
+    caption: Sentosa, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140519sntsrplks1m3.JPG
+    caption: Sentosa Serapong, May 15 Photo shared by Loh Kok Sheng on his blog 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/240528tsllks6.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/200310lazvc4.jpg"
-      caption: "Lazarus, Mar 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/201019sjilks1.jpg"
-      caption: "St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100528tkknml1m3.jpg"
-      caption: "Pulau Tekukor, May 10 Photo shared by Neo Mei Lin on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/200310lazvc4.jpg
+    caption: Lazarus, Mar 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/201019sjilks1.jpg
+    caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100528tkknml1m3.jpg
+    caption: Pulau Tekukor, May 10 Photo shared by Neo Mei Lin on her blog .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/210402tmskmn3.jpg"
-      caption: "Terumbu Semakau, Apr 21 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140811tryjll1m3.jpg"
-      caption: "Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/200625tbdc6.jpg"
-      caption: "Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/210402tmskmn3.jpg
+    caption: Terumbu Semakau, Apr 21 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140811tryjll1m3.jpg
+    caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/200625tbdc6.jpg
+    caption: Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140909tptlks4m3.jpg"
-      caption: "Terumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/240310tplky3.jpg"
-      caption: "Terumbu Pempang Laut, Mar 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/140909tptlks4m3.jpg
+    caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/240310tplky3.jpg
+    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Kelvin Yong on 
+      facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/220105rlhvc4.jpg"
-      caption: "Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/220102biovc1.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/220105rlhvc4.jpg
+    caption: Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/220102biovc1.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/091205pawlks15m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/091205sudd5583m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/091205pawlks15m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/091205sudd5583m3.jpg
+    caption: Pulau Sudong, Dec 09
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/210428slutch1.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100810sngd0008m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100130brklks10m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/210428slutch1.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100810sngd0008m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/dawn/100130brklks10m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
+      .
 links_references: |
   **Links**
   - [*Pseudoceros uniarborensis*](http://polycladida.lifedesks.org/pages/3215)
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-  
+
   **References**
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
@@ -104,6 +138,23 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

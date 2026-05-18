@@ -1,9 +1,10 @@
 ---
 title: Banded bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -24,41 +25,59 @@ updated: Jul 2024
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These tiny animals are everywhere on the shore. Don't step on them! Look for them among cracks in large boulders as well. They tuck their tentacles into their bodies at low tide.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These tiny animals are everywhere on the shore. Don't step on them! Look for them among cracks in large boulders as well. They tuck their tentacles into their bodies at low tide.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These tiny animals are 
+      everywhere on the shore. Don't step on them! Look for them among cracks in
+      large boulders as well. They tuck their tentacles into their bodies at low
+      tide.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These tiny animals are everywhere on the shore. Don't step on them!
+      Look for them among cracks in large boulders as well. They tuck their 
+      tentacles into their bodies at low tide.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg"
-      caption: "Chek Jawa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg"
-      caption: "Chek Jawa, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg"
-      caption: "Chek Jawa, Mar 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
+    caption: Chek Jawa, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg
+    caption: Chek Jawa, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg
+    caption: Chek Jawa, Mar 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg"
-      caption: "Anthopleura dixoniana Punggol, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg
+    caption: Anthopleura dixoniana Punggol, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg"
-      caption: "Anthopleura buddemeieri St. John's Island, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg"
-      caption: Anthopleura dixoniana St. John's Island
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg"
-      caption: "Changi, Oct 09 Often found in crevices on large rocks."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
+    caption: Anthopleura buddemeieri St. John's Island, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
+    caption: Anthopleura dixoniana St. John's Island
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
+    caption: Changi, Oct 09 Often found in crevices on large rocks.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091217sbglks.JPG"
-      caption: "Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/160125obsll2.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
+    caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/160125obsll2.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/251208meky8.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg"
-      caption: "Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/251208meky8.jpg
+    caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
+    caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
 links_references: |
   **Links**
   - [Banded bead anemone (
@@ -67,7 +86,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009.
@@ -79,6 +98,26 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

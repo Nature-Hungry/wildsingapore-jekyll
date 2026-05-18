@@ -1,8 +1,10 @@
 ---
 title: 'Pebble crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 attributes:
 - 38
@@ -26,41 +28,60 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Leucosioidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg"
-      caption: "Changi, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/020127cjcpd5405m3.jpg"
-      caption: "Seulocia vittata Chek Jawa, Jan 02"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/050726chgg0311m3.jpg"
-      caption: "Leucosia anatum Mating pebble crabs Changi, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
+    caption: Changi, Apr 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/020127cjcpd5405m3.jpg
+    caption: Seulocia vittata Chek Jawa, Jan 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/050726chgg0311m3.jpg
+    caption: Leucosia anatum Mating pebble crabs Changi, Jul 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7240m3.jpg"
-      caption: "Leucosia anatum Changi, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3045m3.jpg"
-      caption: "Leucosia anatum Changi, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6687m3.jpg"
-      caption: "Leucosia anatum Changi, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7240m3.jpg
+    caption: Leucosia anatum Changi, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3045m3.jpg
+    caption: Leucosia anatum Changi, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6687m3.jpg
+    caption: Leucosia anatum Changi, Jul 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/130624chglks.JPG"
-      caption: "Changi, Jun 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/191214cjal6.jpg"
-      caption: "Chek Jawa, Dec 19 Photo shared by Adrianne Lee on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/130624chglks.JPG
+    caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/191214cjal6.jpg
+    caption: Chek Jawa, Dec 19 Photo shared by Adrianne Lee on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/150618tmfthpy1m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/210529ecpblks5.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/251011tgrlks2.jpg"
-      caption: "Semtosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/150618tmfthpy1m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/210529ecpblks5.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/251011tgrlks2.jpg
+    caption: Semtosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/170429kustch2.jpg"
-      caption: "Kusu Island, Apr 17 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/090529sjilks.jpg"
-      caption: "St John's Island, May 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg"
-      caption: "Leucosia craniolaris Pulau Semakau, Mar 08 Photo shared by Loh Kok Sheng on his blog"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/170429kustch2.jpg
+    caption: Kusu Island, Apr 17 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/090529sjilks.jpg
+    caption: St John's Island, May 09 Photo shared by Loh Kok Sheng on his blog 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg
+    caption: Leucosia craniolaris Pulau Semakau, Mar 08 Photo shared by Loh Kok 
+      Sheng on his blog
 links_references: |
   **Links**
   - [Pebble crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061.md)
@@ -69,7 +90,7 @@ links_references: |
   . Singapore Science Centre. 168 pp.
   - [Family Leucosiidae](http://species-identification.org/species.php?species_group=crabs_of_japan&id=94&menuentry=groepen)
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - P. K. L. Ng & H. Komatsu. 29 June 2016.
   *Nursia tohae, a new species of coral rubble mimic crab (Crustacea: Brachyura: Leucosiidae) from the Philippines and Singapore*
@@ -86,6 +107,15 @@ links_references: |
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
+location:
+- chg
+- cj
+- tm
+- ecp
+- snt
+- kus
+- sji
+- smk
 ---
 
 **Where seen?**

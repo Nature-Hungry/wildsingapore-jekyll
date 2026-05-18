@@ -1,9 +1,10 @@
 ---
 title: Asparagus flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: asparagus, flower, nephthea, nephtheidae, alcyonacea, soft, coral, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: asparagus, flower, nephthea, nephtheidae, alcyonacea, soft, coral, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Nephtheidae
 genus: Nephthea
@@ -17,48 +18,68 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg"
-      caption: "Brown when tentacles are expanded, purple when tentacles are retracted. Pulau Hantu, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg"
-      caption: "Sometimes mistaken for a Fire anemone . Kusu Island, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/190522tsmkm3.jpg"
-      caption: "Pastel colours suggest a stressed colony. Terumbu Semakau, May 19"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+    caption: Brown when tentacles are expanded, purple when tentacles are 
+      retracted. Pulau Hantu, Apr 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
+    caption: Sometimes mistaken for a Fire anemone . Kusu Island, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/190522tsmkm3.jpg
+    caption: Pastel colours suggest a stressed colony. Terumbu Semakau, May 19
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070304hntg7943m3d.jpg"
-      caption: "Expanded tentacles and contracted tentacles. Pulau Hantu,Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110802smkd8178m3a.jpg"
-      caption: "Eight brown branched tentacles. Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/060130hntg4317m3e.jpg"
-      caption: "Tentacles retracted, body column forms lumps. No spikes among the polyps. Pulau Hantu, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070304hntg7943m3d.jpg
+    caption: Expanded tentacles and contracted tentacles. Pulau Hantu,Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110802smkd8178m3a.jpg
+    caption: Eight brown branched tentacles. Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/060130hntg4317m3e.jpg
+    caption: Tentacles retracted, body column forms lumps. No spikes among the 
+      polyps. Pulau Hantu, Jan 06
   gallery3:
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/250515tpt1a.jpg"
-      caption: "Terumbu Pempang Tengah, May 25 With tiny orange brittle stars ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070322cyrd9116m3.jpg"
-      caption: "Cyrene Reef, Mar 07 With tiny orange brittle stars ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070812sisg1977m3.jpg"
-      caption: "Sisters Island, Aug 07 Tiny transparent shrimp ."
+  - url: 
+      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/250515tpt1a.jpg
+    caption: Terumbu Pempang Tengah, May 25 With tiny orange brittle stars .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070322cyrd9116m3.jpg
+    caption: Cyrene Reef, Mar 07 With tiny orange brittle stars .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070812sisg1977m3.jpg
+    caption: Sisters Island, Aug 07 Tiny transparent shrimp .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110220lazrl3m3.jpg"
-      caption: "Lazarus Island, Feb 11 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100530tbkd4214m3.jpg"
-      caption: "Pulau Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110220lazrl3m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100530tbkd4214m3.jpg
+    caption: Pulau Berkas, May 10
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100131slud8797m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100130brkd8478m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100811slud0064m3.jpg"
-      caption: "Terumbu Salu, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100131slud8797m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100130brkd8478m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100811slud0064m3.jpg
+    caption: Terumbu Salu, Aug 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205sudlks9m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205pawlks7m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100601slud4723m3.jpg"
-      caption: "Bleaching. Terumbu Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205sudlks9m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205pawlks7m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100601slud4723m3.jpg
+    caption: Bleaching. Terumbu Salu, Jun 10
 links_references: |
   **Links**
   - [*Nephthea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Nephthea)
@@ -67,11 +88,24 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+location:
+- snt
+- tkr
+- kus
+- laz
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

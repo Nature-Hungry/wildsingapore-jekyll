@@ -1,9 +1,10 @@
 ---
 title: Blue coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Helioporidae
 genus: Heliopora
@@ -17,47 +18,87 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They produce a hard skeleton but considered soft corals because of their polyps. Their skeleton is blue on the inside. But don't break the skeleton to see this! They are considered living fossils.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They produce a hard skeleton but considered soft corals because of their polyps. Their skeleton is blue on the inside. But don't break the skeleton to see this! They are considered living fossils.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They produce a hard 
+      skeleton but considered soft corals because of their polyps. Their 
+      skeleton is blue on the inside. But don't break the skeleton to see this! 
+      They are considered living fossils.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They produce a hard skeleton but considered soft corals because of 
+      their polyps. Their skeleton is blue on the inside. But don't break the 
+      skeleton to see this! They are considered living fossils.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg"
-      caption: "Pulau Jong, Jul 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160724tpto7240260m6l.jpg"
-      caption: "During mass coral bleaching, a small bleaching coral is seen in the middle of large Blue coral colonies that appear normal. Terumbu Pempang Tengah, Jul 16"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
+    caption: Pulau Jong, Jul 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160724tpto7240260m6l.jpg
+    caption: During mass coral bleaching, a small bleaching coral is seen in the
+      middle of large Blue coral colonies that appear normal. Terumbu Pempang 
+      Tengah, Jul 16
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/050309smkg3125m3.jpg"
-      caption: "With polyps extended. Pulau Semakau, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/110522bbbd2750m3b.jpg"
-      caption: "Polyps with branched tentacles more typical of soft than hard corals. Beting Bemban Besar, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/060402ulrd1109m3a.jpg"
-      caption: "A look inside a broken blue coral showing the blue internal skeleton and tiny channels when the polyps are. Pulau Hantu, Apr 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/050309smkg3125m3.jpg
+    caption: With polyps extended. Pulau Semakau, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/110522bbbd2750m3b.jpg
+    caption: Polyps with branched tentacles more typical of soft than hard 
+      corals. Beting Bemban Besar, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/060402ulrd1109m3a.jpg
+    caption: A look inside a broken blue coral showing the blue internal 
+      skeleton and tiny channels when the polyps are. Pulau Hantu, Apr 06
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/210501tbtch2.jpg"
-      caption: "Doridomorpha gardineri Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/210501tbtch2.jpg
+    caption: Doridomorpha gardineri Terumbu Bemban, May 21 Photo shared by Toh 
+      Chay Hoon on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091231biod6966m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100131slud8834m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100130brkd8520m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091231biod6966m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100131slud8834m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100130brkd8520m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100613sngd5497m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100811slud0056m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091204pawd5240m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100613sngd5497m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100811slud0056m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091204pawd5240m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100530tbkd4238m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160313trymn1.jpg"
-      caption: "Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100530tbkd4238m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160313trymn1.jpg
+    caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
+location:
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

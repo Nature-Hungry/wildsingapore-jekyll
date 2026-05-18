@@ -1,9 +1,10 @@
 ---
 title: Wandering cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc,
-  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, 
+  mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -27,40 +28,62 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Cowries are often well camouflaged. Look carefully for them. Their shells are highly prized, thus cowries are threatened by over-collection. Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her eggs."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Cowries are often well camouflaged. Look carefully for them. Their shells are highly prized, thus cowries are threatened by over-collection. Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her eggs."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Cowries are often well 
+      camouflaged. Look carefully for them. Their shells are highly prized, thus
+      cowries are threatened by over-collection. Don't rip off a cowrie from a 
+      stone! It might be a mother cowrie protecting her eggs.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Cowries are often well camouflaged. Look carefully for them. Their 
+      shells are highly prized, thus cowries are threatened by over-collection. 
+      Don't rip off a cowrie from a stone! It might be a mother cowrie 
+      protecting her eggs.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
-      caption: "Sisters Island, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg"
-      caption: "Shell cylindrical with one or two spots. Sisters Island, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
-      caption: "Teeth' not coloured. Sisters Island, Jan 11 '"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+    caption: Sisters Island, Jan 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
+    caption: Shell cylindrical with one or two spots. Sisters Island, Jan 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
+    caption: Teeth' not coloured. Sisters Island, Jan 11 '
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg"
-      caption: "Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
+    caption: Mama cowrie under a rock, protecting her egg mass with her foot. 
+      Sentosa, Apr 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg"
-      caption: "Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg"
-      caption: "East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg"
-      caption: "St John's Island, Feb 24 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
+    caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
+    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
+    caption: St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg"
-      caption: "Pulau Tekukor, Mar 24 Photo shared by Chee Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg"
-      caption: "Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
+    caption: Pulau Tekukor, Mar 24 Photo shared by Chee Cheng Neo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on 
+      facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg"
-      caption: "Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg"
-      caption: "Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
+    caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
+    caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on 
+      facebook .
 links_references: |
   **Links**
   - [Wandering Cowrie (
@@ -73,7 +96,7 @@ links_references: |
   on SeaLife Base: Techincal fact sheet.
   - [*Erronea errones*](https://singapore.biodiversity.online/taxo4254/mainSpace/Erronea%20errones.html)
   (Littorinimorpha: Cypraeidae) Wandering cowrie by Tan Zong Rui, 2015, on taxo4254.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -87,6 +110,20 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- chg
+- ubn
+- cj
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- tpg
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

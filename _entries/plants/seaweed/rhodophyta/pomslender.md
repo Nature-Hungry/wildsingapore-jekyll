@@ -1,9 +1,10 @@
 ---
 title: 'Slender   crunchy pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, 
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Corallinaceae
@@ -25,29 +26,36 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg"
-      caption: "Loose bunches growing among seagrasses. Changi, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg"
-      caption: "Growing on an abandoned rope. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg"
-      caption: "Loose tangles growing among seagrasses. Cyrene Reef, Apr 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg
+    caption: Loose bunches growing among seagrasses. Changi, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
+    caption: Growing on an abandoned rope. Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
+    caption: Loose tangles growing among seagrasses. Cyrene Reef, Apr 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg"
-      caption: "Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg"
-      caption: "Labrador, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg"
-      caption: "Sentosa, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg
+    caption: Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg
+    caption: Labrador, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg
+    caption: Sentosa, Jul 05
 links_references: |
   **Links**
   - [*Jania*](http://www.algaebase.org/search/genus/detail/?genus_id=S9179393d6e18098f&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -64,6 +72,19 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- chg
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- cyr
+- smk
 ---
 
 **Where seen?**

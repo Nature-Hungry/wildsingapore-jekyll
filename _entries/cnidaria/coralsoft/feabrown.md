@@ -1,9 +1,10 @@
 ---
 title: Brown feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Xeniidae
 genus: ''
@@ -17,23 +18,39 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg"
-      caption: "Beting Bemban Besar, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg"
-      caption: "Sentosa, Mar 05 Oral disk and main tentacle pale, side branches brown."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/090724cyrd7930m3.jpg"
-      caption: "Cyrene Reef, Jul 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
+    caption: Beting Bemban Besar, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
+    caption: Sentosa, Mar 05 Oral disk and main tentacle pale, side branches 
+      brown.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/090724cyrd7930m3.jpg
+    caption: Cyrene Reef, Jul 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/100519tsmc3987m3.jpg"
-      caption: "Terumbu Semakau, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/040522kusad0088m3.jpg"
-      caption: "Kusu Island, May 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/100519tsmc3987m3.jpg
+    caption: Terumbu Semakau, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/040522kusad0088m3.jpg
+    caption: Kusu Island, May 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/160312tptmn4.jpg"
-      caption: "Terumbu Pempang Tengah, May 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/160312tptmn4.jpg
+    caption: Terumbu Pempang Tengah, May 16 Photo shared by Marcus Ng on 
+      facebook .
+location:
+- snt
+- kus
+- cyr
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

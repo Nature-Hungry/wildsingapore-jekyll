@@ -1,6 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,
+keywords: sucker, sponge, cliona, utricularis, porifera, field, guide, seashore,
+  sea,
 layout: entry
 shape: encrusting
 title: Sucker sponge
@@ -16,24 +17,30 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg"
-      caption: "Pulau Semakau (North), Apr 16"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg"
-      caption: "Pulau Semakau (East), Jun 25 Photo shared by Adriane Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG"
-      caption: "Pulau Semakau , Jun 11 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
+    caption: Pulau Semakau (North), Apr 16
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg
+    caption: Pulau Semakau (East), Jun 25 Photo shared by Adriane Lee on 
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG
+    caption: Pulau Semakau , Jun 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [*Cliona utricularis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=181115)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- smk
 ---
 
 **Where seen?**

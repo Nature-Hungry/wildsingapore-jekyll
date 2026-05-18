@@ -1,9 +1,10 @@
 ---
 title: Y-branch brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, 
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
@@ -21,13 +22,14 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
 links_references: |
   **Links**
   - [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)
     on [AlgaeBase](http://www.algaebase.org/): Technical
     fact sheet.
-  
+
   **References**
   - Pham, M.
     N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
@@ -38,25 +40,60 @@ links_references: |
     H. P. & Menez, E. G., 1997.*[Field
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg"
-      caption: "Labrador, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg"
-      caption: "Pulau Sekudu, Aug 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg"
-      caption: "Changi, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+    caption: Labrador, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
+    caption: Pulau Sekudu, Aug 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
+    caption: Changi, Apr 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg"
-      caption: "Berlayar Creek, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg"
-      caption: "Tuas, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg"
-      caption: "Sentosa, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
+    caption: Berlayar Creek, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
+    caption: Tuas, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
+    caption: Sentosa, Jun 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on 
+      facebook.
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Dictyota on AlgaeBase : Technical fact sheet. References Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. A Checklist of the Algae of Singapore (pdf). Raffles Museum of Biodiversity Research, National University of Singapore, Singapore. 100 pp. Uploaded 1 August 2011. Calumpong, H. P. & Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman, John M. 2000. Marine Plants of Australia University of Western Australia Press. 300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources of the Philippines. . Bookmark, Inc., the Philippines. 306 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Dictyota on AlgaeBase : Technical fact sheet. References Pham,
+      M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. A Checklist of the Algae
+      of Singapore (pdf). Raffles Museum of Biodiversity Research, National University
+      of Singapore, Singapore. 100 pp. Uploaded 1 August 2011. Calumpong, H. P. &
+      Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses and Algae
+      of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman, John
+      M. 2000. Marine Plants of Australia University of Western Australia Press. 300pp.
+      Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources
+      of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.'
+location:
+- prp
+- chg
+- ubn
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Knobbly agar-agar seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: knobbly, agar, gracilaria, salicornia, red, seaweed, weed, algae, gracilariaceae,
-  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: knobbly, agar, gracilaria, salicornia, red, seaweed, weed, algae, 
+  gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Gracilariaceae
@@ -22,25 +23,33 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3.jpg"
-      caption: "Chek Jawa, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3a.jpg"
-      caption: "Chek Jawa, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060712tusd4057m3.jpg"
-      caption: "Tuas, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3.jpg
+    caption: Chek Jawa, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3a.jpg
+    caption: Chek Jawa, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060712tusd4057m3.jpg
+    caption: Tuas, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3.jpg"
-      caption: "Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3.jpg"
-      caption: "Tanah Merah, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060515labd1919m3.jpg"
-      caption: "Labrador, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3.jpg
+    caption: Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3.jpg
+    caption: Tanah Merah, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060515labd1919m3.jpg
+    caption: Labrador, Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg
+    caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
   - *[Gracilaria salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia.md)*
@@ -51,7 +60,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -74,6 +83,27 @@ links_references: |
   - Burkill, I. H., 1993.
   *A Dictionary of the Economic Products of the Malay Peninsula*
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+location:
+- prp
+- cj
+- skd
+- bb
+- tus
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

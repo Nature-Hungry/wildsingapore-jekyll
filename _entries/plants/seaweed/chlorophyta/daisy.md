@@ -1,9 +1,10 @@
 ---
 title: Daisy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seaweed, weed, green, parvocaulis, parvulus, acetabularia, 
+  polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Polyphysaceae
@@ -19,29 +20,36 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg"
-      caption: "Growing among 'Taugeh' seaweed St. John's Island, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg
+    caption: Growing among 'Taugeh' seaweed St. John's Island, Sep 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg"
-      caption: "Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg
+    caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
+    caption: Terumbu Berkas, Jan 10
 links_references: |
   **Links**
   - [*Parvocaulis parvulus*](http://www.algaebase.org/search/species/detail/?species_id=61830)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -58,6 +66,15 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- lfa
 ---
 
 **Where seen?**

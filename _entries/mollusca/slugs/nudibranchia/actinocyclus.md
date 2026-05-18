@@ -1,9 +1,10 @@
 ---
 title: Fugly nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, 
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,35 +29,48 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Chromodoridoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg"
-      caption: "Sentosa, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3b.jpg"
-      caption: Stumpy rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3a.jpg"
-      caption: Stumpy gills that look like a bubble.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
+    caption: Sentosa, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3b.jpg
+    caption: Stumpy rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3a.jpg
+    caption: Stumpy gills that look like a bubble.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/070201tusg7373m6l.jpg"
-      caption: "Tuas, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150616chgfpd5578m3.jpg"
-      caption: "Underside. Changi, Jun 16"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/070201tusg7373m6l.jpg
+    caption: Tuas, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150616chgfpd5578m3.jpg
+    caption: Underside. Changi, Jun 16
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/090824tusjk4m6l.jpg"
-      caption: "Tuas, Aug 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140713bblks3m3.jpg"
-      caption: "Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/090824tusjk4m6l.jpg
+    caption: Tuas, Aug 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140713bblks3m3.jpg
+    caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140104cjlks1m3.jpg"
-      caption: "Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150617ecpbslks9m3.jpg"
-      caption: "East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/130512bsismn1.jpg"
-      caption: "Big Sisters Island, May 13 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140104cjlks1m3.jpg
+    caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150617ecpbslks9m3.jpg
+    caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/130512bsismn1.jpg
+    caption: Big Sisters Island, May 13 Photo shared by Marcus Ng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg"
-      caption: "Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg
+    caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -71,7 +85,7 @@ links_references: |
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
   [*Actinocyclus verrucosus*](http://slugsite.us/bow/nudwk336.md)
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -82,6 +96,15 @@ links_references: |
   - Coleman, Neville. 2001.
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
   . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- chg
+- cj
+- bb
+- tus
+- ecp
+- snt
+- sis
+- hnt
 ---
 
 **Where seen?**

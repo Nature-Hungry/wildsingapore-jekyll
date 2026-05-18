@@ -1,9 +1,10 @@
 ---
 title: Toothed hexagonal  corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -17,29 +18,57 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg"
-      caption: "Pulau Semakau, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
+    caption: Pulau Semakau, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/111127sisd3835m3.jpg"
-      caption: "Sisters Island, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/050720sntg9580m3.jpg"
-      caption: "Sentosa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/080802sjid8760m3.jpg"
-      caption: "St. John's Island, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/111127sisd3835m3.jpg
+    caption: Sisters Island, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/050720sntg9580m3.jpg
+    caption: Sentosa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/080802sjid8760m3.jpg
+    caption: St. John's Island, Aug 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091204pawd5314m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091205sudd5515m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/100130brkd8640m3b.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091204pawd5314m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091205sudd5515m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/100130brkd8640m3b.jpg
+    caption: Terumbu Berkas, Jan 10
+location:
+- bb
+- tus
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

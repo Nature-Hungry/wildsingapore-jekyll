@@ -1,9 +1,10 @@
 ---
 title: Blue-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti,
-  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, 
+  boddarti, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,21 +27,29 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
-      caption: "Adult females have elongated spines on the first dorsal fin. Pulau Ubin, Apr 13"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg"
-      caption: "Chek Jawa, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+    caption: Adult females have elongated spines on the first dorsal fin. Pulau 
+      Ubin, Apr 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
+    caption: Chek Jawa, Jan 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg"
-      caption: "Seletar, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
+    caption: Seletar, Aug 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Dec 06 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg"
-      caption: "Pasir Ris, Dec 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
+    caption: Sungei Buloh Wetland Reserve, Dec 06 Photo shared by Marcus Ng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
+    caption: Pasir Ris, Dec 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Blue-spotted mudskipper (
@@ -71,11 +80,16 @@ links_references: |
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
-  
+
   **References**
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- sbw
+- prp
+- ubn
+- cj
 ---
 
 **Where seen?**

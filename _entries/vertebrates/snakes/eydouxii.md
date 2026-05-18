@@ -1,8 +1,10 @@
 ---
 title: Marbled sea snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Elapidae
 genus: Aipysurus
@@ -19,30 +21,41 @@ suborder: Serpentes
 subfamily: Hydrophiinae
 tribe: Hydrophiini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg"
-      caption: "Chek Jawa, Aug 02"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3a.jpg"
-      caption: "Chek Jawa, Aug 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
+    caption: Chek Jawa, Aug 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3a.jpg
+    caption: Chek Jawa, Aug 02
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00711m3.jpg"
-      caption: Writhing and turning upside down.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/250528ch7ky1.jpg"
-      caption: "A piece of one on the intertidal. Changi Carpark 7, May 2025 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00711m3.jpg
+    caption: Writhing and turning upside down.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/250528ch7ky1.jpg
+    caption: A piece of one on the intertidal. Changi Carpark 7, May 2025 Photo 
+      shared by Kelvin Yong on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/100614bbtch9m6l.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/150802bblks2m3.jpg"
-      caption: "Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/100614bbtch9m6l.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/150802bblks2m3.jpg
+    caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/140616bbmn1m3.jpg"
-      caption: "Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/130526chglks.JPG"
-      caption: "Changi, May 13 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/140616bbmn1m3.jpg
+    caption: Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/130526chglks.JPG
+    caption: Changi, May 13 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake.md)
@@ -53,7 +66,7 @@ links_references: |
   on the IUCN Red List.
   - [Injured Marbled sea snake at Chek Jawa](http://wildshores.blogspot.sg/2015/08/injured-marbled-sea-snake-at-chek-jawa.html)
   on wild shores of singapore blog.
-  
+
   **References**
   - Noel Thomas & Francis L. K. Lim. 7 February 2014.
   [Beaded sea-snake (
@@ -71,6 +84,10 @@ links_references: |
   - Stuebing, Robert B and Robert F. Inger. 1999.
   *A Field Guide to the Snakes of Borneo*
   Natural History Publications (Borneo). 254 pp.
+location:
+- chg
+- cj
+- bb
 ---
 
 **Where seen?**

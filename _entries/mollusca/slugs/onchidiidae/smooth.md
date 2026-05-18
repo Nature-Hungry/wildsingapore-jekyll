@@ -1,9 +1,10 @@
 ---
 title: 'Smooth little onch slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info
 layout: entry
 family: Onchidiidae
 genus: ''
@@ -21,25 +22,41 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg"
-      caption: "Pulau Sarimbun, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg"
-      caption: Eyes on long thin stalks
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg"
-      caption: Broad foot on the underside
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+    caption: Pulau Sarimbun, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
+    caption: Eyes on long thin stalks
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
+    caption: Broad foot on the underside
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg"
-      caption: "Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg
+    caption: Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg"
-      caption: "Pulau Ubin, Mar 08 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg
+    caption: Pulau Ubin, Mar 08 Photo shared by Marcus Ng on flickr .
+location:
+- chg
+- ubn
+- cj
+- lab
+- snt
+- sji
+- sis
 ---
 
 **Where seen?**

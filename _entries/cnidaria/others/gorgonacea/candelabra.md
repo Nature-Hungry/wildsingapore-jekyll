@@ -1,9 +1,10 @@
 ---
 title: Candelabra sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: ''
@@ -17,22 +18,29 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
-      caption: "Beting Bronok, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg"
-      caption: "Tuas, Dec 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+    caption: Beting Bronok, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
+    caption: Tuas, Dec 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg"
-      caption: "Squid egg capsules attached to the sea fan. Changi, Jul 17"
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg"
-      caption: "Winged oyster on the sea fan. Beting Bronok, Aug 15"
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg"
-      caption: "Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
+    caption: Squid egg capsules attached to the sea fan. Changi, Jul 17
+  - url: 
+      http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
+    caption: Winged oyster on the sea fan. Beting Bronok, Aug 15
+  - url: 
+      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
+    caption: Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15
 links_references: |
   **Links**
   - [*Euplexaura*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euplexaura)
@@ -41,7 +49,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
@@ -49,6 +57,15 @@ links_references: |
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
   *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
   . Raffles Museum Bulletin of Zoology Pp. 435-459.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- snt
 ---
 
 **Where seen?**

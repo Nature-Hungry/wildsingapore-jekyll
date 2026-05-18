@@ -1,9 +1,10 @@
 ---
 title: 'Galaxy corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: galaxy, galaxea, oculinidae, coral, hard, scleractinia, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: galaxy, galaxea, oculinidae, coral, hard, scleractinia, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Galaxea
@@ -17,62 +18,93 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg"
-      caption: "Some species may form fields of small colonies. Pulau Hantu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/050528kusg7062m3a.jpg"
-      caption: "Corallite with distinctive star- or crown-shaped pattern at the top. Kusu Island, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
+    caption: Some species may form fields of small colonies. Pulau Hantu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/050528kusg7062m3a.jpg
+    caption: Corallite with distinctive star- or crown-shaped pattern at the 
+      top. Kusu Island, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/250530kus1.jpg"
-      caption: "Made of up long corallites, joined near the top. Kusu Island, May 25"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/090625bsrd5328m3a.jpg"
-      caption: "Joined near the top with a smooth common skeleton. Beting Bemban Besar, Jun 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/250530kus1.jpg
+    caption: Made of up long corallites, joined near the top. Kusu Island, May 
+      25
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/090625bsrd5328m3a.jpg
+    caption: Joined near the top with a smooth common skeleton. Beting Bemban 
+      Besar, Jun 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg"
-      caption: "Long sweeper tentacles Pulau Semakau, Sep 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/040410sisbd0062m3a.jpg"
-      caption: "Polyps tentacles short slender with white tips. Sisters Island, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8977m3a.jpg"
-      caption: "Mouth in the middle of the tentacles. Pulau Hantu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
+    caption: Long sweeper tentacles Pulau Semakau, Sep 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/040410sisbd0062m3a.jpg
+    caption: Polyps tentacles short slender with white tips. Sisters Island, Apr
+      04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8977m3a.jpg
+    caption: Mouth in the middle of the tentacles. Pulau Hantu, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100615tmlks3m3.jpg"
-      caption: "Tanah Merah, Jun 10 . Photo shared by Loh Kok Sheng on his flickr"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/220618tmftlks12.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100615tmlks3m3.jpg
+    caption: Tanah Merah, Jun 10 . Photo shared by Loh Kok Sheng on his flickr
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/220618tmftlks12.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/2007024pcnlks10a.jpg"
-      caption: "East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/210628ecpBlks6a.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/2007024pcnlks10a.jpg
+    caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/210628ecpBlks6a.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/210430sjilks4.jpg"
-      caption: "St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/210430sjilks4.jpg
+    caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/090512tmlks16m3.JPG"
-      caption: "Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/090512tmlks16m3.JPG
+    caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3c.jpg
+    caption: ''
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0246m3.jpg"
-      caption: "Pulau Hantu, Aug 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0246m3.jpg
+    caption: Pulau Hantu, Aug 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3a.jpg
+    caption: ''
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100613sngd5557m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100530tbkd4279m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/150618tmftlks11m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100613sngd5557m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100530tbkd4279m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/150618tmftlks11m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -83,7 +115,7 @@ links_references: |
   on SeaLife Base: Technical fact sheets.
   - [*Galaxea*](http://species-identification.org/species.php?species_group=corals&id=106&menuentry=groepen)
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -106,6 +138,23 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- bb
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

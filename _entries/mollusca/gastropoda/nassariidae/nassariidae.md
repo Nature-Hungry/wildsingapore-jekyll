@@ -1,9 +1,10 @@
 ---
 title: Whelks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Nassariidae
 genus: ''
@@ -18,44 +19,65 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... These tiny snails are scavengers. When you see a dead thing, look for them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "These tiny snails are scavengers. When you see a dead thing, look for them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These tiny snails are 
+      scavengers. When you see a dead thing, look for them! The siphon of a 
+      whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a 
+      ride on the shell of a living whelk.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These tiny snails are scavengers. When you see a dead thing, look 
+      for them! The siphon of a whelk can be as long as its body. Sometimes, a 
+      tiny sea anemone hitches a ride on the shell of a living whelk.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
-      caption: "With a large barnacle on the shell. Changi, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg"
-      caption: "Burrowing just beneath the sand with siphon sticking out. Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg"
-      caption: "With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+    caption: With a large barnacle on the shell. Changi, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
+    caption: Burrowing just beneath the sand with siphon sticking out. Changi, 
+      Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
+    caption: With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
   gallery3:
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg"
-      caption: "Whelks cleaning out a recently dead snail while a hermit crab waits patiently. Tanah Merah, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg"
-      caption: "Whelk Joy! Dead fish! Chek Jawa, Sep 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg"
-      caption: "A small fish all to itself. Sisters Island, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+    caption: Whelks cleaning out a recently dead snail while a hermit crab waits
+      patiently. Tanah Merah, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
+    caption: Whelk Joy! Dead fish! Chek Jawa, Sep 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
+    caption: A small fish all to itself. Sisters Island, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg"
-      caption: Mud whelk
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
-      caption: Common whelk
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg"
-      caption: Black whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
+    caption: Mud whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+    caption: Common whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
+    caption: Black whelk
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg"
-      caption: Olive whelk
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg"
-      caption: Lined whelk
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg"
-      caption: Prickly whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
+    caption: Olive whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
+    caption: Lined whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
+    caption: Prickly whelk
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg"
-      caption: Speckled whelk
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
+    caption: Speckled whelk
 links_references: |
   **Links**
   - [Mud whelk (
@@ -73,7 +95,7 @@ links_references: |
   - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Ng Hiong Eng & Chan Sow Yan. 28 Apr 2017.
   *Record of three marine snails from the Singapore Strait: Nassarius acuticostus*
@@ -99,6 +121,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- tm
+- lab
+- snt
+- kus
+- sji
+- sis
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

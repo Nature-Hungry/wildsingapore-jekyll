@@ -1,9 +1,10 @@
 ---
 title: Crinoid crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolineata,
-  pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, 
+  albolineata, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -27,15 +28,19 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
-      caption: "Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+    caption: Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
+    caption: ''
 links_references: |
   **Links**
   - *[Ceratocarcinus longimanus](http://www.sealifebase.org/country/CountrySpeciesSummary.php?c_code=702&Genus=Ceratocarcinus&Species=longimanus)*
@@ -50,7 +55,7 @@ links_references: |
   on Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
   - [Feather star crab](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=392)
   on NParks Flora and Fauna: fact sheet with photos.
-  
+
   **References**
   - Tan, H. H., 2012.
   *A recent Singapore record of the crinoid crab, Harrovia longipes Lanchester (Crustacea: Brachyura: Pilumnidae)*
@@ -64,6 +69,8 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- sis
 ---
 
 **Where seen?**

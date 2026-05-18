@@ -1,9 +1,10 @@
 ---
 title: True cockles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Cardiidae
 genus: ''
@@ -21,20 +22,26 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg"
-      caption: Heart cockle
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg"
-      caption: Large cockle
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg"
-      caption: Strawberry cockle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+    caption: Heart cockle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
+    caption: Large cockle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
+    caption: Strawberry cockle
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/tridacnidae/squamosa/040123sisd0129m3.jpg"
-      caption: Fluted giant clam
-    - url: "http://www.wildsingapore.com/wildfacts/tridacnidae/crocea/050312hntg3342m3.jpg"
-      caption: Burrowing giant clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/tridacnidae/squamosa/040123sisd0129m3.jpg
+    caption: Fluted giant clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/tridacnidae/crocea/050312hntg3342m3.jpg
+    caption: Burrowing giant clam
 links_references: |
   **Links**
   - [Family Cardiidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Cardiidae.html)
@@ -44,7 +51,7 @@ links_references: |
   - Family Cardiidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -61,6 +68,14 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- snt
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

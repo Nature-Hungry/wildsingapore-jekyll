@@ -1,9 +1,10 @@
 ---
 title: Puff-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, 
+  colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Homalopsidae
 genus: Homalopsis
@@ -18,11 +19,13 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Aug 06
 links_references: |
   **Links**
   - [Puff-faced Water Snakes](http://singaporesnakes.blogspot.com/search/label/Puff-faced%20Water%20Snake)
@@ -35,7 +38,7 @@ links_references: |
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Homalopsis buccata*](http://www.iucnredlist.org/details/176682/0)
   on the IUCN Red List.
-  
+
   **References**
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
   *A Guide to the Amphibians and Reptiles of Singapore*
@@ -52,6 +55,8 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- sbw
 ---
 
 **Where seen?**

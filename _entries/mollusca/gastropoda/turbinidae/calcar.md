@@ -1,9 +1,10 @@
 ---
 title: Spurred turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, gastropod,
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, 
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Astralium
@@ -19,40 +20,54 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg"
-      caption: "Berlayar Creek, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
-      caption: "Berlayar Creek, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg"
-      caption: "Cyrene Reef, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
+    caption: Berlayar Creek, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
+    caption: Berlayar Creek, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
+    caption: Cyrene Reef, Jul 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg"
-      caption: "Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg
+    caption: Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg"
-      caption: "Labrador, Oct 25 Photo shared by Adriane Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg
+    caption: Labrador, Oct 25 Photo shared by Adriane Lee on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg"
-      caption: "Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg"
-      caption: "Lazarus Island, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg
+    caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg
+    caption: Lazarus Island, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg"
-      caption: "Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg"
-      caption: "Cyrene Reef, Apr 18 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg"
-      caption: "Pulau Hantu, Oct 24 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg
+    caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg
+    caption: Cyrene Reef, Apr 18 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg
+    caption: Pulau Hantu, Oct 24 Photo shared by Vincent Choo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG"
-      caption: "Pulau Semakau, Jan 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg"
-      caption: "Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG
+    caption: Pulau Semakau, Jan 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg
+    caption: Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook .
 links_references: |
   **Links**
   - [Spurred turban (
@@ -64,7 +79,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -72,6 +87,16 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- ubn
+- tm
+- ecp
+- lab
+- laz
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

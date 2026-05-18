@@ -1,9 +1,10 @@
 ---
 title: 'Moon snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand,
-  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, 
+  sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Naticidae
@@ -18,99 +19,148 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Moon snails usually hunt and rest under the sand. Look for trails in the sand! They are fierce predators that hunt other snails and clams. The body of a moon snail can inflate to many times the size of its shell.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Moon snails usually hunt and rest under the sand. Look for trails in the sand! They are fierce predators that hunt other snails and clams. The body of a moon snail can inflate to many times the size of its shell.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Moon snails usually hunt 
+      and rest under the sand. Look for trails in the sand! They are fierce 
+      predators that hunt other snails and clams. The body of a moon snail can 
+      inflate to many times the size of its shell.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Moon snails usually hunt and rest under the sand. Look for trails 
+      in the sand! They are fierce predators that hunt other snails and clams. 
+      The body of a moon snail can inflate to many times the size of its shell.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg"
-      caption: "The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg"
-      caption: Siphon (upper left) and tentcles
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+    caption: The Ball moon snail, like most moon snails, can deflate the huge 
+      body and retract completely into the shell. Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+    caption: Siphon (upper left) and tentcles
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg"
-      caption: "Tiny button snails leaping away from a hunting moon snail. East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg"
-      caption: "A moon snail with a bivalve enveloped in its foot. Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg"
-      caption: "Clam shell with hole neatly drilled, possibly by a moon snail? Changi, Oct 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg
+    caption: Tiny button snails leaping away from a hunting moon snail. East 
+      Coast, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg
+    caption: A moon snail with a bivalve enveloped in its foot. Changi, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg
+    caption: Clam shell with hole neatly drilled, possibly by a moon snail? 
+      Changi, Oct 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg"
-      caption: "Bivalve escaping a moon snail! Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg"
-      caption: "Using its long foot, the bivalve 'leaps' away to safety."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg
+    caption: Bivalve escaping a moon snail! Changi, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg
+    caption: Using its long foot, the bivalve 'leaps' away to safety.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg"
-      caption: "China moon snail dragging a small shell. Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg"
-      caption: "Zebra moon snail dragging a small shell. Sisters Island, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg
+    caption: China moon snail dragging a small shell. Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
+    caption: Zebra moon snail dragging a small shell. Sisters Island, May 08
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg"
-      caption: "Two snails, mating? or trying to eat the same thing? Tuas, Sep 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
-      caption: "Sand collar: egg mass of a moon snail. more photos of sand collars. Pulau Sekudu, Jul 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg"
-      caption: "Sand collar: egg mass of a moon snail. more photos of sand collars. Chek Jawa, Nov 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg
+    caption: Two snails, mating? or trying to eat the same thing? Tuas, Sep 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
+      Pulau Sekudu, Jul 03'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
+    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
+      Chek Jawa, Nov 04'
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg"
-      caption: Ball moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg"
-      caption: Oval moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg"
-      caption: Eggwhite moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg
+    caption: Ball moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
+    caption: Oval moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg
+    caption: Eggwhite moon snail
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg"
-      caption: China moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg"
-      caption: Pink moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg"
-      caption: Zebra moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg
+    caption: China moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg
+    caption: Pink moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg
+    caption: Zebra moon snail
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg"
-      caption: Tiger moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg"
-      caption: Lined moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg
+    caption: Tiger moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
+    caption: Lined moon snail
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg"
-      caption: Spotted moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg"
-      caption: Calf moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg"
-      caption: Eggwhite moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg
+    caption: Spotted moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg
+    caption: Calf moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
+    caption: Eggwhite moon snail
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg"
-      caption: Shell of a dead snail Bosom moon snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg"
-      caption: Naked moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
+    caption: Shell of a dead snail Bosom moon snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
+    caption: Naked moon snail
 links_references: |
   **Links**
   - [Moon Snail (
@@ -130,7 +180,7 @@ links_references: |
   - Family Naticidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -156,6 +206,19 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- chg
+- cj
+- ecp
+- kus
+- laz
+- sji
+- sis
+- cyr
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

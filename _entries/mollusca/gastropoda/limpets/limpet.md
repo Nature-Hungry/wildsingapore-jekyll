@@ -1,9 +1,11 @@
 ---
 title: Limpets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod,
-  mollusc, scutus, true, false, shield, snail, shell, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, 
+  gastropod, mollusc, scutus, true, false, shield, snail, shell, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes: []
 family: Ostreidae
@@ -22,55 +24,84 @@ updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Limpets are sometimes confused with barnacles. Limpets can move! But only at high tide. The area around a limpet is often grazed bare of algae.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Limpets are sometimes confused with barnacles. Limpets can move! But only at high tide. The area around a limpet is often grazed bare of algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Limpets are sometimes 
+      confused with barnacles. Limpets can move! But only at high tide. The area
+      around a limpet is often grazed bare of algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Limpets are sometimes confused with barnacles. Limpets can move! 
+      But only at high tide. The area around a limpet is often grazed bare of 
+      algae.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg"
-      caption: "A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg"
-      caption: "East Coast Park, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
+    caption: A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, 
+      Apr 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
+    caption: East Coast Park, Aug 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg"
-      caption: "Limpets in the middle of a well-grazed portion of a boulder. Chek Jawa, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg"
-      caption: "Home scar of recently demised limpet. Tuas, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg"
-      caption: "Drill snail drilled a hole in the limpet shell. St. John's Island, Sep 07 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg
+    caption: Limpets in the middle of a well-grazed portion of a boulder. Chek 
+      Jawa, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg
+    caption: Home scar of recently demised limpet. Tuas, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
+    caption: Drill snail drilled a hole in the limpet shell. St. John's Island, 
+      Sep 07 Photo shared by Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg"
-      caption: "A True limpet, this Smooth limpet breathes through gills. Chek Jawa, Jan 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
-      caption: "A False limpet, this Guam false limpet , breathes through lungs. Sisters Island, Nov 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg"
-      caption: "Often mistaken for a slug, the Hoof-shield limpet has a body much bigger than its shell! Chek Jawa, Jul 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
+    caption: A True limpet, this Smooth limpet breathes through gills. Chek 
+      Jawa, Jan 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
+    caption: A False limpet, this Guam false limpet , breathes through lungs. 
+      Sisters Island, Nov 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
+    caption: Often mistaken for a slug, the Hoof-shield limpet has a body much 
+      bigger than its shell! Chek Jawa, Jul 02
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg"
-      caption: "With egg masses? East Coast Park, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg"
-      caption: "East Coast Park, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
+    caption: With egg masses? East Coast Park, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
+    caption: East Coast Park, Aug 11
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
-      caption: Smooth limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg"
-      caption: Key-hole limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg"
-      caption: Star limpets
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+    caption: Smooth limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg
+    caption: Key-hole limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+    caption: Star limpets
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg"
-      caption: Guam false limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg"
-      caption: Javan false limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg"
-      caption: Flat false limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
+    caption: Guam false limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
+    caption: Javan false limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+    caption: Flat false limpet
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg"
-      caption: Hoof-shied limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg"
-      caption: Hoof-shied limpet
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg"
-      caption: Hoof-shied limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
+    caption: Hoof-shied limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
+    caption: Hoof-shied limpet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
+    caption: Hoof-shied limpet
 links_references: |
   **Links**
   - [False limpets](http://mangrove.nus.edu.sg/pub/seashore/text/154.md)
@@ -92,7 +123,7 @@ links_references: |
   - Family Lottidae and Family Siphonariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup.
   *New Singapore record of the limpet, Amathina oyamai mortoni.*
@@ -127,6 +158,46 @@ links_references: |
   - Pechenik, Jan A., 2005.
   *Biology of the Invertebrates*
   . 5
+location:
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- pgl
+- chg
+- cj
+- tkr
+- kus
+- laz
+- sji
+- cyr
+- tpg
+- chg
+- cj
+- skd
+- lab
+- tkr
+- sis
+- tm
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

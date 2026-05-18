@@ -1,9 +1,10 @@
 ---
 title: Tiny spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info,  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info,  photo
 layout: entry
 attributes:
 - 38
@@ -15,22 +16,36 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg"
-      caption: "Beting Bronok, Jul 03"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/071001chgd6704m3.jpg"
-      caption: "Changi, Oct 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
+    caption: Beting Bronok, Jul 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/071001chgd6704m3.jpg
+    caption: Changi, Oct 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/081216prpd3536m3.jpg"
-      caption: "Pasir Ris, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg"
-      caption: "Cyrene Reef, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/060809skdd5567m3.jpg"
-      caption: "Pulau Sekudu, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/081216prpd3536m3.jpg
+    caption: Pasir Ris, Dec 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
+    caption: Cyrene Reef, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/060809skdd5567m3.jpg
+    caption: Pulau Sekudu, Aug 06
+location:
+- prp
+- chg
+- cj
+- skd
+- bb
+- cyr
 ---
 
 **Where seen?**

@@ -1,8 +1,10 @@
 ---
 title: True oysters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: oyster, ostreidae, bivalvia, clam, bivalve, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: oyster, ostreidae, bivalvia, clam, bivalve, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Ostreidae
 genus: ''
@@ -18,7 +20,8 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 links_references: |
   **Links**
   - [Edible
@@ -51,7 +54,7 @@ links_references: |
       unexpected benefit of oysters](http://wildshores.blogspot.com/2008/12/unexpected-benefit-of-oysters.html)
     - [Oyster
       reefs: most severely impacted marine habitat on the planet](http://wildshores.blogspot.com/2009/05/oyster-reefs-most-severely-impacted.html)
-  
+
   **References**
   - Tan Siong
     Kiat and Henrietta P. M. Woo, 2010 *Preliminary
@@ -71,27 +74,78 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Oysters take a long time to grow to a large size. Valuable pearls do NOT come from the Family Ostreida. Oysters are often vandalised by thoughtless visitors. Oysters can cause food poisoning.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Oysters take a long time to grow to a large size. Valuable pearls do NOT come from the Family Ostreida. Oysters are often vandalised by thoughtless visitors. Oysters can cause food poisoning.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Oysters take a long time 
+      to grow to a large size. Valuable pearls do NOT come from the Family 
+      Ostreida. Oysters are often vandalised by thoughtless visitors. Oysters 
+      can cause food poisoning.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Oysters take a long time to grow to a large size. Valuable pearls 
+      do NOT come from the Family Ostreida. Oysters are often vandalised by 
+      thoughtless visitors. Oysters can cause food poisoning.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg"
-      caption: "Oysters often form a distint band on hard surfaces near the high water mark. Chek Jawa, Jan 08"
-    - url: "http://www.wildsingapore.com/concepts/pix/080122cjd9042m3.jpg"
-      caption: "All kinds of different animals may settle among the oysters. Chek Jawa, Jan 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
-      caption: "Some oysters have spikes on their shells, perhaps to deter predators. Berlayar Creek, Mar 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+    caption: Oysters often form a distint band on hard surfaces near the high 
+      water mark. Chek Jawa, Jan 08
+  - url: http://www.wildsingapore.com/concepts/pix/080122cjd9042m3.jpg
+    caption: All kinds of different animals may settle among the oysters. Chek 
+      Jawa, Jan 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+    caption: Some oysters have spikes on their shells, perhaps to deter 
+      predators. Berlayar Creek, Mar 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
-      caption: Spiked rock oysters
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg"
-      caption: Plain rock oysters
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg"
-      caption: Zig-zag rock oysters
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+    caption: Spiked rock oysters
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg
+    caption: Plain rock oysters
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
+    caption: Zig-zag rock oysters
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Edible Rock Oyster ( Saccostrea ) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Family Ostreidae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos. Pearls on the American Museum of Natural History site: with details on what are pearls, freshwater and marine pearls and pearls in human history. Pearl Oyster Farming and Pearl Culture February 1991 on the UN FAO website. Family Ostreidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. From the wild shores of singapore blog. The unexpected benefit of oysters Oyster reefs: most severely impacted marine habitat on the planet References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Katherine Lam and Brian Morton. 31 Aug 2009. Oysters (Bivalvia: Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore . Raffles Bulletin of Zoology 57(2): Pp. 481-494. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Edible Rock Oyster ( Saccostrea ) Tan, Leo W. H. & Ng, Peter K.
+      L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore.
+      160 pp. Family Ostreidae on The Gladys Archerd Shell Collection at Washington
+      State University Tri-Cities Natural History Museum website: brief description
+      and photos. Pearls on the American Museum of Natural History site: with details
+      on what are pearls, freshwater and marine pearls and pearls in human history.
+      Pearl Oyster Farming and Pearl Culture February 1991 on the UN FAO website.
+      Family Ostreidae in the Bivalves section by J.M. Poutiers in the FAO Species
+      Identification Guide for Fishery Purposes: The Living Marine Resources of the
+      Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods
+      on the Food and Agriculture Organization of the United Nations (FAO) website.
+      From the wild shores of singapore blog. The unexpected benefit of oysters Oyster
+      reefs: most severely impacted marine habitat on the planet References Tan Siong
+      Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of
+      Singapore (pdf), Raffles Museum of Biodiversity Research, National University
+      of Singapore. Katherine Lam and Brian Morton. 31 Aug 2009. Oysters (Bivalvia:
+      Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore . Raffles Bulletin
+      of Zoology 57(2): Pp. 481-494. Tan, K. S. & L. M. Chou, 2000. A Guide to the
+      Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and
+      Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council
+      on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red
+      Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore),
+      Singapore. 343 pp.'
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- tus
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- hnt
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

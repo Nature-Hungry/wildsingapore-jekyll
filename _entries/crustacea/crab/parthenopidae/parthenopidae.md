@@ -1,8 +1,10 @@
 ---
 title: Elbow crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Parthenopidae
 genus: ''
@@ -24,25 +26,30 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg"
-      caption: "Pincers many times longer than its body. Changi, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg"
-      caption: "Underside of the Domed elbow crab. Changi, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
+    caption: Pincers many times longer than its body. Changi, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg
+    caption: Underside of the Domed elbow crab. Changi, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg"
-      caption: Common elbow crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg"
-      caption: Domed elbow crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
+    caption: Common elbow crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+    caption: Domed elbow crab
 links_references: |
   **Links**
   - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200.md)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Swee Hee and Martyn E. Y. Low. 20 December 2013.
   *Daldorfia horrida rediscovered in Singapore after a century*
@@ -59,6 +66,11 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- chg
+- cj
+- bb
+- tsm
 ---
 
 **Where seen?**

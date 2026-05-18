@@ -1,9 +1,11 @@
 ---
 title: Mangrove creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus,
-  cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, 
+  pellucidus, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Cerithiidae
 genus: Clypeomorus
@@ -18,23 +20,28 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg"
-      caption: "Pulau Semakau, Feb 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+    caption: Pulau Semakau, Feb 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg"
-      caption: "Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
+    caption: Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook .
 links_references: |
   **Links**
   - [*Clypeomorus pellucida*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130664&genusname=Clypeomorus&speciesname=pellucida)
   in SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -45,6 +52,10 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- cj
+- smk
 ---
 
 **Where seen?**

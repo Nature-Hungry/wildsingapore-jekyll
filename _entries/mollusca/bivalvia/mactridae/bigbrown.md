@@ -1,9 +1,10 @@
 ---
 title: Big brown mactra clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Mactridae
 genus: Mactra
@@ -22,38 +23,54 @@ order: Venerida
 superfamily: Mactroidea
 subfamily: Mactrinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg"
-      caption: "Changi, Jan 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg"
-      caption: "Pulau Sekudu, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg"
-      caption: "Changi, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+    caption: Changi, Jan 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
+    caption: Pulau Sekudu, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg
+    caption: Changi, Aug 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg"
-      caption: "A clam using its foot to leap away from a Moon snail . Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg"
-      caption: "Changi, Jan 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg
+    caption: A clam using its foot to leap away from a Moon snail . Changi, Jul 
+      11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg
+    caption: Changi, Jan 07
   gallery3:
-    - url: "https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg"
-      caption: A clam using its foot to leap away from a Noble volute .
+  - url: https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg
+    caption: A clam using its foot to leap away from a Noble volute .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg"
-      caption: "East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg"
-      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg
+    caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg"
-      caption: "Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG"
-      caption: "St. John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg
+    caption: Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG
+    caption: St. John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg"
-      caption: "Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg"
-      caption: "Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg
+    caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg
+    caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
 links_references: |
   **Links**
   - [Plain troughshell (
@@ -65,7 +82,7 @@ links_references: |
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -73,6 +90,17 @@ links_references: |
   - Wong, H. W., 2009.
   *The Mactridae (Mollusca: Bivalvia) of East Coast Park, Singapore*
   . Nature in Singapore, 2: 283-296.
+location:
+- prp
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- laz
+- sji
+- sis
 ---
 
 **Where seen?**

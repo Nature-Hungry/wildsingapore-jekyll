@@ -1,9 +1,10 @@
 ---
 title: Tiny orange star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sea star, seastar, starfish, star, fish, asteroidea, echinoderm, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -18,37 +19,60 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3.jpg"
-      caption: "Pulau Tekukor , Sep 18 Photo shared by Dayna Cheak on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3a.jpg"
-      caption: Underside
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3.jpg
+    caption: Pulau Tekukor , Sep 18 Photo shared by Dayna Cheak on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3a.jpg
+    caption: Underside
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/180912tkkdc3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/190422srpay5.jpg"
-      caption: "Sentosa Serapong, Apr 19 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/190422srpay5.jpg
+    caption: Sentosa Serapong, Apr 19 Photo shared by Abel Yeo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/230705ssismn2.jpg"
-      caption: "/ Small Sisters Island, Jul 23 / Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/200705kusdc5a.jpg"
-      caption: "Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/190831kusjc1.jpg"
-      caption: "Kusu Island, Sep 19 Photo shared by Jesselyn Chua on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/230705ssismn2.jpg
+    caption: / Small Sisters Island, Jul 23 / Photo shared by Marcus Ng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/200705kusdc5a.jpg
+    caption: Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/190831kusjc1.jpg
+    caption: Kusu Island, Sep 19 Photo shared by Jesselyn Chua on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/200126bsisjll1.jpg"
-      caption: "Big Sisters Island, Jan 20 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/140503sislks1.jpg"
-      caption: "Sister Island , May 14 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/200126bsisjll1.jpg
+    caption: Big Sisters Island, Jan 20 Photo shared by Jianlin Liu on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/140503sislks1.jpg
+    caption: Sister Island , May 14 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/130525tsmklks.JPG"
-      caption: "Terumbu Semakau , May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/210402tmskjll1.jpg"
-      caption: "Terumbu Semakau , Apr 21 Photo shared by Jialin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/250331hntjll2.jpg"
-      caption: "Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/130525tsmklks.JPG
+    caption: Terumbu Semakau , May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/210402tmskjll1.jpg
+    caption: Terumbu Semakau , Apr 21 Photo shared by Jialin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinyorange/250331hntjll2.jpg
+    caption: Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook .
+location:
+- snt
+- tkr
+- kus
+- sis
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

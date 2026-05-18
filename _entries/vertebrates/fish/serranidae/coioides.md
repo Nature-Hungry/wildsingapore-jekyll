@@ -1,9 +1,10 @@
 ---
 title: Orange-spotted grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: orange, spotted, grouper, fish, epinephalus, coioides, serranidae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,21 +24,27 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg"
-      caption: "Beting Bronok, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/140502chgmn.jpg"
-      caption: "Changi, May 14 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+    caption: Beting Bronok, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
+    caption: Changi, May 14 Photo shared by Marcus Ng on flickr .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg"
-      caption: "Pulau Sekudu, Apr 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
+    caption: Pulau Sekudu, Apr 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/180616bblks18.jpg"
-      caption: "Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120609bbrl.jpg"
-      caption: "Beting Bronok, Jun 12 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
+    caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
+    caption: Beting Bronok, Jun 12 Photo shared by Russel Low on facebook .
 links_references: |
   **Links**
   - [Orange-spotted Grouper (
@@ -70,7 +77,7 @@ links_references: |
   from
   [Fishes of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/index.html)
   (Northern Tip of Sulawesi Indonesia) by Seishi Kimura and Keiichi Matsuura (eds.) factsheets with photos.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -78,6 +85,13 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- chg
+- cj
+- skd
+- bb
+- tm
+- sis
 ---
 
 **Where seen?**

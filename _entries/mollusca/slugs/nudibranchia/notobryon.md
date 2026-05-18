@@ -1,9 +1,10 @@
 ---
 title: Notobryon nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: notobryon, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: notobryon, nudibranchia, slug, seaslug, opisthobranch, gastropod, 
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -27,26 +28,32 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg"
-      caption: "Sisters Island, Nov 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg"
-      caption: "Sisters Island, Nov 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+    caption: Sisters Island, Nov 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg
+    caption: Sisters Island, Nov 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg"
-      caption: "Beting Bronok, May 11 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg"
-      caption: "Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg
+    caption: Beting Bronok, May 11 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg
+    caption: Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: including descriptions and photos of
   [*Notobryon wardi*](http://www.seaslugforum.net/find/notoward)
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -54,6 +61,9 @@ links_references: |
   - Humann, Paul and Ned Deloach. 2010.
   *Reef Creature Identification: Tropical Pacific*
   New World Publications. 497pp.
+location:
+- bb
+- sis
 ---
 
 **Where seen?**

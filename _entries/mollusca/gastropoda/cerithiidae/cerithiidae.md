@@ -1,9 +1,10 @@
 ---
 title: 'Creeper snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, 
+  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cerithiidae
 genus: ''
@@ -17,30 +18,42 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
-      caption: "Sentosa, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg"
-      caption: Shell opening.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg"
-      caption: Operculum with only a few whorls.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+    caption: Sentosa, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+    caption: Shell opening.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+    caption: Operculum with only a few whorls.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg"
-      caption: "Plain creeper snails sometimes seen in large numbers. Pasir Ris Park, Aug 13"
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg"
-      caption: "Empty shells may be taken over by tiny huddling hermit crabs . St John's Island, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
+    caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris 
+      Park, Aug 13
+  - url: 
+      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
+    caption: Empty shells may be taken over by tiny huddling hermit crabs . St 
+      John's Island, Jan 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg"
-      caption: Plain creeper snails
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
-      caption: Obelisk creeper snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg"
-      caption: Variegated creeper snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+    caption: Plain creeper snails
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
+    caption: Obelisk creeper snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+    caption: Variegated creeper snail
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg"
-      caption: Mangrove creeper snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
+    caption: Mangrove creeper snail
 links_references: |
   **Links**
   - [Traill's cerith (
@@ -54,7 +67,7 @@ links_references: |
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - *Records of two cerithiopsid snails in Singapore*
   , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 9-10 ISSN 2345-7597, National University of Singapore.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -71,6 +84,18 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- tm
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- lfa
 ---
 
 **Where seen?**

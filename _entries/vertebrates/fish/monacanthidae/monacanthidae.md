@@ -1,8 +1,10 @@
 ---
 title: 'Filefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Monacanthidae
 genus: ''
@@ -18,49 +20,71 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They can change colours and patterns to match the surroundings. They have a stiff dorsal spine and leathery skin instead of scales. Small ones (2-3cm) are common in seagrasses. Watch your step!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They can change colours and patterns to match the surroundings. They have a stiff dorsal spine and leathery skin instead of scales. Small ones (2-3cm) are common in seagrasses. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They can change colours 
+      and patterns to match the surroundings. They have a stiff dorsal spine and
+      leathery skin instead of scales. Small ones (2-3cm) are common in 
+      seagrasses. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They can change colours and patterns to match the surroundings. 
+      They have a stiff dorsal spine and leathery skin instead of scales. Small 
+      ones (2-3cm) are common in seagrasses. Watch your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg"
-      caption: "The 'thorn' at the top of the head can be locked into place. There is usually a flap under the body. Beting Bronok, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg"
-      caption: "Wrapped closely around a sponge. Chek Jawa, May 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+    caption: The 'thorn' at the top of the head can be locked into place. There 
+      is usually a flap under the body. Beting Bronok, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
+    caption: Wrapped closely around a sponge. Chek Jawa, May 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg"
-      caption: "They can change colours for perfect camouflage! Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg"
-      caption: "Tiny green one resembles a seagrass leaf! Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg"
-      caption: "Three Feathery fishes resembling flotsam. Tanah Merah, Sep 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
+    caption: They can change colours for perfect camouflage! Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
+    caption: Tiny green one resembles a seagrass leaf! Changi, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
+    caption: Three Feathery fishes resembling flotsam. Tanah Merah, Sep 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg"
-      caption: Feathery filefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg"
-      caption: Bearded filefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg
+    caption: Feathery filefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg
+    caption: Bearded filefish
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg
+    caption: ''
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg
+    caption: ''
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -99,7 +123,7 @@ links_references: |
   : Technical fact sheet on the family, including fact sheets on individual species.
   - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Karenne Tun & Kelvin K. P. Lim.
   *Scrawled filefish, Aluterus scriptus, in the Singapore Strait*
@@ -119,6 +143,26 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

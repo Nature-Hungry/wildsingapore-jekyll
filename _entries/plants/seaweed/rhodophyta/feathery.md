@@ -1,9 +1,10 @@
 ---
 title: Feathery red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, 
+  rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Spyridiaceae
@@ -24,29 +25,36 @@ order: Ceramiales
 subfamily: Spyridioideae
 tribe: Spyridieae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg"
-      caption: "Tanah Merah, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg
+    caption: Tanah Merah, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg"
-      caption: "Pulau Semakau, Sep 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg"
-      caption: "St. John's Island, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg
+    caption: Pulau Semakau, Sep 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg
+    caption: St. John's Island, Aug 08
 links_references: |
   **Links**
   - [*Spyridia filamentosa*](http://www.algaebase.org/search/species/detail/?species_id=487)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -60,6 +68,16 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- chg
+- skd
+- tm
+- ecp
+- sji
+- sis
+- hnt
+- smk
+- lfa
 ---
 
 **Where seen?**

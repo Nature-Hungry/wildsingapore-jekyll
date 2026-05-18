@@ -1,9 +1,10 @@
 ---
 title: Commerson's sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: commerson, flat, fish, flatfish, sole, synaptura, commersonnii, soleidae,
-  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: commerson, flat, fish, flatfish, sole, synaptura, commersonnii, 
+  soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,24 +25,32 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg"
-      caption: "Changi, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg"
-      caption: "Tail fin joined to the dorsal and anal fins. Changi, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
+    caption: Changi, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg
+    caption: Tail fin joined to the dorsal and anal fins. Changi, Aug 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg"
-      caption: "Big eyes and tentacles around the mouth. Chek Jawa, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg"
-      caption: "Swallowing a very LOOONG worm. Changi, Jul 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg
+    caption: Big eyes and tentacles around the mouth. Chek Jawa, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+    caption: Swallowing a very LOOONG worm. Changi, Jul 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg"
-      caption: "Chek Jawa, Apr 07 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg
+    caption: Chek Jawa, Apr 07 Photo shared by Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
 links_references: |
   **Links**
   - [Commerson's sole (
@@ -52,11 +61,14 @@ links_references: |
   : Technical fact sheet.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Tan Heok Hui & Jeremy Yeo Wei Liang. 25 Jan 2017.
   *Polychaetes in the diet of the Commerson’s sole*
   . Singapore Biodiversity Records 2017: 11-12.
+location:
+- chg
+- cj
 ---
 
 **Where seen?**

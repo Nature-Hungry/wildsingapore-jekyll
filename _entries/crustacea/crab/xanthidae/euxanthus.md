@@ -1,9 +1,10 @@
 ---
 title: 'Lumpy rock crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,37 +31,53 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Euxanthinae
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg"
-      caption: "St. John's Island, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1601m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1598m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+    caption: St. John's Island, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1601m3.jpg
+    caption: Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1598m3.jpg
+    caption: Underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/111002bsismn.jpg"
-      caption: "Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2a.jpg"
-      caption: "Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/111002bsismn.jpg
+    caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2a.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2b.jpg"
-      caption: "Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2b.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/190520hntjc1.jpg"
-      caption: "Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110621smklks.JPG"
-      caption: "Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/220911cyrccn2.jpg"
-      caption: "Cyrene, Sep 22 Photo shared by Che Cheng Neo on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/190520hntjc1.jpg
+    caption: Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110621smklks.JPG
+    caption: Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/220911cyrccn2.jpg
+    caption: Cyrene, Sep 22 Photo shared by Che Cheng Neo on facebook ..
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/230901kuslks1.jpg"
-      caption: "Kusu Island, Aug 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/130210bsislks.JPG"
-      caption: "Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg"
-      caption: "Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/230901kuslks1.jpg
+    caption: Kusu Island, Aug 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/130210bsislks.JPG
+    caption: Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on 
+      facebook .
 links_references: |
   **Links**
   - [*Euxanthus exsculptus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106149)
@@ -69,6 +86,18 @@ links_references: |
   : Technical fact sheet.
   - [*Euxanthus exsculptus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1223)
   in Crabs of Japan on Marine Species Indentification Portal" Technical fact sheet.
+location:
+- tm
+- lab
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

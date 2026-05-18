@@ -1,6 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
+  shore,
 layout: entry
 shape: ball
 title: Colourful chimney sponge
@@ -16,34 +17,46 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3.jpg"
-      caption: "Beting Bemban Besar, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3.jpg
+    caption: Beting Bemban Besar, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3.jpg"
-      caption: "Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3.jpg
+    caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/170401tptrl.jpg"
-      caption: "Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/170401tptrl.jpg
+    caption: Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on 
+      facebook .
 links_references: |
   **Links**
   - [*Petrosia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2646)
   on SeaLife Base: technical fact sheet.
   - [*Petrosia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131847)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- skd
+- hnt
+- tpg
+- tsm
 ---
 
 **Where seen?**

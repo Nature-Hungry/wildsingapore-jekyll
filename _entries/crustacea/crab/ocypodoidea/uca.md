@@ -1,8 +1,10 @@
 ---
 title: 'Fiddler crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Ocypodidae
 genus: Uca
@@ -50,7 +52,7 @@ links_references: |
       of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddlerl)
     - [How
       do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-theirl)
-  
+
   **References**
   - Ng, Peter
     K. L. and Daniele Guinot and Peter J. F. Davie, 2008. *Systema
@@ -65,47 +67,111 @@ links_references: |
     Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They common on undisturbed shores. Don't step on them! Only males have an enlarge pincer. It is too big to use for feeding. Females have two small pincers and thus can eat twice as fast. They can change colours and species cannot be identified by colour alone.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They common on undisturbed shores. Don't step on them! Only males have an enlarge pincer. It is too big to use for feeding. Females have two small pincers and thus can eat twice as fast. They can change colours and species cannot be identified by colour alone.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They common on 
+      undisturbed shores. Don't step on them! Only males have an enlarge pincer.
+      It is too big to use for feeding. Females have two small pincers and thus 
+      can eat twice as fast. They can change colours and species cannot be 
+      identified by colour alone.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They common on undisturbed shores. Don't step on them! Only males 
+      have an enlarge pincer. It is too big to use for feeding. Females have two
+      small pincers and thus can eat twice as fast. They can change colours and 
+      species cannot be identified by colour alone.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg"
-      caption: "Female (top) and male (bottom). Pasir Ris, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg"
-      caption: "Males can't feed with the enlarged pincer and have only one small pincer to feed with. Chek Jawa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg"
-      caption: Females have two small pincers and so can feed faster. Pulau Ubin Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
+    caption: Female (top) and male (bottom). Pasir Ris, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
+    caption: Males can't feed with the enlarged pincer and have only one small 
+      pincer to feed with. Chek Jawa, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
+    caption: Females have two small pincers and so can feed faster. Pulau Ubin 
+      Jan 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg"
-      caption: "Males may be 'right' or 'left' handed. Pulau Ubin, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg"
-      caption: "Male displaying, waving his legs and enlarged pincer . St John's Island, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg"
-      caption: "Mating usually happens inside the burrow, but this shameless pair was outside! Kusu Island, May 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
+    caption: Males may be 'right' or 'left' handed. Pulau Ubin, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+    caption: Male displaying, waving his legs and enlarged pincer . St John's 
+      Island, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
+    caption: Mating usually happens inside the burrow, but this shameless pair 
+      was outside! Kusu Island, May 07
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
-      caption: Porcelain fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg"
-      caption: Orange fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
-      caption: Rosy fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+    caption: Porcelain fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+    caption: Orange fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+    caption: Rosy fiddler crab
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
-      caption: Stout pincered fiddler crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
-      caption: Tiny colourful fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+    caption: Stout pincered fiddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+    caption: Tiny colourful fiddler crab
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg"
-      caption: "Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
-      caption: "Chek Jawa, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
+    caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+    caption: Chek Jawa, Mar 11
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg"
-      caption: "Tanah Merah, Sep 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
+    caption: Tanah Merah, Sep 13
   gallery8:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Fiddler crabs ( Uca spp.) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Fiddler crabs ( Uca spp.) with descriptions of four species.Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. www.fiddlercrab.info by M.S. Rosenberg: list of all fiddler crab species with updates on taxonomy, photos, video and links. From the wild shores of singapore blog Dishonest fiddler crabs bluff with fake pincers Eye of the fiddler How do girl fiddler crabs defend their territory? References Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp. Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae: Genus Uca , Princeton University Press. 737pp Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life and Times of Labrador Beach. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans of Australian Waters . Reed New Holland. 224 pp. Davey, Keith, 1998. A Photographic Guide to Seashore Life of Australia . New Holland, Australia.144 pp. Mastaller, Michael, 1997. Mangroves: The Forgotten Forest Between Land and Sea . Tropical Press, Malaysia, 200 pp. Morton, Brian & John Morton, 1983. The Sea Shore Ecology of Hong Kong . Hong Kong University Press. 350 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Fiddler crabs ( Uca spp.) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+      A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp.
+      Fiddler crabs ( Uca spp.) with descriptions of four species.Ng, Peter K. L.
+      & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity)
+      . Singapore Science Centre. 168 pp. www.fiddlercrab.info by M.S. Rosenberg:
+      list of all fiddler crab species with updates on taxonomy, photos, video and
+      links. From the wild shores of singapore blog Dishonest fiddler crabs bluff
+      with fake pincers Eye of the fiddler How do girl fiddler crabs defend their
+      territory? References Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie,
+      2008. Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
+      crabs of the world . The Raffles Bulletin of Zoology. Supplement No. 17, 31
+      Jan 2008. 286 pp. Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae:
+      Genus Uca , Princeton University Press. 737pp Edward E. Ruppert, Richard S.
+      Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning
+      Inc., 7th Edition. pp. 963 Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm
+      of the Sea: The Life and Times of Labrador Beach. Division of Biology, School
+      of Science, Nanyang Technological University & Department of Zoology, the National
+      University of Singapore. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First
+      Look at Biodiversity in Singapore . National Council on the Environment. 163pp.
+      Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants
+      and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp.
+      Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans of Australian
+      Waters . Reed New Holland. 224 pp. Davey, Keith, 1998. A Photographic Guide
+      to Seashore Life of Australia . New Holland, Australia.144 pp. Mastaller, Michael,
+      1997. Mangroves: The Forgotten Forest Between Land and Sea . Tropical Press,
+      Malaysia, 200 pp. Morton, Brian & John Morton, 1983. The Sea Shore Ecology of
+      Hong Kong . Hong Kong University Press. 350 pp.'
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- ecp
+- kus
+- sji
+- hnt
+- tpg
+- smk
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

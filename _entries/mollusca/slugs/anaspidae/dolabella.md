@@ -1,9 +1,10 @@
 ---
 title: Wedge sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, opisthobranch,
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, 
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -25,33 +26,46 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: Sep 2023
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg"
-      caption: "Terumbu Reya, Feb 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1a.jpg"
-      caption: Small head and tiny rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
+    caption: Terumbu Reya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1a.jpg
+    caption: Small head and tiny rhinophores.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg"
-      caption: Doesn't have obvious flaps at the top.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1b.jpg"
-      caption: Releases purple ink when stressed. Foot is smooth and pale.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
+    caption: Doesn't have obvious flaps at the top.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1b.jpg
+    caption: Releases purple ink when stressed. Foot is smooth and pale.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1.jpg"
-      caption: "Pulau Semakau, Jun 23 Video and photos shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1a.jpg"
-      caption: Small head and tiny rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1.jpg
+    caption: Pulau Semakau, Jun 23 Video and photos shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1a.jpg
+    caption: Small head and tiny rhinophores.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1a.jpg"
-      caption: "Pulau Semakau North, Sep 23 Video shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1a.jpg
+    caption: Pulau Semakau North, Sep 23 Video shared by Che Cheng Neo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1b.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg"
-      caption: "Pulau Semakau, Oct 09 Video shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg
+    caption: Pulau Semakau, Oct 09 Video shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
@@ -60,11 +74,14 @@ links_references: |
   and
   [purple ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac)
   produced by sea hares
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+location:
+- smk
+- tsm
 ---
 
 **Where seen?**

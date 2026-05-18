@@ -1,9 +1,10 @@
 ---
 title: Mangrove whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish,
+  rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,31 +24,43 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg"
-      caption: "This one seems to have a broken tail. Pulau Sekudu, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg"
-      caption: "Small one. Chek Jawa, May 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
+    caption: This one seems to have a broken tail. Pulau Sekudu, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg
+    caption: Small one. Chek Jawa, May 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
-      caption: "Underside. Pulau Sekudu, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg"
-      caption: "Blue-spotted stingrays and Mangrove whiprays in a sandy lagoon. Pulau Sekudu, Apr 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg"
-      caption: "Often seen trapped in fishing nets. Changi, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+    caption: Underside. Pulau Sekudu, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
+    caption: Blue-spotted stingrays and Mangrove whiprays in a sandy lagoon. 
+      Pulau Sekudu, Apr 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
+    caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg"
-      caption: "Coney Island, Nov 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg
+    caption: Coney Island, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg"
-      caption: "Beting Bronok, May 09 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg"
-      caption: "Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg
+    caption: Beting Bronok, May 09 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg
+    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg"
-      caption: "Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg
+    caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Mangrove Whipray (
@@ -64,7 +77,7 @@ links_references: |
   : Technical fact sheet.
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Marcus F. C. Ng. 18 September 2015.
   *Juvenile mangrove whip-ray at Pulau Hantu*
@@ -72,6 +85,14 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- pgl
+- prp
+- chg
+- cj
+- skd
+- bb
+- hnt
 ---
 
 **Where seen?**

@@ -1,9 +1,11 @@
 ---
 title: Mini sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella,
-  leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, 
+  bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Aplysia
@@ -20,15 +22,20 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg"
-      caption: "Sisters Island, Feb 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg"
-      caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg"
-      caption: Large foramen ringed in black.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+    caption: Sisters Island, Feb 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
+    caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the 
+      rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
+    caption: Large foramen ringed in black.
 links_references: |
   **Links**
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
@@ -37,7 +44,7 @@ links_references: |
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
   *[Aplysia parvula](http://slugsite.us/bow/nudwk323.md)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -51,6 +58,8 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- sis
 ---
 
 **Where seen?**

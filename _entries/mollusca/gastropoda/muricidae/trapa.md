@@ -1,9 +1,10 @@
 ---
 title: Rare-spined murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Murex
@@ -19,32 +20,43 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg"
-      caption: "Changi, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg"
-      caption: Long tentacles and muscular foot.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+    caption: Changi, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
+    caption: Long tentacles and muscular foot.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg"
-      caption: "This one was clasping a bivalve. Changi, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg"
-      caption: "Empty shells are commonly seen. Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg"
-      caption: "Shell taken over by a hermit crab . Changi, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg
+    caption: This one was clasping a bivalve. Changi, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg
+    caption: Empty shells are commonly seen. Changi, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg
+    caption: Shell taken over by a hermit crab . Changi, Apr 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg"
-      caption: "Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg
+    caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg"
-      caption: "Tanah Merah, Aug 09 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg
+    caption: Tanah Merah, Aug 09 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Rarespined murex (
@@ -60,7 +72,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -80,6 +92,10 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- chg
+- tm
+- ecp
 ---
 
 **Where seen?**

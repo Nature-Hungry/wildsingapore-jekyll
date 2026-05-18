@@ -1,9 +1,10 @@
 ---
 title: Bluish y-branch brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bluish, y, branch, brown, seaweed, weed, dictyota, dichotoma, dicyotaceae,
-  phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bluish, y, branch, brown, seaweed, weed, dictyota, dichotoma, 
+  dicyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
@@ -21,32 +22,40 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Feb 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3.jpg"
-      caption: "Labrador, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3.jpg
+    caption: Labrador, Jan 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3.jpg"
-      caption: "Sentosa, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3.jpg"
-      caption: "Sentosa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3.jpg"
-      caption: "Lazarus Island, Feb 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3.jpg
+    caption: Sentosa, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3.jpg
+    caption: Sentosa, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3.jpg
+    caption: Lazarus Island, Feb 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Dictyota dichotoma*](http://www.algaebase.org/search/species/detail/?species_id=60)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
@@ -60,6 +69,15 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
+- tkr
+- laz
+- sji
+- cyr
+- tpg
+- lfa
 ---
 
 **Where seen?**

@@ -1,8 +1,10 @@
 ---
 title: Mini carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 attributes:
 - 6
@@ -21,15 +23,19 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg"
-      caption: "Chek Jawa, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg"
-      caption: "Changi, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+    caption: Chek Jawa, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
+    caption: Changi, May 11
 links_references: |
   **Links**
   - [*Stichodactyla tapetum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=tapetum&subspecies=&synseniorid=106)
@@ -38,12 +44,24 @@ links_references: |
   website by Dr Daphne Fautin with classification, distribution, biological associations and more.
   - [*Stichodactyla tapetum*](http://www.sealifebase.org/summary/Stichodactyla-tapetum.html)
   on SeaLife Base: technical fact sheet.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
   *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species*
   . Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+location:
+- prp
+- chg
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- kus
+- cyr
+- tsm
 ---
 
 **Where seen?**

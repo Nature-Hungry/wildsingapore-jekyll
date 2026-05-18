@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, 
+  guide,
 layout: entry
 shape: blobs
 title: Lumpy pink sponge
@@ -9,38 +11,63 @@ genus: Haliclona
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/040804skdd4135m3.jpg"
-      caption: "Pulau Sekudu, Aug 04"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060812bbd6084m3.jpg"
-      caption: "Beting Bronok, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg
+    caption: Beting Bemban Besar, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/040804skdd4135m3.jpg
+    caption: Pulau Sekudu, Aug 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060812bbd6084m3.jpg
+    caption: Beting Bronok, Aug 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060611cjd2757m3.jpg"
-      caption: "Chek Jawa, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/050112smkd9705m3.jpg"
-      caption: "Pulau Semakau, Jan 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060611cjd2757m3.jpg
+    caption: Chek Jawa, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/050112smkd9705m3.jpg
+    caption: Pulau Semakau, Jan 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100130brkd8525m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/110422tbmd9868m3.jpg"
-      caption: "Terumbu Bemban, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/140811tryjll5m3.jpg"
-      caption: "Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100130brkd8525m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/110422tbmd9868m3.jpg
+    caption: Terumbu Bemban, Apr 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/lumpypink/140811tryjll5m3.jpg
+    caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
 links_references: |
   **Links**
   - [*Haliclona baeri*](http://www.sealifebase.fisheries.ubc.ca/summary/Haliclona-baeri.html)
   on SeaLife Base: technical fact sheet.
   - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- lab
+- snt
+- kus
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,8 +1,10 @@
 ---
 title: Giant clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Cardiidae
 genus: ''
@@ -20,39 +22,59 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are among the largest clams to have existed on Earth! They 'farm' algae in their bodies. The algae provides the clams food. They are globally endangered due to overcollection as a delicacy.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are among the largest clams to have existed on Earth! They 'farm' algae in their bodies. The algae provides the clams food. They are globally endangered due to overcollection as a delicacy.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are among the 
+      largest clams to have existed on Earth! They 'farm' algae in their bodies.
+      The algae provides the clams food. They are globally endangered due to 
+      overcollection as a delicacy.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are among the largest clams to have existed on Earth! They 
+      'farm' algae in their bodies. The algae provides the clams food. They are 
+      globally endangered due to overcollection as a delicacy.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
-      caption: "The Fluted giant clam is usually firmly attached to a hard surface. Sisters Island, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg"
-      caption: "Shell is anchored by a large byssus mass that emerges from a gap at the bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
-      caption: "The Burrowing giant clam are often embedded inside corals. Pulau Hantu, Mar 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+    caption: The Fluted giant clam is usually firmly attached to a hard surface.
+      Sisters Island, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
+    caption: Shell is anchored by a large byssus mass that emerges from a gap at
+      the bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 
+      Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+    caption: The Burrowing giant clam are often embedded inside corals. Pulau 
+      Hantu, Mar 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg"
-      caption: "Burrowing giant clam. Pulau Hantu, Feb 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg"
-      caption: "Fluted giant clam. Pulau Jong, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg"
-      caption: "Burrowing giant clam. Cyrene, Aug 18"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg"
-      caption: "Fluted giant clam. Big Sisters Island, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg"
-      caption: "Fluted giant clam. Terumbu Hantu, Jun 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
+    caption: Burrowing giant clam. Pulau Hantu, Feb 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
+    caption: Fluted giant clam. Pulau Jong, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg
+    caption: Burrowing giant clam. Cyrene, Aug 18
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
+    caption: Fluted giant clam. Big Sisters Island, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
+    caption: Fluted giant clam. Terumbu Hantu, Jun 13
   gallery4:
-    - url: "https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
-      caption: Fluted giant clam
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
-      caption: Burrowing giant clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+    caption: Fluted giant clam
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+    caption: Burrowing giant clam
 links_references: |
   **Links**
   - [Giant Clam (
@@ -81,7 +103,7 @@ links_references: |
   - [Dr Neo Mei Lin's talk about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html)
   (28 May 2020)
   - [Giant clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)
-  
+
   **References**
   - Mei Lin Neo and Peter A. Todd. 25 June 2013.
   *Conservation Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*
@@ -103,6 +125,16 @@ links_references: |
   )?](http://www.springerlink.com/content/q86201023445t0gp/?p=37e63309393a415fa89ff1e5bda94407&pi=0)
   a study of Singapore's fluted giant clams by Mei Lin Neo, Peter A. Todd, Serena Lay-Ming Teo and Loke Ming Chou on Hydrobiologia, Jun 2009.
   - James R. Guest, Peter A. Todd, Eugene Goh, Balasubramaniam S. Sivalonganathan,
+location:
+- snt
+- laz
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

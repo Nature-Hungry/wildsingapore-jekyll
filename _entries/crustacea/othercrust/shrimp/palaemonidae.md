@@ -1,9 +1,10 @@
 ---
 title: Palaemonid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod,
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, 
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -28,24 +29,33 @@ updated: Jan 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
-      caption: "About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg"
-      caption: "About 1cm, a pair seen on a Flowery sea pen . Changi, May 05"
+  - url: 
+      http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+    caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, 
+      Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+    caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
-      caption: "Peacock-tail anemone shrimp"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
-      caption: "Tiny carpet anemone shrimp"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg"
-      caption: "Gelek anemone shrimp"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+    caption: Peacock-tail anemone shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+    caption: Tiny carpet anemone shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+    caption: Gelek anemone shrimp
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg"
-      caption: "Little red nose shrimp"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg"
-      caption: "Machine gun coral shrimp"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg"
-      caption: "Glass shrimp"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+    caption: Little red nose shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
+    caption: Machine gun coral shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+    caption: Glass shrimp
 links_references: |
   **Links**
   - [Glass Shrimp (
@@ -54,7 +64,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Toh Chay Hoon. 20 December 2013.
   *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*
@@ -77,6 +87,28 @@ links_references: |
   - Miyake, Sadayoshi, and Takahiro Fujino. "
   [Pontoniid shrimps from the Palau Islands (Crustacea, Decapoda, Palaemonidae).](http://decapoda.nhm.org/pdfs/26215/26215.pdf)
   " Journal of the Faculty of Agriculture, Kyushu University 14.3 (1968): 399-431.
+location:
+- chg
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **What are Palaemonid shrimps?**

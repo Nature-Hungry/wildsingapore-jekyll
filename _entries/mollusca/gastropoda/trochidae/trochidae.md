@@ -1,8 +1,10 @@
 ---
 title: 'Top shell snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: top, trochidae, gastropod, mollusc, snail, shell, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Trochidae
 genus: ''
@@ -20,22 +22,32 @@ updated: Sep 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg"
-      caption: "The Spotted top shell snail has a large foot with tentacles fringing the body mantle. Labrador, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
-      caption: "The Toothed top shell snail also has a large foot with tentacles fringing the body mantle. St. John's Island, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg"
-      caption: "Tiny button snails have a long mobile foot and tentacles fringing the body mantle. East Coast, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg
+    caption: The Spotted top shell snail has a large foot with tentacles 
+      fringing the body mantle. Labrador, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
+    caption: The Toothed top shell snail also has a large foot with tentacles 
+      fringing the body mantle. St. John's Island, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg
+    caption: Tiny button snails have a long mobile foot and tentacles fringing 
+      the body mantle. East Coast, Aug 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg"
-      caption: Spotted top shell snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg"
-      caption: Toothed top shell snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg"
-      caption: Orange-mouth top shell snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg
+    caption: Spotted top shell snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg
+    caption: Toothed top shell snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
+    caption: Orange-mouth top shell snail
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg"
-      caption: Button snails
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg
+    caption: Button snails
 links_references: |
   **Links**
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
@@ -53,7 +65,7 @@ links_references: |
   - Family Trochidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Toh Chay Hoon, Tan Siong Kiat & Martyn E. Y. Low. 10 January 2014.
   *A record of Stomatella impertusa in Singapore*
@@ -73,6 +85,8 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- jng
 ---
 
 **Where seen?**

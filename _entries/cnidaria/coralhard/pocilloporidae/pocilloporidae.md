@@ -1,8 +1,10 @@
 ---
 title: 'Pocilloporid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Pocilloporidae
 genus: ''
@@ -16,15 +18,19 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg"
-      caption: "Labrador, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg"
-      caption: "Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+    caption: Labrador, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+    caption: Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -35,7 +41,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
   - [Family Pocilloporidae](http://www.iucnredlist.org/apps/redlist/search)
   (enter Pocilloporidae in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -58,6 +64,23 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

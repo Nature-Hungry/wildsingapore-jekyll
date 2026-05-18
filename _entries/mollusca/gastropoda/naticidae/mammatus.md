@@ -1,43 +1,54 @@
 ---
 title: 'Bosom moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bosom, breast, shaped, moon, snail, shell, polinices, mammatus, naticidae,
-  gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bosom, breast, shaped, moon, snail, shell, polinices, mammatus, 
+  naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Polinices
 species: mammatus
 attributes: []
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg"
-      caption: "Pulau Hantu, Mar 22"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt1.jpg"
-      caption: "Pulau Hantu, Mar 22"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt3.jpg"
-      caption: "Pulau Hantu, Mar 22"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
+    caption: Pulau Hantu, Mar 22
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt1.jpg
+    caption: Pulau Hantu, Mar 22
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt3.jpg
+    caption: Pulau Hantu, Mar 22
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5821m3.jpg"
-      caption: "This one seemed to be dying. Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg"
-      caption: "This one seemed to be dying. Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130624chg.jpg"
-      caption: "Living snail, body is huge. Changi, Jun 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5821m3.jpg
+    caption: This one seemed to be dying. Changi, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
+    caption: This one seemed to be dying. Changi, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130624chg.jpg
+    caption: Living snail, body is huge. Changi, Jun 13
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/200706skdlks8.jpg"
-      caption: "Pulau Sekudu, Jul 20 Photo by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1.jpg"
-      caption: "East Coast (G), Dec 22"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg"
-      caption: Photo by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/200706skdlks8.jpg
+    caption: Pulau Sekudu, Jul 20 Photo by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1.jpg
+    caption: East Coast (G), Dec 22
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg
+    caption: Photo by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [*Polinices mammatus*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381338&GenusName=Polinices&SpeciesName=mammatus)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -45,6 +56,12 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- skd
+- ecp
+- lab
+- hnt
 ---
 
 **Where seen?**

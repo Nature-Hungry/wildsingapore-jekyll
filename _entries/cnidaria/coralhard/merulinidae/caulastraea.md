@@ -1,9 +1,10 @@
 ---
 title: Trumpet coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: trumpet, caulastraea, faviidae, merulinidae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: trumpet, caulastraea, faviidae, merulinidae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Caulastraea
@@ -17,27 +18,37 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg"
-      caption: "Kusu Island, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+    caption: Kusu Island, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg"
-      caption: "Raffles Lighthouse, Jul 06 Tentacles peeping out."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg"
-      caption: "Kusu Island, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg"
-      caption: "Beting Bemban Besar, Jun 09 Trumpet shaped corallites."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
+    caption: Raffles Lighthouse, Jul 06 Tentacles peeping out.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
+    caption: Kusu Island, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
+    caption: Beting Bemban Besar, Jun 09 Trumpet shaped corallites.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG"
-      caption: "Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg"
-      caption: "Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
+    caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
+      .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -50,7 +61,7 @@ links_references: |
   and
   *[Caulastrea furcata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46674)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -64,6 +75,20 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- tm
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

@@ -1,8 +1,9 @@
 ---
 title: Barracudas
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -23,31 +24,42 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Centropomoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg"
-      caption: "Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg"
-      caption: "St John's Island, Nov 15 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+    caption: Tanah Merah, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
+    caption: St John's Island, Nov 15 Photo shared by Marcus Ng on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg"
-      caption: "Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg"
-      caption: Upper and lower jaws about the same length.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
+    caption: Pulau Semakau, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
+    caption: Upper and lower jaws about the same length.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg"
-      caption: "Kusu Island, May 10 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg"
-      caption: "Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
+    caption: Kusu Island, May 10 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
+    caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg"
-      caption: "Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg"
-      caption: "Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
+    caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
+    caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg"
-      caption: "Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
+    caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352.md)
@@ -71,7 +83,7 @@ links_references: |
   : Technical fact sheet.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Zeehan Jaafar.
   *Great barracuda at Sisters’ Islands Marine Park*
@@ -88,6 +100,17 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- tm
+- ecp
+- lab
+- kus
+- sji
+- sis
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

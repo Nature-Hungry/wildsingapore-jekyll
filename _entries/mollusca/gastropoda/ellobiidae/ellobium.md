@@ -1,9 +1,10 @@
 ---
 title: Belongkeng snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ellobium, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ellobium, belongkeng, snail, ellobiidae, gastropod, mollusc, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: Ellobium
@@ -22,39 +23,53 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Ellobiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg"
-      caption: "Pasir Ris, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
+    caption: Pasir Ris, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg"
-      caption: "Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
+    caption: Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg"
-      caption: "Pandan mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg
+    caption: Pandan mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg"
-      caption: "Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG"
-      caption: "Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg
+    caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG
+    caption: Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.md)
@@ -84,7 +99,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -95,6 +110,14 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- lck
+- prp
+- chg
+- ubn
+- cj
+- smk
 ---
 
 **Where seen?**

@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: elegant, branching, sponge, haliclona, chalinidae, porifera, field, guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: elegant, branching, sponge, haliclona, chalinidae, porifera, field, 
+  guide,
 layout: entry
 shape: branching
 title: Elegant branching sponge
@@ -16,29 +18,46 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060613ecpd3003m3.jpg"
-      caption: "East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/030520bbd0015m3.jpg"
-      caption: "Beting Bronok, May 03"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060516chgd2019m3.jpg"
-      caption: "Changi, May 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060613ecpd3003m3.jpg
+    caption: East Coast, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/030520bbd0015m3.jpg
+    caption: Beting Bronok, May 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060516chgd2019m3.jpg
+    caption: Changi, May 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/160125obslks1.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/160125obslks1.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
   on SeaLife Base: technical fact sheet.
   - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- lab
+- snt
 ---
 
 **Where seen?**

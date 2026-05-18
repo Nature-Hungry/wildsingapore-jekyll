@@ -1,9 +1,10 @@
 ---
 title: Oriental sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae, pleuronectiformes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae,
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,45 +25,60 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg"
-      caption: "Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m6l.jpg"
-      caption: "East Coast Park, Jun 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
+    caption: Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m6l.jpg
+    caption: East Coast Park, Jun 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4980m3.jpg"
-      caption: "Underside: Tail fin joined to the dorsal and anal fins ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg"
-      caption: Eyes on the right side with small curved mouth.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/110705chgL1060441m3.jpg"
-      caption: "Often seen trapped in fishing nets. Changi, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4980m3.jpg
+    caption: 'Underside: Tail fin joined to the dorsal and anal fins .'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+    caption: Eyes on the right side with small curved mouth.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/110705chgL1060441m3.jpg
+    caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/100116cjlks.JPG"
-      caption: "Chek Jawa, Jan 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/240625bbky1.jpg"
-      caption: "Beting Bronok, Jun 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/100116cjlks.JPG
+    caption: Chek Jawa, Jan 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/240625bbky1.jpg
+    caption: Beting Bronok, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250501skdlks2.jpg"
-      caption: "Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250501skdlks2.jpg
+    caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/211108ecpjll3.jpg"
-      caption: "East Coast Park, Nov 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/211108ecpjll3.jpg
+    caption: East Coast Park, Nov 21 Photo shared by Jianlin Liu on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090712kusjkm6l.jpg"
-      caption: "Kusu Island, Jul 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090712kusjkm6l.jpg
+    caption: Kusu Island, Jul 09 Photo shared by James Koh on his blog .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250430sjiml1.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Mathias Luk on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250430sjiml1.jpg
+    caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250331hntrg3.jpg"
-      caption: "Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/180715thnjll1.jpg"
-      caption: "Terumbu Hantu, Jul 18 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250331hntrg3.jpg
+    caption: Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/180715thnjll1.jpg
+    caption: Terumbu Hantu, Jul 18 Photo shared by Jianlin Liu on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg"
-      caption: "Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg
+    caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
 links_references: |
   **Links**
   - [Oriental Sole (
@@ -79,6 +95,15 @@ links_references: |
   : Technical fact sheet.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+location:
+- chg
+- cj
+- skd
+- ecp
+- kus
+- sji
+- hnt
+- tsm
 ---
 
 **Where seen?**

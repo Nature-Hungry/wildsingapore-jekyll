@@ -1,9 +1,10 @@
 ---
 title: Luidia sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, asteroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, 
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Luidiidae
 genus: Luidia
@@ -18,43 +19,57 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
-      caption: "Long, narrow arms. Changi, Aug 08."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg"
-      caption: "In spawning position? East Coast, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190620chgm3.jpg"
-      caption: "Sometimes, many are seen together. Changi, Jun 2019"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+    caption: Long, narrow arms. Changi, Aug 08.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
+    caption: In spawning position? East Coast, Dec 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190620chgm3.jpg
+    caption: Sometimes, many are seen together. Changi, Jun 2019
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
-      caption: Five-armed Luidia sea star 5-8cm in diameter Usually 5 arms.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg"
-      caption: "Pointed tube feet: transparent."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3d.jpg"
-      caption: "Flat-topped, pillar-like structures called paxillae."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+    caption: Five-armed Luidia sea star 5-8cm in diameter Usually 5 arms.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
+    caption: 'Pointed tube feet: transparent.'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3d.jpg
+    caption: Flat-topped, pillar-like structures called paxillae.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg"
-      caption: "Six-armed Luidia sea star 8-10cm in diameter 5-6 arms, usually 6."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg"
-      caption: "Pointed tube feet: yellow or orange."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg"
-      caption: "Flat-topped, pillar-like structures called paxillae."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+    caption: Six-armed Luidia sea star 8-10cm in diameter 5-6 arms, usually 6.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
+    caption: 'Pointed tube feet: yellow or orange.'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
+    caption: Flat-topped, pillar-like structures called paxillae.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg"
-      caption: "Eight-armed Luidia sea star 12-20cm in diameter 6-9 arms, usually 8."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg"
-      caption: "Pointed tube feet: transparent."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg"
-      caption: "Flat-topped, pillar-like structures called paxillae."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+    caption: Eight-armed Luidia sea star 12-20cm in diameter 6-9 arms, usually 
+      8.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
+    caption: 'Pointed tube feet: transparent.'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
+    caption: Flat-topped, pillar-like structures called paxillae.
 links_references: |
   **Links**
   - [Learning about
   *Luidia*
   ! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html)
   by Dr Christopher Mah on Echinoblog.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
@@ -62,6 +77,9 @@ links_references: |
   - Didier VandenSpiegel et al. 1998.
   [The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2046(2)/46rbz431-470.pdf)
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+location:
+- chg
+- ubn
 ---
 
 **Where seen?**

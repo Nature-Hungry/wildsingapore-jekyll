@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: purple, branching, sponge, callyspongia, callyspongiidae, porifera, field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: purple, branching, sponge, callyspongia, callyspongiidae, porifera, 
+  field,
 layout: entry
 shape: branching
 title: Purple branching sponge
@@ -16,36 +18,55 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg"
-      caption: "Sometimes draped with synaptid sea cucumbers Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/020228cjcpd7746m3.jpg"
-      caption: "Chek Jawa, Feb 02"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3a.jpg"
-      caption: "Pulau Sekudu, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
+    caption: Sometimes draped with synaptid sea cucumbers Chek Jawa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/020228cjcpd7746m3.jpg
+    caption: Chek Jawa, Feb 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3a.jpg
+    caption: Pulau Sekudu, Jan 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/040620skdd0755m3.jpg"
-      caption: "Pulau Sekudu, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/031223tused0056m3.jpg"
-      caption: "Tuas, Dec 03"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060723skdd4782m3.jpg"
-      caption: "Pulau Sekudu, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/040620skdd0755m3.jpg
+    caption: Pulau Sekudu, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/031223tused0056m3.jpg
+    caption: Tuas, Dec 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060723skdd4782m3.jpg
+    caption: Pulau Sekudu, Jul 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/210529epcnvc11.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchpurple/210529epcnvc11.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook 
+      ..
 links_references: |
   **Links**
   - [*Callyspongia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2640)
   on SeaLife Base: technical fact sheet.
   - [*Callyspongia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131825)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
 ---
 
 ******

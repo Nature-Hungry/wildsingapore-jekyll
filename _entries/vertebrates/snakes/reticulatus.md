@@ -1,9 +1,10 @@
 ---
 title: 'Reticulated python '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: broghammerus, malayopython, python, reticulated, reticulatus, pythonidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: broghammerus, malayopython, python, reticulated, reticulatus, 
+  pythonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pythonidae
 genus: Broghammerus
@@ -18,13 +19,16 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, May 02"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, May 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, May 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
+    caption: Sungei Buloh Wetland Reserve, May 02
 links_references: |
   **Links**
   - [Reticulated pythons](http://singaporesnakes.blogspot.com/search/label/Reticulated%20Python)
@@ -37,7 +41,7 @@ links_references: |
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Python reticulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Python%20reticulatus.html)
   (Squamata: Pythonidae) Reticulated Python by Johanna Johan Adam Chin, 2011 on taxo4254.
-  
+
   **References**
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
   *A Guide to the Amphibians and Reptiles of Singapore*
@@ -51,6 +55,8 @@ links_references: |
   - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
   *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
   New Holland. pp 144.
+location:
+- sbw
 ---
 
 **Where seen?**

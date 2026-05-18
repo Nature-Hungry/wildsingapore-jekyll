@@ -1,9 +1,11 @@
 ---
 title: Black phyllid nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, phyllid, phyllidiella, phyllidia, nigra, phyllidiidae, nudibranchia,
-  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, phyllid, phyllidiella, phyllidia, nigra, phyllidiidae, 
+  nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,72 +30,109 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg"
-      caption: "Kusu Island, Feb 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3b.jpg"
-      caption: Milky substance secreted when disturbed.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3a.jpg"
-      caption: Short black rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+    caption: Kusu Island, Feb 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3b.jpg
+    caption: Milky substance secreted when disturbed.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3a.jpg
+    caption: Short black rhinophores.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/060312hntd0298.jpg"
-      caption: "Underside plain (no stripe or markings). Pulau Hantu, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg"
-      caption: "A pair of oral tentacles on the underside. Sisters Island, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3b.jpg"
-      caption: Gills hidden under the body.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/060312hntd0298.jpg
+    caption: Underside plain (no stripe or markings). Pulau Hantu, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+    caption: A pair of oral tentacles on the underside. Sisters Island, May 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3b.jpg
+    caption: Gills hidden under the body.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/200625tbdc4.jpg"
-      caption: "'Hole' from where it just fed? Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/220419sjijt4.jpg"
-      caption: "Mating? St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/200625tbdc4.jpg
+    caption: "'Hole' from where it just fed? Terumbu Bemban, Jun 20 Photo shared by
+      Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/220419sjijt4.jpg
+    caption: Mating? St. John's Island, Apr 22 Photo shared by Jonathan Tan on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210628ecpBlks8.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/080607sntlksm3.jpg"
-      caption: "Sentosa, Jul 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210401sntjk1.jpg"
-      caption: "Sentosa Tg Rimau, Apr 21 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210628ecpBlks8.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/080607sntlksm3.jpg
+    caption: Sentosa, Jul 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210401sntjk1.jpg
+    caption: Sentosa Tg Rimau, Apr 21 Photo shared by James Koh on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/260217bsislks4.jpg"
-      caption: "Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110619tslglks1m3.JPG"
-      caption: "Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/130511hntlks.JPG"
-      caption: "Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/260217bsislks4.jpg
+    caption: Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110619tslglks1m3.JPG
+    caption: Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/130511hntlks.JPG
+    caption: Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160424smknjll3.jpg"
-      caption: "Pulau Semakau (North), Apr 16 Photo shared by Jialin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/090111smklksp14m3.jpg"
-      caption: "Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160625tkklks2.jpg"
-      caption: "Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160424smknjll3.jpg
+    caption: Pulau Semakau (North), Apr 16 Photo shared by Jialin Liu on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/090111smklksp14m3.jpg
+    caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160625tkklks2.jpg
+    caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tsmjk4m3.jpg"
-      caption: "Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100519tsmklks8m3.jpg"
-      caption: "Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110717tbd7170m3.jpg"
-      caption: "Terumbu Bemban, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tsmjk4m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100519tsmklks8m3.jpg
+    caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110717tbd7170m3.jpg
+    caption: Terumbu Bemban, Jul 11
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160806tpllks8.jpg"
-      caption: "Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100403tbblks8m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tblks1m3.jpg"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160806tpllks8.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100403tbblks8m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tblks1m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr 
+      .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/150620tbmn4m3.jpg"
-      caption: "Terumbu Bemban, Jun 15 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/141109lazlks1m3.jpg"
-      caption: "Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/150620tbmn4m3.jpg
+    caption: Terumbu Bemban, Jun 15 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/141109lazlks1m3.jpg
+    caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100130brklks11m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210428slulks2.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100130brklks11m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210428slulks2.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -102,7 +141,7 @@ links_references: |
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
   by Uma Sachidhanandam: Photo and distribution
   *[Phyllidelia nigra](http://rmbr.nus.edu.sg/nudibranch/nudipages/nigra.html)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -113,6 +152,22 @@ links_references: |
   - Coleman, Neville. 2001.
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
   . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- ecp
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

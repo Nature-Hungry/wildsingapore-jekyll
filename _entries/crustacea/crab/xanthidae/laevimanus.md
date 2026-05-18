@@ -1,9 +1,10 @@
 ---
 title: 'Smooth spooner crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: smooth, spoon, pincer, crab, etisus, laevimanus, xanthidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: smooth, spoon, pincer, crab, etisus, laevimanus, xanthidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,72 +32,103 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Etisinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg"
-      caption: "Pincers long, smooth (not bumpy). Pulau Sekudu, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3a.jpg"
-      caption: Tips of the pincers are spoon-shaped.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3.jpg
+    caption: Pincers long, smooth (not bumpy). Pulau Sekudu, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/050621skdg7894m3a.jpg
+    caption: Tips of the pincers are spoon-shaped.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/100627hntd7325m3.jpg"
-      caption: "A mating pair. Pulau Hantu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/051204sisg3326m3.jpg"
-      caption: "Sisters Island, Dec 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/080422smkd1541m3.jpg"
-      caption: "Pulau Semakau, Apr 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/100627hntd7325m3.jpg
+    caption: A mating pair. Pulau Hantu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/051204sisg3326m3.jpg
+    caption: Sisters Island, Dec 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/080422smkd1541m3.jpg
+    caption: Pulau Semakau, Apr 08
   gallery3:
-    - url: "https://live.staticflickr.com/31337/47109187824_2d886ae736_z.jpg"
-      caption: "Crab eating, Terumbu Pempang Laut, May 2019"
+  - url: https://live.staticflickr.com/31337/47109187824_2d886ae736_z.jpg
+    caption: Crab eating, Terumbu Pempang Laut, May 2019
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/200807chg7ky1.jpg"
-      caption: "Changi, Aug 20 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/251208chgrk8.jpg"
-      caption: "Changi, Dec 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/160706skdrl1.jpg"
-      caption: "Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/200807chg7ky1.jpg
+    caption: Changi, Aug 20 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/251208chgrk8.jpg
+    caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/160706skdrl1.jpg
+    caption: Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/241020hntjk3.jpg"
-      caption: "Pulau Hantu, Oct 24 Photo shared by James Koh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/120119smklks.JPG"
-      caption: "Pulau Semakau, Jan 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/240708smkell1.jpg"
-      caption: "Pulau Semakau, Jan 12 Photo shared by Liz Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/241020hntjk3.jpg
+    caption: Pulau Hantu, Oct 24 Photo shared by James Koh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/120119smklks.JPG
+    caption: Pulau Semakau, Jan 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/240708smkell1.jpg
+    caption: Pulau Semakau, Jan 12 Photo shared by Liz Lim on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/210823smkevc1.jpg"
-      caption: "Pulau Semaka (East), Aug 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250713tryjk3.jpg"
-      caption: "Terumbu Raya, Jul 25 Photo shared by Jayden Kang on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/210823smkevc1.jpg
+    caption: Pulau Semaka (East), Aug 21 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250713tryjk3.jpg
+    caption: Terumbu Raya, Jul 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/230221tryky2.jpg"
-      caption: "Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/140202tryrl.jpg"
-      caption: "Terumbu Raya, Feb 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250812tbtt1.jpg"
-      caption: "Terumbu Bemban, Aug 25 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/230221tryky2.jpg
+    caption: Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/140202tryrl.jpg
+    caption: Terumbu Raya, Feb 14 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250812tbtt1.jpg
+    caption: Terumbu Bemban, Aug 25 Photo shared by Tommy Tan on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110605tsmkmn.jpg"
-      caption: "Terumbu Semakau, Jun 11 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110605tsmkmn.jpg
+    caption: Terumbu Semakau, Jun 11 Photo shared by Marcus Ng on flickr .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/141108bbbmn4m3.jpg"
-      caption: "Beting Bemban Besar, Dec 14 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/251008bbbky3.jpg"
-      caption: "Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/141108bbbmn4m3.jpg
+    caption: Beting Bemban Besar, Dec 14 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/251008bbbky3.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110423tpllks13m3.jpg"
-      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250712tplmn4.jpg"
-      caption: "Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110423tpllks13m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250712tplmn4.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook 
+      .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110517tptlks18m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250515tptll1.jpg"
-      caption: "Terumbu Pempang Tengah, May 25 Photo shared by Liz Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/110517tptlks18m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/250515tptll1.jpg
+    caption: Terumbu Pempang Tengah, May 25 Photo shared by Liz Lim on facebook 
+      .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/220201brkvc6.jpg"
-      caption: "Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/100613snglks2m3.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/220201brkvc6.jpg
+    caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/100613snglks2m3.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: |
   **Links**
   - [Common Rock Crab (
@@ -107,7 +139,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Etisus laevimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1336)
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
@@ -115,6 +147,20 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- chg
+- cj
+- skd
+- snt
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

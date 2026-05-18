@@ -1,9 +1,10 @@
 ---
 title: Mangrove murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, snail,
-  shell,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, 
+  snail, shell,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Chicoreus
@@ -19,22 +20,29 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg"
-      caption: "Pasir Ris Park, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg"
-      caption: "Pasir Ris Park, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg"
-      caption: "Sungei Buloh, Mar 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+    caption: Pasir Ris Park, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
+    caption: Pasir Ris Park, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
+    caption: Sungei Buloh, Mar 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg"
-      caption: "Kranji Nature Trail, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg"
-      caption: "Egg capsules?"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg"
-      caption: "Feeding on Little black mussels ? Lim Chu Kang, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
+    caption: Kranji Nature Trail, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
+    caption: Egg capsules?
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
+    caption: Feeding on Little black mussels ? Lim Chu Kang, Aug 05
 links_references: |
   **Links**
   - [Drill (
@@ -53,7 +61,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Chicoreus capucinus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=105096)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 June 2020.
   *Comparison of juvenile and adult mangrove murex, Chicoreus capucinus*
@@ -67,6 +75,12 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- lck
+- prp
+- cj
+- smk
 ---
 
 **Where seen?**

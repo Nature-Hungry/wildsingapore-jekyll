@@ -1,9 +1,10 @@
 ---
 title: 'Volutes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Volutidae
 genus: ''
@@ -18,37 +19,59 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Volutoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are among the large snails you might see on our shores. They are carnivores. Their prey include smaller snails living beneath the sand! Many volutes are threatened by over-collection as food and for their shells.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are among the large snails you might see on our shores. They are carnivores. Their prey include smaller snails living beneath the sand! Many volutes are threatened by over-collection as food and for their shells.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are among the large 
+      snails you might see on our shores. They are carnivores. Their prey 
+      include smaller snails living beneath the sand! Many volutes are 
+      threatened by over-collection as food and for their shells.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are among the large snails you might see on our shores. They 
+      are carnivores. Their prey include smaller snails living beneath the sand!
+      Many volutes are threatened by over-collection as food and for their 
+      shells.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg"
-      caption: "Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog."
-    - url: "http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg"
-      caption: "Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+    caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared 
+      by Toh Chay Hoon on her blog.
+  - url: 
+      http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
+    caption: Noble volute hunting down a Big brown mactra clam that eventually 
+      escaped. Pulau Semakau, Mar 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg"
-      caption: "A smaller Baler volute riding on the back of a bigger one. Prelude to mating? Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg"
-      caption: "Noble volute laying egg capsules Pulau Semakau, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg"
-      caption: "Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg
+    caption: A smaller Baler volute riding on the back of a bigger one. Prelude 
+      to mating? Beting Bronok, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg
+    caption: Noble volute laying egg capsules Pulau Semakau, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
+    caption: Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay 
+      Hoon on her flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/cephalopoda/bigseagrass/130624chg7d7811.jpg"
-      caption: "Octopus hiding inside an empty Noble volute shell. Changi, Jun 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg"
-      caption: "Hermit crab and Slipper snails living in an empty Baler volute shell. Pasir Ris, May 09"
+  - url: 
+      http://www.wildsingapore.com/cephalopoda/bigseagrass/130624chg7d7811.jpg
+    caption: Octopus hiding inside an empty Noble volute shell. Changi, Jun 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg
+    caption: Hermit crab and Slipper snails living in an empty Baler volute 
+      shell. Pasir Ris, May 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg"
-      caption: Noble volute
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg"
-      caption: Noble volute
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg"
-      caption: Baler volute
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg
+    caption: Noble volute
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg
+    caption: Noble volute
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg
+    caption: Baler volute
 links_references: |
   **Links**
   - [Melon or Baler Shell (
@@ -66,7 +89,7 @@ links_references: |
   - Family Volutidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -83,6 +106,19 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- ecp
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

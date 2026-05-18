@@ -1,9 +1,10 @@
 ---
 title: Rivulines
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae,
-  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, 
+  aplocheilidae, fish, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,13 +24,16 @@ superorder: Acanthomorpha
 order: Cyprinodontiformes
 suborder: Aplocheiloidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg"
-      caption: "Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg"
-      caption: "Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
+    caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg
+    caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
 links_references: |
   **Links**
   - [Whitespot/Tinhead (
@@ -60,7 +64,7 @@ links_references: |
   : Technical fact sheet.
   - [*Aplocheilus panchax*](http://www.iucnredlist.org/details/166477/0)
   on the IUCN Red List website.
-  
+
   **References**
   - Yeo, D. C. J. & K. K. P. Lim. 25 November 2010.
   *Aplocheilus lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes: Aplocheilidae) in Singapore*
@@ -68,6 +72,7 @@ links_references: |
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
+location: []
 ---
 
 **What are Rivulines?**

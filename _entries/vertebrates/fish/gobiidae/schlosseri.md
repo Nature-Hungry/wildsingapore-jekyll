@@ -1,9 +1,10 @@
 ---
 title: Giant mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: giant, mudskipper, mud, skipper, fish, periophthalmodon, schlosseri, gobiidae,
-  goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: giant, mudskipper, mud, skipper, fish, periophthalmodon, schlosseri, 
+  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,32 +27,48 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... It is the largest mudskipper seen in Singapore. It creates an impressive 'swimming pool' and often found near it. It has a different body pattern at night than during the daytime.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: It is the largest mudskipper seen in Singapore. It creates an impressive 'swimming pool' and often found near it. It has a different body pattern at night than during the daytime.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... It is the largest 
+      mudskipper seen in Singapore. It creates an impressive 'swimming pool' and
+      often found near it. It has a different body pattern at night than during 
+      the daytime.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is the largest mudskipper seen in Singapore. It creates an 
+      impressive 'swimming pool' and often found near it. It has a different 
+      body pattern at night than during the daytime.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg"
-      caption: "Night pattern: additional dark bars. Pasir Risk Park, Dec 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg"
-      caption: "Day pattern: dark stripe along the body. Pasir Ris Park, Feb 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+    caption: 'Night pattern: additional dark bars. Pasir Risk Park, Dec 12'
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg
+    caption: 'Day pattern: dark stripe along the body. Pasir Ris Park, Feb 12'
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg"
-      caption: "A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland Reserve, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg"
-      caption: "Swirling at the base of the pool face down. Sungei Buloh Wetland Reserve, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg"
-      caption: Then spitting out a mouthful of mud.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
+    caption: A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland 
+      Reserve, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg
+    caption: Swirling at the base of the pool face down. Sungei Buloh Wetland 
+      Reserve, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg
+    caption: Then spitting out a mouthful of mud.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg"
-      caption: "Pasir Ris Park, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg"
-      caption: The poor fish often a target of mosquitoes!
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg
+    caption: Pasir Ris Park, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg
+    caption: The poor fish often a target of mosquitoes!
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Giant mudskipper (
@@ -82,7 +99,7 @@ links_references: |
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
-  
+
   **References**
   - Tan Heok Hui and Theresa Su . 28 Oct 2016.
   *Possible courtship behaviour of the giant mudskipper*
@@ -94,6 +111,11 @@ links_references: |
   *Giant mudskipper preying on crab-eating water snake*
   . Singapore Biodiversity Records 2015: 163
   - S.Z. Zulkifli, F. Mohamat-Yusuff, A. Ismail, N. Miyazaki. 30 April 2012.
+location:
+- sbw
+- prp
+- chg
+- cj
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

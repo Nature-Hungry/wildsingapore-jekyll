@@ -1,9 +1,10 @@
 ---
 title: Red mangrove flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: red, mangrove, flat, worm, flatworm, limnostylochus, limnostylochidae, polyclad,
-  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: red, mangrove, flat, worm, flatworm, limnostylochus, limnostylochidae,
+  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Limnostylochidae
 genus: Limnostylochus
@@ -17,29 +18,39 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Acotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg"
-      caption: "Lim Chu Kang, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090613admd4137m3a.jpg"
-      caption: "Admiralty Park, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/110406sbbs08815m6l.jpg"
-      caption: "Sungei Buloh Besar, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/070809cjtch.jpg"
-      caption: "Chek Jawa, Aug 07 Photo shared by Toh Chay Hoon on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/101226krjd4182m3.jpg"
-      caption: "Kranji Nature Trail, Dec 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090411lckd9444m3.jpg
+    caption: Lim Chu Kang, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/090613admd4137m3a.jpg
+    caption: Admiralty Park, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/110406sbbs08815m6l.jpg
+    caption: Sungei Buloh Besar, Apr 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/070809cjtch.jpg
+    caption: Chek Jawa, Aug 07 Photo shared by Toh Chay Hoon on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/101226krjd4182m3.jpg
+    caption: Kranji Nature Trail, Dec 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251200admrqo6.jpg"
-      caption: "Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/260124spsrqo1.jpg"
-      caption: "Sg Pang Sua, Jan 26 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251200admrqo6.jpg
+    caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/260124spsrqo1.jpg
+    caption: Sg Pang Sua, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251229prprqo1.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251231prprqo2.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251229prprqo1.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/limnostylochus/251231prprqo2.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: |
   **Links**
   - [Mangrove flatworms](http://mangrove.nus.edu.sg/guidebooks/text/2002.md)
@@ -47,11 +58,16 @@ links_references: |
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.
-  
+
   **References**
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
   Nature in Singapore 2018 11: 77–125.
+location:
+- sbw
+- lck
+- prp
+- cj
 ---
 
 **Where seen?**

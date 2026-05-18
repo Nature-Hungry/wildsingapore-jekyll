@@ -1,9 +1,10 @@
 ---
 title: Boulder sandpaper coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: boulder, sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard,
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: boulder, sandpaper, psammocora, siderastreidae, psammocoridae, coral, 
+  hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Psammocoridae
 genus: Psammocora
@@ -17,39 +18,73 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg"
-      caption: "Pulau Sekudu, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg"
-      caption: Polygonal ridges. Granular surface giving their common name of Sandpaper coral.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg"
-      caption: A closer look at the tiny corallites that form petal-like shapes like a flower.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+    caption: Pulau Sekudu, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
+    caption: Polygonal ridges. Granular surface giving their common name of 
+      Sandpaper coral.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
+    caption: A closer look at the tiny corallites that form petal-like shapes 
+      like a flower.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8618m3.jpg"
-      caption: "Labrador, Jun 05 Angular bumps."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/070406hntg8483m3.jpg"
-      caption: "Pulau Hantu, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050411tusd2323m3.jpg"
-      caption: "Tuas, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8618m3.jpg
+    caption: Labrador, Jun 05 Angular bumps.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/070406hntg8483m3.jpg
+    caption: Pulau Hantu, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050411tusd2323m3.jpg
+    caption: Tuas, Apr 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/170626skdlks5.jpg"
-      caption: "Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/130821cjlks4m3.jpg"
-      caption: "Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/170626skdlks5.jpg
+    caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/130821cjlks4m3.jpg
+    caption: Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/250529cjlk3a.jpg"
-      caption: "Chek Jawa, May 2025"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/250529cjlk3b.jpg"
-      caption: Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/250529cjlk3a.jpg
+    caption: Chek Jawa, May 2025
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/250529cjlk3b.jpg
+    caption: Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/090726tmlks3m3.jpg"
-      caption: "Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/220618tmftdc3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/220618tmftdc5.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/090726tmlks3m3.jpg
+    caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/220618tmftdc3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/220618tmftdc5.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on 
+      facebook .
+location:
+- cj
+- skd
+- tus
+- tm
+- lab
+- snt
+- tkr
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- rfl
 ---
 
 **Where seen?**

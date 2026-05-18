@@ -1,9 +1,10 @@
 ---
 title: Pock-marked  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plesiastreidae
 genus: Plesiastrea
@@ -17,7 +18,8 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
 links_references: |
   **Links**
   - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306) on Corals of the World online on the
@@ -30,7 +32,7 @@ links_references: |
     Portal: Technical fact sheet.
   - [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal) on
     SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei
     Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
@@ -42,32 +44,68 @@ links_references: |
     Jen. 2000. *Corals
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg"
-      caption: "Tuas, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+    caption: Tuas, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg"
-      caption: "Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg
+    caption: Chek Jawa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg"
-      caption: "Terumbu Bukom, Nov 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg"
-      caption: "Labrador, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg"
-      caption: "Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg
+    caption: Terumbu Bukom, Nov 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg
+    caption: Labrador, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg
+    caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg"
-      caption: "Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg
+    caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
+    caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
   gallery5:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Plesiastrea versipora on Corals of the World online on the Australian Institute of Marine Science website: Technical fact sheet. Plesiastrea versipora on the IUCN Red List of Threatened Species website: Technical fact sheet. Plesiastrea versipora on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet. Plesiastrea versipora on SeaLife Base: Technical fact sheet. References Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80. Veron, Jen. 2000. Corals of the World Australian Institute of Marine Science, Australia. 3 volumes. Chou, L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages. Erhardt, Harry and Daniel Knop. 2005. Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 305 pp. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry and Natural History T.F. H Publications. 464 pp"
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Plesiastrea versipora on Corals of the World online on the Australian
+      Institute of Marine Science website: Technical fact sheet. Plesiastrea versipora
+      on the IUCN Red List of Threatened Species website: Technical fact sheet. Plesiastrea
+      versipora on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+      Portal: Technical fact sheet. Plesiastrea versipora on SeaLife Base: Technical
+      fact sheet. References Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter
+      A. Todd. 30 Dec 2009. An inventory of zooxanthellate sclerectinian corals in
+      Singapore including 33 new records (pdf). Raffles Bulletin of Zoology Supplement
+      No. 22: 69-80. Veron, Jen. 2000. Corals of the World Australian Institute of
+      Marine Science, Australia. 3 volumes. Chou, L. M., 1998. A Guide to the Coral
+      Reef Life of Singapore . Singapore Science Centre. 128 pages. Erhardt, Harry
+      and Daniel Knop. 2005. Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv,
+      Frankfurt. 305 pp. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry
+      and Natural History T.F. H Publications. 464 pp'
+location:
+- cj
+- skd
+- tus
+- ecp
+- lab
+- snt
+- laz
+- sji
+- sis
+- cyr
+- tsm
 ---
 
 **Where seen?**

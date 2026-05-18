@@ -1,8 +1,10 @@
 ---
 title: 'Basket star '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -23,58 +25,80 @@ infraclass: Metophiurida
 superorder: Euryophiurida
 order: Euryalida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg"
-      caption: "Sisters Island, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3.jpg"
-      caption: Upper side.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
+    caption: Sisters Island, Jan 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3.jpg
+    caption: Upper side.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3a.jpg"
-      caption: Conical structures at the end of tendrils.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3a.jpg
+    caption: Conical structures at the end of tendrils.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3.jpg"
-      caption: "On a sea fan growing on a jetty leg. Beting Bronok, Jul 13."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3.jpg"
-      caption: "On a Flowery soft coral . Beting Bronok, Jul 13."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk5m3.jpg"
-      caption: "On seagrass. Pulau Hantu, Nov 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3.jpg
+    caption: On a sea fan growing on a jetty leg. Beting Bronok, Jul 13.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3.jpg
+    caption: On a Flowery soft coral . Beting Bronok, Jul 13.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk5m3.jpg
+    caption: On seagrass. Pulau Hantu, Nov 09 Photo shared by James Koh on his 
+      blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2a.jpg"
-      caption: "Changi CP7, Jan 21"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2b.jpg"
-      caption: Photo shared by Vincent Choo on facebook .
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210724chgjll1.jpg"
-      caption: "Changi, Jul 21 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2a.jpg
+    caption: Changi CP7, Jan 21
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2b.jpg
+    caption: Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210724chgjll1.jpg
+    caption: Changi, Jul 21 Photo shared by Jianlin Liu on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch4m3.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks5m3.jpg"
-      caption: "Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks1.jpg"
-      caption: "Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch4m3.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks5m3.jpg
+    caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks1.jpg
+    caption: Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11.jpg"
-      caption: "Beting Bronok, Jun 18"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11b.jpg"
-      caption: Photo shared by Loh Kok Sheng on facebook .
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11.jpg
+    caption: Beting Bronok, Jun 18
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11b.jpg
+    caption: Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11a.jpg
+    caption: ''
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Photo shared by Toh Chay Hoon on her flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk7m3.jpg"
-      caption: "Pulau Hantu, Nov 09 The underside."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Toh Chay Hoon on her flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk7m3.jpg
+    caption: Pulau Hantu, Nov 09 The underside.
 links_references: |
   **Links**
   - [*Euryale aspera*](http://www.sealifebase.org/summary/Euryale-aspera.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Ron K. H. Yeo & Loh Kok Sheng. 3 October 2014.
   *Basket star in the eastern Johor Straits, Euryale aspera*
@@ -88,6 +112,15 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- chg
+- bb
+- ecp
+- snt
+- kus
+- sis
+- hnt
+- lfa
 ---
 
 **Where seen?**

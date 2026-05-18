@@ -1,9 +1,10 @@
 ---
 title: Haeckel's anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: haeckel, anemone, actinostephanus, haeckeli, actinodendridae, anthozoa,
-  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: haeckel, anemone, actinostephanus, haeckeli, actinodendridae, 
+  anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,80 +23,118 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg"
-      caption: "Pulau Hantu, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/091009tmd2669m3.jpg"
-      caption: "Tanah Merah, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/091009tmd2667m3b.jpg"
-      caption: Small fishes caught in the tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090510hntd1171m3.jpg
+    caption: Pulau Hantu, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/091009tmd2669m3.jpg
+    caption: Tanah Merah, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/091009tmd2667m3b.jpg
+    caption: Small fishes caught in the tentacles.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2141m3.jpg"
-      caption: "Pulau Sekudu, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2160m3.jpg"
-      caption: "A ring of slimmer shorter tentacles below the long ones, Body column smooth with stripes."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/150825bbm3.jpg"
-      caption: "Conical bumps on tentacles - battery of stingers? Beting Bronok, Aug 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2141m3.jpg
+    caption: Pulau Sekudu, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2160m3.jpg
+    caption: A ring of slimmer shorter tentacles below the long ones, Body 
+      column smooth with stripes.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/150825bbm3.jpg
+    caption: Conical bumps on tentacles - battery of stingers? Beting Bronok, 
+      Aug 15
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3.jpg"
-      caption: "Beting Bronok, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3.jpg
+    caption: Beting Bronok, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120606bbd4401m3a.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/200125prpAet1.jpg"
-      caption: "Pasir Ris Park-Loyang, Jan 20 Photo shared by Eugene Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/201020prpark1.jpg"
-      caption: "With a crab hiding under it. Pasir Ris Park-Loyang, Oct 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/200125prpAet1.jpg
+    caption: Pasir Ris Park-Loyang, Jan 20 Photo shared by Eugene Tan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/201020prpark1.jpg
+    caption: With a crab hiding under it. Pasir Ris Park-Loyang, Oct 20 Photo 
+      shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2130m3.jpg"
-      caption: "Pulau Sekudu, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/230606cjlks1.jpg"
-      caption: "Chek Jawa, Jun 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/220616chgelks8.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/120508skdd2130m3.jpg
+    caption: Pulau Sekudu, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/230606cjlks1.jpg
+    caption: Chek Jawa, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/220616chgelks8.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/100614bblks4m3.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/110518bbjk1m3.jpg"
-      caption: "Beting Bronok, May 11 Photo shared by James Koh on his blog"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/200723bbvc3.jpg"
-      caption: "Beting Bronok, Jul 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/100614bblks4m3.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/110518bbjk1m3.jpg
+    caption: Beting Bronok, May 11 Photo shared by James Koh on his blog
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/200723bbvc3.jpg
+    caption: Beting Bronok, Jul 20 Photo shared by Vincent Choo on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090806tmlks1m3.jpg"
-      caption: "Tanah Merah, Aug 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090806tmlks1m3.jpg
+    caption: Tanah Merah, Aug 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/250714srpccn4.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/250714srptccn4b.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/250714srpccn4.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/250714srptccn4b.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook 
+      .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/170131lazlks.jpg"
-      caption: "Seringat-Kias, Jan 17 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/241019lazlks6.jpg"
-      caption: "Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/170131lazlks.jpg
+    caption: Seringat-Kias, Jan 17 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/241019lazlks6.jpg
+    caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/220518kusrk2.jpg"
-      caption: "Kusu Island, May 22 Photos shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/190520hntmn2.jpg"
-      caption: "Pulau Hantu, Mau 19 Photos shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/140809hntmn.jpg"
-      caption: "Pulau Hantu, Aug 14 Photos shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/220518kusrk2.jpg
+    caption: Kusu Island, May 22 Photos shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/190520hntmn2.jpg
+    caption: Pulau Hantu, Mau 19 Photos shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/140809hntmn.jpg
+    caption: Pulau Hantu, Aug 14 Photos shared by Marcus Ng on flickr .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090412hnttch05m3.jpg"
-      caption: "Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090412hnttch06m3.jpg"
-      caption: "Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090412hnttch05m3.jpg
+    caption: Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090412hnttch06m3.jpg
+    caption: Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/111225tsmks01334m3.jpg"
-      caption: "Terumbu Semakau, Dec 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/150620tbnml1m3.jpg"
-      caption: "Terumbu Bemban, Jun 15 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m3.jpg"
-      caption: "Terumbu Raya, Feb 09 Photos shared by Steven von Peltz."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/111225tsmks01334m3.jpg
+    caption: Terumbu Semakau, Dec 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/150620tbnml1m3.jpg
+    caption: Terumbu Bemban, Jun 15 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m3.jpg
+    caption: Terumbu Raya, Feb 09 Photos shared by Steven von Peltz.
 links_references: |
   **Links**
   - [*Actinostephanus haekeli*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Actinostephanus%20Kwietniewski%2C%201897)
@@ -104,9 +143,22 @@ links_references: |
   website by Dr Daphne Fautin with classification, distribution, biological associations and more.
   - [*Actinostephanus haekeli*](http://www.sealifebase.org/summary/Actinostephanus-haeckeli.html)
   on SeaLife Base: technical fact sheet.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- bb
+- tm
+- snt
+- kus
+- laz
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

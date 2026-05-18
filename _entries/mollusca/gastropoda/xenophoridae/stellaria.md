@@ -1,9 +1,10 @@
 ---
 title: Sunburst carrier-shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Stellaria
@@ -18,22 +19,29 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg"
-      caption: "Tanah Merah, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg"
-      caption: Inside of the shell not shiny.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg"
-      caption: Fine lines on the underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
+    caption: Tanah Merah, Mar 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg
+    caption: Inside of the shell not shiny.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg
+    caption: Fine lines on the underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg"
-      caption: "Tuas, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg"
-      caption: "Tuas, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg"
-      caption: "Changi, Oct 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg
+    caption: Tuas, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg
+    caption: Tuas, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg
+    caption: Changi, Oct 10
 links_references: |
   **Links**
   - [Family Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html)
@@ -49,7 +57,7 @@ links_references: |
   ) Family Xenophoridae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -57,6 +65,10 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- tus
+- tm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Noodle seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae,
-  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, 
+  cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -24,20 +25,28 @@ updated: Mar 14
 rdb: EN
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... This seagrass is rarely seen on our shores. It doesn't flower frequently, and the flowers are complex. It is eaten by dugongs."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "This seagrass is rarely seen on our shores. It doesn't flower frequently, and the flowers are complex. It is eaten by dugongs."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... This seagrass is rarely 
+      seen on our shores. It doesn't flower frequently, and the flowers are 
+      complex. It is eaten by dugongs.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: This seagrass is rarely seen on our shores. It doesn't flower 
+      frequently, and the flowers are complex. It is eaten by dugongs.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg"
-      caption: "Terumbu Semakau, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg"
-      caption: "Cyrene Reef, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg"
-      caption: "Cyrene Reef, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg
+    caption: Terumbu Semakau, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg
+    caption: Cyrene Reef, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg
+    caption: Cyrene Reef, Aug 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on 
+      facebook .
 links_references: |
   **Links**
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
@@ -45,7 +54,7 @@ links_references: |
   (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
   on the Seagrass-Watch website.
-  
+
   **References**
   - Waycott, Michelle (et. al). 2004.
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
@@ -59,6 +68,14 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- chg
+- tm
+- ecp
+- laz
+- cyr
+- smk
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

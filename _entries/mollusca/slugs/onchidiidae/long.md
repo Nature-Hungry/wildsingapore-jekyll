@@ -1,9 +1,10 @@
 ---
 title: Long onch slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info
 layout: entry
 family: Onchidiidae
 genus: ''
@@ -21,20 +22,30 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg"
-      caption: "Lim Chu Kang, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg"
-      caption: Eyes on stalks.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg"
-      caption: Underside
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
+    caption: Lim Chu Kang, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg
+    caption: Eyes on stalks.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg
+    caption: Underside
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg"
-      caption: "Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg
+    caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg
+    caption: ''
+location:
+- sbw
+- lck
+- tkr
 ---
 
 **Where seen?**

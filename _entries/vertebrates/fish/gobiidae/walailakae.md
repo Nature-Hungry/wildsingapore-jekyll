@@ -1,9 +1,10 @@
 ---
 title: Yellow-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, walailakae,
-  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, 
+  walailakae, gobiidae, goby, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,25 +27,35 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg"
-      caption: "A quarreling pair Chek Jawa, Oct 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg"
-      caption: "Chek Jawa, Nov 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+    caption: A quarreling pair Chek Jawa, Oct 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
+    caption: Chek Jawa, Nov 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg"
-      caption: "Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg"
-      caption: "Burrow doesn't have a 'swimming pool' like the Giant mudskipper. Chek Jawa, Mar 14"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg"
-      caption: "A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
+    caption: Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
+    caption: Burrow doesn't have a 'swimming pool' like the Giant mudskipper. 
+      Chek Jawa, Mar 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
+    caption: A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg"
-      caption: "Clinging on with its pelvic fins, its pectoral fins on the side. Sungei Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Mathias Luk on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
+    caption: Clinging on with its pelvic fins, its pectoral fins on the side. 
+      Sungei Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
+    caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
 links_references: |
   **Links**
   - [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)
@@ -59,7 +70,7 @@ links_references: |
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
-  
+
   **References**
   - Theresa L. Su & Shirley S. L. Lim. 12 August 2016.
   *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*
@@ -74,6 +85,15 @@ links_references: |
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
   *A Guide to Gobies of Singapore*
   . Singapore Science Centre. 164pp.
+location:
+- sbw
+- prp
+- chg
+- ubn
+- cj
+- sji
+- hnt
+- smk
 ---
 
 **Where seen?**

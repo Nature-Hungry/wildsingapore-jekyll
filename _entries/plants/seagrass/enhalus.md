@@ -1,9 +1,10 @@
 ---
 title: Tape seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -11,10 +12,11 @@ englishname: Tape seagrass
 family: Hydrocharitaceae
 genus: Enhalus
 species: acoroides
-summary: Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. Thick
-  rhizomes. Flowering often observed. Large female flowers on coiled stalk. Tiny white
-  male flowers produced from inflorescence at base of the plant. Often seen on most
-  of our undisturbed shores. Largest meadow on Pulau Semakau.
+summary: Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. 
+  Thick rhizomes. Flowering often observed. Large female flowers on coiled 
+  stalk. Tiny white male flowers produced from inflorescence at base of the 
+  plant. Often seen on most of our undisturbed shores. Largest meadow on Pulau 
+  Semakau.
 coverimg: https://live.staticflickr.com/65535/54588072124_3781dc5647.jpg
 inat_id: 50360
 stateofmatter: Life
@@ -27,57 +29,87 @@ updated: Oct 2016
 rdb: CR
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... It is the longest seagrasses found on our shores. Pulau Semakau has the largest bed of tape seagrasses on Singapore that ordinary people can visit. It is believed to be among the main food of dugongs.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: It is the longest seagrasses found on our shores. Pulau Semakau has the largest bed of tape seagrasses on Singapore that ordinary people can visit. It is believed to be among the main food of dugongs.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... It is the longest 
+      seagrasses found on our shores. Pulau Semakau has the largest bed of tape 
+      seagrasses on Singapore that ordinary people can visit. It is believed to 
+      be among the main food of dugongs.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is the longest seagrasses found on our shores. Pulau Semakau has
+      the largest bed of tape seagrasses on Singapore that ordinary people can 
+      visit. It is believed to be among the main food of dugongs.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7285m6l.jpg"
-      caption: "Leaf with smooth rounded tip. Pulau Semakau, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080771m6l.jpg"
-      caption: "Petals fully open at the water surface at low spring tide. Sentosa, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080784m6.jpg"
-      caption: "Sentosa, Nov 11 Petals are water repellant. Male flower in the centre. Petals zip up underwater."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7285m6l.jpg
+    caption: Leaf with smooth rounded tip. Pulau Semakau, Feb 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080771m6l.jpg
+    caption: Petals fully open at the water surface at low spring tide. Sentosa,
+      Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080784m6.jpg
+    caption: Sentosa, Nov 11 Petals are water repellant. Male flower in the 
+      centre. Petals zip up underwater.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdd6592m3.jpg"
-      caption: "Inflorescence at the base of the plant that produces the male flowers . Pulau Sekudu, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3.jpg"
-      caption: "Male flower bract with tiny white male flowers. Pulau Sekudu, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3b.jpg"
-      caption: "The male flowers are tiny. Pulau Sekudu, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdd6592m3.jpg
+    caption: Inflorescence at the base of the plant that produces the male 
+      flowers . Pulau Sekudu, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3.jpg
+    caption: Male flower bract with tiny white male flowers. Pulau Sekudu, Jan 
+      06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3b.jpg
+    caption: The male flowers are tiny. Pulau Sekudu, Jan 06
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3.jpg"
-      caption: "Female flower just opened. Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3.jpg"
-      caption: "Tiny balls of pollen transferred? Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3.jpg"
-      caption: "Fruit open with floating seeds. Sentosa, Mar 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3.jpg
+    caption: Female flower just opened. Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3.jpg
+    caption: Tiny balls of pollen transferred? Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3.jpg
+    caption: Fruit open with floating seeds. Sentosa, Mar 07
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060628sntd3825m3.jpg"
-      caption: "Unopened fruit. Sentosa, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100602tmd5130m3.jpg"
-      caption: "Often grows in a ring. Tanah Merah, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/171108ecpmblks14.jpg"
-      caption: "East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060628sntd3825m3.jpg
+    caption: Unopened fruit. Sentosa, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100602tmd5130m3.jpg
+    caption: Often grows in a ring. Tanah Merah, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/171108ecpmblks14.jpg
+    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091231biod7104m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091205sudd5574m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091231biod7104m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091205sudd5574m3.jpg
+    caption: Pulau Sudong, Dec 09
   gallery7:
-    - url: "http://www.wildsingapore.com/ascidiacea/greengumdrop/060312hntd0129m3c.jpg"
-      caption: "Pulau Hantu, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg"
-      caption: "Encrusting red algae. Sentosa, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg"
-      caption: "Egg capsules of Dubious nerites . Tanah Merah, Feb 10"
+  - url: 
+      http://www.wildsingapore.com/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
+    caption: Pulau Hantu, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
+    caption: Encrusting red algae. Sentosa, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg
+    caption: Egg capsules of Dubious nerites . Tanah Merah, Feb 10
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg"
-      caption: "Egg capsules? Pulau Hantu, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg"
-      caption: "Egg capsules? Tanah Merah, Feb 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg"
-      caption: "Unidentified organisms. Pulau Semakau, Feb 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg
+    caption: Egg capsules? Pulau Hantu, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg
+    caption: Egg capsules? Tanah Merah, Feb 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg
+    caption: Unidentified organisms. Pulau Semakau, Feb 09
 links_references: |
   **Links**
   - [Tape seagrass (
@@ -91,7 +123,7 @@ links_references: |
   (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
   on the Seagrass-Watch website.
-  
+
   **References**
   - Tan, Hugh T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007.
   *The Natural Heritage of Singapore*
@@ -114,6 +146,27 @@ links_references: |
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
   *The Concise Flora of Singapore II: Monoctyledons*
   Singapore University Press. 215 pp.
+location:
+- tus
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

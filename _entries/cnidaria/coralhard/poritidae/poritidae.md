@@ -1,9 +1,10 @@
 ---
 title: 'Poritid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Poritidae
 genus: ''
@@ -17,23 +18,28 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
-      caption: Boulder pore coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg"
-      caption: Branching pore coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+    caption: Boulder pore coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
+    caption: Branching pore coral
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg"
-      caption: Anemone corals
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg"
-      caption: Small goniopora corals
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+    caption: Anemone corals
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
+    caption: Small goniopora corals
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -58,6 +64,7 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location: []
 ---
 
 **Where seen?**

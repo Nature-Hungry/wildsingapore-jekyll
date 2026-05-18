@@ -1,9 +1,10 @@
 ---
 title: 'Hedgehog corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hedgehog, echinopora, faviidae, merulinidae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hedgehog, echinopora, faviidae, merulinidae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Echinopora
@@ -17,37 +18,53 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg"
-      caption: "Raffles Lighthouse, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg"
-      caption: "Pulau Semakau, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg
+    caption: Raffles Lighthouse, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg
+    caption: Pulau Semakau, Aug 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 . Photo shared by Loh Kok Sheng on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 . Photo shared by Loh Kok Sheng 
+      on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg"
-      caption: "Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg
+    caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg"
-      caption: "Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg"
-      caption: "Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg
+    caption: Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
+    caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -62,7 +79,7 @@ links_references: |
   and
   *[Echinopora pacificus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46704)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -79,6 +96,14 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- tm
+- kus
+- sis
+- hnt
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Winged oysters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Pteriidae
 genus: ''
@@ -19,31 +20,40 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg"
-      caption: "Several sea fan oysters on one sea fan. Changi, Jan 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg"
-      caption: "Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg"
-      caption: "Sponge finger oyster in a sponge. Changi, Jan 20"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+    caption: Several sea fan oysters on one sea fan. Changi, Jan 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
+    caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok 
+      Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
+    caption: Sponge finger oyster in a sponge. Changi, Jan 20
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg"
-      caption: Sea fan winged oyster
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg"
-      caption: Sponge finger oyster
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg
+    caption: Sea fan winged oyster
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+    caption: Sponge finger oyster
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg"
-      caption: Leaf oyster
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg"
-      caption: Elongated toothed oyster
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
+    caption: Leaf oyster
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+    caption: Elongated toothed oyster
 links_references: |
   **Links**
   - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020.
   *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*
@@ -60,6 +70,15 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- cyr
 ---
 
 **Where seen?**

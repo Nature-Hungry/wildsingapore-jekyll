@@ -1,9 +1,10 @@
 ---
 title: Swimming anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: swimming, anemone, boloceroides, mcmurrichi, boloceroididae, actiniaria,
-  cnidria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: swimming, anemone, boloceroides, mcmurrichi, boloceroididae, 
+  actiniaria, cnidria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 5
@@ -25,87 +26,131 @@ updated: Jul 2024
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These animals are everywhere on the shore. Don't step on them! Don't pick them up. Their sticky tentacles will tear off in your hands. They CAN swim but usually don't at low tide.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These animals are everywhere on the shore. Don't step on them! Don't pick them up. Their sticky tentacles will tear off in your hands. They CAN swim but usually don't at low tide.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These animals are 
+      everywhere on the shore. Don't step on them! Don't pick them up. Their 
+      sticky tentacles will tear off in your hands. They CAN swim but usually 
+      don't at low tide.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These animals are everywhere on the shore. Don't step on them! 
+      Don't pick them up. Their sticky tentacles will tear off in your hands. 
+      They CAN swim but usually don't at low tide.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg"
-      caption: "Sometimes with white band next to the mouth and two paler tentacles. Pulau Sekudu, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3b.jpg"
-      caption: Mouth is on a cone in the centre.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/100430chgd1988m3.jpg"
-      caption: "Short body column and small pedal disk . Changi, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
+    caption: Sometimes with white band next to the mouth and two paler 
+      tentacles. Pulau Sekudu, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3b.jpg
+    caption: Mouth is on a cone in the centre.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/100430chgd1988m3.jpg
+    caption: Short body column and small pedal disk . Changi, Apr 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1936m6l.jpg"
-      caption: "Explosion of tiny swimming anemones. Chek Jawa, Oct 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1925m3.jpg"
-      caption: Many had settled on seagrasses.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1941m3.jpg"
-      caption: Adult (left) compared to tiny one (right).
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1938m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1931m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1936m6l.jpg
+    caption: Explosion of tiny swimming anemones. Chek Jawa, Oct 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1925m3.jpg
+    caption: Many had settled on seagrasses.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1941m3.jpg
+    caption: Adult (left) compared to tiny one (right).
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1938m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1931m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110830cyrd0341m3.jpg"
-      caption: "Reddish with spots. Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/120525cyrs07979m3.jpg"
-      caption: "Reddish with bands. Cyrene Reef, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/120525cyrs07987m3.jpg"
-      caption: "Brown with white stripes. Cyrene Reef, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110830cyrd0341m3.jpg
+    caption: Reddish with spots. Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/120525cyrs07979m3.jpg
+    caption: Reddish with bands. Cyrene Reef, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/120525cyrs07987m3.jpg
+    caption: Brown with white stripes. Cyrene Reef, May 12
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201020swgvc9.jpg"
-      caption: "Sembawang, Oct 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201019cnyrk2.jpg"
-      caption: "Coney Island, Oct 20 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/180603pglrk3.jpg"
-      caption: "Punggol, Jun 18 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201020swgvc9.jpg
+    caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201019cnyrk2.jpg
+    caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/180603pglrk3.jpg
+    caption: Punggol, Jun 18 Photo shared by Richard Kuah on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3b.jpg"
-      caption: "Explosion of tiny ones. Changi SAF Chalets, May 25 Photo shared by Adriane Lee on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3b.jpg
+    caption: Explosion of tiny ones. Changi SAF Chalets, May 25 Photo shared by 
+      Adriane Lee on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250528chgsafal3c.jpg
+    caption: ''
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/091203ubnjk3m3.jpg"
-      caption: "Pulau Ubin, Dec 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/111030skdlks.JPG"
-      caption: "Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/210530ecpglks6.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/091203ubnjk3m3.jpg
+    caption: Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/111030skdlks.JPG
+    caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/210530ecpglks6.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110904sntlks4m3.JPG"
-      caption: "Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/151001blyll1m3.jpg"
-      caption: "Berlayar Creek, Oct 15 Photo shared by Lisa Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250909lazal1.jpg"
-      caption: "Many tiny ones with few arms seen Seringat Kias mangrove lagoon, Sep 25 Photo shared by Adriane Lee on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110904sntlks4m3.JPG
+    caption: Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/151001blyll1m3.jpg
+    caption: Berlayar Creek, Oct 15 Photo shared by Lisa Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/250909lazal1.jpg
+    caption: Many tiny ones with few arms seen Seringat Kias mangrove lagoon, 
+      Sep 25 Photo shared by Adriane Lee on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201115tkkjll6.jpg"
-      caption: "Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201019sjijk.jpg"
-      caption: "St John's Island, Oct 20 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/190123lazmn1.jpg"
-      caption: "Lazarus, Jan 19 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201115tkkjll6.jpg
+    caption: Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/201019sjijk.jpg
+    caption: St John's Island, Oct 20 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/190123lazmn1.jpg
+    caption: Lazarus, Jan 19 Photo shared by Marcus Ng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101224sislks1m3.JPG"
-      caption: "Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/200822jnglks3.jpg"
-      caption: "Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101224sislks1m3.JPG
+    caption: Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/200822jnglks3.jpg
+    caption: Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/241116smksky1a.jpg"
-      caption: "Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/090723tmrmn1m3.jpg"
-      caption: "Terumbu Raya, Jul 07 Photo shared by Marcus Ng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/251008bbbky1.jpg"
-      caption: "Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/241116smksky1a.jpg
+    caption: Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/090723tmrmn1m3.jpg
+    caption: Terumbu Raya, Jul 07 Photo shared by Marcus Ng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/251008bbbky1.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook
+      .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110423tpllks2m3.jpg"
-      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/091204pawjk14m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/110423tpllks2m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/091204pawjk14m3.jpg
+    caption: Pulau Pawai, Dec 09 Shared by James Koh on his flickr .
 links_references: |
   **Links**
   - [*Boloceroides mcmurrichi*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Boloceroides&subgenus=&species=macmurrichi&subspecies=&synseniorid=2314)
@@ -114,7 +159,7 @@ links_references: |
   website by Dr Daphne Fautin with classification, distribution, biological associations and more.
   - [*Boloceroides mcmurrichi*](http://www.sealifebase.org/summary/Boloceroides-mcmurrichi.html)
   on SeaLife Base: technical fact sheet.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
@@ -124,6 +169,31 @@ links_references: |
   *Corals: Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates. Sea Challengers. 314pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

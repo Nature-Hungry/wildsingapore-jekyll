@@ -1,56 +1,84 @@
 ---
 title: Jelly sea squirt (Ascidia gemmata)
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae,
-  ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, 
+  ascidiidae, ascidiacea, urochordate, chordate, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg"
-      caption: "Changi, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
+    caption: Changi, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/201118pglvc9.jpg"
-      caption: "Punggol, Nov 20 Photo by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/091019prplks.JPG"
-      caption: "Pasir Ris Park, Oct 09 Photo by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/201118pglvc9.jpg
+    caption: Punggol, Nov 20 Photo by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/091019prplks.JPG
+    caption: Pasir Ris Park, Oct 09 Photo by Loh Kok Sheng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4.jpg"
-      caption: "Changi, Aug 20"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4b.jpg"
-      caption: Photo by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4.jpg
+    caption: Changi, Aug 20
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4b.jpg
+    caption: Photo by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/220715cjrk1.jpg"
-      caption: "Chek Jawa, Jun 22 Photo by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/140613skdro1m3.jpg"
-      caption: "Pulau Sekudu, Jun 14 Photo by Rene Ong on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/220715cjrk1.jpg
+    caption: Chek Jawa, Jun 22 Photo by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/140613skdro1m3.jpg
+    caption: Pulau Sekudu, Jun 14 Photo by Rene Ong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200723bbvc4.jpg"
-      caption: "Beting Bronok, Jul 20 Photo by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210628ecpBvc1.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo by Vincent Choo on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200723bbvc4.jpg
+    caption: Beting Bronok, Jul 20 Photo by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210628ecpBvc1.jpg
+    caption: East Coast Park (B), Jun 21 Photo by Vincent Choo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210401sntvc6.jpg"
-      caption: "Sentosa Tg Rimau, Apr 21 Photo by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240528tslvc9.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240211bigsisvc6.jpg"
-      caption: "Big Sisters Island, Feb 24 Photo by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210401sntvc6.jpg
+    caption: Sentosa Tg Rimau, Apr 21 Photo by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240528tslvc9.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240211bigsisvc6.jpg
+    caption: Big Sisters Island, Feb 24 Photo by Vincent Choo on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/241117cyrccn2.jpg"
-      caption: "Cyrene, Nov 24 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210501tbvc8.jpg"
-      caption: "Terumbu Bemban, May 21 Photo by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/241117cyrccn2.jpg
+    caption: Cyrene, Nov 24 Photo shared by Che Cheng Neo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210501tbvc8.jpg
+    caption: Terumbu Bemban, May 21 Photo by Vincent Choo on facebook .
 links_references: |
   **Links**
   - [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- ecp
+- snt
+- sis
+- cyr
+- smk
+- tsm
 ---
 
 **Where seen?**

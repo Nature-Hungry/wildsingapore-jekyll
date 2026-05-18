@@ -1,9 +1,10 @@
 ---
 title: Coin green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, 
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Halimedaceae
@@ -17,13 +18,16 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg"
-      caption: Small coin green seaweed
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg"
-      caption: Big coin green seaweed
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+    caption: Small coin green seaweed
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
+    caption: Big coin green seaweed
 links_references: |
   **Links**
   - [Calcified seaweed (
@@ -41,7 +45,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -64,6 +68,26 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- cj
+- skd
+- bb
+- tus
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

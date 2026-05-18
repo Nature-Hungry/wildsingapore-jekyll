@@ -1,9 +1,10 @@
 ---
 title: 'Nerite snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: ''
@@ -43,7 +44,7 @@ links_references: |
     Western Central Pacific [Volume
     1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
     Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *Disruption in shell colour patterns of nerite snails*. Singapore Biodiversity Records 2020: 181-182. The National University of Singapore.
   - Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. *First Singapore record of Souverbie’s nerite, Smaragdia souverbiana*. Singapore Biodiversity Records 2017:140-141.
@@ -66,56 +67,116 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Nerite snails can be very common on our rocky shores. They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Nerite snails can be very common on our rocky shores. They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Nerite snails can be very
+      common on our rocky shores. They lay their eggs in pools and among small 
+      stones, watch your step! The shell's features protect them in the harsh 
+      dry area where they live.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Nerite snails can be very common on our rocky shores. They lay 
+      their eggs in pools and among small stones, watch your step! The shell's 
+      features protect them in the harsh dry area where they live.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg"
-      caption: "Tough shell with thick operculum. Chek Jawa, Jan 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg"
-      caption: "The same species of Nerites may come in a wide variety of colours and patterns. Labrador, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg"
-      caption: The tiniest nerites on our shores are aptly named Dubious nerites .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
+    caption: Tough shell with thick operculum. Chek Jawa, Jan 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
+    caption: The same species of Nerites may come in a wide variety of colours 
+      and patterns. Labrador, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+    caption: The tiniest nerites on our shores are aptly named Dubious nerites .
   gallery3:
-    - url: "https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg"
-      caption: "Nerites with their white egg capsules. Lazarus Island, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg"
-      caption: "Tiny egg capsules laid by the tiniest nerite. East Coast, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg"
-      caption: "Nerites mating with their white egg capsules. Chek Jawa, Feb 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg
+    caption: Nerites with their white egg capsules. Lazarus Island, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
+    caption: Tiny egg capsules laid by the tiniest nerite. East Coast, Dec 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
+    caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg"
-      caption: Ox-tongue nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg"
-      caption: Chameleon nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg"
-      caption: Waved nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
+    caption: Ox-tongue nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+    caption: Chameleon nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg
+    caption: Waved nerite
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg"
-      caption: Scaly nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg"
-      caption: Lined nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg"
-      caption: Flat-spire nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+    caption: Scaly nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+    caption: Lined nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+    caption: Flat-spire nerite
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg"
-      caption: Polished nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg"
-      caption: Dubious nerites
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
+    caption: Polished nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+    caption: Dubious nerites
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg"
-      caption: Red-mouth nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg"
-      caption: Black-mouth nerite
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg"
-      caption: Grey mangrove nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+    caption: Red-mouth nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
+    caption: Black-mouth nerite
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+    caption: Grey mangrove nerite
   gallery9:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Common nerite ( Nerita lineata ) and Violet nerite ( Dostia violacea ) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Nerita sp and Clithon oualaniensis Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Family Neritidae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on Nerites with photos. Family Neritidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Chan Sow-Yan & Lau Wing Lup. 30 October 2020. Disruption in shell colour patterns of nerite snails . Singapore Biodiversity Records 2020: 181-182. The National University of Singapore. Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. First Singapore record of Souverbie’s nerite, Smaragdia souverbiana . Singapore Biodiversity Records 2017:140-141. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, S.K. & Clements, R. (2008) Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore . Zoological Studies 47(4): 481-494. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp. Coleman, Neville. 2003. 2002 Sea Shells: Catalogue of Indo-Pacific Mollusca . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Links Common nerite ( Nerita lineata ) and Violet nerite ( Dostia violacea
+      ) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore
+      II (Animal Diversity) . Singapore Science Centre. 168 pp. Nerita sp and Clithon
+      oualaniensis Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life
+      . The Singapore Science Centre, Singapore. 160 pp. Family Neritidae on The Gladys
+      Archerd Shell Collection at Washington State University Tri-Cities Natural History
+      Museum website: brief fact sheet on Nerites with photos. Family Neritidae in
+      the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+      for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+      Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture
+      Organization of the United Nations (FAO) website. References Chan Sow-Yan &
+      Lau Wing Lup. 30 October 2020. Disruption in shell colour patterns of nerite
+      snails . Singapore Biodiversity Records 2020: 181-182. The National University
+      of Singapore. Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. First Singapore record
+      of Souverbie’s nerite, Smaragdia souverbiana . Singapore Biodiversity Records
+      2017:140-141. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist
+      of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research,
+      National University of Singapore. Tan, S.K. & Clements, R. (2008) Taxonomy and
+      distribution of the Neritidae (Mollusca: Gastropoda) on Singapore . Zoological
+      Studies 47(4): 481-494. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common
+      Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter
+      K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council
+      on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red
+      Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore),
+      Singapore. 343 pp. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham
+      Brash, Singapore. 145 pp. Coleman, Neville. 2003. 2002 Sea Shells: Catalogue
+      of Indo-Pacific Mollusca . Neville Coleman's Underwater Geographic Pty Ltd,
+      Australia.144pp."
+location:
+- tus
+- tm
+- ecp
+- lab
+- snt
+- laz
+- sji
+- smk
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

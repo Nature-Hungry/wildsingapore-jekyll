@@ -1,9 +1,10 @@
 ---
 title: Streaked rabbitfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -22,7 +23,8 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
 links_references: |
   **Links**  
   - [Streaked
@@ -32,28 +34,45 @@ links_references: |
     4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
     Identification Guide for Fishery Purposes The Living Marine Resources
     of the Western Central Pacific.
-  
+
   **References**
   - Kuiter, Rudie
     H. 2002. *Guide
     to Sea Fishes of Australia: A Comprehensive Reference for Divers
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg"
-      caption: "Tanah Merah, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg"
-      caption: "Chek Jawa, Aug 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+    caption: Tanah Merah, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+    caption: Chek Jawa, Aug 02
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg"
-      caption: "East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg"
-      caption: "Tanah Merah, Oct 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
+    caption: East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
+    caption: Tanah Merah, Oct 09 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg"
-      caption: "Tanah Merah, May 09 Photo shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
+    caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Streaked spinefoot ( Siganus javus ) from FishBase : Technical fact sheet. Volume 4: Bony fishes part 2 (Mugilidae to Carangidae) FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific. References Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers. 434pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Streaked spinefoot ( Siganus javus ) from FishBase : Technical
+      fact sheet. Volume 4: Bony fishes part 2 (Mugilidae to Carangidae) FAO Species
+      Identification Guide for Fishery Purposes The Living Marine Resources of the
+      Western Central Pacific. References Kuiter, Rudie H. 2002. Guide to Sea Fishes
+      of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers.
+      434pp.'
+location:
+- chg
+- cj
+- bb
+- tm
+- ecp
+- sji
 ---
 
 **Where seen?**

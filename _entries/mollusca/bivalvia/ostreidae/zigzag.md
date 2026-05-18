@@ -1,36 +1,59 @@
 ---
 title: Zig zag  oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Osteridae
 genus: ''
 species: identification*
 attributes: []
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg"
-      caption: "Raffles Lighthouse, Aug 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg"
-      caption: "Kusu Island, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
+    caption: Raffles Lighthouse, Aug 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
+    caption: Kusu Island, Jun 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg"
-      caption: "Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg"
-      caption: "Lazarus, Nov 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg"
-      caption: "Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg
+    caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg
+    caption: Lazarus, Nov 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg
+    caption: Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg"
-      caption: "Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg"
-      caption: "Pulau Biola, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg
+    caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg
+    caption: Pulau Biola, May 10
+location:
+- cj
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

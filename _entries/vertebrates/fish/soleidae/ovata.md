@@ -1,9 +1,10 @@
 ---
 title: Ovate sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, 
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,23 +25,30 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
-      caption: "Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg"
-      caption: "Changi, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+    caption: Changi, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
+    caption: Changi, Aug 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg"
-      caption: Eyes on the right side.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg"
-      caption: Tail fin separate from the dorsal and anal fins.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
+    caption: Eyes on the right side.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
+    caption: Tail fin separate from the dorsal and anal fins.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg"
-      caption: "Kusu Island, Jan 24 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
+    caption: Kusu Island, Jan 24 Photo shared by Richard Kuah on facebook .
 links_references: |
   **Links**
   - [Ovate Sole (
@@ -57,6 +65,11 @@ links_references: |
   : Technical fact sheet.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+location:
+- chg
+- cj
+- snt
+- kus
 ---
 
 **Where seen?**

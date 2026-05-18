@@ -1,9 +1,11 @@
 ---
 title: Knobbly periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: knobbly, periwinkle, echinolittorina, malaccana, nodilittorina, trochoides,
-  littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: knobbly, periwinkle, echinolittorina, malaccana, nodilittorina, 
+  trochoides, littorinidae, gastropod, mollusc, snail, shell, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,20 +27,26 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg"
-      caption: "St. John's Island, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+    caption: St. John's Island, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg"
-      caption: "Lazarus Island, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg"
-      caption: "Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg"
-      caption: "Chek Jawa, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+    caption: Lazarus Island, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg
+    caption: Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+    caption: Chek Jawa, May 05
 links_references: |
   **Links**
   - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
@@ -50,7 +58,7 @@ links_references: |
   - Family Littorinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -58,6 +66,18 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- cj
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- smk
+- rfl
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Three-spot dascyllus '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae,
-  amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, anemonefish, three, spot, dascyllus, trimaculatus, 
+  pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,18 +27,25 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Chrominae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg"
-      caption: "Often seen together with Peacock anemoneshrimps . Terumbu Selegie, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg"
-      caption: "Terumbu Selegie, Jun 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+    caption: Often seen together with Peacock anemoneshrimps . Terumbu Selegie, 
+      Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
+    caption: Terumbu Selegie, Jun 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg"
-      caption: "Sisters Island, Apr 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg"
-      caption: "Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
+    caption: Sisters Island, Apr 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
+    caption: Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo 
+      shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [Threespot dascyllus (
@@ -50,7 +58,7 @@ links_references: |
   from the
   [the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
   by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
-  
+
   **References**
   - Jeffrey K. Y. Low. 2013.
   *More noteworthy fishes observed in the Singapore Straits*
@@ -64,6 +72,9 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- sis
+- cyr
 ---
 
 **Where seen?**

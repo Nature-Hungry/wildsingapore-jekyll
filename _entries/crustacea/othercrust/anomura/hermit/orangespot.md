@@ -1,9 +1,10 @@
 ---
 title: Spotted orange hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spotted, hermit, crab, dardanus, megistos, diogenidae, anomura, decapod,
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spotted, hermit, crab, dardanus, megistos, diogenidae, anomura, 
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -25,65 +26,93 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg"
-      caption: "Pulau Sekudu, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg"
-      caption: "Tanah Merah, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3.jpg
+    caption: Pulau Sekudu, Jun 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
+    caption: Tanah Merah, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/030617skdd0093m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/150704cjmn.jpg"
-      caption: "Chek Jawa, Jul 15 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/150704cjmn.jpg
+    caption: Chek Jawa, Jul 15 Photo shared by Marcus Ng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/220618tmftccn1.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251107tmftlks1.jpg"
-      caption: "Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251108ecpblks11.jpg"
-      caption: "East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/220618tmftccn1.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Che Cheng Neo on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251107tmftlks1.jpg
+    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251108ecpblks11.jpg
+    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/190901labll2.jpg"
-      caption: "Labrador, Sep 12 Photo shared by Liz Lim on facebook .."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/250714srpal4.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/190901labll2.jpg
+    caption: Labrador, Sep 12 Photo shared by Liz Lim on facebook ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/250714srpal4.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090712kusjk1m3.jpg"
-      caption: "Kusu Island, Jul 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/160508kuslks1.JPG"
-      caption: "Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251011ssisyls2.jpg"
-      caption: "Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090712kusjk1m3.jpg
+    caption: Kusu Island, Jul 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/160508kuslks1.JPG
+    caption: Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/251011ssisyls2.jpg
+    caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/230321tkrlks2.jpg"
-      caption: "Pulau Tekukor, Mar 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/240528tsltt1.jpg"
-      caption: "Terumbu Selegie, May 24 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/230321tkrlks2.jpg
+    caption: Pulau Tekukor, Mar 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/240528tsltt1.jpg
+    caption: Terumbu Selegie, May 24 Photo shared by Tommy Tan on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/230705ssisky3.jpg"
-      caption: "Small Sisters Island, Jul 23 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/111002sisro2m3.jpg"
-      caption: "Sisters Island, Oct 11 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/150815bsislks.JPG"
-      caption: "Sisters Island, Aug 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/230705ssisky3.jpg
+    caption: Small Sisters Island, Jul 23 Photo shared by Kelvin Yong on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/111002sisro2m3.jpg
+    caption: Sisters Island, Oct 11 Photo shared by Rene Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/150815bsislks.JPG
+    caption: Sisters Island, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/190605cyrsg1.jpg"
-      caption: "Cyrene Reef, Jun 19 Photo shared by Shawne Goh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/190605cyrsg1.jpg
+    caption: Cyrene Reef, Jun 19 Photo shared by Shawne Goh on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/110423tpllks12m3.jpg"
-      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/110423tpld0136m3.jpg"
-      caption: "Terumbu Pempang Laut, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/151225tsmklks7m3.jpg"
-      caption: "Terumbu Semakau, Dec 12 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/110423tpllks12m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/110423tpld0136m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/151225tsmklks7m3.jpg
+    caption: Terumbu Semakau, Dec 12 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - *[Dardanus megistos](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21040)*
   on SeaLife Base: Technical fact sheet.
   ****
-  
+
   **References**
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
@@ -94,6 +123,21 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sis
+- cyr
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

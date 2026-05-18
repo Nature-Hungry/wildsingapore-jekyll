@@ -1,8 +1,10 @@
 ---
 title: 'Grapsid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Grapsidae
 genus: ''
@@ -24,18 +26,26 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... These crabs have long pointy legs to cling to and scramble over rocks. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: These crabs have long pointy legs to cling to and scramble over rocks. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... These crabs have long 
+      pointy legs to cling to and scramble over rocks. They have a flat body to 
+      slip through narrow crevices. They are very shy and disappear at the 
+      slightest sign of trouble.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: These crabs have long pointy legs to cling to and scramble over 
+      rocks. They have a flat body to slip through narrow crevices. They are 
+      very shy and disappear at the slightest sign of trouble.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg"
-      caption: Purple climber crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg"
-      caption: Sally-light-foot crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+    caption: Purple climber crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
+    caption: Sally-light-foot crab
 links_references: |
   **Links**
   - [Purple climber crabs (
@@ -49,7 +59,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -66,6 +76,15 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- skd
+- tm
+- ecp
+- snt
+- tkr
+- kus
+- sji
+- sis
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

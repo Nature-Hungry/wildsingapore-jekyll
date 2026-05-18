@@ -1,36 +1,46 @@
 ---
 title: Gnarled sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, gorgonacea,
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, 
+  gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: Echinomuricea
 species: pulchra*
 attributes: []
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
-      caption: "Beting Bronok, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg"
-      caption: Stems look gnarled with polyps retracted.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg"
-      caption: Closer look at the stem with polyps retracted.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+    caption: Beting Bronok, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
+    caption: Stems look gnarled with polyps retracted.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
+    caption: Closer look at the stem with polyps retracted.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg"
-      caption: "Beting Bronok, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg"
-      caption: "Changi, Sep 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg"
-      caption: "Beting Bronok, Jul 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
+    caption: Beting Bronok, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
+    caption: Changi, Sep 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
+    caption: Beting Bronok, Jul 03
   gallery3:
-    - url: "http://www.wildsingapore.com/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg"
-      caption: "Squid egg capsules attached to the sea fan. Beting Bronok, Jun 03"
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg"
-      caption: "Winged oyster on the sea fan. Changi, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
+    caption: Squid egg capsules attached to the sea fan. Beting Bronok, Jun 03
+  - url: 
+      http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
+    caption: Winged oyster on the sea fan. Changi, Jul 12
 links_references: |
   **Links**
   - [*Echinomuricea pulchra*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinomuricea-pulchra.html)
@@ -41,7 +51,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
@@ -49,6 +59,14 @@ links_references: |
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
   *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
   . Raffles Museum Bulletin of Zoology Pp. 435-459.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- ecp
 ---
 
 **Where seen?**

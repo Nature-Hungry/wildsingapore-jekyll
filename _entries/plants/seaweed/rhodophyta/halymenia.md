@@ -1,9 +1,10 @@
 ---
 title: 'Halymenia red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, 
+  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Gracilariacea
@@ -21,47 +22,65 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg"
-      caption: "Pulau Semakau, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg"
-      caption: "Labrador, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg"
-      caption: "Pulau Semakau, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg
+    caption: Pulau Semakau, Apr 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg
+    caption: Labrador, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg
+    caption: Pulau Semakau, May 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg"
-      caption: Frilly halymenia
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg"
-      caption: Ruffled halymenia
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg
+    caption: Frilly halymenia
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
+    caption: Ruffled halymenia
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg"
-      caption: "Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg
+    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg"
-      caption: "Pulau Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg
+    caption: Pulau Salu, Jun 10
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg"
-      caption: "Pulau Biola, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg
+    caption: Pulau Biola, Dec 09
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg"
-      caption: "Pulau Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg
+    caption: Pulau Berkas, May 10
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg
+    caption: Terumbu Salu, Jan 10
 links_references: |
   **Links**
   - [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107.md)
@@ -77,7 +96,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -97,6 +116,25 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- cj
+- skd
+- bb
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

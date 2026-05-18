@@ -1,9 +1,10 @@
 ---
 title: Plate montipora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Montipora
@@ -17,46 +18,80 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg"
-      caption: "Delicate tiers like a wedding cake. Kusu Island, Apr 17"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3.jpg"
-      caption: "Tiny polyps. Labrador, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7173m3.jpg"
-      caption: "Terumbu Bemban, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg
+    caption: Delicate tiers like a wedding cake. Kusu Island, Apr 17
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3.jpg
+    caption: Tiny polyps. Labrador, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7173m3.jpg
+    caption: Terumbu Bemban, Jul 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3a.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
-      caption: "Sisters Island, Dec 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0006m3.jpg"
-      caption: "Raffles Lighthouse, May 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3a.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+    caption: Sisters Island, Dec 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0006m3.jpg
+    caption: Raffles Lighthouse, May 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg"
-      caption: "Terumbu Raya, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8997m3.jpg"
-      caption: "Pulau Hantu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9033m3.jpg"
-      caption: "Pulau Hantu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg
+    caption: Terumbu Raya, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8997m3.jpg
+    caption: Pulau Hantu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9033m3.jpg
+    caption: Pulau Hantu, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/220618tmftlks23.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/220618tmftlks23.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3.jpg"
-      caption: "Pulau Sudong, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4804m3.jpg"
-      caption: "Pulau Sudong, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3.jpg
+    caption: Pulau Sudong, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4804m3.jpg
+    caption: Pulau Sudong, Jun 10
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5609m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4295m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3.jpg"
-      caption: "Terumbu Buran, Nov 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5609m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4295m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3.jpg
+    caption: Terumbu Buran, Nov 10
+location:
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

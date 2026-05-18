@@ -1,9 +1,10 @@
 ---
 title: Dubious nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Clithon
@@ -19,39 +20,59 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg"
-      caption: "Thin greyish operculum. Tanah Merah, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg"
-      caption: "Striped body with long tentacles. Tanah Merah, Oct 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg"
-      caption: "Striped body with long tentacles. Tanah Merah, Dec 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
+    caption: Thin greyish operculum. Tanah Merah, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg
+    caption: Striped body with long tentacles. Tanah Merah, Oct 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg
+    caption: Striped body with long tentacles. Tanah Merah, Dec 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg"
-      caption: "Egg cases laid on seagrass. Tanah Merah, Oct 10 Egg cases laid on seagrass, already hatched. East Coast, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg"
-      caption: "Marina East, De 25 Photo shared by Loh Kok Sheng on facebook . Egg cases laid on one another! Sentosa, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg"
-      caption: "Countless snails on Needle seagrass. Marina East, De 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg
+    caption: Egg cases laid on seagrass. Tanah Merah, Oct 10 Egg cases laid on 
+      seagrass, already hatched. East Coast, Dec 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg
+    caption: Marina East, De 25 Photo shared by Loh Kok Sheng on facebook . Egg 
+      cases laid on one another! Sentosa, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg
+    caption: Countless snails on Needle seagrass. Marina East, De 25 Photo 
+      shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg"
-      caption: "Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg"
-      caption: "East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg"
-      caption: "Tuas, Nov 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg
+    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg
+    caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg
+    caption: Tuas, Nov 06
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG"
-      caption: "Lazarus, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg"
-      caption: "Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG
+    caption: Lazarus, Dec 08 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg
+    caption: Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg"
-      caption: "St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg
+    caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg
+    caption: Pulau Sudong, Dec 09
 links_references: |
   **Links**
   - [Guamanian nerite (
@@ -70,7 +91,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -84,6 +105,16 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- tus
+- tm
+- ecp
+- lab
+- snt
+- laz
+- sji
+- smk
+- lfa
 ---
 
 **Where seen?**

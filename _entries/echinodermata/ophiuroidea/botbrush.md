@@ -1,9 +1,10 @@
 ---
 title: 'Bottlebrush brittle star '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hexagon, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hexagon, brittle, star, brittlestar, ophiuroidea, echinoderm, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -17,37 +18,63 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3.jpg"
-      caption: "Changi, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3a.jpg"
-      caption: Upperside of thick central disk.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3b.jpg"
-      caption: Long blunt spines held like a bottlebrush with long tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3.jpg
+    caption: Changi, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3a.jpg
+    caption: Upperside of thick central disk.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090525chgd2357m3b.jpg
+    caption: Long blunt spines held like a bottlebrush with long tube feet.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3.jpg"
-      caption: "Pasir Ris, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3a.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3b.jpg"
-      caption: Long blunt spines held like a bottlebrush with long tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3.jpg
+    caption: Pasir Ris, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3a.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090113prpd5222m3b.jpg
+    caption: Long blunt spines held like a bottlebrush with long tube feet.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/110701pgld5009m3.jpg"
-      caption: "Sometimes, many seen together. Punggol, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/030814skdd0093m3.jpg"
-      caption: "Sometimes, seen among sponges. Pulau Sekudu, Aug 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/110701pgld5009m3.jpg
+    caption: Sometimes, many seen together. Punggol, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/030814skdd0093m3.jpg
+    caption: Sometimes, seen among sponges. Pulau Sekudu, Aug 03
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/160125obsjt5.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/230806tbrk3.jpg"
-      caption: "Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/160125obsjt5.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/230806tbrk3.jpg
+    caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090623ecpjk2m3.jpg"
-      caption: "East Coast, Jun 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/091218tmlks5m3.jpg"
-      caption: "Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/090623ecpjk2m3.jpg
+    caption: East Coast, Jun 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/botbrush/091218tmlks5m3.jpg
+    caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- ecp
+- kus
+- sji
+- tsm
 ---
 
 **Where seen?**

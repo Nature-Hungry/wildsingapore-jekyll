@@ -1,9 +1,10 @@
 ---
 title: Eagle rays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, 
+  scatophagidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -22,7 +23,8 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Dec 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
 links_references: |
   **Links**  
   - [Family
@@ -36,7 +38,7 @@ links_references: |
     with lots of details
   - Rare sighting of 5 eagle rays casually swimming by Labrador Park, [Mothership](https://mothership.sg/2020/11/eagle-rays-labrador-park/), 7 Nov 2020.
   - Two eagle rays were seen while diving Pulau Jong and St. John's Island on 25 Nov 2020 on [wild shores of singapore](https://wildshores.blogspot.com/2020/12/mega-fauna-sightings-sep-nov.html).
-  
+
   **References**
   - Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020. *Spotted eagle rays (Aetobatus ocellatus) at Sentosa*. Singapore Biodiversity Records 2020: 209. The National University of Singapore.
   - Ria Tan and Kelvin K. P. Lim. 18 Jul 2014. *White-spotted eagle ray at Tanah Merah*. Singapore Biodiversity Records 2014: 189 ISSN 2345-7597, The National University of Singapore.
@@ -47,18 +49,47 @@ links_references: |
     2000. *Marine
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg"
-      caption: "Aetobatus mula Large triangular 'wings' with white spots. Tanah Merah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg"
-      caption: Eyes and breathing spiracles on the sides of the head. Triangular snout.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg"
-      caption: Venomous spines at the base of the tail.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+    caption: Aetobatus mula Large triangular 'wings' with white spots. Tanah 
+      Merah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg
+    caption: Eyes and breathing spiracles on the sides of the head. Triangular 
+      snout.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg
+    caption: Venomous spines at the base of the tail.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/161218lab.jpg"
-      caption: "Labrador, Dec 16 Photo shared by Chi Yang"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/161218lab.jpg
+    caption: Labrador, Dec 16 Photo shared by Chi Yang
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Family Myliobatidae and Aetobatus narinari (Spotted eagle ray) and Aetomylaeus nichofii (Banded eagle ray) and Aetomylaeus maculatus (Mottled eagle ray) from FishBase : Technical fact sheets. Spotted eagle rays ( Aetobatus narinari ) on the IUCN Red List of Threatened Species website: fact sheet with lots of details Rare sighting of 5 eagle rays casually swimming by Labrador Park, Mothership , 7 Nov 2020. Two eagle rays were seen while diving Pulau Jong and St. John's Island on 25 Nov 2020 on wild shores of singapore . References Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020. Spotted eagle rays (Aetobatus ocellatus) at Sentosa . Singapore Biodiversity Records 2020: 209. The National University of Singapore. Ria Tan and Kelvin K. P. Lim. 18 Jul 2014. White-spotted eagle ray at Tanah Merah . Singapore Biodiversity Records 2014: 189 ISSN 2345-7597, The National University of Singapore. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Links Family Myliobatidae and Aetobatus narinari (Spotted eagle ray)
+      and Aetomylaeus nichofii (Banded eagle ray) and Aetomylaeus maculatus (Mottled
+      eagle ray) from FishBase : Technical fact sheets. Spotted eagle rays ( Aetobatus
+      narinari ) on the IUCN Red List of Threatened Species website: fact sheet with
+      lots of details Rare sighting of 5 eagle rays casually swimming by Labrador
+      Park, Mothership , 7 Nov 2020. Two eagle rays were seen while diving Pulau Jong
+      and St. John's Island on 25 Nov 2020 on wild shores of singapore . References
+      Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020. Spotted eagle rays
+      (Aetobatus ocellatus) at Sentosa . Singapore Biodiversity Records 2020: 209.
+      The National University of Singapore. Ria Tan and Kelvin K. P. Lim. 18 Jul 2014.
+      White-spotted eagle ray at Tanah Merah . Singapore Biodiversity Records 2014:
+      189 ISSN 2345-7597, The National University of Singapore. Wee Y.C. and Peter
+      K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council
+      on the Environment. 163pp. Allen, Gerry, 2000. Marine Fishes of South-East Asia:
+      A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter, Rudie
+      H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers
+      & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers. 2001.
+      Coral Reef Fishes of the World Periplus Editions. 400pp."
+location:
+- tm
+- lab
+- snt
+- sji
+- jng
 ---
 
 **Where seen?**

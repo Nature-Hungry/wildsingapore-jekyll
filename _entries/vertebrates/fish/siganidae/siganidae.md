@@ -1,8 +1,9 @@
 ---
 title: Rabbitfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Siganidae
 genus: ''
@@ -17,28 +18,43 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They graze (on algae) just like rabbits. They have venomous spines. Don't handle them! They are among our favourite seafood. However, overharvesting can affect their populations."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They graze (on algae) just like rabbits. They have venomous spines. Don't handle them! They are among our favourite seafood. However, overharvesting can affect their populations."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They graze (on algae) 
+      just like rabbits. They have venomous spines. Don't handle them! They are 
+      among our favourite seafood. However, overharvesting can affect their 
+      populations.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They graze (on algae) just like rabbits. They have venomous spines.
+      Don't handle them! They are among our favourite seafood. However, 
+      overharvesting can affect their populations.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
-      caption: "Juveniles often seen among Sargassum. There are two here, can you spot them? Changi, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg"
-      caption: "Spines on the dorsal fin raised: these can inject a painful venom. Chek Jawa, Aug 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+    caption: Juveniles often seen among Sargassum. There are two here, can you 
+      spot them? Changi, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+    caption: 'Spines on the dorsal fin raised: these can inject a painful venom. Chek
+      Jawa, Aug 02'
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg"
-      caption: "Rabbitfishes are often seen trapped in fishing nets. Terumbu Semakau, Jun 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
+    caption: Rabbitfishes are often seen trapped in fishing nets. Terumbu 
+      Semakau, Jun 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg"
-      caption: White-spotted rabbitfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg"
-      caption: Orange-spotted rabbitfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg"
-      caption: Streaked rabbitfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
+    caption: White-spotted rabbitfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
+    caption: Orange-spotted rabbitfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
+    caption: Streaked rabbitfish
 links_references: |
   **Links**
   - [White-spotted Rabbitfish (
@@ -90,7 +106,7 @@ links_references: |
   : Technical fact.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Jeffrey K. Y. Low.
   *Foxface rabbitfish, Siganus vulpinus, in the Singapore Strait*
@@ -107,6 +123,26 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- pgl
+- chg
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- tpg
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

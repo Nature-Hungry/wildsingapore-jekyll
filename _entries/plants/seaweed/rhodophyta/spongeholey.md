@@ -1,10 +1,11 @@
 ---
 title: Holey sponge seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae,
-  rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, 
+  lomentariaceae, rhodomeniaceae, rhodophyta, algae, porifera, haliclona 
+  cymaeformis, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Lomentariaceae
@@ -24,46 +25,60 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Rhodymeniales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg"
-      caption: "Pulau Hantu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+    caption: Pulau Hantu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg"
-      caption: "Big Sisters Island, Aug 25"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg
+    caption: Big Sisters Island, Aug 25
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg"
-      caption: "Pulau Hantu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+    caption: Pulau Hantu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg"
-      caption: "Pulau Semakau, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg"
-      caption: "Sentosa, Feb 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg
+    caption: Pulau Semakau, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg
+    caption: Sentosa, Feb 08
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg"
-      caption: "Pulau Tekukor, May 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg"
-      caption: "Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg
+    caption: Pulau Tekukor, May 13 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [*Ceratodictyon spongiosum*](http://www.algaebase.org/search/species/detail/?species_id=2880)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
@@ -83,6 +98,18 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
+- tkr
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

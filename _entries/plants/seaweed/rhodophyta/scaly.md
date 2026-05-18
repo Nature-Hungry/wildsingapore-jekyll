@@ -1,9 +1,10 @@
 ---
 title: 'Scaly red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, rhodophyta,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, 
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Peyssonneliaceae
@@ -19,29 +20,39 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Peyssonneliales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3.jpg"
-      caption: "Labrador, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3.jpg
+    caption: Labrador, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3.jpg"
-      caption: "East Coast, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg"
-      caption: "Tanah Merah, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070102sisd7308m3.jpg"
-      caption: "Sisters Island, Jan 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3.jpg
+    caption: East Coast, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
+    caption: Tanah Merah, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070102sisd7308m3.jpg
+    caption: Sisters Island, Jan 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3.jpg"
-      caption: "Cyrene Reef, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/061223lazd7059m3.jpg"
-      caption: "Lazarus Island, Dec 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg"
-      caption: "St. John's Island, Mar 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3.jpg
+    caption: Cyrene Reef, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/061223lazd7059m3.jpg
+    caption: Lazarus Island, Dec 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg
+    caption: St. John's Island, Mar 07
 links_references: |
   **Links**
   - [*Peyssonnelia inamoena*](http://www.algaebase.org/search/species/detail/?species_id=1670)
@@ -50,7 +61,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -64,6 +75,15 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- tm
+- ecp
+- lab
+- snt
+- laz
+- sji
+- sis
+- cyr
 ---
 
 **Where seen?**

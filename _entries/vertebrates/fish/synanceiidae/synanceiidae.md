@@ -1,9 +1,10 @@
 ---
 title: Stonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, 
+  scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Synanceiidae
 genus: ''
@@ -19,15 +20,19 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
-      caption: Hollow-cheeked stonefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn.jpg"
-      caption: "Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg"
-      caption: Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+    caption: Hollow-cheeked stonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn.jpg
+    caption: Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
+    caption: Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Hollow-cheek Stonefish (
@@ -76,7 +81,7 @@ links_references: |
   on the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   on the Australian Museum Online website: fact sheet with photos and video clips of these fishes on the move.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -90,6 +95,22 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- tm
+- ecp
+- snt
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

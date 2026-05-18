@@ -1,9 +1,10 @@
 ---
 title: Semper's armina nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seaslug,
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, 
+  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,45 +29,60 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg"
-      caption: "Changi, May 14"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg"
-      caption: "Colourful oral veil without bumps. Changi, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
+    caption: Changi, May 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg
+    caption: Colourful oral veil without bumps. Changi, Jun 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg"
-      caption: "Underside. Changi, Oct 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg"
-      caption: "Gills under the mantle skirt. Chek Jawa, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg
+    caption: Underside. Changi, Oct 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg
+    caption: Gills under the mantle skirt. Chek Jawa, Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg"
-      caption: "About to eat this Flowery sea pen ? Changi, Aug 14"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg"
-      caption: "About to eat this Spiky sea pen ? Beting Bronok, Jun 18"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg
+    caption: About to eat this Flowery sea pen ? Changi, Aug 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
+    caption: About to eat this Spiky sea pen ? Beting Bronok, Jun 18
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg"
-      caption: "About to eat this Flowery sea pen ? Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg"
-      caption: "Eating a Sea pencil ? Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
+    caption: About to eat this Flowery sea pen ? Changi, Aug 19 Photo shared by 
+      Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
+    caption: Eating a Sea pencil ? Changi, Jul 20 Photo shared by Toh Chay Hoon 
+      on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg"
-      caption: "Changi, Oct 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg"
-      caption: "Changi Carpark 1, Oct 25 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg
+    caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg
+    caption: Changi Carpark 1, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg"
-      caption: "Pulau Sekudu, May 12 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg"
-      caption: "Beting Bronok, Jul 07 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg
+    caption: Pulau Sekudu, May 12 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg
+    caption: Beting Bronok, Jul 07 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheets of
   *[Armina semperi](http://www.seaslugforum.net/find/armisemp)*
   and other Armina nudibranchs laying eggs.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -80,6 +96,11 @@ links_references: |
   - Humann, Paul and Ned Deloach. 2010.
   *Reef Creature Identification: Tropical Pacific*
   New World Publications. 497pp.
+location:
+- chg
+- cj
+- skd
+- bb
 ---
 
 **Where seen?**

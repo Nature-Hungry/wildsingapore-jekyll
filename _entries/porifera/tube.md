@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, 
+  seashore,
 layout: entry
 shape: sausage
 title: Tubular sponge
@@ -16,36 +18,56 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg"
-      caption: "Pulau Semakau, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/030418cjd0097m3.jpg"
-      caption: "Chek Jawa, Apr 03"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/050820bbd5730m3.jpg"
-      caption: "Beting Bronok, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
+    caption: Pulau Semakau, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tube/030418cjd0097m3.jpg
+    caption: Chek Jawa, Apr 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tube/050820bbd5730m3.jpg
+    caption: Beting Bronok, Aug 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3.jpg"
-      caption: "Beting Bronok, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3b.jpg"
-      caption: "Beting Bronok, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3.jpg"
-      caption: "Beting Bronok, May 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3.jpg
+    caption: Beting Bronok, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3b.jpg
+    caption: Beting Bronok, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3.jpg
+    caption: Beting Bronok, May 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/tube/161116ecpbslks.jpg"
-      caption: "East Coast Park, Nov 16 Photo shared by Loh Kok Sheng on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/161116ecpbslks.jpg
+    caption: East Coast Park, Nov 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
   on SeaLife Base: technical fact sheet.
   - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- snt
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

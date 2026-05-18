@@ -1,6 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,
+keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, 
+  marine,
 layout: entry
 shape: encrusting
 title: Yellow bumpy sponges
@@ -12,20 +13,36 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg"
-      caption: "Tuas, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3.jpg"
-      caption: "Beting Bronok, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3.jpg"
-      caption: "Chek Jawa, Jan 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
+    caption: Tuas, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3.jpg
+    caption: Beting Bronok, Jun 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3.jpg
+    caption: Chek Jawa, Jan 02
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3.jpg"
-      caption: "Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3.jpg"
-      caption: "Pulau Sekudu, Apr 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3.jpg
+    caption: Beting Bronok, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3.jpg
+    caption: Pulau Sekudu, Apr 06
+location:
+- chg
+- cj
+- skd
+- bb
+- tus
+- lab
+- kus
+- hnt
+- smk
 ---
 
 **Where seen?**

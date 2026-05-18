@@ -1,9 +1,10 @@
 ---
 title: Sand sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sand, star, seastar, sea star, starfish, fish, astropecten, 
+  astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Astropectenidae
 genus: Astropecten
@@ -18,7 +19,8 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
 links_references: |
   **Links**
   - [Sand
@@ -38,7 +40,7 @@ links_references: |
       are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfishl)
     - [SAND
       ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-thatl)
-  
+
   **References**
   - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp
   - K. S. Loh
@@ -64,43 +66,90 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg"
-      caption: "Pasir Ris Park, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg"
-      caption: "Large flat spines along the side of the arms. Changi, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg"
-      caption: "Pointed tube feet. Chek Jawa, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
+    caption: Pasir Ris Park, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
+    caption: Large flat spines along the side of the arms. Changi, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg
+    caption: Pointed tube feet. Chek Jawa, Apr 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg"
-      caption: "Three arms regenerating. Pasir Ris Park, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg"
-      caption: "Recently dead sand star disintegrating. Pasir Ris Park, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg"
-      caption: "Tiny white snails sometimes seen on the sea star. Changi, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg
+    caption: Three arms regenerating. Pasir Ris Park, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg
+    caption: Recently dead sand star disintegrating. Pasir Ris Park, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
+    caption: Tiny white snails sometimes seen on the sea star. Changi, Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg"
-      caption: Painted sand star 6-8cm in diameter
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg"
-      caption: Arms flatter with larger marginal plates.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
+    caption: Painted sand star 6-8cm in diameter
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg
+    caption: Arms flatter with larger marginal plates.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg"
-      caption: Plain sand star 4-6cm in diameter
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg"
-      caption: Arms not so flat with smaller marginal plates
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg
+    caption: Plain sand star 4-6cm in diameter
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
+    caption: Arms not so flat with smaller marginal plates
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg"
-      caption: Orange sand star 10-15cm in diameter
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg"
-      caption: Bright orange underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
+    caption: Orange sand star 10-15cm in diameter
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg
+    caption: Bright orange underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
+    caption: ''
   gallery6:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Sand star ( Astropecten sp.) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Astropecten bengalensis and Astropecten indicus from Sealife Base: Technical fact sheet. From The Echinoblog by Dr Chris Mah Telling Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade Species What are the FASTEST known Starfish?? SAND ANGELS! Astropecten The starfish that dig it! References Loisette M. Marsh and Jane Fromont. Field Guide to Shallow Water Seastars of Australia . 2020. Western Australian Museum. 543pp K. S. Loh . 31 Aug.2011. Diet and feeding in the sea star Astropecten indicus (Doderlein, 1888) . The Raffles Bulletin of Zoology 2011 59 (2): 251-258 and Loh Kok Sheng's blog post about this study . Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species . The Raffles Bulletin of Zoology 1998 46(2): 431-470. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition, Singapore. 144 pp. Chou, L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Links Sand star ( Astropecten sp.) Tan, Leo W. H. & Ng, Peter K. L.,
+      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
+      pp. Astropecten bengalensis and Astropecten indicus from Sealife Base: Technical
+      fact sheet. From The Echinoblog by Dr Chris Mah Telling Apart Sand Stars: Archaster
+      vs. Astropecten! Two Common Trade Species What are the FASTEST known Starfish??
+      SAND ANGELS! Astropecten The starfish that dig it! References Loisette M. Marsh
+      and Jane Fromont. Field Guide to Shallow Water Seastars of Australia . 2020.
+      Western Australian Museum. 543pp K. S. Loh . 31 Aug.2011. Diet and feeding in
+      the sea star Astropecten indicus (Doderlein, 1888) . The Raffles Bulletin of
+      Zoology 2011 59 (2): 251-258 and Loh Kok Sheng's blog post about this study
+      . Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and
+      Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Didier VandenSpiegel
+      et al. 1998. The Asteroid fauna (Echinodermata) of Singapore with a distribution
+      table and illustrated identification to the species . The Raffles Bulletin of
+      Zoology 1998 46(2): 431-470. Coleman, Neville. 2007. Sea stars: Echinoderms
+      of Asia/Indo-Pacific. Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp.
+      Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants
+      and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp.
+      Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow
+      water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars
+      . Times Edition, Singapore. 144 pp. Chou, L. M., 1998. A Guide to the Coral
+      Reef Life of Singapore . Singapore Science Centre. 128 pages."
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
 ---
 
 **Where seen?**

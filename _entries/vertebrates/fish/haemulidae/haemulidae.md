@@ -1,8 +1,9 @@
 ---
 title: Sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Haemulidae
 genus: ''
@@ -17,15 +18,19 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg"
-      caption: Brown sweetlips
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg"
-      caption: Harlequin sweetlips
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg"
-      caption: Painted sweetlips
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+    caption: Brown sweetlips
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+    caption: Harlequin sweetlips
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+    caption: Painted sweetlips
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -66,7 +71,7 @@ links_references: |
   : Technical fact sheet.
   - [Haemulidae. Grunts (also sweetlips, rubberlips, hotlips, and velvetchins)](ftp://ftp.fao.org/docrep/fao/009/y0770e/y0770e21.pdf)
   by R.J. McKay on the FAO website (pdf) In K.E. Carpenter and V.H. Niem (eds.) FAO species identification guide for fishery purposes. The living marine resources of the Western Central Pacific. Volume 5. Bony fishes part 3 (Menidae to Pomacentridae). Rome, FAO. pp. 2791-3380. Ref No [47695] Key No. [746]
-  
+
   **References**
   - Jeffrey K. Y. Low & Koh Kwan Siong. 26 Februrary 2016.
   *Gold-lined sweetlips in the Singapore Strait, Plectorhincus chrysotaeni*
@@ -83,6 +88,9 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- smk
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Puffy brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: puffy. brown, seaweed, weed, colpomenia, sinuosa, scytosiphonaceae, phaeophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: puffy. brown, seaweed, weed, colpomenia, sinuosa, scytosiphonaceae, 
+  phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
@@ -21,32 +22,41 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Ectocarpales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg"
-      caption: "Crisp outer membrance encasing hollow interior. Sisters Islands, Nov 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg"
-      caption: When submerged may have a fine hairy surface.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg
+    caption: Crisp outer membrance encasing hollow interior. Sisters Islands, 
+      Nov 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg
+    caption: When submerged may have a fine hairy surface.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg"
-      caption: "Tanah Merah, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg"
-      caption: "Labrador, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg"
-      caption: "South Cyrene, Oct 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg
+    caption: Tanah Merah, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg
+    caption: Labrador, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg
+    caption: South Cyrene, Oct 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg"
-      caption: "Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg
+    caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
 links_references: |
   **Links**
   - [*Colpomenia*](http://www.algaebase.org/search/genus/detail/?genus_id=64)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -66,6 +76,19 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
 ---
 
 **Where seen?**

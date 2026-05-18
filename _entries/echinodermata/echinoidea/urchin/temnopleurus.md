@@ -1,9 +1,10 @@
 ---
 title: Black sea urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, 
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -31,33 +32,47 @@ updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg"
-      caption: "Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg"
-      caption: Zig-zag lines on the upperside. With long tube feet.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg"
-      caption: "Sometimes found in large groups. Changi, Jul 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg
+    caption: Changi, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg
+    caption: Zig-zag lines on the upperside. With long tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg
+    caption: Sometimes found in large groups. Changi, Jul 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg"
-      caption: "Worm-like animal often seen around the mouth. Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg"
-      caption: "Carrying a shell. Changi, Aug 19"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg
+    caption: Worm-like animal often seen around the mouth. Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg
+    caption: Carrying a shell. Changi, Aug 19
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg"
-      caption: "Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg"
-      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg
+    caption: Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg"
-      caption: "Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg"
-      caption: Photo shared by Toh Chay Hoon on her blog .
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg"
-      caption: "East Coast, May 08 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg
+    caption: Beting Bronok, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg
+    caption: Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg
+    caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
@@ -68,7 +83,7 @@ links_references: |
   and
   *[Temnotrema siamense](http://www.sealifebase.org/summary/Temnotrema-siamense.html)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Jeffrey K. Y. Low. 29 May 2015.
   *Globe urchin in the Singapore Strait, Mespilia globulus*
@@ -76,6 +91,16 @@ links_references: |
   - Lane, David J.W. and Didier Vandenspiegel. 2003.
   *A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- skd
+- bb
+- tus
+- ecp
+- lab
 ---
 
 **Where seen?**

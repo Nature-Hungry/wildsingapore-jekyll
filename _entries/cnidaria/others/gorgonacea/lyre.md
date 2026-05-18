@@ -1,9 +1,10 @@
 ---
 title: Lyre sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian,
-  gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, 
+  gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellisellidae
 genus: Ctenocella
@@ -17,25 +18,33 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg"
-      caption: "Beting Bronok, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+    caption: Beting Bronok, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg"
-      caption: "Beting Bronok, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg"
-      caption: "Beting Bronok, May 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg"
-      caption: "Changi, Jul 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+    caption: Beting Bronok, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
+    caption: Beting Bronok, May 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
+    caption: Changi, Jul 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg"
-      caption: "Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
+    caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Ctenocella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Ctenocella)
@@ -44,7 +53,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
@@ -52,6 +61,10 @@ links_references: |
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
   *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
   . Raffles Museum Bulletin of Zoology Pp. 435-459.
+location:
+- chg
+- ubn
+- bb
 ---
 
 **Where seen?**

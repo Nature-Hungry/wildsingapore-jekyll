@@ -1,9 +1,10 @@
 ---
 title: Ringed plate coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: serpent, pachyseris, speciosa, agariciidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: serpent, pachyseris, speciosa, agariciidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: Pachyseris
@@ -17,51 +18,73 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
-      caption: "Tiers of plates. Pulau Semakau, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg"
-      caption: Thick ridges form concentric rings
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3b.jpg"
-      caption: . Fine lines perpendicular to thick ridges.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+    caption: Tiers of plates. Pulau Semakau, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
+    caption: Thick ridges form concentric rings
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3b.jpg
+    caption: . Fine lines perpendicular to thick ridges.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/2007024pcnlks15.jpg"
-      caption: "East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100615tmjk1m3.jpg"
-      caption: "Tanah Merah, Jun 10 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/150618tmftlks9m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/2007024pcnlks15.jpg
+    caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100615tmjk1m3.jpg
+    caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/150618tmftlks9m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11a.jpg"
-      caption: Competing with a Disk coral .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11a.jpg
+    caption: Competing with a Disk coral .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/250714srptl6.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/160409sjilks6.JPG"
-      caption: "St Johns Island, Apr 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/120721tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/250714srptl6.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/160409sjilks6.JPG
+    caption: St Johns Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/120721tptlks.JPG
+    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on 
+      flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3.jpg"
-      caption: "Sisters Island, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3.jpg"
-      caption: "Pulau Hantu, Jun 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3.jpg
+    caption: Sisters Island, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3.jpg
+    caption: Pulau Hantu, Jun 08
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3.jpg"
-      caption: "Beting Bemban Besar, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5253m3.jpg"
-      caption: "Beting Bemban Besar, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3.jpg"
-      caption: "Terumbu Raya, Jul 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3.jpg
+    caption: Beting Bemban Besar, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5253m3.jpg
+    caption: Beting Bemban Besar, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3.jpg
+    caption: Terumbu Raya, Jul 09
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -73,6 +96,18 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal with species factsheet.
   - [*Pachyseris speciosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46102&genusname=Pachyseris&speciesname=speciosa)
   on SeaLife Base: species factsheet.
+location:
+- tm
+- ecp
+- snt
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

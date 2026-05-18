@@ -1,9 +1,10 @@
 ---
 title: See-through sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: transparent, sea-through, cucumber, seacucumber, paracaudina, australis,
-  caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: transparent, sea-through, cucumber, seacucumber, paracaudina, 
+  australis, caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,35 +27,49 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Molpadida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg"
-      caption: "Chek Jawa, Sep 03"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3a.jpg"
-      caption: Short stubby feeding tentacles.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3b.jpg"
-      caption: Internal organs sometimes can be seen.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
+    caption: Chek Jawa, Sep 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3a.jpg
+    caption: Short stubby feeding tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3b.jpg
+    caption: Internal organs sometimes can be seen.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks1m3.jpg"
-      caption: "Pasir Ris Park, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks2m3.jpg"
-      caption: Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks1m3.jpg
+    caption: Pasir Ris Park, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks2m3.jpg
+    caption: Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/251107chgmn4.jpg"
-      caption: "Changi Point, Nov 25 Shared by Marcus Ng on facebook."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/251107chgmn4.jpg
+    caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg"
-      caption: "East Coast (G), Dec 2022 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg
+    caption: East Coast (G), Dec 2022 Photo shared by Kelvin Yong on facebook .
 links_references: |
   **Links**
   - *[Paracaudina australis](http://species-identification.org/species.php?species_group=nasc&id=118)*
   in North Australian Sea Cucumbers on the Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- prp
+- chg
+- cj
+- tus
+- ecp
 ---
 
 **Where seen?**

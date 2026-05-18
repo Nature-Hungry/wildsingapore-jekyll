@@ -1,10 +1,11 @@
 ---
 title: Smooth sponge green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis,
-  siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, seaweed, weed, green, codium, cladophoropsis, 
+  vaucheriaeformis, siphonocladaceae, chlorophyta, algae, porifera, 
+  halichondria, cartilaginea, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Boodleaceae
@@ -14,41 +15,53 @@ attributes:
 - 44
 - 97
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg"
-      caption: "Pulau Tekukor, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg"
-      caption: "Pulau Jong, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
+    caption: Pulau Tekukor, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
+    caption: Pulau Jong, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg"
-      caption: "Pulau Biola, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
+    caption: Pulau Biola, Dec 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg"
-      caption: "Terumbu Semakau, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
+    caption: Terumbu Semakau, May 10
 links_references: |
   **Links**
   - [*Cladophoropsis vaucheriaeformis*](http://www.algaebase.org/search/species/detail/?species_id=3720)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -73,6 +86,18 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- tkr
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Brain anchor coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard,
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral,
+  hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Euphylliidae
@@ -17,39 +18,56 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg"
-      caption: "Terumbu Raya, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg"
-      caption: Tentacles with U-shaped tips
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
+    caption: Terumbu Raya, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg
+    caption: Tentacles with U-shaped tips
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
-      caption: "Brain-like meandering valleys. Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg"
-      caption: "Wide, deep gaps between corallite walls."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg"
-      caption: "Fanworms in a living colony. Terumbu Raya, Jun 15"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+    caption: Brain-like meandering valleys. Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg
+    caption: Wide, deep gaps between corallite walls.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg
+    caption: Fanworms in a living colony. Terumbu Raya, Jun 15
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg"
-      caption: "Kusu Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg"
-      caption: "Terumbu Raya, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg"
-      caption: "Terumbu Semakau, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg
+    caption: Kusu Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg
+    caption: Terumbu Raya, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg
+    caption: Terumbu Semakau, Mar 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg"
-      caption: "St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg"
-      caption: "St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg
+    caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his 
+      blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG"
-      caption: "Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg"
-      caption: "Terumbu Hantu, Apr 12 Photo shared by Sam Yeo on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG
+    caption: Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg
+    caption: Terumbu Hantu, Apr 12 Photo shared by Sam Yeo on facebook
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -60,7 +78,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
   - [*Euphyllia ancora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46644)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -71,6 +89,17 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- snt
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

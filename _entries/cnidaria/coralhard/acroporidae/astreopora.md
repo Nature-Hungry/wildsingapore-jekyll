@@ -1,9 +1,10 @@
 ---
 title: Pebble coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pebble, astreopora, acroporidae, coral, hard, scleractinia, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pebble, astreopora, acroporidae, coral, hard, scleractinia, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Astreopora
@@ -17,61 +18,88 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1553m3a.jpg"
-      caption: "Polyps with 24 flat, petal-like tentacles."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
+    caption: Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1553m3a.jpg
+    caption: Polyps with 24 flat, petal-like tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3.jpg"
-      caption: "Pulau Hantu, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0807m3.jpg"
-      caption: "Pulau Hantu, Apr 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1582m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3.jpg
+    caption: Pulau Hantu, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0807m3.jpg
+    caption: Pulau Hantu, Apr 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1582m3.jpg
+    caption: Terumbu Pempang Tengah, May 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/220618tmftlks10.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/220618tmftlks10.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/200805sntlks5.jpg"
-      caption: "Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/240527srplks7.jpg"
-      caption: "Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/200805sntlks5.jpg
+    caption: Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/240527srplks7.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100515sjilks4m3.jpg"
-      caption: "St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/210430sjilks5.jpg"
-      caption: "St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100616tsmlks3m3.jpg"
-      caption: "Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100515sjilks4m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/210430sjilks5.jpg
+    caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100616tsmlks3m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3.jpg"
-      caption: "Pulau Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3.jpg
+    caption: Pulau Berkas, May 10
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3.jpg"
-      caption: "Pulau Biola, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100131slud8875m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3.jpg
+    caption: Pulau Biola, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100131slud8875m3.jpg
+    caption: Terumbu Salu, Jan 10
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100601slud4768m3.jpg"
-      caption: "Pulau Salu, Jun 10 Bleaching."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg"
-      caption: "Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100601slud4768m3.jpg
+    caption: Pulau Salu, Jun 10 Bleaching.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg
+    caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -87,6 +115,18 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- tm
+- snt
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,32 +1,47 @@
 ---
 title: 'Brain ascidians (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
+  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg"
-      caption: "Terumbu Raya, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
+    caption: Terumbu Raya, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/160124smkerk1.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/220420tbmn4.jpg"
-      caption: "Terumbu Bemban, Apr 22 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/160124smkerk1.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/220420tbmn4.jpg
+    caption: Terumbu Bemban, Apr 22 Photo shared by Marcus Ng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3.jpg"
-      caption: "Pulau Senang, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3.jpg
+    caption: Pulau Senang, Aug 10
+location:
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

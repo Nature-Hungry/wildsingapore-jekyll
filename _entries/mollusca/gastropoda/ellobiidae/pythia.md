@@ -1,9 +1,10 @@
 ---
 title: Pythia snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: Pythia
@@ -22,18 +23,23 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg"
-      caption: "Sungei Buloh Besar, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg"
-      caption: "Pulau Semakau, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg"
-      caption: "Pasir Ris Park, Dec 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+    caption: Sungei Buloh Besar, Apr 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
+    caption: Pulau Semakau, Jan 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+    caption: Pasir Ris Park, Dec 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg"
-      caption: "Sungei Buloh Besar, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+    caption: Sungei Buloh Besar, Apr 11
 links_references: |
   **Links**
   - *Pythia scarabaeus*
@@ -44,7 +50,7 @@ links_references: |
   *Pythia scarabaeus*
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=1203)
   from SeaLife base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -52,6 +58,10 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- sbw
+- prp
+- smk
 ---
 
 **Where seen?**

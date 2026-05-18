@@ -1,9 +1,10 @@
 ---
 title: Brown       moray eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brown, unicolor, unicolour, snake, moray, eel, fish, uropterygius, concolor,
-  muraenidae , field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: brown, unicolor, unicolour, snake, moray, eel, fish, uropterygius, 
+  concolor, muraenidae , field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,24 +27,31 @@ suborder: Muraenoidei
 subfamily: Uropterygiinae
 complex: Uropterygius concolor
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg"
-      caption: No pelvic fins
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg"
-      caption: "Tuas, Apr 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+    caption: No pelvic fins
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
+    caption: Tuas, Apr 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg"
-      caption: "Terumbu Pempang Tengah, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg"
-      caption: Fins mostly towards the tail.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
+    caption: Terumbu Pempang Tengah, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
+    caption: Fins mostly towards the tail.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg"
-      caption: "Pulau Sekudu, May 12 Photo shared by Sam Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
+    caption: Pulau Sekudu, May 12 Photo shared by Sam Yeo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/080819cymn.jpg"
-      caption: "Cyrene, Aug 08 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
+    caption: Cyrene, Aug 08 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Unicolor snake moray (
@@ -53,6 +61,12 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family with fact sheets on species
+location:
+- chg
+- skd
+- tus
+- cyr
+- tpg
 ---
 
 **Where seen?**

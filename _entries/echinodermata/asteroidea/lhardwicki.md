@@ -1,9 +1,10 @@
 ---
 title: Five-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, luidiidae,
-  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, 
+  luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -22,28 +23,35 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
-      caption: "Changi, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+    caption: Changi, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg"
-      caption: Underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg"
-      caption: Pointed tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
+    caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
+    caption: Pointed tube feet.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg"
-      caption: "Changi, Jul 17 Photo shared by Abel Yeo on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
+    caption: Changi, Jul 17 Photo shared by Abel Yeo on facebook ..
 links_references: |
   **Links**
   - [*Luidia hardwicki*](http://www.sealifebase.org/summary/Luidia-hardwicki.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Loisette M. Marsh and Jane Fromont.
   *Field Guide to Shallow Water Seastars of Australia*
@@ -54,6 +62,9 @@ links_references: |
   - Didier VandenSpiegel et al. 1998.
   *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+location:
+- chg
+- ubn
 ---
 
 **Where seen?**

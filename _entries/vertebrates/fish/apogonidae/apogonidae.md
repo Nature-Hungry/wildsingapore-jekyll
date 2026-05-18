@@ -1,8 +1,9 @@
 ---
 title: Cardinalfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Apogonidae
 genus: ''
@@ -18,32 +19,45 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Apogonoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They have large eyes, mouth and scales. Some are colourful. The male broods the eggs in his mouth. Don't touch them, some can give a nasty bite!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They have large eyes, mouth and scales. Some are colourful. The male broods the eggs in his mouth. Don't touch them, some can give a nasty bite!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They have large eyes, 
+      mouth and scales. Some are colourful. The male broods the eggs in his 
+      mouth. Don't touch them, some can give a nasty bite!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They have large eyes, mouth and scales. Some are colourful. The 
+      male broods the eggs in his mouth. Don't touch them, some can give a nasty
+      bite!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg"
-      caption: "Sometimes found in groups. Pulau Hantu, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg"
-      caption: "Brooding eggs in the mouth. Pulau Semakau, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg"
-      caption: "Brooding young in the mouth. Pulau Semakau, Oct 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+    caption: Sometimes found in groups. Pulau Hantu, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
+    caption: Brooding eggs in the mouth. Pulau Semakau, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
+    caption: Brooding young in the mouth. Pulau Semakau, Oct 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg"
-      caption: Chequered cardinalfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg"
-      caption: Candystripe cardinalfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg"
-      caption: Candystripe cardinalfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
+    caption: Chequered cardinalfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+    caption: Candystripe cardinalfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
+    caption: Candystripe cardinalfish
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg"
-      caption: Orbicular cardinalfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg"
-      caption: Black cardinalfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+    caption: Orbicular cardinalfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
+    caption: Black cardinalfish
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -61,7 +75,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, including fact sheets on individual species.
-  
+
   **References**
   - Daisuke Taira. 30 November 2020.
   *Tiny cardinalfish, Ostorhinchus nanus, off Kusu Island*
@@ -121,6 +135,21 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- skd
+- tm
+- lab
+- snt
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

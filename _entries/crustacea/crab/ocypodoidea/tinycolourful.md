@@ -1,8 +1,10 @@
 ---
 title: Tiny colourful fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,20 +32,28 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg"
-      caption: "Chek Jawa, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
-      caption: "Chek Jawa, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
+    caption: Chek Jawa, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+    caption: Chek Jawa, Mar 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg"
-      caption: "Chek Jawa, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg"
-      caption: "Chek Jawa, Mar 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+    caption: Chek Jawa, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
+    caption: Chek Jawa, Mar 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg"
-      caption: "Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg"
-      caption: "Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
+    caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
+    caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
+location:
+- cj
 ---
 
 **Where seen?**

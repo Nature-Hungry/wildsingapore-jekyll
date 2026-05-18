@@ -1,12 +1,15 @@
 ---
 title: "'Bee hoon' green seaweed"
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bee, hoon, seaweed, weed, green, chaetomorpha, cladophoraceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bee, hoon, seaweed, weed, green, chaetomorpha, cladophoraceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Cladophoraceae
 genus: Chaetomorpha
-species: ""
+species: ''
 attributes: [97, 99]
 inat_id: 51428
 stateofmatter: Life
@@ -15,22 +18,30 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg"
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1761m3.jpg"
-      caption: "Kranji Nature Trail, Apr 10 Forming a mossy carpet under mangrove trees."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3a.jpg"
-      caption: "Sentosa, Jun 05 Often entangled among other seaweeds."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3b.jpg"
-      caption: "Sentosa, Jan 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1761m3.jpg
+    caption: Kranji Nature Trail, Apr 10 Forming a mossy carpet under mangrove 
+      trees.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3a.jpg
+    caption: Sentosa, Jun 05 Often entangled among other seaweeds.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3b.jpg
+    caption: Sentosa, Jan 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg"
-      caption: "Terumbu Semakau, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg
+    caption: Terumbu Semakau, Mar 11
 links_references: |
   **Links**
   - [*Chaetomorpha*
@@ -44,7 +55,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -61,6 +72,24 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- chg
+- cj
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

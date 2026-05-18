@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, 
+  field,
 layout: entry
 shape: bristley
 title: "'Hairy olives' sponge"
@@ -17,50 +19,73 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Astrophorina
 updated: Oct 2016
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120313bbbs04967m3.jpg"
-      caption: "Beting Bemban Besar, Mar 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120313bbbs04967m3.jpg
+    caption: Beting Bemban Besar, Mar 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100617tbd6271m3.jpg"
-      caption: "Growing on Brown prickly sponge . Terumbu Bemban, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100629pdrd7577m3a.jpg"
-      caption: "Growing on Orange sprawling sponge . Terumbu Pempang Darat, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/250629smke.jpg"
-      caption: "Growing on Yellow prickly branching sponge .. Pulau Semakau (East), Jun 25"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100617tbd6271m3.jpg
+    caption: Growing on Brown prickly sponge . Terumbu Bemban, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100629pdrd7577m3a.jpg
+    caption: Growing on Orange sprawling sponge . Terumbu Pempang Darat, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/250629smke.jpg
+    caption: Growing on Yellow prickly branching sponge .. Pulau Semakau (East),
+      Jun 25
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100713cyrd8577m3a.jpg"
-      caption: "Cyrene Reef, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100417hntd1196m3.jpg"
-      caption: "Pulau Hantu, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120409tptd8682.jpg"
-      caption: "Common hairy crab eating one? Terumbu Pempang Tengah, Apr 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100713cyrd8577m3a.jpg
+    caption: Cyrene Reef, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100417hntd1196m3.jpg
+    caption: Pulau Hantu, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120409tptd8682.jpg
+    caption: Common hairy crab eating one? Terumbu Pempang Tengah, Apr 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/200822jngjc3.jpg"
-      caption: "Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/200822jngjc3.jpg
+    caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100601slud4964m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100613sngd5533m3a.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100530tbkd4401m3.jpg"
-      caption: "Terumbu Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100601slud4964m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100613sngd5533m3a.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100530tbkd4401m3.jpg
+    caption: Terumbu Berkas, May 10
 links_references: |
   **Links**
   - [*Stelletta clavosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106052)
   on SeaLife Base: technical fact sheet.
   - [*Stelletta clavosa*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169915)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

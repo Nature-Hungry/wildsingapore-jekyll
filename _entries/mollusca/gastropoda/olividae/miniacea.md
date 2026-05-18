@@ -1,9 +1,10 @@
 ---
 title: Orange-mouth olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: olive, snail, shell, oliva, miniacea, olividae, gastropod, mollusc, sand,
-  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: olive, snail, shell, oliva, miniacea, olividae, gastropod, mollusc, 
+  sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Olividae
 genus: ''
@@ -18,35 +19,48 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg"
-      caption: "Cyrene Reef, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg"
-      caption: Spire flattened with short pointed tip.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg"
-      caption: Shell opening often orange or orangey.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+    caption: Cyrene Reef, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
+    caption: Spire flattened with short pointed tip.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
+    caption: Shell opening often orange or orangey.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg"
-      caption: "Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg"
-      caption: "Cyrene Reef, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
+    caption: Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
+    caption: Cyrene Reef, Aug 11
   gallery3:
-    - url: "https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg"
-      caption: "East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg"
-      caption: "Cyrene Reef, Oct 08 Photo shared by Toh Chay Hoon on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Che Cheng Neo on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
+    caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
+    caption: Cyrene Reef, Oct 08 Photo shared by Toh Chay Hoon on her flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
 links_references: |
   **Links**
   - [Redmouth olive (
@@ -62,7 +76,7 @@ links_references: |
   - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -73,6 +87,12 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- ecp
+- laz
+- sis
+- cyr
 ---
 
 **Where seen?**

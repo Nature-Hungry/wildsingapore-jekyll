@@ -1,9 +1,10 @@
 ---
 title: Three-spot flounder
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus,
-  soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, 
+  polyophthalmus, soleidae, pleuronectiformes,  field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,15 +25,19 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg"
-      caption: "Cyrene Reef, May 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg"
-      caption: Eyes on the left side.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg"
-      caption: Tail fin separated from the dorsal and anal fins .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+    caption: Cyrene Reef, May 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
+    caption: Eyes on the left side.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
+    caption: Tail fin separated from the dorsal and anal fins .
 links_references: |
   **Links**
   - [Threespot flounder (
@@ -41,7 +46,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Kelvin K. P. Lim.
   *Singapore record of largescale flounder, Engyprosopon grandisquama*
@@ -55,6 +60,8 @@ links_references: |
   - Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014.
   *New record of intermediate flounder in Singapore*
   . Singapore Biodiversity Records 2014: 84-85
+location:
+- cyr
 ---
 
 **Where seen?**

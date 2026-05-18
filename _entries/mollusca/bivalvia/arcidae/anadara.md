@@ -1,9 +1,10 @@
 ---
 title: See-hum
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Arcidae
 genus: Anadara
@@ -19,22 +20,32 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... It is an ingredient in laksa and char kuay teow, favourite local dishes. Its body is red because it has haemoglobin just like us. It can cause cholera, hepatitis A and food poisoning."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "It is an ingredient in laksa and char kuay teow, favourite local dishes. Its body is red because it has haemoglobin just like us. It can cause cholera, hepatitis A and food poisoning."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... It is an ingredient in 
+      laksa and char kuay teow, favourite local dishes. Its body is red because 
+      it has haemoglobin just like us. It can cause cholera, hepatitis A and 
+      food poisoning.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is an ingredient in laksa and char kuay teow, favourite local 
+      dishes. Its body is red because it has haemoglobin just like us. It can 
+      cause cholera, hepatitis A and food poisoning.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg"
-      caption: "Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg"
-      caption: "Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg"
-      caption: "Seletar, Jun 02"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg"
-      caption: "Tanah Merah, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+    caption: Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+    caption: Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg
+    caption: Seletar, Jun 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
+    caption: Tanah Merah, Apr 05
 links_references: |
   **Links**
   - [Blood cockle (
@@ -59,7 +70,7 @@ links_references: |
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [*Tegillarca granosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tegillarca%20granosa.html)
   (Arcoida: Arcidae) Blood Cockles on Taxo4254.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -70,6 +81,9 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
+- tm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

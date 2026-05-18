@@ -1,9 +1,10 @@
 ---
 title: 'Scaly nerite snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,30 +27,39 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg"
-      caption: "Kusu Island, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg"
-      caption: Tiny 'scales' on the shell.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg"
-      caption: "Kusu Island, Mar 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
+    caption: Kusu Island, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg
+    caption: Tiny 'scales' on the shell.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+    caption: Kusu Island, Mar 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg"
-      caption: "Labrador, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg"
-      caption: "Changi, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg"
-      caption: "Changi, May 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg
+    caption: Labrador, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg
+    caption: Changi, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg
+    caption: Changi, May 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook 
+      ..
 links_references: |
   **Links**
   - *[Nerita histrio](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=137341)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -60,6 +70,18 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- chg
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- smk
+- rfl
 ---
 
 **Where seen?**

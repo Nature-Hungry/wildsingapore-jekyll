@@ -1,9 +1,10 @@
 ---
 title: Fuzzy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: boodlea, boodleaceae, seaweed, weed, green, chlorophyta, algae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: boodlea, boodleaceae, seaweed, weed, green, chlorophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Boodleaceae
@@ -20,35 +21,47 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg"
-      caption: "Cyrene Reef, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
+    caption: Cyrene Reef, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/240211bigsisvc7.jpg"
-      caption: "Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210429hntvc8.jpg"
-      caption: "Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/240211bigsisvc7.jpg
+    caption: Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210429hntvc8.jpg
+    caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3.jpg"
-      caption: "Pulau Semakau East, Jul 15 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1.jpg"
-      caption: "Terumbu Semakau, Jul 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3.jpg
+    caption: Pulau Semakau East, Jul 15 Photo shared by Toh Chay Hoon on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1.jpg
+    caption: Terumbu Semakau, Jul 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/2007026tplvc4.jpg"
-      caption: "Terumbu Pempang Laut, Jul 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210428sluvc1.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/2007026tplvc4.jpg
+    caption: Terumbu Pempang Laut, Jul 20 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210428sluvc1.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
   - [*Boodlea*](http://www.algaebase.org/search/genus/detail/?genus_id=35931)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -65,6 +78,17 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- snt
+- tkr
+- laz
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

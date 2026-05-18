@@ -1,9 +1,10 @@
 ---
 title: Snapping shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -36,36 +37,55 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... You will probably hear one than see one on the shores. Listen out for them! The enlarged pincer can be as big as the rest of the shrimp! Sometimes, a goby share the burrow with the shrimp."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "You will probably hear one than see one on the shores. Listen out for them! The enlarged pincer can be as big as the rest of the shrimp! Sometimes, a goby share the burrow with the shrimp."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... You will probably hear 
+      one than see one on the shores. Listen out for them! The enlarged pincer 
+      can be as big as the rest of the shrimp! Sometimes, a goby share the 
+      burrow with the shrimp.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: You will probably hear one than see one on the shores. Listen out 
+      for them! The enlarged pincer can be as big as the rest of the shrimp! 
+      Sometimes, a goby share the burrow with the shrimp.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg"
-      caption: "One pincer greatly enlarged. Pulau Sekudu, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg"
-      caption: "Sideview of the shrimp St. John's Island, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg"
-      caption: "Using the small pincer to carry things. Labrador, May 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
+    caption: One pincer greatly enlarged. Pulau Sekudu, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
+    caption: Sideview of the shrimp St. John's Island, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
+    caption: Using the small pincer to carry things. Labrador, May 02
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg"
-      caption: "This shrimp shares its burrow with a brittle star. Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
-      caption: "A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby . Kusu Island, Aug 08"
-    - url: "http://www.wildsingapore.com/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
-      caption: "A Many-band snapping shrimp sharing a burrow with a Saddled shrimp-goby . Labrador, May 05 ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
+    caption: This shrimp shares its burrow with a brittle star. Chek Jawa, Jul 
+      05
+  - url: 
+      http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+    caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled 
+      shrimp-goby . Kusu Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+    caption: A Many-band snapping shrimp sharing a burrow with a Saddled 
+      shrimp-goby . Labrador, May 05 .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg"
-      caption: Ornamented snapping shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg"
-      caption: Smooth snapping shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg"
-      caption: Many-band snapping shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
+    caption: Ornamented snapping shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+    caption: Smooth snapping shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
+    caption: Many-band snapping shrimp
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg"
-      caption: Commensal snapping shrimp in sponges and under stones
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
-      caption: White soft coral snapping shrimp in ball flowery soft corals
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
+    caption: Commensal snapping shrimp in sponges and under stones
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+    caption: White soft coral snapping shrimp in ball flowery soft corals
 links_references: |
   **Links**
   - [Mangrove snapping prawns (
@@ -88,7 +108,7 @@ links_references: |
   - D. Lohse, B. Schmitz & M. Versluis (2001). "Snapping shrimp make flashing bubbles". Nature 413 (6855): 477-478.
   [DOI:10.1038/35097152](http://www.nature.com/nature/journal/v413/n6855/abs/413477a0.html)
   .
-  
+
   **References**
   - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
   *Brown drombus goby found in burrows with snapping shrimps*
@@ -105,6 +125,7 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp
+location: []
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

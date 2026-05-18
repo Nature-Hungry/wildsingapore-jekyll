@@ -1,9 +1,10 @@
 ---
 title: Skinny sea fans
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, anthozoa,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, 
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: Astrogorgia
@@ -17,32 +18,44 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
-      caption: "East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg"
-      caption: "Changi, Jul 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg"
-      caption: "Chek Jawa, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+    caption: East Coast, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg
+    caption: Changi, Jul 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
+    caption: Chek Jawa, Jul 05
   gallery2:
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg"
-      caption: "Tiny colourful brittle stars . Changi, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg"
-      caption: "Red flatworm ? East Coast, Dec 08"
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
-      caption: "Ovulid snails East Coast, Jun 06"
+  - url: 
+      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+    caption: Tiny colourful brittle stars . Changi, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
+    caption: Red flatworm ? East Coast, Dec 08
+  - url: 
+      http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+    caption: Ovulid snails East Coast, Jun 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG"
-      caption: "Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
+    caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg"
-      caption: "East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg"
-      caption: "East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg
+    caption: East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
+    caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [*Astrogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Astrogorgia)
@@ -51,7 +64,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
@@ -59,6 +72,17 @@ links_references: |
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
   [An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific](http://lkcnhm.nus.edu.sg/rbz/biblio/44/44rbz435-459.pdf)
   . Raffles Museum Bulletin of Zoology Pp. 435-459. [pdf, 3029kb].
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
 ---
 
 **Where seen?**

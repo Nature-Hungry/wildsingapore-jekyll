@@ -1,31 +1,37 @@
 ---
 title: Feline flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, platyhelminthes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, 
+  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudocerotid
 species: 8
 attributes: []
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudlks12m6l.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudlks12m6l.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Pseudoceros felis*](http://polycladida.lifedesks.org/pages/3084)
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-  
+
   **References**
   - Newman, Leslie and Lester Cannon. 2003.
   *Marine Flatworms: The World of Polyclads*
   . CSIRO Publishing. 97pp.
+location:
+- lfa
 ---
 
 **Where seen?**

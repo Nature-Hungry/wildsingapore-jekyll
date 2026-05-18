@@ -1,9 +1,10 @@
 ---
 title: Dwarf turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, 
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Turbo
@@ -19,30 +20,41 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg"
-      caption: "Pulau Hantu, Feb 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg"
-      caption: Many tiny bumps on the operculum.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+    caption: Pulau Hantu, Feb 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
+    caption: Many tiny bumps on the operculum.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg"
-      caption: "East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg"
-      caption: "East Coast (B), Jun21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg
+    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg
+    caption: East Coast (B), Jun21 Photo shared by Vincent Choo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg"
-      caption: "Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg"
-      caption: "St John's Island, Oct 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg
+    caption: Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg
+    caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg"
-      caption: "Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg
+    caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: |
   **Links**
   - [Dwarf Turban Shell (
@@ -60,7 +72,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -74,6 +86,21 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

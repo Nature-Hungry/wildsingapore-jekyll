@@ -1,9 +1,10 @@
 ---
 title: Spotted archerfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -24,13 +25,16 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg"
-      caption: "Changi Jetty, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+    caption: Changi Jetty, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 05
 links_references: |
   **Links**
   - *[Toxotes chatareus](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1232)*
@@ -47,11 +51,14 @@ links_references: |
   from the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   : fact sheet with photo of fish and closeup of the structure of the fish's mouth with groove on the roof and shape of tongue.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
   . Periplus Editions. 292 pp.
+location:
+- sbw
+- chg
 ---
 
 **Where seen?**

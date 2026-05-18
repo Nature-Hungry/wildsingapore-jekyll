@@ -1,9 +1,11 @@
 ---
 title: Eyed phyllid nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibranch,
-  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, 
+  nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,20 +30,27 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
-      caption: "Pulau Jong, Aug 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg"
-      caption: "Pulau Jong, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+    caption: Pulau Jong, Aug 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
+    caption: Pulau Jong, Aug 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg"
-      caption: "Beting Bemban Besar, Mar 2020 Photo shared by Jesselyn Chua on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
+    caption: Beting Bemban Besar, Mar 2020 Photo shared by Jesselyn Chua on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -52,7 +61,7 @@ links_references: |
   by Uma Sachidhanandam: photo and distribution of
   *[Phyllidelia ocellata](http://rmbr.nus.edu.sg/nudibranch/nudipages/ocellata.html)*
   .
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -75,6 +84,9 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- jng
+- tsm
 ---
 
 **Where seen?**

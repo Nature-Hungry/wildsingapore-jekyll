@@ -1,9 +1,10 @@
 ---
 title: False stonefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -24,13 +25,14 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Scorpaeninae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
 links_references: |
   **Links**  
   - [False
     stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl) from [FishBase](http://www.fishbase.org/):
     Technical fact sheet on the order, including a fact sheet on
-  
+
   **References**
   - Allen, Gerry,
     2000. *Marine
@@ -38,21 +40,34 @@ links_references: |
     Periplus Editions. 292 pp.
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg"
-      caption: "Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/190831kuslks2.jpg"
-      caption: "Kusu Island, Sep 19 Photo shared by Loh Kok Sheng on facebook."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
+    caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/190831kuslks2.jpg
+    caption: Kusu Island, Sep 19 Photo shared by Loh Kok Sheng on facebook.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0150m6l.jpg"
-      caption: "Lazarus Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0154m3.jpg"
-      caption: Shallow depression near the eye.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0150m6l.jpg
+    caption: Lazarus Island, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0154m3.jpg
+    caption: Shallow depression near the eye.
   gallery3:
-    - url: "https://live.staticflickr.com/968/41263247755_14c66fe637_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/968/41263247755_14c66fe637_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/200820ssistch.jpg"
-      caption: "Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/200820ssistch.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on 
+      facebook .
+location:
+- skd
+- tm
+- kus
+- laz
+- sis
+- smk
 ---
 
 **Where seen?**

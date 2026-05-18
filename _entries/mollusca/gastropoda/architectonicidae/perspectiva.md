@@ -1,9 +1,10 @@
 ---
 title: Clear sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sundial, architectonica, perspectiva, architectonicidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sundial, architectonica, perspectiva, architectonicidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: Architectonica
@@ -17,32 +18,44 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg"
-      caption: "Sisters Island, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg"
-      caption: "Pulau Hantu, Mar 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+    caption: Sisters Island, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg
+    caption: Pulau Hantu, Mar 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg"
-      caption: "Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg"
-      caption: Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+    caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh 
+      Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg
+    caption: Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg"
-      caption: "Changi, May 17 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg"
-      caption: "Changi, May 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg
+    caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg
+    caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg"
-      caption: "Kusu Island, Aug 17 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg"
-      caption: "St John's Island, Feb 24 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg"
-      caption: "Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg
+    caption: Kusu Island, Aug 17 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg
+    caption: St John's Island, Feb 24 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg
+    caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)
@@ -64,7 +77,7 @@ links_references: |
   on the colourful clouds blog: photos and video clip.
   - [Dialling the sun at Saint John's](http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html)
   by Loh Kok Sheng on his wonderful creation blog: an encounter with a sundial laying eggs.
-  
+
   **References**
   - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017.
   *Recent sightings of two species of sundial shells at eastern Singapore*
@@ -81,6 +94,14 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- chg
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
 ---
 
 **Where seen?**

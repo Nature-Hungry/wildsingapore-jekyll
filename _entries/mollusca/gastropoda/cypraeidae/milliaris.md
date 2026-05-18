@@ -1,9 +1,10 @@
 ---
 title: 'Miliaris cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Erosaria
@@ -19,12 +20,13 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Erosariinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 links_references: |
   **Links**
   - *[Cypraea
     milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)* on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong
     Kiat and Henrietta P. M. Woo, 2010 *Preliminary
@@ -39,56 +41,104 @@ links_references: |
     Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg"
-      caption: "Pulau Sekudu, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg"
-      caption: "Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg"
-      caption: "'Teeth' are not coloured.."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+    caption: Pulau Sekudu, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
+    caption: Tanah Merah, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg
+    caption: "'Teeth' are not coloured.."
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/060624skdd3275m3.jpg"
-      caption: "Miliaris cowries are often seen in a pair. Pulau Sekudu, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg"
-      caption: "Mama cowrie guarding her eggs. Chek Jawa, Feb 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/060624skdd3275m3.jpg
+    caption: Miliaris cowries are often seen in a pair. Pulau Sekudu, Jun 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg
+    caption: Mama cowrie guarding her eggs. Chek Jawa, Feb 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/201020prpalks7.jpg"
-      caption: "Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/251012chgmn5.jpg"
-      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/201020prpalks7.jpg
+    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/251012chgmn5.jpg
+    caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/170723ubnay3.jpg"
-      caption: "Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/250626ubnjd2.jpg"
-      caption: "Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/100614bblks1m3.jpg"
-      caption: "Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/170723ubnay3.jpg
+    caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/250626ubnjd2.jpg
+    caption: Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/100614bblks1m3.jpg
+    caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240723chgett2.jpg"
-      caption: "Changi East (Lost Coast), Jul 24 Photo shared by Tommy Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/150617ecpbslks5m3.jpg"
-      caption: "East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240723chgett2.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Tommy Tan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/150617ecpbslks5m3.jpg
+    caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/120507srplks.JPG"
-      caption: "Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/080610kustsjm3a.jpg"
-      caption: "Kusu Island, Jun 08 Photo shared by Tan Sijie on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240114lazvc1.jpg"
-      caption: "Lazarus Island, Jan 24 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/120507srplks.JPG
+    caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/080610kustsjm3a.jpg
+    caption: Kusu Island, Jun 08 Photo shared by Tan Sijie on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240114lazvc1.jpg
+    caption: Lazarus Island, Jan 24 Photo shared by Vincent Choo on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/200919bsislks8.jpg"
-      caption: "Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/220504hntvc3.jpg"
-      caption: "Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240526bbbccn5.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/200919bsislks8.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/220504hntvc3.jpg
+    caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/240526bbbccn5.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on 
+      facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks.JPG"
-      caption: "Terumbu Semakau, May 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks2.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks.JPG
+    caption: Terumbu Semakau, May 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks2.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Cypraea milliaris on SeaLife Base: Technical fact sheet. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp. Kuiter, Rudie H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Cypraea milliaris on SeaLife Base: Technical fact sheet. References
+      Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
+      of Singapore (pdf), Raffles Museum of Biodiversity Research, National University
+      of Singapore. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham
+      Brash, Singapore. 145 pp. Gosliner, Terrence M., David W. Behrens and Gary C.
+      Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa
+      to Hawaii exclusive of the vertebrates Sea Challengers. 314pp. Kuiter, Rudie
+      H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv.
+      723pp.'
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- ecp
+- snt
+- kus
+- laz
+- sis
+- hnt
+- tsm
 ---
 
 **Where seen?**

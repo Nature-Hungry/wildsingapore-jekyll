@@ -1,9 +1,10 @@
 ---
 title: Serrated green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: serrated, seaweed, weed, green, caulerpa, serrulata, caulerpaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: serrated, seaweed, weed, green, caulerpa, serrulata, caulerpaceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,37 +20,50 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg"
-      caption: "Labrador, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m3b.jpg"
-      caption: "Labrador, May 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg
+    caption: Labrador, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m3b.jpg
+    caption: Labrador, May 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg"
-      caption: "Sentosa, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg
+    caption: Sentosa, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/151001blymn5m3.jpg"
-      caption: "Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/200625tbky1.jpg"
-      caption: "Terumbu Bemban, Jun 20 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/210429hntvc7.jpg"
-      caption: "Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/151001blymn5m3.jpg
+    caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/200625tbky1.jpg
+    caption: Terumbu Bemban, Jun 20 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/210429hntvc7.jpg
+    caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100130brkd8713m3a.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/091231biod7065m3.jpg"
-      caption: "Pulau Biola, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100130brkd8713m3a.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/091231biod7065m3.jpg
+    caption: Pulau Biola, Dec 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100811slud0102m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100810sngd9928m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100613sngd5599m3.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100811slud0102m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100810sngd9928m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100613sngd5599m3.jpg
+    caption: Pulau Senang, Jun 10
 links_references: |
   **Links**
   - [*Caulerpa serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101.md)
@@ -62,7 +76,7 @@ links_references: |
   : Technical fact sheet.
   - [*Caulerpa serrulata*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=488&menuentry=soorten)
   on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -89,6 +103,22 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- tus
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

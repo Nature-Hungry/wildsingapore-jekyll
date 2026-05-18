@@ -1,9 +1,10 @@
 ---
 title: 'Acroporid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: ''
@@ -17,38 +18,54 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They include some of the fastest-growing hard corals. Branching species are fragile, don't touch them. Branching species often shelter a variety of small animals. Look for them."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They include some of the fastest-growing hard corals. Branching species are fragile, don't touch them. Branching species often shelter a variety of small animals. Look for them."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They include some of the 
+      fastest-growing hard corals. Branching species are fragile, don't touch 
+      them. Branching species often shelter a variety of small animals. Look for
+      them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They include some of the fastest-growing hard corals. Branching 
+      species are fragile, don't touch them. Branching species often shelter a 
+      variety of small animals. Look for them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
-      caption: "Some acropora coral form table-like colonies. Raffles Lighthouse, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg"
-      caption: "Most members have an axial corallite. Sisters Island, Dec 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
-      caption: "Some montipora corals are plate-like. Sisters Island, Dec 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+    caption: Some acropora coral form table-like colonies. Raffles Lighthouse, 
+      Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
+    caption: Most members have an axial corallite. Sisters Island, Dec 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+    caption: Some montipora corals are plate-like. Sisters Island, Dec 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntd1252m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0110m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5635m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntd1252m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0110m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5635m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -73,6 +90,18 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- tm
+- snt
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

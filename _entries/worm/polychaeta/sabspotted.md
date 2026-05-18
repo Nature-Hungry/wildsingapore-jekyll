@@ -1,9 +1,10 @@
 ---
 title: Spotted fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Sabellidae
 genus: ''
@@ -18,27 +19,48 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg"
-      caption: "Changi, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg"
-      caption: "Pasir Ris, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3b.jpg"
-      caption: Tiny black spots on the feathery tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
+    caption: Changi, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg
+    caption: Pasir Ris, May 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3b.jpg
+    caption: Tiny black spots on the feathery tentacles.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg"
-      caption: "Changi, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg
+    caption: Changi, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090824tusjk1m3.jpg"
-      caption: "Tuas, Aug 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/140616bbrl.jpg"
-      caption: "Beting Bronok , Jun 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/251206chgerqo4.jpg"
-      caption: "Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090824tusjk1m3.jpg
+    caption: Tuas, Aug 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/140616bbrl.jpg
+    caption: Beting Bronok , Jun 14 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/251206chgerqo4.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on 
+      facebook .
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- tm
+- lab
 ---
 
 **Where seen?**

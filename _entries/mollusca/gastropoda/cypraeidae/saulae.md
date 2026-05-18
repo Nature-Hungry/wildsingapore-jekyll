@@ -1,9 +1,10 @@
 ---
-title: 'Saul''s cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+title: "Saul's cowrie "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -27,22 +28,29 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Bistolidini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg"
-      caption: "Pulau Sekudu, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
+    caption: Pulau Sekudu, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg
+    caption: ''
 links_references: |
   **Links**
   - *[Cypraea saulae](http://www.sealifebase.fisheries.ubc.ca/summary/Cypraea-saulae.html)*
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+location:
+- skd
+- lab
 ---
 
 **Where seen?**

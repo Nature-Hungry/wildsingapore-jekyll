@@ -1,9 +1,10 @@
 ---
 title: Indian squid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, cephalopod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, 
+  cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Loliginidae
 genus: Uroteuthis
@@ -18,21 +19,28 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg"
-      caption: "Pulau Hantu, Jul 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2517.jpg"
-      caption: "Tanah Merah, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+    caption: Pulau Hantu, Jul 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2517.jpg
+    caption: Tanah Merah, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/130624chglks2.JPG"
-      caption: "Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg"
-      caption: "Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/130624chglks2.JPG
+    caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg
+    caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg"
-      caption: "Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his 
+      blog .
 links_references: |
   **Links**
   - [Indian squid (
@@ -43,11 +51,17 @@ links_references: |
   on
   [Cephalopods of the World](http://www.fao.org/docrep/014/i1920e/i1920e00.md)
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 2.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+location:
+- chg
+- bb
+- tm
+- hnt
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Soleidae
 genus: ''
@@ -19,49 +20,70 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... May be quite large, although small ones are also seen. Eyes on the right side of the body. Found beneath the sand. Watch your step!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "May be quite large, although small ones are also seen. Eyes on the right side of the body. Found beneath the sand. Watch your step!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... May be quite large, 
+      although small ones are also seen. Eyes on the right side of the body. 
+      Found beneath the sand. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: May be quite large, although small ones are also seen. Eyes on the 
+      right side of the body. Found beneath the sand. Watch your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
-      caption: "Lurking under the sand. Chek Jawa, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg"
-      caption: "Underside of a sole in a tank. Sungei Buloh Wetland Reserve, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg"
-      caption: Eating a worm!
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+    caption: Lurking under the sand. Chek Jawa, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
+    caption: Underside of a sole in a tank. Sungei Buloh Wetland Reserve, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+    caption: Eating a worm!
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg"
-      caption: "Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/soleidae/110505tmnbd0602.jpg"
-      caption: "Unidentified juvenile sole. Tanah Merah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg"
-      caption: "Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg
+    caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by 
+      Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/soleidae/110505tmnbd0602.jpg
+    caption: Unidentified juvenile sole. Tanah Merah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg
+    caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by 
+      Marcus Ng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg"
-      caption: Ovate sole
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg"
-      caption: Commerson's sole
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg"
-      caption: Peacock sole
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
+    caption: Ovate sole
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
+    caption: Commerson's sole
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
+    caption: Peacock sole
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg"
-      caption: Oriental sole
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg"
-      caption: Zebra sole
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
+    caption: Oriental sole
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
+    caption: Zebra sole
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -106,7 +128,7 @@ links_references: |
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [How to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html)
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -117,6 +139,15 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp
+location:
+- chg
+- cj
+- skd
+- ecp
+- kus
+- sji
+- hnt
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

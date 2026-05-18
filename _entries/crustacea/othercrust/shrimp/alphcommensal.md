@@ -1,9 +1,10 @@
 ---
 title: Commensal snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -25,15 +26,24 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg"
-      caption: "Changi, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg"
-      caption: "Changi, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg"
-      caption: "Changi, May 08 Under a stone."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+    caption: Changi, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
+    caption: Changi, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
+    caption: Changi, May 08 Under a stone.
+location:
+- pgl
+- chg
+- cj
+- ecp
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Lobed brain coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Lobophylliidae
 genus: Lobophyllia
@@ -17,49 +18,67 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg"
-      caption: "Pulau Semakau, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+    caption: Pulau Semakau, Aug 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg"
-      caption: "Kusu Island, May 05 Those with smaller circular corallites sometimes mistaken for Trumpet corals ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg"
-      caption: Lobed brain corals have bigger 'teeth' than Trumpet corals .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
+    caption: Kusu Island, May 05 Those with smaller circular corallites 
+      sometimes mistaken for Trumpet corals .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
+    caption: Lobed brain corals have bigger 'teeth' than Trumpet corals .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg"
-      caption: "Pulau Hantu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg"
-      caption: "Sisters Island, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
+    caption: Pulau Hantu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
+    caption: Sisters Island, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+    caption: Raffles Lighthouse, Jul 06
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG"
-      caption: "Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
+    caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg"
-      caption: "Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr
+      .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -78,6 +97,20 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

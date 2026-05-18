@@ -1,8 +1,10 @@
 ---
 title: Sponge finger oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info
 layout: entry
 family: Pteriidae
 genus: Vulsella
@@ -18,15 +20,27 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg"
-      caption: "Embedded in a Yellow prickly branching sponge . Terumbu Pempang Laut, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg"
-      caption: A slit in the sponge is the only sign of the clam.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg"
-      caption: "Embedded in a Black bath sponge . Terumbu Semakau, Dec 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+    caption: Embedded in a Yellow prickly branching sponge . Terumbu Pempang 
+      Laut, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg
+    caption: A slit in the sponge is the only sign of the clam.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg
+    caption: Embedded in a Black bath sponge . Terumbu Semakau, Dec 11
+location:
+- chg
+- sis
+- hnt
+- tpg
+- tsm
+- lfa
 ---
 
 **Where seen?**

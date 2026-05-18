@@ -1,9 +1,10 @@
 ---
 title: Green sea sausage seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Dasycladaceae
@@ -19,39 +20,50 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg"
-      caption: "Terumbu Semakau, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg"
-      caption: "With thinner white-stemmed seaweed . Kusu Island , May 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg
+    caption: Terumbu Semakau, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg
+    caption: With thinner white-stemmed seaweed . Kusu Island , May 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg"
-      caption: "Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg
+    caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg
+    caption: Raffles Lighthouse, Jul 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg"
-      caption: "Pulau Biola, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg
+    caption: Pulau Biola, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg
+    caption: Pulau Senang, Jun 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Bornetella*](http://www.algaebase.org/search/genus/detail/?genus_id=35950)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -68,6 +80,21 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- cj
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

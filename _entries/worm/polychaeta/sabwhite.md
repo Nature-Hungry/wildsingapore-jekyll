@@ -1,9 +1,10 @@
 ---
 title: White spiral fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info
 layout: entry
 family: Sabellidae
 genus: ''
@@ -18,35 +19,67 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg"
-      caption: "Pulau Sekudu, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg"
-      caption: "Chek Jawa, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg
+    caption: Pulau Sekudu, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg
+    caption: Chek Jawa, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/090824tusjk2m3.jpg"
-      caption: "Tuas, Aug 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180519ssisdc5.jpg"
-      caption: "Small Sisters Island, May 18 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/090824tusjk2m3.jpg
+    caption: Tuas, Aug 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180519ssisdc5.jpg
+    caption: Small Sisters Island, May 18 Photo shared by Dayna Cheah on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180912tkkmn2.jpg"
-      caption: "Pulau Tekukor, Sep 18 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180620jngdc1.jpg"
-      caption: "Pulau Jong, Jun 18 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180912tkkmn2.jpg
+    caption: Pulau Tekukor, Sep 18 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180620jngdc1.jpg
+    caption: Pulau Jong, Jun 18 Photo shared by Dayna Cheah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/150720smknrl1m3.jpg"
-      caption: "Pulau Semakau North, Jul 15 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/200625tblks3.jpg"
-      caption: "Terumbu Bemban, Jun 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/150720smknrl1m3.jpg
+    caption: Pulau Semakau North, Jul 15 Photo shared by Russel Low on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/200625tblks3.jpg
+    caption: Terumbu Bemban, Jun 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/100629tpdjk16m3.jpg"
-      caption: "Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/160312tptmn2.jpg"
-      caption: "Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/110423tpllks3m3.jpg"
-      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/100629tpdjk16m3.jpg
+    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/160312tptmn2.jpg
+    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/110423tpllks3m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
+      blog .
+location:
+- cj
+- skd
+- tus
+- lab
+- snt
+- tkr
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

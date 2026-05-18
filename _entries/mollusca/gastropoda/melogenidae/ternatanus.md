@@ -1,9 +1,10 @@
 ---
 title: Ternate false fusus
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,15 +27,22 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg"
-      caption: "Upper side of living snail . Changi, Aug 14"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg"
-      caption: Fine hairs on the shell of a living snail shell.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg"
-      caption: The animal's body is pale with black speckles..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+    caption: Upper side of living snail . Changi, Aug 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg
+    caption: Fine hairs on the shell of a living snail shell.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg
+    caption: The animal's body is pale with black speckles..
+location:
+- chg
+- cj
 ---
 
 **Where seen?**

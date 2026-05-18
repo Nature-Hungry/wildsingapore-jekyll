@@ -1,9 +1,10 @@
 ---
 title: Mangrove synaptid sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, 
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,34 +27,48 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg"
-      caption: "Pasir Ris, Jan 20"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg"
-      caption: "Pasir Ris, Jan 20"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
+    caption: Pasir Ris, Jan 20
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
+    caption: Pasir Ris, Jan 20
   gallery2:
-    - url: "https://live.staticflickr.com/31337/49440941238_f6b07e1589_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/31337/49440941238_f6b07e1589_z.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251205cjrqo1.jpg"
-      caption: "Chek Jawa, Dec 2025 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251205cjrqo1.jpg
+    caption: Chek Jawa, Dec 2025 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/210628ecpBvc2.jpg"
-      caption: "East Coast Park (B), Jun 21 Shared by Vincent Choo on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208meky6.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/210628ecpBvc2.jpg
+    caption: East Coast Park (B), Jun 21 Shared by Vincent Choo on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208meky6.jpg
+    caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200710mevc1b.jpg"
-      caption: "Marina East, Jul 20"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200710mevc1a.jpg"
-      caption: "Marina East, Jul 20 Shared by Vincent Choo on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200710mevc1b.jpg
+    caption: Marina East, Jul 20
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200710mevc1a.jpg
+    caption: Marina East, Jul 20 Shared by Vincent Choo on facebook
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208melks9.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208melks10.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208melks9.jpg
+    caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/251208melks10.jpg
+    caption: ''
+location:
+- prp
+- cj
+- ecp
 ---
 
 **Where seen?**

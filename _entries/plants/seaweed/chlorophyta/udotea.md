@@ -1,9 +1,10 @@
 ---
 title: Ruffled fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: frilly, fan, seaweed, weed, green, udotea, udoteacea, chlorophyta, algae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: frilly, fan, seaweed, weed, green, udotea, udoteacea, chlorophyta, 
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
@@ -19,22 +20,26 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg"
-      caption: "Tuas, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg"
-      caption: "Tuas, Sep 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg"
-      caption: "Tuas, Apr 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
+    caption: Tuas, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
+    caption: Tuas, Sep 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
+    caption: Tuas, Apr 08
 links_references: |
   **Links**
   - [*Udotea*](http://www.algaebase.org/search/genus/detail/?genus_id=33621)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -51,6 +56,9 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- tus
+- tpg
 ---
 
 **Where seen?**

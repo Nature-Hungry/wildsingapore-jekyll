@@ -1,7 +1,10 @@
 ---
 title: Spoon seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spoon, halophila, ovalis, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spoon, halophila, ovalis, complex, minor, hydrocharitaceae, seagrass, 
+  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: [95]
 habtitat: [5]
@@ -9,9 +12,10 @@ englishname: Spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: ovalis
-summary: "Spoon shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. Common on many of our shores."
+summary: Spoon shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. 
+  Common on many of our shores.
 coverimg: https://live.staticflickr.com/65535/48023149497_46f702ca38_c.jpg
-smallcoverimg: "https://live.staticflickr.com/65535/50611818666_1c78bf4646_n.jpg"
+smallcoverimg: https://live.staticflickr.com/65535/50611818666_1c78bf4646_n.jpg
 inat_id: 50371
 stateofmatter: Life
 kingdom: Plantae
@@ -21,47 +25,50 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 rdb: LC
-display_attributes: [
-  "Intertidal","In the mud", "Vulnerable"
-]
+display_attributes: [Intertidal, In the mud, Vulnerable]
 
-trivia_title: "If you only learn 3 things about them..."
-trivia_items: [
-    "Spoon-shaped seagrasses come in a range of sizes. Some scientists treat them as a complex of one species.",
-    "They don't flower frequently, and the flowers are tiny.",
-    "Are believed to be among the favourite food of dugongs."
-]
+trivia_title: If you only learn 3 things about them...
+trivia_items: [Spoon-shaped seagrasses come in a range of sizes. Some scientists
+    treat them as a complex of one species., "They don't flower frequently, and the
+    flowers are tiny.", Are believed to be among the favourite food of dugongs.]
 
-page_images: 
-- url: "https://live.staticflickr.com/65535/50727458948_4897666367.jpg"
+page_images:
+- url: https://live.staticflickr.com/65535/50727458948_4897666367.jpg
   caption: |
-      <p>Meadow of Spoon seagrass.</p>
+    <p>Meadow of Spoon seagrass.</p>
   col_span: 2
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060115sntg3922m3.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060115sntg3922m3.jpg
   caption: |
     <p>Sentosa, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3a.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3a.jpg
   caption: |
     <p>Changi, Apr 05*</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050511cftg6231m3b.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050511cftg6231m3b.jpg
   caption: |
     <p>Tiny algae grow on the leaves which are eaten by tiny animals like snails.</p>
     <p>Changi, May 05*</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/121114labd0972m6l.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/121114labd0972m6l.jpg
   caption: |
     <p>Fruits</p>
     <p>Labrador, Nov 12</p>
   col_span: 2
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg
   caption: |
     <p>Spindly female flower of the spoon seagrass?</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/090110cjlks01m3.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/090110cjlks01m3.jpg
   caption: |
     <p>Male flower?</p>
     <p>Chek Jawa, Jan 09</p>  
     <p> Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chekl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060624skdg6187m3a.jpg"
+- url: 
+    http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060624skdg6187m3a.jpg
   caption: |
     <p>Burnt leaves.</p>
     <p>Pulau Sekudu, Jun 06</p>
@@ -117,6 +124,30 @@ links_references: |
     S.C. Chin and H. T. W. Tan.1998, *The
     Concise Flora of Singapore II: Monoctyledons*
     Singapore University Press. 215 pp.
+location:
+- tus
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 

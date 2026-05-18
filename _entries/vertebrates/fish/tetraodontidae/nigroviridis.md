@@ -1,9 +1,10 @@
 ---
 title: Spotted green pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, 
+  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,18 +24,25 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg"
-      caption: "East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
+      flickr .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg"
-      caption: "East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg"
-      caption: "East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
+    caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
 links_references: |
   **Links**
   - [Spotted Green Puffer (
@@ -57,11 +65,15 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Andrew Tay & Caitlin Wind. 6 December 2013.
   *Dog-faced water snake attacking pufferfish*
   . Singapore Biodiversity Records 2013: 100.
+location:
+- sbw
+- cj
+- ecp
 ---
 
 **Where seen?**

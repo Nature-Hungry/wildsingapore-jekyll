@@ -1,9 +1,10 @@
 ---
 title: 'Freckled   goatfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,40 +24,55 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Mulloidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg"
-      caption: "Pair of barbels under the chin Changi, Jun 13"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg"
-      caption: "Pulau Senang, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+    caption: Pair of barbels under the chin Changi, Jun 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg
+    caption: Pulau Senang, Aug 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg"
-      caption: "Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg
+    caption: Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg"
-      caption: "Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg
+    caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg"
-      caption: "Kusu Island, Apr 17 Photo shared by Ian Siah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg
+    caption: Kusu Island, Apr 17 Photo shared by Ian Siah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg"
-      caption: "Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg"
-      caption: "Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg
+    caption: Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg
+    caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg"
-      caption: "Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg
+    caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg"
-      caption: "Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg"
-      caption: "Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg
+    caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg
+    caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg"
-      caption: "Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
+    caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
 links_references: |
   **Links**
   - [Freckled goatfish (
@@ -94,7 +110,7 @@ links_references: |
   *Upeneus tragula*
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=5443)
   .
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -108,6 +124,20 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- bb
+- tm
+- snt
+- tkr
+- kus
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

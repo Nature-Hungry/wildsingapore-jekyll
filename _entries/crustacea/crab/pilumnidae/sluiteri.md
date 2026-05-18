@@ -1,9 +1,10 @@
 ---
 title: Fuzzy reef crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: crab, hairy, crustacea, pilumnus, sluiteri, pilumnidae, decapod, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: crab, hairy, crustacea, pilumnus, sluiteri, pilumnidae, decapod, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,35 +31,57 @@ zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll3.jpg"
-      caption: "Sentosa, Dec 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll3.jpg
+    caption: Sentosa, Dec 19 Photo shared by Jianlin Liu on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll1.jpg"
-      caption: "Sentosa, Dec 19 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/251011tgrlks17.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll1.jpg
+    caption: Sentosa, Dec 19 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/251011tgrlks17.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181225kuslks7.jpg"
-      caption: "Kusu Island, Dec 19 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100529kuslks.JPG"
-      caption: "Kusu Island, May 10 Photo shared by Loh Kok Sheng on flickr .."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/240608kustl4.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181225kuslks7.jpg
+    caption: Kusu Island, Dec 19 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100529kuslks.JPG
+    caption: Kusu Island, May 10 Photo shared by Loh Kok Sheng on flickr ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/240608kustl4.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100515sjilks6m3.jpg"
-      caption: "St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/230831sjiaks2.jpg"
-      caption: "St. John's Island, Aug 23 Photo shared by Arjun Sai Krishnan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100515sjilks6m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/230831sjiaks2.jpg
+    caption: St. John's Island, Aug 23 Photo shared by Arjun Sai Krishnan on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/210822ssislks2.jpg"
-      caption: "Small Sisters Islands, Aug 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100919sislks3m3.jpg"
-      caption: "Sisters Islands, Sep 09 Photo shared by Loh Kok Sheng on flickr .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/210822ssislks2.jpg
+    caption: Small Sisters Islands, Aug 21 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100919sislks3m3.jpg
+    caption: Sisters Islands, Sep 09 Photo shared by Loh Kok Sheng on flickr ..
+location:
+- snt
+- kus
+- sji
+- sis
+- rfl
 ---
 
 **Where seen?**

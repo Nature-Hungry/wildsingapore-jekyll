@@ -1,9 +1,10 @@
 ---
 title: Maze sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seafan, fan, echinogorgia, plexauridae, coral, gorgonian, gorgonacea, anthozoa,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seafan, fan, echinogorgia, plexauridae, coral, gorgonian, gorgonacea, 
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: ''
@@ -17,25 +18,33 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg"
-      caption: "Beting Bronok, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg"
-      caption: "Beting Bronok, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg"
-      caption: "Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
+    caption: Beting Bronok, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
+    caption: Beting Bronok, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg
+    caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg"
-      caption: "Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg"
-      caption: "Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg
+    caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg
+    caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg"
-      caption: "Pulau Sekudu, Aug 24"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg"
-      caption: Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg
+    caption: Pulau Sekudu, Aug 24
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg
+    caption: Photo shared by Richard Kuah on facebook .
 links_references: |
   **Links**
   - [*Echinogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Echinogorgia)
@@ -45,7 +54,7 @@ links_references: |
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
   ****
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
@@ -53,6 +62,12 @@ links_references: |
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
   *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
   . Raffles Museum Bulletin of Zoology Pp. 435-459.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Chocolate hind '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chocolate, hind, indian, grouper, fish, cephalopholis, boenak, serranidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: chocolate, hind, indian, grouper, fish, cephalopholis, boenak, 
+  serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,7 +24,8 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
 links_references: |
   **Links**  
   - [Chocolate
@@ -33,39 +35,64 @@ links_references: |
   - Lim, Kelvin
     K. P. & Jeffrey K. Y. Low, 1998. *A Guide to the Common Marine
     Fishes of Singapore*. Singapore Science Centre. 163 pp.  [Chocolate Hind or Indian Grouper (*Cephalopholis boenak*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/266.htm)
-  
+
   **References**
   - Lieske,
     Ewald and Robert Myers. 2001. *Coral
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg"
-      caption: "Tanah Merah, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m6l.jpg"
-      caption: "Dark spot on upper edge of gill cover. Tanah Merah, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
+    caption: Tanah Merah, Jun 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m6l.jpg
+    caption: Dark spot on upper edge of gill cover. Tanah Merah, May 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/030616cjd0030m6l.jpg"
-      caption: "Small one near seagrasses. Chek Jawa, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/080519sisd3362m3.jpg"
-      caption: "Hiding among rocks. Sisters Islands, May 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/030616cjd0030m6l.jpg
+    caption: Small one near seagrasses. Chek Jawa, Jun 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/080519sisd3362m3.jpg
+    caption: Hiding among rocks. Sisters Islands, May 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090527skdlks.JPG"
-      caption: "Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090527skdlks.JPG
+    caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250628pcnal1.jpg"
-      caption: "East Coast PCN, Jun 25 Photo shared by Adriane Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/180616bblks12.jpg"
-      caption: "Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250628pcnal1.jpg
+    caption: East Coast PCN, Jun 25 Photo shared by Adriane Lee on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/180616bblks12.jpg
+    caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250714srpal3.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/240608kustl1.jpg"
-      caption: "Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/230509tsmkky1.jpg"
-      caption: "Terumbu Semakau, May 23 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250714srpal3.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/240608kustl1.jpg
+    caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/230509tsmkky1.jpg
+    caption: Terumbu Semakau, May 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Chocolate hind ( Cephalopholis boenak ) from FishBase : Technical fact sheet Cephalopholis boenak from IUCN Red List. Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore . Singapore Science Centre. 163 pp. Chocolate Hind or Indian Grouper ( Cephalopholis boenak ) References Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Chocolate hind ( Cephalopholis boenak ) from FishBase : Technical
+      fact sheet Cephalopholis boenak from IUCN Red List. Lim, Kelvin K. P. & Jeffrey
+      K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore . Singapore
+      Science Centre. 163 pp. Chocolate Hind or Indian Grouper ( Cephalopholis boenak
+      ) References Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the
+      World Periplus Editions. 400pp.'
+location:
+- cj
+- skd
+- bb
+- tm
+- ecp
+- snt
+- kus
+- sis
+- tsm
 ---
 
 **Where seen?**

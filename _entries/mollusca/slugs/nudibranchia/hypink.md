@@ -1,9 +1,10 @@
 ---
 title: Pink-gilled hypselodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hypselodoris, infucata, nudibranchia, slug, seaslug, chromodoridae, opisthobranch,
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hypselodoris, infucata, nudibranchia, slug, seaslug, chromodoridae, 
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Hypselodoris
@@ -24,52 +25,71 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
-      caption: "Changi, Jun 02"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3973m3.jpg"
-      caption: "Changi, Jun 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+    caption: Changi, Jun 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3973m3.jpg
+    caption: Changi, Jun 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3.jpg"
-      caption: "Mating and laying eggs. Changi, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3a.jpg"
-      caption: Closer look at egg ribbon.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3.jpg
+    caption: Mating and laying eggs. Changi, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3a.jpg
+    caption: Closer look at egg ribbon.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/180911pgldc1.jpg"
-      caption: "Punggol, Sep 18 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/220517pglrk1.jpg"
-      caption: "Punggol, May 22 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/201217prpjll1.jpg"
-      caption: "Pasir Ris Park, Dec 20 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/180911pgldc1.jpg
+    caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/220517pglrk1.jpg
+    caption: Punggol, May 22 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/201217prpjll1.jpg
+    caption: Pasir Ris Park, Dec 20 Photo shared by Jianlin Liu on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/200622chgjll2.jpg"
-      caption: "Changi, Jun 20 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/121216ubnlks.JPG"
-      caption: "Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250627bbjjl6.jpg"
-      caption: "Beting Bronok, Jun 25 Photo by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/200622chgjll2.jpg
+    caption: Changi, Jun 20 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/121216ubnlks.JPG
+    caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250627bbjjl6.jpg
+    caption: Beting Bronok, Jun 25 Photo by Jianlin Liu on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140104cjlks3m3.jpg"
-      caption: "Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250529cjlks.jpg"
-      caption: "Chek Jawa, May 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140104cjlks3m3.jpg
+    caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250529cjlks.jpg
+    caption: Chek Jawa, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmjk2.jpg"
-      caption: "Tanah Merah, Dec 11 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmlks.JPG"
-      caption: "Tanah Merah, Dec 11 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmjk2.jpg
+    caption: Tanah Merah, Dec 11 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmlks.JPG
+    caption: Tanah Merah, Dec 11 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/210530epcnvc2.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/210530epcnvc2.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140616bblks1.jpg"
-      caption: "Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/190704bbay2.jpg"
-      caption: "Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140616bblks1.jpg
+    caption: Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/190704bbay2.jpg
+    caption: Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -83,7 +103,7 @@ links_references: |
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
   by Uma Sachidhanandam: photo and distribution of
   [*Hypselodori bullockii*](http://rmbr.nus.edu.sg/nudibranch/nudipages/bullockii.html)
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -103,6 +123,15 @@ links_references: |
   - Coleman, Neville, 1989.
   *Nudibranchs of the South Pacific Vol 1*
   . 64 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- skd
+- bb
+- tm
+- ecp
 ---
 
 **Where seen?**

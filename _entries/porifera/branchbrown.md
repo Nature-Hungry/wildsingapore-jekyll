@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, shore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, 
+  shore,
 layout: entry
 shape: branching
 title: Brown prickly branching sponge
@@ -16,47 +18,76 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3.jpg"
-      caption: "Sentosa, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3.jpg
+    caption: Sentosa, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/070317sntg8089m3.jpg"
-      caption: "Sentosa, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100812tpld0265m3.jpg"
-      caption: "Terumbu Pempang Laut, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/091204pawd5336m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/070317sntg8089m3.jpg
+    caption: Sentosa, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100812tpld0265m3.jpg
+    caption: Terumbu Pempang Laut, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/091204pawd5336m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100130brkd8570m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100131slud8864m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100601slud4732m3.jpg"
-      caption: "Pulau Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100130brkd8570m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100131slud8864m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100601slud4732m3.jpg
+    caption: Pulau Salu, Jun 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5511m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5637m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/101108bkoms00719m3.jpg"
-      caption: "Terumbu Bukom, Nov 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5511m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5637m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/branchbrown/101108bkoms00719m3.jpg
+    caption: Terumbu Bukom, Nov 10
 links_references: |
   **Links**
   - [Irciniidae](http://www.sealifebase.fisheries.ubc.ca/identification/specieslist.php?famcode=2621&areacode=)
   on SeaLife Base: technical fact sheet.
   - [*Ircinia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131751)
   on the World Porifera Database
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- chg
+- cj
+- skd
+- bb
+- snt
+- tkr
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

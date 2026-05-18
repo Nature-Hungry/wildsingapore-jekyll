@@ -1,9 +1,10 @@
 ---
 title: 'Lithophyllon mushroom  coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Lithophyllon
@@ -17,40 +18,57 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg"
-      caption: "Cyrene Reef, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+    caption: Cyrene Reef, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 23"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1a.jpg"
-      caption: Photo shared by Tommy Arden on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 23
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1a.jpg
+    caption: Photo shared by Tommy Arden on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks2.JPG"
-      caption: "Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1.jpg"
-      caption: "Sentosa Serapong, May 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks2.JPG
+    caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1.jpg
+    caption: Sentosa Serapong, May 17 Photo shared by Abel Yeo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/150220lsislks2m3.JPG"
-      caption: "Little Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/150220lsislks2m3.JPG
+    caption: Little Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on his 
+      blog .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2.jpg"
-      caption: "Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/120721tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2.jpg
+    caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/120721tptlks.JPG
+    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on 
+      flickr .
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -61,7 +79,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
   - [*Lithophyllon undulatum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45866)
   on SeaLife Base: Technical fact sheets.
-  
+
   **References**
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
   *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
@@ -78,6 +96,15 @@ links_references: |
   - Erhardt, Harry and Daniel Knop. 2005.
   *Corals: Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+location:
+- tm
+- snt
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Spiked rock oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, mollusc,
-  clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, 
+  mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Osteridae
 genus: Saccostrea
@@ -20,15 +21,19 @@ order: Ostreida
 superfamily: Ostreoidea
 subfamily: Saccostreinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg"
-      caption: "Tanah Merah, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
-      caption: "Berlayar Creek, Mar 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+    caption: Tanah Merah, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+    caption: Berlayar Creek, Mar 09
 links_references: |
   **Links**
   - [Edible Rock Oyster (
@@ -43,7 +48,7 @@ links_references: |
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
@@ -51,6 +56,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- cj
+- skd
+- tm
+- ecp
+- lab
+- sji
 ---
 
 **Where seen?**

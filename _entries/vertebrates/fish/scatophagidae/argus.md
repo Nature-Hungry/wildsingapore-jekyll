@@ -1,8 +1,10 @@
 ---
 title: Spotted scat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -22,33 +24,46 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about it ... It is more commonly seen near mangroves. It is popular among anglers and as food. It has sharp poisonous spines. Don't handle it!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: It is more commonly seen near mangroves. It is popular among anglers and as food. It has sharp poisonous spines. Don't handle it!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about it ... It is more commonly seen 
+      near mangroves. It is popular among anglers and as food. It has sharp 
+      poisonous spines. Don't handle it!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is more commonly seen near mangroves. It is popular among 
+      anglers and as food. It has sharp poisonous spines. Don't handle it!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg"
-      caption: "Chek Jawa, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg"
-      caption: "Tanah Merah, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+    caption: Chek Jawa, Oct 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
+    caption: Tanah Merah, May 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg"
-      caption: "Beting Bronok, Jun 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg"
-      caption: "Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
+    caption: Beting Bronok, Jun 14 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
+    caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg"
-      caption: "Tanah Merah, Oct 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg"
-      caption: "Tanah Merah, Oct 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
+    caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
+    caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg"
-      caption: "Juvenile. West Coast Park, Oct 16 Photo shared on the Singapore Biodiversity Records"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg"
-      caption: "Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
+    caption: Juvenile. West Coast Park, Oct 16 Photo shared on the Singapore 
+      Biodiversity Records
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
+    caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
 links_references: |
   **Links**
   - [Spotted Scat (
@@ -79,7 +94,7 @@ links_references: |
   : Technical fact sheet on the family, including fact sheets on individual species.
   *[Scatophagus argus](http://www.fishbase.org/Summary/speciesSummary.php?ID=4698)*
   (Spotted scat).
-  
+
   **References**
   - Tan Heok Hui & Tan Siong Kiat.
   *Juvenile spotted scats at West Coast Park*
@@ -93,6 +108,13 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- sbw
+- cj
+- skd
+- bb
+- tm
+- hnt
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Branched-tentacle mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mangrove, anemone, pelocoetes, exul, haliactiidae, actiniaria, anthozoa,
-  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mangrove, anemone, pelocoetes, exul, haliactiidae, actiniaria, 
+  anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -21,21 +22,27 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg"
-      caption: "Kranji, Jul 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
+    caption: Kranji, Jul 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg
+    caption: ''
 links_references: |
   **Links**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C.
   *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*
   . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+location:
+- sbw
 ---
 
 **Where seen?**

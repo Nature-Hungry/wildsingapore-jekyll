@@ -1,9 +1,10 @@
 ---
 title: Black dendrodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, dendrodoris, nigra, nudibranch, slug, seaslug, opisthobranch, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, dendrodoris, nigra, nudibranch, slug, seaslug, opisthobranch, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,42 +29,61 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg"
-      caption: "Cyrene Reef, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/190122cyrjll2.jpg"
-      caption: "Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg
+    caption: Cyrene Reef, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/190122cyrjll2.jpg
+    caption: Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks.JPG"
-      caption: "Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks2.JPG"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks.JPG
+    caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks2.JPG
+    caption: Underside.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1.jpg"
-      caption: "Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1.jpg
+    caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1b.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1a.jpg"
-      caption: "St John's Island, Feb 24"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1b.jpg"
-      caption: Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1a.jpg
+    caption: St John's Island, Feb 24
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1b.jpg
+    caption: Photo shared by Vincent Choo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170212bsisjll1.jpg"
-      caption: "Big Sisters Island, Feb 17 Photo shared by Jianlin Liu g on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170212bsisjll1.jpg
+    caption: Big Sisters Island, Feb 17 Photo shared by Jianlin Liu g on 
+      facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170812cyrjll1.jpg"
-      caption: "Cyrene Reef, Aug 17 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/171104cyrlks2.jpg"
-      caption: "Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170812cyrjll1.jpg
+    caption: Cyrene Reef, Aug 17 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/171104cyrlks2.jpg
+    caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheet of
   *[Dendrodoris nigra](http://www.seaslugforum.net/find/dendnigr)*
   .
+location:
+- skd
+- lab
+- sji
+- sis
+- cyr
 ---
 
 **Where seen?**

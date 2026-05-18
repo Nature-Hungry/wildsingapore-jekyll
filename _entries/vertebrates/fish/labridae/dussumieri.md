@@ -1,9 +1,10 @@
 ---
 title: Diamond tuskfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: diamond, wrasse, tuskfish, fish, halichoeres, nigrescens, dussumieri, labridae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: diamond, wrasse, tuskfish, fish, halichoeres, nigrescens, dussumieri, 
+  labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,69 +25,102 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Julidinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg"
-      caption: This fish has sharp teeth!
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m6l.jpg"
-      caption: "Chek Jawa, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3d.jpg
+    caption: This fish has sharp teeth!
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m6l.jpg
+    caption: Chek Jawa, Aug 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/120423tmftd0170m6l.jpg"
-      caption: "Tanah Merah, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050623cjd4141m3.jpg"
-      caption: "Stuck inside a sponge but still alive. Chek Jawa, Jun 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/120423tmftd0170m6l.jpg
+    caption: Tanah Merah, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050623cjd4141m3.jpg
+    caption: Stuck inside a sponge but still alive. Chek Jawa, Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/200722lyglks4.jpg"
-      caption: "Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/200722lyglks4.jpg
+    caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250627bbrk7.jpg"
-      caption: "Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070714bbmn.jpg"
-      caption: "Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250627bbrk7.jpg
+    caption: Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070714bbmn.jpg
+    caption: Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220519ecpbrk2.jpg"
-      caption: "East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220813pcnky1.jpg"
-      caption: "East Coast PCN, Aug 22 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220519ecpbrk2.jpg
+    caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220813pcnky1.jpg
+    caption: East Coast PCN, Aug 22 Photo shared by Kelvin Yong on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/130723ecplks.JPG"
-      caption: "East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/130723ecplks.JPG
+    caption: East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/251011tgrlks29.jpg"
-      caption: "Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220303tkkvc1.jpg"
-      caption: "Pulau Tekukor, Mar 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250530kusccn1.jpg"
-      caption: "Kusu Island, May 25 Photo shared by Chee Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/251011tgrlks29.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220303tkkvc1.jpg
+    caption: Pulau Tekukor, Mar 22 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250530kusccn1.jpg
+    caption: Kusu Island, May 25 Photo shared by Chee Cheng Neo on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/141109lazlks.JPG"
-      caption: "Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/141109lazlks.JPG
+    caption: Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220419sjijt3.jpg"
-      caption: "St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg"
-      caption: "St. John's Island, Jan 06 Photo shared by Toh Chay Hoon on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/220419sjijt3.jpg
+    caption: St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg
+    caption: St. John's Island, Jan 06 Photo shared by Toh Chay Hoon on her 
+      flickr .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230123bsistl2.jpg"
-      caption: "Big Sisters Island, Jan 23 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250201bsisvc6.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230123bsistl2.jpg
+    caption: Big Sisters Island, Jan 23 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/250201bsisvc6.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook
+      .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg"
-      caption: "Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230805thnttch1.jpg"
-      caption: "Terumbu Hantu, Aug 23 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
+    caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by
+      Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230805thnttch1.jpg
+    caption: Terumbu Hantu, Aug 23 Photo shared by Toh Chay Hoon on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230522tptrk1.jpg"
-      caption: "Terumbu Pempang Laut, May 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/210113smkwvc1.jpg"
-      caption: "Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/230522tptrk1.jpg
+    caption: Terumbu Pempang Laut, May 23 Photo shared by Richard Kuah on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/210113smkwvc1.jpg
+    caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on 
+      facebook .
   gallery13:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/140617tbmn.jpg"
-      caption: "Terumbu Bemban, Jun 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/100530biomn.jpg"
-      caption: "Pulau Biola, May 10 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/140617tbmn.jpg
+    caption: Terumbu Bemban, Jun 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/100530biomn.jpg
+    caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Diamond Tuskfish (
@@ -106,7 +140,7 @@ links_references: |
   : Technical fact sheet. Formerly named
   *Halichoeres dussumieri*
   .
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -114,6 +148,27 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

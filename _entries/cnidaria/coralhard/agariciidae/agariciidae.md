@@ -1,8 +1,10 @@
 ---
 title: 'Agaricid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: ''
@@ -16,22 +18,29 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
-      caption: "Ringed plate coral. Pulau Semakau, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg"
-      caption: "Castle coral. Terumbu Bemban, Jul 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/180715thntm3.jpg"
-      caption: "Lettuce coral. Terumbu Hantu, Jul 18"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+    caption: Ringed plate coral. Pulau Semakau, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg
+    caption: Castle coral. Terumbu Bemban, Jul 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/180715thntm3.jpg
+    caption: Lettuce coral. Terumbu Hantu, Jul 18
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg"
-      caption: Ringed plate coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg"
-      caption: Castle coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg"
-      caption: Lettuce coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
+    caption: Ringed plate coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+    caption: Castle coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg
+    caption: Lettuce coral
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -40,6 +49,15 @@ links_references: |
   with species factsheets.
   - [Family Agariciidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Agariciidae)
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal with species factsheets.
+location:
+- kus
+- sji
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

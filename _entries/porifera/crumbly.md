@@ -1,6 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
+  shore,
 layout: entry
 shape: encrusting
 title: Crumbly sponge
@@ -16,22 +17,26 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/101205blylks4.jpg"
-      caption: "Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/crumbly/101205blylks4.jpg
+    caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - *[Amorphinopsis excavans](http://142.103.81.136/summary/Amorphinopsis-excavans.html)*
   on SeaLife Base: technical fact sheet.
   - *[Amorphinopsis excavans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=178562)*
   on the World Porifera Database.
-  
+
   **References**
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
   [Fouling sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf)
@@ -39,6 +44,17 @@ links_references: |
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- lab
+- laz
 ---
 
 **Where seen?**

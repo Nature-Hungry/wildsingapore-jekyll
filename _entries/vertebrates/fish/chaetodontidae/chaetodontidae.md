@@ -1,9 +1,10 @@
 ---
 title: 'Butterflyfishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Chaetodontidae
 genus: ''
@@ -18,34 +19,49 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Colourful stripes. With false eye on the dorsal fin or tail base. They have small pointed snouts with brush-like teeth. They do poorly in aquariums. Don't collect them.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Colourful stripes. With false eye on the dorsal fin or tail base. They have small pointed snouts with brush-like teeth. They do poorly in aquariums. Don't collect them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Colourful stripes. With 
+      false eye on the dorsal fin or tail base. They have small pointed snouts 
+      with brush-like teeth. They do poorly in aquariums. Don't collect them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Colourful stripes. With false eye on the dorsal fin or tail base. 
+      They have small pointed snouts with brush-like teeth. They do poorly in 
+      aquariums. Don't collect them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg"
-      caption: "Sometimes many are seen together. Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg"
-      caption: "Pointed snout to nibble on small things. Sentosa, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg"
-      caption: "Flattened sideways it's hard to spot from above or head on. Sentosa, Oct 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
+    caption: Sometimes many are seen together. Chek Jawa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg
+    caption: Pointed snout to nibble on small things. Sentosa, Oct 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg
+    caption: Flattened sideways it's hard to spot from above or head on. 
+      Sentosa, Oct 03
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg"
-      caption: "Some are seen among living corals. Tanah Merah, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg"
-      caption: "Sometimes seen near carpet anemones . Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg"
-      caption: "Seen near a cerianthid . Changi, Jun 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
+    caption: Some are seen among living corals. Tanah Merah, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg
+    caption: Sometimes seen near carpet anemones . Chek Jawa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg
+    caption: Seen near a cerianthid . Changi, Jun 02
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg"
-      caption: Copperband butterflyfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg"
-      caption: Kite butterflyfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg"
-      caption: Eightband butterflyfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg
+    caption: Copperband butterflyfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
+    caption: Kite butterflyfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
+    caption: Eightband butterflyfish
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -99,7 +115,7 @@ links_references: |
   on the wild shores of singapore blog, 30 Sep 2009.
   - [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)
   on the Compressed Air Junkie blog, 25 Aug 2011.
-  
+
   **References**
   - Toh Chay Hoon, 31 October 2019.
   *Klein’s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*
@@ -137,6 +153,17 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- tm
+- ecp
+- snt
+- kus
+- sis
+- cyr
+- tpg
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

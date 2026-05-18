@@ -1,8 +1,10 @@
 ---
 title: Small hermit-hitching  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 attributes:
 - 6
@@ -14,32 +16,49 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg"
-      caption: "With a sea anemone on its shell. Changi, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3.jpg"
-      caption: "Hermit half buried, with its sea anemones. Changi, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+    caption: With a sea anemone on its shell. Changi, Apr 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3.jpg
+    caption: Hermit half buried, with its sea anemones. Changi, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070614chgd2117m3.jpg"
-      caption: "Changi, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070702chgg0904m3.jpg"
-      caption: "Changi, Jul 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/091108hntjk2m3.jpg"
-      caption: "Pulau Hantu, Nov 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070614chgd2117m3.jpg
+    caption: Changi, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070702chgg0904m3.jpg
+    caption: Changi, Jul 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/091108hntjk2m3.jpg
+    caption: Pulau Hantu, Nov 09 Photo shared by James Koh on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/140502chgmn.jpg"
-      caption: "Changi, May 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
-      caption: "East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/140502chgmn.jpg
+    caption: Changi, May 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
+    caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg"
-      caption: "Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg"
-      caption: "Cyrene, Jul 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
+    caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
+    caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
+location:
+- chg
+- cj
+- ecp
+- cyr
+- hnt
 ---
 
 **Where seen?**

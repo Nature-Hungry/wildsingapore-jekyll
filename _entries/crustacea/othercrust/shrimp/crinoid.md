@@ -1,8 +1,9 @@
 ---
 title: Crinoid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: shrimp, decapod, crustacea, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -14,16 +15,24 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg"
-      caption: "Pulau Hantu, Jan 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
+    caption: Pulau Hantu, Jan 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG"
-      caption: "St John's Island, Apr 12 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg"
-      caption: "St John's Island, Apr 12 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG
+    caption: St John's Island, Apr 12 Photo shared by Loh Kok Sheng on his blog 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
+    caption: St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
+location:
+- sji
+- hnt
 ---
 
 **Where seen?**

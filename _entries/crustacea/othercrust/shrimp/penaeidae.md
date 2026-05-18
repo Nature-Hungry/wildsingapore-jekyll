@@ -1,8 +1,10 @@
 ---
 title: Penaeid prawns
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Penaeidae
 genus: Family
@@ -42,7 +44,7 @@ links_references: |
   - [Prawn
     'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl) on the
     wild shores of singapore blog.
-  
+
   **References**
   - T. Upanoi. *The penaid prawns of the Straits of Johor: Preliminary results*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
   - Wee Y.C.
@@ -52,25 +54,77 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
-      caption: "Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg"
-      caption: "Like other shrimps, it contracts its abdomen to quickly swim backwards. Sentosa, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg"
-      caption: "Some hide in the sand with only the 'nose' and eyes sticking out. Chek Jawa, Jul 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+    caption: Chek Jawa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+    caption: Like other shrimps, it contracts its abdomen to quickly swim 
+      backwards. Sentosa, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
+    caption: Some hide in the sand with only the 'nose' and eyes sticking out. 
+      Chek Jawa, Jul 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg"
-      caption: Blue-tailed penaeid prawns
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
-      caption: Banded penaeid prawns
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
-      caption: Slender penaid prawns
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
+    caption: Blue-tailed penaeid prawns
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
+    caption: Banded penaeid prawns
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+    caption: Slender penaid prawns
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
-      caption: Speckled penaeid prawns
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+    caption: Speckled penaeid prawns
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Prawns ( Penaeus and Metapenaeus ) Tan, Leo W. H. & Ng, Peter K. L., 1988, A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Marine prawns ( Penaeus and Metapenaeus spp.) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Penaeus monodon and Penaeus semisulcatus on Cultured Aquatic Species Information Programme, FAO Fisheries and Aquaculture Department. Black tiger prawn ( Penaeus monodon ) and Green tiger prawn ( Penaeus semiculcatus ) and Heteropenaeus longimanus and Adonis shrimp ( Parapenaeopsis venusta ) and Torpedo shrimp ( Parapenaeopsis maxillipedo ) and Whiskered velvet shrimp ( Metapenaeopsis barbata ) and Mogi velvet shrimp ( Metapenaeopsis mogiensis ) and Jinga shrimp ( Metapenaeus affinis ) and Yellow shrimp ( Metapenaeus brevicornis ) and Moyebi shrimp ( Metapenaeus moyebi ) and Periscope shrimp ( Atypopenaeus stenodactylus ) on SeaLife Base. Prawn 'sex tapes' reveals lust is lacking in captive-breds on the wild shores of singapore blog. References T. Upanoi. The penaid prawns of the Straits of Johor: Preliminary results . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet, Malaysia. 144 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans of Australian Waters . Reed New Holland. 224 pp. Debelius, Helmut, 2001. Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean IKAN-Unterwasserachiv, Frankfurt. 321 pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: "Links Prawns ( Penaeus and Metapenaeus ) Tan, Leo W. H. & Ng, Peter
+      K. L., 1988, A Guide to Seashore Life . The Singapore Science Centre, Singapore.
+      160 pp. Marine prawns ( Penaeus and Metapenaeus spp.) Ng, Peter K. L. & N. Sivasothi,
+      1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore
+      Science Centre. 168 pp. Penaeus monodon and Penaeus semisulcatus on Cultured
+      Aquatic Species Information Programme, FAO Fisheries and Aquaculture Department.
+      Black tiger prawn ( Penaeus monodon ) and Green tiger prawn ( Penaeus semiculcatus
+      ) and Heteropenaeus longimanus and Adonis shrimp ( Parapenaeopsis venusta )
+      and Torpedo shrimp ( Parapenaeopsis maxillipedo ) and Whiskered velvet shrimp
+      ( Metapenaeopsis barbata ) and Mogi velvet shrimp ( Metapenaeopsis mogiensis
+      ) and Jinga shrimp ( Metapenaeus affinis ) and Yellow shrimp ( Metapenaeus brevicornis
+      ) and Moyebi shrimp ( Metapenaeus moyebi ) and Periscope shrimp ( Atypopenaeus
+      stenodactylus ) on SeaLife Base. Prawn 'sex tapes' reveals lust is lacking in
+      captive-breds on the wild shores of singapore blog. References T. Upanoi. The
+      penaid prawns of the Straits of Johor: Preliminary results . 10 July 2015. The
+      Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop
+      (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
+      Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore
+      . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994.
+      The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The
+      Nature Society (Singapore), Singapore. 343 pp. Ong, Jin Eong & Gong, Wooi Khoon
+      (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet,
+      Malaysia. 144 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to
+      Crustaceans of Australian Waters . Reed New Holland. 224 pp. Debelius, Helmut,
+      2001. Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean
+      IKAN-Unterwasserachiv, Frankfurt. 321 pp. Gosliner, Terrence M., David W. Behrens
+      and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life
+      from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp."
+location:
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- lfa
 ---
 
 **Where seen?**

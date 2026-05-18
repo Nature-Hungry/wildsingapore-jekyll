@@ -1,8 +1,10 @@
 ---
 title: Moon crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: moon, crab, matuta, matutidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: moon, crab, matuta, matutidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Matutidae
 genus: ''
@@ -24,34 +26,48 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/matutidae/lunaris/050511cftg6303m3.jpg"
-      caption: "All the legs of the Moon crab are flattened into paddles. Changi May, 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/070603sntrd1730m3.jpg"
-      caption: "About to mate?"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg"
-      caption: "With eggs. St. John's Island, Feb 24 Photos shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/matutidae/lunaris/050511cftg6303m3.jpg
+    caption: All the legs of the Moon crab are flattened into paddles. Changi 
+      May, 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/070603sntrd1730m3.jpg
+    caption: About to mate?
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg
+    caption: With eggs. St. John's Island, Feb 24 Photos shared by Marcus Ng on 
+      facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7795m3.jpg"
-      caption: "Tanah Merah, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7798m3.jpg"
-      caption: Buries itself in an eye blink.
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7800m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7795m3.jpg
+    caption: Tanah Merah, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7798m3.jpg
+    caption: Buries itself in an eye blink.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7800m3.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/100701tmd7968m3.jpg"
-      caption: "Swarming over a recently dead fish. Tanah Merah, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/081019chgd1372m3.jpg"
-      caption: "A huge dead crab, bliss! Changi, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/020209cjd6343m3.jpg"
-      caption: "Tiny one eating an injured worm. Chek Jawa, Feb 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/100701tmd7968m3.jpg
+    caption: Swarming over a recently dead fish. Tanah Merah, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/081019chgd1372m3.jpg
+    caption: A huge dead crab, bliss! Changi, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/020209cjd6343m3.jpg
+    caption: Tiny one eating an injured worm. Chek Jawa, Feb 02
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg"
-      caption: Spotted moon crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg"
-      caption: Flower moon crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg
+    caption: Spotted moon crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+    caption: Flower moon crab
 links_references: |
   **Links**
   - [Moon Crab (
@@ -60,7 +76,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -77,6 +93,23 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- pgl
+- prp
+- chg
+- cj
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

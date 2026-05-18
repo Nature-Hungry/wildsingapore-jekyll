@@ -1,9 +1,10 @@
 ---
 title: Small coin green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: small, coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: small, coin, seaweed, weed, green, halimeda, halimedaceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Halimedaceae
@@ -19,29 +20,39 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg"
-      caption: "Sentosa, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg"
-      caption: "Sentosa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg"
-      caption: "Pulau Semakau, Sep 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg
+    caption: Sentosa, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg
+    caption: Sentosa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg
+    caption: Pulau Semakau, Sep 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg"
-      caption: "Terumbu Selegie, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg"
-      caption: "Terumbu Pempang Darat, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg"
-      caption: "Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg
+    caption: Terumbu Selegie, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg
+    caption: Terumbu Pempang Darat, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
+    caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Calcified seaweed (
@@ -59,7 +70,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -67,6 +78,25 @@ links_references: |
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
   , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+location:
+- cj
+- skd
+- bb
+- tus
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

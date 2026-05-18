@@ -1,12 +1,14 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: roti, jala, sponge, porifera, terpios, suberitidae, field, guide, 
+  seashore,
 layout: entry
 shape: encrusting
 title: "'Roti jala' sponge"
 family: Suberitidae
 genus: Terpios
-species: ""
+species: ''
 attributes: []
 inat_id: 131764
 stateofmatter: Life
@@ -16,15 +18,21 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg"
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg"
-      caption: "Beting Bronok, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3a.jpg"
-      caption: "Beting Bronok, Jul 13"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3.jpg"
-      caption: "Beting Bronok, Jul 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg
+    caption: Beting Bronok, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3a.jpg
+    caption: Beting Bronok, Jul 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3.jpg
+    caption: Beting Bronok, Jul 13
+location:
+- bb
 ---
 
 **Where seen?**

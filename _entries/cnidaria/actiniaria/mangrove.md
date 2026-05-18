@@ -1,9 +1,10 @@
 ---
 title: Petal-mouthed mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: mangrove, anemone, stephensonactis, ornata, haliactiidae, actiniaria, anthozoa,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: mangrove, anemone, stephensonactis, ornata, haliactiidae, actiniaria, 
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 5
@@ -22,33 +23,49 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg"
-      caption: Mouth ringed with petal-like structures.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg"
-      caption: "Pasir Ris Park, Dec 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg
+    caption: Mouth ringed with petal-like structures.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg
+    caption: Pasir Ris Park, Dec 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg"
-      caption: "Sembawang, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg"
-      caption: "Woodlands, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg
+    caption: Sembawang, Dec 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg
+    caption: Woodlands, Jul 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg"
-      caption: "Changi SAF chalet, May 25 Photo shared by Marcus Ng on facebook .."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg"
-      caption: "Pulau Ubin, Feb 26 Photo shared by Rui Quan Oh on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg
+    caption: Changi SAF chalet, May 25 Photo shared by Marcus Ng on facebook ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg
+    caption: Pulau Ubin, Feb 26 Photo shared by Rui Quan Oh on facebook ..
 links_references: |
   **Links**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C.
   *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*
   . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+location:
+- sbw
+- pgl
+- prp
+- chg
+- cj
+- bb
 ---
 
 **Where seen?**

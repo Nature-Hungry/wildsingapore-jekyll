@@ -1,8 +1,10 @@
 ---
 title: Seagrass  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 attributes:
 - 6
@@ -14,32 +16,49 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg"
-      caption: "Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
+    caption: Changi, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3.jpg"
-      caption: "Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3.jpg
+    caption: Changi, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/170624cjtch1.jpg"
-      caption: "Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/170624cjtch1.jpg
+    caption: Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2a.jpg"
-      caption: "Cyrene, Apr 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2b.jpg"
-      caption: "Cyrene, Apr 24 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/250726cyrtch4.jpg"
-      caption: "Cyrene, Jul 25 Photo shared by Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2a.jpg
+    caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2b.jpg
+    caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/250726cyrtch4.jpg
+    caption: Cyrene, Jul 25 Photo shared by Chay Hoon on facebook .
+location:
+- prp
+- chg
+- cj
+- cyr
+- smk
 ---
 
 **Where seen?**

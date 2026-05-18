@@ -1,9 +1,10 @@
 ---
 title: Black chut-chut snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
-  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, 
+  potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: Cerithidea
@@ -17,23 +18,46 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg"
-      caption: "Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg"
-      caption: "Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg"
-      caption: "Pulau Semakau, Mar 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
+    caption: Pulau Semakau, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
+    caption: Pulau Semakau, Mar 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg
+    caption: Pulau Semakau, Mar 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/251231prprqo3a.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3.jpg"
-      caption: "Lim Chu Kang, Apr 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/251231prprqo3a.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3.jpg
+    caption: Lim Chu Kang, Apr 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Acknowlegement With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity Research for explaining the identification of this snail. Links Quadrate horn snail ( Cerithidea quadrata ) on SeaLife Base: Technical fact sheet. Quadrate horn snail ( Cerithidea quadrata ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Acknowlegement With grateful thanks to Tan Siong Kiat of the Raffles
+      Museum of Biodiversity Research for explaining the identification of this snail.
+      Links Quadrate horn snail ( Cerithidea quadrata ) on SeaLife Base: Technical
+      fact sheet. Quadrate horn snail ( Cerithidea quadrata ) in the Gastropods section
+      by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes:
+      The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds,
+      corals, bivalves and gastropods on the Food and Agriculture Organization of
+      the United Nations (FAO) website. References Tan Siong Kiat and Henrietta P.
+      M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles
+      Museum of Biodiversity Research, National University of Singapore. Abbott, R.
+      Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp.'
+location:
+- sbw
+- lck
+- prp
+- ubn
+- cj
+- smk
 ---
 
 **Where seen?**

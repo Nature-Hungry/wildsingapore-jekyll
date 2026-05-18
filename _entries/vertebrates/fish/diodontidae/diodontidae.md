@@ -1,8 +1,9 @@
 ---
 title: Porcupinefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -22,14 +23,19 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg"
-      caption: "Freckled porcupinefish (Diodon holacanthus ) Changi, Apr 20 Photo shared by Adib Adris on Singapore Biodiversity Records."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
+    caption: Freckled porcupinefish (Diodon holacanthus ) Changi, Apr 20 Photo 
+      shared by Adib Adris on Singapore Biodiversity Records.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg"
-      caption: "Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
+    caption: Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 
+      Photo shared by Jonathan Tan on facebook .
 links_references: |
   **Links**
   - [Longspine porcupinefish (
@@ -42,7 +48,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  
+
   **References**
   - Adib Adris. 31 August 2020.
   *A freckled porcupinefish at Changi*
@@ -50,6 +56,9 @@ links_references: |
   - Yong How Jonathan Tan. 30 April 2020.
   *Black-blotched porcupinefish at Cyrene Reef*
   . Singapore Biodiversity Records 2020: 40 ISSN 2345-7597
+location:
+- chg
+- cyr
 ---
 
 **Where seen?**

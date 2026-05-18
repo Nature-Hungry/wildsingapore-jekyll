@@ -1,9 +1,10 @@
 ---
 title: Porcelain fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, decapod,
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, 
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,34 +32,49 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg"
-      caption: "Male displaying, waving his legs and enlarged pincer . St John's Island, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
-      caption: "Smooth on the outer side of the pincer. St John's Island, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg"
-      caption: Bumpy ridge on the inside 'palm' of the pincer
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+    caption: Male displaying, waving his legs and enlarged pincer . St John's 
+      Island, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+    caption: Smooth on the outer side of the pincer. St John's Island, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
+    caption: Bumpy ridge on the inside 'palm' of the pincer
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg"
-      caption: "Chek Jawa, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg"
-      caption: "Pulau Hantu, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg"
-      caption: "Chek Jawa, Jan 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
+    caption: Chek Jawa, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
+    caption: Pulau Hantu, Apr 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
+    caption: Chek Jawa, Jan 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg"
-      caption: "Pulau Ubin Jun, 09 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
+    caption: Pulau Ubin Jun, 09 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg"
-      caption: "Marina East, Jan 26 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
+    caption: Marina East, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg"
-      caption: "Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg"
-      caption: "Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: |
   **Links**
   - [*Uca annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190.md)
@@ -75,7 +91,7 @@ links_references: |
   on the www.fiddlercrab.info website: photos, info, links and references.
   - [*Uca annulipes*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1770)
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
   *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
@@ -83,6 +99,19 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
   Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- ecp
+- kus
+- sji
+- hnt
+- tpg
+- smk
+- lfa
 ---
 
 **Where seen?**

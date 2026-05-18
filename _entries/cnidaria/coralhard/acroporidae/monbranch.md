@@ -1,9 +1,10 @@
 ---
 title: Branching montipora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Montipora
@@ -17,77 +18,129 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
-      caption: "Kusu Island, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5360m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5631m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+    caption: Kusu Island, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5360m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5631m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/190719sntm6l.jpg"
-      caption: "Can form dense fields on the intertidal. Sentosa, Jul 19"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/181225kusm3.jpg"
-      caption: "Growing inside the swimming lagoon. Kusu Island, Dec 18"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/190719sntm6l.jpg
+    caption: Can form dense fields on the intertidal. Sentosa, Jul 19
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/181225kusm3.jpg
+    caption: Growing inside the swimming lagoon. Kusu Island, Dec 18
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1d.jpg"
-      caption: "Small creatures living in Branching montipora. Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1b.jpg"
-      caption: "Small creatures living in Branching montipora. Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1c.jpg"
-      caption: "Small creatures living in Branching montipora. Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1d.jpg
+    caption: Small creatures living in Branching montipora. Cyrene Reef, Feb 16 
+      Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1b.jpg
+    caption: Small creatures living in Branching montipora. Cyrene Reef, Feb 16 
+      Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1c.jpg
+    caption: Small creatures living in Branching montipora. Cyrene Reef, Feb 16 
+      Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5a.jpg"
-      caption: "East Coast PCN, Jul 20"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5b.jpg"
-      caption: Photo by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5a.jpg
+    caption: East Coast PCN, Jul 20
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5b.jpg
+    caption: Photo by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4318m3.jpg"
-      caption: "Pulau Hantu, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3d.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4318m3.jpg
+    caption: Pulau Hantu, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3c.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3d.jpg
+    caption: ''
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/031224sised0039m3.jpg"
-      caption: "Sisters Island, Dec 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/070505kusg9047m3.jpg"
-      caption: "Kusu Island, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/080321smkd0341m3.jpg"
-      caption: "Pulau Semakau, Apr 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/031224sised0039m3.jpg
+    caption: Sisters Island, Dec 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/070505kusg9047m3.jpg
+    caption: Kusu Island, May 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/080321smkd0341m3.jpg
+    caption: Pulau Semakau, Apr 08
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/050625labg8589m3a.jpg"
-      caption: "Labrador, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg"
-      caption: "Cyrene Reef, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100102tkkd7317m3.jpg"
-      caption: "Pulau Tekukor, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/050625labg8589m3a.jpg
+    caption: Labrador, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
+    caption: Cyrene Reef, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100102tkkd7317m3.jpg
+    caption: Pulau Tekukor, Jan 10
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5484m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5518m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5484m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5518m3.jpg
+    caption: Pulau Sudong, Dec 09
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/150618tmftlks8m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/150618tmftlks8m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
+location:
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

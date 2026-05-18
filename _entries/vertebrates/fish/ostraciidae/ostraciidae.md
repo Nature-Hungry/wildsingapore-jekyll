@@ -1,8 +1,9 @@
 ---
 title: Boxfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ostraciidae
 genus: ''
@@ -18,20 +19,28 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Boxfishes are poisonous to eat! They have a hard shell around their body. They can swim quickly if they have to, even though they have tiny fins!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Boxfishes are poisonous to eat! They have a hard shell around their body. They can swim quickly if they have to, even though they have tiny fins!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Boxfishes are poisonous 
+      to eat! They have a hard shell around their body. They can swim quickly if
+      they have to, even though they have tiny fins!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Boxfishes are poisonous to eat! They have a hard shell around their
+      body. They can swim quickly if they have to, even though they have tiny 
+      fins!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg"
-      caption: Longhorned cowfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg"
-      caption: Shortnosed boxfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg"
-      caption: Yellow boxfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+    caption: Longhorned cowfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
+    caption: Shortnosed boxfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+    caption: Yellow boxfish
 links_references: |
   **Links**
   - [Shortnose boxfish (
@@ -48,7 +57,7 @@ links_references: |
   *Ostracion cubicus*
   )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus.md)
   on the Australian Museum Fish website: fact sheet and photos.
-  
+
   **References**
   - Sam Shu Qin.
   *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*
@@ -65,6 +74,8 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- skd
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

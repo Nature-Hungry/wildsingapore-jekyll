@@ -1,9 +1,10 @@
 ---
 title: Walker's cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Contradusta
@@ -20,32 +21,41 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg"
-      caption: "Cyrene Reef, Jul 08 Photo shared by Chim Chee Kong on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg"
-      caption: "Cyrene Reef, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
+    caption: Cyrene Reef, Jul 08 Photo shared by Chim Chee Kong on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
+    caption: Cyrene Reef, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg"
-      caption: "Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg"
-      caption: "Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg"
-      caption: "Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg
+    caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg
+    caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg
+    caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg"
-      caption: "Cyrene Reef, Jul 08 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg"
-      caption: "Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg
+    caption: Cyrene Reef, Jul 08 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg
+    caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
   - [*Cypraea walkeri*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104982)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -53,6 +63,8 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- cyr
 ---
 
 **Where seen?**

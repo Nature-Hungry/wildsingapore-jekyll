@@ -1,9 +1,10 @@
 ---
 title: Margin snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Marginellidae
 genus: Cryptospira
@@ -19,18 +20,27 @@ order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Pruninae
 updated: Dec 2025
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg"
-      caption: "Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on 
+      facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Toh Chay Hoon on facebook 
+      .
+location:
+- ecp
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Ornamented snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: flat, pincer, snapping, shrimp, alpheus, alpheidae, alpheid, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: flat, pincer, snapping, shrimp, alpheus, alpheidae, alpheid, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -25,65 +26,113 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg"
-      caption: "Pulau Hantu, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
+    caption: Pulau Hantu, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/091107hntd3973m6l.jpg"
-      caption: "Pulau Hantu, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/020625wcpd0134m3.jpg"
-      caption: "West Coast Park, Jun 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/091107hntd3973m6l.jpg
+    caption: Pulau Hantu, Nov 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/020625wcpd0134m3.jpg
+    caption: West Coast Park, Jun 02
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/020725chgcpd3986m6l.jpg"
-      caption: "Changi, Jul 02"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/081117ecpmd2277m3.jpg"
-      caption: "East Coast Park, Nov 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/020725chgcpd3986m6l.jpg
+    caption: Changi, Jul 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/081117ecpmd2277m3.jpg
+    caption: East Coast Park, Nov 08
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200822prpvc4.jpg"
-      caption: "Pasir Ris, Aug 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200917prplks12.jpg"
-      caption: "Pasir Ris, Sep 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200822prpvc4.jpg
+    caption: Pasir Ris, Aug 20 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200917prplks12.jpg
+    caption: Pasir Ris, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/250627bbrk1.jpg"
-      caption: "Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/170723ubnay4.jpg"
-      caption: "Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/250627bbrk1.jpg
+    caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/170723ubnay4.jpg
+    caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/090526bbmn.jpg"
-      caption: "Beting Bronok, May 09 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/080209labmn.jpg"
-      caption: "Labrador, Feb 08 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/150421chgmn.jpg"
-      caption: "Changi, Apr 15 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/090526bbmn.jpg
+    caption: Beting Bronok, May 09 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/080209labmn.jpg
+    caption: Labrador, Feb 08 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/150421chgmn.jpg
+    caption: Changi, Apr 15 Photo shared by Marcus Ng on flickr .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/110318sntlks.JPG"
-      caption: "Sentosa, Mar 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/171009blymn1.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/110318sntlks.JPG
+    caption: Sentosa, Mar 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/171009blymn1.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/190123lazjll4.jpg"
-      caption: "Lazarus, Feb 19 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/190123lazjll4.jpg
+    caption: Lazarus, Feb 19 Photo shared by Jianlin Liu on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200627cyrlks4.jpg"
-      caption: "Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200627cyrlks4.jpg
+    caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200823cyrjk1.jpg"
-      caption: "Cyrene, Aug 20 Photo shared by James Koh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/201018smksvc5.jpg"
-      caption: "Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/200823cyrjk1.jpg
+    caption: Cyrene, Aug 20 Photo shared by James Koh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/201018smksvc5.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on 
+      facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/140601tplrl.jpg"
-      caption: "Terumbu Pempang Laut, Jun 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/100403tbbtch1m3.jpg"
-      caption: "Beting Bemban Besar, Apr 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/100530pbklks3m3.jpg"
-      caption: "Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/140601tplrl.jpg
+    caption: Terumbu Pempang Laut, Jun 14 Photo shared by Russel Low on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/100403tbbtch1m3.jpg
+    caption: Beting Bemban Besar, Apr 10 Photo shared by Toh Chay Hoon on her 
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/100530pbklks3m3.jpg
+    caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

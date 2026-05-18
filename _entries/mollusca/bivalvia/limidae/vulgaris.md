@@ -1,9 +1,10 @@
 ---
 title: Common file clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lima, vulgaris, file,  shell,  clam, limidae, shell, bivalve, mollusc, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lima, vulgaris, file,  shell,  clam, limidae, shell, bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Limidae
 genus: Lima
@@ -19,42 +20,60 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg"
-      caption: "Sisters Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3a.jpg"
-      caption: Foot extended out of the shell.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg"
-      caption: With tentacles open.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+    caption: Sisters Island, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3a.jpg
+    caption: Foot extended out of the shell.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
+    caption: With tentacles open.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210626cjlks1.jpg"
-      caption: "Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/091010tmjk3m3.jpg"
-      caption: "Tanah Merah, Oct 09 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210626cjlks1.jpg
+    caption: Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/091010tmjk3m3.jpg
+    caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4a.jpg"
-      caption: "Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4b.jpg"
-      caption: "Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4a.jpg
+    caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4b.jpg
+    caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/160124smkelks7.jpg"
-      caption: "Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/240725smkntt5.jpg"
-      caption: "Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/160124smkelks7.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/240725smkntt5.jpg
+    caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210811tryvc3.jpg"
-      caption: "Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210501tbvc4.jpg"
-      caption: "Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210811tryvc3.jpg
+    caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210501tbvc4.jpg
+    caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/130628thntlks.JPG"
-      caption: "Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg"
-      caption: "Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/130628thntlks.JPG
+    caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptlks.JPG
+    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg
+    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on 
+      facebook .
 links_references: |
   **Links**
   - [Common file shell (
@@ -72,7 +91,7 @@ links_references: |
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -83,6 +102,15 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- cj
+- tm
+- snt
+- sis
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

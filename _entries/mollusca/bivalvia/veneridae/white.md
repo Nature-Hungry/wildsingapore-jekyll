@@ -1,8 +1,10 @@
 ---
 title: White venus clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: venus, shell, clam, veneridae, bivalve, mollusc, clam, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: venus, shell, clam, veneridae, bivalve, mollusc, clam, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Veneridae
 genus: ''
@@ -20,20 +22,31 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
-      caption: "Pulau Sekudu, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+    caption: Pulau Sekudu, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/090510hntlks.JPG"
-      caption: "Pulau Hantu, May 09 Photo shared by Loh Kok Sheng on flickr."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg"
-      caption: "Pulau Kusu, Apr 17 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/090510hntlks.JPG
+    caption: Pulau Hantu, May 09 Photo shared by Loh Kok Sheng on flickr.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg
+    caption: Pulau Kusu, Apr 17 Photo shared by Marcus Ng on facebook .
+location:
+- skd
+- kus
+- laz
+- hnt
 ---
 
 **Where seen?**

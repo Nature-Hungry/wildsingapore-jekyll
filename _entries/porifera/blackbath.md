@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, 
+  field,
 layout: entry
 shape: ball
 title: Black bath sponge
@@ -16,33 +18,54 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5371m3.jpg"
-      caption: "Pulau Hantu, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5373m3.jpg"
-      caption: Sponge finger oysters embedded in the sponge.
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3a.jpg"
-      caption: Spionid sponge worms on the surface.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5371m3.jpg
+    caption: Pulau Hantu, Jan 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5373m3.jpg
+    caption: Sponge finger oysters embedded in the sponge.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3a.jpg
+    caption: Spionid sponge worms on the surface.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091204pawd5212m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3a.jpg"
-      caption: Sponge finger oysters embedded in the sponge.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/091204pawd5212m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3a.jpg
+    caption: Sponge finger oysters embedded in the sponge.
 links_references: |
   **Links**
   - [Spongiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2622)
   on SeaLife Base: technical fact sheets.
   - [Spongiidae](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131626&allchildren=1)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tkr
+- laz
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: 'Fungia mushroom  corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Fungia
@@ -17,22 +18,29 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg"
-      caption: Short tentacles
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
+    caption: Short tentacles
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
+    caption: Underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
-      caption: Oval mushroom coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg"
-      caption: Circular mushroom coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg"
-      caption: Circular mushroom coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+    caption: Oval mushroom coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
+    caption: Circular mushroom coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+    caption: Circular mushroom coral
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -43,7 +51,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
   - [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species)
   on SeaLife Base: Technical factsheet.
-  
+
   **References**
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
   *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
@@ -60,6 +68,22 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

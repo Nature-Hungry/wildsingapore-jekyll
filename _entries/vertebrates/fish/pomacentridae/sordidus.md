@@ -1,9 +1,10 @@
 ---
 title: 'Black-spot sergeant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, pomacentridae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, 
+  pomacentridae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,13 +26,16 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg"
-      caption: "Sisters Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m6l.jpg"
-      caption: "Sisters Island, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
+    caption: Sisters Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m6l.jpg
+    caption: Sisters Island, Aug 08
 links_references: |
   **Links**
   - [Black-spot sergeant (
@@ -40,7 +44,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Ria Tan. 26 December 2014.
   *Blackspot sergeant at Sisters Island*
@@ -51,6 +55,8 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- sis
 ---
 
 **Where seen?**

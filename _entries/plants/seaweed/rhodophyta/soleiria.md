@@ -1,9 +1,10 @@
 ---
 title: Robust red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: robust, red, seaweed, weed, algae, solieria, robusta, solieriaceae, rhodophyceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: robust, red, seaweed, weed, algae, solieria, robusta, solieriaceae, 
+  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Solieriaceae
@@ -22,27 +23,33 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg"
-      caption: "Pulau Sekudu, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/050621skdd4028m3.jpg"
-      caption: "Pulau Sekudu, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/060326tusd0560m3.jpg"
-      caption: "Tuas, Mar 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
+    caption: Pulau Sekudu, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/050621skdd4028m3.jpg
+    caption: Pulau Sekudu, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/060326tusd0560m3.jpg
+    caption: Tuas, Mar 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/190218cnyrk5.jpg"
-      caption: "Coney Island, Feb 19 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/190218cnyrk5.jpg
+    caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg
+    caption: Pulau Senang, Jun 10
 links_references: |
   **Links**
   - [*Solieria robusta*](http://www.algaebase.org/search/species/detail/?species_id=2824)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   *A Checklist of the Algae of Singapore*
@@ -50,6 +57,23 @@ links_references: |
   - Huisman, John M. 2000.
   *Marine Plants of Australia*
   University of Western Australia Press. 300pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- lab
+- snt
+- tkr
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Dusky-gilled mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
-  variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, 
+  periophthalmus, variabilis, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Gobiidae
 genus: Periophthalmus
@@ -20,13 +21,16 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg"
-      caption: "Pasir Park, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg"
-      caption: "Pectoral fins are reddish at the edges Pulau Semakau, Oct 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+    caption: Pasir Park, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
+    caption: Pectoral fins are reddish at the edges Pulau Semakau, Oct 05
 links_references: |
   **Links**
   - [*Periophthalmus variabilis*](http://www.mudskipper.it/SpeciesPages/vari.html)
@@ -41,12 +45,18 @@ links_references: |
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photo and fact sheet
-  
+
   **References**
   - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
   [Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of
   *Periophthalmus novemradiatus*](http://www.bioone.org/doi/abs/10.2108/zsj.26.309)
   . Zoological Science 26(4):309-314.
+location:
+- prp
+- cj
+- ecp
+- lab
+- hnt
 ---
 
 **Where seen?**

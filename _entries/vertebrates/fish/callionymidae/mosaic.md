@@ -1,8 +1,10 @@
 ---
 title: Mosaic dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dragonet, fish, callionymidae, callionymus, enneactis,field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dragonet, fish, callionymidae, callionymus, enneactis,field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -23,41 +25,58 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/140418sntd4610m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/140418sntd4610m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/140418sntd4610m3.jpg"
-      caption: "Tiny one among seaweeds. Sentosa, Apr 14"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m6l.jpg"
-      caption: "Tanah Merah, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/140418sntd4610m3.jpg
+    caption: Tiny one among seaweeds. Sentosa, Apr 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m6l.jpg
+    caption: Tanah Merah, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240821skdch1.jpg"
-      caption: "Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240821skdch1.jpg
+    caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091104sntjk2m3.jpg"
-      caption: "Sentosa, Nov 09 Photos shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/200112sjimn3.jpg"
-      caption: "St. John's Island, Jan 20 Photos shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091104sntjk2m3.jpg
+    caption: Sentosa, Nov 09 Photos shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/200112sjimn3.jpg
+    caption: St. John's Island, Jan 20 Photos shared by Marcus Ng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/110122hntjk1m6.jpg"
-      caption: "Pulau Hantu, Jan 11 Photos shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/170213bsislks1.jpg"
-      caption: "Big Sisters Island, Feb 17 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/110122hntjk1m6.jpg
+    caption: Pulau Hantu, Jan 11 Photos shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/170213bsislks1.jpg
+    caption: Big Sisters Island, Feb 17 Photo shared by Loh Kok Sheng on flickr 
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240411tsmkky2.jpg"
-      caption: "Terumbu Semakau, Apr 24 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/201018smksjll1.jpg"
-      caption: "Pulau Semakau South, Oct 20 Photo shared by Jianlin Liu on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/120511tpljk1m3.jpg"
-      caption: "Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240411tsmkky2.jpg
+    caption: Terumbu Semakau, Apr 24 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/201018smksjll1.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Jianlin Liu on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/120511tpljk1m3.jpg
+    caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog 
+      .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/150620tbtch1m3.jpg"
-      caption: "Terumbu Bemban, Jul 15 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240526bbbccn4.jpg"
-      caption: "Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/150620tbtch1m3.jpg
+    caption: Terumbu Bemban, Jul 15 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/240526bbbccn4.jpg
+    caption: Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on 
+      facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/110422tbmrl3m3.jpg"
-      caption: "Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/110422tbmrl3m3.jpg
+    caption: Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
 links_references: |
   **Links**
   - [Mangrove dragonet (
@@ -67,11 +86,24 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet..
-  
+
   **References**
   - Ng, H. H., 2012.
   *The dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*
   . Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
+location:
+- skd
+- tus
+- tm
+- snt
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

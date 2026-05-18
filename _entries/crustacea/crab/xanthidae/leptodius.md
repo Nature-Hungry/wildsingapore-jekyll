@@ -1,8 +1,10 @@
 ---
 title: 'Rock crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rock, crab, leptodius, xanthidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: rock, crab, leptodius, xanthidae, decapod, crustacea, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,25 +32,34 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Xanthinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg"
-      caption: "Pincers with bumpy elbows. St. John's Island, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg"
-      caption: "Sentosa, Sep 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+    caption: Pincers with bumpy elbows. St. John's Island, Sep 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
+    caption: Sentosa, Sep 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg"
-      caption: "Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
+    caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg"
-      caption: "Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg"
-      caption: "Pulau Tekukor, May 10 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+    caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Common Rock Crab (
@@ -67,7 +78,7 @@ links_references: |
   and
   *[Leptodius sanguineus](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1306)*
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
@@ -75,6 +86,13 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- skd
+- snt
+- tkr
+- sji
+- sis
+- lfa
 ---
 
 **Where seen?**

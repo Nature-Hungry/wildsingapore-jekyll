@@ -1,9 +1,10 @@
 ---
 title: Pink moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, moon, snail, shell, naticarius, natica, zonalis, naticidae, gastropod,
-  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pink, moon, snail, shell, naticarius, natica, zonalis, naticidae, 
+  gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Naticarius
@@ -19,42 +20,76 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg"
-      caption: "Changi, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080506chgd2334m3.jpg"
-      caption: "Changi, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg
+    caption: Changi, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080506chgd2334m3.jpg
+    caption: Changi, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg"
-      caption: "With a bivalve enveloped in its foot. Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/090923labd1775m3.jpg"
-      caption: "A tiny one (about 1cm). Labrador, Sep 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg
+    caption: With a bivalve enveloped in its foot. Changi, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/090923labd1775m3.jpg
+    caption: A tiny one (about 1cm). Labrador, Sep 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/140619cjro1m3.jpg"
-      caption: "Chek Jawa, Jun 14 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220616chgevc3.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/140619cjro1m3.jpg
+    caption: Chek Jawa, Jun 14 Photo shared by Rene Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220616chgevc3.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook 
+      .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/180812nsrtch2.jpg"
-      caption: "East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220813pcnjk1.jpg"
-      caption: "East Coast Park (PCN), Aug 22 Photo shared by James Koh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/180812nsrtch2.jpg
+    caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220813pcnjk1.jpg
+    caption: East Coast Park (PCN), Aug 22 Photo shared by James Koh on facebook
+      .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/221127tch1.jpg"
-      caption: "Lazarus (Eagle Bay), Nov 22 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/230901kusrk1.jpg"
-      caption: "Kusu Island, Sep 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/250726cyrtch1.jpg"
-      caption: "Cyrene, Jul 25 Photo shared by Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/221127tch1.jpg
+    caption: Lazarus (Eagle Bay), Nov 22 Photo shared by Toh Chay Hoon on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/230901kusrk1.jpg
+    caption: Kusu Island, Sep 23 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/250726cyrtch1.jpg
+    caption: Cyrene, Jul 25 Photo shared by Chay Hoon on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/251011ssistl4.jpg"
-      caption: "Small SIsters Island, Oct 25 Photo shared by Tammy Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/210810tpltch3a.jpg"
-      caption: "Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/251011ssistl4.jpg
+    caption: Small SIsters Island, Oct 25 Photo shared by Tammy Lim on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/210810tpltch3a.jpg
+    caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on 
+      facebook .
+location:
+- chg
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sis
+- cyr
+- tpg
+- smk
 ---
 
 **Where seen?**

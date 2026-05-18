@@ -1,8 +1,9 @@
 ---
 title: Sea catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -23,15 +24,22 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg"
-      caption: "This large one (about 30cm) was caught by a fisherman. Pulau Sekudu, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg"
-      caption: "This large one (20cm) was trapped in a rock pool at low tide. Chek Jawa, Jan 02"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg"
-      caption: "Small ones (about 6cm) are sometimes seen in large numbers on the shores. Chek Jawa, Jun 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+    caption: This large one (about 30cm) was caught by a fisherman. Pulau 
+      Sekudu, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
+    caption: This large one (20cm) was trapped in a rock pool at low tide. Chek 
+      Jawa, Jan 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
+    caption: Small ones (about 6cm) are sometimes seen in large numbers on the 
+      shores. Chek Jawa, Jun 03
 links_references: |
   **Links**
   - [Yellow Sea Catfish (
@@ -64,7 +72,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the order, including fact sheets.
-  
+
   **References**
   - Ng, H. H., 2012.
   *The ariid catfishes of Singapore*
@@ -75,6 +83,9 @@ links_references: |
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
   . Periplus Editions. 292 pp.
+location:
+- cj
+- skd
 ---
 
 **Where seen?**

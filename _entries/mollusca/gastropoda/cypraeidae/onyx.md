@@ -1,9 +1,10 @@
 ---
 title: 'Onyx cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Erronea
@@ -20,29 +21,44 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg"
-      caption: "Beting Bronok, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg"
-      caption: "'Teeth' tinged orange."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+    caption: Beting Bronok, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
+    caption: "'Teeth' tinged orange."
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg"
-      caption: "Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG"
-      caption: "Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg"
-      caption: "Mama cowrie with her egg mass. Pulau Sekudu, Jun 17 Photo shared by Jianlin Liu on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
+    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 
+      12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
+    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 
+      12 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
+    caption: Mama cowrie with her egg mass. Pulau Sekudu, Jun 17 Photo shared by
+      Jianlin Liu on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg"
-      caption: "Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg"
-      caption: "East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
+    caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
+    caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
 links_references: |
   **Links**
   - [Onyx cowrie (
@@ -54,7 +70,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -71,6 +87,15 @@ links_references: |
   - Kuiter, Rudie H and Helmut Debelius. 2009.
   *World Atlas of Marine Fauna*
   . IKAN-Unterwasserachiv. 723pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- ecp
+- kus
 ---
 
 **Where seen?**

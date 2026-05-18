@@ -1,8 +1,10 @@
 ---
 title: Tellin clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Tellinidae
 genus: ''
@@ -20,7 +22,8 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
 links_references: |
   **Links**
   - [Family
@@ -36,7 +39,7 @@ links_references: |
     Western Central Pacific [Volume
     1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
     Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat & Martyn E. Y. Low. 13 December 2013. *Two new Singapore records of the bivalve family Tellinidae: Quidnipagus palatum, Tellinides timorensis*. Singapore Biodiversity Records 2013: 116-117.
   - Tan Siong
@@ -54,18 +57,45 @@ links_references: |
     L. & Y. C. Wee, 1994. *The
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg"
-      caption: "Pulau Semakau, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg"
-      caption: "Pulau Semakau, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+    caption: Pulau Semakau, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
+    caption: Pulau Semakau, Apr 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg"
-      caption: "Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg"
-      caption: "St. John's Island, Jul 09 Photo shared by Geraldine Lee on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
+    caption: Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
+    caption: St. John's Island, Jul 09 Photo shared by Geraldine Lee on her blog
+      .
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Family Tellinidae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos. Family Tellinidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Tan Siong Kiat & Martyn E. Y. Low. 13 December 2013. Two new Singapore records of the bivalve family Tellinidae: Quidnipagus palatum, Tellinides timorensis . Singapore Biodiversity Records 2013: 116-117. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Family Tellinidae on The Gladys Archerd Shell Collection at Washington
+      State University Tri-Cities Natural History Museum website: brief description
+      and photos. Family Tellinidae in the Bivalves section by J.M. Poutiers in the
+      FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources
+      of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods
+      on the Food and Agriculture Organization of the United Nations (FAO) website.
+      References Tan Siong Kiat & Martyn E. Y. Low. 13 December 2013. Two new Singapore
+      records of the bivalve family Tellinidae: Quidnipagus palatum, Tellinides timorensis
+      . Singapore Biodiversity Records 2013: 116-117. Tan Siong Kiat and Henrietta
+      P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles
+      Museum of Biodiversity Research, National University of Singapore. Tan, K. S.
+      & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore
+      Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity
+      in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y.
+      C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of
+      Singapore . The Nature Society (Singapore), Singapore. 343 pp. Abbott, R. Tucker,
+      1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp.'
+location:
+- tm
+- sji
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Blood-spotted swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blood, spotted, swimming, crab, portunus, sanguinolentus, portunidae, decapod,
-  crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blood, spotted, swimming, crab, portunus, sanguinolentus, portunidae, 
+  decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -32,13 +33,16 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg"
-      caption: "Kusu Island, Jun 15"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg"
-      caption: Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+    caption: Kusu Island, Jun 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg
+    caption: Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [Blood-spotted swimming crab (
@@ -46,6 +50,8 @@ links_references: |
   *sanguinolentus*
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1102)
   on Crabs of Japan on Marine Species Indentification Portal.
+location:
+- kus
 ---
 
 **Where seen?**

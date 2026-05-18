@@ -1,9 +1,10 @@
 ---
 title: Zebrafish sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, 
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,20 +27,26 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg"
-      caption: "Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg"
-      caption: Large conical bumps with dark stripes.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+    caption: Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
+    caption: Large conical bumps with dark stripes.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg"
-      caption: Flat underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg"
-      caption: Short tube feet in three broad rows.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg"
-      caption: Short tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
+    caption: Flat underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
+    caption: Short tube feet in three broad rows.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
+    caption: Short tube feet.
 links_references: |
   **Links**
   - [*Stichopus vastus*
@@ -56,11 +63,13 @@ links_references: |
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
   - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b.md)
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- smk
 ---
 
 **Where seen?**

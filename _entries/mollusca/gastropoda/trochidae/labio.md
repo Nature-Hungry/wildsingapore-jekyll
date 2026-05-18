@@ -1,9 +1,10 @@
 ---
 title: Toothed top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: toothed, monodonta, labio, top, trochus, maculatus,  trochidae, gastropod,
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: toothed, monodonta, labio, top, trochus, maculatus,  trochidae, 
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Trochidae
 genus: Monodonta
@@ -19,22 +20,30 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Monodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
-      caption: "Kusu Island, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
-      caption: "St. John's Island, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+    caption: Kusu Island, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
+    caption: St. John's Island, Aug 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: |
   **Links**
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
@@ -52,7 +61,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -61,6 +70,24 @@ links_references: |
   *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*
   . Nature in Singapore 2009 2: 421–429.
   - Tan, K. S. & L. M. Chou, 2000. A Guide to the Common Seashells of Singapore. Singapore Science Centre. 160 pp.
+location:
+- chg
+- cj
+- skd
+- tus
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Castle coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: Pachyseris
@@ -17,40 +18,59 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg"
-      caption: "Terumbu Bemban, Jul 11 Fine lines perpendicular to thick ridges."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg"
-      caption: "Terumbu Bemban, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8814m3.jpg"
-      caption: "St. John's Island, Aug 08 Maze-like pattern."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+    caption: Terumbu Bemban, Jul 11 Fine lines perpendicular to thick ridges.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg
+    caption: Terumbu Bemban, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8814m3.jpg
+    caption: St. John's Island, Aug 08 Maze-like pattern.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3.jpg"
-      caption: "St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2.jpg"
-      caption: "Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2.jpg
+    caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/220419sjijk1.jpg"
-      caption: "St. John's Island, Apr 22 Photo shared by James Koh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/240512jnglks2.jpg"
-      caption: "Pulau Jong, May 24 Photo shared by Loh Kok Sheng on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/220419sjijk1.jpg
+    caption: St. John's Island, Apr 22 Photo shared by James Koh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/240512jnglks2.jpg
+    caption: Pulau Jong, May 24 Photo shared by Loh Kok Sheng on facebook ..
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/180717smkefl1.jpg"
-      caption: "Pulau Semakau East, Jul 18 Photo shared by Frances Loke on facebook .."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/2007025smknlks2.jpg"
-      caption: "Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/180717smkefl1.jpg
+    caption: Pulau Semakau East, Jul 18 Photo shared by Frances Loke on facebook
+      ..
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/2007025smknlks2.jpg
+    caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on 
+      facebook ..
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120804bbblks.JPG"
-      caption: "Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100617tblks1m3.JPG"
-      caption: "Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120721tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120804bbblks.JPG
+    caption: Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100617tblks1m3.JPG
+    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120721tptlks.JPG
+    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on 
+      flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/210428slulks6.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/210428slulks6.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ..
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -62,6 +82,15 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal with species factsheet.
   - [*Pachyseris rugosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46100)
   on SeaLife Base: Technical fact sheets.
+location:
+- kus
+- sji
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

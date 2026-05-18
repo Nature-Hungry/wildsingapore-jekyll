@@ -1,9 +1,10 @@
 ---
 title: 'Black-spot tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,21 +25,29 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg"
-      caption: "Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg"
-      caption: "Sentosa, Jul 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
+    caption: Beting Bronok, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg
+    caption: Sentosa, Jul 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg"
-      caption: "Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg
+    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook 
+      .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg"
-      caption: "Pulau Semakau, Sep 23 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg"
-      caption: "Juvenile? Terumbu Semakau, Aug 17 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg
+    caption: Pulau Semakau, Sep 23 Photo shared by Che Cheng Neo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg
+    caption: Juvenile? Terumbu Semakau, Aug 17 Photo shared by Jonathan Tan on 
+      facebook .
 links_references: |
   **Links**
   - [Black-spot Tuskfish (
@@ -58,7 +67,7 @@ links_references: |
   : Technical fact sheet.
   - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -69,6 +78,13 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- cj
+- bb
+- snt
+- smk
+- tsm
 ---
 
 **Where seen?**

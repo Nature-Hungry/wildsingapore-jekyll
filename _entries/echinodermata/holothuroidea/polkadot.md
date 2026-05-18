@@ -1,9 +1,10 @@
 ---
 title: Polka-dotted sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: cucumber, seacucumber, bohadschia, holothuria, ocellata, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: cucumber, seacucumber, bohadschia, holothuria, ocellata, 
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -25,45 +26,61 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg"
-      caption: "Changi, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3a.jpg"
-      caption: Circles around short conical bumps.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8389m3.jpg"
-      caption: Feeding tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
+    caption: Changi, Jul 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3a.jpg
+    caption: Circles around short conical bumps.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8389m3.jpg
+    caption: Feeding tentacles.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8382m6l.jpg"
-      caption: Obvious flat underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8385m3a.jpg"
-      caption: Mouth
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8382m6l.jpg
+    caption: Obvious flat underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8385m3a.jpg
+    caption: Mouth
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata1.gif"
-      caption: Ossicles of the sea cucumber.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata2.gif"
-      caption: From the paper by Teo and Ng (PDF).
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata4.gif"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata3.gif"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata1.gif
+    caption: Ossicles of the sea cucumber.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata2.gif
+    caption: From the paper by Teo and Ng (PDF).
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata4.gif
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata3.gif
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/251012chgmn8.jpg"
-      caption: "Changi, Oct 25 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg"
-      caption: "Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/251012chgmn8.jpg
+    caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg
+    caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog .
 links_references: |
   **Links**
   - [*Holothuria ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellata.html)
   on SeaLife Base: Technical fact sheet.
   - [*Holothuria ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71)
   in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Siyang Teo and Chin Soon Lionel Ng.
   *New record of a sea cucumber, Holothuria ocellata (Jaeger, 1833) (Holothuroidea: Aspidochirotida: Holothuriidae) in Singapore*
   . on Nature in Singapore on the Lee Kong Chiang Natural History Museum. Jun 2010 pp. 411–414.
+location:
+- chg
+- laz
+- cyr
 ---
 
 **Where seen?**

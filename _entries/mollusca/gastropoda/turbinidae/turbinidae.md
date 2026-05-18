@@ -1,8 +1,10 @@
 ---
 title: 'Turban snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: ''
@@ -20,45 +22,66 @@ updated: Oct 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... The thick, chalky operculum resembles a cat's eye. The pretty shell is often hidden under encrusting growths. Some are threatened by over-collection."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "The thick, chalky operculum resembles a cat's eye. The pretty shell is often hidden under encrusting growths. Some are threatened by over-collection."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... The thick, chalky 
+      operculum resembles a cat's eye. The pretty shell is often hidden under 
+      encrusting growths. Some are threatened by over-collection.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: The thick, chalky operculum resembles a cat's eye. The pretty shell
+      is often hidden under encrusting growths. Some are threatened by 
+      over-collection.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg"
-      caption: "Sisters Island, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg"
-      caption: Two different kinds of turban snails. More easily distinguished by their operculum.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg"
-      caption: "Sometimes, only the operculum is seen on the shore."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
+    caption: Sisters Island, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg
+    caption: Two different kinds of turban snails. More easily distinguished by 
+      their operculum.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg
+    caption: Sometimes, only the operculum is seen on the shore.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg"
-      caption: "Spurred turban snail Cyrene Reef, Jul 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg"
-      caption: "Dolphin shell snail Tanah Merah, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg"
-      caption: "Ribbed turban snail Labrador, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
+    caption: Spurred turban snail Cyrene Reef, Jul 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+    caption: Dolphin shell snail Tanah Merah, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg
+    caption: Ribbed turban snail Labrador, May 05
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg"
-      caption: Ribbed turban snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg"
-      caption: "Operculum smooth, green centre with white and yellow margins,"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg"
-      caption: Spiral ribs smooth without scales.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg
+    caption: Ribbed turban snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
+    caption: Operculum smooth, green centre with white and yellow margins,
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg
+    caption: Spiral ribs smooth without scales.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg"
-      caption: Dwarf turban snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg"
-      caption: "Operculum bumpy, green centre with white and greyish margins. No yellow."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg"
-      caption: Spiral ribs rough with tiny scales.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg
+    caption: Dwarf turban snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
+    caption: Operculum bumpy, green centre with white and greyish margins. No 
+      yellow.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg
+    caption: Spiral ribs rough with tiny scales.
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
-      caption: Dolphin snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
-      caption: Spurred turban snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
-      caption: Tapestry turban snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+    caption: Dolphin snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
+    caption: Spurred turban snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
+    caption: Tapestry turban snail
 links_references: |
   **Links**
   - [Dwarf Turban Shell (
@@ -74,7 +97,7 @@ links_references: |
   - Family Turbinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow Yan & Leo Nguang.
   *Recent record of the turban snail, Turbo heterocheilus, at Changi*
@@ -100,6 +123,13 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- tm
+- snt
+- laz
+- sis
+- tsm
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

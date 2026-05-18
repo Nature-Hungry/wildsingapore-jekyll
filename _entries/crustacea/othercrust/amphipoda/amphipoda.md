@@ -1,8 +1,9 @@
 ---
 title: 'Amphipods '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Caprellidae
 genus: ''
@@ -23,31 +24,42 @@ infraorder: Corophiida
 parvorder: Caprellidira
 superfamily: Caprelloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg"
-      caption: "Kusu Island, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
+    caption: Kusu Island, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg"
-      caption: "Sisters, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg"
-      caption: "Sisters, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg
+    caption: Sisters, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg
+    caption: Sisters, May 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg"
-      caption: "Sentosa, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg"
-      caption: "Sentosa, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg"
-      caption: "Skeleton shrimp on Stinging hydroids . Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg"
-      caption: "Sisters Island, May 12 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg"
-      caption: "Sisters, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg
+    caption: Sentosa, Nov 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg
+    caption: Sentosa, Nov 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg
+    caption: Skeleton shrimp on Stinging hydroids . Changi, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg
+    caption: Sisters Island, May 12 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg
+    caption: Sisters, May 12
 links_references: |
   **Links**
   - [Sandhoppers (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178.md)
@@ -65,7 +77,7 @@ links_references: |
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams.
   - [World Amphipoda Database](http://www.marinespecies.org/amphipoda/)
-  
+
   **References**
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
   *Invertebrate Zoology*
@@ -73,6 +85,15 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
   Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- pgl
+- skd
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
 ---
 
 **Where seen?**

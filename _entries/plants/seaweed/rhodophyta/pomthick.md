@@ -1,9 +1,10 @@
 ---
 title: 'Thick   crunchy pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, 
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Galaxauraceae
@@ -23,27 +24,37 @@ subclass: Nemaliophycidae
 order: Nemaliales
 suborder: Galaxaurineae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg"
-      caption: "Cyrene Reef, Oct 07 Rings around the 'stem', tips rounded with dark spot."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg"
-      caption: "Cyrene Reef, Jun 07 Darker pink dot the tips of the 'stems'."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg"
-      caption: "Lazarus Island, Feb 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+    caption: Cyrene Reef, Oct 07 Rings around the 'stem', tips rounded with dark
+      spot.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg
+    caption: Cyrene Reef, Jun 07 Darker pink dot the tips of the 'stems'.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg
+    caption: Lazarus Island, Feb 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg
+    caption: Terumbu Berkas, Jan 10
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg"
-      caption: "Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg
+    caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
+    caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
   - [Family Galaxauraceae](http://www.algaebase.org/browse/taxonomy/detail/?taxonid=v8397b0dd6848acdb&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
@@ -53,7 +64,7 @@ links_references: |
   - J. M. Huisman and M. A. Borowitzka
   [A revision of the Australian species of Galaxaura (Rhodophyta, Galaxauraceae), with a description of Tricleocarpa gen. nov.](http://algae.thu.edu.tw/lab/2013_Meeting_JulyAugust/PeiHusan/1990_A_revision_Australian_species_Galaxaura.pdf)
   Phycologia (1990) Volume 29 (2), 150-172
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -70,6 +81,18 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- cyr
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

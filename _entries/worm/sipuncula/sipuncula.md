@@ -1,8 +1,9 @@
 ---
 title: Peanut worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Phascolosomatidae
@@ -14,70 +15,100 @@ kingdom: Animalia
 phylum: Annelida
 order: Sipuncula
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are smooth unsegmented worms. Common but rarely seen as they usually remain underground. The introvert is one of the interesting parts of this worm.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are smooth unsegmented worms. Common but rarely seen as they usually remain underground. The introvert is one of the interesting parts of this worm.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are smooth 
+      unsegmented worms. Common but rarely seen as they usually remain 
+      underground. The introvert is one of the interesting parts of this worm.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are smooth unsegmented worms. Common but rarely seen as they 
+      usually remain underground. The introvert is one of the interesting parts 
+      of this worm.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg"
-      caption: "Cyrene Reef, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090514prpd1761m3.jpg"
-      caption: "Pasir Ris, May 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
+    caption: Cyrene Reef, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090514prpd1761m3.jpg
+    caption: Pasir Ris, May 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/020406cjd8036m3.jpg"
-      caption: "Chek Jawa, Apr 02"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/031122cjd0011m3.jpg"
-      caption: "Chek Jawa, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/080706chg7364m3.jpg"
-      caption: "Changi, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/020406cjd8036m3.jpg
+    caption: Chek Jawa, Apr 02
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
+    caption: Chek Jawa, Nov 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/080706chg7364m3.jpg
+    caption: Changi, Jul 08
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmn.jpg"
-      caption: "Changi, Jan 15 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmna.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090720skdmn8m3.jpg"
-      caption: "Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmn.jpg
+    caption: Changi, Jan 15 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmna.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090720skdmn8m3.jpg
+    caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210114chg7vc1.jpg"
-      caption: "Changi CP7, Jan 21 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/120425blys06795m3.jpg"
-      caption: "Berlayar Creek, Apr 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210114chg7vc1.jpg
+    caption: Changi CP7, Jan 21 Photo shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/120425blys06795m3.jpg
+    caption: Berlayar Creek, Apr 12
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/260201cyrlks2.jpg"
-      caption: "Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210429hntvc9.jpg"
-      caption: "Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facbook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/260201cyrlks2.jpg
+    caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210429hntvc9.jpg
+    caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facbook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210113smkwjll6.jpg"
-      caption: "Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facbook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg"
-      caption: "Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on facbook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210113smkwjll6.jpg
+    caption: Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facbook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg
+    caption: Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on facbook 
+      .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg
+    caption: ''
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100527tmd3597m3.jpg"
-      caption: "Tanah Merah, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5151m3.jpg"
-      caption: "Tanah Merah, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5153m3.jpg"
-      caption: "Tanah Merah, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100728tmd9440m3.jpg"
-      caption: "Tanah Merah, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100729tmd9578m3.jpg"
-      caption: "Tanah Merah, Jul 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100527tmd3597m3.jpg
+    caption: Tanah Merah, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5151m3.jpg
+    caption: Tanah Merah, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5153m3.jpg
+    caption: Tanah Merah, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100728tmd9440m3.jpg
+    caption: Tanah Merah, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100729tmd9578m3.jpg
+    caption: Tanah Merah, Jul 10
 links_references: |
   **Links**
   - [Peanut worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127.md)
@@ -92,7 +123,7 @@ links_references: |
   on
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
   by Keith Davey on the Marine Education Society of Australia website: an introduction to worms including sipunculids with explanations of the major parts of their bodies and their lifestyles, and fact sheet on a peanut worm found in Australia.
-  
+
   **References**
   - P.-W. Hsueh & K. S. Tan. 29 June 2016.
   [New records of peanut worms (Sipuncula) from Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement34/S34rbz235-240.pdf)
@@ -109,6 +140,22 @@ links_references: |
   - Pechenik, Jan A., 2005.
   *Biology of the Invertebrates*
   . 5
+location:
+- sbw
+- prp
+- chg
+- cj
+- skd
+- tus
+- ecp
+- tm
+- lab
+- snt
+- kus
+- cyr
+- hnt
+- smk
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

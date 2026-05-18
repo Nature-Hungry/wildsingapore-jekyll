@@ -1,8 +1,9 @@
 ---
 title: Wrasses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Labridae
 genus: ''
@@ -18,39 +19,56 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They belong to the second largest family of fishes after gobies. Young fish may look very different from adults. Some can give a nasty bite. Don't touch them!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They belong to the second largest family of fishes after gobies. Young fish may look very different from adults. Some can give a nasty bite. Don't touch them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They belong to the second
+      largest family of fishes after gobies. Young fish may look very different 
+      from adults. Some can give a nasty bite. Don't touch them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They belong to the second largest family of fishes after gobies. 
+      Young fish may look very different from adults. Some can give a nasty 
+      bite. Don't touch them!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg"
-      caption: "Well camouflaged! Tuas, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg"
-      caption: "Often half buried in the sand. Pulau Sekudu, Apr 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg"
-      caption: "Seen from above. Pulau Sekudu, Apr 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+    caption: Well camouflaged! Tuas, Apr 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
+    caption: Often half buried in the sand. Pulau Sekudu, Apr 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
+    caption: Seen from above. Pulau Sekudu, Apr 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg"
-      caption: "Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg"
-      caption: "Often seen in abandoned nets and traps. Pulau Semakau, Jan 17"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
+    caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by
+      Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
+    caption: Often seen in abandoned nets and traps. Pulau Semakau, Jan 17
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg"
-      caption: Brown-striped wrasse
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg"
-      caption: Diamond wrasse
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg"
-      caption: Weedy wrasse
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+    caption: Brown-striped wrasse
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
+    caption: Diamond wrasse
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+    caption: Weedy wrasse
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg"
-      caption: Black-spot tuskfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg"
-      caption: Anchor tuskfish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg"
-      caption: Singapore tuskfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
+    caption: Black-spot tuskfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
+    caption: Anchor tuskfish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
+    caption: Singapore tuskfish
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -63,7 +81,7 @@ links_references: |
   on the endangered members of the Family Labridae with latest Red List for this group.
   - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Adib Adris & Vincent Ting. 29 May 2020.
   *Floral wrasse at Seringat-Kias*
@@ -125,6 +143,16 @@ links_references: |
   - Sparks, John, 1999.
   *Battle of the Sexes in the Animal World*
   BBC Worldwide, London. 224 pp.
+location:
+- tm
+- snt
+- kus
+- sis
+- cyr
+- hnt
+- smk
+- tsm
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

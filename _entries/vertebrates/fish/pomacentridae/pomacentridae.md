@@ -1,8 +1,10 @@
 ---
 title: 'Damselfishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Pomacentridae
 genus: ''
@@ -17,50 +19,71 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Blenniiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
-      caption: "Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg"
-      caption: "Juvenile damselfishes can look very different from the adults. Tanah Merah, Nov 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg"
-      caption: "Damselfishes can be abundant on some of our shores! Raffles Lighthouse, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+    caption: Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg
+    caption: Juvenile damselfishes can look very different from the adults. 
+      Tanah Merah, Nov 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
+    caption: Damselfishes can be abundant on some of our shores! Raffles 
+      Lighthouse, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
-      caption: False clown anemonefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
-      caption: Tomato anemonefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg"
-      caption: Three-spot dascyllus
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+    caption: False clown anemonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+    caption: Tomato anemonefish
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+    caption: Three-spot dascyllus
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg"
-      caption: Bengal sergeant
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg"
-      caption: Scissortail sergeant
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg"
-      caption: Black-spot sergeant
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg
+    caption: Bengal sergeant
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg
+    caption: Scissortail sergeant
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg
+    caption: Black-spot sergeant
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg"
-      caption: Juvenile
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg"
-      caption: Juvenile.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg"
-      caption: Juvenile.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg"
-      caption: Adult
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg"
-      caption: Adult
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
+    caption: Juvenile
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
+    caption: Juvenile.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
+    caption: Juvenile.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg
+    caption: Adult
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg
+    caption: Adult
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg"
-      caption: Juvenile
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg
+    caption: Juvenile
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg"
-      caption: Juvenile
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg"
-      caption: Juvenile
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg"
-      caption: Adult
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+    caption: Juvenile
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg
+    caption: Juvenile
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
+    caption: Adult
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -72,7 +95,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family with fact sheets on many members of the family.
-  
+
   **References**
   - Daisuke Taira. 30 October 2020.
   *A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*
@@ -144,6 +167,21 @@ links_references: |
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
   . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- pgl
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- rfl
+- lfa
 ---
 
 **Where seen?**

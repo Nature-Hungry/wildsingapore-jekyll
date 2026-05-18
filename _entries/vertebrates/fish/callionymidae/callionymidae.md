@@ -1,8 +1,9 @@
 ---
 title: Dragonets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dragonet, fish, callionymidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dragonet, fish, callionymidae, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Callionymidae
 genus: ''
@@ -18,22 +19,30 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg"
-      caption: "A tiny one about 1cm long. Changi, Aug 12 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg"
-      caption: "Downward pointing mouth. Tanah Merah, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg"
-      caption: "Underside of a dead one. Changi, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+    caption: A tiny one about 1cm long. Changi, Aug 12 Photo shared by Marcus Ng
+      on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg
+    caption: Downward pointing mouth. Tanah Merah, Oct 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg
+    caption: Underside of a dead one. Changi, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg"
-      caption: Mosaic dragonet
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg"
-      caption: Smallhead dragonet
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg"
-      caption: Kuiter's dragonet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg
+    caption: Mosaic dragonet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+    caption: Smallhead dragonet
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
+    caption: Kuiter's dragonet
 links_references: |
   **Links**
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -66,7 +75,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  
+
   **References**
   - Toh Chay Hoon & Kelvin K. P. Lim.
   *Rediscovery of the lined dragonet in Singapore*
@@ -89,6 +98,19 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- skd
+- tus
+- tm
+- snt
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Red berry snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Assimineidae
 genus: ''
@@ -18,28 +19,36 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Truncatelloidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg"
-      caption: "Lim Chu Kang, Jan 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg"
-      caption: "Underside and operculum. Lim Chu Kang, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg"
-      caption: "Sungei Buloh Besar, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
+    caption: Lim Chu Kang, Jan 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg
+    caption: Underside and operculum. Lim Chu Kang, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg
+    caption: Sungei Buloh Besar, Apr 11
   gallery2:
-    - url: "https://live.staticflickr.com/7859/46120433674_769c339836_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/7859/46120433674_769c339836_z.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg"
-      caption: "Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg
+    caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg"
-      caption: "Chek Jawa, Dec 16 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg"
-      caption: "Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg
+    caption: Chek Jawa, Dec 16 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg
+    caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
 links_references: |
   **Links**
   - [Red berry snail (
@@ -57,7 +66,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - *New Singapore record of the assiminid snail, Assiminea woodmasoniana*
   , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 11-12 ISSN 2345-7597, National University of Singapore.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 27 March 2020.
   *Confirmation of the occurrence of the Shiny assiminid snail, Assiminea nitida, in Singapore*
@@ -65,6 +74,16 @@ links_references: |
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+location:
+- sbw
+- lck
+- prp
+- cj
+- ecp
+- lab
+- laz
+- smk
+- lfa
 ---
 
 **Where seen?**

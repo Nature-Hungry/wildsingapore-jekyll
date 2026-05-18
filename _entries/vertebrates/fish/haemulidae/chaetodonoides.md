@@ -1,9 +1,10 @@
 ---
 title: Harlequin sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: harlequin, sweetlips, fish, plectorhinchus, chaetodonoides, nigrus, haemulidae,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: harlequin, sweetlips, fish, plectorhinchus, chaetodonoides, nigrus, 
+  haemulidae,  field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -27,27 +28,38 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg"
-      caption: "Pulau Sekudu, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg"
-      caption: "Pulau Sekudu, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg"
-      caption: "Seen hiding in an empty shell. Chek Jawa, Dec 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+    caption: Pulau Sekudu, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg
+    caption: Pulau Sekudu, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg
+    caption: Seen hiding in an empty shell. Chek Jawa, Dec 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photro shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg"
-      caption: "East Coast Park (B), Jun 21 Photro shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photro shared by Loh Kok Sheng 
+      on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg
+    caption: East Coast Park (B), Jun 21 Photro shared by Loh Kok Sheng on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg"
-      caption: "Labrador, Nov 20 Photro shared by Parizad Nasheer on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg"
-      caption: "Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg"
-      caption: "Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg
+    caption: Labrador, Nov 20 Photro shared by Parizad Nasheer on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg
+    caption: Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg
+    caption: Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr .
 links_references: |
   **Links**
   - [Clown Sweetlips (
@@ -62,7 +74,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -73,6 +85,13 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- skd
+- tm
+- ecp
+- lab
+- smk
 ---
 
 **Where seen?**

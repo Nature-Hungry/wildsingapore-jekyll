@@ -1,9 +1,10 @@
 ---
 title: 'Slender ceratosoma nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ceratosoma, gracillium, nudibranch, slug, seaslug, opisthobranch, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ceratosoma, gracillium, nudibranch, slug, seaslug, opisthobranch, 
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Ceratosoma
@@ -24,67 +25,101 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg"
-      caption: "Beting Bronok, Aug 15"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3b.jpg"
-      caption: Rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3a.jpg"
-      caption: Feathery gills.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg
+    caption: Beting Bronok, Aug 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3b.jpg
+    caption: Rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3a.jpg
+    caption: Feathery gills.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190705bbm6l.jpg"
-      caption: "Side 'wings', large lobe over the tail and wedge shaped head. Beting Bronok, Jul 19"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190705bbm6l.jpg
+    caption: Side 'wings', large lobe over the tail and wedge shaped head. 
+      Beting Bronok, Jul 19
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007024pcnlks24.jpg"
-      caption: "East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007024pcnlks24.jpg
+    caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/230706bbmn2.jpg"
-      caption: "Beting Bronok, Jul 23 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190704bbmn.jpg"
-      caption: "Beting Bronok, Jul 19 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/230706bbmn2.jpg
+    caption: Beting Bronok, Jul 23 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190704bbmn.jpg
+    caption: Beting Bronok, Jul 19 Photo shared by Marcus Ng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180618srpay2.jpg"
-      caption: "Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/250714srptl4.jpg"
-      caption: "Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180618srpay2.jpg
+    caption: Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/250714srptl4.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150222sjinml1m3.jpg"
-      caption: "St. John's Island, Feb 15 Photo shared by Neo Mei Lin on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/120507sntsrgmn1m3.jpg"
-      caption: "Sentosa Serapong, May 12 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150222sjinml1m3.jpg
+    caption: St. John's Island, Feb 15 Photo shared by Neo Mei Lin on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/120507sntsrgmn1m3.jpg
+    caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/070729hnttch1m3.jpg"
-      caption: "Pulau Hantu, Jul 07 Photo shared by Toh Chay Hoon on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090329hnttch3m3.jpg"
-      caption: "Pulau Hantu, Mar 08 Photo shared by Toh Chay Hoon on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/070729hnttch1m3.jpg
+    caption: Pulau Hantu, Jul 07 Photo shared by Toh Chay Hoon on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090329hnttch3m3.jpg
+    caption: Pulau Hantu, Mar 08 Photo shared by Toh Chay Hoon on flickr .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180421smksjll.jpg"
-      caption: "Pulau Semakau (South), Apr 18 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007025smknmn1.jpg"
-      caption: "Pulau Semakau (North), Jul 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090330trylks2m3.jpg"
-      caption: "Terumbu Raya, May 09 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180421smksjll.jpg
+    caption: Pulau Semakau (South), Apr 18 Photo shared by Jianlin Liu on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007025smknmn1.jpg
+    caption: Pulau Semakau (North), Jul 20 Photo shared by Marcus Ng on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090330trylks2m3.jpg
+    caption: Terumbu Raya, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch3m3.jpg"
-      caption: "Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch4m3.jpg"
-      caption: "Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/251008bbbyls1.jpg"
-      caption: "Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch3m3.jpg
+    caption: Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch4m3.jpg
+    caption: Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/251008bbbyls1.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
 links_references: |
   **Links**
   - *[Ceratosoma gracillimum](http://www.seaslugforum.net/find/ceragrac)*
   on
   [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheets.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
   - Debelius, Helmut, 2001.
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+location:
+- bb
+- ecp
+- snt
+- sji
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

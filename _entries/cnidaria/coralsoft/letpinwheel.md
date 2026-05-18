@@ -1,9 +1,10 @@
 ---
 title: Pinwheel leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: Lobophytum
@@ -17,41 +18,57 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg"
-      caption: "Pulau Hantu, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg"
-      caption: "Often resembles a pinwheel. Terumbu Pempang Laut, Dec 18"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg"
-      caption: "Upper disk and base diameter usually about the same diameter. Sisters Island, Jul 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+    caption: Pulau Hantu, Mar 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg
+    caption: Often resembles a pinwheel. Terumbu Pempang Laut, Dec 18
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg
+    caption: Upper disk and base diameter usually about the same diameter. 
+      Sisters Island, Jul 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg"
-      caption: "Sentosa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg"
-      caption: "Sentosa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg"
-      caption: "Sentosa, Aug 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg
+    caption: Sentosa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg
+    caption: Sentosa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg
+    caption: Sentosa, Aug 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg
+    caption: Terumbu Salu, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg"
-      caption: "Pulau Salu, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg
+    caption: Pulau Salu, Aug 10
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg"
-      caption: "Pulau Salu, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg"
-      caption: "Bleaching. Pulau Berkas, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg
+    caption: Pulau Salu, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg
+    caption: Bleaching. Pulau Berkas, May 10
 links_references: |
   **Links**
   - [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
@@ -60,11 +77,27 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+location:
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

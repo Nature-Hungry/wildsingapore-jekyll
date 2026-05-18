@@ -1,9 +1,10 @@
 ---
 title: Chameleon nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,18 +27,23 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg"
-      caption: "St John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg"
-      caption: "St John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg"
-      caption: "Changi, May 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+    caption: St John's Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+    caption: St John's Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
+    caption: Changi, May 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
 links_references: |
   **Links**
   - [Chameleon nerite (
@@ -49,7 +55,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -63,6 +69,23 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- jng
+- hnt
+- smk
 ---
 
 **Where seen?**

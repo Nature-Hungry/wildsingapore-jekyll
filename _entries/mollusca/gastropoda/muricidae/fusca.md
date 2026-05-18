@@ -1,31 +1,40 @@
 ---
 title: Dark drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Semiricinula
 species: fusca
 attributes: []
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg"
-      caption: "Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg"
-      caption: "Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg"
-      caption: "Chek Jawa, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+    caption: Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
+    caption: Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
+    caption: Chek Jawa, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg"
-      caption: Photo shared by Brian Ong.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg"
-      caption: Photo shared by Brian Ong.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg"
-      caption: "Hole drilled into a false limpet, by the drill. Photo shared by Brian Ong."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
+    caption: Photo shared by Brian Ong.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
+    caption: Photo shared by Brian Ong.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
+    caption: Hole drilled into a false limpet, by the drill. Photo shared by 
+      Brian Ong.
 links_references: |
   **Links**
   - [More about our
@@ -33,7 +42,7 @@ links_references: |
   on the wild shores of singapore blog: details shared by Brian about these snails.
   - [*Morula fusca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=129974)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -41,6 +50,16 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- cj
+- tus
+- tm
+- lab
+- kus
+- laz
+- sji
+- sis
+- jng
 ---
 
 **Where seen?**

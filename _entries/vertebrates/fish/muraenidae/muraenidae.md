@@ -1,8 +1,9 @@
 ---
 title: 'Moray eels '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muraenidae
 genus: ''
@@ -18,33 +19,49 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Muraenoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Often mistaken for snakes, they are fish! They breathe through gills. They have smooth skin instead of scales. Some have strong jaws with sharp teeth. Don't touch them!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Often mistaken for snakes, they are fish! They breathe through gills. They have smooth skin instead of scales. Some have strong jaws with sharp teeth. Don't touch them!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Often mistaken for 
+      snakes, they are fish! They breathe through gills. They have smooth skin 
+      instead of scales. Some have strong jaws with sharp teeth. Don't touch 
+      them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Often mistaken for snakes, they are fish! They breathe through 
+      gills. They have smooth skin instead of scales. Some have strong jaws with
+      sharp teeth. Don't touch them!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg"
-      caption: "Dorsal, anal and tail fins are continuous. Sisters Island, Jan 1"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg"
-      caption: "No pelvic fins, small eyes, tubular nostrils. Labrador Jun 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+    caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 1
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+    caption: No pelvic fins, small eyes, tubular nostrils. Labrador Jun 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg"
-      caption: "Sharp teeth! Tanah Merah, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg"
-      caption: "Lunging after prey in a hole with flaring of long dorsal fins. Tanah Merah, Oct 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
+    caption: Sharp teeth! Tanah Merah, Jun 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
+    caption: Lunging after prey in a hole with flaring of long dorsal fins. 
+      Tanah Merah, Oct 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg"
-      caption: Estuarine moray eel
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg"
-      caption: Brown-spotted moray eel
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg"
-      caption: Brown moray eel
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
+    caption: Estuarine moray eel
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
+    caption: Brown-spotted moray eel
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
+    caption: Brown moray eel
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg"
-      caption: "White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25 Photo and ID shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg
+    caption: White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25 Photo 
+      and ID shared by Yan Le Su on facebook .
 links_references: |
   **Links**
   - [Estuarine Moray (
@@ -102,7 +119,7 @@ links_references: |
   - [Moray mysteries: champion colonisers](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/O3I4v5tLMP4/moray-mysteries-champion-colonisers.html)
   - [How to eat octopus if you don't have hands](http://wildshores.blogspot.com/2008/09/how-to-eat-slippery-octopus-if-you-dont.html)
   links to scientific findings of how the moray eel uses its second set of jaws.
-  
+
   **References**
   - *New record of the ringed moray, Gymnothorax annulatus*
   , in Singapore. 28 June 2019. Tan Heok Hui, Dedrick T. W. Yoon, Lee Co Sin & Kelvin K. P. Lim, Singapore Biodiversity Records 2019: 83-84 ISSN 2345-7597, National University of Singapore.
@@ -118,6 +135,10 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- bb
+- tm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

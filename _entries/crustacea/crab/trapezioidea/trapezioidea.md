@@ -1,8 +1,10 @@
 ---
 title: 'Coral crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Tetraliidae
 genus: ''
@@ -24,13 +26,28 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg"
-      caption: Bandit coral crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg"
-      caption: Red coral crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+    caption: Bandit coral crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+    caption: Red coral crab
+location:
+- tm
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

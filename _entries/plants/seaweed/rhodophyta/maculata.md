@@ -1,9 +1,10 @@
 ---
 title: 'Frilly halymenia red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: frilly, sheet, seaweed, weed, halymenia, maculata, halymeniaceae, rhodophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: frilly, sheet, seaweed, weed, halymenia, maculata, halymeniaceae, 
+  rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Halymeniaceae
@@ -21,25 +22,33 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3.jpg
+    caption: Labrador, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050413labg4689m3.jpg"
-      caption: "Labrador, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/060727jngd5024m3.jpg"
-      caption: "Pulau Jong, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040603sntg0161m3.jpg"
-      caption: "Sentosa, Jun 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050413labg4689m3.jpg
+    caption: Labrador, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/060727jngd5024m3.jpg
+    caption: Pulau Jong, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040603sntg0161m3.jpg
+    caption: Sentosa, Jun 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/100613sngd5537m3.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/100613sngd5537m3.jpg
+    caption: Pulau Senang, Jun 10
 links_references: |
   **Links**
   - [*Halymenia maculata*](http://www.algaebase.org/search/species/detail/?species_id=3310)
@@ -47,7 +56,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -58,6 +67,18 @@ links_references: |
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
   *[New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)*
   . Pp. 5-40. in the Raffles Bulletin of Zoology.
+location:
+- skd
+- bb
+- lab
+- snt
+- sji
+- sis
+- jng
+- hnt
+- smk
+- rfl
+- lfa
 ---
 
 **Where seen?**

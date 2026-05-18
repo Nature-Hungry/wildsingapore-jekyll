@@ -1,9 +1,10 @@
 ---
 title: Rock periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -24,25 +25,30 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg"
-      caption: "Sentosa, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg"
-      caption: "Pulau Ubin, Dec 10 East Coast Park, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg"
-      caption: "East Coast Park, Aug 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+    caption: Sentosa, Aug 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
+    caption: Pulau Ubin, Dec 10 East Coast Park, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
+    caption: East Coast Park, Aug 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg"
-      caption: "Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
+    caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -50,6 +56,20 @@ links_references: |
   - Tan, K. S. & L. M. Chou, 2000.
   *A Guide to the Common Seashells of Singapore*
   . Singapore Science Centre. 160 pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- laz
+- sji
+- sis
+- jng
+- smk
 ---
 
 **Where seen?**

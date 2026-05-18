@@ -1,9 +1,10 @@
 ---
 title: Taxifolia feathery green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, 
+  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,30 +20,41 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
-      caption: "Sisters Island, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
-      caption: "Branch sickle-shaped, slight constriction where it attaches to the mid-rib. Labrador, Nov 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+    caption: Sisters Island, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
+    caption: Branch sickle-shaped, slight constriction where it attaches to the 
+      mid-rib. Labrador, Nov 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg"
-      caption: "Sentosa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg"
-      caption: "Pulau Semakau, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg
+    caption: Sentosa, Jul 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg
+    caption: Pulau Semakau, Aug 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg"
-      caption: "Coney Island, Feb 19 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg
+    caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg"
-      caption: "Pulau Berkas, May 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg"
-      caption: "Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg
+    caption: Pulau Berkas, May 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg
+    caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [*Caulerpa taxifolia*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79162:caulerpa-taxifolia-vahl-c-agardh&catid=8:botanical-information&Itemid=113)
@@ -67,7 +79,7 @@ links_references: |
   on the
   [Hawaiian Reef Algae](http://www.botany.hawaii.edu/reefalgae/)
   page of the University of Hawai`i at Manoa website.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -97,6 +109,29 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- cyr
+- jng
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

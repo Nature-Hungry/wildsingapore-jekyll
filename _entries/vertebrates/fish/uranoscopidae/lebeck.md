@@ -1,9 +1,10 @@
 ---
 title: Longnosed stargazer
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae,
-  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: long, nose, star, gazer, stargazer, ichthyscopus, lebeck, 
+  uranoscopidae, fish, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,31 +24,43 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Uranoscopoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... It has venomous spines! Don't touch or kick them! Most of the fish is usually well hidden under the sand. They lure prey towards them with a filament in their mouths.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: It has venomous spines! Don't touch or kick them! Most of the fish is usually well hidden under the sand. They lure prey towards them with a filament in their mouths.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... It has venomous spines! 
+      Don't touch or kick them! Most of the fish is usually well hidden under 
+      the sand. They lure prey towards them with a filament in their mouths.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It has venomous spines! Don't touch or kick them! Most of the fish 
+      is usually well hidden under the sand. They lure prey towards them with a 
+      filament in their mouths.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg"
-      caption: "Usually half buried in the sand. Chek Jawa, Oct 01"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg"
-      caption: "Changi, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+    caption: Usually half buried in the sand. Chek Jawa, Oct 01
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
+    caption: Changi, Jul 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg"
-      caption: "Changi, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg"
-      caption: Protrusible mouth!
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg"
-      caption: Elongated nostrils - wormy-looking things next to the eyes.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
+    caption: Changi, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
+    caption: Protrusible mouth!
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
+    caption: Elongated nostrils - wormy-looking things next to the eyes.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg"
-      caption: "Was trapped in a driftnet and released alive. Changi, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
+    caption: Was trapped in a driftnet and released alive. Changi, Jul 11
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Family Uranoscopidae (Stargazers)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=378)
@@ -68,7 +81,7 @@ links_references: |
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [Large sea star and stargazer at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html)
   on wild shores of singapore: field notes of behaviour of a stargazer rescued from a fish net.
-  
+
   **References**
   - Tan Heok Hui and Chan Sow Yan.
   *A longnose stargazer at Changi Beach*
@@ -88,6 +101,10 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- cj
+- ecp
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

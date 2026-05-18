@@ -1,9 +1,10 @@
 ---
 title: 'Sea lettuce '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Ulvaceae
@@ -22,17 +23,27 @@ updated: Jan 13
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... It is only two cells thick so it grows rapidly when the water has lots of nutrients. Avoid stepping on the green carpet of sea lettuce. It's slippery and animals live among the seaweeds. Can eat or not? Yes you can if you're a pig. It used to be fed to pigs."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "It is only two cells thick so it grows rapidly when the water has lots of nutrients. Avoid stepping on the green carpet of sea lettuce. It's slippery and animals live among the seaweeds. Can eat or not? Yes you can if you're a pig. It used to be fed to pigs."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... It is only two cells 
+      thick so it grows rapidly when the water has lots of nutrients. Avoid 
+      stepping on the green carpet of sea lettuce. It's slippery and animals 
+      live among the seaweeds. Can eat or not? Yes you can if you're a pig. It 
+      used to be fed to pigs.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is only two cells thick so it grows rapidly when the water has 
+      lots of nutrients. Avoid stepping on the green carpet of sea lettuce. It's
+      slippery and animals live among the seaweeds. Can eat or not? Yes you can 
+      if you're a pig. It used to be fed to pigs.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg"
-      caption: Some form sheets.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg"
-      caption: Others are ribbon-like or net-like.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg"
-      caption: "Tiny shrimp on sea lettuce. Changi, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
+    caption: Some form sheets.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
+    caption: Others are ribbon-like or net-like.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
+    caption: Tiny shrimp on sea lettuce. Changi, Jun 07
 links_references: |
   **Links**
   - [Sea Lettuce (
@@ -45,7 +56,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -68,6 +79,27 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- pgl
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- cyr
+- jng
+- hnt
+- smk
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

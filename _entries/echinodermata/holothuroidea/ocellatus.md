@@ -1,9 +1,10 @@
 ---
 title: Eye-spotted sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae, holothuroidae,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae,
+  holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,23 +27,30 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg"
-      caption: "Pulau Semakau, Mar 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3.jpg"
-      caption: White bump with dark tip
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
+    caption: Pulau Semakau, Mar 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3.jpg
+    caption: White bump with dark tip
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3.jpg"
-      caption: Tube feet in three rows on the flat underside.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3b.jpg"
-      caption: Slender tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3.jpg
+    caption: Tube feet in three rows on the flat underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3b.jpg
+    caption: Slender tube feet.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg"
-      caption: "Pulau Berkas, Feb 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg
+    caption: Pulau Berkas, Feb 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: |
   **Links**
   - [*Stichopus ocellatus*
@@ -54,11 +62,16 @@ links_references: |
   on
   [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- tm
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

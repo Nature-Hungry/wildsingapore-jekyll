@@ -1,9 +1,10 @@
 ---
 title: 'Spangled emperor '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spangled, emperor, fish, lethrinus, nebulosus, lethrinidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spangled, emperor, fish, lethrinus, nebulosus, lethrinidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,7 +24,8 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Lethrininae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
 links_references: |
   **Links**  
   - [Spangled
@@ -33,46 +35,83 @@ links_references: |
     5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
     Identification Guide for Fishery Purposes The Living Marine Resources
     of the Western Central Pacific.
-  
+
   **References**
   - Allen, Gerry,
     2000. *Marine
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg"
-      caption: "Sisters Island, Jul 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m6l.jpg"
-      caption: "Pulau Sekudu, May 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
+    caption: Sisters Island, Jul 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m6l.jpg
+    caption: Pulau Sekudu, May 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/230605chg7rk1.jpg"
-      caption: "Changi Carpark 7, Jun 23 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/230605chg7rk1.jpg
+    caption: Changi Carpark 7, Jun 23 Photo shared by Richard Kuah on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/210626cjlks4.jpg"
-      caption: "Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/210626cjlks4.jpg
+    caption: Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/201119sntrk1.jpg"
-      caption: "Sentosa Tg Rimau, Nov 20 Photo shared by Richard Kuah on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/200705kusdc4.jpg"
-      caption: "Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/201119sntrk1.jpg
+    caption: Sentosa Tg Rimau, Nov 20 Photo shared by Richard Kuah on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/200705kusdc4.jpg
+    caption: Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/240624sjiky1.jpg"
-      caption: "St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/240624sjiky1.jpg
+    caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/250201bsisrk3.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/250810bsisjk4.jpg"
-      caption: "Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/250201bsisrk3.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/250810bsisjk4.jpg
+    caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/140811tryjll2m3.jpg"
-      caption: "Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120814bbbrl.jpg"
-      caption: "Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/140811tryjll2m3.jpg
+    caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120814bbbrl.jpg
+    caption: Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook 
+      .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/210428slumn2.jpg"
-      caption: "Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/210428slumn2.jpg
+    caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
   gallery9:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Spangled emperor ( Lethrinus nebulosus ) from FishBase : Technical fact sheet. Volume 5: Bony fishes part 3 (Menidae to Pomacentridae) FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific. References Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Spangled emperor ( Lethrinus nebulosus ) from FishBase : Technical
+      fact sheet. Volume 5: Bony fishes part 3 (Menidae to Pomacentridae) FAO Species
+      Identification Guide for Fishery Purposes The Living Marine Resources of the
+      Western Central Pacific. References Allen, Gerry, 2000. Marine Fishes of South-East
+      Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter,
+      Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for
+      Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers.
+      2001. Coral Reef Fishes of the World Periplus Editions. 400pp.'
+location:
+- chg
+- cj
+- skd
+- tm
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

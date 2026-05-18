@@ -1,9 +1,10 @@
 ---
 title: Bubble green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bubble, seaweed, weed, green, boergesenia, forbesii, siphonocladaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bubble, seaweed, weed, green, boergesenia, forbesii, siphonocladaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Siphonocladaceae
@@ -19,32 +20,41 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg"
-      caption: "St. John's Island, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg"
-      caption: "St. John's Island, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg"
-      caption: "Pulau Jong, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
+    caption: St. John's Island, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg
+    caption: St. John's Island, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg
+    caption: Pulau Jong, Jul 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg"
-      caption: "East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg"
-      caption: "Kusu Island, Sep 10 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg
+    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg
+    caption: Kusu Island, Sep 10 Photo shared by Russel Low on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg"
-      caption: "Pulau Salu, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg
+    caption: Pulau Salu, Aug 10
 links_references: |
   **Links**
   - [*Boergesenia forbesii*](http://www.algaebase.org/search/species/detail/?species_id=3715)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -64,6 +74,24 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

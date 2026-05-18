@@ -1,9 +1,11 @@
 ---
 title: Eightband butterflyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: eight, band, banded, kite, butterflyfish, butterfly, fish, chaetodon, octofasciatus
-  chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: eight, band, banded, kite, butterflyfish, butterfly, fish, chaetodon, 
+  octofasciatus chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -24,41 +26,64 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Chaetodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg"
-      caption: "Sisters Island, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg"
-      caption: "Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks1m3.jpg"
-      caption: "Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
+    caption: Sisters Island, Dec 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
+    caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks1m3.jpg
+    caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150618tmftlks15m3.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220813pcnccn2.jpg"
-      caption: "East Coast (PCN), Aug 22 Photo shared by Che Cheng Neo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250714srpky6.jpg"
-      caption: "Sentosa Serapong, Jul 25 From video shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150618tmftlks15m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220813pcnccn2.jpg
+    caption: East Coast (PCN), Aug 22 Photo shared by Che Cheng Neo on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250714srpky6.jpg
+    caption: Sentosa Serapong, Jul 25 From video shared by Kelvin Yong on 
+      facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250201bsisml1.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Mathias Luk on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/230901kusta1.jpg"
-      caption: "Kusu Island, Sep 23 Photo shared by Tommy Arden on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/240410cyrky1.jpg"
-      caption: "Young one? Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250201bsisml1.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Mathias Luk on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/230901kusta1.jpg
+    caption: Kusu Island, Sep 23 Photo shared by Tommy Arden on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/240410cyrky1.jpg
+    caption: Young one? Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150607bbbrl1m3.jpg"
-      caption: "Beting Bemban Besar, Jun 15 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/120521tptlks.JPG"
-      caption: "Terumbu Pempang Tengah, May 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150607bbbrl1m3.jpg
+    caption: Beting Bemban Besar, Jun 15 Photo shared by Russel Low on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/120521tptlks.JPG
+    caption: Terumbu Pempang Tengah, May 12 Photo shared by Loh Kok Sheng on 
+      flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/161117rlhlks4.jpg"
-      caption: "Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220105rlhdc1.jpg"
-      caption: "Raffles Lighthouse, Jan 22 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/091205sudtch2m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/161117rlhlks4.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220105rlhdc1.jpg
+    caption: Raffles Lighthouse, Jan 22 Photo shared by Dayna Cheah on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/091205sudtch2m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
 links_references: |
   **Links**
   - [Eight-banded butterflyfish (
@@ -77,7 +102,7 @@ links_references: |
   on the IUCN Red List.
   - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
@@ -85,6 +110,17 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- tm
+- ecp
+- snt
+- kus
+- sis
+- cyr
+- tpg
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

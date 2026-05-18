@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, porifera,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, 
+  porifera,
 layout: entry
 shape: encrusting
 title: Melted chocolate sponges
@@ -16,34 +18,64 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Chondrillida
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg"
-      caption: "Tiny sea anemone Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3a.jpg"
-      caption: "With synaptid sea cucumbers . Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg"
-      caption: "With synaptid sea cucumbers . Tuas, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
+    caption: Tiny sea anemone Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3a.jpg
+    caption: With synaptid sea cucumbers . Changi, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg
+    caption: With synaptid sea cucumbers . Tuas, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3.jpg"
-      caption: "Pulau Semakau, Aug 08 Tiny holes with a membranous lip."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8132m3.jpg"
-      caption: "Lazarus, Apr 12 Tiny holes with a membranous lip."
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5841m3.jpg"
-      caption: "Sisters Island, Jan 12 Tiny holes with a membranous lip."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3.jpg
+    caption: Pulau Semakau, Aug 08 Tiny holes with a membranous lip.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8132m3.jpg
+    caption: Lazarus, Apr 12 Tiny holes with a membranous lip.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5841m3.jpg
+    caption: Sisters Island, Jan 12 Tiny holes with a membranous lip.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/200125prpAhd2.jpg"
-      caption: "Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/200125prpAhd2.jpg
+    caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
 links_references: |
   **Links**
   - [*Chondrilla australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170360)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- tus
+- ecp
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

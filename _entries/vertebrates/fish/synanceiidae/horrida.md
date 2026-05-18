@@ -1,9 +1,10 @@
 ---
 title: Hollow-cheeked stonefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, 
+  scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -24,90 +25,133 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Synanceiinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about it ... It is well camouflaged. Look carefully. It has venomous spines. Don't handle it! Watch your step! Its venom is only used for protection from predators and not to catch prey.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: It is well camouflaged. Look carefully. It has venomous spines. Don't handle it! Watch your step! Its venom is only used for protection from predators and not to catch prey.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about it ... It is well camouflaged. 
+      Look carefully. It has venomous spines. Don't handle it! Watch your step! 
+      Its venom is only used for protection from predators and not to catch 
+      prey.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: It is well camouflaged. Look carefully. It has venomous spines. 
+      Don't handle it! Watch your step! Its venom is only used for protection 
+      from predators and not to catch prey.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
-      caption: "Large pectoral fins. Tail curled. Spines up. Pulau Hantu, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg"
-      caption: "Tough spines can penetrate a thick soled shoe! Pulau Hantu, Mar 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg"
-      caption: "Deep depressions beneath the eye. Mouth in perpetual frown. Raffles Lighthouse, Aug 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+    caption: Large pectoral fins. Tail curled. Spines up. Pulau Hantu, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg
+    caption: Tough spines can penetrate a thick soled shoe! Pulau Hantu, Mar 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg
+    caption: Deep depressions beneath the eye. Mouth in perpetual frown. Raffles
+      Lighthouse, Aug 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg"
-      caption: "Tanah Merah, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg"
-      caption: "Tanah Merah, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg"
-      caption: "Tanah Merah, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg"
-      caption: "Tanah Merah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg"
-      caption: "Tanah Merah, Jul 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg"
-      caption: "Tanah Merah, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg"
-      caption: "Half buried. Tanah Merah, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg"
-      caption: "Half buried. Tanah Merah, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg"
-      caption: "Nearly stepped on a stonefish! Terumbu Hantu, Jul 19"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg
+    caption: Tanah Merah, Aug 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg
+    caption: Tanah Merah, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg
+    caption: Tanah Merah, Apr 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg
+    caption: Tanah Merah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg
+    caption: Tanah Merah, Jul 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg
+    caption: Tanah Merah, Aug 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg
+    caption: Half buried. Tanah Merah, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg
+    caption: Half buried. Tanah Merah, Dec 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg
+    caption: Nearly stepped on a stonefish! Terumbu Hantu, Jul 19
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg"
-      caption: "Changi, Dec 16 Photo shared by Lena Chow on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG"
-      caption: "Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg"
-      caption: "Pulau Sekudu, Jul 15 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg
+    caption: Changi, Dec 16 Photo shared by Lena Chow on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG
+    caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg
+    caption: Pulau Sekudu, Jul 15 Photo shared by Russel Low on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg"
-      caption: "Tanah Merah, Jul 10 Photo shared by Marcus Ng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG"
-      caption: "Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg"
-      caption: "Tanah Merah, Oct 09 Photo shared by Toh Chay Hoon on her blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg
+    caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG
+    caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg
+    caption: Tanah Merah, Oct 09 Photo shared by Toh Chay Hoon on her blog .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg"
-      caption: "East Coast Park, Sep 19 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg"
-      caption: "East Coast Park, Feb 19 Photo shared by Camille Lee on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg"
-      caption: "East Coast (G), Dec 22 Photo shared by Kelvin Yong on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg
+    caption: East Coast Park, Sep 19 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg
+    caption: East Coast Park, Feb 19 Photo shared by Camille Lee on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg
+    caption: East Coast (G), Dec 22 Photo shared by Kelvin Yong on facebook
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg"
-      caption: "Sentosa Serapong, May 16 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg"
-      caption: "Sentosa, Sep 11 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg
+    caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg
+    caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg"
-      caption: "Kusu Island, Sep 07 Photo shared by Khoo Min Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg"
-      caption: "St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg
+    caption: Kusu Island, Sep 07 Photo shared by Khoo Min Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg"
-      caption: "A tiny one! Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg"
-      caption: "Sisters Island, May 12 Photos shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg
+    caption: A tiny one! Sisters Island, May 09 Photo shared by Loh Kok Sheng on
+      his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg
+    caption: Sisters Island, May 12 Photos shared by James Koh on his blog .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg"
-      caption: "Pulau Semakau, Nov 09 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg
+    caption: Pulau Semakau, Nov 09 Photo shared by James Koh on flickr .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg"
-      caption: "Cyrene Reef, Aug 11 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg"
-      caption: "Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg
+    caption: Cyrene Reef, Aug 11 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg
+    caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
   gallery12:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg"
-      caption: "Cyrene Reef, Aug 17 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg"
-      caption: "Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg
+    caption: Cyrene Reef, Aug 17 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
 links_references: |
   **Links**
   - [Hollow-cheek Stonefish (
@@ -135,7 +179,7 @@ links_references: |
   from Lazy Lizard Tales.
   - [How many stonefishes at Sentosa?](http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosa.html)
   on wild shores of singapore.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -149,6 +193,22 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- chg
+- ubn
+- cj
+- skd
+- tm
+- ecp
+- snt
+- kus
+- sji
+- sis
+- cyr
+- hnt
+- smk
+- tsm
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

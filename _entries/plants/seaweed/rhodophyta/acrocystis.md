@@ -1,9 +1,10 @@
 ---
 title: 'Pimply red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, rhodophyceae,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, 
+  rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
@@ -22,13 +23,16 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Acrocystis nana*](http://www.algaebase.org/search/species/detail/?species_id=3310)
@@ -36,7 +40,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -47,6 +51,8 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- snt
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Belongkeng or Mangrove ear snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: ''
@@ -21,23 +22,31 @@ superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg"
-      caption: "Two different kinds of Belongkeng snails Pasir Ris, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg"
-      caption: "Sometimes seen in small groups on mangrove tree trunks. Sungei Buloh Besar, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+    caption: Two different kinds of Belongkeng snails Pasir Ris, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+    caption: Sometimes seen in small groups on mangrove tree trunks. Sungei 
+      Buloh Besar, Apr 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg"
-      caption: Banded mangrove ear snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg"
-      caption: Mangrove ear snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg"
-      caption: Belongkeng snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
+    caption: Banded mangrove ear snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
+    caption: Mangrove ear snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
+    caption: Belongkeng snail
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg"
-      caption: Pythia snail
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+    caption: Pythia snail
 links_references: |
   **Links**
   - [Belongkeng (Family Ellobidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.md)
@@ -55,7 +64,7 @@ links_references: |
   - Family Ellobiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 July 2020.
   *Sightings of pretty ear-snails, Melampus pulchellus, in Singapore*
@@ -81,6 +90,12 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- sbw
+- lck
+- prp
+- lab
+- smk
 ---
 
 **Where seen?**

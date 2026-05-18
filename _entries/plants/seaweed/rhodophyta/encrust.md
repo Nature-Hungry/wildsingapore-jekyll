@@ -1,9 +1,10 @@
 ---
 title: Encrusting coralline red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: encrusting, coralline, red, seaweed, weed, algae, mesophyllum, hydrolithon,
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: encrusting, coralline, red, seaweed, weed, algae, mesophyllum, 
+  hydrolithon, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Corallinaceae
@@ -23,36 +24,49 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg"
-      caption: "Encrusting dead coral. Sentosa, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg"
-      caption: "Encrusting a rock. Sisters Island, Jan 10"
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg"
-      caption: Encrusting a Hammer oyster . Pulau Semakau. Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+    caption: Encrusting dead coral. Sentosa, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+    caption: Encrusting a rock. Sisters Island, Jan 10
+  - url: 
+      http://www.wildsingapore.com/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
+    caption: Encrusting a Hammer oyster . Pulau Semakau. Feb 09
   gallery2:
-    - url: "http://www.wildsingapore.com/seagrass/thalassia/041019labd7736m3b.jpg"
-      caption: "The whitish stuff that grows on seagrass leaves is probably also coralline algae Labrador, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg"
-      caption: "Encrusting seagrasses. Sentosa, Oct 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/seagrass/thalassia/041019labd7736m3b.jpg
+    caption: The whitish stuff that grows on seagrass leaves is probably also 
+      coralline algae Labrador, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg
+    caption: Encrusting seagrasses. Sentosa, Oct 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg"
-      caption: "Lazarus Island, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg"
-      caption: "Sisters Islands, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg"
-      caption: "Sisters Islands, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg
+    caption: Lazarus Island, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg
+    caption: Sisters Islands, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+    caption: Sisters Islands, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg"
-      caption: "Pulau Senang, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg"
-      caption: "Terumbu Bemban, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg
+    caption: Pulau Senang, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg
+    caption: Terumbu Bemban, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
+    caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
   - [Red Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106.md)
@@ -69,7 +83,7 @@ links_references: |
   on the University of Western Cape website: A somewhat technical introduction to their shapes, importance to the habitat, reproduction, taxonomy with links to other sites on coralline algae.
   - [Coralline Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algae.html)
   on the US Geological Survey website: photos of some coralline algae
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -93,6 +107,20 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

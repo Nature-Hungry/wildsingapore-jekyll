@@ -1,9 +1,10 @@
 ---
 title: Big porcelain crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -25,35 +26,49 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg"
-      caption: "Lazarus Island, Aug 12 Feathery mouthparts."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg"
-      caption: "Lazarus Island, Aug 12 Feathery mouthparts."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3.jpg"
-      caption: "Three pairs of walking legs. Changi, Jun 08 Fourth pair of legs reduced and tucked up next to the body."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
+    caption: Lazarus Island, Aug 12 Feathery mouthparts.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
+    caption: Lazarus Island, Aug 12 Feathery mouthparts.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3.jpg
+    caption: Three pairs of walking legs. Changi, Jun 08 Fourth pair of legs 
+      reduced and tucked up next to the body.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110616ecplks.JPG"
-      caption: "East Coast Park, Jun 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/160210ecplks.JPG"
-      caption: "East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110616ecplks.JPG
+    caption: East Coast Park, Jun 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/160210ecplks.JPG
+    caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/170822lablks1.jpg"
-      caption: "Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/101205blylks.JPG"
-      caption: "Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/170822lablks1.jpg
+    caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/101205blylks.JPG
+    caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/070901sjilks.JPG"
-      caption: "St Johns Island, Sep 07 Photo shared by Loh Koh Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/210625vc3.jpg"
-      caption: "Kusu Island, Jun 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/070901sjilks.JPG
+    caption: St Johns Island, Sep 07 Photo shared by Loh Koh Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/210625vc3.jpg
+    caption: Kusu Island, Jun 21 Photo shared by Vincent Choo on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/100102sislks2m3.jpg"
-      caption: "Sisters Island, Jan 10 Photo shared by Loh Koh Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110619tslgrl3m3.jpg"
-      caption: "Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/100102sislks2m3.jpg
+    caption: Sisters Island, Jan 10 Photo shared by Loh Koh Sheng on his flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110619tslgrl3m3.jpg
+    caption: Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook .
 links_references: |
   **Links**
   - [Porcelain Crab (
@@ -68,11 +83,27 @@ links_references: |
   and
   *[Petrolisthes lamarckii](http://crust.biota.biodiv.tw/pages/3915)*
   on BiotaTaiwanica: fact sheet and photos.
-  
+
   **References**
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
   Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+location:
+- prp
+- chg
+- cj
+- skd
+- tus
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- smk
 ---
 
 **Where seen?**

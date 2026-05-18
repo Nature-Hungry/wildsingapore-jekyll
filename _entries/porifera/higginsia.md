@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
+  guide,
 layout: entry
 shape: leafy
 title: Higgin's sponge
@@ -16,22 +18,28 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Axinellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3c.jpg"
-      caption: Covered with long thin stiff hairs.
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3a.jpg"
-      caption: Trapped sediments hides bright orange colour.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3c.jpg
+    caption: Covered with long thin stiff hairs.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3a.jpg
+    caption: Trapped sediments hides bright orange colour.
 links_references: |
   **Links**
   - *[Higginsia](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131793)*
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- chg
+- bb
 ---
 
 **Where seen?**

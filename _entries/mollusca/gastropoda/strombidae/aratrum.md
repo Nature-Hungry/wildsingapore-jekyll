@@ -1,9 +1,11 @@
 ---
 title: Dark Diana conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum,
-  strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, 
+  atratum, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 attributes:
 - 23
@@ -25,18 +27,23 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg"
-      caption: "Changi, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
+    caption: Changi, Apr 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg"
-      caption: "Changi, May 09 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg
+    caption: Changi, May 09 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg
+    caption: ''
 links_references: |
   **Links**
   - [Diana conch (
@@ -52,7 +59,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -63,6 +70,8 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- chg
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Brown shore goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brown, shore, goby, drombus, triangularis, fish, gobiidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: brown, shore, goby, drombus, triangularis, fish, gobiidae, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,23 +25,31 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg"
-      caption: "Sometimes in a group of individuals of different sizes. Punggol, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg"
-      caption: "Pasir Ris Park, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
+    caption: Sometimes in a group of individuals of different sizes. Punggol, 
+      Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg
+    caption: Pasir Ris Park, Apr 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg"
-      caption: "Punggol, Nov 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg"
-      caption: "Pasir Ris Park, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg"
-      caption: "Changi, Jun 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg
+    caption: Punggol, Nov 13 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg
+    caption: Pasir Ris Park, Jun 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg
+    caption: Changi, Jun 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg"
-      caption: "Tanah Merah, May 09 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg
+    caption: Tanah Merah, May 09 Photo shared by James Koh on flickr .
 links_references: |
   **Links**
   - [Brown shore goby (
@@ -56,7 +65,7 @@ links_references: |
   : Technical fact sheet.
   - [*Drombus triangularis*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1211)
   from NParks Flora and Fauna website.
-  
+
   **References**
   - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
   *Brown drombus goby found in burrows with snapping shrimps*
@@ -67,6 +76,21 @@ links_references: |
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
   . Periplus Editions. 292 pp.
+location:
+- pgl
+- prp
+- chg
+- cj
+- skd
+- tus
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- cyr
+- smk
 ---
 
 **Where seen?**

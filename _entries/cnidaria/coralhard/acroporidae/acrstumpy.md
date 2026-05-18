@@ -1,9 +1,10 @@
 ---
 title: Stumpy acropora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: staghorn, table, top, acropora, acroporidae, coral, hard, 
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Acropora
@@ -17,46 +18,76 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg"
-      caption: "Terumbu Semakau, Dec 15"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0581m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0582m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
+    caption: Terumbu Semakau, Dec 15
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0581m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0582m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3.jpg"
-      caption: "Sisters Island, Dec 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3318m3c.jpg"
-      caption: Acropora goby
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3c.jpg"
-      caption: Coral clams
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3.jpg
+    caption: Sisters Island, Dec 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3318m3c.jpg
+    caption: Acropora goby
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3c.jpg
+    caption: Coral clams
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg"
-      caption: "Sisters Island, Dec 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg"
-      caption: "Pulau Hantu, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/100629pdrd7576m3.jpg"
-      caption: "Terumbu Pempang Darat, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
+    caption: Sisters Island, Dec 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
+    caption: Pulau Hantu, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/100629pdrd7576m3.jpg
+    caption: Terumbu Pempang Darat, Jun 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/220618tmftlks21.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/251108ecpblks7a.jpg"
-      caption: "East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/220618tmftlks21.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/251108ecpblks7a.jpg
+    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on 
+      facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2.jpg"
-      caption: "Big Sisters, Aug 25"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2a.jpg"
-      caption: Photo shared by Lon Voon Ong on facebook .
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg"
-      caption: With Machine gun shrimp
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2.jpg
+    caption: Big Sisters, Aug 25
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2a.jpg
+    caption: Photo shared by Lon Voon Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
+    caption: With Machine gun shrimp
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4a.jpg"
-      caption: "Terumbu Pempang Tengah, May 21"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4b.jpg"
-      caption: Photo shared by Loh Kok Sheng on faceook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4a.jpg
+    caption: Terumbu Pempang Tengah, May 21
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4b.jpg
+    caption: Photo shared by Loh Kok Sheng on faceook .
+location:
+- tm
+- ecp
+- kus
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

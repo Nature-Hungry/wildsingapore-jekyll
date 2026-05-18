@@ -1,32 +1,42 @@
 ---
 title: 'Pink ascidians (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, 
+  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg"
-      caption: "Cyrene Reef, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3.jpg"
-      caption: "Sisters Island, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
+    caption: Cyrene Reef, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3.jpg
+    caption: Sisters Island, May 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/260104trmrqo8.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/170809tkktsc1.jpg"
-      caption: "Pulau Tekukor, Aug 17 Photo shared by Teo Say Chong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181225kusll1.jpg"
-      caption: "Kusu Island, Dec 18 Photo shared by Liz Lim on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/260104trmrqo8.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/170809tkktsc1.jpg
+    caption: Pulau Tekukor, Aug 17 Photo shared by Teo Say Chong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181225kusll1.jpg
+    caption: Kusu Island, Dec 18 Photo shared by Liz Lim on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181027smkscsm1.jpg"
-      caption: "Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/ascidiacea/pink/100601slud4718m3.jpg"
-      caption: "Pulau Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181027smkscsm1.jpg
+    caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/ascidiacea/pink/100601slud4718m3.jpg
+    caption: Pulau Salu, Jun 10
 links_references: |
   **Links**
   - Various
@@ -34,11 +44,26 @@ links_references: |
   sp. in the
   [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-  
+
   **References**
   - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert.
   *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*
   . 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
+location:
+- cj
+- skd
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

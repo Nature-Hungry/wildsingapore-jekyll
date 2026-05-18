@@ -1,8 +1,10 @@
 ---
 title: 'Varunid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, 
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
+  photo
 layout: entry
 family: Varunidae
 genus: ''
@@ -24,13 +26,16 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
-      caption: Orange signaller crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg"
-      caption: Paddler crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+    caption: Orange signaller crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+    caption: Paddler crab
 links_references: |
   **Links**
   - [Paddler crab (
@@ -46,7 +51,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Heok Hui. 5 December 2014.
   *Chinese mitten crab at West Coast marsh pond, Eriocheir sinensis*
@@ -60,6 +65,8 @@ links_references: |
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
+location:
+- ''
 ---
 
 **Where seen?**

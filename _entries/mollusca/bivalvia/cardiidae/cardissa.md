@@ -1,9 +1,10 @@
 ---
 title: Heart cockle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc,
-  clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, 
+  mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -25,41 +26,59 @@ order: Cardiida
 superfamily: Cardioidea
 subfamily: Fraginae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg"
-      caption: "Concave on upperside, convex on underside. Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg"
-      caption: "Underside. Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg"
-      caption: "Upperside with translucent 'windows'. Pulau Semakau, Feb 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
+    caption: Concave on upperside, convex on underside. Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg
+    caption: Underside. Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg
+    caption: Upperside with translucent 'windows'. Pulau Semakau, Feb 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg"
-      caption: "Convex side. Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg"
-      caption: Flat side.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg"
-      caption: Side view.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+    caption: Convex side. Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg
+    caption: Flat side.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg
+    caption: Side view.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg"
-      caption: "Pulau Hantu, Mar 22 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg"
-      caption: "Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg"
-      caption: "Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg
+    caption: Pulau Hantu, Mar 22 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg
+    caption: Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg"
-      caption: Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg
+    caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg"
-      caption: "Beting Bemban Besar, Jun 19 Photo shared by Lisa Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg"
-      caption: "Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg"
-      caption: "Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg
+    caption: Beting Bemban Besar, Jun 19 Photo shared by Lisa Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg
+    caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on 
+      facebook .
 links_references: |
   **Links**
   - [True heart cockle (
@@ -75,7 +94,7 @@ links_references: |
   on Clamsplaining by Dan Killam, Jun 13, 2018.
   - [Heart cockle accommodates algae that require light](https://blog.willyvanstrien.nl/2024/12/10/shell-with-windows/)
   by Willy van Strien.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -89,6 +108,14 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- snt
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

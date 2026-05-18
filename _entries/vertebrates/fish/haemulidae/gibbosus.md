@@ -1,9 +1,10 @@
 ---
 title: Brown sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brown, sweetlips, fish, plectorhinchus, gibbosus, nigrus, haemulidae,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: brown, sweetlips, fish, plectorhinchus, gibbosus, nigrus, haemulidae,  
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -26,55 +27,78 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg"
-      caption: "Same fish rapidly changing ... Labrador, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7666m3.jpg"
-      caption: ..colour and patterns.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg
+    caption: Same fish rapidly changing ... Labrador, Oct 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7666m3.jpg
+    caption: ..colour and patterns.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m6l.jpg"
-      caption: "Tanah Merah, Aug 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m6l.jpg
+    caption: Tanah Merah, Aug 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180911pglrk1.jpg"
-      caption: "Punggol, Sep 18 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/200804chg4rk1.jpg"
-      caption: "Changi, Aug 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180911pglrk1.jpg
+    caption: Punggol, Sep 18 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/200804chg4rk1.jpg
+    caption: Changi, Aug 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240706ubnlks9.jpg"
-      caption: "Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240821skdrk3.jpg"
-      caption: "Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240706ubnlks9.jpg
+    caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240821skdrk3.jpg
+    caption: Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090918tmjk7m3.jpg"
-      caption: "Tanah Merah, Sep 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180812nsrtch5.jpg"
-      caption: "East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251108ecpbky9.jpg"
-      caption: "East Coast (B), Nov 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090918tmjk7m3.jpg
+    caption: Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180812nsrtch5.jpg
+    caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251108ecpbky9.jpg
+    caption: East Coast (B), Nov 25 Photo shared by Kelvin Yong on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201117blyask1.jpg"
-      caption: "Berlayar Creek, Nov 20 Photo shared by Arjun Sai Krishnan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240527sntlks6.jpg"
-      caption: "Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201115tkklks.jpg"
-      caption: "Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201117blyask1.jpg
+    caption: Berlayar Creek, Nov 20 Photo shared by Arjun Sai Krishnan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240527sntlks6.jpg
+    caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201115tkklks.jpg
+    caption: Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/210822ssislks3.jpg"
-      caption: "Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/070812sislks05m3.jpg"
-      caption: "Sisters Island, Aug 07 Photo shared by Loh Kok Sheng on his blog"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/210822ssislks3.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/070812sislks05m3.jpg
+    caption: Sisters Island, Aug 07 Photo shared by Loh Kok Sheng on his blog
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/140716cyrrl1m3.jpg"
-      caption: "Cyrene Reef, Jul 14 Photo shared by Russel Low on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/130922hntmn.jpg"
-      caption: "Pulau Hantu, Sep 13 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251207hntky5.jpg"
-      caption: "Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/140716cyrrl1m3.jpg
+    caption: Cyrene Reef, Jul 14 Photo shared by Russel Low on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/130922hntmn.jpg
+    caption: Pulau Hantu, Sep 13 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251207hntky5.jpg
+    caption: Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/091204pawikw6m3.jpg"
-      caption: "Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/091204pawikw6m3.jpg
+    caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: |
   **Links**
   - [Brown Sweetlips or Harry Hotlips (
@@ -91,7 +115,7 @@ links_references: |
   : Technical fact sheet
   - [*Plectorhinchus gibbosus*](http://www.iucnredlist.org/details/196408/0)
   on the IUCN Red List.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -102,6 +126,24 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- pgl
+- chg
+- ubn
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- lfa
 ---
 
 **Where seen?**

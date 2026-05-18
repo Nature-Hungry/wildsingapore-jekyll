@@ -1,9 +1,10 @@
 ---
 title: Stripe-nosed   halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae,
-  hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis,
+  zenarchopteridae, hemiramphidae, fish, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -23,13 +24,16 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg"
-      caption: "Sungei Buloh, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg"
-      caption: "Pasir Ris, Feb 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+    caption: Sungei Buloh, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
+    caption: Pasir Ris, Feb 12
 links_references: |
   **Links**
   - [Striped-nose Halfbeak (
@@ -51,11 +55,15 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
   . Periplus Editions. 292 pp.
+location:
+- sbw
+- prp
+- laz
 ---
 
 **Where seen?**

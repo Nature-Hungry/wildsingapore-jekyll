@@ -1,9 +1,10 @@
 ---
 title: Montipora corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: velvet, montipora, acroporidae, coral, hard, scleractinia, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: velvet, montipora, acroporidae, coral, hard, scleractinia, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Montipora
@@ -17,27 +18,34 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
-      caption: Branching montipora coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg"
-      caption: Branching montipora coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg"
-      caption: Ridged montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+    caption: Branching montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
+    caption: Branching montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
+    caption: Ridged montipora coral
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
-      caption: Plate montipora coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg"
-      caption: Plate montipora coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg"
-      caption: Ridged montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+    caption: Plate montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg
+    caption: Plate montipora coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
+    caption: Ridged montipora coral
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -62,6 +70,24 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- bb
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

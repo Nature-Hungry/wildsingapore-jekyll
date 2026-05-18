@@ -1,9 +1,11 @@
 ---
 title: Phidiana nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: phidiana, militaris, aeolid, glaucidae, facelinidae, aeolidina, nudibranchia,
-  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: phidiana, militaris, aeolid, glaucidae, facelinidae, aeolidina, 
+  nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Facelinidae
 genus: Phidiana
@@ -22,27 +24,35 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg"
-      caption: "Changi, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg"
-      caption: "Changi, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+    caption: Changi, Apr 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg
+    caption: Changi, Apr 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg"
-      caption: "Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg
+    caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg"
-      caption: "Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg"
-      caption: "Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
+    caption: Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on 
+      facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheet on
   *[Phidiana militaris](http://www.seaslugforum.net/find/phidmili)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -53,6 +63,10 @@ links_references: |
   - Coleman, Neville. 2001.
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
   . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+location:
+- chg
+- skd
+- sis
 ---
 
 **Where seen?**

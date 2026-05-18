@@ -1,9 +1,10 @@
 ---
 title: 'Swimming crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info
 layout: entry
 family: Portunidae
 genus: ''
@@ -25,72 +26,105 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Portunoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey like fish. They can give a nasty pinch. Leave them alone!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey like fish. They can give a nasty pinch. Leave them alone!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Unlike other crabs, they 
+      swim very well! They move quickly to hunt fast-moving prey like fish. They
+      can give a nasty pinch. Leave them alone!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Unlike other crabs, they swim very well! They move quickly to hunt 
+      fast-moving prey like fish. They can give a nasty pinch. Leave them alone!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg"
-      caption: "Mating swimming crabs Pulau Sekudu, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg"
-      caption: "Brown crab mating with a red one. Both are Red swimming crabs . Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg"
-      caption: "With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
+    caption: Mating swimming crabs Pulau Sekudu, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg
+    caption: Brown crab mating with a red one. Both are Red swimming crabs . 
+      Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg
+    caption: With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by 
+      Marcus Ng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg"
-      caption: "Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
+    caption: Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 
+      04
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/090112smkd5112m3.jpg"
-      caption: "Threat posture. Pulau Semakau, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1536m3b.jpg"
-      caption: "Eating a heart urchin. Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/041214smkd8903m3.jpg"
-      caption: "Eating a jellyfish Pulau Semakau, Dec 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/090112smkd5112m3.jpg
+    caption: Threat posture. Pulau Semakau, Nov 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1536m3b.jpg
+    caption: Eating a heart urchin. Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/041214smkd8903m3.jpg
+    caption: Eating a jellyfish Pulau Semakau, Dec 04
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg"
-      caption: "Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by Jayden Kang on facebok ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg"
-      caption: "Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg"
-      caption: "Eating another swimming crab. Changi, Aug 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
+    caption: Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by 
+      Jayden Kang on facebok .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
+    caption: Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg
+    caption: Eating another swimming crab. Changi, Aug 08
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg"
-      caption: Mud crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
-      caption: Flower crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg"
-      caption: Tiny flower crabs
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
+    caption: Mud crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+    caption: Flower crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
+    caption: Tiny flower crabs
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg"
-      caption: Purple legged swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg"
-      caption: Red swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjd4115m3.jpg"
-      caption: Red swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
+    caption: Purple legged swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
+    caption: Red swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjd4115m3.jpg
+    caption: Red swimming crab
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg"
-      caption: Orange-clawed swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg"
-      caption: Blue-spined swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg"
-      caption: Mottled swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg
+    caption: Orange-clawed swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+    caption: Blue-spined swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
+    caption: Mottled swimming crab
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg"
-      caption: Banded-leg swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg"
-      caption: Powder blue-clawed swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg"
-      caption: Blue swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
+    caption: Banded-leg swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
+    caption: Powder blue-clawed swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
+    caption: Blue swimming crab
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg"
-      caption: Ridged swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg"
-      caption: Blood-spotted swimming crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg"
-      caption: Crucifix swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg
+    caption: Ridged swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+    caption: Blood-spotted swimming crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+    caption: Crucifix swimming crab
 links_references: |
   **Links**
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.md)
@@ -112,7 +146,7 @@ links_references: |
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Homing in the swimming crab Thalamita crenata: a mechanism based on underwater landmark memory](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10973722&dopt=Abstract)
   . Cannicci S, Barelli C, Vannini M. on the US National Center for Biotechnology Information website: their study shows these crabs can learn and remember landmarks to safely move about and that their ability is more flexible and complex than other crabs, and comparable to that of honeybees.
-  
+
   **References**
   - Hua Kai & Adib Adris. 30 October 2020.
   *Sentinel swimming crab (Podophthalmus vigil) at Seringat-Kias*
@@ -139,6 +173,10 @@ links_references: |
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
   *Invertebrate Zoology*
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+location:
+- prp
+- chg
+- bb
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

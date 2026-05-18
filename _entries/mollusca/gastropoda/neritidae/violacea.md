@@ -1,9 +1,10 @@
 ---
 title: Red-mouth nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: dostia, neritina, violacea, nerite, neritidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: dostia, neritina, violacea, nerite, neritidae, gastropod, mollusc, 
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Neritina
@@ -19,15 +20,19 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg"
-      caption: "Side view. Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg"
-      caption: "Underside. Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg"
-      caption: "Animal emerging from the shell. Mandai, Mar 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+    caption: Side view. Mandai, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+    caption: Underside. Mandai, Mar 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
+    caption: Animal emerging from the shell. Mandai, Mar 11
 links_references: |
   **Links**
   - [Violet nerite (
@@ -38,7 +43,7 @@ links_references: |
   . Singapore Science Centre. 168 pp.
   - [*Dostia violacea*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90114&genusname=Dostia&speciesname=violacea)
   on SeaLife Base: Technical fact sheet
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -52,6 +57,9 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- sbw
+- smk
 ---
 
 **Where seen?**

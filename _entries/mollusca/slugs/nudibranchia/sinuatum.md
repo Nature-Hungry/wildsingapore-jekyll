@@ -1,40 +1,53 @@
 ---
-title: '''Jolly Green Giant'' nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch,
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+title: "'Jolly Green Giant' nudibranch "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, 
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Miamira
 species: sinuatum
 attributes: []
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg"
-      caption: "Large lobe in front of gills. Pulau Semakau, Sep 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg"
-      caption: "Sisters Island, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg"
-      caption: Small rhinophores.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg"
-      caption: "Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg"
-      caption: "Feathery gills with yellow spots. Labrador, Mar 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg"
-      caption: "Terumbu Semakau, May 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+    caption: Large lobe in front of gills. Pulau Semakau, Sep 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg
+    caption: Sisters Island, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg
+    caption: Small rhinophores.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg
+    caption: Pulau Semakau, Feb 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg
+    caption: Feathery gills with yellow spots. Labrador, Mar 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg
+    caption: Terumbu Semakau, May 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg"
-      caption: "Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg"
-      caption: "Tanah Merah, Jul 09 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg
+    caption: Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo 
+      shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg
+    caption: Tanah Merah, Jul 09 Photo shared by James Koh on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg"
-      caption: "Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg"
-      caption: "Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg
+    caption: Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
+    caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -46,7 +59,7 @@ links_references: |
   *[Ceratosoma sinuata](http://slugsite.us/bow/nudwk242.md)*
   and discussion of difficulties in differentiating the species,
   *[Ceratosoma tenue](http://slugsite.us/bow2007/nudwk555.md)*
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
   - Debelius, Helmut, 2001.
@@ -67,6 +80,15 @@ links_references: |
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
   *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
+location:
+- tm
+- lab
+- tkr
+- sis
+- cyr
+- hnt
+- smk
+- tsm
 ---
 
 **Where seen?**

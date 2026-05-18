@@ -1,9 +1,10 @@
 ---
 title: Pore coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Poritidae
 genus: Porites
@@ -17,51 +18,73 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg"
-      caption: "St. John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg"
-      caption: Tiny hexagonal corallites.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg"
-      caption: Tiny polyps.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
+    caption: St. John's Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg
+    caption: Tiny hexagonal corallites.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg
+    caption: Tiny polyps.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg"
-      caption: "Phestilla lugubris with egg mass. Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg"
-      caption: "Phestilla lugubris with egg mass. Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg"
-      caption: "Phestilla lugubris . Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg
+    caption: Phestilla lugubris with egg mass. Terumbu Bemban, May 21 Photo 
+      shared by Toh Chay Hoon on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg
+    caption: Phestilla lugubris with egg mass. Raffles Lighthouse, Jan 22 Photo 
+      shared by Vincent Choo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg
+    caption: Phestilla lugubris . Raffles Lighthouse, Jan 22 Photo shared by 
+      Vincent Choo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg"
-      caption: "Phestilla sp. Big Sisters Island, Feb 26 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg"
-      caption: "Phestilla sp. with egg mass. Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg
+    caption: Phestilla sp. Big Sisters Island, Feb 26 Photo shared by Jianlin 
+      Liu on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg
+    caption: Phestilla sp. with egg mass. Big Sisters Island, Feb 26 Photo 
+      shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg"
-      caption: "A burrowing animal? St. John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg"
-      caption: "Bite marks - made by fishes? Pulau Tekukor, Jan 17"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg
+    caption: A burrowing animal? St. John's Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg
+    caption: Bite marks - made by fishes? Pulau Tekukor, Jan 17
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg"
-      caption: "Pulau Tekukor, May 10 Layer of slime peeling off."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg"
-      caption: "Tanah Merah, Sep 10 Layer of slime peeling off."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg"
-      caption: "Sisters Island, Jul 10 Diseased coral after coral bleaching."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg
+    caption: Pulau Tekukor, May 10 Layer of slime peeling off.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg
+    caption: Tanah Merah, Sep 10 Layer of slime peeling off.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg
+    caption: Sisters Island, Jul 10 Diseased coral after coral bleaching.
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg"
-      caption: Branching pore coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg"
-      caption: Branching pore coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
-      caption: Boulder pore coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
+    caption: Branching pore coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg
+    caption: Branching pore coral
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+    caption: Boulder pore coral
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
@@ -86,6 +109,28 @@ links_references: |
   - Ng, P. K. L. & Y. C. Wee, 1994.
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
   . The Nature Society (Singapore), Singapore. 343 pp.
+location:
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

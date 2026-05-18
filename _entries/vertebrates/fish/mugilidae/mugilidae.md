@@ -1,8 +1,9 @@
 ---
 title: Mullets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fish, mugilidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fish, mugilidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,38 +24,54 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg"
-      caption: "Tiny juvenile. Sentosa, Jan 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110713labd6195m6l.jpg"
-      caption: "Small juvenile. Labrador, Jul 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg
+    caption: Tiny juvenile. Sentosa, Jan 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110713labd6195m6l.jpg
+    caption: Small juvenile. Labrador, Jul 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m6lb.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m3.jpg"
-      caption: "Large ones seen from the boardwalk. Sungei Buloh Wetland Reserve, Feb 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m6lb.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m3.jpg
+    caption: Large ones seen from the boardwalk. Sungei Buloh Wetland Reserve, 
+      Feb 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/170528chgmn.jpg"
-      caption: "Tiny juveniles often seen in schools. Changi, May 17 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250626ubnrk3.jpg"
-      caption: "Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/170528chgmn.jpg
+    caption: Tiny juveniles often seen in schools. Changi, May 17 Photo shared 
+      by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250626ubnrk3.jpg
+    caption: Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/241022ecpgig2.jpg"
-      caption: "East Coast (G), Oct 24 Photo shared by Isaac Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/241022ecpgig2.jpg
+    caption: East Coast (G), Oct 24 Photo shared by Isaac Ong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/260104trmrqo4.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250909laztt5.jpg"
-      caption: "Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/160622ssismn.jpg"
-      caption: "Small Sisters Island, Jun 16 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/260104trmrqo4.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250909laztt5.jpg
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/160622ssismn.jpg
+    caption: Small Sisters Island, Jun 16 Photo shared by Marcus Ng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140902kusmn.jpg"
-      caption: "Kusu Island, Sep 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140809hntmn.jpg"
-      caption: "Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr . ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140902kusmn.jpg
+    caption: Kusu Island, Sep 14 Photo shared by Marcus Ng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140809hntmn.jpg
+    caption: Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr . .
 links_references: |
   **Links**
   - [Squaretail mullet (
@@ -92,7 +109,7 @@ links_references: |
   : Technical fact sheet on the family.
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.HTM)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Kelvin K. P. Lim & Tan Heok Hui. 30 April 2020.
   *New Singapore record of the fringelip mullet, Crenimugil heterocheilus*
@@ -106,6 +123,24 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- sbw
+- prp
+- chg
+- ubn
+- cj
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- hnt
+- rfl
+- lfa
 ---
 
 **Where seen?**

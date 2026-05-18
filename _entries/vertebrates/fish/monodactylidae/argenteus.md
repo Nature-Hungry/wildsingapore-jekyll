@@ -1,9 +1,10 @@
 ---
 title: Silver moony
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, 
+  scatophagidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -23,16 +24,21 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg"
-      caption: "Seen from the front, it resembles a stick! Sungei Buloh Wetland Reserve, Oct 03"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Oct 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
+    caption: Seen from the front, it resembles a stick! Sungei Buloh Wetland 
+      Reserve, Oct 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg"
-      caption: "Siloso, May 09 Photo shared by Ivan Kwan on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
+    caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
 links_references: |
   **Links**
   - [Silver Moony (
@@ -55,7 +61,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -69,6 +75,9 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- sbw
+- snt
 ---
 
 **Where seen?**

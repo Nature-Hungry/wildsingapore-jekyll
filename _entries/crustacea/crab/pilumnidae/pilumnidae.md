@@ -1,9 +1,10 @@
 ---
 title: 'Piluminid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Pilumnidae
 genus: ''
@@ -25,18 +26,23 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg"
-      caption: Common hairy crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg"
-      caption: Rubble-carrying hairy crab
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg"
-      caption: Fuzzy reef crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+    caption: Common hairy crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+    caption: Rubble-carrying hairy crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
+    caption: Fuzzy reef crab
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
-      caption: Feather star crab
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+    caption: Feather star crab
 links_references: |
   **Links**
   - [Hairy Crab (
@@ -45,7 +51,7 @@ links_references: |
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
   **References**
   - Tan Heok Hui. 16 May 2014.
   *Horned crinoid crab in the Singapore Straits, Ceratocarcinus longimanus*
@@ -75,6 +81,28 @@ links_references: |
   - Jones Diana S. and Gary J. Morgan, 2002.
   *A Field Guide to Crustaceans of Australian Waters*
   . Reed New Holland. 224 pp.
+location:
+- cj
+- skd
+- bb
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

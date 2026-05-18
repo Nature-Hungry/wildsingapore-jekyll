@@ -1,9 +1,10 @@
 ---
 title: Zipper green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, 
+  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,18 +20,23 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg"
-      caption: "Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg"
-      caption: "Pulau Sekudu, Sep 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg"
-      caption: "Sentosa, Jun 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
+    caption: Chek Jawa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
+    caption: Pulau Sekudu, Sep 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
+    caption: Sentosa, Jun 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg"
-      caption: "East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
+    caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
   - [*Caulerpa cupressoides*](http://www.algaebase.org/search/species/detail/?species_id=3746)
@@ -39,7 +45,7 @@ links_references: |
   : Technical fact sheet.
   - [*Caulerpa cupressoides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&menuentry=soorten&id=491&tab=beschrijving)
   on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
@@ -57,6 +63,18 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- chg
+- cj
+- skd
+- bb
+- ecp
+- snt
+- cyr
+- jng
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

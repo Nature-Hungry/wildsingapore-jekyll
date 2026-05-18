@@ -1,9 +1,10 @@
 ---
 title: Small parasol green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, caulerpaceae,
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, 
+  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -20,18 +21,24 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg"
-      caption: "Pulau Jong, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg"
-      caption: "Sentosa, Jun 07"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
+    caption: Pulau Jong, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
+    caption: Sentosa, Jun 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg"
-      caption: "Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook 
+      .
 links_references: |
   **Links**
   - [*Caulerpa racemosa*
@@ -40,7 +47,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -57,6 +64,21 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

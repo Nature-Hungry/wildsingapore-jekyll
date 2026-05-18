@@ -1,8 +1,10 @@
 ---
 title: Spaghetti worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spaghetti, worm, bristleworm, polychaete, annelid, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: spaghetti, worm, bristleworm, polychaete, annelid, field, guide, 
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
+  sheet, info, photo
 layout: entry
 family: Terebellidae
 genus: ''
@@ -18,30 +20,40 @@ infraclass: Canalipalpata
 order: Terebellida
 suborder: Terebelliformia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg"
-      caption: Family Cirratulidae.
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3a.jpg"
-      caption: "With pointed head. Changi, Jul 08"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
+    caption: Family Cirratulidae.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/080801chgd8649m3a.jpg
+    caption: With pointed head. Changi, Jul 08
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/050819cjg1610m3b.jpg"
-      caption: "Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/090707prpjk2m3.jpg"
-      caption: "Pasir Ris, Jul 09 Photo shared by James Koh on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/090820prpd7574m3.jpg"
-      caption: "Pasir Ris, Jul 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/050819cjg1610m3b.jpg
+    caption: Chek Jawa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/090707prpjk2m3.jpg
+    caption: Pasir Ris, Jul 09 Photo shared by James Koh on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/090820prpd7574m3.jpg
+    caption: Pasir Ris, Jul 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100429prpd1861m3.jpg"
-      caption: "Pasir Ris Park, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100430chgd1973m3.jpg"
-      caption: Changi Apr 10
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100429prpd1929m3.jpg"
-      caption: "Pasir Ris Park, Apr 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100429prpd1861m3.jpg
+    caption: Pasir Ris Park, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100430chgd1973m3.jpg
+    caption: Changi Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/100429prpd1929m3.jpg
+    caption: Pasir Ris Park, Apr 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/260103prpyls6.jpg"
-      caption: "Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/polychaeta/spaghetti/260103prpyls6.jpg
+    caption: Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
 links_references: |
   **Links**
   - [Family Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidae.html)
@@ -50,6 +62,13 @@ links_references: |
   by Lim Yun Ping 1997-2000
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
   .
+location:
+- pgl
+- prp
+- chg
+- cj
+- tm
+- sji
 ---
 
 **Where seen?**

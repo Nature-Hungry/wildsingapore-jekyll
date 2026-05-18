@@ -1,8 +1,9 @@
 ---
 title: Groupers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -22,23 +23,32 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are solitary hunters with an amazing mouth. They can change their gender. They are among our favourite seafood. However, overharvesting can affect their populations."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are solitary hunters with an amazing mouth. They can change their gender. They are among our favourite seafood. However, overharvesting can affect their populations."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are solitary hunters
+      with an amazing mouth. They can change their gender. They are among our 
+      favourite seafood. However, overharvesting can affect their populations.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are solitary hunters with an amazing mouth. They can change 
+      their gender. They are among our favourite seafood. However, 
+      overharvesting can affect their populations.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg"
-      caption: Chocolate hind
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg"
-      caption: Orange-spotted grouper
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg"
-      caption: Bluelined hind
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+    caption: Chocolate hind
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+    caption: Orange-spotted grouper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
+    caption: Bluelined hind
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg"
-      caption: Honeycomb grouper
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
+    caption: Honeycomb grouper
 links_references: |
   **Links**
   - [Marbled Grouper (
@@ -66,7 +76,7 @@ links_references: |
   - [Eating groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html)
   - [Groupers nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html)
   - [Groupers are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html)
-  
+
   **References**
   - Neo Mei Lin.
   *Giant grouper at Semakau*
@@ -101,6 +111,16 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- skd
+- bb
+- tm
+- ecp
+- snt
+- kus
+- sis
+- tsm
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,9 +1,10 @@
 ---
 title: Starry leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: starry, leathery, sinularia, brassica, alcyonacea, soft, coral, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: starry, leathery, sinularia, brassica, alcyonacea, soft, coral, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: ''
@@ -17,36 +18,53 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg"
-      caption: "Terumbu Bemban, Jul 11 8 short fat branched tentacles."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Many fat, spindle shaped structures embedded in the common tissue ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg"
-      caption: "Terumbu Pempang Tengah, Apr 12 Spindles sticking out of torn common tissue."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+    caption: Terumbu Bemban, Jul 11 8 short fat branched tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg
+    caption: Terumbu Berkas, Jan 10 Many fat, spindle shaped structures embedded
+      in the common tissue .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg
+    caption: Terumbu Pempang Tengah, Apr 12 Spindles sticking out of torn common
+      tissue.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg"
-      caption: "Tuas, Dec 03 Tiny spots give the common tissue a 'crystalline' appearance."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0305m3.jpg"
-      caption: "Labrador, Jul 05 Tiny transparent star-like polyps."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg"
-      caption: "Tuas, Dec 03 Polyps appear on lumps or tubular extensions."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
+    caption: Tuas, Dec 03 Tiny spots give the common tissue a 'crystalline' 
+      appearance.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0305m3.jpg
+    caption: Labrador, Jul 05 Tiny transparent star-like polyps.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
+    caption: Tuas, Dec 03 Polyps appear on lumps or tubular extensions.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn1.jpg"
-      caption: "Pulau Tekukor, Jan 17 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6.jpg"
-      caption: "Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6981m3.jpg"
-      caption: "Pulau Biola, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn1.jpg
+    caption: Pulau Tekukor, Jan 17 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on 
+      facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6981m3.jpg
+    caption: Pulau Biola, Dec 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8806m3.jpg"
-      caption: "Terumbu Salu, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8806m3.jpg
+    caption: Terumbu Salu, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
+    caption: ''
 links_references: |
   **Links**
   - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
@@ -55,7 +73,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
@@ -66,6 +84,22 @@ links_references: |
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+location:
+- tus
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Bluering angelfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, 
+  pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -23,16 +24,21 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg"
-      caption: "In an aquarium at a seafood restaurant. Pulau Ubin, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg"
-      caption: "The juvenile looks very different. Tanah Merah, Apr 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+    caption: In an aquarium at a seafood restaurant. Pulau Ubin, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
+    caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg"
-      caption: "Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook 
+      .
 links_references: |
   **Links**
   - [Bluering angelfish (
@@ -55,7 +61,7 @@ links_references: |
   fact sheet with photos.
   - [*Pomacanthus annularis*](http://www.iucnredlist.org/details/full/165873/0)
   on the IUCN Red List.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -63,6 +69,10 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- ubn
+- tm
+- sis
 ---
 
 **Where seen?**

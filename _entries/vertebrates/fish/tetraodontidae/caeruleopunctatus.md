@@ -1,9 +1,10 @@
 ---
 title: Blue-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: starry, pufferfish, puffer, fish, arothon, caeruleopunctatus, tetraodontidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: starry, pufferfish, puffer, fish, arothon, caeruleopunctatus, 
+  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -14,16 +15,22 @@ family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg"
-      caption: "Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity Records 2019:54-55"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg"
-      caption: "Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+    caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore 
+      Biodiversity Records 2019:54-55
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg
+    caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg"
-      caption: "Dead fish washed ashore during mass fish death. Pasir Ris Park, Mar 15 Photo by Sean Yap from Singapore Biodiversity Records 2015: 47"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
+    caption: 'Dead fish washed ashore during mass fish death. Pasir Ris Park, Mar
+      15 Photo by Sean Yap from Singapore Biodiversity Records 2015: 47'
 links_references: |
   **Links**
   - [Blue-spotted puffer (
@@ -32,7 +39,7 @@ links_references: |
   and from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Toh Chay Hoon & Kelvin K. P. Lim.
   *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
@@ -40,6 +47,8 @@ links_references: |
   - Sean Yap and Sankar Ananthanarayanan. 3 Apr 2015.
   *New record of blue-spotted pufferfish (Arothron caeruleopunctatus) in Singapore*
   . Singapore Biodiversity Records 2015: 47
+location:
+- prp
 ---
 
 **Where seen?**

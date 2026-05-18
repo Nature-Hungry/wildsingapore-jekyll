@@ -1,9 +1,10 @@
 ---
 title: Blue-lined brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea,
-  ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, 
+  lineocaerulea, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, 
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,41 +27,63 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg"
-      caption: "Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg"
-      caption: Underside.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+    caption: Beting Bronok, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg
+    caption: Underside.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg"
-      caption: "Pulau Sekudu, Aug 04"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg
+    caption: Pulau Sekudu, Aug 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg"
-      caption: "Pulau Sekudu, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg"
-      caption: "Releasing eggs?"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg
+    caption: Pulau Sekudu, Jul 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg
+    caption: Releasing eggs?
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG"
-      caption: "Changi, May 13 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
+    caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
   - [*Macrophiothrix lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaerulea.html)
   on SeaLife Base: Technical fact sheet.
-  
+
   **References**
   - Lane, David J.W. and Didier Vandenspiegel. 2003
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
   . Singapore Science Centre. 187pp.
+location:
+- chg
+- cj
+- skd
+- bb
+- tus
+- ecp
+- kus
+- tpg
+- tsm
 ---
 
 **Where seen?**

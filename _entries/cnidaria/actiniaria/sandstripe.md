@@ -1,9 +1,10 @@
 ---
 title: Striped sand anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, hertwigi,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, 
+  hertwigi, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,40 +23,60 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg"
-      caption: "Pulau Sekudu, Apr 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/180811chglks4.jpg"
-      caption: "Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
+    caption: Pulau Sekudu, Apr 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/180811chglks4.jpg
+    caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201019cnyrk1.jpg"
-      caption: "Coney Island, Oct 20 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/260216cnyrqo2.jpg"
-      caption: "Coney Island, Oct 26 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/101011chglks.JPG"
-      caption: "Changi, Oct 10 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201019cnyrk1.jpg
+    caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/260216cnyrqo2.jpg
+    caption: Coney Island, Oct 26 Photo shared by Rui Quan Oh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/101011chglks.JPG
+    caption: Changi, Oct 10 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201118nsrcssjk3.jpg"
-      caption: "East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/251208melks7.jpg"
-      caption: "Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201118nsrcssjk3.jpg
+    caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/251208melks7.jpg
+    caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg"
-      caption: "Terumbu Pempang Laut, Jan 22 Photo shared by James Koh on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg
+    caption: Terumbu Pempang Laut, Jan 22 Photo shared by James Koh on facebook 
+      .
 links_references: |
   **Links**
   - *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)*
   on SeaLife Base: technical fact sheet.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
   - Daphne Gail Fautin and Ria Tan. 29 June 2016.
   *Sea anemones (Cnidaria: Actiniaria) of Singapore: redescriptions of Paracondylactis singaporensis (England, 1987) and P. hertwigi (Wassilieff, 1908)*
   Raffles Bulletin of Zoology Supplement No. 34: 170–177.
+location:
+- pgl
+- prp
+- chg
+- cj
+- skd
+- ecp
+- sji
+- tpg
 ---
 
 **Where seen?**

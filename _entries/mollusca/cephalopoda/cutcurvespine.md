@@ -1,9 +1,10 @@
 ---
 title: Curvespine cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: curve, spine, cuttlefish, sepia, recurvirostra, sepiidae, cephalopod, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: curve, spine, cuttlefish, sepia, recurvirostra, sepiidae, cephalopod, 
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiidae
 genus: Sepia
@@ -20,35 +21,48 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg"
-      caption: "Changi, Apr 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3d.jpg"
-      caption: Spine sticking out of the back end.
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
+    caption: Changi, Apr 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3d.jpg
+    caption: Spine sticking out of the back end.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg"
-      caption: "Inking. Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg"
-      caption: "Only slightly bigger than a blade of seagrass. Chek Jawa, Sep 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/050428chgg5294.jpg"
-      caption: "Changi, Apr 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
+    caption: Inking. Chek Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
+    caption: Only slightly bigger than a blade of seagrass. Chek Jawa, Sep 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/050428chgg5294.jpg
+    caption: Changi, Apr 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/130624chglks.JPG"
-      caption: "Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/230605chg7ky2.jpg"
-      caption: "Changi, Jun 23 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/130624chglks.JPG
+    caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/230605chg7ky2.jpg
+    caption: Changi, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/100711cyrlks10m6l.jpg"
-      caption: "Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/100711cyrlks10m6l.jpg
+    caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/210430sjilks1.jpg"
-      caption: "St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg"
-      caption: "Chek Jawa, Nov 17 Photo shared by Abel Yeo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/210430sjilks1.jpg
+    caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg
+    caption: Chek Jawa, Nov 17 Photo shared by Abel Yeo on facebook .
 links_references: |
   **Links**
   - [Curvespine cuttlefish (
@@ -61,11 +75,18 @@ links_references: |
   on
   [Cephalopods of the World](http://www.fao.org/docrep/009/a0150e/a0150e00.HTM)
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 1.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+location:
+- chg
+- cj
+- bb
+- snt
+- sji
+- cyr
 ---
 
 **Where seen?**

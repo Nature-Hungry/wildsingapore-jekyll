@@ -1,9 +1,10 @@
 ---
 title: Honeycomb whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray,
-  himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, 
+  stingray, himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, 
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,27 +24,37 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg"
-      caption: "Tail very long and slender. A large dead one seen on the sand bar. Chek Jawa, May 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg"
-      caption: Granular skin on adult.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg"
-      caption: Broadly triangular snout.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+    caption: Tail very long and slender. A large dead one seen on the sand bar. 
+      Chek Jawa, May 03
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
+    caption: Granular skin on adult.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
+    caption: Broadly triangular snout.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg"
-      caption: "Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
+    caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg"
-      caption: "Pulau Sekudu, May 25"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg"
-      caption: Photo shared by Jonathan Tan on facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
+    caption: Pulau Sekudu, May 25
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
+    caption: Photo shared by Jonathan Tan on facebook
 links_references: |
   **Links**
   - [Honeycomb whipray (
@@ -58,7 +69,7 @@ links_references: |
   on the IUCN Red List: fact sheet.
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013.
   *Reticulate whipray at Chek Jawa, Himantura uarnak*
@@ -66,6 +77,9 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- skd
 ---
 
 **Where seen?**

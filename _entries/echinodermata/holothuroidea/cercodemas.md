@@ -1,9 +1,10 @@
 ---
 title: Pink warty sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, 
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -25,7 +26,8 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
 links_references: |
   **Links**
   - [*Cercodemas
@@ -34,7 +36,7 @@ links_references: |
   - [*Pentacta
     anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten) in North Australian Sea Cucumbers on the Marine
     Species Identification Portal: Technical fact sheet.
-  
+
   **References**
   - Lane, David
     J.W. and Didier Vandenspiegel. 2003*. A
@@ -42,23 +44,39 @@ links_references: |
     Singapore Science Centre. 187pp.
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg"
-      caption: "Changi, May 14"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg"
-      caption: Colourful feeding tentacles.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+    caption: Changi, May 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
+    caption: Colourful feeding tentacles.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg"
-      caption: "Changi, Jul 12"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg"
-      caption: Underside with three rows of tube feet.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg"
-      caption: Anus surrounding by five tiny 'teeth'.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
+    caption: Changi, Jul 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
+    caption: Underside with three rows of tube feet.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
+    caption: Anus surrounding by five tiny 'teeth'.
   gallery3:
-    - url: "https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg"
-      caption: "Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
+location:
+- prp
+- chg
+- ubn
+- cj
+- skd
+- bb
+- ecp
+- cyr
 ---
 
 **Where seen?**

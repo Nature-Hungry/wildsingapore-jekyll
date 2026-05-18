@@ -1,9 +1,10 @@
 ---
 title: Arrow-head spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info,  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, 
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info,  photo
 layout: entry
 attributes:
 - 38
@@ -12,28 +13,45 @@ family: Epialtidae
 genus: Menatheius
 species: ''
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg"
-      caption: "Labrador, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg"
-      caption: "Chek Jawa, Jan 02"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+    caption: Labrador, Jun 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg
+    caption: Chek Jawa, Jan 02
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090429chglks1.jpg"
-      caption: "Changi, Apr 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg"
-      caption: "Chek Jawa, Aug 20 Photo shared by Vincent Choo on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090429chglks1.jpg
+    caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg
+    caption: Chek Jawa, Aug 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg"
-      caption: "Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg"
-      caption: "Terumbu Selegie, Jun 11 Photo shared by James Koh on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg
+    caption: Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg
+    caption: Terumbu Selegie, Jun 11 Photo shared by James Koh on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg"
-      caption: "Big Sister Island, Feb 24 Photo shared by Vincent Choo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg"
-      caption: "Cyrene, Aug 15 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg
+    caption: Big Sister Island, Feb 24 Photo shared by Vincent Choo on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg
+    caption: Cyrene, Aug 15 Photo shared by Loh Kok Sheng on his blog .
+location:
+- chg
+- cj
+- tm
+- lab
+- sis
+- cyr
 ---
 
 **Where seen?**

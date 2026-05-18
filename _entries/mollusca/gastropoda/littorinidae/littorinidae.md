@@ -1,9 +1,10 @@
 ---
 title: 'Periwinkles '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 family: Littorinidae
 genus: ''
@@ -21,34 +22,51 @@ updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Don't take them off the rocks! They will wash away with the tide and may die. Periwinkles do move! But only at high tide or in cool weather. The area around a periwinkle is often grazed bare of algae.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Don't take them off the rocks! They will wash away with the tide and may die. Periwinkles do move! But only at high tide or in cool weather. The area around a periwinkle is often grazed bare of algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Don't take them off the 
+      rocks! They will wash away with the tide and may die. Periwinkles do move!
+      But only at high tide or in cool weather. The area around a periwinkle is 
+      often grazed bare of algae.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Don't take them off the rocks! They will wash away with the tide 
+      and may die. Periwinkles do move! But only at high tide or in cool 
+      weather. The area around a periwinkle is often grazed bare of algae.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg"
-      caption: "Several kinds of periwinkles may be found together. Chek Jawa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg"
-      caption: "Like other snails, they have a broad foot and tentacles . Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg"
-      caption: "A thin operculum. Labrador, May 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
+    caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 
+      05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+    caption: Like other snails, they have a broad foot and tentacles . Chek 
+      Jawa, May 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
+    caption: A thin operculum. Labrador, May 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg"
-      caption: "Kranji, Mar 13"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg"
-      caption: Mucus strands used to stick onto a tree.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
+    caption: Kranji, Mar 13
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
+    caption: Mucus strands used to stick onto a tree.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg"
-      caption: Knobbly periwinkle
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg"
-      caption: Rock periwinkle
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg"
-      caption: Round periwinkle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+    caption: Knobbly periwinkle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
+    caption: Rock periwinkle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
+    caption: Round periwinkle
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg"
-      caption: Mangrove periwinkle
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg"
-      caption: Black-mouth mangrove periwinkle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
+    caption: Mangrove periwinkle
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
+    caption: Black-mouth mangrove periwinkle
 links_references: |
   **Links**
   - [Mangrove periwinkle (
@@ -74,7 +92,7 @@ links_references: |
   on the Mad Scientist Network website: a lovely answer that explains how gills and lungs work.
   - *[Littoraria articulata](https://singapore.biodiversity.online/taxo4254/mainSpace/Littoraria%20articulata.html)*
   (Littorinimorpha: Littorinidae) Rock Periwinkle on Taxo4254.
-  
+
   **References**
   - Chan Sow-Yan & Lau Wing Lup. 30 June 2020.
   *The periwinkle snail, Peasiella lutulenta, in Singapore*
@@ -100,6 +118,18 @@ links_references: |
   - Abbott, R. Tucker, 1991.
   *Seashells of South East Asia*
   . Graham Brash, Singapore. 145 pp.
+location:
+- cj
+- ecp
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- jng
+- smk
+- rfl
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,9 +1,10 @@
 ---
 title: Bracket brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae,
-  phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: bracket, brown, seaweed, weed, algae, lobophora, variegata, 
+  dictyotaceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
@@ -22,22 +23,26 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg"
-      caption: "Labrador, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg"
-      caption: "Sentosa, Nov 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg"
-      caption: "Terumbu Selegie, Jun 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
+    caption: Labrador, May 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
+    caption: Sentosa, Nov 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
+    caption: Terumbu Selegie, Jun 11
 links_references: |
   **Links**
   - [*Lobophora variegata*](http://www.algaebase.org/search/species/detail/?species_id=27002)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -57,6 +62,9 @@ links_references: |
   - Trono, Gavino. C. Jr., 1997.
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
   . Bookmark, Inc., the Philippines. 306 pp.
+location:
+- lab
+- snt
 ---
 
 **Where seen?**

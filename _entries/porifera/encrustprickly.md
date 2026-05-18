@@ -1,6 +1,8 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
+  guide,
 layout: entry
 shape: encrusting
 title: Yellow prickly branching sponge
@@ -16,36 +18,49 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg"
-      caption: "St. John's Island, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg"
-      caption: A Sponge finger oyster embedded in the sponge.
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg
+    caption: St. John's Island, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg
+    caption: A Sponge finger oyster embedded in the sponge.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg"
-      caption: "Sisters Island, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg"
-      caption: "St. John's Island, Sep 04"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg"
-      caption: "Sisters Islands, Dec 05"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg
+    caption: Sisters Island, Jan 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg
+    caption: St. John's Island, Sep 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg
+    caption: Sisters Islands, Dec 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg
+    caption: Terumbu Berkas, Jan 10
 links_references: |
   **Links**
   - [Anti-cancer drugs from a sponge commonly seen on our shores](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
@@ -54,11 +69,27 @@ links_references: |
   on SeaLife Base: technical fact sheet.
   - [*Pseudoceratina purpurea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169702)
   on the World Porifera Database.
-  
+
   **References**
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
   *A Guide to Sponges of Singapore*
   . Singapore Science Centre. 173pp.
+location:
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

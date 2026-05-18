@@ -1,9 +1,10 @@
 ---
 title: Big coin green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, 
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Halimedaceae
@@ -26,35 +27,48 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg"
-      caption: "Large stretch of shore covered with this seaweed. Tuas, Sep 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg"
-      caption: "Sisters Islands, Jan 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg"
-      caption: "St. John's Island, May 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
+    caption: Large stretch of shore covered with this seaweed. Tuas, Sep 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg
+    caption: Sisters Islands, Jan 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
+    caption: St. John's Island, May 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg"
-      caption: "Labrador, Mar 05 A pair of slugs on the seaweed."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg"
-      caption: "Sentosa, Jun 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg
+    caption: Labrador, Mar 05 A pair of slugs on the seaweed.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg
+    caption: Sentosa, Jun 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg"
-      caption: "Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on 
+      facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg
+    caption: Pulau Senang, Jun 10
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg
+    caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
   - [Calcified seaweed (
@@ -72,7 +86,7 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -80,6 +94,26 @@ links_references: |
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   *A Checklist of the Algae of Singapore*
   , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+location:
+- cj
+- skd
+- bb
+- tus
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

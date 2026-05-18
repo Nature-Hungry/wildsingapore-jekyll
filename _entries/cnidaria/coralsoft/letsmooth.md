@@ -1,9 +1,10 @@
 ---
 title: Smooth leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sinularia, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: sinularia, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: Sinularia
@@ -17,29 +18,39 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg"
-      caption: "Pulau Semakau, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg"
-      caption: "Sentosa, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg"
-      caption: "Pulau Semakau, Aug 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+    caption: Pulau Semakau, Oct 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
+    caption: Sentosa, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg
+    caption: Pulau Semakau, Aug 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg"
-      caption: "Pulau Salu, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
+    caption: Pulau Salu, Jun 10
 links_references: |
   **Links**
   - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
@@ -51,7 +62,7 @@ links_references: |
   - [*Sinularia*
   images](http://science.naturalis.nl/research/people/cv/ofwegen/sinularia-images)
   on the Netherlands Centre for Biodiversity website: photos.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
@@ -65,6 +76,20 @@ links_references: |
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+location:
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Shy glass cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: shy, night,peacock, anemone, ceriantharia, anthozoa, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: shy, night,peacock, anemone, ceriantharia, anthozoa, cnidaria, field, 
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 4
@@ -16,39 +17,68 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg"
-      caption: "Pulau Sekudu, Aug 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040508skdad0037m3.jpg"
-      caption: Disappears into a rather lumpy tube.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3b.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
+    caption: Pulau Sekudu, Aug 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040508skdad0037m3.jpg
+    caption: Disappears into a rather lumpy tube.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040508skdad0035m3.jpg"
-      caption: "Pulau Sekudu, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040620skdg0752m3.jpg"
-      caption: "Pulau Sekudu, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040828skdd5479m3.jpg"
-      caption: "Pulau Sekudu, Aug 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040508skdad0035m3.jpg
+    caption: Pulau Sekudu, May 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040620skdg0752m3.jpg
+    caption: Pulau Sekudu, Jun 04
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/040828skdd5479m3.jpg
+    caption: Pulau Sekudu, Aug 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/111002sisro1m3.jpg"
-      caption: "Sisters Island, Oct 11 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100528tkklks5m3.jpg"
-      caption: "Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/250331hntjt1.jpg"
-      caption: "Pulau Hantu, Apr 25 Photo shared by Jonathan Tan on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/111002sisro1m3.jpg
+    caption: Sisters Island, Oct 11 Photo shared by Rene Ong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100528tkklks5m3.jpg
+    caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/250331hntjt1.jpg
+    caption: Pulau Hantu, Apr 25 Photo shared by Jonathan Tan on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/251011labyls5.jpg"
-      caption: "Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/251011labyls5.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/110717tblks4m3.jpg"
-      caption: "Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100811slud0101m3.jpg"
-      caption: "Pulau Salu, Aug 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100811slud0121m3.jpg"
-      caption: "Pulau Salu, Aug 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/110717tblks4m3.jpg
+    caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100811slud0101m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/100811slud0121m3.jpg
+    caption: Pulau Salu, Aug 10
+location:
+- cj
+- skd
+- bb
+- lab
+- snt
+- tkr
+- laz
+- sji
+- sis
+- hnt
+- tpg
+- smk
+- tsm
+- lfa
 ---
 
 **Where seen?**

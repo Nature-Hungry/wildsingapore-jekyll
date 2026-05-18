@@ -1,9 +1,10 @@
 ---
 title: Broad feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, 
+  alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Xeniidae
@@ -17,41 +18,56 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg"
-      caption: "St. John's Island, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg"
-      caption: Polyps do not retract completely.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg"
-      caption: ""
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+    caption: St. John's Island, Aug 05
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg
+    caption: Polyps do not retract completely.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg"
-      caption: "Sisters Islands, Jan 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg"
-      caption: "Terumbu Pempang Tengah, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg"
-      caption: "Sisters Islands, Jul 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg
+    caption: Sisters Islands, Jan 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg
+    caption: Terumbu Pempang Tengah, May 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg
+    caption: Sisters Islands, Jul 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/200210blylks1.jpg"
-      caption: "Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/250811jngmn5.jpg"
-      caption: "Pulau Jong, Aug 25 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg"
-      caption: "Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/200210blylks1.jpg
+    caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/250811jngmn5.jpg
+    caption: Pulau Jong, Aug 25 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg
+    caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg"
-      caption: "Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg"
-      caption: "Pulau Senang, Jun 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg
+    caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg
+    caption: Pulau Senang, Jun 10
 links_references: |
   **Links**
   - [*Sansibia*](http://species-identification.org/species.php?species_group=corals&id=211&menuentry=groepen)
@@ -62,7 +78,7 @@ links_references: |
   on the
   [Marine Species Identification Portal](http://species-identification.org/index.php)
   : Technical fact sheet and photos.
-  
+
   **References**
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
@@ -70,6 +86,21 @@ links_references: |
   - Fabricius, Katharina and Philip Alderslade, 2001.
   *Soft Corals and Sea Fans*
   . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+location:
+- lab
+- snt
+- tkr
+- kus
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Branching horn coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: horn, hydnophora, rigida, merulinidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: horn, hydnophora, rigida, merulinidae, coral, hard, scleractinia, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Hydnophora
@@ -17,43 +18,60 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg"
-      caption: "Raffles Lighthouse, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg"
-      caption: Conical mounds called monticules
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
+    caption: Raffles Lighthouse, Jun 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg
+    caption: Conical mounds called monticules
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg"
-      caption: Monticules often fused into ridges forming short valleys.
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg"
-      caption: Tentacles around the mounds.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg
+    caption: Monticules often fused into ridges forming short valleys.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg
+    caption: Tentacles around the mounds.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/220618tmftlks7.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/220618tmftky4.jpg"
-      caption: "Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on facebook"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/220618tmftlks7.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
+      facebook
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/220618tmftky4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on 
+      facebook
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/100615tmlks1m3.jpg"
-      caption: "Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/241019lazlks2a.jpg"
-      caption: "Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/120507srplks2.JPG"
-      caption: "Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/100615tmlks1m3.jpg
+    caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/241019lazlks2a.jpg
+    caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/120507srplks2.JPG
+    caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg"
-      caption: "Sisters Island, Jul 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg
+    caption: Sisters Island, Jul 04
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/230902smknrk3.jpg"
-      caption: "Pulau Semakau, Sep 23 Photo shared by Richard Kuah on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/130525tsmklks.JPG"
-      caption: "Terumbu Semakau, May 13 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/180520tsmk3lks.jpg"
-      caption: "Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/230902smknrk3.jpg
+    caption: Pulau Semakau, Sep 23 Photo shared by Richard Kuah on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/130525tsmklks.JPG
+    caption: Terumbu Semakau, May 13 Photo shared by Loh Kok Sheng on flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/180520tsmk3lks.jpg
+    caption: Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg"
-      caption: "Raffles Lighthouse, Jul 06"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
+    caption: Raffles Lighthouse, Jul 06
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
@@ -64,7 +82,7 @@ links_references: |
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
   - *[Hydnophora rigida](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45727)*
   on SeaLife Base: Technical fact sheets.
-  
+
   **References**
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
@@ -81,6 +99,15 @@ links_references: |
   - Borneman, Eric H. 2001.
   *Aquarium Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
+location:
+- tm
+- snt
+- laz
+- sis
+- hnt
+- smk
+- tsm
+- rfl
 ---
 
 **Where seen?**

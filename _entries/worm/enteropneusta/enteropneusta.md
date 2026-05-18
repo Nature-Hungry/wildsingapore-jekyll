@@ -1,8 +1,9 @@
 ---
 title: 'Acorn worms '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -12,7 +13,8 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
 links_references: |
   **Links**  
   - [Acorn
@@ -23,43 +25,81 @@ links_references: |
     Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen) in Zooplankton and Micronekton of the North
     Sea on the Marine Species Identification Portal: Technical fact
     sheet.
-  
+
   **References**
   - Edward E.
     Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are rarely seen above ground. They are advanced worms and play a role in recycling nutrients. They are very delicate. Don't dig them up!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are rarely seen above ground. They are advanced worms and play a role in recycling nutrients. They are very delicate. Don't dig them up!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are rarely seen 
+      above ground. They are advanced worms and play a role in recycling 
+      nutrients. They are very delicate. Don't dig them up!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are rarely seen above ground. They are advanced worms and play
+      a role in recycling nutrients. They are very delicate. Don't dig them up!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160508kusjt10.jpg"
-      caption: "Kusu Island, May 16 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/080603tmlksm3.jpg"
-      caption: "Tanah Merah, Jun 08 Photo shared by Loh Kok Seng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160508kusjt10.jpg
+    caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/080603tmlksm3.jpg
+    caption: Tanah Merah, Jun 08 Photo shared by Loh Kok Seng on his blog .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090224lazlks03m3.jpg"
-      caption: "Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/200822jngjc5.jpg"
-      caption: "Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160124smkell5.jpg"
-      caption: "Pulau Semakau East, Jan 16 Shared by Loh Kok Sheng on facbook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090224lazlks03m3.jpg
+    caption: Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/200822jngjc5.jpg
+    caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160124smkell5.jpg
+    caption: Pulau Semakau East, Jan 16 Shared by Loh Kok Sheng on facbook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091205sudd5456m3.jpg"
-      caption: "Pulau Sudong, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100613sngd5780m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091204pawd5418m3.jpg"
-      caption: "Pulau Pawai, Dec 09"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091205sudd5456m3.jpg
+    caption: Pulau Sudong, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100613sngd5780m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091204pawd5418m3.jpg
+    caption: Pulau Pawai, Dec 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091231biod7101m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg"
-      caption: "Terumbu Berkas, Jan 10 Shared by Loh Kok Sheng on his flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091231biod7101m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg
+    caption: Terumbu Berkas, Jan 10 Shared by Loh Kok Sheng on his flickr .
   gallery6:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Acorn worms Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Class Enteropneusta in Zooplankton and Micronekton of the North Sea on the Marine Species Identification Portal: Technical fact sheet. References Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Acorn worms Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to
+      Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Class Enteropneusta
+      in Zooplankton and Micronekton of the North Sea on the Marine Species Identification
+      Portal: Technical fact sheet. References Edward E. Ruppert, Richard S. Fox,
+      Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning
+      Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates
+      . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp.'
+location:
+- chg
+- cj
+- ecp
+- tm
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,9 +1,10 @@
 ---
 title: Thin disk coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, 
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
@@ -17,30 +18,54 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg"
-      caption: "Tuas, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg"
-      caption: "Sisters Island, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg"
-      caption: "Tuas, Apr 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
+    caption: Tuas, Jul 06
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
+    caption: Sisters Island, May 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg
+    caption: Tuas, Apr 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg"
-      caption: "Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg"
-      caption: "St. John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg"
-      caption: "Tuas, Aug 04"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg
+    caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg
+    caption: St. John's Island, Aug 08
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg
+    caption: Tuas, Aug 04
 links_references: |
   **Links**
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
   with species factsheets.
-  
+
   **References**
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
   by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+location:
+- tus
+- tm
+- ecp
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
 ---
 
 **Where seen?**

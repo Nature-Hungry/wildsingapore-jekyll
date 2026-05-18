@@ -1,9 +1,10 @@
 ---
 title: Fluffy green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta,
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, 
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,22 +20,26 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg"
-      caption: "Labrador, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg"
-      caption: Circlet of short filaments.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg
+    caption: Labrador, Apr 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg
+    caption: ''
+  - url: 
+      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg
+    caption: Circlet of short filaments.
 links_references: |
   **Links**
   - [*Caulerpa verticillata*](http://www.algaebase.org/search/species/detail/?species_id=4536)
   on
   [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
   *A photographic guide to the marine algae of Singapore*
@@ -42,6 +47,19 @@ links_references: |
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
   [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
   , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+location:
+- pgl
+- cj
+- skd
+- tus
+- tm
+- lab
+- tkr
+- kus
+- sis
+- tpg
+- tsm
+- rfl
 ---
 
 **Where seen?**

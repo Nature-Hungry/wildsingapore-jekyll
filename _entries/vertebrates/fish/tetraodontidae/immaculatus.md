@@ -1,9 +1,10 @@
 ---
 title: Yelloweye pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish,
-  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, 
+  fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -23,27 +24,36 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg"
-      caption: "SIsters Island, Feb 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg"
-      caption: "Seringat-Kias, Apr 12"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+    caption: SIsters Island, Feb 07
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg
+    caption: Seringat-Kias, Apr 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg"
-      caption: "Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg
+    caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg"
-      caption: "Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg
+    caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg"
-      caption: "Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg
+    caption: Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg"
-      caption: "Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg"
-      caption: "Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
+      blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
+    caption: Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog .
 links_references: |
   **Links**
   - [Yelloweye Puffer (
@@ -64,7 +74,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  
+
   **References**
   - Allen, Gerry, 2000.
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
@@ -72,6 +82,16 @@ links_references: |
   - Kuiter, Rudie H. 2002.
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
   New Holland Publishers. 434pp.
+location:
+- chg
+- bb
+- tm
+- laz
+- sis
+- cyr
+- hnt
+- tpg
+- smk
 ---
 
 **Where seen?**

@@ -1,9 +1,10 @@
 ---
 title: Giant top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: top, trochus, tectus, niloticus, trochidae, tegulidae, gastropod, mollusc,
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: top, trochus, tectus, niloticus, trochidae, tegulidae, gastropod, 
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,73 +27,108 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110421jngd9630m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110421jngd9630m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110421jngd9630m3.jpg"
-      caption: "Pulau Jong, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd3986m3.jpg"
-      caption: "Sentosa, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd3986m3a.jpg"
-      caption: Operculum thin with concentric rings.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110421jngd9630m3.jpg
+    caption: Pulau Jong, Apr 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd3986m3.jpg
+    caption: Sentosa, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd3986m3a.jpg
+    caption: Operculum thin with concentric rings.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd4020m6l.jpg"
-      caption: "Head brown with three white circles. Sparse tentacles on mantle edge. Sentosa, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/130923tmftd3512m3.jpg"
-      caption: "Young snail. Shell base has scalloped edge. Tanah Merah, Sep 13"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/111128sntd4020m6l.jpg
+    caption: Head brown with three white circles. Sparse tentacles on mantle 
+      edge. Sentosa, Nov 11
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/130923tmftd3512m3.jpg
+    caption: Young snail. Shell base has scalloped edge. Tanah Merah, Sep 13
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/171009blyay3.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/181126lablks1.jpg"
-      caption: "Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/260104trmlvo9.jpg"
-      caption: "Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/171009blyay3.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/181126lablks1.jpg
+    caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/260104trmlvo9.jpg
+    caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110220lazlks3m3.jpg"
-      caption: "Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/251106lazky3.jpg"
-      caption: "Lazarus Island, Nov 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110220lazlks3m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/251106lazky3.jpg
+    caption: Lazarus Island, Nov 25 Photo shared by Kelvin Yong on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/200112sjimn2a.jpg"
-      caption: "Young snail. Shell base has scalloped edge. St John's Island, Jan 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/200112sjimn2b.jpg"
-      caption: "Young snail. Shell base has scalloped edge. St John's Island, Jan 20 Photo shared by Marcus Ng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/200112sjimn2a.jpg
+    caption: Young snail. Shell base has scalloped edge. St John's Island, Jan 
+      20 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/200112sjimn2b.jpg
+    caption: Young snail. Shell base has scalloped edge. St John's Island, Jan 
+      20 Photo shared by Marcus Ng on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250602kusky1.jpg"
-      caption: "Kusu Island, May 25 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250810bsisky3.jpg"
-      caption: "Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250602kusky1.jpg
+    caption: Kusu Island, May 25 Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250810bsisky3.jpg
+    caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/101106burlks5m3.JPG"
-      caption: "Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110619tslgjk4m3.jpg"
-      caption: "Terumbu Selegie, Jun 11 Photo shared by James Koh on his blog."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250811jngrk2.jpg"
-      caption: "Pulau Jong, Aug 25 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/101106burlks5m3.JPG
+    caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110619tslgjk4m3.jpg
+    caption: Terumbu Selegie, Jun 11 Photo shared by James Koh on his blog.
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250811jngrk2.jpg
+    caption: Pulau Jong, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/230708smkeky1.jpg"
-      caption: "Pulau Semakau East, Jul 23 Photo shared by Kelvin Yong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240822tsmktt2.jpg"
-      caption: "Terumbu Semakau, Aug 24 Photo shared by Tommy Koh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240511tryrk2.jpg"
-      caption: "Terumbu Raya, May 24 Photo shared by Richard Kuah on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/230708smkeky1.jpg
+    caption: Pulau Semakau East, Jul 23 Photo shared by Kelvin Yong on facebook 
+      .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240822tsmktt2.jpg
+    caption: Terumbu Semakau, Aug 24 Photo shared by Tommy Koh on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240511tryrk2.jpg
+    caption: Terumbu Raya, May 24 Photo shared by Richard Kuah on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250812tbky2.jpg"
-      caption: Terumbu Bemban Photo shared by Kelvin Yong on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/250812tbky2.jpg
+    caption: Terumbu Bemban Photo shared by Kelvin Yong on facebook .
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/181124bbbll2.jpg"
-      caption: "Beting Bemban Besar, Nov 18 Photo shared by Liz Lim on facebook . ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110423tpllks.JPG"
-      caption: "Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240609tptky2.jpg"
-      caption: "Terumbu Pempang Tengah, Jun 24 Photo shared by Kelvin Yong on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/181124bbbll2.jpg
+    caption: Beting Bemban Besar, Nov 18 Photo shared by Liz Lim on facebook . .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/110423tpllks.JPG
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on 
+      flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/240609tptky2.jpg
+    caption: Terumbu Pempang Tengah, Jun 24 Photo shared by Kelvin Yong on 
+      facebook .
   gallery11:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/091231biod7007m3.jpg"
-      caption: "Pulau Biola, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/100613snglks1m3.jpg"
-      caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/100130brkd8718m3.jpg"
-      caption: "Terumbu Berkas, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/091231biod7007m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/100613snglks1m3.jpg
+    caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/100130brkd8718m3.jpg
+    caption: Terumbu Berkas, Jan 10
 links_references: |
   **Links**
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
@@ -112,7 +148,7 @@ links_references: |
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
   *Preliminary Checklist of The Molluscs of Singapore*
@@ -123,6 +159,23 @@ links_references: |
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
   . Nature Society (Singapore). 285 pp.
+location:
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- jng
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 **Where seen?**

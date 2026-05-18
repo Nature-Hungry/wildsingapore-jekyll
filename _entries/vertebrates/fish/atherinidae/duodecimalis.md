@@ -1,9 +1,10 @@
 ---
 title: Silversides
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal
+  shores
+keywords: tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, 
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -22,38 +23,54 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Atheriniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+coverimg: 
+  http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are slender and silvery, often bluish. They feed on tiny animals in the water (not on the sea bottom). They are important prey for larger fishes and sea birds."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are slender and silvery, often bluish. They feed on tiny animals in the water (not on the sea bottom). They are important prey for larger fishes and sea birds."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are slender and 
+      silvery, often bluish. They feed on tiny animals in the water (not on the 
+      sea bottom). They are important prey for larger fishes and sea birds.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are slender and silvery, often bluish. They feed on tiny 
+      animals in the water (not on the sea bottom). They are important prey for 
+      larger fishes and sea birds.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg"
-      caption: "Pulau Semakau, Aug 14"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg"
-      caption: "Tanah Merah, Dec 11"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+    caption: Pulau Semakau, Aug 14
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
+    caption: Tanah Merah, Dec 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg"
-      caption: "Sometimes large schools are seen. Chek Jawa, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg"
-      caption: "The school, seen from the boardwalk. Chek Jawa, Jan 10"
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
+    caption: Sometimes large schools are seen. Chek Jawa, Jan 10
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
+    caption: The school, seen from the boardwalk. Chek Jawa, Jan 10
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg"
-      caption: "Other fishes prey on them. Sisters Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg"
-      caption: "Carpet anemones are among their predators. Kusu Island, Jun 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg"
-      caption: "Swimming crabs also eat them. Kusu Island, Sep 10 Photo shared by James Koh on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
+    caption: Other fishes prey on them. Sisters Island, Aug 09
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
+    caption: Carpet anemones are among their predators. Kusu Island, Jun 12
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
+    caption: Swimming crabs also eat them. Kusu Island, Sep 10 Photo shared by 
+      James Koh on flickr .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg"
-      caption: "Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg"
-      caption: "Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
+    caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
+    caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg"
-      caption: "Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook ."
+  - url: 
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
+    caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
   - [Tropical Silverside (
@@ -91,7 +108,7 @@ links_references: |
   in
   [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-  
+
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
   *A First Look at Biodiversity in Singapore*
@@ -105,6 +122,24 @@ links_references: |
   - Lieske, Ewald and Robert Myers. 2001.
   *Coral Reef Fishes of the World*
   Periplus Editions. 400pp.
+location:
+- cj
+- skd
+- tm
+- ecp
+- lab
+- snt
+- kus
+- laz
+- sji
+- sis
+- cyr
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
