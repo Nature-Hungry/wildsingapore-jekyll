@@ -28,6 +28,9 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			✅ Text query search
 			✅ Pagination
 			🟡 Taxa filter
+				✅ Logic for single checkbox single taxa
+				✅ Logic for single checkbox multiple taxa
+				🔲 Logic for "Other" checkbox option
 			🔲 Other filters (not decided yet)
 		🔲 Step-by-step Photo indexes
 			🔲 Identify features to group entries by
