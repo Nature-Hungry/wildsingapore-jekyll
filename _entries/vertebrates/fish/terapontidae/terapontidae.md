@@ -24,45 +24,9 @@ coverimg:
   http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg
 links_references: |
   **Links**
-  - [Crescent perch (
-  *Terapon jarbua*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272.md)
-  ,
-  [Banded Perch (
-  *Terapon theraps*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273.md)
-  and
-  [Trumpeter Perch (
-  *Pelates quadrilineatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271.md)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)
-  and
-  [*Helotes sexlineatus*
-  (Six-lined trumpeter)](http://www.fishbase.org/summary/14940)
-  and
-  [*Pelates quadrilineatus*
-  (Fourlined terapon)](http://www.fishbase.org/summary/7945)
-  and
-  [*Terapon jarbua*
-  (Jarbua terapon)](http://www.fishbase.org/summary/4458)
-  and
-  [*Terapon puta*
-  (Small-scaled terapon)](http://www.fishbase.org/summary/7946)
-  and
-  [*Terapon theraps*
-  (Largescaled terapon)](http://www.fishbase.org/summary/4829)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet.
-  - [Cresent perch (
-  *Terapon jarbua*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua.md)
-  on the
-  [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
-  on the Australian Museum Online website: factsheets with photos and descriptions
+  - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272.md),[Banded Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273.md) and [Trumpeter Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271.md) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science Centre. 163 pp.
+  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)and [*Helotes sexlineatus*(Six-lined trumpeter)](http://www.fishbase.org/summary/14940) and [*Pelates quadrilineatus*  (Fourlined terapon)](http://www.fishbase.org/summary/7945) and [*Terapon jarbua*(Jarbua terapon)](http://www.fishbase.org/summary/4458) and [*Terapon puta* (Small-scaled terapon)](http://www.fishbase.org/summary/7946) and [*Terapon theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829) from [FishBase](http://www.fishbase.org/) : Technical fact sheet.
+  - [Cresent perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua.md) on the [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website: factsheets with photos and descriptions
 
   **References**
   - Wee Y.C. and Peter K. L. Ng. 1994.
@@ -117,12 +81,9 @@ Juvenile
 
 ---
 
-**Family Terapontidae recorded for Singapore**
+## Family Terapontidae recorded for Singapore
 from Wee Y.C. and Peter K. L. Ng. 1994.
-*A First Look at Biodiversity in Singapore*
-.
-
-**Family Terapontidae (Therapontidae)**
+*A First Look at Biodiversity in Singapore*.
 
 *Helotes sexlineatus
 
@@ -134,5 +95,8 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 [Terapon theraps](theraps.md)*
 (Banded perch)
+
+{% assign Terapontidae = site.entries | where: "family", "Terapontidae" %}
+{% include entry-summary-rows.html items=Terapontidae %}
 
 ---

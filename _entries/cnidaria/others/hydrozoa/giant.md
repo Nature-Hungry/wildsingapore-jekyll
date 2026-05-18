@@ -7,6 +7,8 @@ keywords: giant, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea,
 layout: entry
 family: ''
 genus: ''
+phylum: 'Cnidaria'
+class: 'Hydrozoa'
 species: identification*
 attributes: []
 inat_id: 1

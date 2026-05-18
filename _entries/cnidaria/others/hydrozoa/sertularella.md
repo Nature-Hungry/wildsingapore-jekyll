@@ -8,6 +8,8 @@ keywords: feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria,
 layout: entry
 family: ''
 genus: ''
+phylum: 'Cnidaria'
+class: 'Hydrozoa'
 species: identification*
 attributes: []
 inat_id: 1

@@ -88,7 +88,10 @@ galleries:
     caption: Cyrene Reef, Nov 24 Photo shared by Marcus Ng n on facebook .
 links_references: |
   **Links**
-  - [A new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html)
+  - [A new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html) Discovery of large five-rayed sea star adds to marine biodiversity here David J.W. Lane , Robin Ngiam & Ivan Tan, Straits Times 3 May 08
+  - [Pentaceraster mammilatus](https://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatus.html) on the creatures big and small blog.
+  - [Super star of the echinoderm hunt](https://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-ii.html) on the nature scouter blog.
+  - [Stars of Cyrene](https://wildfilms.blogspot.com/2008/04/stars-of-cyrene.html) about the discovery of the star on the wildfilms blog.
 location:
 - cj
 - sji

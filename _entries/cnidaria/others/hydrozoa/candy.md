@@ -7,7 +7,9 @@ keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea,
 layout: entry
 family: ''
 genus: ''
-species: identification*
+species: ''
+phylum: 'Cnidaria'
+class: 'Hydrozoa'
 attributes: []
 inat_id: 1
 stateofmatter: Life
