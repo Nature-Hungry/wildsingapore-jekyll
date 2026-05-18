@@ -1,0 +1,80 @@
+{
+    "sbw":{
+        "name":"Sungei Buloh & Kranji mangroves"
+    },
+    "lck":{
+        "name":"Lim Chu Kang"
+    },
+    "pgl":{
+        "name":"Punggol"
+    },
+    "prp":{
+        "name":"Pasir ris park"
+    },
+    "chg":{
+        "name":"Changi"
+    },
+    "cj":{
+        "name":"Chek Jawa & Pulau Ubin"
+    },
+    "skd": {
+        "name":"Pulau Sekudu"
+    },
+    "bb":{
+        "name":"Beting Bronok"
+    },
+    "tus":{
+        "name":"tuas"
+    },
+    "ecp":{
+        "name":"East Coast Park"
+    },
+    "tm":{
+        "name":"Tanah Merah"
+    },
+    "lab":{
+        "name":"Labrador & Berlayer creek"
+    },
+    "snt":{
+        "name":"Sentosa"
+    },
+    "cyr":{
+        "name":"Cyrene reef"
+    },
+    "kus":{
+        "name":"Kusu island"
+    },
+    "laz":{
+        "Lazarus island"
+    },
+    "sji":{
+        "name":"St. John's island"
+    },
+    "sis":{
+        "name":"Sisters island"
+    },
+    "jng":{
+        "name":"Pulau Jong"
+    },
+    "tkr":{
+        "name":"Pualu tekukor"
+    },
+    "hnt":{
+        "name":"Pulau hantu"
+    },
+    "tpg":{
+        "name":"Terembus pempang darat. tengah & laut"
+    },
+    "smk":{
+        "name":"Pualu semakau"
+    },
+    "tsm":{
+        "name":"tsm: submerged reefs off semakau - terumbu raya, beting bemban besar, terumbu bemban, terumbu semakau,"
+    },
+    "rfl":{
+        "name":"Raffle's lighthouse"
+    },
+    "lfa":{
+        "name":"live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged reefs in the area)"
+    }
+}

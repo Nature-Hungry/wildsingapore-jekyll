@@ -14,8 +14,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 ✅ Image galleries
 			 ✅ Text sections
 			 🟡 Links & References
-			 🔲 Titles
-			 🔲 Location information
+			 ✅ Titles
+			 ✅ Location information
 			 🔲 IUCN & RDB status
 			 🟡 Entry attributes
 			 ✅ Atomic entry content
