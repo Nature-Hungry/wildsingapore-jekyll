@@ -7,6 +7,9 @@ keywords: white, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Feb 2020
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
 galleries:

@@ -7,6 +7,9 @@ keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
 galleries:

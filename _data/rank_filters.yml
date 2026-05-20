@@ -112,8 +112,23 @@ filters:
                     chitons:
                         name: polyplacophora
                         rank: class
-            others:
-                name: others
+            
+            worms:
+                name: worms
+                children:
+                    segmented worms:
+                        name: annelida
+                        rank: phylum
+                    ribbon worms:
+                        name: nemertea
+                        rank: phylum
+                    flatworms:
+                        name: platyhelminthes
+                        rank: phylum
+                    acorn worms:
+                        name: Hemichordata
+                        rank: phylum
+
     plants:
         name: plantae
         rank: kingdom

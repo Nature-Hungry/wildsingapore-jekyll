@@ -7,6 +7,12 @@ keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Didemnidae
+genus: Diplosoma
+species: sp.
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
 galleries:

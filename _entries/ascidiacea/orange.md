@@ -7,6 +7,10 @@ keywords: orange, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Styelidae
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg
 galleries:

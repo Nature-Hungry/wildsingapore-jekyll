@@ -7,6 +7,12 @@ keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Didemnidae
+genus: Didemnum
+species: psammatodes
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
 galleries:

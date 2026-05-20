@@ -7,6 +7,12 @@ keywords: solitary, ascidian, squirt, seasquirt, polycarpa, tunicate,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Feb 2020
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Styelidae
+genus: Polycarpa
+species: sp.
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
 galleries:

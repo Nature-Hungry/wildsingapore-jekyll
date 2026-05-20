@@ -8,6 +8,12 @@ keywords: yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt,
   sheet, info, photo
 layout: entry
 updated: Mar 2020
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Polycitoridae
+genus: Eudistoma
+species: sp.
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
 galleries:

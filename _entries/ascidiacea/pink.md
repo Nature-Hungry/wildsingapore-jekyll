@@ -7,6 +7,12 @@ keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Polycitoridae
+genus: Eudistoma
+species: sp.
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
 galleries:

@@ -7,6 +7,12 @@ keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
+family: Ascidiidae
+genus: Ascidia
+species: gemmata
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
 galleries:

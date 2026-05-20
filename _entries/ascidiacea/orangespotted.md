@@ -7,6 +7,9 @@ keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Mar 2020
+phylum: Chordata
+subphylum: Tunicata
+class: Ascidiacea
 coverimg: 
   http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg
 galleries:
