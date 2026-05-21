@@ -9,6 +9,10 @@ layout: default
     <style>
         #show-filters-btn{
             display:none;
+            color: white;
+            background-color: var(--color-accent-orange);
+            border: none;
+            padding:0.4rem;
         }
         .search-input{
             font-size: 1rem;
@@ -58,6 +62,10 @@ layout: default
             width:fit-content;
             margin-left:auto;
         }
+        .explore-grid-tax-filters{
+            display:flex;
+            gap:2rem;
+        }
         @media (max-width:800px){
             #show-filters-btn{
                 display:block;
@@ -66,6 +74,12 @@ layout: default
         @media (max-width:500px){
             .explore-head{
                 display:block;
+            }
+            .explore-grid-tax-filters{
+                flex-direction:column;
+            }
+            #tax-filters{
+                width:100%;
             }
         }
         @media (max-width:400px){
@@ -87,13 +101,7 @@ layout: default
                 <a href="" >Use the photo index</a>
             </div>
         </div>
-
-            <div style="display: flex;gap:2rem;">
-            {% include explore/tax-filters.html %}
-            <div style="
-                width: 100%;
-            ">
-                <div class="flex justify-between align-center gap-1">
+<div class="flex gap-1 align-center justify-between" style="margin-bottom:1rem;">
                     <input type="text" id="search-input" class="search-input" placeholder="Search by anything">
                     
                     <button id="show-filters-btn"> <i class="fa-solid fa-sliders"></i></button>
@@ -111,6 +119,12 @@ layout: default
                     </div>
                    
                 </div>
+            <div class="explore-grid-tax-filters">
+            {% include explore/tax-filters.html %}
+            <div style="
+                width: 100%;
+            ">
+                
 
 
 

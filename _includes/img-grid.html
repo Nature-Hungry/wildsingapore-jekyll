@@ -1,5 +1,10 @@
 
-<div class="img-grid">
+{% assign gridStyle = "" %}
+{% if include.cols %}
+     {% assign gridStyle = gridStyle | append: "grid-template-columns:  repeat(" | append: include.cols | append: ", 1fr);" %}
+{% endif %}
+
+<div class="img-grid" style="{{gridStyle}}">
     {% for item in include.items %}
         {% assign style = "" %}
 

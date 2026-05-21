@@ -1,18 +1,17 @@
 {% assign node = include.node %}
 
-
 {% if node[1].children %}
   
 <details class="tax-node">
   <summary class="tax-title">{{ node[0] }} 
     {% if node[1].name %}
-      <input type="checkbox" class="taxa-checkbox-input" value="{{node[1].name}}-{{node[1].rank}}"/>
+      {% assign checkboxvalue = node[1].name | append: "-" | append: node[1].rank %}
+      <input type="checkbox" class="taxa-checkbox-input" value="{{node[1].name}}-{{node[1].rank}}"  />
     {% elsif node[1].filters %}
-      {% assign checkboxvalue = "" %}
       {% for item in node[1].filters %}
         {% assign checkboxvalue = checkboxvalue | append: item.name | append: "-" | append: item.rank | append: "|" %}
       {% endfor %}
-      <input type="checkbox" class="taxa-checkbox-input" value="{{checkboxvalue}}"/>
+      <input type="checkbox" class="taxa-checkbox-input" value="{{checkboxvalue}}"  />
     {%endif%}
   </summary>
       <div class="tax-children">
@@ -25,17 +24,17 @@
 </details>
   
 {% else %}
-
 <div class="tax-node">
 <div class="tax-title">{{ node[0] }} 
 {% if node[1].name %}
-      <input type="checkbox" class="taxa-checkbox-input" value="{{node[1].name}}-{{node[1].rank}}"/>
+      <input type="checkbox" class="taxa-checkbox-input" value="{{node[1].name}}-{{node[1].rank}}" />
     {% elsif node[1].filters %}
       {% assign checkboxvalue = "" %}
       {% for item in node[1].filters %}
         {% assign checkboxvalue = checkboxvalue | append: item.name | append: "-" | append: item.rank | append: "|" %}
       {% endfor %}
-      <input type="checkbox" class="taxa-checkbox-input" value="{{checkboxvalue}}"/>
+
+      <input type="checkbox" class="taxa-checkbox-input" value="{{checkboxvalue}}" />
     {%endif%}
 
 </div>

@@ -61,3 +61,28 @@
 .scientific-name-subtitle{
     font-style: italic;
 }
+
+
+
+.photo-index-images-text-row{
+    display:flex;
+    align-items:center;
+    gap:1rem;
+}
+.photo-index-images-text-row .img-grid{
+    margin: 1rem 0;
+}
+
+
+@media (max-width: 800px){
+    .photo-index-images-text-row{
+        flex-direction:column;
+        gap:0;
+        align-items: start;
+        margin-top:1rem;
+    }
+    .photo-index-images-text-row .img-grid{
+        order:1;
+        margin:0;
+    }
+}

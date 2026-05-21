@@ -111,6 +111,7 @@ const pageInfo = document.getElementById('page-info')
 const prevBtn = document.getElementById('prev')
 const nextBtn = document.getElementById('next')
 let taxaFilters = new Set()
+let excludeFilters = new Set()
 let query = ""
 
 input.value = initialQuery
@@ -138,33 +139,52 @@ input.addEventListener('input', () => {
 
 function filterResults(){
   let taxafilter = item=>true
-  
+  let excludeFilter = item=>false
   if(taxaFilters.size > 0){
     taxafilter = item => {
       return Array.from(taxaFilters).some(t => {
-        const [name, rank] = t.split('-')
-
+        let [name, rank] = t.split('-')
+        
         if(!item[rank]){
           return false;
         }
         return item[rank].toLowerCase() === name.toLowerCase()
       })
     }
+    console.log("Included: ", taxaFilters)
+  }
+
+  if(excludeFilters.size > 0){
+    console.log("Excluded:",excludeFilters)
+
+    excludeFilter = item => {
+      return Array.from(excludeFilters).some(t => {
+        let [name, rank] = t.split('-')
+        if(taxaFilters.has(t)){
+          return false;
+        }
+        if(!item[rank]){
+          return false;
+        }
+        
+        return item[rank].toLowerCase() === name.toLowerCase()
+      })
+    }
 
   }
 
- 
+  
 
   console.log(taxaFilters)
 
   // Step 1: true substring search for partial matches
   let partialResults = data.filter(item =>
     item.search_text.includes(query)
-  ).filter(taxafilter)
+  ).filter(item => taxafilter(item))
 
   // Step 2: Fuse.js ranking
   let fuseResults = fuse.search(query).map(r => r.item) 
-  fuseResults = fuseResults.filter(taxafilter)
+  fuseResults = fuseResults.filter(item => taxafilter(item))
 
   // Merge results, remove duplicates
   const combined = [...new Set([...fuseResults, ...partialResults])]
@@ -242,34 +262,55 @@ function updateURL() {
 
 
 function updateTaxaFilters(value, checked){
-  let v = value.split('|')
-    if(checked){
-      v.forEach(e=>{
-        if(e){
-          taxaFilters.add(e)
+    if(value[0] == "!"){
+      value = value.slice(1)
+      let v = value.split('|')
+        if(checked){
+          v.forEach(e=>{
+            if(e){
+              excludeFilters.add(e)
+            }
+          })
+        }else{
+          v.forEach(e=>{
+            if(e){
+              excludeFilters.delete(e)
+            }
+          })
         }
-      })
+
     }else{
-       v.forEach(e=>{
-        if(e){
-          taxaFilters.delete(e)
+        let v = value.split('|')
+        if(checked){
+          v.forEach(e=>{
+            if(e){
+              taxaFilters.add(e)
+            }
+          })
+        }else{
+          v.forEach(e=>{
+            if(e){
+              taxaFilters.delete(e)
+            }
+          })
         }
-      })
     }
+
+    
 }
 
 
 // Taxa filter checkboxes
 
-const checkboxes = document.querySelectorAll('.taxa-checkbox-input')
-checkboxes.forEach((checkbox) => {
-  checkbox.addEventListener('change', (event) => {
-    const value = event.target.value;
-    const checked = event.target.checked;
+// const checkboxes = document.querySelectorAll('.taxa-checkbox-input')
+// checkboxes.forEach((checkbox) => {
+//   checkbox.addEventListener('change', (event) => {
+//     const value = event.target.value;
+//     const checked = event.target.checked;
 
-    updateTaxaFilters(value, checked)
-  });
-});
+//     updateTaxaFilters(value, checked)
+//   });
+// });
 
 
 
@@ -283,7 +324,10 @@ tree.addEventListener('change', e => {
     return
   }
 
+  
   const checked = checkbox.checked
+
+
 
   // FIND CURRENT NODE
   const node = checkbox.closest('.tax-node')
@@ -322,6 +366,44 @@ tree.addEventListener('change', e => {
         parentNode.parentElement?.closest('.tax-node')
     }
   }
+
+  if(checkbox.value == "others-"){
+      const targetParent = checkbox.closest('.tax-children');
+      
+      console.log("Others checked")
+      console.log(targetParent)
+      if (targetParent) {
+        if(checked){
+          parentcheckbox = targetParent.parentElement.querySelector(':scope > .tax-title >input[type="checkbox"] ')
+          console.log(`Selected others of ${parentcheckbox.value}`)
+          
+          for (const child of targetParent.children) {
+              // This only targets the first layer
+              othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
+              updateTaxaFilters(("!"+othercheckboxes.value), true)
+              updateTaxaFilters(parentcheckbox.value, true)
+              
+          }
+
+        }else{
+          for (const child of targetParent.children) {
+              // This only targets the first layer
+              othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
+              updateTaxaFilters(("!"+othercheckboxes.value), false)
+              updateTaxaFilters(parentcheckbox.value, false)
+              
+          }
+        }
+      } else {
+          // It reached the very top (<html>) without finding a match
+          console.log("No ancestor with that class was found.");
+      }
+
+  }
+
+
+
+
   currentPage = 1
   filterResults()
   renderResults()

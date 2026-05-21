@@ -4,6 +4,8 @@
             width:fit-content;
             overflow:hidden;
             flex-shrink:0;
+            background-color:lightgrey;
+            padding:1rem;
         }
 
         .tax-children{
@@ -18,12 +20,38 @@
             .tax-filters{
                 display:none;
             }
+            .tax-filters.show{
+                display:block;
+            }
         }
+
 
 </style>
 
 <div class="tax-filters" id="tax-filters">
+<p><b>Taxa filters</b></p>
 {% for n in site.data.rank_filters.filters %}
    {% include explore/tax-node.html node=n %}
 {%endfor%}
 </div>
+
+<script defer>
+
+window.addEventListener('load', () => {
+    const toggle_btn = document.getElementById('show-filters-btn')
+    const tax_filters = document.querySelectorAll('.tax-filters')[0]
+    let opened = false;
+    toggle_btn.addEventListener('click',e=>{
+        console.log(e)
+        opened = !opened
+
+        if(opened){
+            tax_filters.classList.add("show")
+        }else{
+            tax_filters.classList.remove("show")
+        }
+    })
+    
+});
+
+    </script>
