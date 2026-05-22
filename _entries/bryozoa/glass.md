@@ -6,11 +6,12 @@ keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine,
 layout: entry
 family: ''
 genus: ''
-species: identification*
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Bryozoa
 updated: Nov 2019
 coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
 galleries:

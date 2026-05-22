@@ -93,13 +93,19 @@
             gap:0rem;
         }
     }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
   </style>
 
 
     <!-- Page content -->
     <main class="page-content" id="main-content">
       <section class="species-head">
-            <div class="flex gap-1" style="height:100%">
+            <div class="flex" style="height:100%">
                 <div class="other-images">
                   {% for img in page.images %}
                     <img src="{{img}}" alt="" class=" selected">

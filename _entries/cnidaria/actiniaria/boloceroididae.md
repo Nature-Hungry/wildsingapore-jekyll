@@ -23,18 +23,14 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/65535/50511019378_6b492c4d2b_c.jpg
+trivia_title: "if you learn only 3 things about them ... "
+trivia_items: [
+  "These animals are everywhere on the shore. Don't step on them! Don't pick them up. ",
+    "Their sticky tentacles will tear off in your hands. ",
+      "They CAN swim but usually don't at low tide."
+]
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These animals are 
-      everywhere on the shore. Don't step on them! Don't pick them up. Their 
-      sticky tentacles will tear off in your hands. They CAN swim but usually 
-      don't at low tide.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These animals are everywhere on the shore. Don't step on them! 
-      Don't pick them up. Their sticky tentacles will tear off in your hands. 
-      They CAN swim but usually don't at low tide.
   gallery2:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
@@ -50,6 +46,7 @@ galleries:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1936m6l.jpg
     caption: Explosion of tiny swimming anemones. Chek Jawa, Oct 10
+    row_span: 2
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/101009cjd1925m3.jpg
     caption: Many had settled on seagrasses.
@@ -196,7 +193,7 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Looking like an untidy mop, this anemone is sometimes seen in seagrass areas on many of our
 shores. It is possibly seasonal. Sometimes, large numbers are seen (up to 10-20 animals in a trip) and then none at all. Once, we encountered an explosion of countless tiny swimming anemones (less than 1cm across) in the seagrass meadows of Chek Jawa.
 
@@ -212,7 +209,7 @@ which have translucent tentacles with tiny spots.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Does it really swim?**
 Yes it can swim slowly by undulating its many tentacles in a coordinated manner. At low tide, these anemones are often seen loosely attached to seaweeds, or just lying freely on the ground. They are rarely seen swimming about. Possibly they are more active at high tide. Please don't pick up the anemone to force it to swim. Its sticky tentacles will come off in your hand and you may hurt the anemone.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Losing it:**
+{% include img-grid.html items=page.galleries.gallery3 cols=3%}**Losing it:**
 The swimming anemone can purposely drop of its tentacles if it is threatened. The dropped tentacle can wriggle, probably to distract the predator. This dropped tentacle can regenerate into a new swimming anemone after some time. However, almost no other anemone does this. So please don't cut an anemone into half hoping to get two anemones. You will instead get no anemone.
 
 **What does it eat?**

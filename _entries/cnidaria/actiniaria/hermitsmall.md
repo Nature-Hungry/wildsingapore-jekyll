@@ -13,15 +13,16 @@ family: ''
 genus: ''
 species: identification*
 inat_id: 1
-stateofmatter: Life
-kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+coverimg: https://live.staticflickr.com/2579/4042787644_faec49c2ba_c.jpg
 galleries:
   gallery1:
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
     caption: With a sea anemone on its shell. Changi, Apr 04
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3.jpg
@@ -48,10 +49,10 @@ galleries:
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
     caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
 location:
 - chg

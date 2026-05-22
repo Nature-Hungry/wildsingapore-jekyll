@@ -11,14 +11,16 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Bryozoa
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif
+coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg
+trivia_title: "if you learn only 3 things about them ... "
+trivia_items: [
+  "They are animals and NOT plants. Each is a colony of many tiny animals.",
+  "Unlike sponges, bryozoans are complex animals with internal organs."
+]
 galleries:
-  gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are animals and NOT plants. Each is a colony of many tiny animals. Unlike sponges, bryozoans are complex animals with internal organs."
-    - url: "http://www.wildsingapore.com/wildfacts/photos/bullet.gif"
-      caption: "They are animals and NOT plants. Each is a colony of many tiny animals. Unlike sponges, bryozoans are complex animals with internal organs."
+  
   gallery2:
     - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif"
       caption: Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.
@@ -74,7 +76,6 @@ links_references: |
   . 5
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Delicate lacy creatures, bryozoans encrust hard surfaces and even living seagrasses and seaweeds. Larger ones are sometimes seen on our Northern shores, but tiny ones are probably quite common but simply overlooked.
