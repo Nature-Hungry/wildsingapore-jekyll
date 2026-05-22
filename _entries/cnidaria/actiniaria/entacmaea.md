@@ -30,20 +30,15 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: July 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/2632/3792260580_fb634970f6_c.jpg
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [ 
+  "They are found among the coral rubble. Don't step on them!",
+  "Don't remove any fishes or shrimps that live in the anemone. They will die and the anemone will also suffer.",
+  "Don't poke the anemone to try to make fishes or shrimps come out. They will instead hide deeper in the anemone."
+]
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are found among the 
-      coral rubble. Don't step on them! Don't remove any fishes or shrimps that 
-      live in the anemone. They will die and the anemone will also suffer. Don't
-      poke the anemone to try to make fishes or shrimps come out. They will 
-      instead hide deeper in the anemone.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are found among the coral rubble. Don't step on them! Don't 
-      remove any fishes or shrimps that live in the anemone. They will die and 
-      the anemone will also suffer. Don't poke the anemone to try to make fishes
-      or shrimps come out. They will instead hide deeper in the anemone.
+  
   gallery2:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120609tsmkd5064m3.jpg
@@ -56,16 +51,16 @@ galleries:
     caption: Sisters Islands, Apr 04
   gallery3:
   - url: 
-      http://www.wildsingapore.com/vertebrates/fish/pomacentridae/frenatus/080803smkd9128m3.jpg
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/080803smkd9128m3.jpg
     caption: The Tomato anemonefish lives with this anemone Pulau Semakau, Aug 
       08
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
     caption: Peacock-tail anemone shrimps were seen in this anemone. Sisters 
       Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
   - url: 
-      http://www.wildsingapore.com/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
+      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
@@ -217,7 +212,6 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This anemone with bulbous tips is seen on our Southern shores. Usually nestled among coral rubble with the body column deep in a crevice or hole and only the tentacles sticking out. Thus, it is often mistaken for a hard coral. Sometimes, several small ones are seen clustered together. Larger ones are usually alone, and found in deeper water.
@@ -233,7 +227,7 @@ Like other anemones, this anemone has stingers in its tentacles that can inflict
 The anemone harbours symbiotic algae (called zooxanthellae) that produces food through photosynthesis. The food produced is shared with the anemone, which in turn provides the algae with shelter and minerals. During mass coral bleaching events, this anemone is often the first to bleach.
 
 Several kinds of animals are said to live happily among and unharmed by the tentacles of bubble tip anemones. These include
-[Peacock-tail aemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail aemone shrimps](/entries/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) these fishes:
@@ -241,12 +235,12 @@ Several kinds of animals are said to live happily among and unharmed by the tent
 and
 *Premnas biaculeatus*
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](/entries/vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) including
 *A. akindynos, A. biaculeatus, A. bicinctus, A. chrysopterus, A. clarkii, A. ephippium,
-[A. frenatus](../../vertebrates/fish/pomacentridae/frenatus.md)*
+[A. frenatus](/entries/vertebrates/fish/pomacentridae/frenatus)*
 (Tomato anemonefish),
 *A. fuscocaudatus, A. latezonatus, A. melanopus, A. polymnus*
 (juvenile). So far, only the Tomato anemonefish has been seen on the bubble tip anemones on the intertidal.

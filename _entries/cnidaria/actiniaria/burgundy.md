@@ -23,7 +23,7 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2924
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/7234/7188585879_04af23aa56_c.jpg
 galleries:
   gallery1:
   - url: 

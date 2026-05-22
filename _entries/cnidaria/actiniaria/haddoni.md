@@ -23,18 +23,16 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/65535/48210143757_fd8a06835b_c.jpg
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [
+  "Small carpet anemones maybe hidden under seaweed. Don't step on them! ",
+  "You may touch them gently, but please don't poke them. ",
+  "Please don't feed the anemone or 'rescue' any of its prey"
+]
+ 
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Small carpet anemones may
-      be hidden under seaweed. Don't step on them! You may touch them gently, 
-      but please don't poke them. Please don't feed the anemone or 'rescue' any 
-      of its prey
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Small carpet anemones may be hidden under seaweed. Don't step on 
-      them! You may touch them gently, but please don't poke them. Please don't 
-      feed the anemone or 'rescue' any of its prey
+  
   gallery2:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
@@ -62,11 +60,11 @@ galleries:
     caption: Capturing small fishes by folding the oral disk over the prey. Chek
       Jawa, Feb 02
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Tiny anemone shrimps are often found in these anemones. Pulau 
       Sekudu, Jun 05
   - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: Peacock-tail anemone shrimps are often found in these anemones. 
       Kusu Island, Jul 04
   gallery5:

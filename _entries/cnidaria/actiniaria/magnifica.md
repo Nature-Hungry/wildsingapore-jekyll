@@ -30,20 +30,15 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: July 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/65535/51089262677_ed5988c10a_c.jpg
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [ 
+  "They are found among the coral rubble. Don't step on them!",
+  "Don't remove any fishes or shrimps that live in the anemone. They will die and the anemone will also suffer.",
+  "Don't poke the anemone to try to make fishes or shrimps come out. They will instead hide deeper in the anemone."
+]
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are found among the 
-      coral rubble. Don't step on them! Don't remove any fishes or shrimps that 
-      live in the anemone. They will die and the anemone will also suffer. Don't
-      poke the anemone to try to make fishes or shrimps come out. They will 
-      instead hide deeper in the anemone.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are found among the coral rubble. Don't step on them! Don't 
-      remove any fishes or shrimps that live in the anemone. They will die and 
-      the anemone will also suffer. Don't poke the anemone to try to make fishes
-      or shrimps come out. They will instead hide deeper in the anemone.
+  
   gallery2:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg
@@ -205,7 +200,6 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This stunning, large anemone is well named. It is seen on our Southern shores,
