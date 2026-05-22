@@ -108,10 +108,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small batik-patterned slug is sometimes seen on some of our shores, burrowing among seagrasses and near living reefs.
 
-**Features:**
+## Features
+
 2-3cm. A long, cylindrical body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. It has a tiny internal shell. The black-and-white pattern can vary widely: from a black network on a white background, to white spots on a black background. The pattern extends onto the inside of the parapodia, there are no blue markings on the front and back edges of the parapodia.
 
 **What does it eat?**

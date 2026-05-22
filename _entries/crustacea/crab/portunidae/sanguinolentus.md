@@ -54,10 +54,11 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This oddly marked swimming crab is not often encountered on the intertidal.
 
-**Features:**
+## Features
+
 Body somewhat fan-shaped, with 9 spines on the sides. The eyes not far apart. Last pair of legs are paddle-shaped and rotate like boat propellers. Body with three large red spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

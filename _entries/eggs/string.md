@@ -6,6 +6,9 @@ keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, mari
 layout: entry
 updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
 galleries:
   gallery1:
     - url: "http://www.wildsingapore.com/wildfacts/photos/bullet.gif"
@@ -37,10 +40,11 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These noodle-like egg masses are sometimes seen among seagrasses and seaweeds in clumps.
 
-**Features:**
+## Features
+
 Some may be large, about 0.3cm wide, very long and noodle-like. These may be laid in clumps among seagrasses and seaweeds, on on rocks and hard surfaces. Others may be very tiny, laid in neat spirals on seagrass blades. Possible animals responsible for laying these eggs include
 [seahares](../mollusca/slugs/anaspidae/anaspidea.md)
 and

@@ -219,10 +219,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This pretty nudibranch in a pin-striped suit is commonly encountered on our Southern shores among living reefs and on coral rubble. Towards the late 2010's, they have also become commonly seen on our Northern shores. Sometimes, it can be seen in large numbers.
 
-**Features:**
+## Features
+
 2-3cm long. Long body with broad tail, black with fine white lines. The body and the foot are edged in a broad yellow or orange border with a black line along the inner edge of the orange border. The tips of the flower-like gills and the rhinophores are maroon to pink. The similar
 *Chromodoris striatella*
 has a white body with fine black lines and a white line along the inner edge of the orange border.

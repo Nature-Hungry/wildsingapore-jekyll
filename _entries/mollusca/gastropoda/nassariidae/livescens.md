@@ -111,10 +111,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegantly ribbed whelk is usually busy foraging at low tide among seaweeds or on the sand near seagrasses, especially at night. Commonly seen on many of our shores. 'Livescens' means 'black and blue' in Latin.
 
-**Features:**
+## Features
+
 2-2.5cm. Shell conical, long and slender with neat, regular fine ridges and narrow white bands alternative with broad bands of brown or dark blue. Shell opening edged with broad smooth white portion, towards the mouth, darker and with small bumps. Body pale with dark speckles, a long foot with a pair of 'tails' at the ends. Operculum thin with tiny 'teeth' along the edges, yellow with a dark blotch in the centre.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -103,13 +103,14 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Mussels are common on many of our shores and mangroves, stuck to rocks, tree roots and other hard surfaces. Some create 'nests' out on the sand or mudflats.
 
 **What are sea mussels?**
 Sea mussels belong to the Family Mytilidae.
 
-**Features:**
+## Features
+
 The two-part shell is generally tear-drop shaped (rounded at one end and pointed at the other). Although thin, the shell is quite strong. Instead of gluing down one valve to a rock like
 [oysters](../ostreidae/osteridae.md)
 do, mussels attach themselves with byssus threads.

@@ -230,10 +230,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Often mistaken for leafy seaweed, this slug is seen on all our shores. However, it appears to be seasonal. Sometimes seen in large numbers, at other times, none is to be seen.
 
-**Features:**
+## Features
+
 4-6cm. Body long with a pair of very large 'wings' (called parapodia). The overall body colour of the slug may be shades of green, yellow or even white. It is believed that the colour depends on how much and what seaweed is in the animal's digestive system. But all have a black margin on the edge of the parapodia, with an orange or yellow margin next to the black. There is a pair of long thick tentacles with tips in the same colour banding as the body edge. The body may have black spots. It may also have white spots, which are glands that secrete a white substance that may repel predators. The parapodia are often held in ruffles so that the animal resembles seaweed.
 
 **What does it eat?**

@@ -149,14 +149,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These flat silvery fishes with surprising pointy spines can sometimes be commonly seen on our Northern shores, among seagrasses. Some may be tiny (less than 3cm) and being flat, virtually disappear when seen from above. Larger ones may be seen in streams flowing out of the mangroves during low tide. They are often caught in fishing nets.
 
 **What are tripodfishes?**
 Tripodfishes belong to Family Triacanthidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444)
 : the family has 4 genera and 7 species. They are found in the Indo-Pacific area.
-**Features:**
+## Features
+
 6-25cm. Body extremely flattened sideways, somewhat rhombus-shaped and silvery. The scales are tiny and almost impossible to see with the naked eye. The gill opening is a small vertical slit. The fish does indeed have a tripod made out of a pair of long, rigid pelvic fins and the tail fin. In addition, it also has a stiff dorsal fin spine and stiff spines on the pelvic fins. It can raise all these spines to make it difficult for a predator to swallow it. Its scientific name comes from the Greek 'tri' which means 'three' and 'akantha' which means 'thorn'.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

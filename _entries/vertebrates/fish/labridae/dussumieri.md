@@ -171,12 +171,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather fat and colourful but little wrasse is sometimes seen on our Northern shores, among coral rubble near seagrasses. Sometimes seen high and dry on sand or stuck inside coral rubble or sponges. Some seen were very pale, others were more brightly coloured. It was previously known as
 *Halichoeres dussumieri*
 .
 
-**Features:**
+## Features
+
 To about 16cm, but those seen are usually about 5-8cm long. Usually colourful: silvery to greenish with red, yellow and blue markings forming 4-5 broad bars across the body. Dark spot in the middle of the front half of the dorsal fin, another spot at the pectoral fin base. Snout pointed, sharp teeth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

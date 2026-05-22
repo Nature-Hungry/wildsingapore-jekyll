@@ -146,10 +146,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This large, flat sea star is often seen on our Northern shores. Smaller ones are usually seen in seagrass meadows while larger ones are usually seen on coral rubble, sometimes wedged under large rocks. It is usually seen alone and usually more active at night. According to Lane, these sea stars were previously only seen from samples dredged from the channel between Pulau Ubin and Pulau Tekong. One was seen in a dive off Pulau Semakau. They are considered rare in the Indo-Pacific (only known from North Australia, southern Japan, China, Indonesia and Singapore) and little is known about them. According to Marsh and Fromont, it is found on muddy sand in Australia.
 
-**Features:**
+## Features
+
 ****
 Diameter with arms 10-20cm. Stiff body, the upperside usually slightly convex. Ams are short with rounded tips. Large, neat marginal plates all around the edges. The upperside is covered with tiny pedicellariae (pincer-like structures). The underside is flat, usually with a pattern of bars that form chevrons around the arms, with large bivalved pedicellariae. The tube feet are short tipped with suckers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

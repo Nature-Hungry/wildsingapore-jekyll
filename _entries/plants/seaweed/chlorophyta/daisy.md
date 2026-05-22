@@ -77,14 +77,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny seaweed is often overlooked. It grows on stones and coral rubble, often near the
 ['Taugeh' seaweed](neomeris.md)
 (
 *Neomeris*
 sp.)
 
-**Features:**
+## Features
+
 Tiny cap that is shaped like a daisy (about 0.5cm in diameter) made up of 34 petal-shaped 'rays', held up on a thin stalk. This tiny seaweed is calcified, in different degrees depending on the species. The young cap is green and turns white as it ages.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg)

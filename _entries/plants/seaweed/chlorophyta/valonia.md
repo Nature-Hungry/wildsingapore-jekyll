@@ -64,10 +64,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This cushion of little green beads is sometimes seen on our Southern shores growing on hard surfaces near reefs.
 
-**Features:**
+## Features
+
 The entire cushion about 2-5cm wide made up of tiny, tightly packed beads. Each translucent bead is a sphere or tear-drop shaped. The beads are actually interconnected. The entire cushion encrusts hard surfaces. Dark to light green or olive green.
 
 **Sometimes mistaken for**

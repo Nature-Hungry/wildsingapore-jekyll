@@ -59,12 +59,13 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 A small, well camouflaged mudskipper that is commonly seen near mangroves and other silty shores. Sometimes also seen on seawalls and rocky shores. Previously identified as
 *Periophthalmus novemradiatus*
 (Pearse's mudskipper).
 
-**Features:**
+## Features
+
 4-6cm. A small mudskipper with iridiscent bluish speckles on their head and body. Its pectoral and tail fins are reddish at the edges. The fish is only positively identified by looking at their underside, to see the blackish area near the gills. More about
 [how to tell apart small mudskippers](cfmudsmall.md)
 commonly found on our shores.

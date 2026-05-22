@@ -95,10 +95,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This rather large fish with chocolate brown bars is sometimes seen on our some of our shores. Surprisingly common near seawalls, also near reefs and rubble, small ones sometimes seen among seagrasses. Elsewhere, this fish is found in silty sheltered waters or reefs, usually alone.
 
-**Features:**
+## Features
+
 To about 20-30cm, but those seen usually about 10-15cm. Brownish to greenish with dusky vertical bands on the body. A dark spot on the upper edge of the gill cover.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

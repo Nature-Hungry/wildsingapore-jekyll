@@ -89,10 +89,11 @@ links_references: |
   T.F. H Publications. 464 pp
 ---
 
-**Where seen?**
+## Where seen?
 These distinctive hard corals with long tentacles, most with U-shaped tips are sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 Euphyllia corals are among the few hard corals that are identified by the shape of the polyp rather than just the skeleton. In fact, some
 *Euphyllia*
 species cannot be identified just by their skeleton alone. The polyps are long and often fully extended during the day, partially at night. Most

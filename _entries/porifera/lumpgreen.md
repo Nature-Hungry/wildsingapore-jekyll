@@ -61,10 +61,11 @@ location:
 - tkr
 ---
 
-**Where seen?**
+## Where seen?
 This green sponge is commonly seen on our Northern shores, growing on coral rubble.
 ****
-**Features:**
+## Features
+
 10-15cm. The sponge is encrusting with knobs with large holes at the tips. In some, the knobs can be rather tall so they are tubular, and are close to one another. In others, the knobs are low and spaced far apart. Colour pale green to olive.
 
 Another sponge that looks similar is

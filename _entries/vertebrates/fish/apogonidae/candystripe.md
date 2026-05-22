@@ -67,12 +67,13 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This fish in pajamas is sometimes seen on our Southern shores in pools among coral rubble and reefs. More active at night. It was previously known as
 *Apogon endekataenia*
 .
 
-**Features:**
+## Features
+
 To about 14cm, those seen about 5-7cm. Body slender pale. 6 red or brown lines with a large black spot at the base of the tail fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

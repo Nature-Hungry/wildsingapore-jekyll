@@ -95,14 +95,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This thin flat needle-like seagrass is sometimes seen on some of our shores, often mixed with other seagrasses. But luxuriant growths are more commonly seen on large natural shores such as Chek Jawa, where it is commonly found on the seaward side of the sand bars. The
 [preliminary results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halodule%20uninervis.md)
 shows it is widely distributed in the seagrass lagoon there.
 
 Needle seagrass is found throughout tropical Indo-West Pacific. It grows well in areas with high disturbance and plays a key role in stabilising the sediments with its mat of rhizomes and fibrous roots.
 
-**Features:**
+## Features
+
 **
 Needle seagrass is common on all our shores, especially on the edges of the sand bars towards the low water mark. The leaves may be short to very long. The leaves have three parallel veins which can be quite distinct. In most, the central mid-rib vein is quite prominent. The leaves emerge from thin rhizomes (underground stems) which have fine roots.
 *Halodule uninervis*

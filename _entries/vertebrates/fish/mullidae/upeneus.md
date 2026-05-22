@@ -140,7 +140,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This well-camouflaged fish is sometimes seen on silty sandy shores near seagrasses. It may be common but just overlooked. It is considered the most widespread goatfish in the tropical Indo-Pacific.
 
 **What are goatfishes?**
@@ -152,7 +152,8 @@ Goatfishes belong to Family Mullidae. According to
 Goatfishes have two long barbels on the chin, which contain chemosensory organs and are used to probe the sand or holes in the reef for bottom-dwelling animals or small fish. The barbels are also used by males during courtship of females. When not in use, the barbels are tucked away tightly under the chin. These fishes can change their colours with mood and during the day and night. Juveniles may look very different from adults.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ****
-**Features:**
+## Features
+
 The Freckled goatfish is up to 30cm long, those seen about 4-8cm long. Body long and somewhat cylindrical, with a blunt snout. The pair of barbels under the chin is hard to spot from above on a resting fish. Those seen tend to have broad dark bars across the body. In some, the forked tail had darkish bands.
 
 Accounts suggest the Freckled goatfish comes in a wide variety of colours and patterns. From red, to irregular dots and blotches on body; brown-blackish stripe from snout to tail fin. Adults with dark tips on both dorsal fins and typically with several yellow spots in the dark tip of the first dorsal fin. When resting on the bottom, they tend to be red and spotted, both during day or night. When swimming about to feed, they are light colored with a black stripe along the body. It is also called the Bar-tailed goatfish and Black-striped goatfish.

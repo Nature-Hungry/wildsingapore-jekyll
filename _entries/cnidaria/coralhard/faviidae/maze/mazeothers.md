@@ -69,10 +69,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Other kinds of corals with maze-like corallites are sometimes seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 15-30cm. Colonies may be encrusting orboulder-shaped. The corallites have shared meandering walls sometimes with long valleys, in others, short irregular polygons. The overall pattern is coarse and not as fine as in some other maze favid corals. The walls are tall and rather thick. Colours seen include brown, green and blue.
 
 Some species of corals recorded for Singapore that have these patterns include:

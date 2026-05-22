@@ -63,10 +63,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This pretty black hermit crab is sometimes seen, in coral rubble near reefs. It seems to be more active at night. Elsewhere, it is said to be a very common intertidal hermit crab living in sand-mud bottoms in mangrove areas, pebble beaches and rocky shores.
 
-**Features:**
+## Features
+
 Body about 1-1.5cm long. Body and legs black with large orange, yellow, white spots. Towards the eyes, spots are larger and more orange. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Pincers and walking legs sparsely hairy. Eye black with tiny white spots, narrow white ring under the eye where it joins the stalk. Eyestalks all yellow. Short antennae bright blue with orange feathery tip. Long antennae orange.
 
 More on how to tell apart

@@ -112,7 +112,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This tiny slug is sometimes seen on
 [Big coin green seaweeds](../../../plants/seaweed/chlorophyta/halbig.md)
 (
@@ -121,7 +121,8 @@ sp.). Several slugs may be seen on one clump of seaweed. It was previously known
 *Elysiella pusilla*
 .
 
-**Features:**
+## Features
+
 A tiny well camouflaged slug (0.5-1.5cm long). Oval, flat almost featureless body, with tiny tentacles at the head. The body is transparent or exactly the same colour as the seaweed that it is found on. The seaweed concentrates defensive chemicals in its youngest parts. Studies show that the slugs not only prefer to feed on these parts of the seaweed, but also use the chemicals to protect themselves and their eggs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

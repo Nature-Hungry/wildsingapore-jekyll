@@ -45,10 +45,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 These small anemones are seen near the high water mark on rocky shores made up of smooth boulders and rocks below a thick coastal forest. Individually usually widely dispersed, seldom with many on the same stone. First seen on St. John's Island, subsequently found on other southern natural rocky shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 1-2cm. Pale body column with pink spots in rows along the length of the body. One ring of tapering tentacles, pale greyish with pinkish cast and pinkish tips.
 When exposed to air at low tide, it tucks its tentacles into its body column so it looks like a pink bead of jelly with tiny red spots.
 It looks quite different from other

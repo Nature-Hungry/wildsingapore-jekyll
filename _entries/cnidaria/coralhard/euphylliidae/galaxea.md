@@ -157,12 +157,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These small hard corals with tall, distinctive star-shaped corallites are commonly seen on many of our Southern shores. They used to be placed in Family Oculinidae. From Danwei's paper, the species found on many of our shores is
 *Galaxea fascicularis*
 .
 
-**Features:**
+## Features
+
 Colonies (10-20cm), elsewhere are said to reach 5m in diameter. Colonies are dome-shaped, forming irregular boulders and mounds. Polyps and corallites about 1cm in diameter. Corallites made up of long tubes tipped with a distinctive star-shape pattern that resembles a crown. Near the top of the long corallites, they are joined together with a common skeleton that is smooth. The skeleton is thin and quite fragile. The polyps have short thin tentacles often with white tips. When fully expanded, the tentacles hide the skeleton structure. The polyps may produce very long sweeper tentacles (up to 30cm) that clear the surrounding area of competiting corals and other encrusting animals. Colours seen include brown, blue, green and purple.
 
 **Galaxy friends:**

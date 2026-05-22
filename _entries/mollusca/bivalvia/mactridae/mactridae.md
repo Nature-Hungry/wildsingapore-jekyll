@@ -65,7 +65,7 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 The
 [Big brown matra clam](bigbrown.md)
 that belongs to this family is often seen on our northern shores.
@@ -73,7 +73,8 @@ that belongs to this family is often seen on our northern shores.
 **What are surf clams?**
 Surf clams belong to the Family Mactridae. They are also called Trough clams.
 
-**Features:**
+## Features
+
 About 6cm. The two-part shells are thick and smooth. They are active burrowers of sandy and muddy bottoms.
 
 **Human uses:**

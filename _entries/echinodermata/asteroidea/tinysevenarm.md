@@ -101,10 +101,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.
 
-**Features:**
+## Features
+
 Diameter about 2cm. Usually 7 arms, short, often unequal in length. Upperside mottled colours. Underside white without any markings.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

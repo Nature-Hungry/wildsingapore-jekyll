@@ -126,10 +126,11 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These pretty small snails can be common on some of our natural rocky shores and also in our seagrass meadows. But they are usually overlooked, the pretty patterns on their shells sometimes hidden by algae and encrusting animals.
 
-**Features:**
+## Features
+
 1-2cm. The thick shell has a narrow opening that is thickened. A crab would probably find it difficult to stick a pincer into the opening. The thick smooth shell is also likely to be a slippery tricky thing for a crab to try to crush. The operculum is long and made out of a horn-like material. The foot is narrow and strong, and the siphon very long.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

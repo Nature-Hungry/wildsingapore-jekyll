@@ -98,10 +98,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This very large nudibranch with whorls of bumps on the upper side and a spotted underside is sometimes seen on some of our Southern shores, near reefs and seagrasses. It may be seasonal: when seen, often many individuals are spotted during the same trip.
 
-**Features:**
+## Features
+
 12-15cm long. The upperside with lots of conical bumps arranged in clusters so that that resembles a cauliflower. Colours from dark greyish blue, pinkish purple to pale pink. The underside is distinctive with large pale round spots on a plain smooth background, usually darker. Large rhinophores and large feathery gills.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -69,10 +69,11 @@ location:
 - lck
 ---
 
-**Where seen?**
+## Where seen?
 Like shiny scales, this animal is commonly seen in groups of a few individuals on leaves, trunks and roots of mangrove trees. It usually settles at a height between the high spring and high neap tide.
 
-**Features:**
+## Features
+
 To about 3cm
 . The two-part shell is thin and lustrous. Usually oval, sometimes irregular. Colours range from beige, purplish to blackish.
 One valve is stuck to a hard surface

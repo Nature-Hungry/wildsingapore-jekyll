@@ -48,10 +48,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This enormously long feathery colony is sometimes seen washed up on the shore. It grows in deeper water and is more commonly encountered by divers.
 
-**Features:**
+## Features
+
 Each 'frond' 2m or longer, unbranched with feathery side branches. Colour beige.
 
 Tiny nudibranchs are often seen on this colonial animal.

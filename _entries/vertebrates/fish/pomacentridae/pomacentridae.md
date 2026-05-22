@@ -184,7 +184,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Damselfishes such as the anemonefishes are sometimes seen on our intertidal shores. But most damselfishes live in deeper waters and are more frequently encountered by divers.
 
 **What are damselfishes?**
@@ -192,7 +192,8 @@ They belong to Family Pomacentridae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)
 : the family has 28 genera and 321 species. They are mainly found in the Indo-Pacific oceans, some are found in brackish waters. Anemonefishes (made famous by the cartoon 'Nemo') are among the better known members of this family.
 
-**Features:**
+## Features
+
 Damselfishes vary widely in size, colour and shape. Some species can grow to 35cm, others are 1cm or smaller. Those that eat algae tend to be duller while plankton-feeders tend to be more colourful.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

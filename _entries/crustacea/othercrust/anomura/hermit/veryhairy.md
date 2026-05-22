@@ -203,10 +203,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This very hairy and large hermit crab is sometimes seen, on reefs and rubble of our Southern shores.
 
-**Features:**
+## Features
+
 Body 4-8cm long, among the largest of our hermit crabs. Body not hairy, paler on top, sides colourful (red with a purple stripe) with pale dots. The left pincer is slightly larger than the right pincer, both rather slender. Walking legs and pincers very hairy, colours purplish, maroon, white. The walking legs have 1-2 broad dark or purple bands that are hairless. Large dark eyes without white spots, ringed with yellow on stout pale eyestalks. Short antennae yellow, feathery tips orange and blue. Long antennae pale yellowish.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

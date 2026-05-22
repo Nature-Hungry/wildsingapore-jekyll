@@ -97,9 +97,10 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small sea star is sometimes seen on undisturbed Northern shores on sandy areas near seagrasses and on rubble. It has also been seen on Cyrene. It appears to be seasonal. Usually seen alone. According to Lane it was first seen in Singapore in the 1930s and rediscovered in 1991. According to Marsh and Fromont, it is found clinging to the underside of boulders on muddy sand and rock substrate in Australia.
-**Features:**
+## Features
+
 Diameter with arms 5-7cm. A rounded star (not flat) with long plump arms like half a cylinder with a flat base and rounded tips. It usually has five arms, but some with four and six arms have been seen. The upper side is covered with 'scales'. When submerged tiny transparent finger-like structures (papulae) might be seen on the upperside giving the sea star a fuzzy appearance. Colours vary from red, maroon, purple, brown with mottled, irregular patterns that blend well with the surroundings. The underside is pale, with orange or red grooves where the tube feet emerge. The transparent tube feet are tipped with suckers.
 
 **What does it eat?**

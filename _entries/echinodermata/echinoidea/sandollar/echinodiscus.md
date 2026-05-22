@@ -110,14 +110,15 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This large sand dollars with slots is sometimes seen sandy areas near seagrasses on Chek Jawa and Changi. It is not found in large groups like the
 [Cake sand dollar](arachnoides.md)
 , usually alone. It was previously known as
 *Echinodiscus bisperforatus*
 .
 
-**Features:**
+## Features
+
 Body diameter 8-10cm, somewhat polygonal, with a pair of slots perpendicular to the edge. The flower-like petalloid is obvious even in living specimens. Usually maroon-purple, sometimes yellowish brown.
 
 **What is the purpose of the slots?**

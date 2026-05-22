@@ -55,10 +55,11 @@ links_references: |
   . White Lotus. 136 pp.
 ---
 
-**Where seen?**
+## Where seen?
 Easily identified by the 'fishtails' of its leaves, this palm is considered by Whitmore to be 'the only palm commonly found in secondary forest'. In Singapore it is also commonly seen in the back mangroves.
 
-**Features:**
+## Features
+
 A short palm (to about 6m), often forming clumps of several stems. Leaves long (2-6m) made up of leaflets in the shape of 'fishtails'. Flowers on hanging spikes. Fruits green ripening plum red or ochre. The palm starts flowering from upper growing tip and flowering bunches appear downwards. According to Whitmore, 'the tree slowly dying after fruiting'.
 
 **Human uses:**

@@ -82,10 +82,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This blob with red stripes is commonly seen our Northern shores. Like a small disembodied thumbs-up, this animal is usually stuck to a large boulder, jetty pillings and other hard surfaces, near the mid-water mark. Usually seen alone or in groups of a few individuals.
 
-**Features:**
+## Features
+
 3-5cm long, made up of two 'fingers', one shorter and at right angles to the longer larger 'finger'. Usually white with orange or red irregular broad stripes. It is a solitary (not colonial) ascidian. It appears sad and flaccid when exposed out of water, but is usually well rounded when submerged.
 
 It has bands of muscles along its body. When these muscles constrict, water squirts out. That's why it is called a sea squirt. It does this when disturbed, or to get rid of wastes.

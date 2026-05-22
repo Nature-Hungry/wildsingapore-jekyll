@@ -106,10 +106,11 @@ location:
 - tkr
 ---
 
-**Where seen?**
+## Where seen?
 This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.
 
-**Features:**
+## Features
+
 To about 3cm. It has a green shell and four long 'fingers' sticking out of the sides of its body that look like tendrils of a seaweed. These tendrils can be 'rolled up', making the slug very difficult to see among round seagrape seaweeds, for example. The tendrils can also be suddenly expanded and unfurled. This may be done to deter predators. The tendrils can also be dropped off (autotomized) whereupon the tendril continues to wriggle and thus distract the predator. Colour mostly green to match the seaweeds it is found on. Often with orange edges to its tendrils.
 
 **What does it eat?**

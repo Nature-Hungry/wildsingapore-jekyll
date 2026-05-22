@@ -51,9 +51,10 @@ location:
 - prp
 ---
 
-**Where seen?**
+## Where seen?
 One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994.
-**Features:**
+## Features
+
 To about 80cm. Yellowish brown on its back and sides, white on the belly, with blue stripes circling the eyes, and numerous small dark-edged blue spots all over the head, body and median fins. A black patch with white spots at the base of its pectoral fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

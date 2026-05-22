@@ -98,11 +98,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Ah choo!! Did someone just sneeze?! Resembling mobile phlegm, this flesh-coloured flatworm is sometimes seen on our Southern shores. On rocky shore boulders and under stones near the high water mark.
 It moves rapidly and changing shape from nearly circular to elongated as it slithers rapidly.
 
-**Features:**
+## Features
+
 6-10cm. This large, rather fleshy flatworm is usually a uniformly pinkish or greyish beige, with a very smooth body surface. Sometimes slightly translucent with its internal parts visible. It does not have obvious pseudotentacles. It seems to eat rather large prey for a flatworm and is sometimes seen with alarmingly large lumps in the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

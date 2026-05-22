@@ -120,10 +120,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful nudibranchs is sometimes seen on our Northern shores. On coral rubble and rocky shores with sponges and encrusting animals.
 
-**Features:**
+## Features
+
 2-3cm. Body long, narrow with a long tail. A bluish background with short dark blue lines and yellow or orange spots. Large flower-like gills on the back and large rhinophores (relative to the body size). The gills have a triangular cross-section edged in blue with a series of yellow spots up the outer face. See also
 [Dr Bill Rudman's comments](http://www.seaslugforum.net/find/hypskang)
 on this nudibranch.

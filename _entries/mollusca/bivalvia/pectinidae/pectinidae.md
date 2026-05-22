@@ -100,10 +100,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These little clams are sometimes seen on some of ours shores, on sandy areas near seagrasses.
 
-**Features:**
+## Features
+
 4-7cm.The circular two-part shell is thick with ribs and a squarish portion at the hinge. It has a hinge with a socket-like arrangement between the valves. A single, fused adductor muscle controls the valves (this is the part that is eaten in seafood, see below). The foot is greatly reduced and there is usually no siphon. They have a fringe of tentacles, some long and many short tentacles, with many tiny, well developed eyes along the mantle edge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Swimming scallops:**

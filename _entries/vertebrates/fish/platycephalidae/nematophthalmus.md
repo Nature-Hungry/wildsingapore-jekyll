@@ -159,9 +159,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fish with a flat head and a delicate fringe over its eyes is commonly seen on many of our shores, in sandy and coral rubble areas near reefs.
-**Features:**
+## Features
+
 Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have also been seen. Identified by the elaborate golden filigree fringe over the eyeball. Above the eyes 6-9 large fleshy tentacles. It has bony ridges on the head with spines. Colours and pattern are camouflaging, with 7-8 dusky bars on the back and sides and its fins has variegated patterns. Dorsal fin large and sometimes colourful.
 
 **Sometimes mistaken**

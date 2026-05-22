@@ -64,10 +64,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This odd plant with bulbous leaves is sometimes seen in our mangroves, growing on trees and shrubs. According to Hsuan Keng, it was common on trees all over Singapore especially near the sea. According to Corners, the Subfamily Asclepiadoideae has "exceedingly complicated flowers, more so than even that of orchids and the family is considered on of the most highly evolved among flowering plants". You wouldn't quite think that looking at this rather stringy plant.
 
-**Features:**
+## Features
+
 An epiphyte that grows on trees and shrubs. There are two kinds of leaves, arranged opposite one another. Small circular flat thick leaves (2-2.5cm) and larger hollow leaves (7-12cm long) that are oval. The large leaves are yellowish green on the outside and purple on the inside. These hollow leaves have an entrance at the base for ants and aerial roots. Ants actually take up residence inside the large hollow leaves. The ants get a safe place to stay, while the plant benefits from the minerals found in the ants' left-overs and wastes. Roots grow inside the large hollow leaf to absorb these nutrients.
 
 Flowers are small (1cm) and sunbirds appear to be attracted to them. The fruit is bean-shaped (5cm) that split when ripe to release tiny seeds attached to silky hairs. The seeds are often dragged away by ants, which feed on fat particles produced by the plant. When the plant is injured, a white sap is produced.

@@ -58,10 +58,11 @@ galleries:
       caption: "Links Cassytha filiformis on Total Vascular Flora of Singapore Online: photos and fact sheet. Cassytha filiformis on the NParks Flora and Fauna website: photos and fact sheet. Cassytha filiformis (pdf) by Scot C. Nelson Department of Plant and Environmental Protection Sciences: detailed fact sheet and comparison with Cuscuta species which look similar. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This long hair-like plant is often seen draped in green or golden tangles on seaside shrubs and small trees. 'Rambut putri' means 'Hair of the Princess' in Malay. According to Giesen, It can sometimes smother the host so densely that the latter is scarcely visible. More rarely seen inland, for example in dwarf swamp forests. It is found on all tropical shores and common throughout Southeast Asia. Sometimes recognised as a separate family, the Cassythaceae. According to Hsuan Keng, it is common in open bushes by the sea including Changi.
 
-**Features:**
+## Features
+
 A semi-parasitic plant, it has long stems (3-8m) that grows in a tangle on host plants, green or yellow. The thin smooth stems do not root, they attach to the host by suckers. They are hollow, cylindrical and dark green to reddish-or yellowish-brown. It latches onto a wide variety of hosts (some describe it as being "totally indiscriminate in host choice"), relying on the host for physical support, water and nutrients. There are no visible leaves. The flowers are tiny (1.5-2mm) held on a short stalk. Fruits are small, round, juicy white berries (7mm) that are eaten and dispersed by birds.
 
 *Cuscuta australis*

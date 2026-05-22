@@ -193,10 +193,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This blue swimming crab is commonly seen on many of our shores, especially near coral rubble and reefs. It is particularly active at night.
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body somewhat rectangular, sides of the body with 5 dark blue-light blue-brown tipped spines. Spines about equal in size, the fourth spine might be slightly smaller. The eyes are wide apart. Between the eyes are 6 rounded equal-sized lobes.The body is usually densely covered in fine hairs so that it often has a layer of sand on its body. Last pair of legs are paddle-shaped. Body and pincers plain blue or greenish blue. Pinchers long, 'fingers' are often black with a white tip, some have white patch at the base of the 'fingers', some have bright orange patches on the inner 'elbow' and at the 'shoulders'.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

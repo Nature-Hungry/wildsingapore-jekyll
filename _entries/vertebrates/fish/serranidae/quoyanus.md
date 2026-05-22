@@ -65,10 +65,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This boldly patterned but well camouflaged fish was seen at Tanah Merah. Elsewhere, they are seen in silty reefs, in shallow and intertidal waters.
 
-**Features:**
+## Features
+
 To about 35-40cm. There are many species of groupers with a mosaic-like pattern. The Honeycomb grouper is distinguished by having less dense spotting, larger polygonal spots, thin or no white margin on the tail. It also has oblique dark bands just below the pectoral fin base. Often seen resting on the ground with its enlarged fleshy pectoral fins held outward.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

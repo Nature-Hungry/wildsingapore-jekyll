@@ -59,7 +59,7 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This enormous but beautiful snake is among the most commonly sighted snakes in Singapore. According to Baker, it is found in almost all habitats from forest to mangroves and also in urban areas. From sea level up to 1,000m. Elsewhere also near rivers. It is common throughout Southeast Asia. It was previously known as
 *Python reticulatus*
 . According to
@@ -70,7 +70,8 @@ its scientific name is
 *Malayopython reticulatus*
 .
 
-**Features:**
+## Features
+
 ****
 To about 10m long, but those we might see are usually much shorter and rarely exceed 5m. Among the longest snakes in the world, this powerfully muscled snake is non-venomous and kills by constricting its victims in its coils. Large adults can be dangerous to humans. Even though it is non-venomous, it can give a nasty lacerating bite with its powerful jaws filled with sharp long fangs. Don't disturb a python. It has a pretty net-like pattern ('reticulatus' means 'net-like') and scales that are iridescent in sunlight.
 

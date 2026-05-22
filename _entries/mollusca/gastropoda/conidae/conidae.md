@@ -202,10 +202,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 Although empty shells of dead snails are sometimes seen, living cone snails are rarely encountered. In Singapore's past, they were seen on rocky shores, reef flats and reefs.
 
-**Features:**
+## Features
+
 5-10cm. Shell is heavy, conical with a flattened end, somewhat like an ice-cream cone. Although some cone snails have pointed tips or are olive-shaped. The shell opening is a narrow slit. The operculum is a tiny long sliver of horn-like material. The colourful shell patterns of many species may be hidden under a thick 'hairy' growth (periostracum). Others are glossy as they spend most of their time burrowed into sand, where they lie in wait for passing prey.
 
 This slow-moving snail relies on its fast acting venom to rapidly immobilise and kill prey. The radula is modified into a hollow tooth that the snail shoots out like a harpoon to inject a potent toxin into prey (Here's a

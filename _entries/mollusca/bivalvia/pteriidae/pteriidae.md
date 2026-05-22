@@ -81,7 +81,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These strangely shaped clams grow attached to other animals like
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 and sponges, as well as mangrove trees.
@@ -90,7 +90,8 @@ and sponges, as well as mangrove trees.
 Winged oysters belong to the Family Pteriidae.
 
 ****
-**Features:**
+## Features
+
 1-8cm.
 Unlike other bivalves, they have comb-like teeth in the hinge, a feature of this family. They stick to hard surfaces by byssus threads.
 

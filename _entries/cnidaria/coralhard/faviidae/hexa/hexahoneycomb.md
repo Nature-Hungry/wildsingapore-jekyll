@@ -101,10 +101,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Hard corals with large hexagonal corallites are sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-20cm, generally boulder-shaped, but somewhat irregular and not perfectly spherical. The corallites large (1-2cm) have shared walls and form large irregular cells with sharp angular edges of various sizes and shapes. The walls are thin and tall, corallites are more tubular with a broad 'base'. The result is a rather irregular pattern of large polygons that resembles a honey comb. The polyps are large and fleshy with a ring of many tentacles around a large oral disk. Colony colours seen include brown, yellow, blue and purple.
 
 Some species of corals recorded for Singapore that have these patterns include:

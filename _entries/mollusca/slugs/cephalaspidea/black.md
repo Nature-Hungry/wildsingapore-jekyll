@@ -63,10 +63,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small black slug is sometimes seen on some of our shores, burrowing among seagrasses and near living reefs.
 
-**Features:**
+## Features
+
 1-2cm. A long, cylindrical body that appears to be made up of two parts. A pair of 'tails', one a lot longer and narrower than the other. It has a tiny internal shell. Included here are slugs that are all black and those that are black with speckles and other touches of colour.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

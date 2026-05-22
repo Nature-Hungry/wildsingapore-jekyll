@@ -63,10 +63,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This spicy-looking red sea urchin was seen once along an East Coast Park shore that has since been affected by coastal works.
 
-**Features:**
+## Features
+
 The one we saw had a body diameter 5-8cm, yellowish. Spines
 (1.5-2cm)
 longer than the more common White sea urchin, and banded white and red. Spines on the upper side are sharp. Spines on the underside have spade-like tips. It has long tube feet.

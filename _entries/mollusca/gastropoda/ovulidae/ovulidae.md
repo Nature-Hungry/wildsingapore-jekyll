@@ -125,14 +125,15 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 These amazing snails are seen on our
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 and
 [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.md)
 , particularly on our Northern shores.
 
-**Features:**
+## Features
+
 1-3cm. These snails have shells that resemble those of the
 [cowries](../cypraeidae/cypraeidae.md)
 (Family Cypraeidae) and are thus sometimes called False cowries. Some also have long narrow shells with pointy tips at both ends that resemble a spinning spindle and are thus also called Spindle cowries. The ovulid shell is usually plain, unmarked and white.

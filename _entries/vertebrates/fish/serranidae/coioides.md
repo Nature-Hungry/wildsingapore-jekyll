@@ -94,10 +94,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 Gaily spotted juveniles are sometimes seen on our Northern shores, among rubble. Small ones sometimes seen among seagrasses.
 
-**Features:**
+## Features
+
 Adults to about 95cm. Juveniles seen are much smaller. The adult is brown with darker bars and small orange spots on the sides. It is found in coastal areas including estuaries, usually alone.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -179,10 +179,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large loaf-shaped sea cucumber is commonly seen in numbers in seagrass meadows of our Northern and Southern shores. Sometimes buried just beneath the sand, but also above ground.
 
-**Features:**
+## Features
+
 15-20cm long, elsewhere said to grow to 40cm. Loaf-shaped body, square-ended with a distinct upper and underside. Upperside darker and often has wrinkles and sometimes, black bars; thus resembling a Garlic bread. Underside flat, pale or white. Tube feet tiny and short, regularly distributed all over the body. It does not produce Cuvierian tubules.
 
 **What does it eat?**

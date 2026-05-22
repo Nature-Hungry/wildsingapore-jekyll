@@ -126,12 +126,13 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 These snails are sometimes seen in pairs on
 [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.md)
 on many of our shores. They closely resemble the clumps of polyps of the soft corals that they eat. Often a pair is seen in one colony of soft corals.
 
-**Features:**
+## Features
+
 1.5-2cm. Shell oval, white smooth. Some have a fine orange line along the edge, others with blotchy orange bars. Mantle transparent with irregular brownish blotches outlined in darker brown and short white finger-like protrusions. The foot may have fine coloured outline and fine coloured bars. Coloured tentacles and siphon. Found on
 [flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.md)
 (Family Nephtheidae), especially in

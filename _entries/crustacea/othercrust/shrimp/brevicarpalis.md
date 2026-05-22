@@ -198,12 +198,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This chubby shrimp with black-ringed orange spots on its tail is often seen in large sea anemones on many of our shores. Usually a pair are seen in one anemone, living safely among tentacles that would otherwise sting other animals. Elsewhere, seen from 1-5m deep. It is also sometimes called the Clown anemone shrimp. It was previously
 *Periclimenes brevicarpalis*
 .
 
-**Features:**
+## Features
+
 To about 4cm. Body almost transparent, especially the smaller male. Pincers long transparent with purple bars. The female is often larger and more brightly marked with more and larger white spots on the back, along the abdomen and the base of the tail. The male may be totally transparent except for the eyespots on the tail. Some also have a white tail and a white bar between the eyes like the female. In both the male and female, the tail has 5 black-ringed orange eyespots.
 
 At low tide, they are more easily spotted at night when they are still somewhat active. During the day, they often remain hidden under the anemone.

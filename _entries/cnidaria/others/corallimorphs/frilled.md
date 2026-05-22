@@ -111,10 +111,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This little animal with a delicate fringe around the edge of its disk-shaped body is sometimes encountered on our Southern shores, in coral rubble areas.
 
-**Features:**
+## Features
+
 Each polyp about 2-4cm in diameter, usually in small groups of 5-10, sometimes many more. When submerged, the expanded polyps may be crowded next to one another so that each forms folded polygonal shapes. So it is sometimes mistaken as a hard coral.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Short fine tentacles fringe the outer edge of the oral disk. On the disk itself, short, clusters of very short branched tentacles are arranged in rows radiating from the mouth in the centre. The mouth is usually held upturned and is then quite prominent.

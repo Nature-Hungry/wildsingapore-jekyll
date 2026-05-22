@@ -97,9 +97,10 @@ links_references: |
   . Capricornia Publications. 180pp.
 ---
 
-**Where seen?**
+## Where seen?
 This almost-cuddly white sea urchin is seasonally common on our Northern shores among seagrasses. At some times, many of these sea urchins are seen, and then none seen for some time. On Cyrene Reef, gatherings of many of these sea urchins are sometimes seen.
-**Features:**
+## Features
+
 Body diameter 5-8cm, with tiny sharp spines. It has long tube feet and is often seen carrying all kinds of things from shells to seaweeds. It can quickly gather these things to cover itself. This behaviour may help camouflage it or shield it from sunlight.
 
 **What does it eat?**

@@ -81,10 +81,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Like frilly sheets, clumps of this seaweed is often seen on our Southern shores, attached to coral rubble.
 
-**Features:**
+## Features
+
 Each blade about 8-10cm long, not translucent, leathery (not slippery) and somewhat stiff. The portion near the base is flat but towards the edges it forms short flat branches with very frilly edges. The surface has little, regular bumps all over it, sometimes giving the seaweed a mottled look. Colours from dull greyish brown to chocolate brown and purplish; also bright yellowish or orangey brown.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg)

@@ -76,12 +76,13 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This feathery green seaweed is sometimes seen in small patches on our Southern shores. It was also called
 *Caulerpa crassifolia*
 .
 
-**Features:**
+## Features
+
 A feather-like structure about 2cm long. The mid-rib or central 'stem' of the feathery structure is flat and usually with a width wider or the same as the length of the side 'branches'. The side 'branches' are short, flat and have rounded to bluntly pointed tips. These little feathery structures emerge along the length of a 'stem' that creeps over hard surfaces or just under the sand.
 Colours generally bright green.
 

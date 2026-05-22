@@ -58,12 +58,13 @@ links_references: |
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
-**Where seen?**
+## Where seen?
 This tree is commonly seen in our mangroves. According to Giesen, it is more tolerant of sandy and firmer substrates than
 *Rhizophora apiculata*
 but is seldom found far from tidal water. Grows best in deeply inundated areas on firm soils. According to Hsuan Keng, the tree was recorded in all our mangroves including Jurong, Bajau, Changi, Kranji and Pulau Brani. Another local name for the tree was 'Belukup'. 'Kurap' is the Malay name for a scaly skin disease in humans and may refer to the pimply texture of the propagules.
 
-**Features:**
+## Features
+
 Tree up to 15m tall, but usually shorter, rarely more than 3m. Bark dark almost black, horizontally fissured. Has aerial roots growing from the lower branches, as well as stilt roots from the trunk.
 
 Leaves eye-shaped (8-15cm long), shiny green, leathery, larger than

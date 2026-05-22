@@ -170,10 +170,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small black nudibranch with pink bumps is among the more commonly encountered on our Southern shores, near coral rubble and reefs.
 
-**Features:**
+## Features
+
 4-5 cm long. Body long, hard with bumps (called tubercles) that are evenly distributed throughout its body (not clustered in groups or in ridges along the body). The bumps are tall and rounded, are pink to red near the tips, but black where they join the body. The short rhinophores are black. When disturbed, it secretes a milky substance. The broad foot on the underside is bluish and does not have a line along the centre.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -87,10 +87,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This palm that seems to lack a trunk is sometimes seen in our mangroves. In some places, they form huge stands, in others, they occur in small clumps. In the past, it was found in tidal rivers often forming large colonies. It is generally found in calm estuaries and shallow lagoons with permanent and high inflows of freshwater. It does not occur on shores exposed to waves or in areas with high salinity, and is also not found far beyond the intertidal influence.
 
-**Features:**
+## Features
+
 Palm-shaped leaves very long (5-9m). The base of the frond is filled with air so it can remain upright even when submerged. The 'stem' of this palm is mostly horizontal and even underground. Thus called the rhizome, this is very stout (up to 70cm in diameter), creeping in mud, with diagonal leaf scars. The portion of the stem that is vertical is very short. Shoots emerge along the stem, each bearing the long leaves. Pure stands of these palms often appear because of their growth habit from underground stems. The massive, dense underground stem and root system can resist swift running water better than most other mangrove species.
 
 Flowers appear on a long stalk (1m), as an inflorescence. Female flowers are encased in bracts and resemble a cone. Male flowers appear as a long spike and when ripe is golden yellow with sticky pollen.

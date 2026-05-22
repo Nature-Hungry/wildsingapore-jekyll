@@ -97,7 +97,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Among our favourite seafood, prawns and shrimps come in various sizes and colours. Close observation is needed to appreciate their delicate patterns and colours, and amusing behaviour. Prawns and shrimps are common on almost every shore. However, they are difficult to spot as they are often small, and hide in burrows or just beneath the sand. Even those in plain sight disappear from view as many are nearly transparent. They are adapted for bottom dwelling.
 
 **What are prawns and shrimps?**
@@ -107,7 +107,8 @@ that belong to various groups in the larger Order
 [Decapoda](../../decapoda.md)
 . There are no clear scientific differences between prawns and shrimps. Generally, smaller ones are called shrimps while larger ones prawns.
 
-**Features:**
+## Features
+
 Usually less than 5cm long. Unlike crabs which have stiff shells to protect their abdomen, a shrimp has a thin, flexible shell over a long abdomen that ends in a broad fan-like tail. A quick contraction of the muscular abdomens propels the shrimp backwards. To swim slowly, the shrimp paddles with the small swimmeretes (pleopods) under the abdomen.
 
 Many shrimps are transparent, blending in wherever they are. Some may be red, a colour that is hard to distinguish in the dark or in deeper water.

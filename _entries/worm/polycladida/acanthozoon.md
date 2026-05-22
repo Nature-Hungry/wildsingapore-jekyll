@@ -180,10 +180,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Like a glittery black evening gown, this amazingly large flatworm is commonly seen especially on our Southern shores. On coral rubble, near living reefs. Seasonally, it can be plentiful, with many worms encountered during a single visit.
 
-**Features:**
+## Features
+
 8-12cm long, the worm can be as large as the palm of our hand! Body black with lots of little black bumps (known as papillae) that are yellow or orange tipped, some with a white base that gives the appearance of larger white spots. Margin white. Underside pale-whitish with a white outer margin and a black inner margin. It has a pair of small, pointed, ear-like pseudotentacles made up of simple folded edges of the body.
 The flatworm can be quite active, especially at night. Like a stealthy spotted mat, it is often seen gliding rapidly, hugging the surface closely, ruffling the body edges as it moves. One was even swimming from one seagrass blade to another, elegantly ruffling its body edges to 'fly' through the water. Sometimes, you might come across what appears to be a very large Spangled flatworm. Look closely and it will may turn out to be two such flatworms!
 

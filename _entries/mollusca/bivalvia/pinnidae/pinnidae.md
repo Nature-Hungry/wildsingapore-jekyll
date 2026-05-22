@@ -188,10 +188,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These thin, fan-shaped clams are commonly seen on some of our shores, usually near good seagrass meadows. However, they are often overlooked as most of the shell is often buried with only about 2-3cm of the shell sticking out of the ground. Their razor-sharp edges can give a nasty cut to barefoot visitors. So please always wear appropriate footwear when visiting the shores.
 
-**Features:**
+## Features
+
 10-30cm long. The fan-shaped two-part shell is thin but strong. The animal buries itself, pointed end down. Glands on the foot secret byssus threads near this buried end. These threads attach to buried rocks and stones to anchor the animal in the ground. The broader, razor sharp edge of the shell sticks out above the surface. Careless visitors who walk barefoot on the shores can get a very serious cut if they step on this sharp edge. If the edge is damaged, the animal merely repairs it so it remains razor sharp. The animal's major organs are small and located at the pointed end that is buried deep in the ground where it is difficult for most predators to reach. Fan clams are usually found well spaced apart from one another.
 
 Species are difficult to positively identify without close examination. On this website, they are grouped together for convenience of display.

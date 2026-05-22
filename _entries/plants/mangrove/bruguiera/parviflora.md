@@ -67,10 +67,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This endangered tree is rarely seen in our mangroves. According to Ng, it was only seen at Pasir Ris Park, Pulau Tekong, Pulau Unum; individuals formerly recorded at Sungei Changi seem to have died out. According to Davison, it is found on Pulau Tekong, Sungei Buloh, Pasir Ris Park and the Western Catchment. It is also found on Pulau Ubin and Chek Jawa. According to Hsuan Keng, it was found in Jurong and Ulu Pandan.
 
-**Features:**
+## Features
+
 From a slender shrub to small tree up to 5m, sometimes to 24m, in Singapore to about 15m tall. Bark grey fissured and slightly flanged base. Knee roots may be up to 30cm tall.
 
 Leaves eye-shaped (7-13cm) light green with slender petioles, arranged opposite one another. Stipules are light green.

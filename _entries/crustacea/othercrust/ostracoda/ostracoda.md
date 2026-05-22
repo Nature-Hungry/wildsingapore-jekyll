@@ -48,7 +48,7 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 Often seen on our Northern shores, usually only by the bioluminescence they produce.
 
 **What are mussel shrimps?**
@@ -58,7 +58,8 @@ like crabs and prawns. But while crabs and prawns belong to Class Malacostraca, 
 [Decapoda](../../decapoda.md)
 , mussel shrimps belong to Class Ostracoda. These tiny animals are poorly known. They are also sometimes called seed shrimps.
 
-**Features:**
+## Features
+
 0.1-0.5cm. The body is enclosed in a two-part, hinged, hard translucent 'shell', somewhat like a clam. The shell is shed with each moult. It usually has a pair of long and hairy antennae. The antennae are used for swimming, crawling or burrowing.
 
 Some can produce a blue luminous light when disturbed. And some use the bioluminescence to signal to mates, much as fireflies do. In WWII, they were collected, ground up and used as a light source by Japanese soldiers.

@@ -75,10 +75,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This spotted and striped fish is sometimes seen on our Northern shores, near coral rubble and seagrasses.
 
-**Features:**
+## Features
+
 To about 40cm, those seen about 10-20cm. It is named for its rabbit-like snout ('siganus' means 'has a nose like a rabbit') or possibly for its habit of grazing on seaweeds. It is also called Spinefoot after the spines on its pelvic fins, a unique feature of this family. It has tiny scales. It is distinguished by the many small white spots on the upper side of the body and fine longitudinal lines on the lower part of the body. The head and fins are often yellow and the tail fin is dark.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

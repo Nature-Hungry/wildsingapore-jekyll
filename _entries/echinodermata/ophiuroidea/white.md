@@ -67,12 +67,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This large brittle star is well hidden inside
 [Ball flowery soft corals](../../cnidaria/coralsoft/nepball.md)
 and often overlooked. Its white arms with markings often closely match the colours of its host.
 
-**Features:**
+## Features
+
 Central disk tiny, arms about 10-12cm long. Animal mostly white with coloured speckles, bands and markings that match its host.
 
 There may be several different kinds of brittle stars that live with these soft corals have this appearance.

@@ -83,10 +83,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This thick, neatly shaped sea star does indeed look like a biscuit in shape and colour! It is often seen on our Northern shores, larger adults on rubble, smaller ones and tiny juveniles among seagrasses, usually alone or widely spaced apart. There are times, however, when large numbers of this sea star are seen.
 
-**Features:**
+## Features
+
 Diameter with arms 5-15cm, sometimes really small ones about 2-3cm are seen. Body flat but thick. Almost always five arms, rather short with rounded tips and smooth sides (no spines) so that the sea star looks like it was cut out with a cookie-cutter! The upper side has a neat texture of rounded bumps. Colours of the upper side generally shades of brown, with regular, neat patterns of spots and bars in darker brown, yellow, orange or white. Patterns may vary among individuals. The underside is pale to white, larger ones be darker in the centre with bluish edges along the grooves where the orange tube feet emerge. The tube feet are tipped with suckers. It does not have large bivalved pedicellariae (pincer-like structures) on its underside or upper side.
 
 **What does it eat?**

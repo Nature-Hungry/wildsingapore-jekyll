@@ -250,10 +250,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This amazing large snail with spikes on its shell is often seen on our Southern shores near reefs. Although large, it is often overlooked because the upperside of the shell is very well camouflaged. Elsewhere, it is considered common on reef flats and on coral-rubble bottoms or in mangrove areas, usually associated with fine red algae on which it feeds. Often occurring in colonies. In shallow water, from low tide levels to a depth of about 5 m.
 
-**Features:**
+## Features
+
 10-20cm long. Shell thick heavy, lip flared with six spines. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits.Upperside usually well encrusted and thus blends with the surroundings. Shell opening pearly and pinkish with orange or yellow tints. Body is olive-brown with white spots. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot. The spines on the shell may improve stability and prevent the snail from toppling over as it hops.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

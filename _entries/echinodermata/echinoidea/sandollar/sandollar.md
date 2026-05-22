@@ -213,7 +213,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Sand dollars are seen on many of our sandy shores and can be particularly common on Chek Jawa, Tanah Merah and some Southern shores. Usually half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses.
 **What are sand dollars?**
 Sand dollars are animals! Seeing one for the first time, it may be hard to believe that these are living creatures. They are so flat and appear lifeless. Sand dollars belong to Phylum
@@ -222,7 +222,8 @@ and Class
 [Echinoidea](../echinoidea.md)
 which includes sea urchins and heart urchins.
 
-**Features:**
+## Features
+
 They got their name because they resemble a one-dollar coin. Like other echinoderms, sand dollars are symmetrical along five axes, and have tube feet and spines. Their flat disk-like shape is an adaptation for life on the sea bottom where they gather detritus.
 
 **Coat of spines:**

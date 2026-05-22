@@ -156,10 +156,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This saucer-shaped hard coral is sometimes seen on many of our Southern shores, on sandy shallow areas near living reefs. On some undisturbed shores, many individuals in various stages of development can be seen near one another.
 
-**Features:**
+## Features
+
 Skeleton 10-15cm in diameter, but tiny ones 1-2cm sometimes seen attached to hard surfaces. Overall shape flat, circular and convex disk somewhat like a frisbee or upside-down saucer. Upper surface with thin continuous lines radiating from the centre, in some, the lines have fine 'teeth'. Single slit-like mouth in the centre of the upper surface. Often has banded 'lips' around the mouth. Tentacles are small, fat, short, tapering, rather sparse and even when fully extended, don't obscure the skeleton. Tentacles may be extended both during the day and at night. The underside usually concave, some with radiating lines of short bumps.
 
 Large ones lie unattached, sometimes in groups of several individuals of different sizes. Small ones are seen stuck to coral rubble often in clusters of several individuals. Colours seen include beige, brown, pink, blue, purplish, greenish.

@@ -31,10 +31,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This encrusting sponge reminds of our favourite 'Milo dinosaur' beverage. It coats dead corals and rocks near the subtidal area on our Northern shores. We first started seeing this in 2012 and now encounter it commonly.
 
-**Features:**
+## Features
+
 10-15cm in diameter, small lumpy clump. Clusters of lumps with large holes. Colours bright orange.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

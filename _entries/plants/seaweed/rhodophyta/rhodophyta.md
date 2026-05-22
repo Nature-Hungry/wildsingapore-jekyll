@@ -91,12 +91,13 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Red seaweeds are found on all our shores. Some are huge red sheets often mistaken for plastic bags, others are fine feathery pink tufts. Yet others are bunches of long skinny filaments or juicy fat stems; or crunchy pink branches that form balls.
 
 Unlike brown and green seaweeds, red seaweeds are rarely found in such seasonally large numbers as to form carpets on the shores. Red seaweeds are most diverse in the seas of the tropics. A few species are also found in freshwater.
 
-**Features:**
+## Features
+
 Red seaweeds have chlorophyll but this is masked by phycocyanin and phycoerythrin, additional pigments which gives them their distinctive reddish colour. These two pigments also allow them to photosynthesise in lower light levels and thus grow in deeper waters where green seaweeds may not survive.
 
 Red seaweeds may not always be red. If the pigment phycoerythrin is destroyed, they may appear purple, brown, green, or yellow. But when held up against the light, tints of red or pink can be seen. Rhodon means 'rose' or 'red' in Greek.

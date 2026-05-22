@@ -79,10 +79,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals are sometimes seen on some of our Southern shores. Some species have tentacles with a distinctive U-shaped tip, others lack this.
 
-**Features:**
+## Features
+
 While most hard corals are best identified by looking at details of their skeleton, members of the Family Euphyllidae are more easily told apart by looking at the structure of their tentacles.
 
 The Family Euphylliidae was only established in 2000.

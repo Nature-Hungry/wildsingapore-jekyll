@@ -70,10 +70,11 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This small sea cucumber is seen stuck very firmly onto rocks in dark places, so far at Changi and Pulau Ubin.
 
-**Features:**
+## Features
+
 About 1cm long. Body oval with distinct flat underside. Upperside covered with hard calcareous plates. Colours light maroon, bright orange, brown. Much like a limpet, it clamps tightly onto a hard surface with several rows of tiny tube feet on the underside
 . Mouth and anus facing upwards on conical protrusions. When submerged, short feeding tentacles emerge from the mouth and tiny tube feet emerge all over the body.
 

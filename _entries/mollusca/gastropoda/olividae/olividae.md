@@ -109,10 +109,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These bullet-shaped snails are sometimes seen on the silty sandy shores near seagrasses. These burrowing snails are more often seen above the ground at night or with the incoming tide. They leave a typical trail on the sand surface as they burrow beneath. Elsewhere, they are common in well-aerated, clean sand.
 
-**Features:**
+## Features
+
 2-5cm. Shell cylindrical and looks like an olive. The shell opening is narrow and many members of this family do not have an operculum. Like a
 [cowrie](../cypraeidae/cypraeidae.md)
 , the living olive snail envelopes its shell in its mantle. This is why the shell is so glossy. Most are burrowers that live in the sand. Relying mostly on the sense of smell to find their prey, their eyes are greatly reduced or absent. Olive snails are notoriously variable in colour, even within the same species.

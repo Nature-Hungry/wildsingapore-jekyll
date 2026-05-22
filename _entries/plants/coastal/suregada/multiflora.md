@@ -44,14 +44,15 @@ galleries:
       caption: "References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
 ---
 
-**Where seen?**
+## Where seen?
 Several of these shrubs are planted at Changi near the Changi Jetty. According to Hsuan Keng it was found near the sea at Changi and on Pulau Ubin. According to Corners, it was common on all sandy and rocky coasts of Malaya and was rarely found inland. It was previously known as
 *Gelonium glomerulatum*
 and Corners called it
 *S. glomerulata*
 .
 
-**Features:**
+## Features
+
 A small tree. Fleshy leaves narrow and oval (5-7cm). Flowers small in clusters, male flowers a little larger than the female flowers.
 Fruits resemble small limes (1-2cm), with three 'shoulders', green turning bright orange and splitting revealing the thin white pulp surrounding blackish brown seeds.
 

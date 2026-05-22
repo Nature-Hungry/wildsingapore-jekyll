@@ -103,10 +103,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with long-bodied polyps is commonly seen on many of our reefs, including those on our Northern shores. Although it is more common on our Southern shores, where clusters of the coral can form quite a large clump.
 
-**Features:**
+## Features
+
 Colonies clusters of short, fat columns with rounded tops, each about 10-15cm in diameter. The polyps may be large (0.5-1cm in diameter). The polyps have 24 tentacles and are usually extended when submerged, even in daylight. Some may have long skinny tentacles, others have short and fat ones. The body column can be very long (2-5cm). The polyps can retract completely into the skeleton, revealing the small corallites (0.5cm) circular or polygonal holes packed close to one another. Colours seen include shades of purple, pink, brown and blue.
 
 **May be mistaken for**

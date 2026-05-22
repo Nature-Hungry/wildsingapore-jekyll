@@ -112,10 +112,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This woolly branching organism is sometimes seen on our Southern shores, growing on coral rubble. It looks like a sponge, complete with holes along the 'stems'. It can form large tangles, and even clusters that stand upright even out of water.
 
-**Features:**
+## Features
+
 The entire organism can be about 20-30cm across, with 'stems' about 1-1.5cm wide. The 'stems' solid often dividing frequently to form large spreading mats. Tips usually y-shaped. Each 'stem' is made up of fine, branched filaments that are packed together to form structures that feel woolly, velvety, spongey or felt-like. There are tiny holes along the 'stems'. Light to dark green.
 
 This organism is actually a symbiotic combination of an algae (

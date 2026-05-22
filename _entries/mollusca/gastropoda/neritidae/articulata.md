@@ -101,14 +101,15 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This snail in a pin-striped suit is commonly seen in mangroves, often in large numbers. It may also be seen on rocky shores especially those near mangroves, on many of our shores. According to Tan & Clements, the Lined nerite is probably the most widely distributed of our nerites. Although also commonly seen on seawalls, it is most abundant in monsoon canals walls and mangrove trees, sometimes numbering in the hundreds in a single location. It is also known as
 *Nerita lineata*
 or
 *N. balteata*
 . Sites included many mainland shores, as well as Pulau Ubin and Pulau Semakau.
 
-**Features:**
+## Features
+
 2-3cm. Shell thick heavy oval, spire does not stick out. Shell pattern beige, greyish or pinkish with fine, spiralling black ribs. The flat underside is smooth, white, sometimes with yellow patches. Small notched 'teeth', usually three, on the straight edge at the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish with black blotches. Body pale with fine black bands on the foot and long thin black tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

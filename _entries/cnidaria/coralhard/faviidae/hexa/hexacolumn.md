@@ -122,10 +122,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Hard corals with irregular jutting out lumps of angular corallites are often seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-20cm encrusting or slightly dome-shaped, with untidy lumps or columns of jutting, angular corallites. The corallites (1-1.5cm) have shared thick walls and form irregular cells of different shapes and sizes, but generally with sharp angles and about six sides. The result is a rather irregular pattern of polygons. Tentacles are seldom seen. Colony colours seen include brown, blue, purple and green. Sometimes, corallite centres in a contrasting colour.
 
 Some species of Merulinid corals recorded for Singapore that have these patterns include:

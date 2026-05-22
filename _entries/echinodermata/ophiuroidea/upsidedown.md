@@ -71,10 +71,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This sea star with an odd preference to be upside down is sometimes seen among seaweeds and seagrasses on our Northern shores. Especially active at night. Usually seen alone.
 
-**Features:**
+## Features
+
 Disk diameter less than 1cm, arms about 5cm long. Disk thick, petal-shaped. Arms long with blunt cylindrical spines arranged all around the arms like bristles of a bottle brush. Often seen upside down and if turned the right side up will turn upside down again. This may be an adaptation to feeding on substances on the water surface?
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

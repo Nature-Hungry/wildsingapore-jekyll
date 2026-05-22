@@ -55,10 +55,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This smooth sponge forms a layer over coral rubble and is often seen on our Southern shores.
 ****
-**Features:**
+## Features
+
 A thin layer encrusting coral rubble 10-20cm. Generally a smooth layer but also often with irregular knobs, folds and lobes. Tiny circular holes at the top of folds and elsewhere. Texture glossy, rubbery with tiny bumps, visible both underwater and out of water. Usually light green, also greyish blue. Often lighter at the edges of the protruding portions.
 
 **May be confused with**

@@ -155,10 +155,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Resembling an aquatic bumble bee, fat boldly barred juveniles of this fish is sometimes seen on our Southern shores, near living corals. Larger ones are also sometimes seen. Elsewhere, they are found in silty lagoons, coastal reefs near coral outcrops and seagrass beds, near clear mangrove coasts among rubble.
 
-**Features:**
+## Features
+
 To about 11cm, those seen much smaller, about 4-6cm long. Small ones with 4 thick yellow bars and 5 thick black bars across the body. Juveniles are rather nervous and dart about quickly, making sudden changes in direction. As they grow bigger, they may have a dark black blotch on their dorsal fin, dark areas may be bluish especially at night. Adults dark with 4 yellow bars.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

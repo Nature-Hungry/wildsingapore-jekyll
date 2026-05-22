@@ -68,10 +68,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This orange sea fan with U-shaped branches that resemble a candelabra are often seen on a wide range of Northern shores, including Changi and the East Coast. On rocks and coral rubble near the low water mark.
 
-**Features:**
+## Features
+
 10-15cm tall. Colony generally branched on one plane, the branches are sparse and rather long, emerging in a U-shape so the entire colony resembles a candelabra. But some with very long stems may appear tangled. Stems cylindrical with rounded tips, all stems about the same diameter.
 Colours usually orange, although the colony may appear whitish if the polyps are fully expanded. The white polyps are relatively large (0.5cm) and emerge all around the stem. The white polyps can retract completely into the stem.
 

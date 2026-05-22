@@ -219,10 +219,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This anemone with bulbous tips is seen on our Southern shores. Usually nestled among coral rubble with the body column deep in a crevice or hole and only the tentacles sticking out. Thus, it is often mistaken for a hard coral. Sometimes, several small ones are seen clustered together. Larger ones are usually alone, and found in deeper water.
 
-**Features:**
+## Features
+
 Diameter of anemone with tentacles extended 10-20cm although large ones about 30-40cm have been seen. Tentacles 4-6cm long. The tentacles may have bulbous tips (although not always). There may be a white 'equator' around the bulbous portion. When not inflated, the tip is then blunt with a white ring where the 'equator' would be. According to Dr Fautin, the bulbous tip seems related to presence of anemonefish, and can disappear. Body column smooth with no verrucae, colour brown, reddish or orange, but is rarely seen as it is usually deeply inserted into crevices. It has a small pedal disc.
 
 **Be careful!**

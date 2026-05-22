@@ -69,7 +69,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These strangely shaped clams grow attached to
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 . They are sometimes seen on our Northern shores.
@@ -77,7 +77,8 @@ These strangely shaped clams grow attached to
 **What are winged oysters?**
 Winged oysters belong to the Family Pteriidae. , but those attached to sea fans do not produce pearls.
 
-**Features:**
+## Features
+
 2-6cm long. The two-part shell is thin, and an asymmetrical winged shape, somewhat resembling a sailing boat. Those with small shells may be shiny and smooth. Those with large shells seem to be 'hairy' and thus covered in sediments and well camouflaged. It attaches to the sea fan with strong byssus threads.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

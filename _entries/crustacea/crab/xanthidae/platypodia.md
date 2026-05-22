@@ -116,10 +116,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This brown crab with distinctive notches on the side of its body is sometimes seen on our reefs and coral rubble, usually well camouflaged.
 
-**Features:**
+## Features
+
 Body width 4-6cm. Body and claws chocolate brown and covered with large rounded bumps. Smooth sides on the body edges with regular notches highlighted in pale bars that make the creature resemble a curry puff or pie. Pincers large and thick with dark brown claws. Like other brightly coloured Xanthid crabs, it is probably
 [poisonous](xanthidae.md)
 .

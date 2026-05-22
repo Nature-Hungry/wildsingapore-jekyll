@@ -150,14 +150,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This sea cucumber is sometimes seen among seagrasses. Most regularly on Cyrene Reef, but also on Pulau Semakau. Elsewhere, it is found in shallow sheltered lagoons on sand and sometimes among rubble and coral patches. It is said to remain buried in sand during the day and only emerges at dusk. It can crawl quite rapidly over the surface, for a sea cucumber. Some consider
 *Bohadschia similis*
 and
 *Bohadschia vitiensis*
 to be the same.
 
-**Features:**
+## Features
+
 15-30cm long. Body oval, uniformly coloured with distinct upper and underside. Colours variable: may be orange, yellow, brown, pink. Underside flat, pale. Tube feet tiny dark with pointed tips, emerging from dark spots evenly scattered all over the body including underside. Underside flat pale. Mouth facing downwards with 20 short feeding tentacles, yellowish with bushy tips. When disturbed, it readily releases from its backside, large sticky white cylindrical tubes called Cuvierian tubules.
 
 **Babie cucumbers:**

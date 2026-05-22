@@ -68,11 +68,12 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This squat cowrie was seen once at Cyrene. It is was previously known as
 *Cypraea moneta.*
 Called 'money cowry' because in the past, the shells were used as currency in the Pacific and Indian Ocean.
-**Features:**
+## Features
+
 2-3cm. Shell rather irregular in shape, almost hexagonal, yellowish white with dark smudges around the humped up middle part of the shell. Underside plain white (no markings) without coloured 'teeth'. The living animal has a translucent mantle with a pattern of fine dark bars and short translucent 'hairs'.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

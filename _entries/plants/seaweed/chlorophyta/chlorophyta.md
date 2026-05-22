@@ -84,7 +84,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Green seaweeds are commonly seen on many of our shores. Some grow on boulders, coral rubble and other hard surfaces. Others are found entwined around seagrasses.
 
 Like other seaweeds, some green seaweeds are seasonal (such as
@@ -97,7 +97,8 @@ sp. or the
 *Bryopsis*
 sp.). Sometimes one kind of seaweed can be so abundant that it blankets vast areas of a shore in a green carpet. A few weeks later, the shore may be bare of this seaweed.
 
-**Features:**
+## Features
+
 Green seaweeds are, well, green! They may be grass-green or slightly greyish, but they are seldom yellowish as some red and brown seaweeds are. Green seaweeds have similar chlorophyll pigments as those found in land plants. In fact, it is widely believed that land plants arose from green algae.
 
 Green algae are found in most habitats, not just in the sea. There are about 8,000 species ranging from microscopic algae (some of which may be growing on your bathroom walls right now) to delicate freshwater weeds found in rivers and lakes, and the large green seaweeds in the sea.

@@ -70,7 +70,7 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Most people are surprised to learn that sea fans are still quite commonly seen on our shores. Large colonies may be seen on undisturbed intertidal reefs in the North. But smaller ones may be seen even on Changi and East Coast Park. Divers may encounter large sea fans on our Southern islands.
 
 **What are gorgonians?**
@@ -78,7 +78,8 @@ These beautiful delicate creatures are often mistaken for plants. Gorgonians bel
 [Phylum Cnidaria](../../cnidaria.md)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Gorgonians are members of the soft coral group (Subclass Alcyonaria/Octocorallia). There are about 18 families of gorgonians.
 
-**Features:**
+## Features
+
 A gorgonian is a colony of small polyps. Each polyps is about 0.5cm or smaller, usually white or transparent. Like other soft corals, each polyp has 8 branched tentacles.
 
 Unlike other soft corals, the gorgonian polyps are supported by a central rod made of a tough but flexible protein called gorgonin that is similar to the material produced in the horns of animals. Many species incorporate calcium into the gorgonin.

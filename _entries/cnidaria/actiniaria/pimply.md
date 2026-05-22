@@ -83,10 +83,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 These large anemones can be seen in numbers in very soft mud flats on the seaward side of mangroves and other soft silty sandy shores on our Northern shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 5-12cm. Tentacles pale, many long and tapering. Colours translucent beige or pinkish. Oral disk dark blue or black without any markings. Body column dark grey, dark blue with regular rows of large pale protruding bumps.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -95,9 +95,10 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This plain stingray with a sharp pointed snout is sometimes seen on our Northern shores, usually on muddy shores. It is more active at night and at high tide. Small ones are sometimes also seen trapped in pools in the seagrass meadows at low tide.
-**Features:**
+## Features
+
 Grows to about 25cm in diameter, those seen about 15-20cm. Body generally oval with a pointed snout. Body colour plain beige or pinkish without any markings. Tail long and whip-like without markings. It does not have a skin fold on the tail. The female has a shorter tail with a bulbous end. It has 4-6 enlarged spear-like spines on the tail which can cause a painful wound by injecting a venom.
 
 **Sometimes mistaken for**

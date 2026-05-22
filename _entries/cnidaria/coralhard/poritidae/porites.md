@@ -133,10 +133,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large coral with tiny corallites and polyps is among the most commonly encountered hard corals on many of our shores, including our Northern shores. Pore coral colonies are long-lived and can grow very large. The colonies produced by these tiny polyps can be more than 5m across! They can grow rapidly in ideal conditions. They are usually found in shallow, sunlit places.
 
-**Features:**
+## Features
+
 Colony 10-20cm, sometimes much larger. Colonies are generally boulder shaped with a smooth surface or with smooth bumps or hillocks. But the colonies can also be encrusting, lobed and branching. The tiny corallites are shallow and don't stick out of the surface. The surface thus often appears smooth with many tiny pores. Polyps are very tiny (0.1-0.2cm) with short body columns and short tentacles that are usually only extended at night. To get rid of excessive sediments, the corals may produce slime that traps sediments. The slime layer is then shed like a skin. Colours seen include yellow, brown, green, blue, purplish. Usually the colony is of one uniform colour. Pinkish patches usually suggest stressed polyps.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Coral feast:**

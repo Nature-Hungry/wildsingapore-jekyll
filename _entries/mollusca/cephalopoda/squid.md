@@ -85,7 +85,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These amazing animals are seasonally common on many of our shores. Tiny squids are also common in seagrass areas, but often overlooked. Their eggs are also seasonally seen. Although better known as seafood, these delightful creatures are equally delicious to observe, with their colour changes and busy behaviour. They are more active at night.
 
 **What are squids and cuttlefish?**
@@ -103,7 +103,8 @@ They are not fish! These animals are
 [Order Sepiolida](sepiolida.md)
 . Some small squids and cuttlefish live in the shallow areas among the seagrasses. Others live in deeper waters and may get trapped in a pool at low tide.
 
-**Features:**
+## Features
+
 From 1-2cm to about 10cm long. Compared to their more sedate cousins the slugs and snails, squids and cuttlefishes are fast-moving predators that hunt speedy prey like fish. They may also hunt snails and clams, crabs and prawns. Most have a horny bird-like beak to rip up prey.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Jet-propelled molluscs:**

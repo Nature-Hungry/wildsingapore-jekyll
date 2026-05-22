@@ -88,10 +88,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This colourful round snail is commonly seen on our rocky shores. It is often seen in large groups and is more active at night or cool days at low tide. The study by Tan & Clements (2008) found this snail on rocks, breakwaters, and seawalls. Sites included: Pulau Ubin, Changi, Tanah Merah, Marina South, Labrador, Sentosa, Pulau Bukom, St. John's Island, Pulau Hantu, Pulau Semakau, Pulau Salu, Tuas.
 
-**Features:**
+## Features
+
 2.5-3.5cm. Shell thick heavy, hemispherical, spire sticks out a little. Thick, spiralling ribs, smooth and regularly spaced. Unlike its reptile namesake the Chameleon, this snail can't change the colour of its shell. But different individual snails on the shore may each have different shell colours and patterns, including some bright colours such as orange.
 
 The flat underside white, some have ridges and a few small rounded bumps. Small ridged 'teeth' (2-4) on the straight edge at the shell opening. Larger shells often with at least one large rounded 'tooth' on one side of the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish with darkish portion. Body pale with fine black bands on the foot and long thin black tentacles.

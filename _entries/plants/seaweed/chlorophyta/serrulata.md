@@ -121,10 +121,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This coiled, serrated seaweed is sometimes seen on some of our shores, growing in small clumps on coral rubble.
 
-**Features:**
+## Features
+
 4-6cm long, but often tightly coiled and thus shorter. The central 'stem' is strap-like, flat but thick. The 'stem' has serrated edges of blunt spikes. In some, the 'stem' is tightly coiled. These spiky strap-like structures emerge along the length of a horizontal 'stem' that creeps over hard surfaces or just under the sand. Usually bluish- or greyish-green.
 
 **Sometimes confused with**

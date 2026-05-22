@@ -91,10 +91,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This medium-sized mudskipper is sometimes seen in some of our mangroves. It is also called the Barred mudskipper.
 
-**Features:**
+## Features
+
 4-6cm, to about 9cm long, it has bright silvery fine vertical bars along the sides of the body. More about
 [how to tell apart small mudskippers](cfmudsmall.md)
 commonly found on our shores.

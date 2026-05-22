@@ -88,10 +88,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This odd seaweed is sometimes seen on some of our Southern shores, in small clumps of a few blades, attached to coral rubble near reefs.
 
-**Features:**
+## Features
+
 Cluster of a few circular fan-shaped blades about 5-8cm across, smooth and solid, unperforated at the base, a lacy net-like mesh at the outer edges which are often ruffled. Sometimes, with little balls attached to the lacy surface. Young blades mostly solid and not lacy. Colours beige or bright green with tinges of lilac or blue.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg)

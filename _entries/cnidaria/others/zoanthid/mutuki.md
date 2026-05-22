@@ -126,10 +126,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Like a cluster of little brown anemones, this animal is often seen on many of our shores. On coral rubble and among seagrasses in large seagrass meadows.
 
-**Features:**
+## Features
+
 Colonies generally 5-10cm, each polyp about 1-2cm in diameter with a wide oral disk on a long stout body column. This zoanthid incorporates sand in its body so the body column feels rough to the touch. The wide oral disk has furrows that radiate from the mouth to the edge of the disk. Sometimes with one white furrow so the disk appears to have one split. Relatively short tapered tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The polyps are not embedded in a thick common tissue but are joined to one another at the base by underground stems (called stolons).The long body column raises the oral disk above the common tissue. Broad zoanthids can multiply by budding. They are found in small clumps of a few to many individuals. Body column usually beige or brown, oral disk usually brown, sometimes shades of green or bright blue.

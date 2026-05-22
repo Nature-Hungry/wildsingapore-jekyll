@@ -62,12 +62,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This shrub with pink star-shaped flowers, and colourful leaves and berries is now widely planted in our coastal parks. In the wild, it is found in tidal swamps, muddy and sandy river banks of tidal estuaries, usually in places only occasionally flooded at the highest tides. It was previously known as
 *Ardisia littoralis*
 .
 
-**Features:**
+## Features
+
 A shrub growing to 5m tall, with a single stem producing short perpendicular branches. Leaves eye-shaped (10cm long) leathery with veins hardly visible, arranged in a spiral. Young leaves somewhat pinkish. Twigs are swollen at the base and easily detached. Flowers small (1cm across) star-shaped, with five petals white or pink, in a cluster of 6-8 flowers. Fruit small (0.5-1cm) green berries ripening red to black. 'Mata pelandok' in Malay means 'Eye of the mousedeer' probably referring to its ripe black fruits. It is also called 'Mata ayam' or 'Eye of the chicken' and 'Mata itek' or 'Eye of the duck'.
 
 According to Tomlinson, from the structure of the flowers and the fact that these produce nectar and a fragrance, the plant seems to be pollinated by insects. But there are no records of flower visitors. It is said that birds and other small fruit-eating mammals eat the fruits.

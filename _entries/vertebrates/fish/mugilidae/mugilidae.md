@@ -143,13 +143,14 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny plump fish is commonly seen on many of our shores. Often in small groups of 5 or so, in rock pools or pools in sandy areas. They are probably juvenile mullets. Larger adults are often seen in schools at high tide from boardwalks and jetties. Mullets are farmed in cages in the West Johor Strait, so during mass fish deaths, they often wash up in large numbers.
 
 **What are mullets?**
 Mullets belong to Family Mugilidae. According to FishBase: the family has 17 genera and 72 species. They are found in tropical and temperate seas. Species can look very similar and are hard to tell apart in the field. Some can reach 90cm long.
 
-**Features:**
+## Features
+
 On the intertidal, tiny to small juveniles (1-4cm) can be seen. Body long and cylindrical with a broad flat blunt head and a small mouth. Two dorsal fins, wide apart from one another. Colour generally silvery, some with stripes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

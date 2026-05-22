@@ -70,10 +70,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This veined strap-like brown seaweed is often seen on some of our Southern shores, attached to coral rubble.
 
-**Features:**
+## Features
+
 Clumps of flat blades about 1-2cm wide and 10cm long. The narrow strap-like blades branch regularly near on the same plane into flat strips of about equal width. There is an obvious 'mid-rib vein' down the centre of the blade up to the tips, which may be paler. Colours brown, yellowish brown or olive brown.
 
 According to

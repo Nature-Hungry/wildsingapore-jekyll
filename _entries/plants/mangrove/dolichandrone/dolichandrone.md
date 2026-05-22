@@ -78,12 +78,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 Several of these beautiful trees have been replanted at Sungei Buloh Wetland Reserve, Pulau Ubin and our coastal parks. According to Ng, it is confined to the back-mangrove zone and banks of tidal rivers and estuaries. The trees at Changi Point, Pulau Sakeng and sluice gates of Sungei Jurong were destroyed with recent development. According to Hsuan Keng, it was formerly common along our tidal rivers including Punggol, Bajau, Pulau Ubin, Pulau Tekong and Tanjung Gul. According to Corners, it is considered common in Malaya. According to Tomlinson, it has the widest range of the
 *Dolichandrone*
 and frequently found in the back mangroves which are flooded at the highest tides. Typically, it grows in swampy or beach communities such as dunes or on river banks.
 
-**Features:**
+## Features
+
 A shrub or tree that grows to 5-20m tall. Old trees have massive trunks that are fluted at the base. Trunk cylindrical, short and often crooked. Bark grey to dark brown, shallowly ridged and fissured, slightly scaly.
 
 Compound leaves made up of 2-4 pairs of leaflets eye-shaped (6-20cm long) thin arranged opposite one another. Generally 3 pairs of leaflets with a leaflet at the tip. Young leaves are slightly pinkish and somewhat sticky. At times the tree may be nearly leafless.

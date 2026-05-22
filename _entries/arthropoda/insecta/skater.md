@@ -49,10 +49,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These tiny insects 'walk' on the water surface and are also called water striders or coral bugs. They belong to the Order Hemiptera (true bugs) and are among the few true insects that live in the sea. Most species live along the coast but a few species live totally out in the open ocean, not coming to shore.
 
-**Features:**
+## Features
+
 Body less than 1cm long. The insect is covered with elaborate layers of microscopic hairs that traps air. Thus if the insect is splashed or dunked in water, it has a kind of 'life vest' of air so it bobs up to the water surface unharmed. The insect can 'walk' on water because the long legs redistribute its body weight and the hairs on the legs repels water so the insect does not break the water surface tension. In fact, besides skimming on the water, the insect can jump off the water surface too!
 
 The short front legs are used to capture and hold prey, or to grasp the female during mating. The long middle legs are used like oars, while the last long legs are used to steer.

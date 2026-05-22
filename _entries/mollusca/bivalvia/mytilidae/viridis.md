@@ -116,10 +116,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This edible clam is sometimes very common on our Northern shores, forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted to waters that are murky and sediment laden.
 
-**Features:**
+## Features
+
 5-8cm. The two-part shell is thin, smooth. Young clams often all bright green, older clams usually brownish edged in green. The animal attaches to hard surfaces with byssus threads, usually in clusters of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

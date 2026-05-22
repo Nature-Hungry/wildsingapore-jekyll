@@ -148,10 +148,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These tiny, slow-moving crabs look like bits of dirt or junk among seaweeds. Look very carefully to find them. Elbow crabs are commonly seen on our Northern shores, among seagrasses and seaweeds.
 
-**Features:**
+## Features
+
 Body width 1-2cm. An obvious feature of the crab (once you can actually see the crab) is its elbows: highly elongated large pincers that stick way out from the sides of its body. The upper finger is moveable and curved towards the immobile lower finger. Males may have larger pincers than females. The thin walking legs are small and have pointed tips. Body somewhat triangular or pentangonal, with eyes at the pointed tip. The crab's body and claws may be fuzzy or bumpy and coloured the same as mud or sand. Some have fluffy growths and other encrustations, even
 [keelworms](../../../worm/polychaeta/serpulidae.md)
 growing on the body and arms.

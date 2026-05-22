@@ -77,12 +77,13 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 Displayed on this page are tiny crabs commonly seen at low tide, huddling together on rocks or among seagrasses and on sand. Often, in a heap of tiny but different kinds of shells. Many but not all of these hermit crabs may be
 *Diogenes*
 sp.
 
-**Features:**
+## Features
+
 Body about 1cm long or smaller. The left pincer is usually much larger than the right.
 Body and limbs hairy to slightly hairy. Colour grey, brown or white. Legs with bands.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

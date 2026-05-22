@@ -92,11 +92,12 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This long leaping mudskipper has so far only be seen at Pasir Ris and Chek Jawa. Its preferred habitat is soft liquid mud where it often squirms rapidly in a snake-like manner.
 According to FishBase it is intertidal and found on sand and mud flats along bay shores. Also in estuarine areas, swamps, marshy areas and on tidal mud flats. It actively shuttles back and forth between rock pools and air.
 
-**Features:**
+## Features
+
 To about 14cm long, those seen about 7-10cm. Scales are tiny and partly embedded and thus not visible with the naked eye. The skin on the top of the head and on the back is full of blood vessels allowing the fish to respire through the skin. The first dorsal fin is tall and mast-like. Tail fin quite large and long.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

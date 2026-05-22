@@ -114,12 +114,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This moon snail with a spotted shell and intricately patterned body is sometimes seen on clean sandy shores on some of our Southern shores. Elsewhere it is found offshore on sandy bottoms. It was previously called
 *Natica onca*
 .
 
-**Features:**
+## Features
+
 1.5-2cm. Shell smooth thick spherical (not flat) with the spiral tip sticking out a little. Shell pattern beige usually with 5 spirals - white with dark brown bars, sometimes the white is not so obvious. On the underside, a small circular depression. Operculum plain pearly white (no markings), with several fine grooves. Foot transparent with a white margin and a pattern of white bars and red spots, front part of the body white with four wide red or orange bands (which appear as large spots when the animal is fully expanded). Tentacles short, red.
 
 **Snail takeaway?**

@@ -134,7 +134,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful feathery green seaweed is commonly seen on many of our shores, growing on coral rubble and sometimes spreading out on sandy bottoms. Usually found in clumps, which can cover an area of about 40-50cm. But it does not blanket the shore like other seasonally abundant seaweeds.
 
 **Features**

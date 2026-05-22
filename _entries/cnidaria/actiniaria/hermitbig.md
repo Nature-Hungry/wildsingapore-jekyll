@@ -82,12 +82,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This rather large anemone is sometimes seen on shells occupied by
 [hermit crabs](../../crustacea/othercrust/anomura/hermit/hermit.md)
 on our Northern shores. The anemone is sometimes many times larger than the hermit crab! It is also seen attached to rocks and other small rubble, rubbish with a hard surface, as well as living snails.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 2-3cm. Many short tapering tentacles. Some with opaque tentacles with dark base and paler tips, others with semi-transparent or beige tentacles with faint bands. Oral disk with radiating fine white stripes. Body column is thick, long with tiny bumps (verrucae) in regular bands. The body column usually covered with sediment.
 
 [Small anemones](hermitsmall.md)

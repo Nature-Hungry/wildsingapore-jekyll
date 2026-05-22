@@ -83,10 +83,11 @@ galleries:
       caption: "Links Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. Bruguiera hainesii on the Total Vascular Flora of Singapore Online: photos and fact sheet. Bruguiera hainesii on the NParks Flora and Fauna website: photos and fact sheet. Bruguiera hainesii on the IUCN Red List: detailed fact sheet. On the wild shores of singapore blog Mangroves of the world and Singapore IUCN features Singapore's rare mangrove tree Rare mangroves at Kranji, with special find? first encounter with the tree at Kranji. Homage to the hainesii revisiting the tree at Kranji References Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005. The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially on the New Record and the Rediscovery . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research website). Tomlinson, P. B., 1986. The Botany of Mangroves Cambridge University Press. USA. 419 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful mangrove tree is rare in Singapore, with only a few known specimens; one at Pasir Ris, one at Kranji Nature Trail and two at Pulau Ubin. According to Tomlinson, it is infrequent on the inland side of the mangroves in regions not regularly flushed by normal tides. According to Giersen, occurs on the landward margins of mangroves in relatively dry areas that are only inundated during the spring tides. Globally, it is considered "very rare" with "a limited and patchy distribution" with approximately 200 known mature trees. According to Tomlinson, it is widely distributed from south Myanmar and Thailand through the Malay archipelago to Papua New Guinea but it has not been recorded from Queensland. It is also known as Berus mata buaya.
 
-**Features:**
+## Features
+
 Tall tree to 33m with a trunk up to 70cm in diameter. Bark brown to grey with yellowish brown pimples (lenticels) from top to base, sometimes smooth. Short buttress often with lenticels, and knee roots.
 
 Leaves eye-shaped (9-16cm long) stiff leathery glossy, arranged opposite one another.

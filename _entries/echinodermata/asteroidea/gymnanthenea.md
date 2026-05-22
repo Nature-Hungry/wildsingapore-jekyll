@@ -134,10 +134,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This sea star is sometimes seen, usually on our Northern shores. In seagrass meadows and coral rubble.
 
-**Features:**
+## Features
+
 Diameter with arms 7-15cm. Usually five arms long with rounded tips. The body is bordered by large, block-like scalloped plates with huge pedicellaria (pincer-like structures), with many spiny bumps along the arms. On the upper side, there are many spiny bumps, sometimes with very lage flat plate-like spines. Colours seen generally mottled brown or grey, sometimes with orange arm tips. Bright orange ones are sometimes seen. The underside is pale usually without any patterns. Each plate on the underside has huge bivalved pedicellaria (pincer-like structures). The pale tube feet are tipped with suckers.
 
 **Sometimes confused with**

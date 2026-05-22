@@ -55,10 +55,11 @@ links_references: |
   Keystone Books. 194pp.
 ---
 
-**Where seen?**
+## Where seen?
 These large paddle-shaped velvety green seaweeds are sometimes seen on some of our shores. Solitary ones might be seen sticking out of the ground here and there in coral rubble areas. Others may form clusters.
 
-**Features:**
+## Features
+
 The blade is flat and not ruffled. The flexible blade is made up of a tangle of tiny filaments that give it a velvety texture. The paddle-shaped blade is held up on a stiff stalk that may be buried in sand or wedged into crevices.
 The stalk can be quite long with only a short portion sticking out above the surface.
 

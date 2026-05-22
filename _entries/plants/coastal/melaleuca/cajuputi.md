@@ -45,12 +45,13 @@ galleries:
       caption: "References Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks Board. 202 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This native tree is the source of a medicinal oil called cajuput oil. Some trees are planted at Chek Jawa. According to Corners, it was common in Malaya, "especially in swampy ground near the coasts." According to Hsuan Keng, Ridley observed that "Kampong Gelam may perhaps have taken its name from trees formely growing here". It was also found in Seletar. Also referred to as
 *M. leucadendron*
 .
 
-**Features:**
+## Features
+
 A tall tree (15-20m) with a narrow, dense crown. Leaves (5-9cm long) dull green, thick, leathery smooth, oval or elongated with 5-7 longitudinal veins. The leaves resemble those of an
 *Acacia*
 . The leaves give off a typical 'tea-tree' smell when crushed. Tiny flowers are creamy-yellow emerging on a long spike in the shape of a bottle-brush. New leaves grow on the flower spike. Fruits are round brown woody capsules in tight clusters and may remain on the tree for several years. They split open to reveal minute brown seeds.

@@ -72,10 +72,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This climber with distinctive horn-like fruits is rarely seen. According to Hsuan Keng, it is found in mangroves and tidal river banks including at Kranji and Geylang. Ang et al have found it in some of our remaining mangroves. Generally uncommon in global distribution, but where they occur, they can be common. Usually found in mangroves and on borders of tidal creeks and fishponds.
 
-**Features:**
+## Features
+
 A slender, woody climber up to 5m long. Scrambling and draping over mangrove trees. Bark pale, warty and papery. A white latex oozes out of all broken plant parts.
 
 Leaves spoon-shaped with tiny pointed tip (5-10cm) fleshy glossy green, arranged opposite one another.

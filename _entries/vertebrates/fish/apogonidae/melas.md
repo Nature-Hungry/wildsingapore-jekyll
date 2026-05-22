@@ -118,12 +118,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small black fish with rounded fins and tail is sometimes seen on our Southern shores, near living reefs. Elsewhere, it is seen in shallow well protected coastal bays, commonly found under jetties, hiding in dark areas, also in inshore rocky areas and among branching coral. It was previously known as
 *Apogon melas*
 .
 
-**Features:**
+## Features
+
 To 10cm, those seen usually about 2-4cm. Body rounded with fins that are all rounded, including the tail fins. Whole body dark. Distinguished by a pale-edged dark spot at the base of the second dorsal fin. Tiny fish with a similar shape but only dark in the front portion, might they be juveniles?
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -136,10 +136,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This colourful swimming crab with bright blue spines is commonly seen on many of our shores, especially those with coral rubble and reefs. It is particularly active at night.
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body rectangular, body sides with 5 bright blue-black tipped spines, the fourth spine is much tinier than the others so it may appear to have only 4 spines. The eyes are wide apart. Between the eyes are 6 rounded equal-sized lobes. Last pair of legs are paddle-shaped. The pincers also have bright blue-black tipped spines. Body is not very hairy, usually smooth and shiny, colours usually yellowish, orange with brown blotches.
 
 Thanks to comments by Ondrej Radosta on

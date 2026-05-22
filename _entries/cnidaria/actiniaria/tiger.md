@@ -80,10 +80,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This large strikingly banded anemone with a red-spotted body is commonly seen on Changi, and sometimes in other Northern shores. In soft silty sand, and sandy areas among seagrasses. This sea anemone was first described from Singapore in 2023 and named in honour of the late Emeritus Professor Daphne Gail Fautin. Throughout her career, she had worked tirelessly to advance the knowledge of sea anemones, and she spent much time in Singapore studying our sea anemones and sharing and training scientists and volunteers here.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 6-10cm. One ring of many thick, tapered, smooth tentacles with a banded pattern that resembles tiger stripes. Colours are mostly brown, beige sometimes with a tinge of orange or purple. Near the mouth, there is usually a pair of bright maroon, red or orange spots and sometimes, a ring of several white spots around the mouth. The pale body column has rows of red-tipped bumps. These are perforated, lobe-like verrucae, and water squirts out of the bumps like from a watering can the anemone contracts its body. With its tentacles tucked into its rounded body, the anemone looks like a bizarre strawberry - so it is sometimes also called the Strawberry anemone.
 
 **What does it eat?**

@@ -88,10 +88,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This green seaweed with small fleshy 'umbrellas' is commonly seen on some of our shores, growing on coral rubble near reefs.
 
-**Features:**
+## Features
+
 The seaweed has structures that look like fleshy umbrellas; with a thick circular portion (about 1-1.5cm across) on a little stalk. These little umbrellas emerge along the length of a 'horizontal root' that creeps over the surface. Some form loose clusters. Bright yellow-green to bluish-green.
 
 On the reefs of our Southern Islands, a similar seaweed with

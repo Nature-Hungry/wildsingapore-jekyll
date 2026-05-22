@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This is the smaller of our horseshoe crabs. It is sometimes encountered in our northern shores, in mudflats, mangroves and shores nearby.
 
-**Features:**
+## Features
+
 Diameter to about 15cm. The circular shell is brownish. Identified by shorter spines on the side of the body, the tail is circular in cross-section near where it joins the body, without a groove on the underside and without spines on the upperside. The male's special legs for holding on to the female has two 'fingers'.
 
 The underside is sometimes encrusted with

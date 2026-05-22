@@ -133,10 +133,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large nudibranch is sometimes seen near living reefs on some of our Southern shores. It may be seasonal: when seen, often many individuals are spotted during the same trip.
 
-**Features:**
+## Features
+
 10-12cm long. Flat stiff body white, finely granular surface with lots of tiny brown raised pimples. There are orange edges of the body and foot, and the openings where the large rhinophores and feathery gills emerge. The underside is plain white with a narrow foot and small oral tentacles. It can drop off portions of its body mantle when alarmed. So don't handle it.
 
 **What does it eat?**

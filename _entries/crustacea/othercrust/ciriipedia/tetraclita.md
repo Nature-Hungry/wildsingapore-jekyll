@@ -87,10 +87,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These large smooth barnacles are sometimes seen on our rocky shores, on large boulders where there is more water movement and where they are shaded from the sun at low tide.
 
-**Features:**
+## Features
+
 To about 3cm across. Outer shell thick, smoothly conical and not made up of plates. The outer shell has a ridged patten of bumps or short lines. The shell opening is rather small and the operculum recessed. Some were seen with an operculum with a pointed tip. The thick shell has an air-filled, honey-comb internal structure. This provides strength as well as insulation from the heat when exposed at low tide.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

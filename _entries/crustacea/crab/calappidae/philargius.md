@@ -113,10 +113,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This large boxy crab with four big spots on its flat pincers is sometimes seen on the sandy shores near seagrass areas on our Northern shores. It is more active at night and are rarely seen by daytime visitors as it is then usually buried in the sediments. Once, several pairs were seen half buried near one another.
 
-**Features:**
+## Features
+
 Body width 8-10cm. It does look rather box-like with a semi-circular body and wing-like extensions on the sides and back that cover part of the walking legs. The adult Spotted box crab has a total of six spots: two dark spots on each pincer and a dark ring around each eye. Small ones may have only one spot in the middle of the body just behind the eyes. It holds its pincers in front of its body to form a boxy shape. So it is sometimes also called the Shame-face crab as it appears to be covering its face in shame. The inner part of the flat pincers have striking brown patterns.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**

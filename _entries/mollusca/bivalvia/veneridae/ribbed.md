@@ -108,11 +108,12 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small sturdy clam with a ribbed pattern is sometimes seen on some of our Southern shores, usually alone on sandy areas in calm lagoons near seagrasses.
 Elsewhere, they are found on intertidal shores with coarse sand.
 
-**Features:**
+## Features
+
 3-4cm in diameter. Shell circular with a straight portion on one side. The shell has thick 'ribs' made of up large squarish beads. Usually plain white without any patterns, although there may be irregular blotches which seem to be discoloration or algae growth.
 
 *Gafrarium tumidum*

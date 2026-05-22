@@ -85,10 +85,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small twig-like fish is sometimes seen near seagrasses in our Southern shores. Often in small groups of a handful of individuals. Floating on the surface, they are often dismissed as twigs or floating rubbish. However, they quickly dart away when they sense danger.
 
-**Features:**
+## Features
+
 Those seen about 2-3cm long, sometimes up to 5cm. Body short and cylindrical, usually brown with bars or speckles. Upper jaw short with rounded tip. Lower jaw broad and not very elongated, often flared at the tip into irregular shapes that resembles a dead leaf. The shadow cast by the fish does resemble a twig. Dorsal fin dark.
 
 The fishes grouped here may be different species.

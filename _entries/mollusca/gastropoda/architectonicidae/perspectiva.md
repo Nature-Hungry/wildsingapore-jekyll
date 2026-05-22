@@ -104,10 +104,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This cicular snail with a mesmerising spiral is sometimes encountered on our Southern shores on sandy areas near reefs. Elsewhere, it is considered moderately common and usually found subtidally on sandy and muddy bottoms, from depths of 10 to 120m, mostly between 10 and 65m.
 
-**Features:**
+## Features
+
 5-7cm in diameter. Shell thick and coils to form a disc with a flat base. Shell pattern of spirals in white, black and shades of brown. Body and fat tentacles are striped too, to match the shell. The operculum thin, flat and made of a horn-like material.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

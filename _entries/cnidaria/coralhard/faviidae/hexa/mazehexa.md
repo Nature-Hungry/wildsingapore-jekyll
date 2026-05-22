@@ -160,10 +160,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Hard corals with irregular hexagonal favid corallites are commonly seen on many of our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-20cm, sometimes larger. The colony is generally a smooth boulder shape, but somewhat irregular and not perfectly spherical. Some form an encrusting hemi-spherical colony. The corallites have shared walls and form irregular cells of different shapes and sizes, but generally with about six sides. The result is a rather irregular pattern of hexagons or short angular shapes. In some, the walls are tall and thin. Those seen with tentacles extended had medium length tentacles with rounded tips. Colony colours seen include brown, green, blue and purple, usually in pastel shades.
 
 Some species of corals recorded for Singapore that have these patterns include:

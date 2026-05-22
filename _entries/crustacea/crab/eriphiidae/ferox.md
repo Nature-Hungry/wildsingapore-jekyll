@@ -212,10 +212,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This energetic crab with bright red eyes is often seen on our Southern shores clambering among boulders at night. Also on coral rubble and under stones. Sometimes also seen on undisturbed rocky shores of our Northern shores. It is rarely seen out and about during daylight. 'Ferox' in Latin means 'ferocious' or wild and untamed.
 
-**Features:**
+## Features
+
 5-7cm. Body oval, with several (about 6) tiny teeth at the edges near the eyes. Upper surface covered with pimples. Reddish to purplish brown. Large pincers covered with pimples with reddish brown tips. One of its pincers is enlarged and armed with a molar-like 'tooth' to crush snail shells. The other pincer has slim 'fingers' that act like chopsticks to remove the snail after its shell is crushed. Walking legs sparsely hairy. Eyes bright red. It is fast moving and can be aggressive if it is cornered.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 According to the Singapore Red Data Book, this crab had been known for a long time as

@@ -72,10 +72,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small snail is often seen on many of our rocky shores. At low tide, it is usually seen in groups wedged into crevices and cracks in rocks. At night and on cool, rainy days, they actively move about in large numbers on the rocks or among seaweeds growing on the rocks.
 ****
-**Features:**
+## Features
+
 0.8-1cm. Shells thin and smooth with fine grooves. Colours variable from black to light with brown speckles or stripes.
 Operculum thin, circular, brown and made from a horn-like material. The animal has short tentacles.
 

@@ -152,10 +152,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 These fast moving sea stars are commonly encountered on our Northern shores. In sandy or silty shores. They usually remain buried in the sand during the day and emerge to forage at sunset. But they are sometimes seen foraging over the ground on a cool morning or late afternoon.
 
-**Features:**
+## Features
+
 Diameter with arms 5-10cm.
 Arms long and tapered. There are particularly long stout flat spines along the sides of their arms. These spines are harmless (not toxic) and probably help them to burrow more quickly into the sand. These spines resemble the teeth of a comb and members of this family are sometimes called Comb sea stars.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

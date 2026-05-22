@@ -32,10 +32,11 @@ galleries:
       caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 A large specimen was seen sprawled over the natural cliffs at Lazarus Island. According to Corners, it was found in lowland forests, along rivers and seashores. According to Hsuan Keng, it was found in Bukit Timah.
 
-**Features:**
+## Features
+
 A strangling fig that grows as a shrub. According to Corners, it is rarely large and "seldom standing without its host". Leaves stiff and leathery (7-27cm long), broad, oval with rounded or slightly pointed tip, base tapered or slightly heart-shaped, and 5-10 pairs of conspicuous veins. Young leaves and twigs have dense brown hair which makes them feel woolly. Mature leaves have fine brown scrufy hair on the underside. The figs are small (1-1.5cm) covered with brown hairs and have a characteristic circle of pink around the opening (ostiole). They ripen orange-red, and appear in pairs in the leaf axils. According to Corners, the plant only produces its first crop of figs when it is 8-9 years old.
 
 Human uses: According to Burkill, like the

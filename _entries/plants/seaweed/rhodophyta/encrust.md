@@ -123,10 +123,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Thin pink layers of these algae are commonly seen encrusting stones, coral rubble and other hard surfaces, especially on our Southern shores.
 
-**Features:**
+## Features
+
 This algae covers hard surfaces in a thin, hard slow growing layer. It grows on things like stones, coral rubble, litter such as discarded bottles and washed up pieces of wood. It even coats the shells of living snails and shells occupied by hermit crabs. As well as seagrass leaves. The algae incorporates calcium carbonate and is hard and stony. It is thus also called encrusting calcareous algae. Colours from rose pink, salmon to pale pink and purplish. May be white when bleached.
 
 Encrusting pinkish seaweeds may belong to several groups including:

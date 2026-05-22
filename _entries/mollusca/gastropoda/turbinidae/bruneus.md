@@ -103,12 +103,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large turban snail is sometimes seen on our rocky shores. It is also sometimes called the Brown turban snail and the scientific name is sometimes spelt as
 *Turbo brunneus*
 .
 
-**Features:**
+## Features
+
 3-5cm. Shell thick with spiral cords made up of tiny scales which feel rough. Chalky operculum is hemi-spherical with many tiny bumps, dark green with greyish and white margins. Body with brown mottles, a pair of slender tentacles.
 
 **Sometimes confused with**

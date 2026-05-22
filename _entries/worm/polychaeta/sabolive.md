@@ -43,10 +43,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This fanworm is sometimes seen in silty, sandy areas near seagrass meadows on many of our shores.
 
-**Features:**
+## Features
+
 Fan 6-8cm in diameter. Included in this page are those with a fan generally olive brown sometimes with tinges of black. Often it has a rather 'untidy' look. Usually found alone in sand.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

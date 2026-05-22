@@ -119,10 +119,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large and beautifully sculptured snail is sometimes seen, often many of similar size can be seen at one location, then none seen for some time. It is considered the largest murex in the Indo-Pacific. Elsewhere found near reefs and considered common, partially or completely buried in sand.
 
-**Features:**
+## Features
+
 20-30cm long, thick heavy shell with short 'frilly' or leafy spines, usually white. Bright orange edge at the shell opening. Large brown operculum made of a horn-like material. Animal is large and fleshy, brownish.
 
 **What does it eat?**

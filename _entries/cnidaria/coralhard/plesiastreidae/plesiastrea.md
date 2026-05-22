@@ -108,10 +108,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals pock-marked with circular corallites are more often seen on our Northern shores. Usually not common. Elsewhere, they grow in shaded areas such as overhangs. It was previously placed in Family Plesiastreidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.
 
-**Features:**
+## Features
+
 Colonies seen 15-20cm, sometimes larger. The colony is generally a smooth boulder shape. The corallites have separate walls that are rather thick, forming a circular ring (0.2cm) and are not packed closely, often with a smooth area between them. The result is a rather smooth boulder pock-marked with rings. The polyps are small with many short tentacles in two alternating sizes, usually close to the colony surface, i.e., body column is not long.
 
 Colours seen include blue, green and brown.

@@ -139,14 +139,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful, slim long goby lives with a shrimp and is sometimes seen on our Southern shores. Elsewhere it is found in silty bottoms of mangroves, large tidal pools or inner reef lagoons, on sand and rubble. Synonyms of this fish are
 *C. obliquus*
 and
 *C. singapurensis*
 .
 
-**Features:**
+## Features
+
 To about 8cm (according to FishBase, up to 12cm), those seen on our shores about 4-6cm. About 6 broad oblique bars on the body and the head has many bright pink bars and spots as well as many tiny blue dots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**

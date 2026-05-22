@@ -132,10 +132,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This plump cuttlefish is sometimes seen near reefy areas, hovering slowly close to the ground. Elsewhere, considered among the most common cuttlefishes in reefs to 30m deep, and also among the largest of cuttlefishes. On the intertidal, smaller juveniles may be seen. Larger adults found in deeper water among reefs.
 
-**Features:**
+## Features
+
 4-6cm long, elsewhere can grow to 50cm long and weigh 10kgs! Distinguished by a yellow ring around lower edge of the eye. Squat oval body with short tapered arms. Narrow transparent fins all around the body. There is a pattern of small bumps extending into the fins along the edge where the fins attach to the body. Patterns include mottled bands with circles, to more muted bands. When alarmed, it tucks its arms under its heads and the tips of the middle arms are often held upright.
 **What do they eat?**
 It preys on fishes and crustaceans, apparently mesmerising or distracting them by producing a rapid rhythmic pulsation of dark bands along the body and arms.

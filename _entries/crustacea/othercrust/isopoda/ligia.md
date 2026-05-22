@@ -132,7 +132,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These nervous little animals are commonly seen on almost all our shores, often swarming in large numbers at low tide. They are common on rocky shores, also among mangroves.
 
 **What are sea slaters?**
@@ -141,7 +141,8 @@ Sea slaters are sometimes called sea cockroaches. Although sea slaters are also
 , they are not insects! They are
 [crustaceans](../../crustacea.md)
 like crabs and prawns; but are very happy out of water.
-**Features:**
+## Features
+
 2-3cm. Sea slaters have seven pairs of legs and move very fast! They have huge eyes and very long antennae. They are well adapted for life out of water, breathing air directly through 'pseudo-lungs'.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

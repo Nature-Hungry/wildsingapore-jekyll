@@ -71,7 +71,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Horseshoe crabs are sometimes encountered on our shores, more often on our northern shores especially near mangroves.
 
 **What is a horseshoe crab?**
@@ -92,7 +92,8 @@ is found on the Atlantic coast. In Southeast Asia there are three: the
 ) and in Japan, China and southern Sabah are found the Chinese horseshoe (
 *Tachypleus tridentatus*
 ).
-**Features:**
+## Features
+
 Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the bottom in rough water. It probably got its common name because its shell resembles a horse's hoof.
 
 A horseshoe has an exoskeleton, but unlike a crab's, this does not incorporate calcium and is made of chitin and protein instead. The shell is hard in adults, but more flexible in juveniles. Like other arthropods, a horseshoe crab must moult to grow bigger. During their first year, they may moult 5-6 times, growing 20-25% with each moult. It takes about 7 years to reach maximum size. Sometimes, you might come across what appears to be dead horseshoe crabs on the shore. These might just be moults. Moults are lightweight, have transparent eyes and no bad smell.

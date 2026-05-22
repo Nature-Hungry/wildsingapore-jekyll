@@ -51,7 +51,7 @@ links_references: |
   T.F. H Publications. 464 pp.
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals with tiny to small corallites are often seen on many of our shores.
 
 ****

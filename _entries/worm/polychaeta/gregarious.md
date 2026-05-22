@@ -40,10 +40,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This worm is commonly seen on sand bars at the low water mark and on stones on the mid water mark, usually near seagrasses. The thin tubes of large numbers of the worm form shaggy rugs that people often overlook and simply step on!
 
-**Features:**
+## Features
+
 The tubes are thin, 1-2mm in diameter. The thin, brown tubes are often mistaken for seagrass roots or stems. Densely packed together, the tubes look like a hairy rug left on the shore. Sometimes, a colony can cover several metres. The actual animals are thin and long, thus described as thread-like.
 
 **What does it eat?**

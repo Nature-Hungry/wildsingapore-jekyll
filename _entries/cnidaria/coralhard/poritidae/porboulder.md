@@ -118,10 +118,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This boulder-shaped hard coral with tiny corallites and polyps is commonly seen on many of our shores. Large colonies can sometimes be seen especially on our Southern shores.
 
-**Features:**
+## Features
+
 Colonies 10-20cm, sometimes much larger, boulder-shaped sometimes with bumps or hillocks. Corallites tiny (0.1-0.2cm) hexagonal, packed close to one another. The tiny corallites are shallow and don't stick out of the surface. The surface thus often appears smooth with many tiny pores. Polyps are very tiny (0.1-0.2cm) with short body columns and short tentacles that are usually only extended at night. Colour usually a chocolate brown, also greenish. Usually the colony is of one uniform colour.
 
 Sometimes, colonies are seen with pink patches, which appear to be the result of some sort of animal burrowing into the living colony.

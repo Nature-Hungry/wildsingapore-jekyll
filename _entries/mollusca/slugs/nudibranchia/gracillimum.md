@@ -122,9 +122,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large chunky hard nudibranch is more commonly seen by divers and sometimes seen on the intertidal on coral rubble near reefs.
-**Features:**
+## Features
+
 6-8cm long. The body is stiff, narrow with a long, slender tail. There is a pair of elongated lobes on the sides (looks like 'wings'). At the body end over the tail, a large horn-like lobe, where the feathery gills emerge. The head is flat
 wedged-shaped with a pair rhinophores. The edges of the lobes and head are generally slightly wavy with a fine line of bright orange. The rest of the body generally speckled (orange, pink) with blotches of darker colour over a pale background.
 

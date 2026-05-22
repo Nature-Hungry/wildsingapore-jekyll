@@ -49,10 +49,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This pretty clam that with striking lines patterns is sometimes seen on our Northern shores, on sandy areas near seagrasses.
 
-**Features:**
+## Features
+
 3-4cm. Shell thick, relatively smooth, oval, longer than broad and somewhat bean-shaped. Often with a pattern of fine V-shapes. Some
 *Paphia*
 species have this shape, but other venus clams species may also have this shape.

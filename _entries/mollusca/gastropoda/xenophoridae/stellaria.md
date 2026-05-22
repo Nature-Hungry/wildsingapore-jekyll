@@ -71,10 +71,11 @@ location:
 - tm
 ---
 
-**Where seen?**
+## Where seen?
 Only the empty shells of these snails have been seen washed up on our shores. It is considered uncommon and usually found in deep water.
 
-**Features:**
+## Features
+
 8-10cm in diameter. Shell flat coiled with 14 long spines on the last outer whorl. Underside with fine spiraling lines. Objects are rarely attached to the shell, except on early whorls.
 
 The Family Xenophoridae are called carrier shell snails because they cement bits of shells of other snails and clams onto their own shell. The living snail has a very long proboscis which it uses to attach these bits to its own shell. See a

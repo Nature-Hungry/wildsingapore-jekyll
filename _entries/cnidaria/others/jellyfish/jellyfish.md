@@ -103,7 +103,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Almost everyone knows what a jellyfish looks like! These blobs of jelly are creatures of the open waters and are only sometimes encountered on the shores. In the water, these elegant creatures are a delight to watch. Sometimes, they are trapped in a pool. More unluckily, they are sometimes stranded on the shore and look like sorry heaps of jelly. But no matter where you see them, don't touch them!
 
 **What are jellyfish?**
@@ -117,7 +117,8 @@ Other cnidarians only take the form of a jellyfish in their life cycle and don't
 [Class Hydrozoa](../hydrozoa/hydrozoa.md)
 (which includes the highly venomous Portuguese-Man-of-War in the Order Siphonophora which is a colony and not a solitary animal like other jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form is the dominant and most conspicuous form in the life cycle.
 
-**Features:**
+## Features
+
 Jellyfish are more notable for the features that they lack: no head, no organs, no bones. The body called the bell is jelly-like, transparent or semi-transparent. The body has eight-fold symmetry. Like other cnidarians, the jellyfish does not have an anus and wastes are eliminated through the same opening where food is taken in.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The animal moves by contracting its bell. Some may have long thin tentacles on the edge of the bell, others lack these. The mouth is under the bell in the centre. Often surrounding the mouth are long structures called oral arms (not tentacles). These can be short and stout, branched, or long and ribbon-like.

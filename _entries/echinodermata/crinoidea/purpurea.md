@@ -104,10 +104,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large 10-armed feather star is sometimes seen on rubbly areas.
 
-**Features:**
+## Features
+
 About 15cm in diameter with 10 thick arms. The oral disk is bulbous and surrounded by short structures (pinnules) that are tipped with combs to keep the disk clean. It has several hooked structures (cirri) on the underside that form a 'claw' that the animal uses to cling to things. Usually purple but sometimes also red or brown.
 
 Large feather stars with 12 arms are also included in this fact sheet.

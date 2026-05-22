@@ -84,10 +84,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This transparent anemone is sometimes seen on our shores, on silty sandy shores, such as inside sheltered swimming lagoons. It is shy and retracts rapidly into the sand when alarmed.
 
-**Features:**
+## Features
+
 Tentacles few (about 16) held straight and flat against the ground, resembling spokes of a wheel. One ring of shorter tentacles (about 2cm diameter) and another ring much longer (about 3-5cm diameter). Each transparent tentacle (both long and short ones) with
 fine white bars and a dark tip. Oral disk tiny (about 1.5cm in diameter) with fine dark and white radiating stripes. A pair of tentacles opposite one another may be dark, especially at the oral disk. Body column smooth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

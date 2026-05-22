@@ -66,10 +66,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone with large polka dots on its body column is sometimes seen in seagrass meadows.
 
-**Features:**
+## Features
+
 Diameter 3-4cm with tentacles expanded. Many tentacles, tapering translucent with tiny white spots. Body column short translucent with large white edged circular spots. Broad foot which it uses to cling onto seagrass blades.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -86,10 +86,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This little sea star hides under stones near the mid-water mark. At low tide it clamps tight to the surface almost like a limpet. It is found on natural rocky shores of our Southern shores.
 
-**Features:**
+## Features
+
 Diameter with arms (3-4cm). 5 arms that are so short that the animal appears almost pentagonal. Clamping tight to the surface, the body is sometimes in a hump in the centre. Upperside with tiny holes through which short stubby
 transparent finger-like structures (papulae) emerge when it is submerged. Colours plain or mottled beige, brown or grey that camouflages it perfectly with the rocks it clings to. Underside pale without any markings. Tube feet short, tipped with suckers.
 

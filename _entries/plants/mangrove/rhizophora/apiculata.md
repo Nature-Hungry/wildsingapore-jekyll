@@ -53,14 +53,15 @@ links_references: |
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
-**Where seen?**
+## Where seen?
 This mangrove tree is among the most commonly seen
 *Rhizophora*
 in our mangroves. According to Ng, it is gregarious on deep soft mud of estuaries flooded by high tides. According to Geisen it 'avoids' firmer substrates mixed with sand, and prefers tidal waterways with strong freshwater input. It can be dominant, forming 90% of the vegetation at a site. According to Hsuan Keng, they are common in mangroves and recorded for Changi, Jurong, Seletar and Bajau. It was formerly known as
 *R. conjugata*
 . It is also known as 'Bakau putih' (white Bakau) and 'Bakau tandok' (horned Bakau).
 
-**Features:**
+## Features
+
 Tree 20-30m tall. Bark dark grey and chequered. Conspicuous arching stilt roots that can extend 5m up the stem. Often also with lots of aerial roots emerging from the branches so that the tree appears to have a skirt of roots under the leaves
 
 Leaves eye-shaped (8-15cm long), glossy green and stiff, with tiny evenly distributed black spots on the underside. Stipule is usually (but not always) red.

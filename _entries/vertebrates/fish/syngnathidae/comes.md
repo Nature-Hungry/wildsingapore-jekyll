@@ -194,10 +194,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This large seahorse with a black-and-yellow banded tail is often seen on our Southern shores, with one seen at Changi in 2019. According to the Singapore Red Data Book, the Tiger-tailed seahorse is usually found in coral reefs, in Singapore, mainly around the Southern Islands.
 
-**Features:**
+## Features
+
 6-10cm long. Body without large, obvious spines. Colours seen include black, brown or yellowish with speckles. The tail is banded black and yellow. There are little white dots around the eye and on the cheeks.
 
 It's difficult to tell this seahorse apart from the

@@ -72,10 +72,11 @@ location:
 - tm
 ---
 
-**Where seen?**
+## Where seen?
 This little hermit crab with black bars is commonly seen on some of our shores near reefs, rocky shores and even artificial seawalls.
 
-**Features:**
+## Features
+
 Body about 1-1.5cm long, body with bold black bars and two large bright pink spots or bars on the sides near the eyes. Right pincer usually larger than the left, darker at the claws. Legs sparsely hairy, with longer black bars in bands, joints may be bright pink. Short antennae pale with orange feathery tip. Eyestalks pale. Long antenna banded maroon or dark brown with white dots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

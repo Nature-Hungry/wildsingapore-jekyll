@@ -120,12 +120,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This free-living coral with Udon-like tentacles is only commonly seen on some of our undisturbed Southern shores. They are often seen in shallow silty, sandy areas among seagrasses, sometimes wedged among coral rubble. It used to be commonly seen on Beting Bronok in the north. It is the only species in the genus
 *Heliofungia*
 and is considered among the largest of hard coral polyps.
 
-**Features:**
+## Features
+
 Circular skeleton 10-20cm in diameter with a flat smooth base (not concave). It is also sometimes called plate coral because its disk-shaped skeleton does resemble a dish. This coral is free-living (is not attached to the surface) as an adult and is a solitary polyp. The skeleton is light and the upper surface has long continuous lines radiating from the single slit-shaped mouth in the centre. These lines have large, rounded 'teeth'. The tissue covering the upper surface is usually striped.
 
 The tentacles are long, thick and cylindrical (they look like thick 'udon' noodles), usually brown but also bluish and even bright green. Usually with white or cream tips that are sometimes inflated to a bulbous tip.

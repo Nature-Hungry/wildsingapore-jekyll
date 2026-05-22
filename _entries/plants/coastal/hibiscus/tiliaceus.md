@@ -68,7 +68,7 @@ galleries:
       caption: "Links Talipariti tiliaceum on Total Vascular Flora of Singapore Online: photos and fact sheet. Sea hibiscus ( Hibiscus tiliaceus ) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. An overview of Malvaceae classification and Sections and segregates of Hibiscus on the Malvaceae Info website : more about Talipariti and other sections of Hibiscus. Other references Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Tomlinson, P. B., 1986. The Botany of Mangroves Cambridge University Press. USA. 419 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp."
 ---
 
-**Where seen?**
+## Where seen?
 A very common shrub to tall tree, this plant with delightful heart-shaped leaves and bright yellow flowers that attract red bugs is often seen on many of our wild shores. It is also often planted in our seaside parks. According to Corners, it is common on seashores throughout the tropics, and found in sandy and rocky shores of Malaya, extending up rivers and penetrating mangroves and nipah palm communities. It is often planted by streams and ditches in rice-fields. According to Tomlinson, it is common on seashores especially adjacent to beaches, but also recorded to altitudes of 800m, and is widely planted. Its precise natural and geographic distribution is uncertain.
 
 The Sea hibiscus has been regrouped and renamed as
@@ -77,7 +77,8 @@ based on DNA studies. But the old name
 *Hibiscus tiliaceus*
 .is still widely used.
 
-**Features:**
+## Features
+
 A shrub to a tall tree growing to 10-15m. Leaves (10-15cm) heart-shaped, dark green and shiny above, white and finely furry beneath. The leaves have tiny slits on the main veins on the underside of the leaf. Secretions from these slits often attracts ants. Flower a typical hibiscus-shape, yellow with maroon eye fading to dull pink or orange before falling. Stigma column light yellow, stigma deep crimson purple. According to Corners, the flower blooms at about 9am, long after sunrise and close in the afternoon at about 4pm. The petals usually fall off the same evening or the next morning. Usually, every flower sets fruit. Fruit ripens to a tiny dry capsule (2-3cm) surrounded by the calyx. It splits open to reveal the seeds which float and can withstand extended periods of immersion in sea water.
 
 **Role in the habitat:**

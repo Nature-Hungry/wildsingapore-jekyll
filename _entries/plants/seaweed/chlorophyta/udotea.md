@@ -61,10 +61,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This fan-shaped seaweed is sometimes seen at Tuas, growing on and among coral rubble. Elsewhere also in sand.
 
-**Features:**
+## Features
+
 A long fan- or spatula-shaped blade (2-4cm long) with ruffled edges, in clusters of several blades. Sometimes really long ones (about 10cm) are seen growing in clumps of a few large blades. The blade is made up of a tangle of tiny filaments that give it a velvety texture and is slightly to moderately calcified. The stem that holds up the blade (stipe) is calcified.
 Usually olive green, but may be bright to dark green.
 

@@ -80,7 +80,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These strange cube-like fishes are sometimes seen on some of our shores.
 
 **What are boxfishes?**
@@ -92,7 +92,8 @@ Boxfishes belong to the Family Ostraciidae. According to
 [Family Diodontidae](../diodontidae/diodontidae.md)
 .
 
-**Features:**
+## Features
+
 Adults of some species can reach 40-50cm. The boxfish is a slow moving fish that is hardly designed for fast swimming. However, if they are in a hurry, they can make a rapid dash. They get their common name from their cubical, boxy shape. Indeed, the body is basically a hard shell (carapace) made up of bony plates with gaps for the various tiny fins, the tail and the mouth. 'Ostrakon' means 'shell'. They are sometimes also called trunkfishes, or cowfishes because some have projecting 'horns' above their eyes. Some also have spines or angular ridges on their body.
 
 **Toxic boxes:**

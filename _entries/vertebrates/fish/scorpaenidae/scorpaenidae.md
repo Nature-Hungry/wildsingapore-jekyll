@@ -114,7 +114,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These prickly well-camouflaged fishes are seen on many of our shores, in seagrass and coral rubble areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one.
 
 **What are scorpionfishes?**
@@ -122,7 +122,8 @@ Scorpionfishes belong to the Family Scorpaenidae. Among members of this family a
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=264)
 : the family has 23 genera and 172 species, most are bottom-dwellers. They are found on tropical and temperate seas. Some of the fishes that used to be in Family Scorpaenidae are now placed under several different families including Family Apistidae (wasp scorpionfishes), Family Tetrarogidae (waspfishes) and Family Synanceiidae (stonefishes).
 
-**Features:**
+## Features
+
 Some are tiny and hide among seaweeds. Others may be larger. Scorpionfishes have large heads. There is a bony ridge on the cheek. The scorpionfish's mottled pattern matches its surroundings perfectly. Sometimes, the same species living in different locations can have different colours and patterns. It can also darken and lighten its colours. Scorpionfishes are generally bottom dwellers. Some species lack a swim bladder.
 
 **Sting like a fish:**

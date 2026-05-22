@@ -157,7 +157,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These colourful fishes are sometimes seen on many of our shores. Among the more colourful little fishes to be seen in tide pools at low tide, wrasses are nevertheless often overlooked as they are often well hidden. Many are active during the day, sheltering during the night in hiding places. Small ones may burrow into sand.
 
 **What are wrasses?**
@@ -166,7 +166,8 @@ Wrasses belong to the Family Labridae. This is the second largest family of fish
 : the family has 60 genera and 500 species, found in the Atlantic, Indian and Pacific oceans and coming in a wide range of sizes and colours. Being such a large family, wrasses come in a wide range of sizes and habits. They range from small fish 8cm long to large ones up to 40cm long. The Napolean wrasse (
 *Cheilinus undulatus*
 ) can grow to 2m long and weigh up to 180kgs!
-**Features:**
+## Features
+
 Many wrasses are brightly coloured, mostly greenish but with patterns of blue, yellow and red. Often young fish are different from the adults, their colours and patterns changing as they develop. As adults, they also change colours during breeding season, the males usually becoming more brightly coloured. Some may also change colours to match their surroundings. This is why wrasses are sometimes difficult to identify.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Wrasse food:**

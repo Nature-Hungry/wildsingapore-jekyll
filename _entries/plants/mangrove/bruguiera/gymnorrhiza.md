@@ -77,14 +77,15 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree is sometimes seen in our mangroves, the bright red 'flowers' providing a splash of colour to the forest. According to Ng, it grows best on dry, well aerated soil towards the landward side but in Singapore, also found in mud. According to Hs uan Keng, it was common including at Jurong, Changi and Tuas. According to Tomlinson, it is a characteristic of the middle mangrove community and has been described as "the largest and probably the longest lived of the mangrove community". It has the broadest range of the genus and of all mangroves, from East Africa including Madagascar, Sri Lanka, the Malay peninsula, Micronesia and Polynesia to Ryu Kyu Islands and tropical Australia (Western Australia and Queensland). It was previously known as
 *B. conjugata*
 and is sometimes spelt
 *Bruguiera gymnorhiza*
 .
 
-**Features:**
+## Features
+
 Tree to about 15m in Singapore, elsewhere to 30m or more. Bark dark grey or brown, rough, fissured in a regular chequered pattern with pimples (lenticels). With buttress and knee roots.
 
 Leaves eye-shaped (9-24cm long) leathery stiff glossy, sometimes reddish on the underside, arranged opposite one another. Stipules often reddish.

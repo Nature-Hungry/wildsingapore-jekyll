@@ -94,10 +94,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This little green-eyed crab is commonly seen in our mangrove trees. Small ones are also seen on jetty pilings and other hard surfaces encrusted with barnacles and other animals.
 
-**Features:**
+## Features
+
 Body width 2-2.5cm. Body half-circular, flat. Eyes greenish, spaced apart. Walking legs flat, long with pointed tips. Yellow with regular dark brown blotches. During the day, it hides in crevices or under loose bark of mangrove trees. It comes out to forage at night. The crab is able to stay out of the water for some time because it recirculates and oxygenates the water in its gills by pumping this over hairs on its face. This crab can make a sound (stridulate) by rubbing the bumps on the pincers against the uneven face.
 
 **What does it eat?**

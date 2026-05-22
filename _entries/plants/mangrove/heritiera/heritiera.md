@@ -74,10 +74,11 @@ links_references: |
   . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 ---
 
-**Where seen?**
+## Where seen?
 This rather untidy tree with dull metallic leaves is described by Corners as a 'dinghy' tree. It is sometimes seen in our Northern mangroves. Usually found in the back mangroves and sometimes on rocky shores. According to Hsuan Keng, it was found in Bajau, Kranji, Pulau Jahat, Pulau Tekong. It seems intolerant of high salinities and does not occur in very exposed areas or poorly drained soils.
 
-**Features:**
+## Features
+
 A much branched, untidy tree (15-25m tall) with rather 'dirty' looking leaves. Bark dark or pinkish grey, smooth becoming flaky, fissured when older. May have short plank or sinuous buttresses.
 
 Leaves oblong (10-20cm long) thin but stiff, leathery dark green above and silvery white below. This is because of overlapping star-shaped scales on the underside. Leaves are arranged alternately in a spiral and wither to a dull orange-yellow.

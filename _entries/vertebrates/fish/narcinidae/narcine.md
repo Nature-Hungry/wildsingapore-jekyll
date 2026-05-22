@@ -74,7 +74,7 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This rather chubby ray with a stumpy tail was seen on Changi several times, among seagrasses. Elsewhere, they are found in sandy, muddy areas, from river mouths to coral reefs. It was previously in Family Torpenididae.
 
 **What are electric rays?**
@@ -86,7 +86,8 @@ has 9 genera and 24 species. They are found in the Atlantic, Indian and Pacific 
 [stingrays](../dasyatidae/dasyatidae.md)
 that belong to the Family Dasyatidae.
 
-**Features:**
+## Features
+
 15-60cm in diameter. Body flattened disc-shaped. Like other rays, it takes water in from gill openings on the upperside of the body, expelling water out from gill slits on the underside, enlarged pectoral fins along the body edges. Unlike stingrays, the numbfish has a pair of obvious dorsal and a tail fin too. The tail is short and fat and not whip-lik, and lacks stinging barbs..
 
 The Dark-spotted numbfish

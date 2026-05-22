@@ -66,10 +66,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This rare tree is found on our natural rocky shores at St. John's Island and Sentosa. According to Hsuan Keng, it has been recorded on rocky coasts of Singapore.
 
-**Features:**
+## Features
+
 A tall tree (8-10m). The bark is fissured and the tree doesn't have specialised roots (no buttress roots or pneumatophores). The roots clasp large boulders on the rocky shore.
 
 Compound leaf comprising 2-4 pairs of leaflets (4.5-17cm long) that are oval to nearly heart-shaped with prominent pale veins, thick and leathery. Flowers tiny white to pinkish in clusters on an inflorescence.

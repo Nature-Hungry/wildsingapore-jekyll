@@ -36,10 +36,11 @@ galleries:
       caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This large tree can be seen on Pulau Ubin. According to Hsuan Keng, it is native in the northern Malay peninsula and was often planted as an ornamental in Singapore. According to Corners, the abundance of this tree in inhabited parts of Malaya is due to the veneration that the Indians hold for it.
 
-**Features:**
+## Features
+
 A large strangling fig with many aerial roots. Leaves glossy dark green, leathery, large (7.5-25cm) with many fine parellel veins. The large stipules are bright red. The small figs are oval (1cm long) and ripen yellow. Large red buds also appear on the lower branches.
 
 **Human uses:**

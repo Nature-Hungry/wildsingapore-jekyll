@@ -95,10 +95,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This shaggy disk-shaped animal is commonly encountered on many of our Southern shores, on coral rubble.
 
-**Features:**
+## Features
+
 Each polyp about 2-4cm in diameter. Sometimes seen in large numbers, carpeting an area of 30-50cm square.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Each polyp has lots of short, thin tentacles that densely cover the oral disk, so that the entire group of animals appears to be a living shaggy carpet. Tentacles with tiny rounded tip, sometimes white or other bright colour. In some, each tentacle appears to be branched at the tips. The small upturned mouth is usually hidden by the tentacles. The edge of the oral disk is fringed with short tentacles. The oral disk may have fine radiating lines in a different colour.

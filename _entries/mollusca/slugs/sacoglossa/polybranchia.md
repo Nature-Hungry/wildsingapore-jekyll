@@ -104,14 +104,15 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This slug looks just like a bit of boring seaweed, so it's often overlooked unless you know what to look for. It is sometimes seen on our Northern shores moving among seaweeds at night. This slug was previously called
 *Phyllobranchus*
 or
 *Phyllobranchillus orientalis*
 .
 
-**Features:**
+## Features
+
 4-5cm. Body with a lot of large leaf-like extensions (called cerata). So it does appear like a tiny bush. The cerata contain fine branching digestive glands. The cerata drop off easily when the animal is handled, and tend to stick to the hand. New cerata grow back in a few days. In addition, a distasteful milky secretion is produced by glands on the edges of the cerata. It has an internal shell, a pair of tentacles (called rhinophores) that are branched. The tentacles are sually hidden by the cerata.
 
 **What does it eat?**

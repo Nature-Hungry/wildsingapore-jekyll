@@ -217,10 +217,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This strikingly patterned fish is commonly seen on many of our shores, among coral rubble and near reefs. It is said to be more active during the day, but those seen at night can be quite frisky. Elsewhere, they are found on rocky shores, coral reefs, estuaries and silty inner reefs.
 
-**Features:**
+## Features
+
 To about 20cm, those seen during low tide usually about 4-8cm. Body flat, circular disk-shaped, snout is long and pointed. It is sometimes called the Beaked coralfish. 4 bands which are orange or yellow edged in black and white. White-ringed black eye spot on the dorsal fin, white-edged black bar at the base of the tail. The pelvic fins are bright orange and yellow. Juveniles are solitary, more secretive and found in shallower water. Adults have proportionally taller fins swimming in the open near the sea bottom, forming pairs during breeding.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

@@ -61,12 +61,13 @@ location:
 - chg
 ---
 
-**Where seen?**
+## Where seen?
 It is not seen as often as
 [Banded archerfishes](jaculatrix.md)
 , but sometimes seen together with these. Under jetties, bridges in streams near mangroves.
 
-**Features:**
+## Features
+
 About 20cm, to about 40cm long. Smaller black spots between the broad black bands. Sometimes also called the Seven-spot archerfish. From above, their eyes have a golden sheen. Banded archerfishes lack these black spots and their eyes don't have the golden sheen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

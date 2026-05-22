@@ -48,14 +48,15 @@ galleries:
       caption: "Links Knema globularia on the NParks Flora and Fauna website: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
 ---
 
-**Where seen?**
+## Where seen?
 A pretty tree with fresh green leaves and bright red fruit, it is a rare tree. There are several on the rocky cliffsides of Chek Jawa, Pulau Ubin. According to Hugh Tan, it is also found on St. John's Island. It was previously found on Changi and Pulau Ubin. Elsewhere, it grows on rocky and sandy coasts and is common in lowland forests of Malaysia. It was previously known as
 *Knema missionis*
 or
 *Knema sphaerula*
 .
 
-**Features:**
+## Features
+
 A tall tree (4-5m to a maximum of 24m). Bark brown to dark green and smooth-scaly to scaly. Twigs are slender and at first rusty scrufy turning dark brown or black.
 
 Leaves eye-shaped (4-5cm long) leathery and thin, hairy beneath and arranged alternately.

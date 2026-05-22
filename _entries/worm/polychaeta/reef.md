@@ -133,7 +133,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large active bristleworm is often encountered on many of our shores. On coral rubble near living reefs and seagrasses. It is especially active at night, foraging busily among the rubble. During the day, the worms are often hidden under stones.
 
 **What is a bristleworm?**
@@ -141,7 +141,8 @@ It is a segmented worm belonging to the Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Many members of the Family Amphinomidae are known as fireworms because of the burning pain they produce when handled.
 
-**Features:**
+## Features
+
 About 10-20cm long. Body flat, broad, tapered at both ends. Along the body are two rows of 'bunches' of bristles; long transparent bristles on the upperside, and a row of shorter bristles along the underside.
 For each pair of bristle 'bunch' there is a short tuft. Colours greenish or pinkish, sometimes the tufts are red.
 

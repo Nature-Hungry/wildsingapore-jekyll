@@ -39,11 +39,12 @@ links_references: |
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
 ---
 
-**Where seen?**
+## Where seen?
 This clam is sometimes seen on sandy shores.
 Elsewhere, they are found on intertidal shores with sand and mud.
 
-**Features:**
+## Features
+
 About 4-6cm. Shell thick rather smooth.
 
 *![](http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg)

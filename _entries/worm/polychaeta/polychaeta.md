@@ -89,7 +89,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Bristleworms are abundant on our shores. Even the most 'beat up' shore will have these worms. But they are rarely seen as they burrow in the ground or remain in other hiding places. In coral rubble, giant reef worms that grow to 1m long hide inside crevices. Others about 10cm long crawl about in sandy and muddy areas. Some beautiful ones swim about in the water. Others live in
 [tubes](../tubeworm/tubeworms.md)
 . Countless microscopic ones too small to see live among the sand grains.
@@ -99,7 +99,8 @@ Bristleworms are segmented
 [worms](../worm.md)
 belonging to Phylum Annelida like the more familiar earthworm. There are about 8,000 species of polychaete worms, making them the largest class of the segmented worms.
 
-**Features:**
+## Features
+
 These worms have bodies that are divided into segments. Except for the head and last segment, all the segments are generally similar. Each segment has a pair of flattened extensions called parapodia. These appendages are usually branched at the ends and covered with bristles, called setae. 'Polychaeta' means 'many bristles'. And indeed, they have lots of bristles. These bristly appendages are sometimes used to move (much like a centipede does) and to burrow. In
 [tubeworms](../tubeworm/tubeworms.md)
 , the appendages help grip the tube walls and to move up and down the tubes. In some large active bristleworms that need more oxygen, the parapodia function as gills.

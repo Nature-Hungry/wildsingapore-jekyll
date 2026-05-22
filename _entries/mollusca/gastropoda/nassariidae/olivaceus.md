@@ -118,10 +118,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This large, handsome whelk is usually seen prowling alone on sandy and muddy areas near seagrasses and mangroves. Commonly seen especially on our Northern shores.
 
-**Features:**
+## Features
+
 3-4 cm. Largest of the commonly encountered whelks on our shores. Shell conical, smooth with spiralling ridges. Colour brown to olive green sometimes with a pale spiral around the shell. Body pinkish with dark speckles and dark edge on the foot, very long siphon and short tentacles. Operculum thin, orange. It has been seen burrowing just beneath the sand, with its siphon sticking out.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Hitching on a whelk:**

@@ -78,12 +78,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This elongated oval seagrass with hairy leaves is usually seen in deeper waters, and sometimes also on the intertidal.
 
 Hairy spoon seagrass is the only pan-tropical seagrass species and found in the Caribbean and Indo-Pacific. This global distribution is believed to be the result of recent colonisation as there is little genetic divergence among the plants. This suggest that the species is capable of long distance dispersal. It is found from deeper waters and also in reef and sandy habitats. It seems tolerant of low light conditions and in very clear waters has been recorded (elsewhere) to depths greater than 50m.
 
-**Features:**
+## Features
+
 **
 The seagrass has oval leaves that are longer (1-2.5cm) than the width (0.5cm). There are minute serrations on the leaf edge and minute hairs on both sides of the leaf. It has thin, smooth, white rhizomes (underground stems). The leaves emerge in pairs from these rhizomes.
 

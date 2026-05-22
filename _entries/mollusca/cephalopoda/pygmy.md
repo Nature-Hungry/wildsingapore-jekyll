@@ -186,10 +186,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Arguably the cutest little thing on the shore, this tiny squid is commonly seen on many of our shores, among seagrasses and near reefs and rubble. Often dismissed as bits of floating rubbish, this small, well camouflaged animal is usually seen hunting alone.
 
-**Features:**
+## Features
+
 About 1cm. Body long cylindrical, with tiny circular fins at the rear end. It is often seen floating about with its longer tentacles extended beyond the shorter arms, with a slight curl at the tips of the tentacles. It has been seen catching shrimps that are as big as the squid.
 
 The Family Idiosepiidae comprises only one genus

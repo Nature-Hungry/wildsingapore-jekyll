@@ -123,7 +123,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Porcelain crabs are plentiful under the stones of our rocky shores, scattering in all directions as a stone is lifted. Some porcelain crabs live on or with other larger animals.
 
 **What are porcelain crabs?**
@@ -132,7 +132,8 @@ Porcelain crabs belong to the subgroup Anomura of the Order
 . Anomurans includes
 [hermit crabs](../hermit/hermit.md)
 . Porcelain crabs belong to Family Porcellanidae.
-**Features:**
+## Features
+
 Body width 1cm or less. Body and pincers really flat, giving them a cartoonish appearance. But this form allows them to squeeze into nooks and crannies, and shelter in narrow places like under a stone.
 
 **Show of Arms:**

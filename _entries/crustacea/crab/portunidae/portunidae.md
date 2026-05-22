@@ -181,10 +181,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Swimming crabs are commonly seen on all our shores. They particularly active at night, but are often also out and about during the day. Besides the large adults, small juvenile swimming crabs are also hidden among the seagrass and seaweed, and other nooks and crannies. These active crabs come in all kinds of colours. Some can react fiercely by waving spiny pincers, and may even give you a nip. So don't touch these crabs.
 
-**Features:**
+## Features
+
 Body width 5-15cm. Swimming crabs are among the few crabs that are swift and agile swimmers. They usually swim sideways, but can also swim backwards and sometimes forwards. They swim with their last pair of legs which are paddle-shaped. These rotate like propeller blades when they swim. However, these crabs are essentially bottom-dwellers and don't swim about all the time. They often hide among the vegetation and slip under rocks and into other narrow crevices.
 
 Swimming crabs have a streamlined shape for racing through the water. They have long pincers armed with sharp spines to snag fish and other fast moving prey. Often, one pincer is slightly larger than the other.

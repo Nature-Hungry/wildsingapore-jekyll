@@ -87,7 +87,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Tubeworms are common on all our shores and near mangroves. They are most obvious on sand bars and flat shores (sandy or muddy) where they stick out of the surface in large numbers. In seagrass areas, some are found in large numbers in mounds that can be 1m or more wide. Their tubes can extend quite deep into the ground, only a little bit of the tube sticks out of the ground. At low tide, the worm may be even deeper still. Some tubeworms can give a nasty bite. Please don't dig up tubes to try to see the worm.
 **What are tubeworms?**
 There are many kinds of

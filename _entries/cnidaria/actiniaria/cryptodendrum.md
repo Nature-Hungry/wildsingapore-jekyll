@@ -210,10 +210,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather large anemone is seldom seen, usually tucked in crevices on rocky and rubbly areas under dead corals on our Southern shores. Possibly simply because it just doesn't look like a typical anemone, and because it is usually well hidden. During mass coral bleaching, this anemone is often easier to spot as it bleaches white.
 
-**Features:**
+## Features
+
 Diameter 25-30cm. The flat circular animal has a smooth rounded thick rim - very much like a pizza! The tentacles on the oral disk are short, tiny and tightly packed. The tentacles are very sticky, hence another common name for it is Adhesive anemone.
 
 The tentacles come in two forms as described by Dr Fautin, "those in center have a narrow stalk with five or more short branches at end (i.e. resembling a miniature glove); those near the edge simple elongate bulbs about 1 mm diameter; at extreme margin is a ring of tentacles like the central ones but with fewer branches. Tentacles of the two forms are usually different colours: observed combinations include yellow and pink, blue and gray, green and brown; occasionally tentacles of another colour occur in patches amid those of predominant colour."

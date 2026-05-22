@@ -91,10 +91,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small patch of fuzzy green seaweeds is sometimes seen on our Southern shores growing near reefs.
 
-**Features:**
+## Features
+
 Small clumps, made up of fine, short filaments that branch in all directions. They form a spongy mass that is slightly crunchy to the touch. Bright green.
 
 According to

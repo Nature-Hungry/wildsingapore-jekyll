@@ -77,7 +77,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Ribbon worms regularly seen in coral rubble areas on many of our shores. They are more active at night. During the day, they burrow in the ground or remain in other hiding places.
 
 **What are ribbon worms?**
@@ -89,7 +89,8 @@ belonging to Phylum Nemertea. They are quite different from the segmented worms 
 [the Nemertes website](http://nemertes.si.edu/)
 , there are approximately 1,000 valid, described species of ribbon worms, with possibly several times this number that remain to be named or discovered! Ribbon worms are found in oceans, freshwaters, and also on land.
 
-**Features:**
+## Features
+
 Ribbon worms range in length from 1mm to very long ones indeed. Some species can reach 30m! Those we have seen range from short ones 10-15cm long, longer ones 30-40cm long and some more than 1m long. Ribbon worms are NOT segmented worms. The body of a ribbon worm is rather flattened. Although it appears smooth, the body is covered with microscopic hairs (cilia). Ribbon worms may have zero to 80 'eyes' (light-dectecting sensors). Some ribbon worms produces mucus through which they move.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

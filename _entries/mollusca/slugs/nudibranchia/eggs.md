@@ -12,6 +12,13 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
 updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
 galleries:
@@ -45,10 +52,11 @@ links_references: |
   : how they're formed, coiling, what eats them and more.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These rosette-like ribbons of eggs are sometimes seen on many shores.
 
-**Features:**
+## Features
+
 Diameter 8-1cm. Frilly ribbon of eggs embedded in mucus, laid in a spiral on hard surfaces or among seaweeds and seagrasses. Usually white or beige.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

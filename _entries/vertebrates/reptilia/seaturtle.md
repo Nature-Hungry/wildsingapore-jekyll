@@ -107,10 +107,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 Adult sea turtles are sometimes sighted near our Southern Islands. While there have been several incidents of baby sea turtles hatching on our shores, including East Coast Park!
 
-**Features:**
+## Features
+
 Marine turtles are air-breathing reptiles that live out at sea. They only return to land to lay their eggs on sandy beaches. Superbly adapated to life at sea, the sea turtles limbs are modified into oar-like flippers. As adults many migrate, some for very long distances. Studies show that sea turtles found in Singapore waters may nest on shores in our neighbouring countries, and possibly visa versa.
 
 Globally, there are 7 sea turtle species belonging to two families. The two species most commonly encountered in Singapore are the Green turtle and the Hawksbill turtle.

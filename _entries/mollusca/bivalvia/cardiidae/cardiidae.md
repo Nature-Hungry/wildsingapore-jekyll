@@ -78,7 +78,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These large cockles are sometimes seen on some of our shores.
 These animals usually burrow shallowly in sandy to muddy bottoms.
 
@@ -87,7 +87,8 @@ True cockles belong to Family Cardiidae. There about 200 species of true cockles
 [Giant clams](../tridacnidae/tridacnidae.md)
 in subfamily Tridacninae.
 
-**Features:**
+## Features
+
 5-7cm. The two-part shell is sturdy and usually ridged. The hinge has two strong teeth in each valve. They have a short fringed siphon and
 can use their long, strong, sickle-shaped foot to jump and escape predators.
 

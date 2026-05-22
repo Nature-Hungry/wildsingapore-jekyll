@@ -85,12 +85,13 @@ links_references: |
   New Holland.
 ---
 
-**Where seen?**
+## Where seen?
 This large lizard is commonly seen on many of our shores, including our offshore islands. According to Baker, they are found in forests, mangroves, scrubland and beaches where they tend to stay close to water. As well as in large canals in built up areas.
 
 Although mainly terrestrial, it can climb trees and also swims well (keeping its limbs to the side of the body, and propelling itself with sinuous undulations of the flattened tail). It can even dive underwater.
 
-**Features:**
+## Features
+
 ****
 2.5-3m long. Among the largest lizards in the world, certainly the largest reptile in our marine habitats. A robust, muscular body with a long tail that is flattened towards the slender tip. It has a slender forked tongue. The nostrils are located close to the tip of the long and slender snout. It has small non-overlapping scales on a thick leathery skin. Hatchlings are black with whitish undersides with rows of bright yellow spots forming bands along the back and tail. This pattern fades in adults which is often plain grey. Non-venomous and shy of humans, it will prefer to flee than to fight. But if cornered, it may bite. So do leave the monitors alone.
 

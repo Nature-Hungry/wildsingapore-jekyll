@@ -78,9 +78,10 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This little fish with a permanent pout is often seen on Changi, sometimes seen on our Northern shores, on sandy areas near seagrasses. Well camouflaged on the sand, it is hard to spot. It is more active at night.
-**Features:**
+## Features
+
 Those seen about 5cm, grows to about 10cm. Body somewhat flattened downwards. Head broad and flat with a narrow pointed mouth so that the head appears triangular when seen from above. The mouth can stick out downwards forming a tube and the upper jaw can be greatly extended. Large eyes are set high on the head. Gill openings reduced to small pores on the top of the broad head. It has a pattern of spots that blend well with the sand, usually beige with indistinct dusky spots. But sometimes with colourful blue spots too. It is white on the underside. In the male, the first three spines of the dorsal fin are greatly elongated into filaments. The females lack this.
 
 According to Ng, it lacks a distinct dark spot at the base of the pectoral fin and anal-fin rays. It is otherwise distinguished from the other dragonets of Singapore in having a sharply delineated wavy line separating the colour pattern on the upper and lower surfaces of the body, dark markings on the anal fin, and the first dorsal fin of males with elongate second, third, and fourth fin rays. The females lack this.

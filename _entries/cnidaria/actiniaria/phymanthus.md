@@ -120,10 +120,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These anemones with many fine 'branches' on their tentacles are often seen on many of our shores. Among coral rubble, usually with the body column wedged in crevices.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 8-12cm. Tentacles about 3-5cm long with elaborate 'branches'. Only one side of the tentacle appears to bear the 'branches'. The anemones come in a wide variety of colours and their branched tentacles may have different patterns. Also sometimes encountered are branched anemones with tentacles that are generally smooth with only slight bumps.
 
 The body column is pale becoming darker near the top and has longitudinal rows of white verrucae. The anemone can tuck its tentacles into its body column.

@@ -140,10 +140,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This is our larger horseshoe crab and it is sometimes encountered on some of our shores, on sandy shores near reefs and seagrass meadows. They are often seen in pairs, with the smaller male on top of the larger female. Elsewhere it is found in mangroves, sandy beaches and muddy bottoms.
 
-**Features:**
+## Features
+
 Diameter to about 25cm. The circular shell is greyish sometimes brown. Identified by longer spines on the side of the body, the tail is triangular in cross-section near where it joins the body, with a groove on the underside and with a serrated edge on the upperside. The male's special legs for holding on to the female has one 'finger'.
 
 **Sometimes confused with**

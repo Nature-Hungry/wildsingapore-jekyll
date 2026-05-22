@@ -88,7 +88,7 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 These whiskery fishes usually leave for deeper waters at low tide. Sometimes, you might come across one trapped in a pool at low tide. Fishermen, however, often catch them when angling from jetties. Small juveniles were once seen in numbers on Chek Jawa among the seagrasses.
 
 **What are sea catfishes?**
@@ -96,7 +96,8 @@ Sea catfishes belong to the Family Ariidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=145)
 : The family has 14 genera and 120 species. Most of the members of this family live in the sea. Only a few found in freshwater. They are found in tropical and subtropical waters.
 
-**Features:**
+## Features
+
 To about 20-30cm long. The blunt snout usually has 3, rarely 2, pairs of 'whiskers' (called barbels) around the mouth. There are bony plates on the head and near the dorsal fin. The tail fin is forked. These fishes have a venomous spine on the dorsal fin, and on each of the pectoral fins. These spines are used to protect themselves against predators, and not to catch prey. Their stings can be excruciating and long-lasting. So please don't handle any catfishes.
 
 All the fishes in this page are

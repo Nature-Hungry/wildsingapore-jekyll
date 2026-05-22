@@ -57,13 +57,14 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near
 [Rainbow sponges](rainbow.md)
 (
 *Suberites*
 sp.)
-**Features:**
+## Features
+
 Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg)

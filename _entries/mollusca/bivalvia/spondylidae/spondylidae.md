@@ -67,12 +67,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather large clam with spikes is sometimes seen near reefs, stuck to rocks or dead corals. It is not a true oyster, which belong to
 [Family Ostreidae](../ostreidae/osteridae.md)
 .
 
-**Features:**
+## Features
+
 8-10cm.
 The two-part shell is thick and heavy.
 The lower (right) valve is cemented very firmly to the hard surface and is more convex (like a cup). The upper (left) valve is rather flat, like a lid, and covered with flat short spines. The animal has short tentacles and eyes at the margin of the body mantle.

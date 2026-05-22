@@ -63,10 +63,11 @@ location:
 - chg
 ---
 
-**Where seen?**
+## Where seen?
 This well decorated moon crab is sometimes very commonly seen on Changi, on sandy areas near seagrasses. It is more active at night and is rarely seen by daytime visitors as they are then often buried in the sediments. 'Planipes' in Latin means 'actor who wears no shoes'.
 
-**Features:**
+## Features
+
 Body width 5-8cm. Body rather circular, with a pair of long spikes on the sides. Does not have bumps on the middle of the body. Colours beige to yellow with little maroon dots forming a net-like pattern with white spaces. Pincers short, sturdy, held against the body to form a somewhat box-like shape. All walking legs end in paddle-shaped tips and used to skim along the sea bottom and also like spades to rapidly burrow into the sand. Legs are bright yellow on the upper part with bluish or dark markings near the paddle-shaped ends.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -109,10 +109,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 The smooth burrow of this large, brightly coloured animal is sometimes seen among rubble near living reefs on our Southern shores. But animal itself is seldom seen out in the open. Often, all you might glimpse is just the tip of a bright orange claw in the distinctive burrow. At night, however, you may spot one near the burrow entrance as it does some housekeeping, or even wandering about outside.
 
-**Features:**
+## Features
+
 4-6cm long. Long abdomen with broad tail, a pair of larger pincers, usually one much larger than the other. Pincers usually bright orange, smaller appendages and antennae banded orange. Body translucent, white or yellowish.
 
 It digs long, smooth sided burrows in solid coral rubble. The burrows are said to be complex. The burrow looks like a PVC pipe! Thanks to Dominik Kneer who shared that they achieve this by gluing sand grains together, their legs give off a sticky mucus. He also shared that a similar looking animal,

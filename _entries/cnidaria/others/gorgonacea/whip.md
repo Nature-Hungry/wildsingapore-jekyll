@@ -87,10 +87,11 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This long unbranched colony is sometimes seen on our Northern shores, on coral rubble.
 
-**Features:**
+## Features
+
 20-30cm long. Stem cylindrical and unbranched and has bumps all around. Small transparent to white polyps emerge from these bumps when the colony is submerged. Usually white, but sometimes yellow ones are seen.
 
 According to Fabricius, in some species, the tip of the colony can detach to fall to the sea floor and grow up as a new sea whip.

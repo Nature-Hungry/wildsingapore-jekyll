@@ -57,14 +57,15 @@ galleries:
       caption: "Acknowledgements With grateful thanks to Teo Siyang and Bian Tan for identifying this plant. Links Syzygium zeylanicum on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This small shrub is sometimes seen growing wild on our natural coastal cliffs such as those at St. John's Island. It is also cultivated. According to Hsuan Keng, it was found in sandy spots near the sea, including Tanglin, Changi, Kranji and Tuas. According to Corners, it is common by rivers and seashores of Indo-Malesia, in secondary jungles and the tops of low hills up to 2,000 feet. It was previously known as
 *Eugenia zeylanica*
 and
 *Eugenia spicata*
 .
 
-**Features:**
+## Features
+
 Usually a bush, sometimes a short tree (rarely exceeding 10m). Leaves leathery with very short leaf stalks, 2cm or less. Leaves oval, leathery with pointed tips, arranged opposite, in pairs. No stipules and no latex from broken parts. The young leaves are purple pink. The puffy white inflorescence is very short and dense (2cm or less) and calyx is minutely pimpled with oil glands. When the bushy trees are in bloom, the effect is 'snowy'. The fruit is small (less than 1cm) oblong, white and pithy, appearing in bunches.
 
 **Human uses:**

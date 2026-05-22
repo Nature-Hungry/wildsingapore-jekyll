@@ -35,12 +35,13 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This bright orange jumble of tangled string-like sponge does indeed resemble a local favourite
 [Roti Jala](http://hungerhunger.blogspot.sg/2008/03/roti-jala-net-pancakes.html)
 . It is sometimes seen on Beting Bronok.
 
-**Features:**
+## Features
+
 Bright orange long skinny strings about 0.2cm in diameter, in a tangled jumble that may be 20cm wide. On rubbly areas or tangled on other encrusting organisms. Although the surface may appear smooth, it is rather rough. The strings are fragile.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -125,10 +125,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This decorative and rather large goby is commonly seen on many of our shores, at low tide sheltering in pools among coral rubble, near seagrasses and living reefs. Usually seen alone, but many individuals can be spaced apart over a small area. Sometimes, lots of small ones can be seen schooling close together at low tide.
 
-**Features:**
+## Features
+
 Large for a goby, it grows to about 10cm. Those seen usually about 8cm. Bulbous snout that overhangs the mouth, with thick lips. On the side of the body, two rows of black or dark dashes. It is indeed ornately decorated with many red and blue speckles.
 
 **Sometimes confused with**

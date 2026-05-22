@@ -58,12 +58,13 @@ galleries:
       caption: "Links Tamarindus indica on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks Board. 202 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pretty orchid-like flowers and famous fruits is sometimes seen wild on our shores. It is also planted as a roadside tree.
 
 The tree is a native of East Africa and West Asia but is now widespread throughout the tropics. It does best in sandy soil near the sea. It drops its leaves after dry weather, after which new leaves and flowers appear. To thrive, the tree needs a monsoon climate and is thus not a conspicuous or 'successful' tree in Malaya, according to Corners. According to Burkill, the Arabs called the tree the Indian date (tamar) from which the name Tamarind came about.
 
-**Features:**
+## Features
+
 A tall tree (20-25m). The compound leaves (6-12cm long) are made up of little leaflets. The leaflet tips are minutely notched and the leaflets fold together at dusk. The beautiful small flowers are rose red in the bud and when blooming is pale yellowish with pink veins. The sausage-shaped pods (4-20cm long) are scurfy brown, according to Corners, and pithy green inside when unripe. When ripe it contains a soft acidic pulp and many hard-coated seeds.
 
 **Human uses:**

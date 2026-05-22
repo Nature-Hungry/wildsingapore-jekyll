@@ -63,10 +63,11 @@ location:
 - lab
 ---
 
-**Where seen?**
+## Where seen?
 This small fanworm is often seen in sandy, silty areas near seagrasses on Changi.
 
-**Features:**
+## Features
+
 Fan 3-4cm in diameter. The fan pale with faint bands of brown and orange. The feathery tentacles have tiny black spots on the 'ribs'. The body is thick and segmented with tiny bristles.
 Usually found alone.
 

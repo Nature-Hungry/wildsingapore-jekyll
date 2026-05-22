@@ -111,10 +111,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Like a blue race-car with a colourful line along the side, this stunning flatworm is sometimes seen on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 4-5cm long. Body solid blue to bluish purple (not bluish-white). The central line is white (not yellow or golden) becoming orange or red near the head, the line is edged with a thin dark purple border. It has a pair of pseudotentacles made up of simple folded edges of the body.
 
 **What does it eat?**

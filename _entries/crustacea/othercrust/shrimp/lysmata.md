@@ -55,10 +55,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This little striped shrimp is sometimes seen on some of our shores. It is not as commonly seen as other shrimps. Sometimes seen in small groups near coral rubble or large debris and other crevices.
 
-**Features:**
+## Features
+
 About 1-2cm long. The body is transparent or white with many close-set thin dark lines along the body. A sharp pointed 'nose' and the eyes are close together. It doesn't have long pincers.
 
 **Cleaning service:**

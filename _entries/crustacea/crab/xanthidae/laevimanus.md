@@ -163,10 +163,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large crab with typical spoon-tipped pincers is commonly seen on our Southern shores among coral rubble and near living reefs. 'Laevi' in Latin means 'left', while 'manus' means hand. Indeed, the left pincer is usually larger than the right.
 
-**Features:**
+## Features
+
 Body width 8-10cm. Body fan-shaped, rather flat, with 4 blunt teeth on the edges of the shell. Colours and patterns in a wide variety; basically brown, beige or grey. Plain or with patterns which include pale or yellow mottles, with one or more white or yellow stripes from the front between the eyes to about half way down the body. The walking legs are fringed with long hairs and end in pointed tips. Pincers long, slender and smooth (no pimples) with black spoon-shaped tips. The left pincer usually slightly larger and longer. These are probably used to scrape off algae.
 
 **Sometimes confused with**

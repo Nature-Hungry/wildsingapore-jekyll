@@ -83,10 +83,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful nudibranch is sometimes seen at Beting Bronok, and often encountered by divers on our reefs.
 
-**Features:**
+## Features
+
 2-3.5cm long. Long narrow, soft body with many long finger-like structures (called cerata) arranged in about 8 fan-like clusters along both sides of the body. It is distinguished by the purple body and yellow tips on the cerata with a band just below the tip. The rhinophores are slender and tipped reddish purple. It also has a pair of oral tentacles (like a moustache) which are also tipped reddish purple.
 
 **Sometimes mistaken for**

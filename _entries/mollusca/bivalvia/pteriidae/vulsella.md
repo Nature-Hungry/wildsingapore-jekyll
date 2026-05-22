@@ -43,12 +43,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This clam is deeply embedded in a sponge, with only the shell opening appearing as a slit on the surface of the sponge. It was previously in
 [Family Malleidae](../malleidae/malleidae.md)
 (Hammer oysters).
 
-**Features:**
+## Features
+
 Slit 1-2cm long, the clam is generally not seen outside a sponge in the wild. It has been seen in several kinds of sponges in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

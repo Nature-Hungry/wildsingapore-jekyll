@@ -124,14 +124,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This T-shaped clam is sometimes seen lying freely among the seagrasses. Some are shaped like tongue depressors or spatulas and seen wedged upright crevices among rocks and rubble, or under stones. Seen on Changi and some of our Southern shores. The clams are said to be found in colonies. According to The Gladys Archerd website, most live in the crevices of coral rocks or on reef flats in tropical regions.
 *Malleus*
 are NOT true oysters which belong to
 [Family Ostreidae](../ostreidae/osteridae.md)
 .
 
-**Features:**
+## Features
+
 8-12cm. The two-part shell is thick and some are obviously T-shaped. 'Malleus' means 'hammer' or 'mallet' in Latin. The hinge is on the 'horizontal' portion of the 'T' and the valves held shut by one large adductor muscle that lies at the cross of the 'T'. Some have wavy edges along the 'vertical' portion of the 'T'. The outer shell is often encrusted with calcareous algae and other organisms. The inner shell is partially lined with mother-of-pearl. Byssus threads are produced near the hinge - the 'T' shaped part of the shell - which anchors the clam. .
 
 The clams grouped here are probably from different species.

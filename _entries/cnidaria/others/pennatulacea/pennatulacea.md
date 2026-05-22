@@ -78,7 +78,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These strange animals are commonly seen on our Northern shores. In soft, silty sand near seagrasses. At low tide, they are often retracted completely into the sand. Sometimes, an "uprooted" sea pen might be seen washed up on the shore or stranded in a pool.
 
 Please do not step on or pull sea pens out of the sand. You will hurt a whole colony of animals and the small creatures that live on them.
@@ -92,7 +92,8 @@ as sea anemones. Unlike sea anemones which are large solitary polyps, each sea p
 [soft corals](../../coralsoft/coralsoft.md)
 . Members of this subclass have tentacles which are branched and in multiples of eight. There are about 300 species of known sea pens.
 
-**Features:**
+## Features
+
 Those seen on our shores average 15-25cm long. Sometimes really small ones 2-4cm long are seen.
 
 Each sea pen is a colony of different kinds of polyps connected to one another, each playing a different role.

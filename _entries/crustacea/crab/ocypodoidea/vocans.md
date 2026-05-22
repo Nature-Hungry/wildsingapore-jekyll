@@ -133,12 +133,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny crab with a 'pimply' oversized pincer is commonly seen on our natural undisturbed shores, usually on softer, muddier areas more exposed to wave action than other fiddler crabs. This includes the bottom of swimming lagoons, shores near large boulders. It was previously known as
 *Uca vocans*
 .
 
-**Features:**
+## Features
+
 Body width 2-3cm. Body squarish. The male fiddler crab's enlarged pincer almost twice as long as the body width. The enlarged pincer's outer palm is pimply with a large triangular depression. The movable upper finger meets (does not extend past) the immobile lower finger. The tips of the fingers are flattened and sword- or sabre-like. There is a wide gape between the upper and lower finger. The enlarged pincer's inner palm has a horizontal ridge of bumps. The immobile lower finger is orange or yellow. Body colours and patterns vary: some greenish, others greyish. Eyes greyish with dark tops, on long stalks greyish, walking legs short greyish to brown or orange.
 
 Their burrows can be half a metre deep!

@@ -52,12 +52,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tine slug with fine lines is sometimes seen on both Northern and Southern shores near seagrasses. It was previously known as
 *Philinopsis lineolata*
 .
 
-**Features:**
+## Features
+
 2-3cm. A long, cylindrical body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. Body with fine dark and pale horizontal lines. Flaps on the front and back of the body with bright blue and white margins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

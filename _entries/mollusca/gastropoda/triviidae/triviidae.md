@@ -72,10 +72,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tiny snail resembles a cowrie but belongs to a different family. It is found in coral reefs under rocks.
 
-**Features:**
+## Features
+
 About 1cm. The shell is white, oval with regular parallel ridges all around the shell including the upper side. There is a prominent groove along the length of the upper side, cutting across the ridges.
 
 **What do they eat?**

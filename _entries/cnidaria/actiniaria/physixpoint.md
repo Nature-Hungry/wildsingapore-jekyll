@@ -79,10 +79,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather small frilly anemone is seen on many of our shores. Usually on sand near coral rubble.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 4-8cm, smaller than other frilly anemones. Tentacles with many fine 'branches'. Tentacles shorter than other frilly anemones. All the tentacles are usually the same muted colour blending with the surroundings. Oral disk generally pale and often covered with sediments.
 
 The innermost ring of about six tentacles are usually of a different colour from the rest of the tentacles. Sometimes brightly coloured. Sometimes, the colour blends in with the surroundings, so that the first visible sign of this anemone are the six brightly coloured tentacles. One was seen with a striped body column.

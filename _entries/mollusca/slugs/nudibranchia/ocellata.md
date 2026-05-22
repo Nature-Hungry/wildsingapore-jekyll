@@ -89,10 +89,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This stunning nudibranch with 'eyes' on its back is sometimes seen, on our Southern shores, on coral rubble and reefs.
 
-**Features:**
+## Features
+
 About 5cm long. Body long, hard with white bumps on a yellow body. Some of the white bumps have dark circles so they look like big eyes. The rhinophores are yellow too. The literally eye-popping colours and design warn predators of its unpleasant nature. When disturbed, noxious secretions appear from the bumps.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

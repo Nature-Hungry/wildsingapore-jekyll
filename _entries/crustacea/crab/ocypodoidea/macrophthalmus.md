@@ -127,10 +127,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This inconspicous little crab with eyes on super long stalks are sometimes seen on soft silty and muddy shores such as swimming lagoons. It builds distinctive holes which are either rectangular or oval and seldom circular.
 
-**Features:**
+## Features
+
 Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
 **Sometimes confused with**
 [fiddler crabs](uca.md)

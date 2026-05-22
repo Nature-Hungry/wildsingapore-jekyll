@@ -57,11 +57,12 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This tubular with spikes sponge is sometimes seen on Beting Bronok and other undisturbed Northern shores.
 
 ****
-**Features:**
+## Features
+
 A neat small bush (about 20cm) with closely packed narrow tubes (about 1-2cm wide) regularly ringed with large neat spikes, forming a star-like shape around the large hole at the tip of the tube. There is a transparent 'lip' around the hole which is more obvious in a submerged sponge. Colour lilac to bluish.
 
 **Sometimes confused with**

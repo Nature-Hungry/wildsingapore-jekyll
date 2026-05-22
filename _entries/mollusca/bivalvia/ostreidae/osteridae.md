@@ -150,13 +150,14 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Among our favourite seafood, oysters are often over-collected on some of our more accessible shores. Sometimes, they are merely vandalised by thoughtless visitors. They are common on the rocks and other hard surfaces of many of our shores.
 
 **What are true oysters?**
 True oysters belong to the Family Osteridae.
 
-**Features:**
+## Features
+
 The two-part shell is thick and chalky. In true oysters, the left valve is glued firmly to a hard surface. What we see is the right valve. A layer of barnacles and algae often eventually develops over the right valve so that the oyster becomes hard to distinguish from the rock. Some oysters have spikes on this valve, probably to deter predators such as
 [drills](../../gastropoda/muricidae/muricidae.md)
 . Other bivalves usually have a foot, to dig with or move about. Being immobile as adults, oysters have lost their foot.

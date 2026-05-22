@@ -154,11 +154,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegant anemone with few tentacles held in wiggles is seen among coral rubble and living hard corals on our Southern shores. It is very
 shy and disappears instantly at the slightest sign of danger. Seen both at night and during the day.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 4-5cm. Tentacles few (about 20), thick at the base and tapering to a slender tip. Most of the tentacles are usually held flat against the surface, arranged in pairs or sets of three, with the tips in 'wiggles'. Often, 5 of the tentacles are held
 upright forming a 'tent' over the mouth.
 Oral disk tiny.

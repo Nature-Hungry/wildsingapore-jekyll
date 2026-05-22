@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a tooth in its shell opening is commonly seen on many of our shores. Often seen in groups on boulders, stones and seawalls on many of our shores. It is more active at night.
 
-**Features:**
+## Features
+
 3-4cm. Shell thick heavy, an asymmetrical cone with spirals of rounded bumps. Colour usually grey or greenish grey.
 *Mono donta*
 means 'one-toothed'. Indeed, there is a single large tooth-shaped structure at the shell opening which is white and smooth.

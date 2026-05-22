@@ -86,10 +86,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 On the intertidal, this flat hard circular seaweed encrusts hard surfaces near reefs, often overlapping like fish scales.
 
-**Features:**
+## Features
+
 Clusters of flat circular encrusting (2-4cm) disks that have a slippery surface. The disks are hard because they incorporate calcium carbonate on the underside. Most of the disk is stuck to a hard surface, sometimes the edges are free. Often crowded or overlapping. Colour orangey, yellowish brown, chocolate brown to brown.
 
 **Sometimes confused with**

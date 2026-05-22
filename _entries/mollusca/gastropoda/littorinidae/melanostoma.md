@@ -70,10 +70,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This rather large periwinkle is sometimes seen on mangrove tree trunks and sometimes even leaves. Usually seen alone.
 ****
-**Features:**
+## Features
+
 2-3cm. Shell conical with sharp tip, smooth, yellow with fine spiral pattern of brown dots. Sometimes the shell is bleached white. Shell opening with black edge. "Melanostoma" means "black mouth".
 Operculum thin, circular, dark brown, made of a horn-like material.
 The animal is yellowish with short fat tentacles.

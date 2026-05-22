@@ -127,14 +127,15 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 Made famous by the cartoon "Finding Nemo", these fishes are a delight and the highlight of a trip. Anemonefishes are commonly seen among the sea anemones of our Southern shores. At low tide, they may shelter in a pool nearby while their anemone is left high and dry.
 
 **What are anemonefishes?**
 Anemonefishes belong to the
 [Family Pomacentridae](pomacentridae.md)
 . Anemonefishes are in the subgroup Amphiprioninae in this family.
-**Features:**
+## Features
+
 To about 9cm. An eye-catching red-and-white pattern, rounded fins, and 'wriggling' deep among a sea anemone's tentacles
 makes this fish quite unmistakable. Indeed, the most amazing feature of anemonefishes is that they can live happily among the tentacles of sea anemones that would otherwise kill (and eat) other fishes, including larger fishes.
 

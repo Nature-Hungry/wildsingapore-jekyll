@@ -246,10 +246,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This delightful fish is commonly seen in large sea anemones on some of our Southern Islands. At low tide, it is usually well hidden under or among the sea anemone tentacles. It is more active when the sea anemone is submerged. Look for it with the outgoing tide, when the water is clearer (than the incoming tide).
 
-**Features:**
+## Features
+
 2-9cm. Red to reddish-brown with three broad white bars (the middle bar widening at the middle of the side of the body towards the head) and black bands on the edges of all the fins including the top of the dorsal fin.
 
 **False Clown?**

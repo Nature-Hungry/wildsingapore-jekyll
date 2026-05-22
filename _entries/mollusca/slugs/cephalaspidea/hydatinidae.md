@@ -79,10 +79,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 These beautiful snail is sometimes seen on our Northern shores. It was previously placed in Family Hydatinidae.
 
-**Features:**
+## Features
+
 1-4cm. Shell smooth globular may be thin, usually with colourful spirally stripes. The body mantle is much larger than the shell and held in frills. It lacks an operculum. The animal can withdraw completely or almost completely into its shell.
 
 **What does it eat?**

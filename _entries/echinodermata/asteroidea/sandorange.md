@@ -100,10 +100,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large sea star with a startling orange underside is sometimes seen on sandy shores.
 
-**Features:**
+## Features
+
 Diameter with arms 10-15cm. Body rather flat.
 Arms long, tapered to a sharp tip. Along the sides of the arms are large marginal plates and stout long sharp spines. These spines resemble the teeth of a comb and members of this family are sometimes called Comb sea stars. The upperside generally beige with blue edges. The underside of the body is bright orange. Tube feet also bright orange, large with white pointed tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

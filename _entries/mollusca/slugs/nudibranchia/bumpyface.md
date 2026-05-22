@@ -71,10 +71,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This armina nudibranch is sometimes seen on Changi and some of our Northern shores among seagrass meadows. It is often seen burrowing in sand.
 
-**Features:**
+## Features
+
 3-4cm long. Long, narrow body with stripes and a white border on the edge of the mantle skirt. The foot is white too. The wedge-shaped flap over its mouth (oral veil) has finger-like bumps on it. It lacks a feathery gill on its back. According to
 [Bill Rudman](http://www.seaslugforum.net/showall/armisemp)
 , the coloured wiggly lines seen on the underside of the body are not gills although gas exchange may take place. These act like the cerata of aeolids, a place where the digestive gland can expand. These lines often are the same colour of their sea pen food.

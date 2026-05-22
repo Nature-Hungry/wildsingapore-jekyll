@@ -95,10 +95,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These pinkish crunchy pom-poms are often seen on our Southern shores, growing among living corals, or on rubble near living reefs. Usually seen alone, not forming carpets or covering large areas.
 
-**Features:**
+## Features
+
 A bushy cluster (3-6cm) of many stiff, thick, cylindrical 'stems' that are regularly branched. The 'stem' tips with blunt rounded tips often with a darker pink dot at the tips. The spherical bushy shape may be dense or rather loose. The seaweed incorporates calcium carbonate making the 'stems' hard and brittle.Colours pink, dark pink to maroon.
 
 *Tricleocarpa cylindrica*

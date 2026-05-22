@@ -58,12 +58,13 @@ galleries:
       caption: "Links Crinum asiaticum on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
 ---
 
-**Where seen?**
+## Where seen?
 A gianormous lily with lovely white flowers, it is seldom found wild on our shores. However, it is extensively planted as an ornamental in gardens and public places. According to Davidson, it is found in sandy shores and the back mangroves. Wild populations are restricted to Pulau Seletar, Sungei Khatib Bongsu, Sungei Mandai and the Western Catchment area. According to Hsuan Keng, it was formerly found on sandy shores including Changi, Kranji, Sungei Buloh, Sungei Tengah; eventually restricted to Pulau Semakau, Sungei Mandai and the Western Catchment Area.
 
 Elsewhere, it is usually found in shaded areas, from sea level to 700m, but also in full sun. In sandy beaches, freshwater swamps and occasionally in (sandy) mangroves. Large specimens occur in freshwater and brackish swamps, while those occurring on dry, sandy seashores are usually smaller.
 
-**Features:**
+## Features
+
 The plant arises from an underground, fleshy bulb. From this grows a rounded and fleshy 'stem' (actually the lower part of the leaves). Leaves long (50cm-1m) and narrow with a pointed tip. Many white flowers in a cluster, large (8-9cm) and sweetly scented. Fruit irregularly rounded, white (about 5cm) containing green seeds.
 
 **Human uses:**

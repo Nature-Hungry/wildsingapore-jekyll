@@ -54,10 +54,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny cricket is sometimes seen on some of our shores. On rocky shores near the mid- to high-water mark, and sandy areas nearby. Usually more active at night.
 
-**Features:**
+## Features
+
 Body about 1cm long. A fat bodied insect with long back legs and very long antennae. Usually crawls slowly and only hops to escape predators. The
 [Marine spider](../arachnida/desis.md)
 (

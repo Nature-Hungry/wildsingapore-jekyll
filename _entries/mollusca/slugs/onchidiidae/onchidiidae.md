@@ -113,7 +113,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Onch slugs are common on all our shores, on algae-covered rocks or other hard surfaces, or on mud in mangroves or mangrove tree roots. But they are often well hidden especially on a hot day, or well camouflaged even when moving about in the open.
 
 **What are onch slugs?**
@@ -128,7 +128,8 @@ Pulmonate sea slugs such as the Onch slugs of the Family Onchidiidae breathe air
 [onch slugs from other sea slugs](../../nudiharesac.md)
 .
 
-**Features:**
+## Features
+
 1-5cm. Unlike most other snails, they don't have a shell as adults. Instead, they have tough leathery skin to reduce water loss. But like most other snails, they have a broad foot and tiny eyes at the tips of a pair of long fleshy stalks. Most snails have eyes at the base of tentacles. When disturbed, the eye stalks retract under the tough broad body. Onch slugs often blend perfectly with the rocks in both colour and texture! Bits of sand and sediments that get stuck on their skin adds to the camouflage. So please watch your step when you are walking on a rocky shore.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 These slugs belong to the same group as land snails. They have modified gills, a section of the mantle cavity modified as a lung to breath air. The opening to this cavity is at their rear ends. At high tide, they burrow into mud or sand, trapping an air bubble to breathe from.

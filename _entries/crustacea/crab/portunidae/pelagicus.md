@@ -189,10 +189,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Flower crabs are among our favourite seafood! It is commonly seen on many of our shores, especially the Northern shores and those with seaweeds and seagrasses. But it is not easy to spot. If trapped in a pool at low tide, it buries itself in the sand or mud. Besides the larger adults, there are also lots of smaller juvenile flower crabs hiding among the seagrass and seaweeds.
 
-**Features:**
+## Features
+
 Body width 5-7cm to about 20cm. Body fan shaped, body sides with 9 white-tipped spines, increasing in size from the eye outward, the last spine a very large protruding horizontal spike. The eyes are not very far apart. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Pincers long narrow, armed with sharp spines.
 
 **The difference between boys and girls:**

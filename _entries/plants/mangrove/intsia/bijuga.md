@@ -56,14 +56,15 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree is sometimes seen in our back mangroves. According to Hsuan Keng, it was commonly found along the sea coast including Changi and Kranji. According to Corners, it is common and found along the coasts, mangroves and river banks within tidal and brackish reaches. According to Giesen, it is also often found on coral. It was also known as
 *Afzelia bijuga*
 and
 *Afzelia retusa*
 .
 
-**Features:**
+## Features
+
 A tree up to 40-50m tall. Bark light grey, slightly scaly in large, thin roundish pieces, slightly pimply with lenticels (bumps), large trees may have buttress roots up to 4m tall and 2m wide.
 
 Compound leaves with leaflets in 1-2 pairs, opposite to one another, no terminal leaflet. Leaflets almost circular (3-12cm long) leathery, the tree may drop off all its leaves at the same time (deciduous).

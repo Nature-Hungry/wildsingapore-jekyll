@@ -11,14 +11,18 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
 updated: May 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [
+  "Egg capsules contain living eggs or tiny animals. Don't disturb them.",
+  "Egg capsules are found on stones and among seaweeds. Watch your step.",
+  "Please don't bring egg capsules home. Thousands of baby animals may die."
+]
+
 galleries:
-  gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Egg capsules contain living eggs or tiny animals. Don't disturb them. Egg capsules are found on stones and among seaweeds. Watch your step. Please don't bring egg capsules home. Thousands of baby animals may die.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Egg capsules contain living eggs or tiny animals. Don't disturb them. Egg capsules are found on stones and among seaweeds. Watch your step. Please don't bring egg capsules home. Thousands of baby animals may die.
   gallery2:
     - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
       caption: "String of black egg capsules Changi, Jul 02"
@@ -68,9 +72,8 @@ galleries:
       caption: "Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ."
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These egg capsules are seen on many of our shores and can be seasonally common. These capsules were probably produced by
 [cephalopods](../cephalopoda.md)
 which includes
@@ -79,7 +82,7 @@ which includes
 [squids and cuttlefish](squid.md)
 .
 
-**Features:**
+## Features:
 Some take the form of small tear-drop shaped capsules (1.5-2cm) joined together to form a 'string' about 10-15cm long. The entire assembly is usually attached to a firm structure or surface such as a
 [tubeworm](../../worm/tubeworm/tubeworms.md)
 's tube or

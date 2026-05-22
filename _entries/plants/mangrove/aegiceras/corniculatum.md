@@ -73,10 +73,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 A rare shrub. According to Ng, it was found in various northern sites and Pulau Unum. According to Hsuan Keng, it was found in mangroves including Tuas, Changi, Lim Chu Kang and Pulau Ubin. According to Davison, it is found on Pulau Unum, Sungei Khatib Bongsu, Sungei Mandai, Pasir Ris Park, Lim Chu Kang and the Western Catchment. Elsewhere, it is characteristic of the outer, seaward fringe of mangroves and usually appears as an isolated shrub, never forming a conspicuous part of the community. According to Burkill, it likes light and is never found under the shade of mangroves. Instead, it is 'abundant' on mud above the high water mark. According to Giersen, it tolerant of a wide range of salinity, soil and light conditions and most commonly found in back mangroves that are inundated by the normal high tide, in sandy substrates. It is found from India to New Guinea and common in the mangroves of Malaya. According to Tomlinson, it is widely distributed from Sri Lanka to South China through the Malay archipelago to Polynesia and northeastern Australia to New South Wales.
 
-**Features:**
+## Features
+
 Shrub or low tree growing to 6m tall, but in Singapore it usually grows up to only 1-2m tall. Bark fissured with numerous lenticels. Roots running along the soil surface.
 
 Leaves oval (4-8cm) thick, leathery dark green glossy above, paler below. The leaves are arranged alternately in spirals. No stipules. The leaves often encrusted with salt crystals.

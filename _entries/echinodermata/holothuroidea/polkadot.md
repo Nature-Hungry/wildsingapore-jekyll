@@ -83,12 +83,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This pale sea cucumber with polka dots is sometimes seen on sandy areas among seagrasses at Changi. It was previously known as
 *Holothuria ocellata*
 .
 
-**Features:**
+## Features
+
 6-8cm long. Body spindle-shaped (pointed at both ends) cylindrical with an obvious flat underside, resulting in a ridge along the sides of the body. The polka dots comprise dark circles around very short pale conical bumps. The polka dots are found on the upper and underside. It has short feeding tentacles with bushy tips. Colours pale lilac to white, patterns purplish or brownish.
 
 According to Teo Siyang and Lionel Ng, the sea cucumber prefers to be buried in the sand, and other studies suggest it is usually deeply buried. Indeed, we often only encounter this animal at night or near sunrise.

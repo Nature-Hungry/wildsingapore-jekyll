@@ -50,12 +50,13 @@ galleries:
       caption: "Links Morinda citrifolia on Total Vascular Flora of Singapore Online: photos and fact sheet. Morinda citrifolia on the NParks Flora and Fauna website: photos and fact sheet. Morinda citrifolia (Gentianales: Rubiaceae) Noni by Chen Junhao, 2012 on taxo4254. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp."
 ---
 
-**Where seen?**
+## Where seen?
 This strange plant is sometimes seen especially in areas where kampongs (villages) used to be. With shiny leaves and bizarre flowers and odd smelly fruits, it has an amazing variety of traditional uses.
 
 According to Giesen, it is tolerant of a wide range of habitats from wet to dry, poor to rich soils and can be found up to an altitude of 300m. In the wild, it is commonly found along the coast, including rocky shores and the back mangroves. It was possibly originally native to South Asia and northern Australia but is now found throughout the tropics and is particularly common in the Pacific Islands. According to Corners, it was possibly wild on rocky shores and was common in all villages in Malaya, frequently on the sea coasts.
 
-**Features:**
+## Features
+
 May grow into a small tree 3-10m tall, but those on our shores usually much shorter and often just shrubs. Bark pale greyish-brown, shallowly fissured.
 
 Leaves eye-shaped large (10-40cm long) dark green, glossy, arranged opposite one another.

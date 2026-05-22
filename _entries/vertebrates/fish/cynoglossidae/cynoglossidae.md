@@ -141,7 +141,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.
 **What are tongue-soles?**
 Tongue-soles are
@@ -149,7 +149,8 @@ Tongue-soles are
 belonging to the Family Cynoglossidae. According to
 [FishBase](http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442)
 : the family has 3 genera and 110 species. They are found in all warm oceans, most species in shallow waters or near river mouths. One group (Symphurinae) are found in very deep waters 1,000m or more. In Greek, 'kyon' means 'dog' and 'glossa' means 'tongue'.
-**Features:**
+## Features
+
 To about 18cm, those seen about 3-6cm. Both eyes on the left side, usually very small and close together. Body flat and oval, tapering at the tail, like an elongated tear-drop shape. The tail fin is joined and merges seamlessly with the dorsal and anal fins. There are no spines in all the fins. The dorsal fin starts at or infront of the eyes. It lacks pectoral fins. The teeth are tiny and usually only on the blind side. The eyed side usually has an even pattern of pale spots and matches the colour of its surroundings. Patterns may vary even within the same species. And patterns are often obscured by a layer of sand. Species are difficult to positively identify in the field or from photographs without closer examination of small features on the body.
 
 **Sometimes confused with**

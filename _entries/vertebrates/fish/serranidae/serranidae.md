@@ -125,14 +125,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Groupers are sometimes seen on some of our shores. At low tide, they may be stranded in pools or hiding under large chunks of coral rubble. Juveniles are common in muddy, sandy river mouths and among mangroves. Adults found in reefs as solitary carnivores. Small groupers are sometimes encountered on our shores at low tide. Do leave them alone, so they can grow bigger and perhaps one day we can enjoy them in a different way.
 
 **What are groupers?**
 Groupers belong to the Family Serranidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289)
 : the family has 62 genera and 449 species, found in tropical and temperate seas, with some entering freshwater. They range from small fishes a few centimeters long as adults, to giants 3m long.
-**Features:**
+## Features
+
 Groupers come in various shapes and colours and patterns. Generally, they have large mouths. Groupers are among the top predators in calm, shallow waters. They hunt alone, and either creep up on their prey or lie in ambush. They suck in prey by suddenly opening their huge mouths. Groupers have sharp, spiky teeth. These merely grip and don't kill, so the prey is usually swallowed alive!
 **Grouper babies:**
 Members of the Family Serranidae can change their gender! Most are female when they first reach maturity. As they get larger, some may change into males. Some groupers gather in large aggregations at a particular place to spawn. Such aggregation sites are often the part of a reef with strong currents that wash the fertilised eggs out to sea, to develop away from hungry filter-feeders.

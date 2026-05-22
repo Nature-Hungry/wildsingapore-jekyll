@@ -213,10 +213,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This squat grumpy-looking, ugly fish is, to our discomfort, quite commonly encountered on many of our shores including our recreational beaches. It is particularly abundant near artificial seawalls. It is also present in living reefs and rubbly areas nearby. Resembling a encrusted stone, it is often overlooked. When spotted, however, a stonefish is often the subject of morbid fascination due to its hideous appearance and potent venom.
 Also called the Estuarine stonefish, it is also found in muddy places and estuaries.
-**Features:**
+## Features
+
 The fish really looks like a stone. It grows to nearly 50cm, those seen about 15-20cm. The eyes are close together with a bony ridge between them. It has a deep depression below each eye. The huge mouth faces upwards and is curved into a perpetual frown. It has a row of tough dorsal spines that can inject potent venom; these are used for self-defence and not for hunting. The skin is leathery with prominent warts on the sides. During the day, it lies motionless on the sandy bottom, in a shallow depression that it creates by scooping sand out and piling sand around its sides with its huge pectoral fins. It usually lies with its tail curled around the body resulting in stone-like profile. Sometimes the fish is covered in patches of algae and encrustations thus completing its disguise. At night, it is said to be more active and often moves on top of reefs.
 
 **Sometimes mistaken for**

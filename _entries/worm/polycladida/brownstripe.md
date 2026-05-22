@@ -219,10 +219,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brownish flatworm with a bold stripe down the centre is often encountered on coral rubble near living reefs. They appear to be seasonal, with several encountered during a visit, and then not at all for some time.
 
-**Features:**
+## Features
+
 5-8cm long. Usually with deep ruffles. Body light to dark brown with darker brown to black narrow margins (no inner white margin). Center of the body raised with one dark brown line with diffuse white edges. Underside uniformly paler colouration with same margin as the upperside of the body. It has a pair of pseudotentacles at the front that are square, ear-like, with white tips.
 
 **Sometimes mistaken for**

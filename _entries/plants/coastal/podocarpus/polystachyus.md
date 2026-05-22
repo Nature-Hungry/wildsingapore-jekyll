@@ -69,14 +69,15 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 These hardy pines with refreshingly bright green leaves are still found on the natural cliffs of Sentosa. But as suitable habitats are becoming increasingly rare, so too are the trees. It is believed that there are less than 50 wild specimens of these trees in Singapore.
 
 According to Hsuan Keng, the tree is considered a species native to Singapore and found in Labrador, Kranji and other parts of the island, usually near the sea or at the back of mangroves. It was also recorded growing in gardens. According to Giersen, it is endemic to Southeast Asia and mainly found on sandy beaches where it is found in groups at the high water mark, as well as on coastal cliff, swampy forests, and back mangroves. Inland, it is found on limestone hills. Its Malay name is '
 *Jati bukit*
 ' which means 'hillside teak'.
 
-**Features:**
+## Features
+
 A shrub or small tree (1-20m tall). The trunk is sometimes fluted and sometimes has buttress roots.
 
 Leaves long, narrow and pointed (3-10cm) thick glossy, bright green.

@@ -160,10 +160,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This large snail is commonly seen on our muddy-sandy shores particularly on our Northern shores, on rocky shores and seagrass meadows and near mangroves.
 
-**Features:**
+## Features
+
 8-12cm. Shell large, thick with a long siphonal canal. Operculum teardrop-shaped and made out of a horn-like material. Body all black.
 
 **'Hairy' shell:**

@@ -91,7 +91,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Literally overshadowed by their more glamorous hosts, this tiny fluffy worm is commonly seen with
 [cerianthids](../../cnidaria/others/ceriantharia/ceriantharia.md)
 on our northern shores. Often several can be seen near one cerianthid. Very shy, the worms retract at the slightest sign of danger. There's a better chance of seeing them at night.
@@ -103,7 +103,8 @@ belonging to Phylum Phoronida. This is a small phylum with less than 20 species.
 *Phoronis australis*
 is thus far, the only phoronid known to be encountered with cerianthids and it is found in all warm temperate to tropical coasts from the intertidal to deeper waters.
 
-**Features:**
+## Features
+
 *Phoronis australis*
 has a pair of feathery spiralling tentacles (diameter about 2cm). The body is long, unsegemented and worm-like. Those seen on our shores are grey or pinkish black, but elsewhere white ones are also seen. Most phoronids build a tube that is made of chitin (the same substance that insect skeletons are made of). More about
 [tubeworms in general](../tubeworm/tubeworms.md)

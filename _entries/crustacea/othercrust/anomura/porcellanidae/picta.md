@@ -121,14 +121,15 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This polka-dotted porcelain crab is often seen in pairs in
 [sea pens](../../../../cnidaria/others/pennatulacea/pennatulacea.md)
 that are commonly seen on our Northern shores. It was previously known as
 *Porcellanella picta*
 .
 
-**Features:**
+## Features
+
 Body width 1cm or less. Body oval and smooth, with pink dots circled in black or blue, especially on the pincers and upper body. The pincers are not much bigger and may be smaller than the body.
 
 **Sea pen friend:**

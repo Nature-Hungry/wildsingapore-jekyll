@@ -175,10 +175,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This sturdy crab is commonly seen on our Northern shores near freshwater sources, in rocky and rubbly area.
 
-**Features:**
+## Features
+
 Body width 10-12cm, smaller ones also often seen. Body oval, edge with four blunt points or 'teeth' which are not very obvious. Upper side drab grey or brown, underside dull orange. Large pincers smooth (no pimples) with black tips. One pincer is enlarged with a large molar-like tooth at the base of the finger. Walking legs sparsely hairy. It is identified by bright green eyes, often circled with red.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Steady crab:**

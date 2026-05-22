@@ -52,14 +52,15 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 These small silvery fishes are sometimes encountered trapped in pools at low tide on both our Northern and Southern Shores.
 **What are perch?**
 Perch belong to the Family Terapontidae. The family name is sometimes also spelt Theraponidae or Therapontidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=299)
 : the family has 16 genera and 45 species. They are found in the Indo-West Pacific in marine and freshwater.
 
-**Features:**
+## Features
+
 3-10cm. Among the features of this family are two spines on their gill covers (operculum), the lower spine usually longer. Most are silvery with patterns of longitudinal lines or spots. They can produce loud noises using their swim bladders. Thus they are sometimes also called grunters or trumpeters. They are also called tigerperches. Adults usually school, while small juveniles are found among floating weeds.
 
 **What do they eat?**

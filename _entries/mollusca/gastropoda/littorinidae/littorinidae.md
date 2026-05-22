@@ -134,7 +134,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Periwinkles sprinkle the rocks on many of our shores. They appear dead but are very much alive. At low tide, they are usually wedged into crevices and cracks in rocks and even inside the empty shells of dead oysters and barnacles.
 
 Small but resilient snails, periwinkles can breathe air so they are among the most common snails seen on the rocks above the high tide line. Large groups of periwinkles often form a horizontal band on the rocks as they move with the tides. Some larger periwinkles are found on mangrove trees, clinging on to roots, trunk and even leaves.
@@ -142,7 +142,8 @@ Among the hardiest of these must be the tiny
 [Knobbly periwinkles](nodilittorina.md)
 .
 
-**Features:**
+## Features
+
 2-5cm. Shell thin, various shapes from conical with a sharp spire to squat or even round with flatter spire. Operculum thin, circular, made of a horn-like material.
 
 Some very similar species are difficult to positively identify without close examination. On this website, they are grouped by external features for convenience of display.

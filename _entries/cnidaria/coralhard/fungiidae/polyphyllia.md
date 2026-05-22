@@ -109,10 +109,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather velvety looking mushroom coral is sometimes seen on some of our Southern shores. The coral is free-living (it is not attached to the surface) and large ones may be seen on coral rubble and among living corals.
 
-**Features:**
+## Features
+
 Skeleton longer than broad (15-25cm long) usually with rounded ends. Sometimes also oval and other irregular shapes. It has a central furrow but this is usually not distinct in large old animals.
 The upper side has tiny short lines that form petal-shaped, radial patterns, instead of parallel lines as in other mushroom corals. There are mouths in the central furrow as well as scattered elsewhere on the body. Tentacles are short, cylindrical to conical and white-tipped. When the tentacles are extended, they hide the skeleton and give the animal a furry look. 'Talpina' means 'mole' in Latin possibly refering to this velvety texture which resembles the fur of a mole. Underside concave. Colours seen include brown, grey, cream to blue, purple and green.
 

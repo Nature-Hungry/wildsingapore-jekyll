@@ -60,12 +60,13 @@ location:
 - prp
 ---
 
-**Where seen?**
+## Where seen?
 Rarely seen, usually in mangroves such as Pasir Ris and Sungei Buloh, often near
 [mud lobster mounds](../../crustacea/othercrust/lobster/thalassina.md)
 . This snake is nocturnal and is seldom seen during the day.
 
-**Features:**
+## Features
+
 ****
 To about 90cm long. The head is rounded and not distinct from the body, i.e., it has no 'neck', Cylindrical body with smooth scales and a relatively short tail. Colour purplish brown above fading to white underneath. Mildly venomous, it is a gentle snake and will not bite if it is left alone.
 

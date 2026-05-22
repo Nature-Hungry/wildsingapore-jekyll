@@ -49,10 +49,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This rare tree is sometimes seen in our remote shores, on rocky cliffs or near mangroves where no other plants seem to be able to do well.
 
-**Features:**
+## Features
+
 Small tree (7-10m tall), according to Tomlinson 'more usually a low shrub 1-2m tall'. Bark light grey to brown becoming deeply fissured with age and shedding in long curling strips. Young twigs angular, densely hairy becoming gnarled and twisted with age.
 
 Leaves small (1-3cm) thick fleshy, greyish green, both sides densely covered in stiff white hairs giving them a silky look. The leaves wither yellow.

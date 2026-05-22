@@ -58,10 +58,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 Adults sometimes seen in fish traps. The adults are found solitary or in pairs, in silty reefs and sheltered lagoons.
 
-**Features:**
+## Features
+
 To about 18cm. Body oval with yellow tail, blackish, purplish brown rear portion and dorsal and anal fins, and a black bar on the head over the eyes. Large spine on the gill cover. Juveniles are bluish-black with white and blue narrow bars on the sides.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

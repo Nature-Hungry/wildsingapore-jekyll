@@ -103,13 +103,14 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 **
 This slug in pajamas is sometimes seen on our Northern shores, burrowing in sandy areas near seagrasses where there are
 [sea pens](../../../cnidaria/others/pennatulacea/pennatulacea.md)
 . It is more active at night.
 
-**Features:**
+## Features
+
 2-6cm long. Body long, narrow with narrow black-and-white stripes (which are actually ridges). The blue foot has a yellow or orange border. The wedge-shaped flap over its mouth (oral veil) is also blue with a yellow or orange border. The oral veil has no bumps on it. Rhinophores with yellow or red tips and fine black stripes. According to
 [Bill Rudman](http://www.seaslugforum.net/showall/armisemp)
 , the coloured wiggly lines seen on the underside of the body are not gills although gas exchange may take place. These act like the cerata of aeolids, a place where the digestive gland can expand. These lines often are the same colour of their sea pen food.

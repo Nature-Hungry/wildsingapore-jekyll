@@ -127,10 +127,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This orange spotted fish is the most commonly seen mudskipper on many of our shores. On all kinds of shores including rocky shores, sandy areas near mangroves and seagrasses, as well as on coral rubble areas near reefs.
 
-**Features:**
+## Features
+
 6-12cm. Gaily speckled with orange-yellow spots on 'cheeks' and the sides of the body. Often with many dark bars along the body too. The male raises his bright orange-and-black dorsal fin to court females and intimidate rival males. Unlike females, males have elongated spikes on the first and second spine of his colourful first dorsal fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Burrow wars:**

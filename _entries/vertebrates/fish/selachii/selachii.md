@@ -194,7 +194,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Sharks are sometimes seen by divers in our waters, and during intertidal trips to Singapore's southern submerged reefs.
 
 **What are sharks?**
@@ -202,7 +202,8 @@ Sharks belong to Infraclass Selachii. And to the Subclass Elasmobranchii which i
 [stingrays](../dasyatidae/rajiformes.md)
 .
 
-**Features:**
+## Features
+
 These streamlined predators are torpedo shaped, usually with 8 fins. The skin is rough and sand-papery and have properties that make them efficient swimmers. Sharks breathe through a row of gills behind the eyes. Sharks have teeth, lots of them. Sharks that feed on snails and crustaceans have flattened teeth for crushing, those that hunt fish have needle-like teeth. Only those that feed on larger prey triangular serrated knife-like teeth for cutting. Like rays, the skeleton of sharks are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 Among the sharks commonly seen on our shores are:

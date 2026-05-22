@@ -156,13 +156,14 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This snake with bands is sometimes seen on some of our shores, near seagrass meadows and mangroves. According to Baker, it is mainly found in the Johor Straits including Sungei Buloh Wetland Reserve and was also found out of water, hidden in
 [mudlobster mounds](../../crustacea/othercrust/lobster/thalassina.md)
 . A nocturnal snake, it is usually seen in the late evening or early morning. It is widely distributed from India to Southeast Asia to southern China and northern Australia. It was previously known as
 *Chersydrus granulatus*
 .
-**Features:**
+## Features
+
 To about 1m, but usually shorter. Body cylindrical, banded with black or brown bands on white or beige. The bands are broad on the top of the snake but narrows at the sides. It does not have a distinct 'neck', the head is small and blunt. On the underside, it has no enlarged scales and instead has a prominent fold of skin along the centre of the belly. The tail is tapered to a point and is not flattened. The Banded file snake is non-venomous and harmless to humans.
 
 **Sometimes confused with**

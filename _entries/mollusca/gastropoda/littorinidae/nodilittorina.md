@@ -80,14 +80,15 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This tiny snail with a knobbly shell is sometimes seen on some of our rocky shores. In groups on boulders near the high water mark, often wedged into crevices and cracks at low tide. It was previously known as
 *Nodilittorina trochoides*
 and
 *Nodilittorina pyramidalis*
 .
 ****
-**Features:**
+## Features
+
 0.8-1cm. Shell thin with spirals of tiny knobs. Colours variable, often bleached white.
 Operculum thin, circular, made of a horn-like material.
 

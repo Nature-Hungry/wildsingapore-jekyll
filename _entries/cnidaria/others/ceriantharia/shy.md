@@ -81,12 +81,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This very small, almost invisible cerianthid is very shy and will disappear into its tube at the slightest sign of danger. Often only encountered at night, where in the light of a strong torch or camera flash,
 it wilts away into its tube
 . It is regularly encountered on many of our shores, on coral rubble.
 
-**Features:**
+## Features
+
 6-8cm in diameter. The outer tentacles are very long and almost totally transparent. There is a black ring around the base of the long tentacle where it connects with the oral disk. The inner tentacles
 are very short (less than 1cm long) and usually brownish.
 The body column is transparent sometimes with a beige, yellowish or brown tinge. The tube it lives in is often rather thick and lumpy.

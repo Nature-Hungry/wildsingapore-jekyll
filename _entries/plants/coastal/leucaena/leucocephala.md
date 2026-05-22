@@ -50,14 +50,15 @@ galleries:
       caption: "Links Leucaena leucocephala on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This large bush that looks like a giant mimosa is often seen on our 'wastelands' and near our shores. It was also known as
 *Leucaena glauca*
 and
 *Leucaena latisiliqua*
 .
 
-**Features:**
+## Features
+
 A shrub to small tree (to about 10m). Feathery compound leaves made up of leaflets. Puff-ball shaped flowers made up of pale green petals and lots of creamy white stamens. Thin, flat pods green and nearly transparent when young, ripening to brown, rattling with many small, flat seeds. According to Corners, all parts of the plant have a foetid smell 'like onions' when crushed or broken. Bark light grey and slightly fissured.
 
 **Human uses:**

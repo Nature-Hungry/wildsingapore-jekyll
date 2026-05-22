@@ -63,12 +63,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This prickly climber is sometimes seen growing wild along the seashore and back mangroves. 'Kuku tupai' means 'squirrel's claws' in Malay and aptly describes an encounter with this climber. The small but sharp thorns on the long, strong stems often catch on clothing and skin. Getting entangled in a thicket of this climber can be rather unpleasant and makes you feel ike you're being attacked by angry little squirrels! According to Hsuan Keng, it was found on sandy beaches and fringes of mangroves at Kranji and Jurong. It was previously known as
 *C. nuga*
 .
 
-**Features:**
+## Features
+
 A climber (5-20m long) that can scramble over tall trees. The plant is armed with tiny little thorns which are often black on a long, strong usually green stem. Young stems are red turning green.
 
 The compound leaf is bipinnate, i.e., resembles a feather, with leaflets arranged on side branches on a main leaf branch. Leaflets eye-shaped, rather leathery, stiff, smooth and shiny. The entire compound leaf 10-30cm long.

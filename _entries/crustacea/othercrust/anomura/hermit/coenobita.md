@@ -158,10 +158,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This large hermit crab is sometimes seen on our undisturbed shores near the high water line, especially on our offshore islands. Near the high water mark among rocks, boulders and marine debris, and even some distance inland among grass and under trees. But it is only active at night.
 
-**Features:**
+## Features
+
 Boday 3-6cm long, 1cm wide. Left pincer usually larger than the right. Pincers and walking legs "squarish" thick, not very hairy. May be brownish to pale or dark purple. Eyes on very short flattened stalks. Short antennae quite long, while long antennae not very long.
 
 There are three species of land hermit crabs in Singapore. They are not easy to distinguish in the field.

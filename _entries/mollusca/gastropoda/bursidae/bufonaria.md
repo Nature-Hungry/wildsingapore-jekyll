@@ -88,10 +88,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 Although the shells are often seen (usually occupied by hermit crabs), living snails are rarely seen. Usually at the lowest tides near seagrass meadows on our Northern and Eastern shores. Apparently, the name is due to the warty texture of the shell.
 
-**Features:**
+## Features
+
 4-6cm. Shell thick, conical with spirals of many regular bumps and blunt spines. There is a short tubular tip on the shell for the siphon. Ooperculum thin and flexible, made of a horn-like material. Body pale, with a long muscular foot, short tentacles with a black band at the tips.
 
 The Common frog snail (

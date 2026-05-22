@@ -70,10 +70,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brightly coloured sponge is commonly on many of our shores, growing on rocky shores near the low water mark, as well as coral rubble near reefs.
 ****
-**Features:**
+## Features
+
 10-15cm in diameter, may be encrusting on rocks or forming small clumps. Clusters of knobs with large deep holes at the tips. In some, the knobs can be rather tall so they are tubular. May also form short branches. Texture rather smooth. Colours bright pink to carmine red.
 
 **Looks similar to**

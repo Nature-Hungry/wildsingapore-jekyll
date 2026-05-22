@@ -89,10 +89,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This rather boring but large nudibranch is sometimes seen on our Northern shores among coral rubble and rocky shores. Sometimes covered in a thin layer of silt. It appears to be seasonally common.
 
-**Features:**
+## Features
+
 4-8cm long. The upperside of the broad hard body looks like coral rubble in colour and texture. Body yellow with a characteristic pattern of dark brown patches around the mantle edge. It is covered with bumps and some of the larger tapering finger-like structures (papillae) may be filled with fluid. The underside and small foot is yellow with brown or black spots. The body doesn't fall apart when handled. Tiny rhinophores and small feathery gills.
 
 **What does it eat?**

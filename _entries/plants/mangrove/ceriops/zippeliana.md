@@ -39,12 +39,13 @@ galleries:
       caption: "Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09"
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful mangrove with 'perky' propagules is sometimes seen in our mangroves, often as shrubs or small trees. This species was first described in 2008! It was previously listed as
 *Ceriops sp. nov.*
 in our older mangrove checklists.
 
-**Features:**
+## Features
+
 A shrub to tree 12m tall. Bark brownish with some lenticels, flaky at the base.
 
 Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pinkish. Stipule flattened knife-like.

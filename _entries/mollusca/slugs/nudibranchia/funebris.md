@@ -245,10 +245,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This distinctive elegantly-spotted nudibranch is regularly encountered on many our shores. Sometimes lots are seen. On coral rubble near reefs.
 
-**Features:**
+## Features
+
 1- 6cm long. Fleshy oval body, white with black circular markings. These markings are actually made up of tiny raised black bristles on the skin (called caryophyllidia). In fact, the entire body is covered with bristles, which are mostly white, giving the animal a fuzzy appearance. It has black-tipped rhinophores and black edging on feathery gills on the back.
 
 **What does it eat?**

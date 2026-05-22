@@ -66,10 +66,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful nudibranch with a cow-like pattern is sometimes seen on our Northern shores. On rocky shores with silty sandy bottoms.
 
-**Features:**
+## Features
+
 2-3cm. Body broad usually white with black spots. Edges of the body are orange with no black spots. The feathery gills and rhinophores tips are orange. According to Bill Rudman, they have tiny glands around the edge of the mantle that secretes defensive substances to deter predators.
 
 **Sometimes confused with**

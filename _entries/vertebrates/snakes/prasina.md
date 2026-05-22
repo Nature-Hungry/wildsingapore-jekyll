@@ -76,12 +76,13 @@ location:
 - lab
 ---
 
-**Where seen?**
+## Where seen?
 This elegant snake is arboreal and lives in bushes and trees. It is common in many of our wild places, including urban gardens and coastal areas. But is it well camouflaged and often overlooked as a green vine. Indeed, it is also called the Green vine snake. It is active during the day as well as at night. It is found throughout Southeast Asia. It was previously known as
 *Dryophis prasinus*
 .
 
-**Features:**
+## Features
+
 ****
 To about 2m long. Considered the largest and longest of the whip snakes, it is nevertheless still quite a slender snake. It has a long thin tail that can take up nearly 40% of the length of the snake.
 

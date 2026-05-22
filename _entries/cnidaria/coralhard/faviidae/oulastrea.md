@@ -140,12 +140,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This hard coral with a black-and-white skeleton is among the most commonly encountered of our hard corals. Even rather 'beat up' shores may have small colonies encrusting rocks and stones. This hardy coral grows in murky waters and even where it is often exposed to air at low tide. Elsewhere, the colonies are encrusting and grow only to a few centimetres.
 *Oulastrea crispata*
 is the only species in the genus. It was previously under Family Faviidae but is now placed in Family Oulastreidae.
 
-**Features:**
+## Features
+
 Colonies about 10-15cm, sometimes much smaller. The colony tends to be encrusting, sometimes a small boulder-shape. Corallites small (about 0.5cm) circular rings with thick white radiating wall partitions (septa) on a black background. The background remains black even after the colony is dead, thus its common name. The polyps have many long thin tentacles and are brownish, sometimes with a greenish tinge and a bright green mouth.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

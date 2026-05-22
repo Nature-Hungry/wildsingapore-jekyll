@@ -101,10 +101,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This small boxy crab is rarely seen. Usually near reefs on our Southern shores.
 
-**Features:**
+## Features
+
 Body width about 4cm. It has small bumps all over its body giving it a beaded look that matches perfectly with the surrounding sand!
 
 **What does it eat?**

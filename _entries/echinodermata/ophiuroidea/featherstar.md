@@ -89,12 +89,13 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This brittle star lives only in a
 [feather star](../crinoidea/crinoidea.md)
 (Class Crinoidea). It has been seen on many different kinds of feather stars on our shores.
 
-**Features:**
+## Features
+
 Whole animal 2-3cm wide. Five arms with flat spines on the sides. Spines on the tips of the arms are modified into hooks that help the brittle star cling to the feather star host. So far seen in a wide variety of colours and patterns, often matching the host feather star. The animal is poorly studied but it seems to do no harm to the feather star host.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

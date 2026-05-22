@@ -61,13 +61,14 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Groups of these silvery fishes are frequently encountered in pools at low tide on many of our shores. Elsewhere, they are found in mangroves, estuaries and fresh water. They form groups during the day among mangrove roots and submerged plants. They disperse at night to feed.
 **What are perchlets?**
 Perchlets belong to Family Ambassidae (previously Family Chandidae). According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=509)
 : The family has 8 genera and 41 species. They are found in Asia and Oceania and the Indo-west Pacific oceans.
-**Features:**
+## Features
+
 To about 10cm. Body nearly transparent covered with thin scales. Thus it is sometimes called the Glassfish. Mouth is upturned with a projecting jaw and large eyes. A single dorsal fin, deeply notched before the last spine. These fishes are often seen in small groups.
 
 **Kops' glass perchlet**

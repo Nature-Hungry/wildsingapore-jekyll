@@ -116,12 +116,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (
 *Ungusurculus riauensis*
 ) looks very similar.
 
-**Features:**
+## Features
+
 4-7cm long, can grow to 12cm. Body long flattened, head rounded with tiny eyes. It has a pair of long filaments under its head, but this is hard to see this in a live fish in the wild. It has scales on body, cheeks and gill covers. Tail fin tiny and is separated from the long dorsal and anal fins. Colour usually orangey pink.
 
 **Baby cuskeels:**

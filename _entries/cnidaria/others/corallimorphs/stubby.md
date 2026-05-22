@@ -72,10 +72,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These little disk-shaped animal with stubby tentacles is sometimes encountered on our Southern shores, among coral rubble.
 
-**Features:**
+## Features
+
 Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Tentacles short and stubby, arranged in rows radiating from the centre. The edge of the oral disk is fringed with somewhat long stubby tipped tentacles. The mouth is usually held upturned and is then quite prominent. Colours seen include brown, green and blue.
 
 A study found that Stubby corallimorphs

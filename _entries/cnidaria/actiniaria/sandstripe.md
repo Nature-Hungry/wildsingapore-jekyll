@@ -79,10 +79,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone is often seen on our Northern shores, on soft silty sand near seagrasses.
 
-**Features:**
+## Features
+
 Diameter with tentacles 3-4cm. It has about 40 semi-transparent tentacles that taper to a pointed tip. On the upper side of the tentacles, there is a pattern of white bars across a pair of dark parallel lines that run the length of each tentacle. The oral disk has a pattern of radiating stripes and white bars. The edge of the mouth has dark-and-light bars.
 Body column smooth without large bumps (verrucae), although there are a few bumps near the oral disk.
 

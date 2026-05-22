@@ -108,7 +108,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral that forms thick encrusting plates is sometimes seen on many of our Southern shores.
 
 **Features**

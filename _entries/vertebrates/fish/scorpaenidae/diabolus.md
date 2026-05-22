@@ -70,10 +70,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This rock-like fish is seldom seen, usually our southern shores on coral rubble areas near reefs or rocky shores.
 
-**Features:**
+## Features
+
 15-30cm long with a humped back. Small eyes that don't stick out of the head, with small shallow depression near the eyes, not as large and deep as the true
 [Hollow-cheeked stonefish](../synanceiidae/horrida.md)
 (

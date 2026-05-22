@@ -84,14 +84,15 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This extremely well camouflaged nudibranch was seen among
 [Sargassum seaweeds](../../../plants/seaweed/phaeophyta/sargassum.md)
 (
 *Sargassum*
 sp.) at St. John's Island.
 
-**Features:**
+## Features
+
 About 3cm long. It has a pair of 'flaps' (mantle lobes) in the middle of the body. There are fluffy structures (dendritic gill-like structures) inside the mantle lobes. The brush-like rhinophores are tiny and are at the tip of a huge rhinophore stalk. Along the sides of the body it has a few bright blue spots and white spikes.
 
 **What does it eat?**

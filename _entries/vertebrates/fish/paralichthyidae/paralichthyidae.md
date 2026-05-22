@@ -170,7 +170,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These large flatfishes are seen on some of our shores, on sandy areas near seagrasses or near coral reefs.
 **What are large-tooth flounders?**
 Large-tooth flounders are
@@ -180,7 +180,8 @@ According to
 [FishBase](http://fishbase.sinica.edu.tw/Summary/FamilySummary.cfm?ID=514)
 : the family has 16 genera and 86 species. They are found in the Atlantic, Indian and Pacific oceans.
 
-**Features:**
+## Features
+
 Grows to about 40cm long, those seen about 15-20cm. Body flat but typical fish-shaped. The head is large with bulbous eyes, both on the left side. The tail fin is well separated from the dorsal and anal fins. The tail fin is somewhat pointed over the middle portion. Has a fully developed lateral line on the blind side as well as the eyed side. The lateral line on the eyed side makes a distinctive curve over the pectoral fin (not really obvious in a living fish). The mouth is large, filled with teeth and many have enlarged canine teeth. The eyed side is usually speckled with spots of various sizes and matches the colour of its sandy surroundings.
 
 **Sometimes confused with**

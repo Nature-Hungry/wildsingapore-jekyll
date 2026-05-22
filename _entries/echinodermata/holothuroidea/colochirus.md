@@ -117,12 +117,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful sea cucumber is commonly seen on our Northern shores. It appears to be seasonally abundant. There are times where many individuals are seen, jammed next to one another. At other times, few are seen, widely separated from one another.
 
 Thorny sea cucumbers do not appear to burrow into the ground and are often found on the sand especially in seagrass areas, clinging to tubeworm tubes or other hard surfaces.
 
-**Features:**
+## Features
+
 6-10cm long, and really tiny ones hardly bigger than a seagrass leaf are sometimes also seen. Body short, squarish or quadrangular in cross-section with a distinct upperside and underside. Underside is flat with three rows of short red tube feet. The upperside has soft, harmless
 conical projections
 . Anus is surrounded by five tiny teeth-like structures. Body colours range from bright red or orange, with shades of grey and green or bluish lines along the length. Feeding tentacles yellow with tiny brown speckles and branched tips sometimes red or orange.

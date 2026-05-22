@@ -88,12 +88,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree is now rare in the wild. In Singapore, there were only a few trees at Woodlands Town Garden and the upper reaches of Sungei Seletar. In the past, it was also found in tidal rivers in Balestier plain and Changi. The tree, however, has since been replanted in Sungei Buloh. The tree is usually found in tidal river-banks and creeks with mud banks and is considered the most inland of the
 *Sonneratia*
 species.
 
-**Features:**
+## Features
+
 Tall tree 5-15m tall. The young branches hang down like those of the weeping willow (
 *Salix babylonica*
 ) or angsana (

@@ -72,10 +72,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This beige hermit crab with bright blue 'elbows' is sometimes seen on silty shores.
 
-**Features:**
+## Features
+
 Body about 2-3cm long, plain pinkish beige. Body and legs a pale pinkish beige, sparsely hairy. Both pincers stout, large and about the same size, with a 'scaly' texture. Bright blue patch on the inner 'elbow' of the pincers. Eyes yellow on thick long orange stalks. Short antennae blue with blue feathery tips. Long antennae pale blue.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -49,10 +49,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This plain smooth whitish clam is sometimes seen on some of our shores, lying loose among coral rubble and under stones.
 
-**Features:**
+## Features
+
 About 4cm. Shell thick, squarish, quite smooth with very fine ridges in concentric rings. Usually plain, mostly white with dark irregular blotches.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

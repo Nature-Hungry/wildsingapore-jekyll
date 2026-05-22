@@ -140,13 +140,14 @@ location:
 - lab
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This group includes the most colourful large crabs that you might commonly encounter on the shore.
 The Egg crabs (
 *Atergatis*
 sp.) are often encountered on many of our shores and can be quite common in coral rubble areas. Others are only sometimes seen. They are more active at night, but nevertheless, usually slow moving and always near some hideaway into which they scuttle at the first sign of danger.
 
-**Features:**
+## Features
+
 Body width 5-10cm. Many members are colourful or strikingly patterned. This probably serves as a warning. The group includes among the most poisonous crabs in Singapore.
 Their toxins are not destroyed by heat or cooking. These crabs should never be eaten.
 Eating them can cause Paralytic Shellfish Poisoning which can lead to death.

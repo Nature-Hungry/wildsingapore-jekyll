@@ -70,7 +70,7 @@ galleries:
  
 ---
 
-**Where seen?**
+## Where seen?
 These nudibranchs with tough skin are often encountered, especially on our Southern shores, among coral rubble and on reefs. It is believed that these nudibranchs are commonly seen because they can roam around in the open with impunity due to the nasty stuff they secrete to deter predators. Their colourful patterns probably also warn of this feature.
 
 **What are phyllid nudibranchs?**

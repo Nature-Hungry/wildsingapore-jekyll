@@ -138,10 +138,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This oval white moon snail is among our most commonly encountered. Usually seen in numbers on many our Southern sandy shores. Elsewhere, it is abundant on sandy bottoms associated with coral reefs.
 
-**Features:**
+## Features
+
 5-6cm. Shell smooth glossy, thick heavy, oval, the spiral tip smoothly sticking out so the overall shape resembles a teardrop or breast (
 *Mamma*
 means 'breast' in Latin). Shell pattern plain white, sometimes with large irregular patches of brown, black, orange or yellow. On the underside, a large bump and shallow depression next to the bump. Operculum smooth, made of a thin horn-like material, amber yellow sometimes with dark blotches. Body plain white. It's hard to get a good look at the entire body as the snail retracts quickly and completely into the shell when it is disturbed.

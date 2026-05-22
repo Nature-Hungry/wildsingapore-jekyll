@@ -72,12 +72,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful nudibranch with a cow-like pattern is sometimes seen on our Northern shores. On coral rubble and rocky shores with sponges and encrusting animals. It was previously known as
 *Chromodoris tumulifera*
 .
 
-**Features:**
+## Features
+
 2-3cm. Body broad usually white with maroon spots. Edges of the body are orange with maroon spots. According to Bill Rudman, they have tiny glands around the edge of the mantle that secretes defensive substances to deter predators.
 
 **Sometimes confused with**

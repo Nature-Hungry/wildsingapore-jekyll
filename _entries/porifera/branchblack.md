@@ -59,9 +59,10 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This black sponge that resembles antles is sometimes seen on our Northern shores, growing on hard surfaces, including pipes and abandoned drums near the mid-water mark.
-**Features:**
+## Features
+
 Sparsely branching 'stems' (up to 20cm long) that are cylindrical thick (about 3-4cm in diameter) with a smooth surface. Some branches taper to elegant points. Also with low knobs. Holes at the top of knobs, and along the length of the 'stems'. Colour usually a deep black, but when exposed out of water may be greyish.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -39,10 +39,11 @@ galleries:
       caption: "Chek Jawa, Dec 09"
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful bush can grow tall. It is commonly seen along the forest trail to Chek Jawa. It is considered common throughout Malaya especially in lowlying swampy ground. According to Hsuan Keng, it was found in secondary forest in Changi and Kranji.
 
-**Features:**
+## Features
+
 A shrub to small tree (2-3m). Bark pale and somewhat fissured. Leaves are large (15-30cm), fleshy and leathery, dark green and glossy. Flowers (2cm wide) white crowded on a spike (6-14cm long) that emerges under the leaves. Fruits oval with a pointed tip. According to Corners, there is a variety with the flowers more loosely arranged on the inflorescence. It flowers seasonally, usually twice a year.
 
 **Human uses:**

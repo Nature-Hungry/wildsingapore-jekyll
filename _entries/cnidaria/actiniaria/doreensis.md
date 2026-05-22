@@ -182,14 +182,15 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large anemone has long snaky tentacles that resemble udon noodles. It is sometimes seen on some of our shores, on coral rubble and near seagrasses and reefs. Although generally only exposed at the lowest tides, it is said that the anemone is generally found no deeper than 5m. In 2023, it has been reassigned from
 *Macrodactyla*
 to
 *Heteractis doreensis*
 .
 
-**Features:**
+## Features
+
 Diameter with tentacles extended said to reach up to 50cm but those seen usually smaller about 20-30cm. Tentacles snaky, thick and long (about 10cm). Sometimes (not always), the tentacles may be tightly coiled or curled especially when the anemone is submerged. It is also called the Corkscrew Tentacle anemone for this reason. To some (hungry) visitors, the anemone reminds them of a bowl of udon noodles!
 
 The tentacles are close to one another at the circumference of the oral disk, and more sparsely distributed on the oral disk. Sometimes, a broad expanse in the centre of the oral disk around the mouth has no tentacles. There are white stripes radiating from the central mouth. The stripes may extend onto the tentacles. Tentacles and oral disk usually the same colour. Tentacles may be brown, green or purplish, but tips may be darker or lighter. The oral disk is purplish-gray to brown, sometimes with a greenish cast. The underside of the oral disk is purplish with white eye-shaped non-adhesive verrucae that extend onto the white body column.

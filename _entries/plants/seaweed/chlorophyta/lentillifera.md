@@ -133,10 +133,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This pretty seaweed is made up of tiny balls. It grows on rocks and coral rubble in small clumps. In Singapore, it does not form extensive blooms.
 
-**Features:**
+## Features
+
 The seaweed resembles bunches of little grapes. Each 'grape' is tiny (0.1-0.2cm) spherical, translucent. The 'grapes' are usually tightly packed on a vertical 'stem', the whole often forming a sausage-like shape (2-10cm long). This species is distinguished by the distinct constriction where the 'grape' attaches to the stalk. The 'stems' emerge from a long horizontal 'root' that creeps over the surface. Colours range from bright green to bluish and olive green.
 
 **Sometimes confused with**

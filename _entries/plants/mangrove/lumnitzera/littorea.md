@@ -76,12 +76,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This pretty plant with plasticky leaves and tiny red flowers is sometimes seen in good mangroves. It is found in the back mangroves, in soft, muddy substrates where tidal inundation is rare. Also along waterways with a permanent and strong input of freshwater. It was formerly called
 *L. coccinea*
 .
 
-**Features:**
+## Features
+
 Short shrub to tree up to 25m tall with a trunk 50-65cm in diameter. Bark dark and deeply fissured. Some may have slender knee roots.
 
 Leaves spatula shaped with oval ends (2-8cm), thick and fleshy, arranged in a spiral. There is small gland at the leaf tip that resembles leaf nodules and are believed to contain nitrogen fixing bacteria.

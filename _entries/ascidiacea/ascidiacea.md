@@ -71,12 +71,13 @@ links_references: |
   . 5
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These odd blobs are often encountered on many of our shores. They are usually found on hard surfaces such as rocks, jetty pilings and coral rubble. They also grow on seagrasses and other vegetation in the seagrass lagoon.
 
 **What are ascidians?**
 Ascidians are actually closely related to vertebrates like us. We belong to same Phylum Chordata as they do! There are about 3,000 known species of ascidians. These range from tiny ones 1mm long, to those more than 10cm. Most are found in shallow waters but some species are found in very deep waters. There are no freshwater species and most cannot tolerate a salinity lower than 20%.
-**Features:**
+## Features
+
 An ascidian is a complex animal. It usually has a circulatory system, a digestive system, a heart and other organs. It generates a one-way current through its body. A part of the gut is modified to filter out plankton from this water flow. On average, an ascidian can filter 1 body volume of water per second. A tiny specimen only a few centimeters long may pump a hundred litres of water in a span of 24 hours.
 
 **Thick skinned:**

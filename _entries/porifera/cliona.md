@@ -43,10 +43,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Looking like a sprinkle of orange coins, this sponge is sometimes seen on reefy shores of Pulau Semakau..
 
-**Features:**
+## Features
+
 Most of this burrowing sponge is hidden. The sponge can bore holes in calcium carbonate skeletons, snail shells to make a home where they live. What is seen on the outside are small sucker-like disks (0.2-1cm).
 
 *Cliona*

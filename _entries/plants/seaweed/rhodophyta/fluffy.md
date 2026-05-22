@@ -45,10 +45,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 Like pink cotton candy, this seaweed is sometimes seen on our shores, blooming among seagrasses or attached to coral rubble near reefs.
 
-**Features:**
+## Features
+
 Dense balls of fine filaments, each ball 3-5cm across, may cover an area of 15cm. Pinkish to maroon.
 
 A variety of species in the Family Ceriamaceae have this form including

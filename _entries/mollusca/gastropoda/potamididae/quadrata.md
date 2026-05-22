@@ -60,10 +60,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 A more slender Chut-chut, it is often seen in our mangroves, on tree trunks and on the mud near trees.
 
-**Features:**
+## Features
+
 3-4.5cm long. Shell long and slender with ribs of fine beads. Tip usually broken. Shell opening flared with thin lips. Operculum round and dark. The body is darker and it does not have any red markings.
 
 **Sometimes confused with**

@@ -47,10 +47,11 @@ links_references: |
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 
-**Where seen?**
+## Where seen?
 This mangrove tree is considered rare, although some shores such as Chek Jawa and Pulau Semakau may have large numbers of them. Large numbers are also seen in a lagoon in the middle of the Sentosa Serapong golf course. According to Hsuan Keng, these were scattered in our mangroves including Pasir Ris, Pulau Pawai, Ulu Pandan and Tanjung Gul. According to Davison, small populations are found in Pasir Ris Park, St John's Island, Pulau Semakau, Pulau Tekong, Sentosa and Western Catchment. According Giersen, it grows on a variety of ground, preferring banks of tidal rivers but also pioneering species on the coast and landward margins of mangroves. It occurs primarily in Southeast Asia and has been found in tropical Australia as well as Taiwan and northern Australia.
 
-**Features:**
+## Features
+
 Tree with single or multiple-trunks up to 10m tall. Aerial roots from the lower branches. Stilt roots up to 3m long, often forming extensive loops to some distance from the trunk. Bark grey to black and fissured.
 
 Leaves eye-shaped (8-15cm long), shiny green, leathery, smaller than

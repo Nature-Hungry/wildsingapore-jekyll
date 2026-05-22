@@ -77,10 +77,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This rare mangrove tree can be seen in a few of our accessible mangroves. It can be seen on Pulau Ubin and Chek Jawa, as well as at Sungei Buloh Wetland Reserve, Kranji Nature Trail and is also planted at Pasir Ris Park. According to Ng, in Singapore only a few trees at the hot springs (Kampong Unum) of Pulau Tekong. Trees at Kampong Melayu (Pulau Ubin) and Kampong Mandai Kechil have died or been destroyed with development. It is found on the landward-side of mangroves. But in the past, it was considered widespread in our back mangroves and tidal creeks in Singapore.
 
-**Features:**
+## Features
+
 Small tree up to 5m, occasionally to 20m tall. Pneumatophores conical short (20cm).
 
 Leaves fat ovals (5-7cm) usually not narrow at the base, thick and leathery.

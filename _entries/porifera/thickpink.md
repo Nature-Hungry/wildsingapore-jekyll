@@ -91,9 +91,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This group of champagne pink or lilac, rough thick walled sponges are sometimes seen on some of our Southern shores, growing on coral rubble.
-**Features:**
+## Features
+
 Grouped on this page are small (10-15cm) sponges with rough thick walls and coloured a dull champagne pink or purplish pink (lilac). Texture a fine network angular polygons formed out of tiny spikes. Forms variable. Some have thick cylindrical branches, long or short. These branches may fuse to form upright, fan-like or other irregular shapes. There may be a large circular hole (0.5cm) at the tip of a branch but the hole isn't very deep. There may also be holes of regular size and spaced along the length of the branch.
 
 **Looks similar to**

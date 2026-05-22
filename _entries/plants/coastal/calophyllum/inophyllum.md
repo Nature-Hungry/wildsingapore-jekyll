@@ -72,10 +72,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 A beautiful tree with white fragrant flowers that sparkle like stars against the dark green leaves. The fruits look like green ping-pong balls. In Singapore it is not commonly seen in the wild, but it is often planted in our coastal parks. It was commonly seen on 'non-swampy' sandy beaches and rocky shores, and is also often planted as a roadside tree and in gardens. Other names for it include 'Alexandrian laurel' and 'Bintangur Laut'.
 
-**Features:**
+## Features
+
 A slow-growing tree that can grow quite tall and spreading (10-30m tall), often crooked, leaning or even growing along the ground. Bark dark and fissured. It has no buttress or other root modifications. A milky latex, whitish or yellowish, sticky, opaque and resin-like, exudes from all cut surfaces.
 
 Leaves oval (8-18cm long) glossy dark green with close-set, fine parallel veins. '

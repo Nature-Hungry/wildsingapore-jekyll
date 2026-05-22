@@ -108,10 +108,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small hard coral that resembles a cluster of sea anemones is sometimes seen on our undisturbed Southern shores.
 
-**Features:**
+## Features
+
 The colony appears to be boulder-shaped, those seen 10-20cm, sometimes much larger. But the colony is not solid (massive). Hidden under the tentacles, the corallites are branching and trumpet-shaped (phaceloid): long narrow column flaring out at the top (1-2cm). The branching corallites are arranged with the broad, flared portions facing out to form an overall spherical shape. But this feature is usually hidden when the polyps' long tentacles are expanded. Tentacles long (2-3cm) with a rounded white tip (not U-shaped). Colours seen beige, brown or blue with white tips.
 
 **Sometimes confused with**

@@ -56,12 +56,13 @@ galleries:
       caption: "Links Nepenthes rafflesiana on Urban Forest: phoots and fact sheet. Nepenthes rafflesiana on Total Vascular Flora of Singapore Online: photos and fact sheet. Nepenthes rafflesiana on the NParks Flora and Fauna website: photos and fact sheet. References Tan, Hugh T.W. 1997. A Guide to the Carnivorous Plants of SIngapore . BP Science Centre Guidebook. 176 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 In Singapore, it is usually found in
 [adinandra belukar](../adinandra/dumosa.md)
 , forest edges or on seaward sides of our natural cliffs on many of our offshore islands. This plant has the largest pitchers in Singapore and was first discovered in Singapore in 1819 by Dr William Jack, the Scottish botanist and surgeon who accompanied Raffles to Singapore.
 
-**Features:**
+## Features
+
 A climber that grows to 10m long or more, producing long tendrils to clamber over trees and other plants.
 
 It has two kinds of leaves. One kind narrow, oblong (20-30cm long) leathery with tendril-like tips that may coil around other plants. The other kind of leaves form pitchers that are vase-shaped or narrowly funnel-shaped (20-35cm long), green at the base and purplish-red at the mouth with two prominent ribs. It may have ground pitchers which are urn- or goblet-shaped (rounder) (5-25cm long) with two fringed wings.

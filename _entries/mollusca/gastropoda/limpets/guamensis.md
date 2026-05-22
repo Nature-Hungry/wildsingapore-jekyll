@@ -73,10 +73,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This little limpet is commonly seen in small groups on boulders and hard surfaces on many of our shores, usually near the high water mark.
 
-**Features:**
+## Features
+
 1-2cm. Shell thin conical with a pointed tip and many fine white ribs. There is no hole at the top of the shell. Body plain white.
 It is a false limpet and breathes through lungs instead of gills.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

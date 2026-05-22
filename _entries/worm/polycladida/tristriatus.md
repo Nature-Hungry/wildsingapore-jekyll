@@ -50,10 +50,11 @@ galleries:
       caption: "Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook ."
 ---
 
-**Where seen?**
+## Where seen?
 This small white flatworm with three blue lines in the centre of it body is sometimes seen on many of our shores, on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 2-4cm long. Body white or bluish becoming dark blue at the margin. It has three lines in the centre of the body, each line yellow with a fine blue border. Included here are those with a distinct centre line, the two side lines rather faded. There is a pair of erect pseudotentacles at the front made up of folded edges of the body, although not always obvious.
 
 According to Rene Ong, this flatworm resembles

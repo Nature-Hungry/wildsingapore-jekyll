@@ -41,10 +41,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 Several of these trees are planted at Chek Jawa, Pulau Ubin. According to Hsuan Keng it was found in our forests including the Botanic Gardens Jungle, Bukit Timah and Seletar.
 
-**Features:**
+## Features
+
 A small tree that looks very much like a
 [Penaga laut](inophyllum.md)
 (

@@ -94,11 +94,12 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This active fish is often seen in groups under jetties, bridges in streams near mangroves. There is usually large groups of really large fat ones under the main bridge at Sungei Buloh Wetland Reserve.
 
 ****
-**Features:**
+## Features
+
 To about 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands that taper towards the bottom of the body.
 [More](toxotidae.md)
 about the archerfishes' infamous ability to shoot down insects.

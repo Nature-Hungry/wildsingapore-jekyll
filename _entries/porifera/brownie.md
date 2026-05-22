@@ -46,9 +46,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores.
-**Features:**
+## Features
+
 Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg)

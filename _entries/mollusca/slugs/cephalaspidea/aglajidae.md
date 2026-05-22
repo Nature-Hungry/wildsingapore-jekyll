@@ -56,10 +56,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These slugs are sometimes seen on some of our shores. They appear to be highly seasonal. Many kinds we see only once and never again.
 
-**Features:**
+## Features
+
 Long, cylindrical body with a pair of 'wings' (called parapodia) which fold over the centre of the body as well as a pair of 'tails, one longer than the other. They have tiny shells which are internal.
 
 **What do they eat?**

@@ -137,10 +137,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes mistaken for red plastic bags, these traslucent slippery red seaweeds are often seen, especially on our Southern shores. Each clump can be quite large.
 
-**Features:**
+## Features
+
 Texture slippery. Some are flat with feathered edges. Others have branching forms with a broad flat central 'stem' from which arise finer branches. Spots and bumps on the seaweed may be reproductive structures.
 [Ruffled halymenia red seaweed](dilatata.md)
 (

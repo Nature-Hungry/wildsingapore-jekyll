@@ -109,12 +109,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This amazing 'fluffy' fish is sometimes seen on some of our shores, near seagrasses and coral rubble. It may be quite common but just overlooked due its superb camouflage. Sometimes a few small ones may school together, the group resembling flotsam. It was previously called
 *Chaetodoerma penicilligera*
 . It is sometimes also called the prickly, tasselled or leafy filefish.
 
-**Features:**
+## Features
+
 To about 31cm, those seen about 8-10cm. Smaller ones 2-3cm sometimes seen among seagrasses. Body more disk-shaped (circular). Distinguished by thick feathery tassel-like extensions all over the body including the dorsal spine. Dark stripes along the sides of the body, sometimes with short bright blue lines. Seen in a wide variety of colours from shades of green, blue, purple and brown. Tail fin large, triangular and mostly transparent.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

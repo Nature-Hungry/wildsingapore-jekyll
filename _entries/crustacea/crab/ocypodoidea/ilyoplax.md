@@ -69,10 +69,11 @@ location:
 - lck
 ---
 
-**Where seen?**
+## Where seen?
 This tiny but active crab is sometimes seen in our mangroves. The common name comes from its habit of vigorously waving its pincers up and down. This is reminiscent of the Semaphore flag-waving system used by sailors in the past to send messages over long distances. In the crab, this behaviour probably serves to declare territory and to attract mates.
 
-**Features:**
+## Features
+
 Body width 0.5cm. Body somewhat round, eyestalks short. Pincers equal sized and rather bulbous. The White semaphore crab (Ilyoplax delsmani) changes its colour to white to communicate with other semaphore crabs. When they are resting, they turn a dull colour to blend in with the surrounding mud or sand.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

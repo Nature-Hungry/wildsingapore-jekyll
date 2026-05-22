@@ -96,10 +96,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This strange sponge is sometimes seen on many of our shores, growing on and among coral rubble as well as on rocks which are submerged even at low tide. It is considered one of the most commonly encountered sponges on our shores. It is one of the few sponges that was described from Singapore, hence its species name.
 
-**Features:**
+## Features
+
 15-20cm in diameter. There is usually one or two large hollow cones (to 2cm in diameter), encircled by upright long 'fingers' (up to 15cm tall). These fingers are generally unbranched with flattened or rounded tips, and they don't have any large holes. With some imagination, it does resemble a daisy, doesn't it? There may be creeping buried 'rhizomes' extending along the ground from the sponge with fingers sticking up from these horizontal stems. Colours include bright yellow, brownish, maroon, greenish and black.
 
 Another sponge species of a different family (

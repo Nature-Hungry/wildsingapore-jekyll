@@ -82,10 +82,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Dense balls of this seaweed is sometimes seen on some of our Southern shores, growing on coral rubble.
 
-**Features:**
+## Features
+
 Dense bushy balls about 6-8cm in diameter made up of very short cylindrical blades that branch thickly with tapering tips. Colours often blue or bluish, sometimes green. Usually in small clumps, but sometimes covering a larger area of about 20cm.
 
 **Human uses:**

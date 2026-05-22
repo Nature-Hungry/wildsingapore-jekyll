@@ -92,11 +92,12 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This clam is sometimes seen in sandy shores near seagrasses.
 Elsewhere, they are found on intertidal shores with sand.
 
-**Features:**
+## Features
+
 About 4-6cm. Shell rather circular, flat, thick with fine concentric ridges. Colour white with various brown lines, often zig-zag patterns.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

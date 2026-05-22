@@ -80,10 +80,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This agile but well camouflaged brittle star is sometimes commonly encountered on our Northern shores, among seagrasses as well as on sand and silty sand. Sometimes large numbers may be seen. It is more active at night and can move about rapidly among seagrasses and over sand.
 
-**Features:**
+## Features
+
 Disk diameter less than 1cm, arms about 5cm long. Central disk flat and smooth, some are circular, others have a distinct petal-like shape with scalloped edges. Arms wide and flattened, with tapered pointed tips. Spines short and flattened, in a row along the sides of the arms. Long tapered tube feet emerge from the arms. Colours usually match the sand, often with a pattern of bars along the length of the arms. Usually brown, beige or greenish.
 
 The brittle stars on this page are probably from different species. They are grouped together for convenience of display.

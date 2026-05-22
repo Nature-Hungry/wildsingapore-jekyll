@@ -100,10 +100,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This lively fish is seldom seen. Once seen swimming actively among seagrasses, another near coral rubble. It might be quite common but overlooked because of its superb camouflage.
 
-**Features:**
+## Features
+
 To about 20cm, those seen 6-15cm. Typical fish shape with large scales. It has a protrusible mouth. Most species are sand burrowers, feeding on creatures that live on the sea bottom. Most species change color and sex as they grow bigger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

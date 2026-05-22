@@ -157,10 +157,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This spiny fish is commonly seen on many of our shores, especially among seagrasses, sometimes in groups of a few small individuals. It is also sometimes seen on our Southern shores. Juveniles may school in large numbers, the numbers reducing as the fishes grow bigger. Adults may be found in large groups at spawning time.
 
-**Features:**
+## Features
+
 Can be quite small (about 8cm or less) to quite large (about 15cm). It is named for its rabbit-like snout ('siganus' means 'has a nose like a rabbit') or possibly for its habit of grazing on seaweeds. It is also called Spinefoot after the spines on its pelvic fins, a unique feature of this family. It has tiny scales. Sometimes with a dark round blotch behind the gill cover. Especially young ones, with a white bar across the forehead from eye to eye. Body colours vary with its mood and is generally olive with many prominent white spots all over. When it is scared, it displays a 'fright pattern' that is mottled with pale cream and 6-7 dark diagonal bars.
 *Siganus fuscescens*
 may appear very similar but the body colour generally more uniform, usually lacks or has much fewer spots and the edge of the gill cover is darkly outlined.

@@ -81,10 +81,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This 'hairy' nudibranch is sometimes seen on some of our shores. It is seen near reefs in the South as well as rocky areas in the North.
 
-**Features:**
+## Features
+
 About 2cm long. Long, narrow, soft body with
 many long finger-like structures (called cerata) arranged in rows across the body. The body and cerata nurture the symbiotic zooxanthellae that continues to undergo photosynthesis and produce nutrients within the sea slug. Usually beige or brown.
 

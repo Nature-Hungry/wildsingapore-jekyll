@@ -80,12 +80,13 @@ links_references: |
   New Holland Publishers. 128 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This delightful creature is more common that we might imagine. Smooth-coated otters are often sighted in our mangroves, mudflats and coastal areas. Such as at Sungei Buloh Wetland Reserve, Pasir Ris, Pulau Ubin as well as Changi.
 According to Baker, in Singapore, they are also reported from the Western Catchment Area. It was previously known as
 *Lutra perspicillata.*
 Acccording to Sungei Buloh Wetland Reserve, The first record of the Smooth-coated otter was of a male, collected in 1938 from Lazarus Island. The second otter sighting was recorded at Sungei Buloh in 1990. According to Davison, the local population may not be strictly resident as they travel easily between Johor and Singapore across the Johor Straits.
-**Features:**
+## Features
+
 ****
 Head and body to 75cm, tail to 45cm. Long body and a long tail, covered in short sleek fur. It has short limbs with webbed 'fingers' and prominent claws. The upperparts are greyish brown and the underside is buffy.
 

@@ -105,7 +105,7 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These feathery animals are sometimes seen on some of our shores, generally near living reefs. They are also encountered by divers on our Southern reefs.
 Most feather stars only come out to feed at night. During the day, they hide in crevices or among coral, curling up their arms in tight coils.
 
@@ -114,7 +114,8 @@ Feather stars belong to Phylum
 [Echinodermata](../echinodermata.md)
 . Although they may look similar to brittle stars, feather stars belong to a different Class Crinoidea. 'Crinoidea' means 'lily-like' in Greek. There are about 600 known living species of feather stars. Shallow-water crinoids are also called comatulids.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 Like other echinoderms, feather stars are symmetrical along five axes, have spiny skin and tube feet. Like brittle stars, feather stars have thin, long and highly flexible arms. But crinoids are much more spectacular than brittle stars, with an explosion of long feathery arms.
 
 The arms arise from a cup-shaped structure at the centre called the calyx. The calyx contains the digestive system and is covered by a soft membrane called the tegmen that may be rounded into a mound or look like a drum skin over the calyx. Unlike sea stars and brittle stars, the feather star's mouth facing upwards. The mouth may be in the centre of the disk or off to one side. The anus is also on the upperside, in some species at the top of a cone or tube that brings it above the feeding current to prevent fouling of the feeding process.

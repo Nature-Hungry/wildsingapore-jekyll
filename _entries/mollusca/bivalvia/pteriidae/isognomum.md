@@ -69,10 +69,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Like tongue depressors, these narrow long clams are sometimes seen stuck upright to rocks and coral rubble near reefs.
 ****
-**Features:**
+## Features
+
 10-15cm. The two-part shell is thick, flat and usually long and narrow, sometimes with a T-shape near the bottom where it is stuck to a hard surface with byssus threads. Usually dark, the shell is often coated with encrusting organisms. Often found in groups of a few individuals stuck in crevices.
 
 **Sometimes confused with**

@@ -229,7 +229,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Gobies are abundant on many of our shores. But they are hard to spot. At the slightest sign of danger, they bolt into burrows or dart under rocks. Even in plain sight, they blend in with the sand and mud. So watch your step or you might squash a tiny fish! Besides those that are found in pools, another kind of familiar goby found on our shores are the
 [mudskippers](mudskipper.md)
 that hop around on mud and rocks.
@@ -243,7 +243,8 @@ Because they are small, shy and well camouflaged, new goby species are being dis
 *Trimmatom nanus*
 , which reaches only 0.8-1cm long and is found in the Chagos Archipelago and Maldives.
 
-**Features:**
+## Features
+
 5cm or smaller, but some may grow to 10cm. Many gobies are adapted for bottom dwelling, feeding mainly on small animals. Most are not fast, long-distance swimmers. Their bodies are cylindrical rather than streamlined, and they lack a swim bladder. They usually have large eyes high up on the head to keep a look out for danger from above. The pelvic fins are often fused to form a suction pad to grip surfaces.
 
 **What do they eat?**

@@ -138,10 +138,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This intriguing animals with fleshy tentacles are sometimes seen near living reefs, under corals and stones.
 
-**Features:**
+## Features
+
 4- 6cm. The two-part shell is thin, fine ridges, usually white or yellowish. The shell can't close completely and there is a permanently open gape. Tentacles very long, usually reddish with fine bars. Tentacles can't be retracted completely in the shell.
 These tentacles are sticky and can break off if the animal is distressed. The animal is quite active and can swim by 'clapping' its valves.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

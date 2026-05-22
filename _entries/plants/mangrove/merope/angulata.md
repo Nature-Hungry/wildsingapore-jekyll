@@ -60,12 +60,13 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This rare lime-look-alike is found in the back mangroves, growing under mangrove trees. According to Hsuan Keng, they were found in Jurong and Kranji, while according to Ng, they were found in Sungei Mandai Besar and Sungei Mandai Kecil. According to Corners it is frequently seen in mangrove swamps in Southern Malaya. While Tomlison says they are also found on river banks but 'rather scattered'. It was previously known as
 *Paramignya longispina*
 . The malay name 'lelang' refers to the talons of the hawk, probably referring to the thorns of the plant.
 
-**Features:**
+## Features
+
 A thorny shrub to about 3m tall, or scrambling plant. Leaves leathery, arranged alternately. The leaves (7-16cm long) give off a lime-like smell when crushed. There are stout spines in pairs or singly. Flowers small with 5 white petals, fragrant, one appearing in the leaf angles. Fruits (2.5-4cm) yellow, resembling a small lemon with three flat sides. They contain large, long, flattened seeds.
 
 **Human uses:**

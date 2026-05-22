@@ -86,10 +86,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These mushroom shaped corals are sometimes seen on some of our Southern shores, lying unattached on shallow sandy or rubbly areas near living reefs.
 
-**Features:**
+## Features
+
 [Circular](circular.md)
 *Fungia*
 species are more commonly seen, while some may be

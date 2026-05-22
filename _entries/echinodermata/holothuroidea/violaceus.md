@@ -94,10 +94,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This amazing technicolour sea cucumber is sometimes seen on our Northern shores, among seagrasses or attached to rubble.
 
-**Features:**
+## Features
+
 10-20cm long. Body long or spherical with five rows of tube feet that are bright yellow long slender, but the two rows on the upper side of the body are usually less distinct. Body usually red on the upperside, shading to lilac and white to the underside. The mouth is ringed with blue. Feeding tentacles red, branched tips may be tinged purple, yellow and white. During low tide, it retracts its colourful feeding tentacles. Anus is surrounded by five tiny teeth-like structures that are bright yellow. When relaxed, the normal shape is short and sausage-like as with most other sea cucumbers. When stressed, however, it may inflate itself into a large round ball.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -93,10 +93,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Small juveniles are often seen near reefs in schools.
 ****
-**Features:**
+## Features
+
 Grows to 28cm, tiny ones 2-3cm long are sometimes seen in small groups near reefs. It has a tail fin striped black and white, a large prominent black blotch is on the dorsal fin, and about 4 broad blackish longitudinal stripes on sides that run through the eyes. Body colour dusky green above, white below. Juveniles dark brown or greenish with white-silvery spots or indistinct stripes.
 
 ![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg)

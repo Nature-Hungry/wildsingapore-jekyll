@@ -132,7 +132,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These squirmy fishes that resemble eels are the only catfishes commonly seen in coral reefs and intertidal areas. They are sometimes abundant on many of our shores. Juveniles about 10cm long or smaller can be seen close to mid-water mark, while larger ones are often sighted hiding among seagrass or coral rubble in deeper waters.
 
 **What are eeltail catfishes?**
@@ -140,7 +140,8 @@ Eeltail catfishes belong to the Family Plotosidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=149)
 : the family has 9 genera and 32 species. The marine species are found in the Indo-West Pacific Ocean. Most of the members of this family live in freshwater. Only a few are marine. 'Plotos' means 'to float' in Greek.
 
-**Features:**
+## Features
+
 Juveniles from 5cm, adults to about 30cm. The body is long and cylindrical, flattening into an eel-like tail, i.e., the dorsal and anal fins are continuous with the tail fin. To swim, the fish undulates in an eel- or snake-like manner. Snout blunt with four pairs of 'whiskers' (called barbels) all around the mouth. One pair on the snout in front of the eyes, one pair on each side of the mouth and two pairs below the mouth. It lack scales and has a smooth slimy skin. It makes up for this 'nakedness' with venomous spines on the dorsal fin and on each of the pectoral fins. These tough spines can be locked upright, thus making an eeltail catfish unpleasant for bigger fish to swallow. They use their venomous spines to protect themselves against predators, and not to catch prey.
 
 **Sometimes mistaken for**

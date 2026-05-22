@@ -114,10 +114,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals have tiny circular corallites that resemble tiny stars when the polyps are expanded. They are commonly seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 15-30cm, sometimes much larger. The colony is generally a smooth boulder shape, sometimes forming smooth hillocks of different sizes, or small towers. The corallites have separate walls that are rather thick, forming a tiny circular ring (0.2cm or less) and are packed close to, but not squashed against one another. The result is a regular pattern of tiny rings. The surface between corallites often has tiny granular bumps. The polyps are tiny with many short tentacles, usually close to the colony surface, i.e., body column is not long.
 
 Colours seen include brown, yellow, orange and green.

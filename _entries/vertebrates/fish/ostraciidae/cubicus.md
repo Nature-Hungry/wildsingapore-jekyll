@@ -57,11 +57,12 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This cute little cube-like fish was seen once on Pulau Sekudu.
 
 ****
-**Features:**
+## Features
+
 To 45cm, the one seen was about 4cm long and probably a juvenile. It is cube-shaped, bright yellow with many small black dots. As the fish grows older, it will have larger dots or black-edged white eye-like spots. Adults grow to 45cm and are found in deeper waters. They are dusky yellow with irregular yellow lines on the head, with greyish blue fins. It is reported that juveniles are often seen among
 *Acropora*
 corals.

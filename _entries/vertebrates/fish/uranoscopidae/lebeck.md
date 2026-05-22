@@ -109,7 +109,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This bizarre pop-eyed fish is sometimes seen on our Northern shores, usually buried in sand bars and sandy shores near seagrass areas with only their tiny eyes sticking out. A large one (about 30cm) that we rescued from a fish net immediately wiggled into the wet sand, leaving only its bulbous eyes peeping out. Sometimes, dead ones are seen washed ashore.
 
 **What are stargazers?**

@@ -127,10 +127,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large long smooth sea cucumber with dark markings is sometimes seen buried near seagrasses on some of our shores. Those seen were buried in the sand near the low water mark, with only a tip of the body sticking out. Elsewhere, it prefers lagoons and seagrass meadows with sandy ground and can be found in high densities.
 
-**Features:**
+## Features
+
 10-12cm long. Body soft cylindrical and tapered at the back side. Irregular darker blotches, about 8-10 blotches in 2 rows, on a body colour that varies from yellow, orange to dark or light brown. The underside is usually paler with fewer dark markings. Tube feet seem small and stumpy. It has a small downward facing mouth with 20 small yellow feeding tentacles. It can release from its backside, sticky white cylindrical tubes called Cuvierian tubules, but it rarely does so.
 ****
 **Baby cucumbers:**

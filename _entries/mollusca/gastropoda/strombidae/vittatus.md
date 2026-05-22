@@ -50,10 +50,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This conch snail was seen alive at St John's Island among seagrases. And Beting Bronok among seagrasses growing on soft silty ground..
 
-**Features:**
+## Features
+
 6-8cm, elsewhere up to 10cm. Shell thick, heavy, long and narrow, lip flared slightly wavy. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

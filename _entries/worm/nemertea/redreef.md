@@ -79,10 +79,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This short red ribbon worm is commonly seen at night in coral rubble and near reefs. Many of of these worms can be glimpsed among seaweeds at night, extending their bodies out of hiding places.They retract instantly as soon as light shines on them, or they feel a disturbance. You only get one chance at a flash photo of them!
 
-**Features:**
+## Features
+
 Grouped in this entry are ribbon worms that are rather short 10-15cm with broad flat bodies uniformly coloured red or orange usually without any dark markings.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **

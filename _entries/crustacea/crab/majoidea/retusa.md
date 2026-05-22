@@ -192,10 +192,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This superbly disguised crab is commonly encountered on our Northern shores, on coral rubble and seagrasse areas. But it requires a keen eye to spot!
 
-**Features:**
+## Features
+
 Body width 3-6cm. Body tear-drop shaped, without large spines on the sides. Often all you can see are its tiny eyes on long curved eyestalks at the tip of its pointed head. Pincers short cylindrical, claws slender and curving.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 This crab snips off bits of sponges and seaweed or selects suitable shells and debris. These are then stuck firmly onto the fine, hooked hairs which densely cover its body and legs and thus act like the 'velcro' after which it is named.

@@ -141,10 +141,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This goby lives with a shrimp and is sometimes seen on some of our shores, on rubbly areas near reefs and among seagrasses.
 
-**Features:**
+## Features
+
 To about 7cm, tiny ones about 1.5cm also seen. Tiny young ones are strikingly black-and-white with a bright white snout and at least 5 white 'saddles' across its back. Older larger ones have a long and narrow body, also with 5 or more 'saddles' which are paler, and dark spots along the sides with tiny pale speckles all over.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**

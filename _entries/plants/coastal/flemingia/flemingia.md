@@ -55,12 +55,13 @@ galleries:
       caption: "Links Flemingia strobilifera on the Pacific Islands Ecosystems at Risk website: fact sheet of this plant which is considered an invasic in the Pacific Islands. References Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This strange bush with tassels of dry flower bracts are planted at Chek Jawa. According to Burkill, it was found from India to the "furthest part of Malaysia". It was common in the Peninsula in more inhabitated places. According to Hsuan Keng it was uncommon and is a seashore plant that was recorded for Changi. Previously known as
 *Monghania strobilifera*
 .
 
-**Features:**
+## Features
+
 A shrub (1-1.5m tall). Leaves with prominent veins, arranged alternately. Young leaves are small and appear to overlap one another. The papery flower bracts appear in a long drooping row. Green when young, turning brown. Fruits are pods that explode when ripe. The seeds are tiny, brown-black with red mottling.
 
 ****

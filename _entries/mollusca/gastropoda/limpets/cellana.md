@@ -81,10 +81,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This smooth-shelled limpet is not as commonly seen nor seen in as large numbers as other limpets. It is often seen on the smooth surfaces of recently opened oyster shells stuck on boulders, especially in shady places. So far, more commonly seen on our Northern shores.
 
-**Features:**
+## Features
+
 About 2-3cm long. Thin shell smooth with fine grooves. There is no hole at the top of the shell. Body plain white or yellow. The smooth limpet is a true limpet that breathes through gills.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

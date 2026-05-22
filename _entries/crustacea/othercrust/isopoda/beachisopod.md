@@ -69,7 +69,7 @@ links_references: |
   . Reed New Holland. 224 pp.
 ---
 
-**Where seen?**
+## Where seen?
 These tiny segmented animals are sometimes seen our shores, often swarming in numbers at low tide over rotting fruit or dead matter. The most commonly seen isopod on the beach are
 [sea slaters](ligia.md)
 (
@@ -83,7 +83,8 @@ like crabs and prawns. There are about 4,000 described species of isopods that l
 *Bathynomus giganteus*
 can grow to 40cm long! Many may be parasites on other marine creatures.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 1cm or less. Their segmented body is flattened downwards (instead of sideways for amphipods such as
 [amphipods](../amphipoda/amphipoda.md)
 ) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.

@@ -64,10 +64,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These thin beige sheets are often seen on our Northern shores, and sometimes on our Southern shores.
 
-**Features:**
+## Features
+
 Colony irregular in outline, about 5-10cm in diameter, found
 near the mid-water mark
 , encrusting vertical and horizontal hard surfaces including artificial structures. Also under stones. The colony is smooth, rubbery with many, tightly packed tiny spots. Usually beige in colour.

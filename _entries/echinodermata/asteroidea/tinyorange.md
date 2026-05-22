@@ -75,10 +75,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This tiny sea star is sometimes seen on our Southern shores on rubbly areas near living reefs.
 
-**Features:**
+## Features
+
 Diameter about 2cm. Usually 5 arms, slender, equal in length. Upperside orange. Underside pale without markings.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

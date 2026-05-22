@@ -153,10 +153,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This elegant large sea star has its stronghold on our Northern shores. Usually seen on soft, silty shores, near seagrass meadows and coral rubble. Usually alone, although sometimes, large numbers can be seen gathered together. It moves rapidly and is usually more active at night. It appears to be seasonal. Sometimes seen in large numbers and then none seen for some time. According to Marsh and Fromont, it is moderately common on sand or mud in Australia.
 
-**Features:**
+## Features
+
 Diameter with arms to 12-20cm. 5 to 9, usually 8 arms. Arms are long, somewhat rounded in cross-section, and tapered to a sharp tip, edged with small sharp spines along the sides. The upper surface of the body is covered with special flat-topped, pillar-like structures called paxillae. The underside is pale, and from grooves along the arms emerge large tube feet with club-like, pointed tips. Colours and patterns on the upperside are highly variable in shades of greyish blue, to brown and beige, but usually with a darker star-shaped pattern in the centre, and dark irregular bars along the length of the arms.
 
 **Sometimes mistaken for**

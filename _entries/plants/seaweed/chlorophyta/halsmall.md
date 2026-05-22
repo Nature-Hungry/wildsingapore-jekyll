@@ -99,10 +99,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This is seaweed made up of small, hard segments. It is commonly seen on many of our shores, usually growing on coral rubble or among living corals.
 
-**Features:**
+## Features
+
 An upright chain (3-5cm long) of joined up coin-like flattened segments. Each coin-like segment is hard as it is impregnated with calcium carbonate. Small coin green seaweeds have small segments about 1cm or less. In some, clusters of these chains are held up on a stalk that is buried. Colours range from light to bright green and olive green. Sometimes rather large 'thickets' may form, covering an area of 40-50cm.
 
 In

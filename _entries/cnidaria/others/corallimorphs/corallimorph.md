@@ -85,7 +85,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These little disk-shaped animals are commonly encountered on our Southern shores, where they can sometimes form carpets over coral rubble.
 
 **What are corallimorphs?**
@@ -95,7 +95,8 @@ that belong to the same
 [Class Anthozoa](../../anthozoa.md)
 as sea anemones. There are about 50 species of known corallimorphs. They are found in all parts of the ocean, from shallow to deep waters, from the tropics to even the poles. Some deeper water species can reach 1m in diameter!
 
-**Features:**
+## Features
+
 Those seen on our shores have oral disks 1-2cm in diameter. Like sea anemones, corallimorphs are solitary polyps, although they are usually found in groups and may sometimes carpet large areas of coral rubble.
 
 Corallimorphs are distinguished by an upturned mouth in the centre of the oral disk. Most other sea anemones and corals have inward turning mouths.

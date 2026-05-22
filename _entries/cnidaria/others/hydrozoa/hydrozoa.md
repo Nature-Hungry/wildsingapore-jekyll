@@ -100,7 +100,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 A wider variety of those that are large and attached to hard surfaces are commonly encountered on our Northern intertidal shores. Forming colourful fluffy patches. Some fiery stinging ones are also commonly seen on our Southern Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).
 
 **What are hydroids?**
@@ -110,7 +110,8 @@ They belong to
 [jellyfish](thread.md)
 or appear to be branching plants. There are about 3,000 known species of the Class Hydrozoa.
 
-**Features:**
+## Features
+
 Hydroids are colonial animals. The polyps are tiny (1mm tall with a smaller diameter). In branching forms, the polyps are encased in a 'skin' made of chitin (the same substance that insect exoskeleton is made of). In some, each polyp lives in a bell-shaped 'container' with a lid. The colony often takes on feathery, branching plant-like forms. The branches arise from a central stalk that is attached to a hard surface.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The colony may be made up of two different kinds of polyps. Feeding polyps look like sea anemones with tentacles armed with

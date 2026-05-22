@@ -131,10 +131,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 The large pale shrimp is sometimes seen in mangroves, also seagrass areas near mangroves on our Northern shores. Elsewhere, some species are found in reefs and deeper waters.
 
-**Features:**
+## Features
+
 4-6cm long. Long abdomen with broad tail, a pair of larger pincers both about the same size. Colours usually translucent, white or pale shades of yellow, pink, orange.
 
 Its burrows in the mangrove mud can be 200cm deep and complex. Its burrows are believed to help aerate the ground and allow other kinds of smaller creatures to settle nearby.

@@ -143,7 +143,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Often mistaken for snakes, these large wriggly fishes are occasionally seen on our shores. Moray eels are secretive fishes and usually seen only at night and in the more undisturbed shores with reefs and coral rubble. Sightings are usually brief as the fish disappears quickly into some crevice or hiding place.
 
 **What are moray eels?**
@@ -151,7 +151,8 @@ Moray eels belong to the Family Muraenidae, which belongs to the Order Anguillif
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=56)
 : the family has 15 genera and 200 species. They are found worldwide in both tropical and temperate seas.
 
-**Features:**
+## Features
+
 Moray eels are extremely long fishes with muscular bodies. Their bodies are compressed sideways (they are not tubular). They have no pelvic or pectoral fins. The dorsal and anal fins extend over the entire length of the long body and are continuous with the tail fin, resulting in the typical eel-like profile. Instead of scales, they have thick, smooth skin. The large, strong jaws are filled with lots of teeth. The eyes are small. They have a pair of tubular nostrils at the tip of the snout, and small circular gill openings. Eels swim by moving their muscular bodies in S-shapes, rather like a snake.
 
 **Sometimes mistaken for**

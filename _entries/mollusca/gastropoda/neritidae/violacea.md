@@ -62,7 +62,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This sturdy nerite is sometimes seen in back mangroves and among
 [mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
 .
@@ -70,7 +70,8 @@ The study by Tan & Clements (2008) found this snail on our Northern shores as we
 *Dostia violacea*
 .
 
-**Features:**
+## Features
+
 About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the shell is covered with a 'skin' (periostracum) and usually covered with silt and algae. The shell pattern is actually pale with fine purplish bands and 'tent' markings. The flat underside may range from whitish with an orange tinge to bright brick red. Often with a narrow dark rim. The straight edge at the shell opening may have no 'teeth' or some tiny ones in the centre part. Operculum thick, smooth similar in colour with the underside with dark partches and blotches. Body said to be orange with black patches but those seen were pale with dark spots and a black foot.
 
 **Sometimes mistaken for**

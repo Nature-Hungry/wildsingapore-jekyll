@@ -129,10 +129,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with a pebbly surface is sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 ****
 Colonies large (about 20cm or more). Colonies are solid (massive) and may be dome-shaped or encrusting, with a few species forming tiers of thick plates. Corallites small, circular opening (1cm or less), usually in a blunt conical shape. The many conical shapes result in a pebbled appearance. The corallites and the surface between corallites usually covered with tiny bumps. New corallites emerge in between existing corallites. The polyps look like tiny sea anemones with 24 tentacles that are flat and petal-like, and a thick body column. Extended polyps usually only seen at night. Colours seen include brown, blue, green sometimes with tinges of other colours.
 

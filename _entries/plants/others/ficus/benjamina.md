@@ -50,7 +50,7 @@ galleries:
       caption: "Links Ficus benjamina on Total Vascular Flora of Singapore Online: photos and fact sheet. References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 A commonly seen strangler in our forests, along roads and abandoned kampongs. It also grows on old buildings in cracks and crevices. It is found from India to the Solomon Islands and is commonly planted in Malaya. It is rare in forests and sometimes found on rocky coasts.
 
 **

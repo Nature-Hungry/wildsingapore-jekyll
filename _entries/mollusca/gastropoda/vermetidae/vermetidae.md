@@ -88,12 +88,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These odd-looking snails are seen coiled on rocks, stones and other hard surfaces. Commonly seen on our Northern shores. Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the
 [Family Turritellidae](../turritellidae/turritella.md)
 also build coiling shells.
 
-**Features:**
+## Features
+
 Tube opening 1-2cm in diameter, coils 10cm long or more. This amazing snail is NOT a worm. It builds a thin hard tube on hard surfaces. The worm snail has a pair of short thick tentacles, and a short foot. Some species of worm snails have a thin operculum attached to the foot that is used to seal the shell opening, others don't. As young snails, the shell they produce appears 'normal', and are free-living and unattached. But they soon attach to a hard surface and the shell produced becomes meandering and coiling.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes confused with**

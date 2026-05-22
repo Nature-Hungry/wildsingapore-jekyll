@@ -64,9 +64,10 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This a small specimen of this flattened fish was seen once at Cyrene Reef.
-**Features:**
+## Features
+
 To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny pectoral fin on the eyed-side. Dorsal and anal fins separated from the tail fin. Dorsal fin near the head has elongated fin rays. The eyed-side with three large eye-like spots.
 
 **Sometimes confused with**

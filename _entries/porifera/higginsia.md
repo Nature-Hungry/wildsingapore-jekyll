@@ -42,9 +42,10 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tekong.
-**Features:**
+## Features
+
 Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg)

@@ -68,7 +68,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These tiny flattened worms are often seen on other animals, usually
 [cnidarians](../../cnidaria/cnidaria.md)
 such as
@@ -82,7 +82,8 @@ They are unsegmented worms that belong to Class Acoela. Some put them in Phylum 
 [flatworms](../polycladida/polycladida.md)
 .
 
-**Features:**
+## Features
+
 1cm long or less. Often circular in shape and brown, sometimes with a white stripe or short white line or a yellow spot. The brown colour comes from the symbiotic algae in their bodies. Many species reproduce asexually by fragmentation.
 
 **What do they eat?**

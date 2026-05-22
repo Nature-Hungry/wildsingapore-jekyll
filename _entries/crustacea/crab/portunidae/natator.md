@@ -122,10 +122,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This swimming crab is not often encountered, under stones on sandy shores.
 
-**Features:**
+## Features
+
 Body width 5-7cm, to 17cm. Body somewhat fan-shaped with 6 spines on the sides. The eyes not very far apart. Between the eyes there are 8 small rounded lobes. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Body usually plain beige, covered with fine hairs which traps sediments. Legs and pincers reddish brown with dark coloured bumps, black tipped with blue spots at the base of the 'fingers' of the claw.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

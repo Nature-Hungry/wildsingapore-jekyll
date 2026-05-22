@@ -124,12 +124,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This stunning snail is rare and thus a delight to encounter. It is sometimes seen on our undisturbed Northern shores, near living reefs. It is said to be usually found on live coral colonies, particularly table-forming
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 . Other accounts suggest it is also found in seagrass meadows, and sand and rubble.
 
-**Features:**
+## Features
+
 8-9cm, can reach 15cm. Shell is oval to pear-shaped, variable in colour from white to nearly black but usually white, yellowish to light blue greyish with dense rounded spots of dark brown to black. The underside is white including the 'teeth'. The mantle may be golden yellow with dark bands and spots that somewhat resembles a tiger's stripes, also described as a 'finger-print' pattern.
 
 **Sometimes mistaken for**

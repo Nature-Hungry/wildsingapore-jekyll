@@ -164,12 +164,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny elongated snail is sometimes seen on
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 on our Northern shores.
 
-**Features:**
+## Features
+
 2-3cm. Shell thin and pointed at the ends. Shell colour peach or orange with white margins near the shell opening and white bars across the shell. Body white with maroon margin or all maroon, tentacles banded white and maroon. The mantle is maroon with yellow protruding bumps arising from white circles. The white circles may merge, forming bands across the body. The mantle is also sprinkled with darker maroon spots.
 
 Similar looking spindle cowrie species include

@@ -221,12 +221,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Hairy crabs are commonly seen on rocky and coral rubble areas on many of our shores. The "teddy-bear" of crabs, these hairy little creatures fluff up in the water and look positively cuddlesome. But they are hard to spot and usually well hidden, especially during the day. They are more active at night, but even then, they usually scuttle into the nearest crack or crevice at the first sign of danger.
 
 These little crabs are not the same as the large 'Hairy crabs' that are served in our restaurants as seafood.
 
-**Features:**
+## Features
+
 Body width 3-5cm. As its name suggests, its body and limbs are covered with long, silky hairs. These trap sediments allowing the crab to blend perfectly with its surroundings. In the water, its hairs 'fluff up' breaking up its body outline. It also moves slowly and thus overlooked as some bit of drifting rubbish. It has large claws, with black or light brown tips. It has reddish eyes.
 
 The Common hairy crab (

@@ -64,10 +64,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large greyish goby with spots is sometimes seen in our mangrove streams.
 
-**Features:**
+## Features
+
 About 6cm long. Pearly grey with 3-4 rows of small round black spots on the sides. Spots and streaks also on the fins and tail.
 
 **What does it eat?**

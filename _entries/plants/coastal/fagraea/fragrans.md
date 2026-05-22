@@ -66,12 +66,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful stately tree is commonly planted in our parks and road sides. In the wild, they were found in open and swampy lowlands throughout Malaya, most commonly to the south. It was also known as
 *F. cohinchinensis*
 . According to the NParks website, it is "highly robust and can grow even in poorly drained, clayey soils".
 
-**Features:**
+## Features
+
 A tall tree (30-40m), older trees have typical U-shaped angular branches that stick out horizontally before making a sharp turn to grow vertically. The bark is typically deeply fissured, which Corners describes as "rugged". Leaves (5-8cm long) oval with pointed tips. Flowers (2cm across) creamy white trumpet-shaped, appears in clusters and are strongly fragrant especially in the early morning and late evening. They turn yellow with age. The fruits are round berries (about 1cm) with lots of tiny seeds. Initially green, turning orange then red, they can take more than 3 months to ripen. Ripe fruits are eaten by bats and birds which disperse the seeds.
 
 Corners describes how "flying foxes come to gorge upon the fruits at night". He says "the yearly fruiting of the Tembusu is one of the marvels of local natural history. The flying foxes arrive from far and wide, flapping across the evening sky from islands to the south, from the mangroves of the mainland, and even from the coast of Sumatra. For two or three weeks they revel nightly. At other times, the flying foxes are scarcely to be seen." Alas, flying foxes are no longer found in Singapore. Corners adds that the berries are too bitter to be relished by other beasts.

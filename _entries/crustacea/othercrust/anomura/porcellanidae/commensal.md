@@ -78,10 +78,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tiny porcelain crab is sometimes seen, on other animals such as hard and soft corals, as well as on seaweeds and coral rubble. Sometimes seen in groups of many animals. It is probably quite common but overlooked because it looks like bits of dirt!
 
-**Features:**
+## Features
+
 Body width less than 1cm. Some have a hairy body and pincers. Others are smooth.
 
 Different species of porcelain crabs probably match this description. Species are difficult to positively identify without close examination. On this website, they are grouped by external features for convenience of display.

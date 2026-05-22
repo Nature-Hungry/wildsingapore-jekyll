@@ -64,10 +64,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This bright pink flowery soft coral is seen on our Northern shores. Attached to coral rubble, boulders or other hard surfaces.
 
-**Features:**
+## Features
+
 Colony tree-like about 10-15cm. Colony is branched with sturdy 'stems' emerging from a stout central 'trunk'. The 'stem' white or transparent, with red or pink sclerites embedded in the tissues. Polyps tiny (about 0.5cm) with eight white branched tentacles. The polyps appear in clusters at the tips of the branches, no obvious large spikes next to the polyps. Tends to be pinkish at the polyp clusters. The animals do not have symbiotic algae (zooxanthellae) and thus can be found in murky water and dark places.
 **Flowery friends:**
 Tiny animals found on the soft coral include tiny

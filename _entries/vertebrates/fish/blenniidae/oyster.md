@@ -37,10 +37,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.
 
-**Features:**
+## Features
+
 About 5cm. Body elongated flattened sideways, head rounded. Fine white lines along the body length.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

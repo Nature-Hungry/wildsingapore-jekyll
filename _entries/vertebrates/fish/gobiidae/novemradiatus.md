@@ -62,10 +62,11 @@ links_references: |
   . Singapore Science Centre. 164pp.
 ---
 
-**Where seen?**
+## Where seen?
 A small, well camouflaged mudskipper that is commonly seen near mangroves and other silty shores. Sometimes also seen on seawalls and rocky shores.
 
-**Features:**
+## Features
+
 4-6cm. A small mudskipper with iridiscent bluish speckles on its head and body. Its pectoral and tail fins are reddish near the body with transparent edges. The fish is only positively identified by looking at their underside, to see the blackish area near the gills. More about
 [how to tell apart small mudskippers](cfmudsmall.md)
 commonly found on our shores.

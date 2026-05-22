@@ -147,10 +147,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This long, often tongue-shaped mushroom hard coral is sometimes seen on many of our Southern shores. This coral is free-living as an adult (it is not attached to the surface) and large ones may be seen on in coral rubble and among living corals.
 
-**Features:**
+## Features
+
 Skeleton longer than broad, 20-30cm long with rounded ends, though some may have rather pointed ends. Comes in a wide variety of shapes from long and narrow, oval to circular, flat or rather humped, also bomerang shaped. Specimens in T-, Y- or X- shapes are also seen. This is generally due to regeneration following damage.
 
 A prominent central furrow. Upper surface with thin lines radiating from the central furrow. Lines are parallel, discontinuous with sparse, fine 'teeth' that usually can't be seen in the field. The underside usually concave, some with radiating lines of short bumps.

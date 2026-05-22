@@ -226,12 +226,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This lemon yellow nudibranch with black-edged ruffles, resembles a slice of cheesecake. It has twitchy gills. Commonly encountered on many of our Southern shores, on rubble near reefs, sometimes in rather large numbers. It is also sometimes seen on our northern shores. It was previously known as
 *Glossodoris atromarginata*
 .
 
-**Features:**
+## Features
+
 3-5cm long. A hard lemon-yellow body with an ruffled margin that is elegantly edged in black. It holds this portion of its body raised. The black edging is also found on the feathery gills and feathery rhinopores. There are black rings where the rhinophores emerge from the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 The feathery gills rotate constantly to and fro. This is believed to help improve respiration as unlike most other nudibranchs which have thin body skins; the body skin of this nudibranch is rather thick and probably doesn't allow much secondary respiration to take place across the body skin.

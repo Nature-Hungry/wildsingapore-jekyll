@@ -78,10 +78,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This tiny anemone is often seen our Northern shores, on hard surfaces near the high water mark. Usually in clusters of many individuals rocky shores, jetty legs among encrusting animals like oysters, barnacles and even inside the shells of dead barnacles.
 
-**Features:**
+## Features
+
 Tiny blobs less than 0.5cm. At low tide, they usually tuck their tentacles into their greyish body column and look like tiny blobs with fine stripes in white, orange, yellow or red. You will seldom see one with its tentacles expanded at low tide.
 
 This is considered one of the most widely distributed anemone in the world and was probably dispersed by ships. The anemone can reproduce by budding off from the base and by dividing into two.

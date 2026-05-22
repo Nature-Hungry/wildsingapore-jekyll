@@ -151,14 +151,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny crab with a dark band across the face is sometimes seen in branching
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 (
 *Acropora*
 sp.) on our Southern shores. Usually more than one crab is seen in a single colony. Small, quick and flattened, they move around quickly among the coral branches and are hard to spot and photograph.
 
-**Features:**
+## Features
+
 Body width about 1cm, body flat, claws with pointed pincers. Body, legs and pincers brownish to beige. Across the eyes, a narrow dark band with a fine glittering blue line on the lower edge of this band.
 
 **What does it eat?**

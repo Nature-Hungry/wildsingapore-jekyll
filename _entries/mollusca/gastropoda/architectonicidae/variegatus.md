@@ -59,10 +59,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 The snail with a unique operculum is sometimes seen on our Southern shores.
 
-**Features:**
+## Features
+
 Up to 2cm in diameter. Shell thick and coiled to form an overall conical shape. Coils have a beaded texture, colours usually alternating dark and light. The operculum is conical with regular grooves and resembles a drill! Body mottled with long tentacles.
 
 **What does it eat?**

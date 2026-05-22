@@ -72,7 +72,7 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 The Indian halibut (
 *Psettodes erumei*
 ) is sometimes seen on some of our shores, often near seagrasses.
@@ -85,7 +85,8 @@ that belong to the Family Psettodidae. According to
 *Psettodes erumei*
 ).
 
-**Features:**
+## Features
+
 The Indian halibut grows to about 60cm, the one seen was about 20cm long. Eyes small and may be on the right or left side. It doesn't look as specialised as the other flatfishes. It looks very much like a 'normal' fish that is flat (but thicker than other flatfishes). Besides swimming on its side, it may also swim upright like other 'normal' fishes. The tail fin is well separated from the dorsal and anal fins, and the mouth is very large with fang-like teeth. Even its tongue has minute teeth! Usually brown or grey, sometimes it has 4-5 broad dark cross bars. The dorsal, anal and tail fin tips are black.
 
 **Sometimes confused with**

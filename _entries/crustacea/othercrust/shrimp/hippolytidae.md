@@ -58,7 +58,8 @@ Hippolytid shrimps are
 that belong to Family Hippolytidae.
 ****
 
-**Features:**
+## Features
+
 Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on
 [sea whips](../../../cnidaria/others/gorgonacea/whip.md)
 .

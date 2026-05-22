@@ -136,12 +136,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This black nudibranch with prickly bumps is sometimes seen on some of our shores, on coral rubble. It was previously known as
 *Trippa intecta*
 .
 
-**Features:**
+## Features
+
 Variable in size, sometimes 1cm long, others up to 6cm long. Very dark maroon, almost black. There are tiny prickly bumps all over its body. The feathery gills appears similar to the rest of the body. The species should have a line of pale or beige bumps along the upper body length, but few of those seen had this. The foot has small white spots on the upperside and is smooth and lighter on the underside.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

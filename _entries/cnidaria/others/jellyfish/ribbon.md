@@ -104,10 +104,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This jellyfish with long trailing ribbon-like oral arms is sometimes seen in numbers on our shores, more commonly on our Southern shores. And then they are not seen again for some time.
 
-**Features:**
+## Features
+
 Bell translucent about 8-12cm, thin long tentacles around the bell, ribbon-like oral arms 20-50cm long. The oral arms are flat and ribbon-like with ruffled edges. The animal may be all white, or have orange or pink oral arms. Sometimes the edge of the bell has large brown dots.
 
 **Status:**

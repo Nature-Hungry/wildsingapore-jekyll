@@ -44,10 +44,11 @@ links_references: |
   New Holland Publishers. 128 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This small bat with a dog-like face is among our most commonly seen bats. According to Baker, it is widespread and common even in urban areas. According to Nowak, they are found in forests and open country.
 
-**Features:**
+## Features
+
 ****
 Forearm length about 6.5cm. It has white wing bones and white ear edges. A small bat with a long muzzle without an elaborate 'nose leaf'. Instead, it has prominent tubular nostrils. Together with large eyes, it has a dog-like face. It is sometimes called the Lesser Dog-faced fruit bat and Lesser Short-nosed fruit bat. Generally brown, the male has a reddish collar while the female has a yellowish collar.
 

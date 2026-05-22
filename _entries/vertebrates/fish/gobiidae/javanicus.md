@@ -67,10 +67,11 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This little snub-nosed goby is commonly seen in our mangroves. Elsewhere, adults are found in the sea, estuaries and rivers.
 
-**Features:**
+## Features
+
 To 6cm, those seen about 3-4cm long. A rather elongated fish with a bulbous snout overhanging its upper lip. The overall body colour is greyish or greenish, somewhat tranparent and densely mottled in dark brown. There is a black bar under first dorsal fin. The first dorsal fin has a black blotch on rear portion, second dorsal fin and tail fin spotted. There are two black spots at tail fin base.
 
 **What does it eat?**

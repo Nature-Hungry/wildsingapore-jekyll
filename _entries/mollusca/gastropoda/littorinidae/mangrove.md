@@ -87,10 +87,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This periwinkle is commonly seen on the trunk, branches and leaves of mangroves and coastal plants. Usually seen alone.
 ****
-**Features:**
+## Features
+
 2-3cm. Grouped here are all periwinkle shaped snails found on mangroves.
 Shell thin, various shapes from conical with a sharp spire to squat with flatter spire
 .

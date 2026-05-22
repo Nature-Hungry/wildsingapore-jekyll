@@ -152,7 +152,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Some of these flatfishes really do look like the sole of a shoe! Others have pretty patterns. They are often seen on our Northern shores, sometimes also on our Southern shores. Usually in sandy areas near seagrass meadows.
 **What are soles?**
 Soles are
@@ -160,7 +160,8 @@ Soles are
 that belong to the Family Soleidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441)
 : the family has 22 genera and 89 species. They are found mainly from Europe to Australia and Japan. The Latin 'solea' means 'sandal'.
-**Features:**
+## Features
+
 10-30cm. Eyes small and on the right side. The head is small. In some species, the tail fin separate from the dorsal and anal fins. In others, such as
 [Commerson's sole](commersoniana.md)
 (

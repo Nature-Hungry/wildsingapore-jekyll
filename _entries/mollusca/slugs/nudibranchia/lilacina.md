@@ -140,12 +140,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large nudibranch is well camouflaged and thus often overlooked. Even when discovered, it's quite boring so most people don't get excited about it. On coral rubble and encrusted rocks and under stones. Commonly seen on our Northern shores. It appears to be seasonally common. It was previously known as
 *Discodoris lilacina*
 .
 
-**Features:**
+## Features
+
 8-10cm long. Broad, somewhat stiff body that looks like coral rubble. Body pattern camouflages it well against sand and rubble, usually grey or brown, sometimes pinkish. Faint dark ovals about 3-4 in three rows along the body surface. The pale underside has dark blotches and spots. Large rhinophores and frilly gills.
 
 There are several similar looking nudibranchs. One of them is

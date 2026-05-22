@@ -92,10 +92,11 @@ links_references: |
   . Singapore Biodiversity Records 2014: 299-300.
 ---
 
-**Where seen?**
+## Where seen?
 These fish and shrimp partnership is seen on some of our shores. Their co-operation is so good that both animals usually quickly disappear into their shared burrow at the slightest sign of danger. Be patient and still, and soon, they will emerge once again.
 
-**Features:**
+## Features
+
 The shrimp goby lives in the same burrow with a
 [snapping shrimp](../../../crustacea/othercrust/shrimp/alpheidae.md)
 . With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!

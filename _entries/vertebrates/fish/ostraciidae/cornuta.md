@@ -122,10 +122,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This strange four-pronged boxy fish is sometimes seen on some of our shores, among seagrasses. Elsewhere, it is found in shallow muddy, sandy sheltered areas, in harbours and estuaries, in weedy areas near rocks and reefs. Juveniles are said to form small groups on shallow mudflats, near river mouths and in brackish water. While adults are solitary and shy.
 
-**Features:**
+## Features
+
 To 40-50cm, the ones seen was about 10-15cm long. Body cubical boxy, which is enclosed in a protective hard shell (carapace) made up of bony plates with gaps for the various tiny fins, the tail and the mouth. The cowfish got its name for the pair of projecting 'horns' above its eyes. There is a second pair of horns sticking out of the bottom, back end of the fish. The tail fin is very long, sometimes almost as long as the body. Colours green, olive to yellowish, with dark blotches and tiny blue spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

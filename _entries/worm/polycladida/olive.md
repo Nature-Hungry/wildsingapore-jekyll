@@ -114,10 +114,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Many of this large greenish brown flatworm are sometimes seen at night, on coral rubble, among seaweeds and seagrasses, on some of our shores. The flatworm is named in honour of the Lizard Island Research Station in Australia.
 
-**Features:**
+## Features
+
 8-10cm. Usually with deep ruffles. Body mottled brown or olive with white dots forming irregular bars perpendicular to the body edge. Margin comprises fine white outer edge with fine black inner edge. Underside is uniformly pale with the same margins as the upper side. It has a pair of pseudotentacles that are pointed, ear-like made up of simple folded edges of the body, with white tips. It can swim by undulating its body edges.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

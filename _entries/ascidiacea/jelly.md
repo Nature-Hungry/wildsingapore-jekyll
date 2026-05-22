@@ -87,10 +87,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These translucent jelly-like animal is sometimes seen under stones on our Northern shores .
 
-**Features:**
+## Features
+
 2-3cm. A smooth translucent blob stuck under a stone, usually alone. One opening is ringed with a fine circular red line and fine red bars.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

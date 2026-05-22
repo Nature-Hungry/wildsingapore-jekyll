@@ -82,12 +82,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This little cowrie is sometimes seen on our Southern shores among coral rubble near living reefs. It was previously known as
 *Cypraea quadrimaculata*
 .
 
-**Features:**
+## Features
+
 2-3cm.
 Shell cylindrical, generally pale blue with 4 very pale brown bands and small brown speckles all over. There are four large rather triangular brown spots on the shell, two spots at the front end of the shell and two at the back end. The underside is white, the 'teeth' are raised and not coloured. The living animal has a dark to black mantle with white or pinkish spots.
 

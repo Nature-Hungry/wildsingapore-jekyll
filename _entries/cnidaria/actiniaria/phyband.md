@@ -82,10 +82,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This frilly anemone with banded tentacles is seen on many of our Southern shores. Usually among coral rubble.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 8-12cm. Tentacles with many fine 'branches' that are bright yellow or white, forming contrasting bars across the usually darker tentacles
 .
 Generally all the tentacles are same colour usually brown or greenish. Oral disk with radiating pale lines and small dark spots.

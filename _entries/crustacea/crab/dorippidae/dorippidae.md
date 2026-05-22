@@ -124,9 +124,10 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This shy and sneaky crab is commonly seen, by the sharp-eyed observer, especially on our Northern shores. To spot one, look for odd movement in a leaf or a shell, perhaps moving too quickly or against the currents. Often in mangroves, near seagrasses but also on shores near reefs, even under jetties in calm waters.
-**Features:**
+## Features
+
 Body width to about 1.5cm. Named for its habit of carrying a leaf as a mobile hiding place, it may also "carry" a clam shell, a flat piece of wood or other bits of flotsam. Two pairs of legs are short and bent permanently over the back. These legs are tipped with hairy pads to cling onto the leaf or shell. Two other pairs of legs are longer and fringed with hairs. These fringed legs are used like paddles to swim slowly about.
 
 The body is flat and somewhat rectangular. It has rather long antennae for a crab. Pincers small and held flat against the body. Some may have one enlarged and inflated pincer, while others have pincers of similar size.

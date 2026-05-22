@@ -123,10 +123,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This intricate lace-like animals is sometimes seen in the intertidal zone on some of our shores. Small ones seen clinging to seagrasses, larger ones among coral rubble or wrapped around sea fans.
 
-**Features:**
+## Features
+
 About 10cm in diameter with arms. Each arm branched into coiling 'tendrils' that are highly flexible. These eventually form a complex basket-like tangle that is used to filter feed in the water. Each 'tendril' may be tipped with a conical structure. Mouth on the underside. Some produced a great deal of slime when handled.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

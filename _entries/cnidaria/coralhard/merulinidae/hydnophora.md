@@ -68,10 +68,11 @@ links_references: |
   T.F. H Publications. 464 pp
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals with conical bumps are sometimes seen on some of our Southern shores, usually on remote and undisturbed reefs.
 
-**Features:**
+## Features
+
 Colonies seen about 15-20cm across, sometimes 50cm in undisturbed shores. The unique feature of these corals are the small conical mounds (0.5cm or smaller), called monticules (also hydnae or hydnophores), that form where the corallite walls of adjacent polyps fuse together. Polyps have short blunt tentacles that surround the base of each monticule. The tentacles that are usually extended only at night. Colours seen include blue and brown.
 
 **Status and threats:**

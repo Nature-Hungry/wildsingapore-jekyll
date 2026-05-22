@@ -80,10 +80,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This feathery green seaweed grows on sand sometimes forming blooms that cover large areas of seagrass meadows on our Northern shores.
 
-**Features:**
+## Features
+
 A feather-like structure 2-4cm long. The mid-rib or central 'stem' of the feathery structure is flat and usually with a width wider or the same as the length of the side 'branches'. The side 'branches' are short, flat and have rounded tips. These little feathery structures emerge along the length of a 'stem' that creeps over hard surfaces or just under the sand.
 Colours generally olive green.
 

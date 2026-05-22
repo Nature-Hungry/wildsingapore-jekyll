@@ -96,10 +96,11 @@ location:
 - hnt
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These rather succulent red seaweeds are commonly seen on many of our shores. On boulders, coral rubble as well as on abandoned ropes, nets and other objects left on the shore.
 
-**Features:**
+## Features
+
 Some may form loose bunches of slender, cylindrical 'stems' about 15-20cm long. Each 'stem' has a few slender side branches that taper at the tips. Red, brownish or blackish. Sometimes green.
 
 Others form dense bunch of many slender, cylindrical 'stems' about 5-10cm long. Each 'stem' branches many times into short slender side branches with tapering tips. Black, maroon sometimes purplish.

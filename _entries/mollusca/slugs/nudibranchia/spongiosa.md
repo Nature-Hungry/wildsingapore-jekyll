@@ -125,12 +125,13 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 Resembling a large 'holey' sponge, this well camouflaged nudibranch is sometimes seen our undisturbed Northern shores among coral rubble. Appears to be seasonally common. It was formerly known as
 *Trippa spongiosa*
 .
 
-**Features:**
+## Features
+
 8-12cm long. Body heavy with a hump in the middle. It resembles coral rubble in colour and texture. Along the side of the body, a row of large 'holes' like portholes on the side of a ship. Above this, two or more rows of smaller 'holes'. The 'holes' may have fine ring of bright pink on a broader smooth blue margin. Gills large feathery, rhinophores smooth, large when fully extended. The underside of the body is dark to deep purple. When disturbed, it can drop off parts of its body. Its egg mass looks like rosette of frilly ribbon.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

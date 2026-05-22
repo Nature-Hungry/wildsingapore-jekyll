@@ -30,10 +30,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 These tiny snails are often seen in large numbers on seagrasses on our Northern shores.
 
-**Features:**
+## Features
+
 0.5cm or smaller. Shell thin, conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

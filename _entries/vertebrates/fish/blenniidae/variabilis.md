@@ -133,10 +133,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small elongated fish is sometimes encountered on our Southern shores, among seagrasses and seaweeds. Sometimes seen hiding in large snail shells, fan clam shells and litter, where it appears to be guarding eggs laid on the hard surface.
 
-**Features:**
+## Features
+
 Those seen 5-7cm long, grows up to 15cm. Body elongated flattened sideways, snout blunt squarish. Lower jaw has a pair of long curved fangs. It lacks scales. Dorsal fin continuous along the body length which it holds up rather handsomely when alarmed. Colours usually a dull olive green with pale markings, some brighter green. Underside yellow. Six large irregular dark blotches along upper side. Males are orange-brown while females are sea-green above and lighter below.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

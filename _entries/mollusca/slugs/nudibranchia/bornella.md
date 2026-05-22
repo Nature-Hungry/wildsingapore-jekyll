@@ -168,10 +168,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This small nudibranch is sometimes seen on our some of our shores, among seagrasses, seaweeds and near reefs. It is more active at night.
 
-**Features:**
+## Features
+
 1-3cm long. Body long, narrow and somewhat cylindrical, pale or white with net-like pattern of red lines. Two rows of finger-like appendages along the body, not true cerata. These appendages are usually orange tipped, and protect feathery white gills, and conical orange rhinophores. The oral tentacles near its mouth have star-like or hand-like tips. 'Stellifer' means 'star-like'. It can swim by flexing its long body from side to side.
 
 **What does it eat?**

@@ -134,14 +134,15 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tiny 'furry' nudibranch is sometimes seen among
 [Sea Lettuce](../../../plants/seaweed/chlorophyta/ulva.md)
 (
 *Ulva*
 sp.) as well as burrowing in sandy areas on our Northern shores.
 
-**Features:**
+## Features
+
 1-2cm long. Broad, soft body with many long finger-like extensions (called cerata) arranged in rows. The colour in the cerata is actually in the digestive glands. The rhinophores at the top of the head are very short compared to the long oral tentacles, the long tentacles that stick out on the sides like a moustache. The oral tentacles have a black stripe that runs across the front of the 'face' too. Young nudibranchs have longer oral tentacles relative to their body size. The foot is quite broad.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**

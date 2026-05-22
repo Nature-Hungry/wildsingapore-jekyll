@@ -97,10 +97,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These pinkish crunchy flattened pom-poms are sometimes seen growing among living corals, or on rubble near living reefs, especially on our more remote Southern reefs.
 
-**Features:**
+## Features
+
 A usually rather flattened cluster (5-8cm) of many stiff, thick, cylindrical but flattened 'stems' that are branched along one plane forming Y-shapes. The tips with tiny white squarish 'caps'. The seaweed incorporates calcium carbonate making the 'stems' hard and brittle. It tends to grow flat against a hard surface, instead of forming a spherical bushy shape that sticks out. Colours pink or lilac.
 
 **May be confused with**

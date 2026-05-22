@@ -110,10 +110,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This conch with wavy lips is sometimes seen on sandy shores and near seagrasses.
 
-**Features:**
+## Features
+
 3-5cm long. Shell thick heavy, lip slightly flared. Sometimes with a low ridge on side opposite to the flared lip. Upperside smooth with a pattern of brown bars, sometimes plain, sometimes covered with encrusting organisms. Shell opening pearly white. Body mottled. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

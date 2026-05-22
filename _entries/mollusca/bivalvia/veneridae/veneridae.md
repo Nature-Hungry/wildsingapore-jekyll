@@ -155,14 +155,15 @@ location:
 - tsm
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 Another seafood favourite, in Singapore, these clams are also called 'la-la'. Venus clams are still commonly seen on some of our shores, in sandy and rocky areas near seagrasses and coral rubble.
 
 ****
 **What are venus clams?**
 Venus clams belong to the Family Veneridae. There are more than 400 known species in this family with some of the most colourful of bivalves. Many are edible.
 
-**Features:**
+## Features
+
 3-4cm. The two-part shells are thick. Some have ridges or various patterns. They are usually buried just beneath the surface. The fine ridges on their shells to help them stay buried.
 
 **What eats them?**

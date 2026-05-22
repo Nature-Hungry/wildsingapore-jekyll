@@ -77,7 +77,7 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 These rather large flat clams are commonly seen in our mangroves, scattered like white coins among mangrove tree roots. Sometimes also seen growing in clusters on rocks or sea walls in sheltered areas near freshwater inflows (brackish water). It is also called the Saddle tree oyster.
 
 *Isognomon spathulatus*
@@ -89,7 +89,8 @@ is usually found on higher shores settling among mangrove vegetation, while
 *Isognomon ephippium*
 is usually found on lower shores and exposed on mudflats as well as estuarine sections of man-made canals.
 ****
-**Features:**
+## Features
+
 6-10cm. The two-part shell is flat, thin but strong, and usually semi-circular, with a flat base where the hinge is.
 Usually white or greyish. It sticks to tree roots with byssus threads, thus giving the common name of tree oyster. Often found in clusters.
 

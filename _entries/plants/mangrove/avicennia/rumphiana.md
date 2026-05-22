@@ -73,7 +73,7 @@ links_references: |
   Cambridge University Press. USA. 419 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pencil roots and velvety furry spoon-shaped leaves is sometimes seen in our mangroves, but is not as commonly encountered as
 *[Avicennia alba](alba.md)*
 . It is found mainly in sandy or firm silt substrate of the mid to high water mark. It is considered among the largest of
@@ -82,7 +82,8 @@ species and it endemic to Southeast Asia. It can be common to very common where 
 *Avicennia lantana*
 .
 
-**Features:**
+## Features
+
 Tree up to 30m tall and 3m girth, but usually much smaller. Bark dark grey and smooth. Pencil-like pneumatophores, often with buttress roots.
 
 Leaves often spoon-shaped, but not always (8-10cm long). Green above, below olive or brownish with a velvety or furry texture. Young leaves in a pair are velvety - like rabbit ears.

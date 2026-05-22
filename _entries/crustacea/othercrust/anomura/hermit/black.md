@@ -57,10 +57,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This pretty hermit crab that is mostly black all over is sometimes seen on rocky or rubbly areas near reefs.
 
-**Features:**
+## Features
+
 Body about 1-1.5cm long, plain dark blue. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Pincers sparsely hairy, black with tiny white dots and orange joints. Walking legs sparsely hairy, black with tiny white dots, orange joints and blue-white tips. Eye black with tiny white dots, narrow white ring under the eye where it joins the stalk. Eyestalks striped brown and blue. Short antennae bright blue with orange feathery tip. Long antennae bright red.
 
 More on how to tell apart

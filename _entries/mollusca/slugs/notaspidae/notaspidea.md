@@ -35,7 +35,7 @@ galleries:
       caption: "Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on facebook ."
 ---
 
-**Where seen?**
+## Where seen?
 Some species are sometimes seen on some of our shores.
 
 **What are sidegill slugs?**
@@ -47,7 +47,8 @@ like other snails. Sidegill slugs belong to Order Notaspidae are NOT
 [nudibranchs](../../nudibranchia.md)
 , which belong to a different Order Nudibranchia.
 
-**Features:**
+## Features
+
 These slugs have a large plume-like gill between the mantle and the foot, usually on the right side of the body. They have a pair of tentacles (called rhinophores) made up of rolled up skin, and a plough-shaped structure (called the oral veil) in front of the head. Some sidegill slugs have an internal shell, others an external shell while one family does not have a shell at all. Many secrete sulphuric acid to deter predators. Most are found in shallow waters.
 **What do they eat?**
 These slugs are carnivorous and have strong jaws with a broad radula. Most feed on

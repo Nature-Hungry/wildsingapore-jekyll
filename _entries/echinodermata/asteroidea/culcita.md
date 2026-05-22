@@ -242,10 +242,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This almost globular sea star is sometimes seen on the larger reefs on our Southern shores. Usually among live hard corals. Out of water, it may 'deflate' and appear more star-shaped. It is more often encountered by divers in deeper waters, but are sometimes also found on reef flats. Usually seen alone or widely spaced apart. According to Gosliner, this is considered the most widespread and common species of cushion star.
 
-**Features:**
+## Features
+
 Diameter with arms 12-20cm. Arms very short, body almost globular. According to Lane, the thick calcified body walls and rounded shape makes it more difficult for fish and other predators to bite it. The upperside has a texture of circular shapes and little bumps. When submerged tiny transparent finger-like structures (papulae) might be seen on the upperside. The underside is flat with five grooves and short tube feet with sucker-shaped tips. They come in a wide range of colours and patterns. Juveniles are flatter, more star-shaped with short arms edged with large marginal plates
 . These are usually well hidden among and under rocks and stones and often overlooked.
 

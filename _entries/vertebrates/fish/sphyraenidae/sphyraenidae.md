@@ -113,7 +113,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Very young ones are stick-like and sometimes in seagrass meadows near reefs. Elsewhere, juvenile barracudas are found in mangroves or river estuaries.
 
 **What are barracudas?**
@@ -121,7 +121,8 @@ Barracudas belong to the Family Sphyraenidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)
 : the family has 1 genera and 18 species. They are found in the Atlantic, Indian and Pacific Oceans. Tropical and subtropical. Distribution: Atlantic, Indian, and Pacific Oceans.
 
-**Features:**
+## Features
+
 Enormous adults are found in deeper water. Those seen on the intertidal are juveniles usually 5-8cm long. Body short and cylindrical with regular pale bars on a greenish or olive background. Large eyes. Both jaws seem to be about the same length, the upper jaw only a little shorter than the lower jaw. It has a forked tail and the dorsal fins are far apart and well separated.
 
 **Sometimes mistaken for**

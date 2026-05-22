@@ -72,7 +72,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Keelworm tubes are common under stones and on hard surfaces on probably all our shores. Keelworms also encrust ship keels (thus their common name) and in fact, any hard surface that is immersed in the sea, including shells and bodies of hard animals. For this reason, they are often considered pests.
 
 **What are keelworms?**
@@ -83,7 +83,8 @@ Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More ab
 [tubeworms in general](../tubeworm/tubeworms.md)
 .
 
-**Features:**
+## Features
+
 Tubes about 0.5cm in diameter and 5-8cm long, usually under stones. The keelworm secretes a hard tube out of calcium carbonate to protect their soft bodies. These hard tubes allow them to settle in tough places such as the underside of a stone. A little knob on a stalk, called the operculum, seals the opening from predators and reduces water loss at low tide. The operculum is actually a modified tentacle. The worm's head is topped by a fan of feathery tentacles (called a radiole) that is extended at high tide. They also breathe through these feathery tentacles.
 
 **Sometimes confused with**

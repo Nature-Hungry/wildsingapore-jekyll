@@ -126,14 +126,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Like a cross between a crocodile and a fish, flatheads are often encountered on our shores. In coral rubble areas as well as sandy areas and seagrass meadows. Although large, flatheads are usually overlooked as they blend in with their surroundings and are sometimes half buried in the sand.
 **What are flatheads?**
 Flatheads belong to the Family Platychephalidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=273)
 : the family has 18 genera and 60 species. They are found in the Indo-Pacific oceans.
 
-**Features:**
+## Features
+
 6-25cm long. Some species can grow up to 1m long! The broad, flattened head gives rise to the family's scientific name: 'Platys' means flat and 'kephale' means head in Greek. The snout is long and mouth huge; with the lower jaw slightly longer than the upper jaw. The head has bony ridges and some species have spines. Some species have elaborate tentacles over the eyes. The long body is cylindrical and tapers towards the tail. Spending most of the time on the sea bottom, most species lack swim bladders.
 
 **Sometimes mistaken**

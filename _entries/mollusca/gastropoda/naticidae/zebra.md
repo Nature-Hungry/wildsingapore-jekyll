@@ -72,13 +72,14 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen on our Southern shores, this fast moving moon snail is seen near coral rubble and living reefs.
 It was previously known as
 *Natica areolata*
 .
 
-**Features:**
+## Features
+
 2-3cm. Shell smooth thick spherical (not flat) with the spiral tip sticking out a little. Shell pattern brown with spirals of white zig-zag lines. On the underside, a small circular depression. Operculum plain pearly white with a yellow smudge where the whorl starts, a pair of spiralling grooves on the outer margin. Foot plain white with a dark bar on the back portion, the front portion beige with three white bars. Tentacles short, white with dark tips.
 
 **Snail takeaway?**

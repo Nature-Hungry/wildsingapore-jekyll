@@ -111,10 +111,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This crab with a flat, squarish body and flat pointed legs is commonly seen in our mangroves. Our mangrove trees are often full of crabs!
 
-**Features:**
+## Features
+
 Body width 4-5cm. Body flat and squarish, legs flat with pointed tips. Pincers may be colourful. The sides of the body have a structure with a net-like pattern that help recirculate and oxygenate water in the gill chambers. In this way, these crabs can breathe air and stay out of the water for some time.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Many are burrowers, digging holes at the base of mangrove trees and in mud lobster mounds. At high tide during the day, tree-climbing varieties are often seen clinging to tree trunks just above the water line. Here they remain motionless. They probably do this to avoid both aquatic predators in the water, as well as airborne predators such as birds.

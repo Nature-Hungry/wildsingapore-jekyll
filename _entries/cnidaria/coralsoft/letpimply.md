@@ -113,10 +113,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large leathery soft coral often resembles a pile of pimply rubber gloves at low tide. It is seen on our Southern shores, on coral rubble.
 
-**Features:**
+## Features
+
 Colony 20-40cm or larger. The colony usually looks like a mushroom; with a flat, broad disk attached to a hard surface by a very short, very broad central base. The edge of the disk usually is fringed with long cylindrical finger-like protrusions. When out of water, the colony flops over and may look like a pile of discarded rubber gloves! There are usually no radiating ridges on the disk. The leathery common tissue in pastel shades of beige, yellow, pink, green, lilac.
 
 The colony has both feeding polyps (autozooids) and water pumping polyps (siphonozooids). Autozooid polyps have short fat body columns (about 1cm) with 8 branched tentacles that are usually white. The siphonozooids do not emerge from the body membrane, but form low 'pimples' on the surface. Siphonozooids function to pump water through the colony. The autozooids can retract completely into the common tissue. Out of water, the surface of the common tissue has two different kinds of holes; bigger ones where the retracted autozooids are, and smaller holes or bumps where the siphonozooids are.

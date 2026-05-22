@@ -80,10 +80,11 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This bright pink sand dollar is sometimes seen on our Northern shores on sandy patches among seagrasses, sometimes seen just beneath the sand. Several individuals (2-8) are often seen during the same trip. According to Lane, this is an uncommon species that was only found south of the mainland. But we have yet to find this on the intertidal in the South.
 
-**Features:**
+## Features
+
 Body diameter 6-8cm. Circular to oval, bright pink, the petalloid is obvious even in living specimens. The centre of upperside is slightly raised.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

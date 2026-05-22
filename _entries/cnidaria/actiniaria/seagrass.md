@@ -61,10 +61,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny anemone is sometimes seen in seagrass meadows, stuck onto seagrass blades and seaweeds. Usually seen singly, sometimes, many are seen clustered together.
 
-**Features:**
+## Features
+
 Diameter 1cm with tentacles expanded. Many tentacles, tapering translucent with tiny bumpy spots, with slightly more opaque white tips. Body column short densely covered with tiny bumps. Broad foot which it uses to cling onto seagrass blades. It can 'swim' by undulating its tentacles in synchrony, but is not a vigorous swimmer. It can also move from one spot to another somewhat like an inchworm does: by sticking to a spot further away with its tentacles, unclamping its pedal disk, then relocating its pedal disk to a spot closer to its tentacles.
 
 **Sometimes confused with**

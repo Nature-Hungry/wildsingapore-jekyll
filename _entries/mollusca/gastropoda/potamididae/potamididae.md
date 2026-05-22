@@ -117,10 +117,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Horn snails are common in our mangroves but often overlooked. Small ones creep on mangrove tree trunks and leaves, larger ones are found on mud.
 
-**Features:**
+## Features
+
 Shell long and conical. Operculum is made of a horn-like material usually with a tight spiral pattern. Some have a third eye on their mantle margin, in addition to a pair of eyes on tentacles.
 Here's more on
 [how to tell these snails apart](cfpotamids.md)

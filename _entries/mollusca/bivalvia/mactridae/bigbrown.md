@@ -103,12 +103,13 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This large brown clam is often seen on our Northern shores in silty and sandy areas near seagrass. Usually alone, sometimes half buried in the ground. According to Wong, it is perhaps the most commonly encountered member of the Family Mactridae in Singapore. It was previously known as
 *Mactra mera*
 .
 
-**Features:**
+## Features
+
 6-7cm. The two-part shell is thick, smooth and usually unmarked, in shades of plain brown to purplish brown. It has a short siphon and usually lies buried just beneath the surface with its siphon sticking out. Sometimes, though, an unburied individual might be encountered on the shore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **The Great Escape:**

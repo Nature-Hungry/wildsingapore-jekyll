@@ -61,10 +61,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These long-stemmed flowery soft corals are commonly seen on Tuas and sometimes seen on our other shores too. On coral rubble.
 
-**Features:**
+## Features
+
 Colony bushy about 6-12cm long. Colony has several long fat cylindrical 'stems' with many short widely-spaced branches along the 'stem'. The 'stem' pale, with sclerites embedded in the tissues. There are clusters of polyps all along these side branches. Polyps tiny (about 0.5cm) with eight beige or brown branched tentacles. No spikes next to the polyps. The animals harbour symbiotic algae (zooxanthellae) and thus can be found in clearer waters.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

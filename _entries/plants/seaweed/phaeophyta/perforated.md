@@ -66,10 +66,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This 'holey' brown seaweed is sometimes seen often anchored in bare sand in calm shallow areas near reefs on our Southern shores.
 
-**Features:**
+## Features
+
 Each clump about 6-10cm. The seaweed is made up of fleshy but narrow strips perforated regularly with many holes of various sizes, forming contorted mesh- or net-like clumps. When young, the seaweed is an irregular sphere. Usually a light or golden brown. '
 *Clathratus*
 ' means 'latticed'.

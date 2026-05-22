@@ -67,10 +67,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 Some large melongena snails are commonly seen on many of our shores, usually in estuaries or near mangroves.
 
-**Features:**
+## Features
+
 Shell large and thick. They have a tough operculum made of a horn-like material. They lay egg capsules in orderly rows on rocks and other hard surfaces.
 
 **What do they eat?**

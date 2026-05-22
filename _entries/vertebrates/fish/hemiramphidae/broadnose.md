@@ -94,10 +94,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small stick-like fish with a wide flattened lower jaw is commonly seen on many of our shores. Among seagrass areas, coral rubble and reefs. It is more active at night.
 
-**Features:**
+## Features
+
 About 6-8cm long. Body long, cylindrical and silvery. Sometimes with two broad pale or white patches, one near the head and another near the tail. The lower jaw is broad with a more rounded tip (not so pointy and sharp) and with a wide black or dark outer margin. Dorsal fin blackish. Tail fin is not forked.
 
 The fishes grouped here may be different species.

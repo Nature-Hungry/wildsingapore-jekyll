@@ -134,10 +134,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This green seaweed is commonly seen on many of our shores, attached to coral rubble. Sometimes in small clumps on sandy areas too. It seems to be seasonally abundant, especially on our Southern shores. At times, vast areas of the intertidal zone may be blanketed in a thick green carpet of this seaweed which disappear after a few weeks. These blooms are suspected to be related to high nutrient concentrations. It is reported that this seaweed can tolerate low salinities.
 
-**Features:**
+## Features
+
 A clump of fine filaments (6-8cm long) attached to a hard surface, such as small stones and coral rubble. In some, the filaments form long feather-like structures that taper at the tips. In others, the filaments are long, single strands with only a little bit of branching. Various shades of green, from bluish green to olive green.
 
 According to

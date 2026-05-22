@@ -101,14 +101,15 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Although quite commonly seen in our mangroves, this well camouflaged snake is shy and blends in with the mud and the leaf litter. It is more active at night and are usually stays well hidden during the day. It is mainly estuarine and not found in freshwater. According to Baker, in Singapore it is common along our coasts, in mangroves as well as seaward side of canals. It is widely distributed in the Indo-Pacific. It was previously known as
 *Cerberus rynchops*
 . Nick Baker explains the name change
 [on his factsheet about this snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.md)
 .
 
-**Features:**
+## Features
+
 ****
 To about 1m long. Body cylindrical with a 'neck' and a broad head. Grey, brown or olive, it may have dark indistinct patterns. A dark streak passes through the eye to the neck. The snake is adapted for slow-moving, shallow and murky waters. It can swim well. On soft mud, it moves quickly by side-winding. Although it very much at home in the water, it still needs to breathe air. Its eyes and nostrils are at the top of the head so it can peep out of the water and breathe while most of its body remains hidden in the murky water. The snake is mildly venomous but is usually docile.
 

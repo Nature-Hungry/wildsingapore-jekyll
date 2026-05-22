@@ -76,10 +76,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 These beautiful snails are rarely seen on our shores. They are found in tropical to warm-temperate regions near their prey.
 
-**Features:**
+## Features
+
 An unmistakable snail, the shell coils usually forming a flat disc-shaped with a flat base. This shape allows the snails to burrow through sand. The operculum is made of a horn-like material. Head with a short snout and a pair of long, tapering and very slender tentacles bearing eyes at their outer bases.The end of the the foot has two pointed lobes. The body is striped to match the shell.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

@@ -142,7 +142,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These little silvery fishes with dark diagonal bars is often seen at low tide on many of our shores, in sandy areas near seagrasses, reefs and rubble. Sometimes in groups of many small individuals with small fishes of other species. This fish has a widespread distribution in the Indo-Pacific.
 ****
 **What are Mojarras?**
@@ -150,7 +150,8 @@ Also called Silver-biddies or Silver bellies, they belong to Family Gerridae (so
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=326)
 : The family Gerreidae has 8 genera and 40 species. They are found in most tropical seas.
 The Common mojarra is the most commonly seen of the family on the intertidal.
-**Features:**
+## Features
+
 Those seen about 5-10cm, can grow to 25cm. Body slender, long and silvery. Head with scales but with a smooth upper surface. The tail fin is deeply forked. Dorsal fin single with long and blackish tip and not deeply notched. Juveniles have 7-8 dusky diagonal bars which disappear as they grow older.
 
 **Sometimes confused with**

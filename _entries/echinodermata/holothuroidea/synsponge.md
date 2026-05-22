@@ -104,10 +104,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small synaptid sea cucumber is commonly seen in groups on all kinds of sponges on many of our Northern shores.
 
-**Features:**
+## Features
+
 5-8cm long, can stretch out 15cm. Body cylindrical, thin skinned. Some are smooth, others with bumps in four rows along the body. Colours uniformly white, pink, purple (ranging from lilac to mauve and deep purple). Some with darker stripes made up of tiny dashes. Feeding tentacles short and feathery, often also with stripes.
 
 **Sometimes mistaken for**

@@ -107,12 +107,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This little hermit crab is commonly seen on many of our shores, on silty or sandy areas and among seagrasses. Sometimes in groups of many individuals, even when the tide is not very low. Many but not all of these hermit crabs may be
 *Diogenes*
 sp.
 
-**Features:**
+## Features
+
 Body about 1-2cm long. Body and limbs not very hairy. Colour grey, brown or white without obvious markings. The left pincer is usually much larger than the right.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

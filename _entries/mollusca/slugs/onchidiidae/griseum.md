@@ -56,10 +56,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This slug is sometimes seen on mangrove trees trunks and branches on some of our shores.
 
-**Features:**
+## Features
+
 4-5cm. Body long, hard with ridges along the centre and small bumps. Generally greyish or brown. The underside is mottled with a yellow or orange margin. The narrow foot is orange with horizontal ridges. Eyes on long thin stalks.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

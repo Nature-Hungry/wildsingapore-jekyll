@@ -196,7 +196,8 @@ so they can 'breathe' while underwater.
   </div>
 </div>
     
-**Features:** Like other 'normal' land plants, seagrasses have green leaves where photosynthesis takes place.
+## Features
+ Like other 'normal' land plants, seagrasses have green leaves where photosynthesis takes place.
 
 **Sometimes confused with** [green
 seaweeds](../seaweed/chlorophyta/chlorophyta). Unlike seagrasses, seaweeds lack veins, roots that absorb

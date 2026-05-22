@@ -63,12 +63,13 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This large cowrie was seen only once at Kusu Island. Elsewhere, they are found on coral reefs and rocky shores. It was previously called
 *Cypraea vitellus*
 .
 
-**Features:**
+## Features
+
 About 7cm, can grow to 10cm. Shell oval to pear-shaped, yellowish brown with two faint paler bands and scattering of white dots of various sizes. Underside white including the 'teeth'. The living animal has a yellow and black mantle.
 
 **Sometimes mistaken for**

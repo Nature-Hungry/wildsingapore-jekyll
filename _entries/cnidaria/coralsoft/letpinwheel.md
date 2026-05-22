@@ -100,10 +100,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large disc-shaped leathery coral that resembles a pinwheel is commonly seen on our Southern shores. On coral rubble.
 
-**Features:**
+## Features
+
 Colony 30-50cm or larger. The circular colony usually with a flat, broad disk attached to a hard surface by a very short, very broad central base that is usually the same diameter as the upper disk. The base is often hidden by the disk.
 
 On the upper surface, ridges radiate from the centre of the disk. The ridges may have large flaps so that the ridge looks like half of a lobed leaf. These ridges stick out of the disk and are not folds of the disk itself. When out of water, the ridges or 'leafy' parts are collapsed so that the entire colony sometimes looks like a pinwheel. The leathery common tissue may be pink, orange, greenish, maroon or brown.

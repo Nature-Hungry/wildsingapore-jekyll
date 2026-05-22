@@ -70,10 +70,11 @@ galleries:
       caption: "Links Desmodium umbellatum on Total Vascular Flora of Singapore Online: photos and fact sheet. Trees and Shrubs of the Maldives . V. Selvam. 2007. On the FAO website. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 A shrub or small tree with branches leaning out to form a low umbrella over the sandy shore, while the trunk remains at the highest water mark. It is sometimes seen on our shores. It was previously found along the coasts all around Singapore island and on Pulau Senang. In Malaya, it was commonly found along the coasts and tidal rivers on sandy, muddy and rocky ground. Elsewhere, it can forms dense stands along the coast. It also grows as an under story in low-elevation forests.
 
-**Features:**
+## Features
+
 A small tree to about 3m, "often prostrate towards the sea". The leaves are made up of three leaflets that are oval or have a blunt tip, thinly leathery and hairy beneath. According to Selvam, the middle leaflet is always larger (6-8cm long) than the side leaflets. The flowers are small (1-1.5cm) creamy white in short clusters. The brown pod is short (3-4cm) curved with 3-5 segments and 1-4 rather thick joints. The small seeds are hard and oval. According to Selvam, pods break into one seed units that are sticky and thus spread by animals and human. It is reported that seeds are also dispersed by the sea. The plant also has a pretty pattern on its bark.
 
 **Human uses:**

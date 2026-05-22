@@ -89,10 +89,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These rather large flatheads are sometimes seen on some of our shores on muddy and sandy areas near seagrass meadows. It is said that small juveniles have been found in freshwater.
 
-**Features:**
+## Features
+
 8-12cm long. It can grow to 50cm-1m long! Big head is flat and smooth, mouth is large; with the lower jaw longer than the upper jaw. Eyes large and protruding, near the top of the head. A laplet eye-lid forms a keyhole shape over the eye. It has no fringes near the eye. The long body is cylindrical and tapers towards the tail. The tail has colourful markings of 2-3 black bars on white or light blue with yellow blotch in the middle of the tail, but hard to see. Body colour matches the surroundings, with lots of little spots and 2-3 dark bars, sometimes with two pairs of white blotches across the body near the tail.
 
 **Sometimes mistaken**

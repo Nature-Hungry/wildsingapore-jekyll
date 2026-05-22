@@ -59,10 +59,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This snail is sometimes seen in our back mangroves, creeping around and on the base of mangrove trees. It breathes air (instead of through gills like most other marine snails). The shell opening resembles an ear.
 
-**Features:**
+## Features
+
 2.5-4cm. Shell thick and oval, plain black or dark brown with wide white rim around the front. Underside white around the shell opening. Species of mangrove ear snails are not easy to tell apart in the field.
 
 **Sometimes confused with**

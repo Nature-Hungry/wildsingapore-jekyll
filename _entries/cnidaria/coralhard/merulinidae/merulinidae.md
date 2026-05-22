@@ -171,7 +171,7 @@ links_references: |
 location: []
 ---
 
-**Where seen?**
+## Where seen?
 This family now contains most of the commonly encountered corals on Singapore shores. Including those that used to be in Family Faviidae. They take on a wide variety of shapes from boulder to plates, leafy to branching.
 
 ---

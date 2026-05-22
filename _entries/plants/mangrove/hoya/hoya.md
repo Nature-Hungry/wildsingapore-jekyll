@@ -58,7 +58,7 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 These climbers with tough succulent leaves and beautiful wax-like flowers are sometimes seen in our mangroves. Here, they can sometimes drape thickly. According to Hsuan Keng, they used to be common including
 *H. coronaria*
 "common near the sea" at Serangoon, Changi, Kranji, Pulau Tekong, Ulu Berih;
@@ -71,7 +71,8 @@ or
 *H. ridleyi*
 ) "often near the sea" at Changi, Chua Chu Kang, Tuas, Krani and Pulau Tekong. With the loss of our mangroves, however, these plants are now less commonly seen.
 
-**Features:**
+## Features
+
 Though not all
 *Hoyas*
 are vines, those in our mangroves are climbing twining vines that can be many metres long. Leaves (6-10cm) thick and succulent. Flowers emerge in a ball-like cluster. Each flower star-shaped with 5 waxy thick triangular petals, a smaller star-shaped structure in the centre. Fruits are long (10-15cm) bean-like which split open when ripe to release fluffy wind-dispersed seeds. A milky sap oozes out of cuts in the plant.

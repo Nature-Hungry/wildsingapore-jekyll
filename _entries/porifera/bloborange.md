@@ -90,9 +90,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This bright orange sponge is sometimes seen on coral rubble on some of our shores.
-**Features:**
+## Features
+
 8-10cm in diameter. The sponge starts inside a crevice but can eventually grow into a dome-shaped or oval shape with a smooth surface, sometimes with small holes (0.5cm). In some, the holes are occupied by
 [tiny brittle stars](../echinodermata/ophiuroidea/tinysponge.md)
 , with only their short arms sticking out. Some may also be inhabited by animals with a feathery fan, or have unidentified tiny beige bits on the outside. Colour a vivid orange-red.

@@ -152,7 +152,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Small fang-blennies are sometimes encountered on some of our Southern shores, among seagrasses. Divers probably see a greater variety of blennies.
 
 **What are blennies?**
@@ -160,7 +160,8 @@ Blennies belong to the Family Blenniidae. From
 [FishBase](http://fishbase.org/Summary/FamilySummary.cfm?ID=392)
 : the family has 53 genera and 345 species. They are found in the Indian, Atlantic and Pacific Oceans mainly in tropical and subtropical marine habitats.
 
-**Features:**
+## Features
+
 Most blennies are small, 10-15cm or smaller. They are generally elongated, lack scales and have a slimy skin. 'Blennos' means 'mucus-like' in Greek. Most have a continuous dorsal fin along the body length and are thus somewhat eel-like. Head usually blunt with short tentacles on eyes, nose opening. As a group, they come in a wide variety of shapes, colours and patterns.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

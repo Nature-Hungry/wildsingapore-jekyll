@@ -78,10 +78,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 The stripy yellow and black juveniles are sometimes seen on some of our shores. Juveniles are seen in weedy areas. Adults are seen on sandy and silty bottoms near reefs.
 
-**Features:**
+## Features
+
 Juveniles about 10cm. Slender long body yellow with black stripe through the eye across the body and the tail. And a black stripe above including the dorsal fin. Adults to 90cm, uniformly silvery grey.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Wiggly swimmer:**

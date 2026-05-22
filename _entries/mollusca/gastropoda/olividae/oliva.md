@@ -69,10 +69,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small bullet-shaped snail is actually not very commonly seen, only on a few of our shores so far. A burrowing snail, it is more often seen above the ground at night or with the incoming tide.
 
-**Features:**
+## Features
+
 3-4cm. Shell thick heavy glossy, cylindrical bullet-shaped with tall conical spire. White lip ends at less than half of the shell opening length. Shell pattern and colour varies. The shell opening pinkish. Body large beige with brownish spots all over. A long siphon sticks out of the notch in the shell. It does not have an operculum.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

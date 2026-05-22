@@ -142,14 +142,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This large animal with a thin translucent shell is still commonly encountered on our Northern shores, and some of our Southern shores. Among seagrass meadows, lying loose on the ground.
 Elsewhere, abundant in muddy habitats such as quiet lagoons, protected bays and mangrove lagoons.
 Previously grouped with the
 [Family Anomiidae](../anomiidae/anomiidae.md)
 (Jingle shell clams), the Window-pane clam is now in Family Placunidae.
 
-**Features:**
+## Features
+
 6-12cm, elsewhere to 18-20cm. The two-part shell is thin, translucent, may be circular or semi-circular with a straight base at the hinge. Colours white or beige. One valve may be smooth and flat or slightly concave and lies facing the ground. While the other valve is slightly convex and rougher and/or covered with encrusting plants and animals. Its foot is long, narrow and cylindrical.
 Unlike most bivalves, Window-pane clams often lie freely on the sand (usually on the right valve) and are not attached to the ground. However, they cannot swim about. Sometimes they are seen partially buried.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

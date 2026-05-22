@@ -76,12 +76,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This whelk with a white body speckled black is sometimes seen on our Southern shores. It is also known as
 *Nassarius limnaeformis*
 .
 
-**Features:**
+## Features
+
 About 2.5cm. Shell thick conical smooth. Shell pattern varies from plain brown to spiralling chevron band and/or fine red lines. Body white with black speckles, very long siphon and short tentacles. Operculum orange.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

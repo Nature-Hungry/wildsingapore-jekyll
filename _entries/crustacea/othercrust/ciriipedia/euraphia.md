@@ -70,7 +70,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This little starry barnacle is sometimes seen on some of our shores. Usually found in small groups, in higher areas where it is too dry for
 [acorn barnacles](balanus.md)
 (
@@ -79,7 +79,8 @@ sp.). They were formerly known as
 *Chthamalus*
 .
 
-**Features:**
+## Features
+
 0.5-1cm across. The outer shell is rather flat, made up of several wall plates that form star-like rays where attached to the rock. The operculum is beak-like and protrudes from the shell opening. They are often found close to one another, so much so that the 'shells' of individual animals seem to merge together.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

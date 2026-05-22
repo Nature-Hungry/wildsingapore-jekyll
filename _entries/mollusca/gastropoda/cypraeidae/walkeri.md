@@ -67,14 +67,15 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small cowrie has so far only been seen at Cyrene Reef. It is globally considered uncommon. It was previously known as
 *Cypraea walkeri*
 or
 *Erronea walkeri walkeri*
 .
 
-**Features:**
+## Features
+
 2-2.5cm. Shell somewhat pear-shaped, generally pale blue with 3 dark brown bands, centre band much broader, outer bands may be broken up into squares. Underside pale violet with brown spots and short, dark violet 'teeth'. The living animal has a red mantle
 with white branching finger-like structures (papillae) while the foot is red with some white dots or blotches.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

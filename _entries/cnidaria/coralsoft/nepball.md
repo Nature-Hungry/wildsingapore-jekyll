@@ -81,10 +81,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This spherical soft coral is seen on our Northern shores. On coral rubble.
 
-**Features:**
+## Features
+
 Out of water, the colony spherical about 6-10cm in diameter. When submerged, may appear tubular or cylindrical. The colony has a fat central 'trunk' with many short branches. Polyps only found at these branch tips forming umbrella shaped clusters, which overall forms a spherical shape. Polyps tiny (0.5cm or smaller) with eight white branched tentacle, often surrounded by clusters with tiny spikes. The common tissue white or transparent, with white sclerites (tiny bits of calcium) embedded in the tissues. May be pink or orange near the polyp clusters.
 **Flowery friends:**
 Small animals seen in this soft coral include

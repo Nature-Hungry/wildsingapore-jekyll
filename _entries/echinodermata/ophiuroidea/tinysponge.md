@@ -101,13 +101,14 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These tiny brittle stars are commonly seen in living
 [Chocolate sponges](../../porifera/suberites.md)
 on many of our shores.
 They are sometimes also seen in other kinds of sponges.
 
-**Features:**
+## Features
+
 Whole animal 1-2cm. 5-6 arms. Arms banded with short spines lying flat arong the arms. Central disk rarely seen outside its hiding place. Sometimes, larger brittle stars with white arms are also seen in the same sponge. A single sponge may be home to lots of brittle stars, each hole in the sponge sheltering one tiny brittle star. With their arms waving out, the brittle stars give the submerged sponge a 'furry' look.
 
 **Sometimes confused with**

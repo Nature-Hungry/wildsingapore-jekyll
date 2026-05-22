@@ -46,12 +46,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This climber with large lilac flowers and dark green leaves is sometimes seen on our wild coastal areas. According to Hsuan Keng, it was common on our sandy shores. It was previously known as
 *Canavalia turgida, C. obtusifolia*
 .
 
-**Features:**
+## Features
+
 A twinning climber. Compound leaf made up of three leaflets eye-shaped (4-9cm) thin. Flowers (2-2.5cm) rose-pink to dark purple. Several flowers on a long stalk. Fruits are oval pods (3-5cm long) with 3 keels pointed tip, flat green ripening brown with several beans, black oval and poisonous.
 ****
 

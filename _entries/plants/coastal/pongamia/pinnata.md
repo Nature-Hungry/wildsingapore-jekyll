@@ -86,10 +86,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful tree was formerly common on the coast including Changi, Siglap, Jurong and Pulau Ubin. Elsewhere, the tree is found in non-swampy beaches and occasionally on the landward side of mangroves. It is also found in sandy or rocky coasts of Malaya. It is now planted in some of our beach parks and as a roadside tree.
 
-**Features:**
+## Features
+
 The tree grows to 6-15m tall. The compound leaves appear in two rows, each heart-shaped leaflet is shiny, dark green and thinly leathery. The flowers look like those of bean plants, and are lilac, appearing in bunches on a stalk. Tiny insects seem attracted to the flowers. Fruits are flat bean-like pods that are somewhat oval with a little beak at the tip, appearing in bunches. Each pod contains one seed.
 
 **Human uses:**

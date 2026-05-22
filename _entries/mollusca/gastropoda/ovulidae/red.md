@@ -74,12 +74,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny elongated snail is often seen on
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 on our Northern shores.
 
-**Features:**
+## Features
+
 1-1.5cm. Shell thin and usually a dull orange or red and not so pointed at the ends. Foot and siphon red or black. The mantle is usually the same colour and pattern as the sea fan with tiny red or dark dots and little white or pale protrusions that mimic the polyps of the sea fan. Tentacles red or orange with white tips.
 
 Several similar looking spindle cowrie species include:

@@ -86,12 +86,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 These prickly plants with pretty flowers are often seen in thickets in the back mangroves, especially on
 [mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
 . These plants have no relation whatsoever with the Christmas holly, although they appear similar. In fact, not all the leaves of a Sea holly plant may have spiny edges. Leaves growing the deep shade can be totally spineless.
 
-**Features:**
+## Features
+
 Sprawling shrub 50-80cm forming thickets up to 2m tall. Its sprawling growth allows it to spread by vegetative growth.
 
 Leaves oval or eye-shaped (10-20cm) waxy, stiff. May be lobed and spiny or eye-shaped with a smooth edge. 'Spininess' appears to be a feature of younger leaves and may be affected by water stress, seasonality and light intensity. 'Acanthos' is Greek for 'thorny'. The plant gets rid of salt on its leaves, which can be encrusted in salt crystals in dry weather.

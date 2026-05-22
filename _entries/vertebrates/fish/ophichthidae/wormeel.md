@@ -161,10 +161,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This small worm-like fish is often seen near coral rubble where there are lots of hiding places, especially on our Southern shores. A secretive fish, it is usually active only at night. Sightings are usually brief as it wriggles rapidly past and disappears into some crevice or hole.
 
-**Features:**
+## Features
+
 To about 20cm long, those seen were about 10-12cm. Body long narrow tubular. It is superbly adapted for burrowing in sand and hunting in small holes and crevices. It has no scales, no pectoral fins. Eyes and mouth are small, the snout is pointed and nostrils downward pointing. The tail tip is bony and sharp so it can burrow quickly, both forwards and backwards! It swims by moving the body in S-shapes, rather like a sea snake.
 
 **Sometimes mistaken for**

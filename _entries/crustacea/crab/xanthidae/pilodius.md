@@ -59,10 +59,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 These tiny crabs are often seen under stones on rocky shores near reefs. Instead of rushing away, these crabs usually remain immobile when disturbed.
 
-**Features:**
+## Features
+
 Body width about 1cm. The pincers with spoon-shaped tips. Legs with pointed tips.
 
 **Sometimes confused with**

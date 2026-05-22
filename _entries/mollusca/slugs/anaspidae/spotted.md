@@ -145,10 +145,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large spotted sea hare is sometimes seen on many of our shores, on sandy sheltered areas among or near seagrasses. Sometimes, half buried in soft sediments.
 
-**Features:**
+## Features
+
 8-10cm. Large, long, fleshy body smooth, brownish sometimes with a greenish or bluish, with a mottled pattern made up of tiny white spots clustered into small irregular patches. The inner surface of the 'wings' (called parapodia) has white spots which form short thin white bars along the edges. Large flappy oral tentacles, smaller rhinophores. Sometimes with a narrow white stripe along the edges of the oral tentacles, with a white stripe in the middle. It releases a purple dye when distressed.
 
 **Sometimes confused with**

@@ -93,10 +93,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This crumpled-looking coral is rarely seen, usually on our undisturbed Southern shores among living corals. 'Pachys' means 'thick' while 'seris' means 'lettuce-like'. 'Rugosa' means 'wrinkled'.
 
-**Features:**
+## Features
+
 ****
 Colony (10-30cm across) forming plates that may be encrusting or upright shapes, often irregular and contorted. The surface has short ridges that form maze-like patterns, perpendicular to the edge of the colony. There is a texture of fine lines perpendicular to these ridges. Colours seen include brown, green and blue.
 

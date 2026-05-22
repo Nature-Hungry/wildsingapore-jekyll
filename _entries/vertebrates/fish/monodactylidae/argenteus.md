@@ -80,14 +80,15 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 Seldom seen on the intertidal, but this elegant fish was showcased at the Sungei Buloh Wetlands Reserve visitor centre's aquarium. Groups of them are sometimes seen by divers at Pulau Hantu. Fishermen are also sometimes seen catching them on our shores. In the wild, they may school in large numbers in open waters, under jetties and in bays. It is also known as Diamond fish and Silver batfish.
 
 **What are moonies?**
 Silver moonies belong to Family Monodactylidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=333)
 : the family has 2 genera and 5 species. Found in schools in estuaries and near freshwater streams, in harbours and near jetties. Some species are inhabit brackish waters and may even swim far up into freshwater systems.
-**Features:**
+## Features
+
 4-25cm. Body flattened sideways into a rhomboid shape. Adults silvery with a yellow and dusky dorsal fin and lack pelvic fins. Juveniles have pelvic fins, are more colourful with almost all yellow dorsal fin and a narrow black bar on the head through the eye and another bar over the gill cover. Some describe the juveniles as sometimes being dark, almost black, with a red tip on the dorsal fin. Being really flat, from the front, the fish looks like a stick! 'Mono' means 'one' and 'daktylos' means 'finger'.
 
 **Sometimes confused with**

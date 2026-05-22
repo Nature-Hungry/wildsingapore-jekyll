@@ -168,7 +168,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This odd long-nosed fish with wings is sometimes seen on some of our shores. At some times of the year, several may be seen on a single trip and then not to be seen again for some time. An active little fish, it is sometimes seen swimming about among seagrasses especially at night. Seamoths probably got their name for their long, stiff snouts and the pair of broad, fan-like pectoral fins. They are also called Sea robins.
 
 **What are seamoths?**
@@ -180,7 +180,8 @@ Seamoths belong to Family Pegasiidae. According to
 ****
 Pegasus is the winged horse of Greek mythology. In one version of the myth, Pegasus was the son of Poseidon, God of the Sea and Medusa.
 
-**Features:**
+## Features
+
 4-6cm. Body hard, enclosed by a bony skeleton of rigid plates. The tail is enclosed in bony rings. It has a long stiff pointed snout that is made up of modified nose bones. The small mouth is found under the snout. The mouth is protrusible, i.e., it can stick out of the body. The snout usually has a white or pale tip. It has large pectoral fins that are held out horizontally and often spread out like wings. The gill openings are small. Adult slender seamoths come in various colours and patterns, usually camouflaging. Young slender seamoths are sometimes all black.
 
 Seamoths are adapted for bottom-dwelling and lack swim-bladders. The Slender seamoth (

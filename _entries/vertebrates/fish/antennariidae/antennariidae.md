@@ -125,14 +125,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These rotund fishes are sometimes seen on some of our shores. They are probably quite common and often simply overlooked as they are extremely well camouflaged.
 
 **What are frogfishes?**
 Frogfishes belong to the Family Antennariidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192)
 , the family has 12 genera and 41 species. These fishes were previously called anglerfishes, a much more appropriate name for these ambush predators. But anglerfish is now a common name reserved for deep sea fishes that also use a lure to attract prey within their reach.
-**Features:**
+## Features
+
 Those seen about 6-10cm long, can grow to 18cm. The frogfish has a globular body that can expand greatly. A handy feature that allows the fish to swallow prey as large as itself. Not a fast swimmer, the frogfish usually lies motionless near coral rubble, blending perfectly with its surroundings. Here it waits to ambush passing prey. It doesn't have scales and instead, has a loose prickly skin. Covered with filaments and fleshy bits, it looks just like an algae-covered rock. The frogfish has tube-like gill openings under the base of its pectoral fins. This prevents exhalations from betraying its presence. It is said that the openings can also be used for jet-propelling. Its eyes are at the top of its head. Gill openings are reduced to small round holes.
 
 Frogfishes come in a wide variety of colours and patterns. Some species are brightly coloured to mimic sponges or other colourful reef creatures. According to Kuiter, the young of some species of frogfishes sometimes look like poisonous nudibranchs.

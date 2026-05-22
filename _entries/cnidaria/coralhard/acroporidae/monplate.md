@@ -94,10 +94,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Forming plates or a thin encrusting layer, this coral is often seen on some of our Southern shores. They can form delicate tiers like a wedding cake!.
 
-**Features:**
+## Features
+
 ****
 Colonies seen 15-20cm, sometimes much larger. Flat thin circular plate. Sometimes encrusting with protruding columns or knobs in the centre. The outer edge of the plate is smooth, lacking polyps, usually paler or in a different colour. With bumps between the corallites, these bumps may be smaller or much larger than the polyps. Colours usually brown, sometimes with greenish or bluish polyps. Polyps tiny (0.2cm or smaller) with short tentacles and short body column usually brown, but sometimes also greenish or bluish.
 

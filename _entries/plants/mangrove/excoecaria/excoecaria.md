@@ -71,12 +71,13 @@ links_references: |
   . The Singapore Science Centre. 160pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with small neat leaves can be spectacular when in male flower bloom, or when the leaves turn red before dropping off. They are quite commonly seen on our Northern shores. Corners recorded them as "locally common, as in Kranji Forest Reserve by the main road" where "they give a beautiful display of red and yellow autumn tints" ostensibly when the leaves fall during dry weather. According to Hsuan Keng, it was common in mangroves including Kranji, Changi and Tuas. The tree grows on both muddy and stony soil, with its roots spreading. It rarely seen on sandy shores. It requires freshwater input for a large part of the year and is commonly found on the landward margin of mangroves.
 
 The milky sap or latex that exudes from broken leaves, bark and twigs is poisonous and can blister skin, hurt eyes and may even cause temporary blindness. 'Buta' means 'blind' in Malay.
 
-**Features:**
+## Features
+
 The tree grows to 15m tall sometimes branched at the base, thus forming multiple trunks. Roots run along the ground surface and often knotted and covered with lenticels. Tomlinson notes that the tree does not have root systems obviously specialised for mangroves and that it is also found to an elevation of 400m and he says they thus cannot be regarded as an exclusively mangrove tree. Bark grey, smooth but warty, becoming fissured. Lenticels are prominent on young twigs.
 
 Leaves thick, oval and pointed (5-10cm long), arranged alternately in a spiral. Young leaves are pink, old leaves turn yellow then red before dropping off. Leaves usually drop off after dry weather.

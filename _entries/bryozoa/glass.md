@@ -33,10 +33,11 @@ galleries:
       caption: "Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol, Jan 13 Photo shared by Loh Kok Sheng on flickr ."
 ---
 
-**Where seen?**
+## Where seen?
 This pale colony of tiny animals is seasonally common on some of our Nothern shores, but often overlooked as it resembles a plant. It grows among seaweeds and seagrasses. Sometimes, seen in large tangled mats, growing from hard surfaces such as rocks and jetty pilings.
 
-**Features:**
+## Features
+
 Branching stems about 10-20cm long. The thick short 'stems' branch extensively on one plane. The entire colony is often transparent to beige. Sometimes covered with encrusting organisms. Polyps very very tiny, emerging from the branches.
 
 **Sometimes mistaken for**

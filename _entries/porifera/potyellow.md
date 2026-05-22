@@ -96,10 +96,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather large, pot-shaped sponge is commonly seen on our Southern shores, among coral rubble.
 ****
-**Features:**
+## Features
+
 About 12-15cm wide, a squat sphere with one or several shallow depressions at the top, so that the entire sponge resembles a shallow pot. The depression is smooth and often has many closely-spaced holes that resembles holes in cheese. There are bumps on the outside of the 'pot', sometimes forming ridges. Colours range from dull yellow to brownish or beige.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

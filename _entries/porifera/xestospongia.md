@@ -139,10 +139,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This maroon barrel-shaped sponge is sometimes seen on many of our shores, near and in reefs.
 ****
-**Features:**
+## Features
+
 Large ones have a deep cavity in the centre so they are generally vase- or barrel-shaped. The inside of the cavity has an uneven and rough texture. The outside may be smooth, bumpy or with regular fingers, ridges or 'wings'. Younger, smaller ones may be tall hollow tubes. Often several 'vases' of various sizes and shapes are found together emerging from what appears to be a common base. Those on the intertidal are about 10-20cm in diameter and about 10-20cm tall. But it is said that those found in deeper waters can grow to more than 1m tall. It is maroon to pinkish and the 'opening' of the
 barrel may be paler to white.
 

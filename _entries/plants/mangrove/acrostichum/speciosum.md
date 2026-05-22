@@ -60,7 +60,7 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 The more delicate and elegant of our mangrove ferns, it is often seen in back mangroves, flourishing on
 [mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
 and other higher ground, usually in the shade. Compared to
@@ -69,7 +69,8 @@ and other higher ground, usually in the shade. Compared to
 *A. aureum*
 ), it is found in areas more frequently inundated by tides.
 
-**Features:**
+## Features
+
 The leaflets are thinner and shorter (1.5-2m long) than those of
 [Piai raya](aureum.md)
 (

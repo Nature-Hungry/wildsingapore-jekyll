@@ -84,10 +84,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with an obvious ridged texture is sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 15-20cm, sometimes much larger. Branches, columns or knobs arising from the centre of an encrusting base. Branches angular, flattened and irregular. The tips of the branches may be squarish and flattened, forming fan-shaped or knobbly tips, white and smooth, lacking polyps. Large ridges and bumps between the corallites, about the same size as the polyps. Colours usually brown, pinkish, greenish with brown polyps. Polyps tiny (0.2cm or smaller) with short tentacles and short body column.
 
 **May be mistaken for**

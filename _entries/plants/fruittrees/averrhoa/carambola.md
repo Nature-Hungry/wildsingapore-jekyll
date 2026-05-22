@@ -59,10 +59,11 @@ galleries:
       caption: "Links Averrhoa carambola on Total Vascular Flora of Singapore Online: photos and fact sheet. Carambola ( Averrhoa carambola ) New Crop Resource Online Program at Purdue University. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pretty pink flowers were commonly planted by villagers and are seen in wild areas where kampungs used to be. According to Hsuan Keng, it possibly originated from South India. According to Burkill and Corners, it is native to Java and eastwards.
 
-**Features:**
+## Features
+
 A small tree (to about 10m), profusely branched. Compound leaves made up of (3-5 pairs of small (5-10cm long) leaftlets, the end leaflets rather large. Flowers small, bell-shaped, pink or red. The fruit is star-shaped in cross section, long (8-12cm), green and juicy. According to Corners, some trees bear sweet fruits, others sour ones.
 
 **Human uses:**

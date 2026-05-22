@@ -67,10 +67,11 @@ location:
 - ubn
 ---
 
-**Where seen?**
+## Where seen?
 This pretty snail is sometimes seen on our Northern shores on sandy areas near seagrasses. Often half buried in the ground, emerging as the tide starts to come in.
 
-**Features:**
+## Features
+
 4-6cm. Shell thick, conical, smooth with distinctive spiral. Shell colour and pattern variable, from plain brown to white with orange or brown spots. There is notch at the tip of the shell where the long siphon emerges. Operculum thin and flexible, made of a horn-like material. Body pale, with a long muscular foot that is dark with an orange rim, short tentacles and long siphon.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

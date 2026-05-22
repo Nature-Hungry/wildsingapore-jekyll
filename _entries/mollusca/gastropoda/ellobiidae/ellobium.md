@@ -120,12 +120,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large snail is sometimes seen in our back mangroves. Sometimes, their empty shells are washed ashore on beaches near mangroves. It breathes air (instead of through gills like most other marine snails). Elsewhere, they are also found in
 [Nipah palm](../../../plants/mangrove/nypa/nypa.md)
 groves.
 
-**Features:**
+## Features
+
 4-9cm. Shell thick and oval or elongated, plain brown. White at the shell opening. The animal is large with a fleshy pale body and short tentacles, some with pretty white patterns.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

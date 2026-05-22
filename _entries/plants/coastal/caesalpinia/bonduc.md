@@ -71,10 +71,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This rare prickly plant is only seen in Pulau Semakau, Lazarus Island and Pulau Senang. According to Hsuan Keng, it was found near the sea in bushes. According to Tomlinson, it is aldo found inland in secondary forests up to an altitude of 850m. According to Giesen, it is recorded throughout Southeast Asia but is scarce in Sumatra, Borneo and the Philippines. Elsewhere, it is also called the Grey nicker bean plant, refering to the seeds.
 
-**Features:**
+## Features
+
 A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bipinnate, i.e., resembles a feather, with 12-24 leaflets (2-4cm long) arranged on side branches on a main leaf branch. The entire compound leaf is up to 1m long. The plant is armed with hooked prickles. Flowers in a cluster (up to 50cmm long) yellow with reddish streaks. Flowers are of one sex only. The fruit pods (6-9cm long) armed with numerous rigid spines. The fruit splits open when ripe to reveal 1-2 seeds which are oval, smooth and grey.
 
 **Sometimes mistaken for**

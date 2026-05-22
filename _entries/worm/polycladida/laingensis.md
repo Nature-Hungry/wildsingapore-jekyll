@@ -128,10 +128,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This delightfully spotted flatworm is sometimes seen on our Northern shores, among coral rubble. It seems to be seasonally common, with many of worms seen on one visit, and none later on. It is more active at night. The flatworm is named after Laing Island in Papua New Guinea.
 
-**Features:**
+## Features
+
 4-6cm long. Body cream with scattered purple spots. Some have very few spots on the body, in others, there are portions with spots and portions without. On the body margin are purple spots close to one another, margin usually not very ruffled. Underside uniformly cream. It has a pair of small pseudotentacles made up of simple folded edge of the body
 .
 

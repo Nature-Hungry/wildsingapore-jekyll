@@ -77,10 +77,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This toothy green seaweed is commonly seen on some of our shores, usually in a small clump on coral rubble.
 
-**Features:**
+## Features
+
 Zipper-like structure 4-6cm long. The mid-rib or central 'stem' may be cylindrical or flat, narrow or relatively broad. The side 'branches' usually very short, flat and have pointed tips. Thus it looks somewhat like a zipper! May be long and slender, or short and very broad. The central stem may branch at the tips to form Y-shapes.
 
 These structures emerge along the length of a 'stem' that creeps over hard surfaces or just under the sand. Dark to olive green, sometimes bluish green.

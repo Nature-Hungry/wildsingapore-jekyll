@@ -64,13 +64,14 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This tiny energetic crab with long orange pincers is found in the back mangroves in very soft mud.
 Often in large
 groups near stream banks, digging out burrows to live in
 .
 
-**Features:**
+## Features
+
 Body width about 2cm. Body somewhat rectangular, eyes on short eyestalks. Pincers long large, bright orange, about equal sized. Long flattened legs with pointed tips. Males wave their distinctive long orange pincers, and 'bounce' up and down on their legs, to compete for females.
 
 **What does it eat?**

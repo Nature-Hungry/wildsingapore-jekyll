@@ -76,12 +76,13 @@ location:
 - prp
 ---
 
-**Where seen?**
+## Where seen?
 This spherical crab is seldom seen outside the
 [Mud lobster mounds](../../othercrust/lobster/thalassina.md)
 where it lives.
 
-**Features:**
+## Features
+
 Body width 3-8cm. It has a round body and flat legs with pointed tips. The pincers are stout and fat.
 
 **What does it eat?**

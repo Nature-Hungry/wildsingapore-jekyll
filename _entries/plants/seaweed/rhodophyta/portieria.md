@@ -75,10 +75,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This seaweed with fans of fine branches with curled tips is sometimes seen on our southern shores on coral rubble. Elsewhere, it is said to prefer clear water, where it is common and a conspicuous element of tropical reef flats.
 
-**Features:**
+## Features
+
 Small (about 5cm in height) made up of flat fans of fine branches that form a net-like pattern. The tips are curled. Dark red to bright red, elsewhere also said to be bright orange.
 
 According to
@@ -87,7 +88,8 @@ According to
 *Portieria*
 .
 
-**Features:**
+## Features
+
 This seaweed is much studied because it contains a substance that may supress human tumors.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg)

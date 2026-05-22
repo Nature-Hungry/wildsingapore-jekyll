@@ -112,14 +112,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This seagrass only abundant on Labrador, which has quite a large patch. On Chek Jawa, it is found in small patches. The
 [preliminary results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii.md)
 suggest it is found mainly in the centre of the seagrass lagoon there. On some of our Southern Islands, there are also scattered patches of this seagrass.
 
 Sickle seagrass is found throughout the tropical Indo-West Pacific region. A firmly-anchored seagrass, it can form large beds. It is found from shallow subtidal areas to 10m and deeper. It does not tolerate long periods of exposure and does not appear to do well in areas with freshwater runoff.
 
-**Features:**
+## Features
+
 **
 The seagrass has strap or curved, sickle-shaped leaves (0.5-1cm wide and 7-40cm long, usually less than 25cm). The tips are usually rounded and smooth. The leaves may appear speckled due to tannin cells that appear red, purple or dark brown. Those in Singapore often have cross hatching on the long veins. It has thick rhizomes (underground stems) about 2-4mm in diameter which are white or pink. The rhizomes have air channels and usually have obvious node scars that are triangular with persistent leaf sheaths. Shoots emerge from these rhizomes, each shoot with 2-6 leaves encased in sheaths about 3-8cm long.
 

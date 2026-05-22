@@ -44,10 +44,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This slender shrimp is rarely seen, sometimes in large sea anemones. It 'dances' in a waggling way: 'gelek' means dance in Malay.
 
-**Features:**
+## Features
+
 About 2cm. Body almost transparent with a brown-spotted white patch behind its head, a white patch on its 'butt', with purplish-blue tips on its tail and pincers.
 
 **Does it 'clean' fish?**

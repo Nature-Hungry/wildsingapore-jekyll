@@ -78,14 +78,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These dome-shaped hard corals do somewhat resemble fleshy brains and are often seen on many of our Southern shores.
 *Lobophyllia*
 and
 *Symphyllia*
 were previously in the Family Mussidae.
 
-**Features:**
+## Features
+
 Members of the Family Lobophylliidae develop into large colonies with heavy skeletons. The thick walls of
 *Lobophyllia*
 and

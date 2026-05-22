@@ -141,10 +141,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This pretty clam is not often seen, usually on sandy shores near reefs. Possibly they are more common but hidden beneath the sand. Elsewhere, they are shallow burrowers in sandy bottoms, often occuring in dense populations.
 
-**Features:**
+## Features
+
 4-6cm. The sturdy two-part shell is heavy, squarish with strong ribs marked with little red beads.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

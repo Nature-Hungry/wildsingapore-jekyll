@@ -141,11 +141,12 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This cowrie with a pretty beige spotted shell is commonly seen on our Northern shores, under and on rocks among sponges, sea fans. Also on sandy and silty areas among seagrass. It was previously known as
 *Cypraea miliaris*
 .
-**Features:**
+## Features
+
 2.5-4cm, up to 5cm. Shell is pear-shaped, beige to light brown with white spots all over it and a broad white margin around the base. Underside completely white (no markings) and the 'teeth' are not coloured. The living animal has a 'hairy' dark brown mottled mantle.
 
 **Sometimes mistaken for**

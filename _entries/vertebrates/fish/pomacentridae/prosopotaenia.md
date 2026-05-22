@@ -80,10 +80,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Juveniles of this fish are sometimes seen on near our reefs. Elsewhere, adults are found iin lagoons and coastal reefs, usually in silty areas, may be solitary or in groups.
 
-**Features:**
+## Features
+
 To 16cm, juveniles seen about 2cm long. Juveniles with a white body, two broad honey brown bars, one through the eyes, and another in the middle of the body, with a large gold-margined black spot on the dorsal fin. The adult looks different, honey brown with a white breast lacking dark blotches, a broad pale bar in the middle of the body, head with blue lines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

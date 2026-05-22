@@ -103,12 +103,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This flat moon snail with a U-shaped depression on the underside is often seen on Cyrene Reef on the sand bar. It has also been seen in a few of our other sandy shores. Elsewhere, it is found in clean sandy bottoms from shallow subtidal area to a depth of about 70 m. It is also known as
 *Neverita albumen*
 .
 
-**Features:**
+## Features
+
 4-6cm. Shell smooth glossy, thick heavy, semi-spherical (wider than long), very flat with an almost flat spire. Shell pattern white at the spire, uniform colour elsewhere: white, cream, pale yellow to brown and orangey brown. On the underside, a deep U-shaped depression. Operculum smooth, made of a thin horn-like material, reddish or yellowish brown. Body huge, opaque white and when expanded it does resemble the albumen of a hard boiled egg. Tentacles short, white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

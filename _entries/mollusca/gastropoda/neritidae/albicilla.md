@@ -109,10 +109,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This nerite snail with distinctive 'pimples' on the underside is often seen on many of our rocky shores and granite seawalls. It is usually found nearer the low water mark. The study by Tan & Clements (2008) found this snail on rocks, breakwaters, and seawalls in lower to middle intertidal zone. Sites included: Pulau Ubin, Changi, Tanah Merah, Marina South, Labrador, Sentosa, St. John's Island, Pulau Hantu, Pulau Salu, Raffles Lighthouse and Tuas.
 
-**Features:**
+## Features
+
 2-3cm. Shell thick heavy, a flattened oval narrower at end and wider at front, spire does not stick out at all. The flat underside is much longer that other nerites, smooth white or yellowish and pimpled with large rounded bumps. These bumps resembles the tongue of an ox (
 *Albicilla*
 means 'ox-tongue'). Small ridged 'teeth' on the straight edge at the shell opening. Larger shells with two rounded 'teeth' on both sides of the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish or yellowish sometimes with darkish portion. Body pale with fine black bands on the foot and long thin black tentacles.

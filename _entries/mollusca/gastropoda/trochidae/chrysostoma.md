@@ -51,10 +51,11 @@ location:
 - jng
 ---
 
-**Where seen?**
+## Where seen?
 This snail is sometimes seen on rocky areas near living reefs.
 
-**Features:**
+## Features
+
 2.5cm. Shell thick heavy, quite spherical with a pointed tip. Shell smooth, pattern of mottled shades of white and pastel colours with spiralling fine lines
 .
 O

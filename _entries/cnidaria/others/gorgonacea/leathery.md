@@ -190,10 +190,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This bushy colony with thick, fleshy branches is sometimes seen on reefs on our Southern shores. On the reef flats and at reef edges, usually among living corals. Usually only one colony is seen at a location.
 
-**Features:**
+## Features
+
 Colony bushy 20-30m wide, with stems that are long and not frequently branched. Each stem is cylindrical, thick (about 1cm in diameter) and fleshy with a texture that resembles
 [leathery soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae.md)
 (Family Alcyoniidae). Usually dusky pinkish beige. Each stem has a dark, stiffly flexible wire-like central support that is sometimes exposed at the tips. Fat polyps are about 1cm long with short branched tentacles. They can retract completely leaving a smooth common tissue.

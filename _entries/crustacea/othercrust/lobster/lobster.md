@@ -35,7 +35,7 @@ galleries:
       caption: Mud shrimp
 ---
 
-**Where seen?**
+## Where seen?
 Among our favourite seafood, lobsters do exist on our shores but they are usually found in deeper waters and only sometimes seen by divers. During the day, they are usually well hidden among corals. Those seen on the intertidal, were sadly trapped in drift nets. Some relatives such as mud lobsters and ghost shrimps are also common though rarely seen.
 
 **What are lobsters?**
@@ -51,7 +51,8 @@ and
 [mud shrimps](upogebiidae.md)
 .
 
-**Features:**
+## Features
+
 Like shrimps, lobsters and lobster-like crustaceans have a long body and broad tail, and long antennae. Lobsters have heavy shells, unlike the light flexible exoskeletons of shrimps. Lobsters and lobster-like crustacea have heavier legs and tend to have powerful claws. They don't have swimmeretes (pleopods) like shrimps do. But they can also rapidly move backwards by flexing the abdomen and broad tail.
 
 **Human uses:**

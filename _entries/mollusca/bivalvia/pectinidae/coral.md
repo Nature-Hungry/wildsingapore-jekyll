@@ -106,10 +106,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This little clam is often seen embedded in living hard corals on many of our Southern shores. Sometimes, one coral colony can host many of these tiny clams. It is also called the Iridescent clam, probably because of its sometimes colourful and iridescent mantle?
 
-**Features:**
+## Features
+
 Diameter 1-1.5cm. A circular two-part shell, thin. In some the shell is covered with encrusting fluff, in others, a pattern of spots may be seen. When submerged, a fringe of tiny tentacles emerge with many tiny, well developed eyes along the mantle edge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Digging into corals:**

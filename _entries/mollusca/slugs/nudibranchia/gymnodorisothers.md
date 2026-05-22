@@ -194,10 +194,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These small nudibranchs with tiny yellow spots are sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 1-2cm long. Body slender white, yellow or orange with yellow spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 There are several species of gymnodoris nudibranchs with yellow spots and they are rather difficult to tell apart in the field.

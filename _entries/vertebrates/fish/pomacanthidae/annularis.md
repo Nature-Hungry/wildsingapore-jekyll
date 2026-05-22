@@ -75,10 +75,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 One adult was seen in aquarium at a restaurant on Pulau Ubin. The restaurant owners claimed to have taken the fish from the nearby shore. Juveniles sometimes seen on some of our shores. They are commonly seen around caves, wrecks or jetties, and often in murky water.
 
-**Features:**
+## Features
+
 To about 30cm. Golden brown to orange body with diagonal blue lines on the sides and a blue ring behind the eye. The tail fin is white with bright yellow margin. Juveniles are bluish-black with a series of white and blue narrow bars on the sides. Juveniles found in shallow areas with short filamentous algae growing on rocks or dead corals. Adults often found in pairs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

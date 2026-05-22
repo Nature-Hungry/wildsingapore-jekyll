@@ -93,10 +93,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These large snails are rarely seen on our shores. These slow-moving carnivores are found half buried on large sand flats. Such areas are rare in Singapore as most shallow sandy areas have already been reclaimed.
 
-**Features:**
+## Features
+
 The shell is usually helmet-shaped with a large body whorl and tiny spire. All have a small, elongated operculum made of a horny material. In
 *Phalium*
 , it is fan-shaped.

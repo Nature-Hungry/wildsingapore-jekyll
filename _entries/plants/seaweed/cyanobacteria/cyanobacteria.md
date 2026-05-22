@@ -75,12 +75,13 @@ Cyanobacteria are microscopic organisms that live in water and can undergo photo
 
 Cyanobacteria are more abundant in the intertidal zone than in the open ocean. They are also found in soil and freshwater, and some even live inside rocks. They are also found in extreme conditions such as hot springs and snowfields.
 
-**Where seen?**
+## Where seen?
 On our shores, cyanobacteria can be seen growing on rocks as well as on sandy shores among seagrasses and seaweeds. 90 species of cyanobacteria are recorded for Singapore by Pham (link below). Some live inside other animals such as sponges like
 [*Lamellodysidea herbacea*](../../../porifera/spatula.md)
 .
 
-**Features:**
+## Features
+
 They have a bluish pigment phycocyanin that is used to capture light for photosynthesis. They also contain chlorophyll.
 **Big bacteria:**
 These microscopic organisms sometimes can aggregate to produce structures large enough for us to see and feel. These can appear as blobs on rocks, or fine hair-like filaments on rocks and among seaweeds and seagrasses, sometimes forming mats. On land, they may look like slime or scum. They are not always blue or green. Some can be black, brown or red.

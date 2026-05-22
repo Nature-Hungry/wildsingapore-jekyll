@@ -76,9 +76,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This black prickly sponge is sometimes seen on our Northern shores.
-**Features:**
+## Features
+
 A small prickly bushy shape made up of lobes with many large cavities. Texture with many prickly spikes. The skeleton is made up of a large proportion of silica to spongin and it has thick, robust bundles of spicules (hard, spiky bits). Holes scattered irregularly on the surface with a membranous lip which is more obvious when the sponge is submerged. Colour is black with a purple tinge.
 
 Another black encrusting sponge is

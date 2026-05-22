@@ -102,10 +102,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with meandering valleys and long tentacles with U-shaped tips is sometimes seen on our undisturbed Southern shores.
 
-**Features:**
+## Features
+
 The colony appears to be boulder-shaped, those seen 10-20cm or larger. But the colony is not solid (massive). Hidden under the tentacles, the large corallites are branching and form meandering valleys with separate walls (flabello-meandroid). Thus resulting in its common name. There wide, deep gaps between the corallites. The branching corallites, however, are arranged to form an overall spherical shape. But this feature is usually hidden when the polyps' long tentacles are expanded. Tentacles long (2-3cm) with U-shaped tips. Colours seen include blue, green and brown. Tips usually paler.
 
 **Sometimes confused with**

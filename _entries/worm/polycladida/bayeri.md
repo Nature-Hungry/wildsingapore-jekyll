@@ -106,10 +106,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This bold black-and-white flatworm is sometimes seen encountered on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 5-8cm long. Usually with deep ruffles. Body dark grey or brown. Distinguished by wide black margin with inner bright white margin. Along the middle of the body, one wide black stripe bordered on both sides by a continuous white edge. Underside uniformly greyish with whitish margin next to black outer margin. It has a pair of pseudotentacles at the front made up of simple folded edges of the body, with white tips.
 
 **Sometimes mistaken for**

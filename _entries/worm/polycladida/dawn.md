@@ -157,12 +157,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegant flatworm is commonly seen on coral rubble near living reefs on many of our Southern shores. Like the first light of dawn, the dark to black flatworm has orange and white edges. Previously known as
 *Pseudobiceros uniarborensis*
 .
 
-**Features:**
+## Features
+
 5-8cm long. Usually with deep ruffles. Body dark brown to black. Margin in three colours: thin white line on the outermost edge, a transparent greyish band in the middle and orange band innermost next to black body. Centre of the body is raised, with a short grey or white stripe on the head. Underside uniformly semi-translucent grey with same marginal markings as the upper side. It has a pair of pseudotentacles that are ear-like and pointed. The pseudotentacles are all black, bordered only by the opaque white rim (no orange) and has conspicuous white tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

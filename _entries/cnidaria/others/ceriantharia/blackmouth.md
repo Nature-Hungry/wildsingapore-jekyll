@@ -92,10 +92,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather large cerianthid with a dark centre and neon inner tentacles is sometimes seen on some of our shores. Among coral rubble, near seagrasses.
 
-**Features:**
+## Features
+
 12-15cm in diameter. The very long tapering outer tentacles are transparent to pale white or beige. In some, the pale outer tentacles have fine darker stripes. The 'mouth' is very dark brown to black while the short inner tentacles are usually a pale neon green. Body column black.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

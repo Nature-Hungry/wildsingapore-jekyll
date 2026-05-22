@@ -137,13 +137,14 @@ location:
 - smk
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These silvery topedo-shaped fishes are often encountered on many of our sandy shores especially near reefs.
 **What are whitings?**
 Whitings belong to the Family Sillaginidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307)
 : the family has 3 genera and 31 species, found mainly in the Indo-west Pacific.
-**Features:**
+## Features
+
 To about 30cm, those seen about 6-8cm. Long, slender silvery fishes with a torpedo-shaped body, large eyes and small mouth on a conical, sharp snout. Often without obvious markings, the various species of
 *Sillago*
 appear very similar in the field.

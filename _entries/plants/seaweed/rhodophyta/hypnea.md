@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Forming clumps of tangled, fine branches, this seaweed is sometimes seen on coral rubble on our Southern shores.
 
-**Features:**
+## Features
+
 Clumps of fleshy 'stems' finely branched in tangles. Some have short 'stems' (3-6cm) covered with lots of tiny pointed projections that give a prickly look. These may carpet small areas of coral rubble. Others have longer stems (10-15cm) and form tangled bunches. Colours range from beige, pink, reddish or brownish.
 
 Bluish ones with thicker stems that form

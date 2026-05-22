@@ -58,10 +58,11 @@ location:
 - chg
 ---
 
-**Where seen?**
+## Where seen?
 The clam or its empty shells are sometimes seen on some of our shores. The dead bivalves look like butterflies. These clams are quick shallow burrowers in sandy shores in surf. They are sometimes also called Donax clams.
 
-**Features:**
+## Features
+
 2-3cm. Donax clams have a two-part shell. The shell is rather triangular, generally smooth with very fine grooves. In dead clams, the inside is sometimes purplish.
 
 **Surfer dudes!**

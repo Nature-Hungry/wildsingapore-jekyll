@@ -100,10 +100,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather large and stumpy shrimp is sometimes seen near reefs, usually among coral and coral rubble. It is not very active and tends to be motionless and thus overlooked as it is so well camouflaged on an encrusted surface. When it realises it has been spotted, it rapidly slinks away into a hiding place. It can also suddenly leap quite a distance away if alarmed.
 
-**Features:**
+## Features
+
 4-5cm. Fat and short with a hump-back. Some have very hairy front legs. These shrimps come a swirl of various colours from brown, red, green to blue. It is also called the Marbled shrimp.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

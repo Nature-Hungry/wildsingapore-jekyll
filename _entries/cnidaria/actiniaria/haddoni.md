@@ -211,10 +211,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This enormous anemone bigger than your face is commonly seen on many of shores. In sandy areas, among seagrasses and also on coral rubble.
 
-**Features:**
+## Features
+
 Diameter 40-50cm when fully expanded, but is said to reach up to 75-80cm. The large oral disk is densely covered with short tentacles so that it resembles a short-pile carpet. Tentacles short, stubby and may have bulbous tips, sometimes resembling beads. Tentacles are sticky. The outer edge of the oral disk is fringed with tentacles that are twice as long (exocoelic tentacles), alternating with short ones (endocoelic tentacles). The long body column is usually buried and ends in a pedal disk that anchors the animal. Small bumps (verrucae) on the body column are non-adhesive, small and not visible as they are usually the same colour as the body colum.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Colourful Carpets:**

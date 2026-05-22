@@ -57,12 +57,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree is not common in Singapore. Initially considered extinct in Singapore, it was rediscovered in 2005. There are two on Pulau Tekong, and two at Sungei Buloh and it is being replanted at Chek Jawa, Pulau Ubin and at Pasir Ris Park. According to Hsuan Keng, it was previously found in Kranji, Jurong and Tanjong Pasir Laba. Elsewhere, it is also considered widespread and uncommon throughout its range. It is found along tidal waterways, coastal fish ponds that are infrequently inundated. It was formerly called
 *B. eriopetala.*
 According to Burkill, 'Berau' in Malay suggests yellowness.
 
-**Features:**
+## Features
+
 Tree up to 12m, sometimes 30m tall. Bark light brown-grey, smooth with a few large corky bumps (lenticels). The base of the trunk may be flanged and may have well developed aerial roots, sometimes forming stilt roots and knee roots.
 
 Leaves eye-shaped (8-16cm) stiff leathery glossy, arranged opposite one another. Stipules yellowish or pale.

@@ -198,10 +198,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This nudibranch with clusters of bumps is often encountered on our Southern shores, on coral rubble and reefs.
 
-**Features:**
+## Features
+
 4-5 cm long, small ones about 1cm can be quite common on some shores. Body long, hard with bumps (called tubercles) that are clustered in groups. The bumps may be pink, red, grey, green or blue. There is a coloured margin around the edge of the body. The short rhinophores are black. There is no stripe along the underside of the foot. The black background forms more of a networked pattern. In other similar looking phyllid nudibranchs, the black background forms lines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

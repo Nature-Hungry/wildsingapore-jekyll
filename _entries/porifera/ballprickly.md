@@ -73,9 +73,10 @@ location:
 ---
 
 ******
-**Where seen?**
+## Where seen?
 This small colourful furry ball-shaped sponge resembles a local fruit, the rambutan! The sponge is sometimes seen on coral rubble and rocky shores. Sometimes, a few are seen near one another.
-**Features:**
+## Features
+
 Small (2-5cm in diameter), spherical covered with short, fine filaments. The sponge may also have many raised polygonal bumps. It may be anchored to the surface with stringy tissues that look like melted cheese. Tiny blobs may appear at the tips of the filaments. These are buds that drop off to develop into new Rambutan sponges. Budding is a common reproduction method in
 *Tethya*
 species. Colours include orange, yellow, red, beige and white.

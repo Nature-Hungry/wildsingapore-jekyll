@@ -114,14 +114,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This large snail is about the size and shape of an ice-cream cone! It is commonly seen in our mangroves, on mud, sometimes in the hundreds covering a large area. It is also called
 *'Rodong'*
 or
 *'Berongan'*
 in Malay.
 
-**Features:**
+## Features
+
 8-15cm. The largest snail seen on our mudflats, the heavy conical shell is actually beautifully patterned but the markings are usually hidden by mud and other encrusting animals. The outer lip is thin and not flared. Operculum small and circular. The animal is velvety black with a highly extendible proboscis. There is a third eye on its mantle margin, in addition to a pair of eyes at the tentacles. It can stay out of water for long periods of time.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

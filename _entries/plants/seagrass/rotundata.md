@@ -82,7 +82,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 There is a small patch of this seagrass on Chek Jawa and they have also been seen on Cyrene Reef.
 
 Smooth ribbon seagrass is found throughout tropical Indo-West Pacific usually in clear water reefs, growing where it is exposed for only a short time during low spring tide. It is fast growing and believed to play a role in habitat recovery. It is not as well studied as
@@ -91,7 +91,8 @@ Smooth ribbon seagrass is found throughout tropical Indo-West Pacific usually in
 *Cymodocea serrulata*
 ).
 
-**Features:**
+## Features
+
 **
 Long ribbon-like leaves (0.5-1cm wide and 7-15cm long), with blunt, rounded tips that are smooth and not serrated. There are continuous leaf scars around the upright stem. It has thick rhizomes (underground stems). At intervals along the rhizome, a short stem emerges with 2-7 long leaves. The young leaves are fully enclosed by a leaf sheath which is sometimes dark coloured. The leaf sheaths around the leaf are not obviously flattened.
 

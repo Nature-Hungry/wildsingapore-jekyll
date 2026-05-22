@@ -88,10 +88,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Like a little petticoat, this large prettily ruffled seaweed is commonly seen our Southern shores, attached to coral rubble. Large loose sheets are often mistaken for discarded red plastic bags!
 
-**Features:**
+## Features
+
 Clumps of several sheets up to 10-20cm across, translucent flexible (not stiff) slippery and slimy. Edges smooth (not feathery) often in regular ruffles. Each clump can be quite large but the clumps are scattered. Surface may be plain or have large paler blotches or mottles. Colours red, maroon, brownish-orange.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg)

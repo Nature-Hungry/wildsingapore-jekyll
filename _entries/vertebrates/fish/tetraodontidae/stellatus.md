@@ -58,9 +58,10 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen by divers. On the intertidal, a dead and dying one was seen at St John's Island. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs.
-**Features:**
+## Features
+
 Those seen about 30cm, may grow to about 50cm to 1.2m! It is indeed considered the giant among puffers. Body covered with fine prickles. Pale grey with dense black spots on its head and around the eyes, also on the fins. Juveniles with dark stripes on belly, becoming spots with growth; adults with or without spots on fins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

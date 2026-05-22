@@ -128,10 +128,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 The mud lobster is almost never seen out of its burrow in the mangrove mud. But the impressive mounds created by this animal are still commonly seen in the undisturbed back mangroves on our shores.
 
-**Features:**
+## Features
+
 Up to 30cm long. The mud lobster is actually not a lobster but more of a giant shrimp. It is more closely related to
 [ghost shrimps](glypturus.md)
 of the genus

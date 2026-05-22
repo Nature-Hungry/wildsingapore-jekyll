@@ -91,10 +91,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful snail is sometimes seen on Cyrene and Changi, on sandy areas.
 
-**Features:**
+## Features
+
 5-7cm long. Shell typical helmet shape with a large body whorl and tiny spire, thus resembling a bonnet. The shell has spiral ribs, 25-40 on the body whorl. Outer lip reflected, toothed on the inner edge. White, cream, pink or blue-grey. Sometimes unmarked, sometimes with 4 or 5 spiral bands of brown spots. It has a white body and the sole of the foot is dark. The operculum is fan-shaped and pale yellow.
 
 **What does it eat?**

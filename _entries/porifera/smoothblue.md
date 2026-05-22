@@ -59,10 +59,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This smooth sponge forms a layer over coral rubble and is often seen on our Southern shores. It does remind of icing on a cake!
 ****
-**Features:**
+## Features
+
 The layer encrusts coral rubble and may cover an area of 20cm wide or more. Sometimes, also encrusts living coral. Generally a smooth layer but also often with irregular knobs, folds and lobes. Tiny circular holes at the top of folds and elsewhere. Texture glossy, smooth and rubbery. Colours pale to bright blue. Sometimes green.
 
 **May be confused with**

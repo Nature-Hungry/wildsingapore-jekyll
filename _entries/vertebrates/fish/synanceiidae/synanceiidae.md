@@ -113,7 +113,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These gruesome looking fishes can sting painfully.
 **What are stonefishes?**
 Stonefishes belong to Family Synanceiidae. According to
@@ -123,7 +123,8 @@ Stonefishes belong to Family Synanceiidae. According to
 .
 ****
 
-**Features:**
+## Features
+
 Stonefishes do look like stones!
 
 The

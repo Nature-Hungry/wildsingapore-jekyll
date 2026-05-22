@@ -136,12 +136,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This superbly camouflaged slug is actually quite common on many of our shores, particularly when there is a bloom of
 [Bryopsis seaweeds](../../../plants/seaweed/chlorophyta/bryopsis.md)
 . At this time, lots of them can be seen even in a small clump of seaweed. But they are really hard to spot.
 
-**Features:**
+## Features
+
 Tiny, to about 1cm. Long, soft body with lots of finger-like projections (cerata) that are transparent. The digestive system extends into the cerata, and the green stuff is the seaweed 'juices' sucked up by the slug. Some have a white stripe along the upperside of the body. There is also a pattern of little lines on the sides of the body. Pale narrow foot. One pair of long rhinophores, no oral tentacles.
 
 The egg mass is coiled, sausage-shaped mass and very sticky.

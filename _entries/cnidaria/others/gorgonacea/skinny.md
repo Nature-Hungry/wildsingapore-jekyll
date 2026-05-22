@@ -85,10 +85,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This sea fan with long, skinny branches is sometimes seen in numbers on our Northern shores. On coral rubble, rocks, stones and artificial hard surfaces.
 
-**Features:**
+## Features
+
 10-20cm long. Generally with long branches without much side branching. In some colonies, the long branches are neatly and evenly spaced along the central stem on one plane so the whole colony looks like the veins of a leaf. But in some large colonies, the long branches are more tangled. Stems long, skinny and somewhat flattened often with a ridge 'mid-rib' along the centre of the stem. Colours seen include red, maroon, orange and yellow. The white polyps are relatively large (0.5cm) compared to the stem and emerge on opposite edges of the flattened stems.
 
 Those seen on our shores often have all kinds of small animals clinging onto to them including

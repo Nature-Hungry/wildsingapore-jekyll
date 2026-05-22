@@ -70,12 +70,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This large and beautiful tree is commonly seen, usually on the seaward side of the mangroves. It is considered the most widely distributed
 *Sonneratia*
 species. A pioneer species, it colonises newly formed sandy mud flats in sheltered estuaries and coastal areas. It is intolerant to long periods of exposure to freshwater. Another local name for it was 'Bedada'.
 
-**Features:**
+## Features
+
 Tree 3-30m tall. Bark cream to light grey, finely fissured. Thick underground cable roots spread out from the trunk. These bear sturdy conical pneumatophores (25cm to 1m tall). But the tree may lack pnematophores if it grows on a solid substrate.
 
 Leaves nearly circular or spoon-shaped (5-12.5cm) tapering at the base, thick and leathery. Young leaves are pale green with faint tinge of pink at the leaf 'tip'. The leaves are arranged opposite one another.

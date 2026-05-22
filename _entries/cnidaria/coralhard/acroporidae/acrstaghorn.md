@@ -67,10 +67,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with stout branches that resemble deer horns is sometimes seen on our undisturbed Southern shores.
 
-**Features:**
+## Features
+
 ****
 Colonies 15-20cm, usually small clumps. Rather thick stems that branch near the tips so that the colony resembles horns. The branches don't interlock. Generally, the axial corallite at the growing tip is large and cylindrical. The radial corallites are smoothly tubular in some, rounded in others, and form a rosette around the axial corallite. Colours seen include brown and maroonish.
 

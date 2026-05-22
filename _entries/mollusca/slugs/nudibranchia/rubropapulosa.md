@@ -149,10 +149,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather clownish white nudibranch with orange spots is sometimes seen on our more remote Southern shores. They appear to be seasonally common; at some times, several can be seen during a visit.
 
-**Features:**
+## Features
+
 2.5-4cm long. Body white with orange bumps. Rhinophores orange, the 'face' with orange bumps on the edge, gills edged in orange. According to Bill Rudman, compared to
 *Gymnodoris ceylonica*
 , it has much larger orange spots which are more densely arranged, the body is longer and gills relatively small. There are also major anatomical differences. It has a wide Indo-West Pacific distribution and is known from Indonesia and Singapore and recently reported from Hong Kong and Tanzania. Its comical patterns may warn other animals not to mess with it. Some Gymnodoris nudibranchs secrete nasty acids and chemicals.

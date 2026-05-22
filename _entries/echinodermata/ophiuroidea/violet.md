@@ -150,11 +150,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Although large and startlingly bright pink and violet, this brittle star is only sometimes seen. It is often well hidden under stones, among sponges, corals and other marine life on reefy areas including encrusted jetty legs on our Southern shores
 .
 
-**Features:**
+## Features
+
 Central disk about 1cm wide, thick and pentagonal. Arms about 10-15cm long, broad and flat, tapering at the tips, highly flexible. Along the sides of the arms are long cylindrical blunt transparent spines. Disk and arms bright pink with violet patterns, underside of the arms paler.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

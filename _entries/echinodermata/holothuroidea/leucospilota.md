@@ -171,10 +171,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large long black sea cucumber is commonly seen on our reefy Southern shores. The animal usually hides most of its body under large boulders or rocks, with only the front feeding end sticking out. Elsewhere, it is considered a very common species, sometimes found in high densities, in reefs, seagrass meadows, sandy and muddy bottoms with rubble or reefs, from shallow areas to 10m deep.
 
-**Features:**
+## Features
+
 About 30-40cm, it can lengthen to about 1m long. Body soft long cylindrical without an obvious under and upperside. With short soft pointed 'spines' and tube feet all over the body. Colour uniformly very dark brown or maroon to black, without any markings. Mouth facing downwards, with 20 large feeding tentacles short, same colour as the body, with bushy tips. When disturbed, it can release from its backside, thin sticky white cylindrical tubes called Cuvierian tubules. But those on our shores seldom do this.
 
 **Baby cucumbers:**

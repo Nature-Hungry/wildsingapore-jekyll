@@ -87,10 +87,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large fish is sometimes seen near reefy shores. Usually found alone in sandy areas and those with seaweeds.
 
-**Features:**
+## Features
+
 To about 90cm and can weigh 9kgs! Those seen about 20cm long. It has a black spot at the middle of the dorsal fin base. Juveniles have a large white saddle spot after the black spot. Body scales each with a blue centre forming a horizontal row of spots along the side of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

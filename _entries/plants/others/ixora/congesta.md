@@ -49,10 +49,11 @@ links_references: |
   . BP Science Centre Guidebook. 168pp.
 ---
 
-**Where seen?**
+## Where seen?
 This large shrub is seen in forests near the shores such as at Chek Jawa. They bloom seasonally, whereupon they provide a dash of bright colour to the forest gloom. Corners describes it as "the most conspicuous of our wild Ixoras". According to Hsuan Keng, they were found in forests such as at Bukit Timah and Chua Chu Kang.
 
-**Features:**
+## Features
+
 A shrub to small tree (up to 7m). Leaves large (12-30cm long), dark green. Flowers bright orange, trumpet shaped and appear in bunches 15-20cm across. The Malay name 'Jarum-jarum' means 'bunch of needles' which is what the unopened flowers look like. The plant flowers seasonally, and not all the time, like the cultivated varieties. The fruit is a thinly pulpy berry, ripening red then purple or black, with 1-2 large seeds.
 
 **Human uses:**

@@ -67,7 +67,7 @@ links_references: |
   . The Singapore Science Centre. 72pp.
 ---
 
-**Where seen?**
+## Where seen?
 These ferns are often seen in back mangroves, flourishing on
 [mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
 and other higher ground. Elsewhere, they naturally occur in tidal swamps, muddy coasts, river banks and tidal estuaries. They can be common and even dominant in the understorey of back mangroves. '
@@ -76,7 +76,8 @@ and other higher ground. Elsewhere, they naturally occur in tidal swamps, muddy 
 *'Paku Laut*
 ' which means 'Fern of the Sea'.
 
-**Features:**
+## Features
+
 Fronds green, long and narrow. Like other ferns, they do not produce flowers or fruits. Instead, they reproduce through spores. In fertile fronds, all or only the leaflet tips are brown with spores. Their roots need to be wet to grow well.
 
 **Role in the habitat:**

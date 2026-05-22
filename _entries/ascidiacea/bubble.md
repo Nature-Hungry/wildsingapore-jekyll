@@ -62,10 +62,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These clusters of translucent bubble-like animals are sometimes seen on and under rocks and stones on our shores.
 
-**Features:**
+## Features
+
 1-3cm. A smooth translucent bubble with two openings at the top, sometimes with a colourful ring around the openings. Many bubbles are found clustered together.
 
 The ones with the blue lines look like

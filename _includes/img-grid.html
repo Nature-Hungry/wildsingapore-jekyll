@@ -1,7 +1,7 @@
 
 {% assign gridStyle = "" %}
 {% if include.cols %}
-     {% assign gridStyle = gridStyle | append: "grid-template-columns:  repeat(" | append: include.cols | append: ", 1fr);" %}
+     {% assign gridStyle = gridStyle | append: "grid-template-columns:  repeat(" | append: include.cols | append: ", minmax(30px, 300px));" %}
 {% endif %}
 
 <div class="img-grid" style="{{gridStyle}}">

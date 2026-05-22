@@ -66,10 +66,11 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These transparent shrimps are often seen living on other animals such as sea anemones, sea cucumbers, and hard and soft corals. Some are also seen in small groups on the ground and among seaweeds. These shrimps are hard to spot as they are small and transparent; and usually only active at night and when their host is submerged.
 
-**Features:**
+## Features
+
 1-3cm long. These little shrimps are usually transparent. They are thus sometimes also called glass shrimps. Sometimes, all that can be seen of them are their beady little eyes! At night, the shine from their eyes make them easy to spot. Some have white markings or a fine stripe along the body.
 
 **Human uses:**

@@ -160,13 +160,14 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These pink smooth fat worms are sometimes seen on some of our shores. They are more commonly encountered in mangroves and on soft ground (silty or muddy). But also in sandy areas near seagrasses.
 
 **What are peanut worms?**
 Peanut worms are unsegmented and belong to Phylum Sipuncula. There are about 300 known species of peanut worms.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 5-10cm long. Peanut worms are burrowing worm-like creatures that are sometimes seen above the ground on all our shores. When contracted, their ridged skins looks like the texture of peanut shells. Most are only a few millimeters long. Some burrow in mud, while others hide in crevices or abandoned snail shells and even in tubeworm tubes. 'Siphunculus' means 'little tube'. What is unique to peanut worms is their introvert, a long tube on their front end.
 
 This is attached to the rest of the body, called the trunk. Like the finger of a glove, the introvert can be turned completely inside the trunk or extend out of the trunk. The mouth is at the end of the introvert, surrounded with tentacles.

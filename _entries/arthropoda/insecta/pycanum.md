@@ -47,7 +47,7 @@ location:
 - ubn
 ---
 
-**Where seen?**
+## Where seen?
 These brightly coloured bugs are sometimes seen on
 [Simpoh air](../plants/others/dillenia/suffruticosa.md)
 (
@@ -57,7 +57,8 @@ These brightly coloured bugs are sometimes seen on
 **What are shield bugs?**
 They are True Bugs that belong to Order Hemiptera. All members of the Family Tessaratomidae feed on plants, sucking the sap. Some are agricultural pests, some can produce defensive chemicals. Some also look after their eggs.
 
-**Features:**
+## Features
+
 Adult about 3cm long, green with orange-black banding on the lower body edge. Nymphs somewhat rectangular smaller, green or red.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

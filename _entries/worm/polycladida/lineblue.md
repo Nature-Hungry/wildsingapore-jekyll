@@ -223,10 +223,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small pale flatworm elegantly edged in blue with a central blue stripe is regularly encountered on many of our shores, on coral rubble near living reefs. 'Concinnus' means 'elegant' in Latin.
 
-**Features:**
+## Features
+
 2-4cm long. Body creamy-white to bluish-creamy-white. Two fine blue lines in the centre, which are usually so close to one another that they appear to be one solid blue line. In between the two fine blue lines, is the body colour. Has a pair of pseudotentacles made up of simple folded edges of the body.
 
 **Sometimes mistaken for**

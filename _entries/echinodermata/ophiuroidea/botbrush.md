@@ -77,13 +77,14 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small brittle star with bristley arms is commonly encountered on our Northern shores,
 in muddy silty areas among seagrasses and seaweeds. Also among coral rubble or on sponges. More active at night, it is
 fast moving and highly sensitive to light, scurrying swiftly into hiding.
 Sometimes, many are seen together.
 
-**Features:**
+## Features
+
 Disk diameter less than 1cm, arms about 2-5cm long. Central disk thick and distinctly petal-shaped. Along the sides of the arms are long cylindrical blunt spines that are held in such a way that the arm resembles a bottlebrush. Many long translucent pointed tube feet emerge along the arm among the spines. In some, the arms have a pattern of hexagons, in others a pair of narrow parallel lines.
 
 The brittle stars on this page are probably from different species. They are grouped together for convenience of display.

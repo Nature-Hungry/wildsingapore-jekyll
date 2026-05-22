@@ -58,10 +58,11 @@ galleries:
       caption: "Links Areca catechu on Total Vascular Flora of Singapore Online: photos and fact sheet. References Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Whitmore, T. C. 1998 (2nd edition). Palms of Malaya . . White Lotus. 136 pp."
 ---
 
-**Where seen?**
+## Where seen?
 Now no longer fashionable, this palm is sometimes seen in sites of old 'kampungs' or villages. According to Burkill 'undoubtedly Malaysian in origin, but impossible to find any restricted part of Malaysia as its home.' According to Whitmore, 'no one has ever found a wild betel palm' in Malaya. It has since been cultivated in places as far away as Africa and the Pacific islands.
 
-**Features:**
+## Features
+
 A tall elegant palm (to 10m). Leaves rather short with stiff leaflets. Tiny pale flowers appear in an inflorescence on zig-zag 'stems'. The small oval fruits are green turning orange and are miscalled 'nuts'.
 
 **Human uses:**

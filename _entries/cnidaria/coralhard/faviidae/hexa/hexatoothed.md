@@ -71,10 +71,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Hard corals with small 'toothed' hexagonal corallites are sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-15cm, generally a smooth boulder-shape. The corallites have shared walls and form irregular hexagons. The walls are thick with rather large 'teeth' compared to the corallite size. The result is a rather irregular pattern of bumpy hexagons. Colony colours seen usually pale blue, but also brown.
 
 Some species of corals recorded for Singapore that have these patterns include:

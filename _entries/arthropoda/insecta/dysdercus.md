@@ -74,7 +74,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This colourful insect is sometimes seen in numbers when the Sea hibiscus is fruiting. These colourful bugs feed on the seeds of the
 [Sea Hibiscus](../plants/coastal/hibiscus/tiliaceus.md)
 (
@@ -87,7 +87,8 @@ feeds on the
 *Thespesia populnea*
 ); it looks similar but has a black head.
 
-**Features:**
+## Features
+
 Body about 1cm long. The adult has a red or black head with distinctive yellow cross on black wing cases with red bodies and black legs. The juveniles are all red, wingless with black legs and a black head.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 The bugs tend to form groups, which help them find mates. The small, pale eggs are laid singly on the food plant or dropped on the ground near the food plant. They hatch in 5-8 days into wingless nymphs which lack the cross-markings on their backs (they do not have a larval stage). Hatchlings gather near their egg shells, then continue to feed in groups. They moult 5 times (instars) before reaching the mature stage whereupon they get their wings and characteristic cross-markings.

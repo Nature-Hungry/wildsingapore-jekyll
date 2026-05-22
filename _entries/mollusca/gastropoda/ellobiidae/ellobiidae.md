@@ -98,10 +98,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These snails with thick shells are sometimes seen on leaves and trunks of mangrove trees or on the mud in the back mangroves. They are sometimes also called Mangrove helmet shell snails. Empty shells of dead snails are sometimes also washed up on shores near mangroves.
 
-**Features:**
+## Features
+
 1-5cm. Shells thick. They breathe air (instead of through gills like most other marine snails) and all lack an operculum to seal the shell opening. Thus, the shell opening of small ones do resemble an ear.
 
 **What do they eat?**

@@ -77,10 +77,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large star-patterned limpet is commonly seen in small groups on many of our shores, usually on large boulders near the mid-water mark.
 
-**Features:**
+## Features
+
 2-3cm. Shell thick, conical with 7-8 thick raised white ribs that emerge from a raised centre and stick out at the edges forming an overall star-like shape. There is no hole at the top of the shell. Body plain white. A true limpet, it breathes through one feathery gill.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

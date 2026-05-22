@@ -58,14 +58,15 @@ galleries:
       caption: "Links Thespesia populnea on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Polunin, Ivan. 1987. Plants and Flowers of Singapore . Times Editions. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 Not as commonly seen as the
 [Sea hibiscus](../hibiscus/tiliaceus.md)
 (
 *Hibiscus tiliceaus*
 ), this similar looking plant is sometimes seen on our shores and near our mangroves. Elsewhere, it is found on beaches, sandy and rocky coasts as well as back mangroves. It has a wide distribution as the seeds can stay alive in seawater for many months.
 
-**Features:**
+## Features
+
 A shrub that can grow to a rather tall tree (2-10m tall). Conical crown when young, becoming spreading with age. Leaves more triangular than heart-shaped. The leaves are fleshy and shiny with midribs and veins yellow, and are arranged in a spiral. According to Tomlinson, some specimens of this tree also have leaf-slits on the undersides like the Sea hibiscus (
 *Hibiscus tiliceaus*
 ).

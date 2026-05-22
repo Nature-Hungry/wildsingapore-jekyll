@@ -67,12 +67,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This smooth fan-shaped seaweed in clusters is sometimes seen on some of our Northern shores, growing on and among coral rubble. Elsewhere also in sand. It was previously known as
 *Udotea javensis*
 .
 
-**Features:**
+## Features
+
 A long fan- or spatula-shaped blade (2-3cm long) that are thin and floppy without ruffled edges although the thin blades may be folded in pleats, in clusters of several blades. The blade is made up of a tangle of tiny filaments that give it a velvety texture and is slightly to moderately calcified. The stem that holds up the blade (stipe) is calcified.
 Usually bright green.
 **Sometimes confused with**

@@ -137,10 +137,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This crab with distinctive saw-like teeth on the edge of its body is sometimes seen near reefs with lots of corals.
 
-**Features:**
+## Features
+
 Body width 4-6cm. Body somewhat circular with large teeth on the edges that resembles a saw. Pincers large with short spines and black tips. Red or reddish brown, sometimes with white patterns.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

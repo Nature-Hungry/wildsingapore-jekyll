@@ -80,12 +80,13 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This crab is seldom seen, usually on the higher shore. It was previously also called
 *Ocypode cordimana*
 .
 
-**Features:**
+## Features
+
 Body width about 5cm. Body squarish box-like. Pale greyish blue without dark markings on the back of the body. Pincers long, downward pointing. It lacks ridges on the inside of the 'palm'. Legs long with pointed tips. Large eyes on very short stalks, without 'horns' on top of the eye.
 
 **May be mistaken for**

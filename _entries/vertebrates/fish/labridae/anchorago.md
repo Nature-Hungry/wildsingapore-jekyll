@@ -140,10 +140,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large fish is sometimes seen on our reefy Southern shores. Sadly, sometimes dead in abandoned fishing nets, or trapped in large fish traps ('bubu'). Elsewhere, they are usually seen in silty reefs, also in seagrass areas with sand. Small juveniles are seen in seagrass beds near mangroves and freshwater run off. Sometimes seen in groups. It is also called the Yellow-cheek tuskfish, White-belly tuskfish or Orange-dotted tuskfish.
 
-**Features:**
+## Features
+
 To 38cm, those seen 20-30cm. With variable coloration, it is identified by a pale diagonal bar at the pectoral fin, black area on the middle of the upper side and large white saddle behind the dorsal fin. It also has a white chin and belly, and the head has tiny orange spots. Like other wrasses, the fish may have different colours and patterns at night. Juveniles may be greenish when in seagrass. It has a pair of enlarged canine teeth in front of the jaws.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

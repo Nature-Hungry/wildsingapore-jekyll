@@ -92,10 +92,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This green seaweed does look like our local noodle favourite, 'bee hoon' (vermicelli)! It is seen on many of our shores, growing entangled among seagrasses or other seaweeds. It 'blooms' seasonally, sometimes drifting up on the shores in large tangled bundles. It may also form a bright green mossy carpet under mangrove trees!
 
-**Features:**
+## Features
+
 Filaments fine, long (40cm or more) and unbranched that grow entangled among other seaweeds. Each filament is made up of a single row of cylindrical cells joined together end to end. The cells are longer than they are wide: thus the filament resembles bamboo when seen under a microscope. Bright light green to dark green, sometimes olive green.
 
 According to

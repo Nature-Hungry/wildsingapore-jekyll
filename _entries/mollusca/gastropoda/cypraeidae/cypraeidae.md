@@ -152,7 +152,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Some species of cowries are still common on all our shores. Even these, however, are usually well camouflaged or well hidden under rocks, nooks and crannies or in rubble. They are usually more active at night.
 
 **Precious shell:**

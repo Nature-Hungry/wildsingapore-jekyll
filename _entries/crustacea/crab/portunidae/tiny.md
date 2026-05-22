@@ -39,14 +39,15 @@ galleries:
       caption: "Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook ."
 ---
 
-**Where seen?**
+## Where seen?
 Tiny swimming crabs are commonly seen on our Northern shores, especially in areas with seaweeds and seagrasses. They particularly active at night. They are probably juvenile
 [Flower crabs](pelagicus.md)
 (
 *Portunus pelagicus*
 ).
 
-**Features:**
+## Features
+
 Body width 2-6cm. Generally beige, brown with light spots but no striking markings or patterns. Their eyes are wide apart and they have 8-9 spines on the sides of their bodies.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

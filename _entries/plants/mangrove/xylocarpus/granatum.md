@@ -77,12 +77,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This handsome tree with cannon-ball shaped fruits is commonly seen in our mangroves. According to Ng, it is found in many of our mangroves and many trees are found at the northern coast of Pulau Tekong. According to Corners, it is common in all Malayan mangroves. According to Hsuan Keng, it was found in mangroves including Kranji, Serangoon, Pulau Seletar. It was also known as
 *Carpa obovata*
 . Other Malay names for it include 'Nireh' and 'Nyireh Udang'.
 
-**Features:**
+## Features
+
 A tree 3-8m to 20m tall. Bark smooth, reddish or orange, flaking off in patches, revealing greenish new bark so the overall appearance is blotchy and resembles the camouflaged uniforms used by soldiers. Trunk base of older trees often enlarged with well-developed buttresses forming narrow ribbon-like undulations extending away from the trunk.
 
 Compound leaf comprising 2-4 pairs of leaflets (3.5-12cm long) oval or oblong (tip rounded rather than sharp), thick and leathery. The compound leaves are arranged in a spiral and wither to an orange red.

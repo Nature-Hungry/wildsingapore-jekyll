@@ -202,10 +202,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This filefish with with a 'smiley' on the side of the body is commonly seen on many of our shores, among seagrasses and seaweeds on coral rubble.
 
-**Features:**
+## Features
+
 To 12cm, those seen about 7cm. An irregular curved yellow or white line along the front of the body from the gill opening to the middle of the upper body, that resembles a 'smile'. Body in a wide variety of colours and patterns, usually irregular blotches. Adult males have bristles near the tail fin arranged a well-defined central oblong patch. More on
 [how to tell apart filefishes](monacanthidae.md)
 .

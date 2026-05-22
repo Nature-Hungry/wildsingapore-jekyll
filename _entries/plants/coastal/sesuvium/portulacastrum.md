@@ -51,14 +51,15 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 A carpet of this succulent plant is sometimes seen on beaches and back mangroves. The tiny flowers are delicate and pink. According to Hsuan Keng, it is found on clay soil near the seashores. According to Giesen, it is found throughout Southeast Asia, but not (yet) recorded in Borneo. '
 *Gelang laut*
 ' means 'Garland of the Sea' in Malay. It is also called '
 *Sepit-sepit*
 '.
 
-**Features:**
+## Features
+
 A spreading creeper with many branches forming a carpet on the high shores of sandy beaches and in back mangroves. Stems and leaves thick and fleshy. Stems up to 1m long, smooth, sometimes bright red, and with roots at the nodes. Leaves narrow spear-like (2.5-7cm) fleshy. Flowers tiny (0.5cm) at the leaf axils, pale pink. The flowers close at night and when the sky is overcast. Flowering occurs throughout the year. The fruit is a smooth, round capsule containing tiny pea-shaped smooth black seeds. The seeds don't float.
 
 Small, pollen-collecting bees and day-flying moths pollinate the flowers.

@@ -103,10 +103,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large cockle is sometimes seen on some of our shores, usually alone on sandy areas near seagrasses, coral rubble and reefs.
 
-**Features:**
+## Features
+
 5-6cm long. The two-part shell is thick and heavy, oval to rectangular and hemispherical (not flat). There are strong ribs sometimes with beads along the ribs. When submerged, a fringe of short tentacles may emerge from the shell opening.
 
 The clams grouped here are probably from different species.

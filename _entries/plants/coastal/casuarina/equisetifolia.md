@@ -65,7 +65,7 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with delicate needle-like twigs and distinctive cones is commonly grown on our seaside parks. It is also often seen growing wild on our shores. According to Hsuan Keng, these trees were probably wild originally between Tanjung Rhu and Changi. Tanjung Rhu has since been reclaimed and the East Coast Highway now lies on the the reclaimed land. According to Giersen, it is found on sandy or rocky beaches and back mangroves. According to Burkill, the tree "demands sandy shores and is limited in a wild condition in Malaya" but planted extensively. According to Giersen, it is common on sandy coasts, low dunes and sandy mangroves. Originally from India, the Pacific Islands, northeastern Australia and throughout Southeast Asia. They have also be introduced in many other countries.
 
 According to Corners, the seeds sprout in hot, open sand above the high-water mark and the young plants grow quickly, often form a thicket that eventually forms a Casuarina forest. The plants cannot settle under shade and thus form only on sandy shores that are advancing into the sea. In a suitable spot, the tree grows rapidly. The tree is also often planted inland, not so much for its shade but more as a wind break. "While the wind may blow hats off on the shore", behind a depth of three Casuarina trees, the air is "still and heavy". This is attributed to the fine twigs that break the wind.
@@ -78,7 +78,8 @@ The most common species is
 *C. littorea*
 ) which has narrow, unbranched needle twigs, while the other species have branched or thicker twigs.
 
-**Features:**
+## Features
+
 Large tree up to 50m tall with a girth up to 3m. Bark brown, ridged and fissured, flaky in oblong pieces. The Casuarina also harbours nitrogen fixing bacteria in nodules in its roots, thus allowing it to grow in apparently infertile areas.
 
 Leaves are reduced to tiny, pointed scales arranged in whorls of 6-10 at the joints of twigs. The 'needle-twigs' are greenish and photosynthesis takes place in these twigs instead of the tiny leaves.

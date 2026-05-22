@@ -61,10 +61,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tiny green shrimp is sometimes seen on some of our shores near and on reefs, on seagrasses, coral rubble and soft corals.
 
-**Features:**
+## Features
+
 Less than 1cm long. Body thick with an obvious humped back. A broad long 'nose'. It doesn't have long pincers. Usually green.
 
 Several different species of shrimps might have this appearance.

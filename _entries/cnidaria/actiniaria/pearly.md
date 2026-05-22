@@ -102,10 +102,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large and somewhat featureless anemone is sometimes seen on our shores. In silty sand near seagrass meadows on sheltered shores, as well as sandy artificial swimming lagoons.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 5-8cm. Many long, thick tapering tentacles that are translucent, usually unpatterned and beige or pinkish. The oral disk is also usually unpatterned and sometimes slightly darker than the tentacles. Body column smooth and plain without any bumps.
 It retracts its tentacles into the body column when out of water.
 

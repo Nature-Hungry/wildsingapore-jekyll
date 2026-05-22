@@ -88,11 +88,12 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful nudibranch with this distinctive pattern is more often seen by divers. Sometimes seen on the intertidal. It was previously known as
 *Chromodoris fidelis*
 .
-**Features:**
+## Features
+
 1-2cm. Body broad usually white with typical undulating edge pattern in red. Rhinophores and gills tipped in black.
 
 **What does it eat

@@ -44,12 +44,13 @@ galleries:
       caption: "Links Sapodilla ( Manilkara zapota ) New Crop Resource Online Program at Purdue University. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 Among our favourite fruits, the Chiku tree is often planted in gardens. Those seen growing wild often mark the locations of 'kampongs' or villages that have long since been cleared. It is a native of tropical America and is believed to have been first brought by the Spaniards to the Philippines. It was previously known as
 *Achras zapota*
 .
 
-**Features:**
+## Features
+
 A small tree (to about 10m). Leaves oval with pointed tips (6-15cm long) arranged in a spiral at the branch tips. Flowers small, white with brownish or greyish woolly calyx. The fruit is oval or round (6-7cm). The sweet flesh is pinkish white to reddish brown and encloses about 10 black seeds. Bark light grey becoming shallowly fissured.
 
 The fruits are relished by bats. I've observed a steady stream of

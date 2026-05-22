@@ -64,12 +64,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This odd-shaped snail is sometimes seen in our back mangroves, on leaves and trunks of mangrove trees and mangrove plants. Sometimes seen in clusters of a few individuals.
 [Pronounced 'pith-ee-uh'](http://dictionary.reference.com/browse/pythia)
 , in Greek mythology 'Pythia' is the priestess of Apollo who delivered the oracles at Delphi.
 
-**Features:**
+## Features
+
 2-3cm. Shell smooth, shaped like a fat teardrop with a sharp tip. Shell opening small with a flared edge. It breathes air (instead of through gills like most other marine snails) and like others of the Family Ellobidae, it lacks an operculum. Body dark, paler towards the end of the foot, with short dark long tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

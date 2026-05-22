@@ -202,10 +202,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Limpets are found many of our shores. Both on and under stones, as well as on rocks and other hard surfaces. Sometimes the shell is covered with algae and mud and the limpet might look like a sea slug. Immobile at low tide, these abundant snails are often considered uninteresting and ignored by visitors. But they are actually quite amazing little creatures.
 
-**Features:**
+## Features
+
 'Limpets' are molluscs with an uncoiled, umbrella-shaped shell, often with ribs. They are
 [gastropods](../../gastropoda.md)
 , and like the snails more familiar to us, also have a broad foot upon which they creep about. Unlike snails, however, limpets don't have an operculum to seal the opening in their shell. Instead, they clamp down tightly against the rock, forming a seal between the shell edge and the rock. Their grip is so strong that if you try to pry them off, you will hurt them. So please don't do this. If you want to see what the limpet looks like under its shell, have a look at the factsheets instead.

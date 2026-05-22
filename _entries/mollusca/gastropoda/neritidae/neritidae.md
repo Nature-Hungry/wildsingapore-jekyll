@@ -181,10 +181,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These snails with thick, rounded shells are common in our mangroves and rocky shores. Some colourful nerites are hard to spot as they blend well with the equally colourful rocks they are found on. They are usually immobile at low tide during the day. At night and on a cool wet day, you might see them creeping about. Tan and Clements based on surveys of 31 sites over a period of 10 years reveals 19 species with 6 new records for Singapore!
 
-**Features:**
+## Features
+
 2-4cm. Our nerites typically have a distinctive hemispherical shell, somewhat like half a marble. The shell is quite thick and heavy. The streamlined shape probably helps the snail stick onto a slippery rock that is pounded by waves. It also makes it difficult for a crab (and a human) to grip the shell.
 
 A sturdy chalky operculum provides a secure seal to the shell opening. The operculum has an internal peg to lock it firmly. This makes it difficult for a crab to stick a pincer in and dig out the snail. It also protects against water loss during low tide. Nerites usually stay above the high tide line. This is probably to avoid being eaten by fish.

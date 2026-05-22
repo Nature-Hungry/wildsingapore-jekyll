@@ -103,10 +103,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fat little shrimp with a red bar on the face is commonly seen on many of our shores. Groups of many individuals on the bottom of shallow sandy or silty pools left behind at low tide, or in small groups among other living animals. They are more active at night.
 
-**Features:**
+## Features
+
 About 1cm long. The tiny shrimp is rather 'fat' and not as slender as other shrimps. The large blue eyes are rather far apart. The female has a brownish or greenish body, with a white bar and white spots, and often, a red patch between the eyes. The male is transparent with a pair of long pincers, often longer than his body. The female's pincers is long but not as long as the male's.
 ****
 These little shrimps are often found clinging to all kinds of other larger animals such as hard corals, sea fans, leathery soft corals, flowery soft corals. As well as seaweeds, or just gathered in a sandy pool.

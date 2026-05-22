@@ -73,10 +73,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Tiny ones are common but overlooked as they look like bits of dirt or junk among seaweeds. Some species are larger, more grotesque and less often encountered.
 
-**Features:**
+## Features
+
 Most have highly elongated pincers that stick way out from the sides of its body. Others have less obvious 'elbows'.
 
 **Status and threats:**

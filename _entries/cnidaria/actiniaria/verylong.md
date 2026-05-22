@@ -91,10 +91,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 A stout anemone that is sometimes seen on our Northern and Southern shores. Usually alone in sand bars and sandy stretches near reefs and seagrasses and in sandy artificial swimming lagoons.
 
-**Features:**
+## Features
+
 Diameter 6-8cm. Body column very long (50cm or longer).
 Tentacles very short hardly extending beyond the oral disk. Rows of tiny bumps on the oral disk. Body column pale, smooth with a short row of large circular bumps near the top. It can tuck its oral disk partially into the body column. Colours seen include grey, beige, pink.
 

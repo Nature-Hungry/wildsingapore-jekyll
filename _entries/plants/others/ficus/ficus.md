@@ -38,10 +38,11 @@ galleries:
       caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 Figs are seen in many of our habitats, from forests to coastal areas. There are more than 900 species of figs globally, with 48 species native to Singapore. Figs may be climbers, creepers, small bushes or huge trees. The most awesome are the strangling figs that begin life as a small plant (from seeds dropped by a bird or climbing animal), high up on a tall host tree. The young fig sends down long roots. When the roots reach the ground, they thicken and encircle the host tree. By shading out and preventing the host tree from thickening its trunk, the now rapidly growing fig eventually 'strangles' and kills the host tree.
 
-**Features:**
+## Features
+
 Figs are fascinating because of their unique flowering structure and intriguing relationship with the tiny fig-wasps that pollinate them.
 
 Before the fig becomes a real 'fruit', it is actually an inside-out flower! At first, little round things develop on the tree. These are not (yet) fruits but a fleshy, hollow structure with tiny flowers inside the hollow. This is why we refer to these structures as figs, and we say the tree is 'figging'.

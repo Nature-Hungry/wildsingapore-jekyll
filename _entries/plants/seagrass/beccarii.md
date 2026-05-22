@@ -106,7 +106,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This small seagrass is quite commonly encountered on Chek Jawa, usually in small patches on bare sand that are exposed at low tide near the boardwalk, with larger meadows on the shore west of House No. 1. The
 [preliminary results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20beccarrii.md)
 of Chek Jawa suggest it is probably sparsely distributed in the Chek Jawa seagrass lagoon. It is also found at Sungei Buloh Wetland Reserve, with wide swathes along Kranji Nature Trail and Mandai mangroves.
@@ -117,7 +117,8 @@ Globally, it is considered a rare and uncommon seagrass with a distribution rest
 [Odoardo Beccari](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singapore.html)
 and named after him.
 
-**Features:**
+## Features
+
 **
 Beccari's seagrass is the smallest seagrass found on our shores (0.5cm long). The long oval-shaped leaves emerge in a rosette of 5-10 tiny leaves on long thin stems. Each plant may bear both male and female flowers, but usually, only male or female flowers are visible on a plant. The flowers and fruits are tiny. Each fruit contains up to 6 seeds.
 

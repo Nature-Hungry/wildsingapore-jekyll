@@ -91,14 +91,15 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Elegant discs with bulbous eyes and a narrow tail, these large fishes are often seen in our mangroves, seagrass meadows and coral reefs.
 
 **What are these fishes?**
 Called skates, rays and stingrays, these fishes belong to the Order Rajiformes which includes 10 families. Those commonly seen on our shores at low tide are stingrays that belong to
 [Family Dasyatidae](dasyatidae.md)
 . These fishes are related to sharks but most are adapted for hunting and living on the sea bottom. For simplicity, we'll refer to all these fishes as rays.
-**Features:**
+## Features
+
 Rays have flattened bodies with greatly enlarged pectoral fins along their body edges. With graceful undulations of these fins, they seem to 'fly' through the water. Some also use these enlarged fins to bury themselves in the sand. To avoid breathing in mud and sand, water is taken in from the the upperside of their bodies through spiracles (holes) beside their eyes. The water is then expelled through gill slits on the underside of the body. The snout may function as an electroreceptive organ, sensitive to electric charges of prey buried in the ground.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 Most rays have a long tail, with a sting - usually near where the tail joins the body, and not at the tip of the tail. Rays are closely related to sharks. Like sharks, the skeleton of rays are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!

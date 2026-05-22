@@ -52,7 +52,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These frilly edged flat spirals
 are sometimes numerous on sandy shores, as well as seagrass areas.
 **What is a sand collar?**

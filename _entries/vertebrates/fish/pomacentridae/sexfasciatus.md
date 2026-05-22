@@ -64,10 +64,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This distinctive fish is sometimes seen on our coral reefs. Elsewhere, it is found near reefs and rocky shores, often forming schools.
 
-**Features:**
+## Features
+
 To 17-22cm, those seen about 15cm. It is identified by the black horizontal stripes on the pointed tail fins so the tail resembles scissors. Like other sergeants, it has 4-5 broad black bars across a yellowish body. More on
 [how to tell apart sergeants](pomacentridae.md)
 .

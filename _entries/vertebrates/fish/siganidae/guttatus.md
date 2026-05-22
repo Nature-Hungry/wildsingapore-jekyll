@@ -78,10 +78,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This gaily spotted fish is sometimes seen on on our Northern shores, among coral rubble. Sadly, often encountered trapped in driftnets. Elsewhere, it is found in turbid reefs near mangroves and appears to prefer places with lower salinity. Young fishes settle in seagrass beds near river mouths while adults leave and enter rivers with the tides. Adults travel in groups of 10-15. Unlike other rabbitfishes, this species is said to be active at night.
 
-**Features:**
+## Features
+
 To about 40cm, those seen about 15-20cm. It is named for its rabbit-like snout ('siganus' means 'has a nose like a rabbit') or possibly for its habit of grazing on seaweeds. It is also called Spinefoot after the spines on its pelvic fins, a unique feature of this family. It has tiny scales. It is distinguished by the spotted pattern and large golden spot below the dorsal fin near the tail which is about the same diameter as the eye. The upper body is dusky blue, and lower body silvery. The head has lines and spots. It has stout, venomous spines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

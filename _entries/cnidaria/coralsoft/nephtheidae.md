@@ -120,10 +120,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Flowery soft corals are commonly seen on many of our shores. They are usually attached to hard surfaces including boulders, jetty pilings and coral rubble.
 
-**Features:**
+## Features
+
 ****
 Colonies are usually 15- 20cm in diameter but may be larger. When submerged, these soft corals look like bushes. The common tissue is generally rubbery, stiff and rough to the touch. A thick 'main trunk' attaches to a hard surface on one end, with many small branches on the other end.
 

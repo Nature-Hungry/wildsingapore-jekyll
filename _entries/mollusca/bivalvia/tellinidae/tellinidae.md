@@ -98,13 +98,14 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 The clam or its empty shells are sometimes seen on some of our shores. Elsewhere, they are active burrowers in soft bottoms where they may be found in dense communities.
 
 **What are tellin clams?**
 Tellin clams belong to Family Tellinidae.
 
-**Features:**
+## Features
+
 About 5cm. Tellin clams have a two-part shell. They are specialised for deep burrowing and generally have narrow thin shells, a wide blade-like foot and long siphons to reach the surface. Tellin clams also have the haemoglobin which give the animal a bright red color. The shells of some Tellin clam species can be quite colourful.
 
 **What do they eat?**

@@ -50,10 +50,11 @@ galleries:
       caption: "Links Tristellateia australasiae on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp."
 ---
 
-**Where seen?**
+## Where seen?
 A popular ornamental, this pretty plant with bright yellow flowers is commonly seen in gardens and parks. But in the wild, it originally grew in back mangroves, tidal swamps, coasts and forests. Widely distributed from Taiwan through Southeast Asia to Australia.
 
-**Features:**
+## Features
+
 It is a liana (3-6m up to 10m long). The twigs are puple with bumps (lenticels). The leaves (7-12cm) a fresh green, arranged opposite one another. The star-shaped flowers (2-3cm) are bright yellow appearing in clusters (4-30cm long).
 ****
 

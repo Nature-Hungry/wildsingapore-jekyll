@@ -117,21 +117,16 @@ let query = ""
 input.value = initialQuery
 
 
-input.addEventListener('input', () => {
+input.addEventListener('keydown', () => {
   query = input.value.trim().toLowerCase()
 
   currentPage = 1
 
   updateURL()
 
-  if (!query) {
-    results = data
-    renderResults()
+  
 
-    return
-  }
-
-
+  console.log(taxaFilters)
   filterResults()
   renderResults()
 })
@@ -151,11 +146,9 @@ function filterResults(){
         return item[rank].toLowerCase() === name.toLowerCase()
       })
     }
-    console.log("Included: ", taxaFilters)
   }
 
   if(excludeFilters.size > 0){
-    console.log("Excluded:",excludeFilters)
 
     excludeFilter = item => {
       return Array.from(excludeFilters).some(t => {
@@ -175,12 +168,15 @@ function filterResults(){
 
   
 
-  console.log(taxaFilters)
 
   // Step 1: true substring search for partial matches
-  let partialResults = data.filter(item =>
-    item.search_text.includes(query)
-  ).filter(item => taxafilter(item))
+  let partialResults = data
+  if(query){
+    partialResults = data.filter(item =>
+      item.search_text.includes(query)
+    )
+  }
+  partialResults = partialResults.filter(item => taxafilter(item))
 
   // Step 2: Fuse.js ranking
   let fuseResults = fuse.search(query).map(r => r.item) 

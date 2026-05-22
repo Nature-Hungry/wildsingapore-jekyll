@@ -123,7 +123,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These rotund fishes are sometimes seen on some of our shores. They are found among seagrasses, near coral rubble as well as in mangroves. Sometimes seen in fish traps, and also washed ashore during mass fish death incidents. Divers also encounter on some of our reefs, including very large ones!
 
 **What are pufferfishes?**
@@ -135,7 +135,8 @@ Pufferfishes belong to the Family Tetraodontidae. According to
 [Family Diodontidae](../diodontidae/diodontidae.md)
 .
 
-**Features:**
+## Features
+
 10-30cm. Pufferfishes are slow moving fish that are hardly designed for fast swimming. When relaxed, they are generally elongated bulbous fishes. Pufferfishes get their common name from their ability to inflate the body greatly by swallowing water (or air, if it is out of water). They do this when they are stressed. Fully inflated, they resemble balloons. This probably helps make a pufferfish more difficult to swallow and thus deters predators. They are sometimes also called blowfishes. Please don't tease pufferfishes or force them to inflate themselves. It is cruel to do so.
 
 **Poisonous puffers:**

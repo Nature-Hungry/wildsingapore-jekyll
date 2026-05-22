@@ -106,10 +106,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This transparent shrimp is sometimes seen on some of our shores. At low tide in pools, in small groups on rubble and reefs. Also on sandy silty shores among seaweeds, as well as near mangroves.
 
-**Features:**
+## Features
+
 About 1-2cm long. The body is transparent, plain or with thin dark bands across the body. Has a sharp pointed 'nose' and the eyes are not very far apart. Pincers long. Pincers and walking legs with yellow joints. Some have a pair of yellow or orangey dots near the tail.
 
 Several different species of shrimps might have this appearance.

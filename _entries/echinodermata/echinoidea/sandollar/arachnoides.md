@@ -156,10 +156,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather featureless disk-shaped animal is commonly seen on some of our Northern shores, on sand bars and sandy areas near seagrasses. Often found in groups of large numbers of individuals, half buried in the sand. Sometimes also seen on the Southern shores.
 
-**Features:**
+## Features
+
 Body diameter 6-8cm. Seen in various sizes, some may be tiny (about the size of a 10cent coin). It has no slots in the body. While the star-shaped petalloid is not very obvious in living specimens, they are clearly seen in the test of a dead sand dollar. The colours of a living sand dollar may range from deep reddish-purple, to brownish-purple or beige.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Dead or alive?**

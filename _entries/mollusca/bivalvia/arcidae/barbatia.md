@@ -83,10 +83,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This little clam is commonly seen stuck under stones on our Southern shores, sometimes a few clustered together. But it is often overlooked as its 'hairy' shell camouflages it well.
 
-**Features:**
+## Features
+
 About 2.5cm long. The sturdy two-part shell is oval with fine ribs. There is usually a layer of fine brown hairs (called the periostracum) covering the shell. The hairs grow particularly thickly towards the shell opening. The animal is usually firmly attached to the underside of stones and rubble, usually with the shell opening facing the hard surface.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

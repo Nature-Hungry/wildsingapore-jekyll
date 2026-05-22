@@ -59,10 +59,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This little goby is sometimes seen on our Northern shores among seagrasses and mangroves.
 
-**Features:**
+## Features
+
 Up to about 10cm, those seen about 3-5cm. It is identified by the large dark spot on its 'shoulder', above its pectoral fins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

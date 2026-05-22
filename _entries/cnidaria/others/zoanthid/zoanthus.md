@@ -124,11 +124,12 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Like a carpet of tiny flowers, these animals are often seen on many of our shores, growing on stones and coral rubble, as well as under seagrasses in vast seagrass meadows.
 They may form a dense carpet that covers large areas of several square metres, making it difficult to walk at low tide without squashing them.
 
-**Features:**
+## Features
+
 Colonies 10-15cm, each polyp about 1cm in diameter. The polyps are embedded in a thin common tissue that is usually hidden by sediments, or joined to one another at the bases by underground stems (called stolons).
 The long body column raises the small oral disk above the common tissue.
 Button zoanthids don't incorporate sand in their bodies so the body column feels smooth to the touch.

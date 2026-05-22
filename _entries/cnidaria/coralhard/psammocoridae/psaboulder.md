@@ -87,10 +87,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This smooth boulder-shaped coral with tiny star-like corallites is sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 ****
 Colonies 20-40cm, boulder-shaped with irregular humps, some with rather angular bumps, others with polygonal ridges. The tiny corallites don't stick much out of the surface and merely give the skeleton a granular texture which gives the common name. When the polyp is retracted, the tiny holes of the corallite look like tiny petals of a flower. Polyps tiny (0.2cm) with short pointy tentacles. With the tentacles extended, the colony has a furry look. Colours seen include brown and bright green and bright blue.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

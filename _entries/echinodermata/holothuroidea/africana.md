@@ -111,12 +111,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small purplish sea cucumber is sometimes seen under stones, particularly on our Northern shores. Usually alone, but sometimes several are seen together under one stone. According to Teo Siyang, these are widespread and common, found in shallow tropical waters from East Africa, India, Southeast Asia, China, Japan and Taiwan to Australia and the Pacific Islands. It was previously known as
 *Pseudocucumis africanus*
 .
 
-**Features:**
+## Features
+
 3-8cm long. Body cylindrical. Colour uniform purple (some lilac, others deep purple). Short tube feet in rows along the length. Tube feet are used to cling to the underside of the stone as well as to hold debris all over the body. Feeding tentacles can be larger than the body when expanded underwater, translucent white with dark branched tips.
 
 **Baby sea cucumbers:**

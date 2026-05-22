@@ -76,13 +76,14 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Delicate lacy creatures, bryozoans encrust hard surfaces and even living seagrasses and seaweeds. Larger ones are sometimes seen on our Northern shores, but tiny ones are probably quite common but simply overlooked.
 
 **What is a bryozoan?**
 Bryozoans belong to Phylum Bryozoa. 'Bryozoa' means 'moss animals' in Greek. Indeed, they often look like moss, mats of algae or lacy, branching seaweed. Bryozoans are often mistaken for plants. There are about 5,000 species of bryozoans.
 
-**Features:**
+## Features
+
 Bryozoans are colonies of minute individual animals called zooids. Each zooid is about the size of a pinhead but has distinct organs and ring of tentacles (called the lophophore) forming a funnel around a mouth. Each zooid builds a hard casing around itself (called a house), usually made of calcium carbonate. The tentacles emerge through an opening to filter feed. The tentacles can be quickly withdrawn into the house and the opening secured with a tiny lid.
 
 The colony forms as the zooids reproduce by budding. Each new casing remaining attached to the colonial members around it. A colony may have millions of individual zooids. Some colonies take the shape of encrusting layers, others develop into delicate ruffles or branching forms. So bryozoans are sometimes called sea mats, moss animals or lace corals. They grow over hard surfaces in the sea, including seaweed and the surface of sand grains.

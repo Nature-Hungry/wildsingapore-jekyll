@@ -61,10 +61,11 @@ location:
 - ubn
 ---
 
-**Where seen?**
+## Where seen?
 This colourful insect is sometimes seen in numbers in our mangroves.
 
-**Features:**
+## Features
+
 Adults about 1-1.5cm long. The larvae are only found on
 [Buta buta trees](../plants/mangrove/excoecaria/excoecaria.md)
 (

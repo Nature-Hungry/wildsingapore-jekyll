@@ -125,10 +125,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This spongy, velvety green seaweed is sometimes seen on our Southern shores. Branching forms sometimes blooms among seagrasses near reefs, e.g., at Pulau Semakau.
 
-**Features:**
+## Features
+
 Spongy but firm, texture velvety smooth. Commonly seen on the intertidal is
 *Codium geppiorum*
 which forms a cluster of thick, cylindrical 'stems' (6-8 cm) with rounded, knobbly tips. May be a compact ball of short branches, or a looser clump of longer branches. Colour olive green to dark green. Others, like

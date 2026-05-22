@@ -139,7 +139,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These enormous clams are sometimes seen on our undisturbed Southern shores. Some burrow into coral rubble or among live coral and are thus easily overlooked. Others lie above but attached to coral rubble.
 
 **What are giant clams?**
@@ -147,7 +147,8 @@ Giant clams belong to
 [Family Cardiidae](../cardiidae/cardiidae.md)
 (True cockles), subfamily Tridacninae. Previously, it was placed in Family Tridacnidae.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 15-40cm. Giant clams are among the largest bivalves to have ever existed on our planet! The two-part shell is thick and usually has a wavy opening that never closes completely. The shell opening faces the sunlight, while the hinged side is at the bottom. The shell is attached to a hard surface by a large byssus mass that emerges from a gap between the valves near the hinge. Some giant clams burrow into coral, with most of the shell hidden and only the shell opening facing sunlight.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**

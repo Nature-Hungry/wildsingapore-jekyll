@@ -54,12 +54,13 @@ links_references: |
   New Holland Publishers. 128 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This large hairy beast is quite common in our wilder places but rarely seen as they are shy. It is more active in the early morning and late evening. Several may gather under fruiting trees to forage for fallen fruits.
 
 It is the largest resident land mammal in Singapore and found in forest, scrubland and mangroves. According to Baker, it was believed to be extinct in Singapore, and current populations were probably started by individuals swimming in from Malaysia across the Johor Straits. They are found on Pulau Ubin, Pulau Tekong and the Western Catchment Area and also recorded in Changi, Lim Chu Kang and the Central Catchment Area. Globally, these wild boar are found from Europe, north Africa and most of Asia.
 
-**Features:**
+## Features
+
 ****
 Head and body 1.5-2m, up to 200kg. Typical pig-shaped covered with bristly hairs with a mane on the neck and back that bristles upright when the animal is threatened. Adults have long canine teeth (tusks) and are generally dark greyish brown. Wild boar males are generally solitary, but females and their young live in groups. They are shy and generally avoid humans. But they can be aggressive when cornered. Mothers can be particularly dangerous when protecting their young. Wild boar can run fast. They can swim too!
 

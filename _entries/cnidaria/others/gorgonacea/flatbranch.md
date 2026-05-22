@@ -78,10 +78,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This sea fan with flat branches is sometimes seen on some of our Northern shores on coral rubble.
 
-**Features:**
+## Features
+
 10-20cm long. Colony comprises many long sturdy stems that randomly branch forming an elegant tree-like silhouette on one plane, with some branches overlapping. The stems are flattened, often with a groove along the length. Dull brown-orange, to orange or red. Relatively large white polyps emerge along two sides of the flattened stem, not in the grooves.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

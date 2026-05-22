@@ -96,7 +96,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 The most commonly encountered are tiny ones in large numbers among seaweeds, especially when there is a bloom of
 [Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis.md)
 (
@@ -111,7 +111,8 @@ that resemble shrimps. While shrimps belong to the Class
 , beachfleas and other amphipods belong to the Order Amphipoda. Among the most numerous and most diverse of bottom-dwelling crustaceans, they are sometimes also called amphipods, sand hoppers or sandfleas. While most beachfleas are tiny, one monstrous beachflea (
 *Alicella gigantea*
 ) grows to 25cm! Fortunately, we are unlikely to encounter it as it lives at the bottom of the deep sea.
-**Features:**
+## Features
+
 0.5cm or less. Their bodies are flattened sideways (instead of downwards as in
 [isopods](../isopoda/beachisopod.md)
 ). Their eyes are NOT on stalks. They have seven pairs of limbs, the first two pairs may have claws and are used for feeding and in mating. The remainder are walking legs. Amphipoda means 'different feet' while Isopoda meaning 'same feet'. Many can hop long distances by flexing their long abdomens.

@@ -87,14 +87,15 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large sea cucumber are sometimes seen on our Southern shores, on coral rubble and near living reefs. It appears to be more active at night, hiding in crevices during the day. Elsewhere it is common on rubble and sandy areas; hidden under rocks or dead corals. Sea cucumbers that look very similar include
 *S. monotuberculatus, S. naso*
 and
 *S. quadrifasciatus*
 . Precise identification can only be determined by looking at microscopic internal parts of the body.
 
-**Features:**
+## Features
+
 About 20cm long, but can grow to 50cm long up to half a kilo in weight! Body hard heavy, squarish in cross-section, blunt at the ends. Upperside densely covered with large soft conical thorn-shaped structures - resembling the skin of the durian fruit. These thorns usually appear in two rows along the center of the upperside with a row of larger thorns along the sides near the base of the animal. Colours mottled greyish green with dark blotches. Sometimes also dark and other times bright orange. Elsewhere, highly variable, from grey to beige to dark red, dark brown, greenish-brown or black with different coloured blotches. Distinct flat underside, paler with many large tube feet.
 Mouth facing downwards with 20 feeding tentacles. It disintegrates when it is removed from water or otherwise stressed.
 

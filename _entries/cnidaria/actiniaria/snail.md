@@ -88,12 +88,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny anemone is sometimes seen stuck onto shells occupied by living snails such as
 [whelks](../../mollusca/gastropoda/nassariidae/nassariidae.md)
 (Family Nassaridae). Sometimes also seen attached to tiny stones in silty sandy shores. They are more frequently encountered on our Northern shores, but also sometimes seen on other shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 1-1.5cm. Tentacles many, long and thin, usually transparent with white bands. On the oral disk, often fine white stripes radiating from the mouth.
 Sometimes, a pair of tentacles are of a contrasting colour so that the anemone appears to have a moustache.
 Body column brown with pale stripes. Sometimes, a single single shell may bear two or three of these anemones. When full expanded, these anemone hitch-hikers may be bigger than the snail they are riding on!

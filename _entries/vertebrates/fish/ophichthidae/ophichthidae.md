@@ -102,7 +102,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These worm-like fishes are often seen near coral rubble where there are lots of hiding places, especially on our Southern shores. Larger snake eels sometimes also seen, especially at night.
 
 **What are worm eels?**
@@ -110,7 +110,8 @@ Worm-eels and snake-eels belong to the Family Ophichthidae, which belongs to the
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=66)
 : the family has 52 genera and 250 species. They are found in tropical to warm temperate seas.
 
-**Features:**
+## Features
+
 20cm-2.5m long, these fishes have a tubular body. They lack scales. Some species have pectoral fins, others don't. The head and tail are pointed and they are adapted for burrowing. They swim by moving the body in S-shapes, rather like a sea snake. In fact, some day-hunting snake eels mimic sea snakes.
 
 **Sometimes mistaken for**

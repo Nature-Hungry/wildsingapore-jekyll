@@ -142,10 +142,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Many of the green seaweeds seen on our shores belong to this genus.
 
-**Features:**
+## Features
+
 These small, bright green seaweeds come in a variety of shapes. Some look like sausages made up of tiny little green balls, others look feathery and resemble seagrasses, yet others are like tiny umbrellas. Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes.md)
 .

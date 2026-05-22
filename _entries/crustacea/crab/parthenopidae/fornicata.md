@@ -90,10 +90,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This strange crab is sometimes seen on our northern shores.
 
-**Features:**
+## Features
+
 Body width about 6cm. A domed body covers the spindly walking legs. Eyes tiny and close together at the top of a rather triangular head. The pincers are large and angular.
 
 **Status and threats:**

@@ -257,7 +257,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Hermit crabs are commonly seen on many of our shores. They come in all sizes from tiny to large, and live in all kinds of shells. The same kind of hermit crab may live in different kinds of empty shells. Hermit crabs may live even in broken shells.
 
 **What are hermit crabs?**
@@ -267,7 +267,8 @@ Hermit crabs belong a subgroup called Anomurans in the Order
 [porcelain crabs](../porcellanidae/porcellanidae.md)
 . These crab-like animals are not true crabs. True crabs belong to a subgroup called Brachyurans within the Order Decapoda.
 
-**Features:**
+## Features
+
 True crabs have a hard, shortened abdomen which they fold under their hard shells for protection. Hermit crabs, on the other hand, have a soft, long abdomen. They have to insert this abdomen into an empty shell for protection. The soft abdomen is twisted to one side for a better fit into the spiral of a shell. There are appendages at the end of the abdomen to hang on tight to the shell.
 
 Unlike true crabs, hermit crabs have only two pairs of walking legs. They have eyes on long stalks to peek out of the shell. Their antennae may be very long, or feathery. Like true crabs, hermit crabs have two pincers. Both are used to feed with, and usually one is used to block the shell entrance when the hermit crabs retreats into its shell. This makes it more difficult for predators to pry them out of their shells. In some species, one of the pincers is much larger than the other.

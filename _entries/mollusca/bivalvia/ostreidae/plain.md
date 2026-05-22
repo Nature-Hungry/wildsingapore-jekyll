@@ -53,10 +53,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This oyster is commonly seen on our Northern shores on boulders, rocks, jetty pillings, sea walls. Often, there is a crowded line of these oysters, with many individuals squashed next to one another, along the high water mark. On undisturbed shores they can become quite large. Very large ones are sometimes found on boulders close to the low water mark. The shell is often covered with encrusting lifeforms and they are thus overlooked.
 
-**Features:**
+## Features
+
 8-15cm. The two-part shell is thick and chalky. Individual shells may form a shape like a shallow box with a lid. Others may form smooth slightly domed circular shapes.
 
 Oysters are difficult to distinguish by shell shape alone and those on this page may in fact be different species that appear similar.

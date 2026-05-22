@@ -73,7 +73,7 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This tiny crab is found living in
 [feather stars](../../../echinodermata/crinoidea/crinoidea.md)
 (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include
@@ -82,7 +82,8 @@ species and
 *Ceratocarcinus longimanus*
 .
 
-**Features:**
+## Features
+
 Body width 1cm. Body somewhat hexagonal, with long legs and long narrow pincers. Its colours and patterns usually perfectly match its feather star host. Usually, only crab is found in each feather star.
 
 **Status and threats:**

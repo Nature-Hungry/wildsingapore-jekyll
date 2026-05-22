@@ -112,10 +112,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 It has been seen on natural rocky shores on our Southern shores. Many were also seen on artificial seawalls, often hidden in crevices in the concrete slabs.
 
-**Features:**
+## Features
+
 Up to 12cm long, the oval flattened body is covered with 8 overlapping plates along the centre. A thick, stiff mantle forms a girdle around the plates to the body edges. The girdle is covered with bristles.
 
 **Sometimes mistaken for**

@@ -98,12 +98,13 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This stunning snail with a golden-brown shell is sometimes seen on our undisturbed Northern shores, in silty sandy areas near seagrasses and coral rubble. Elsewhere, it is found in coral rubble and muddy areas including mangroves. It was previously known as
 *Cypraea onyx*
 .
 
-**Features:**
+## Features
+
 3-4cm, up to 6cm. Shell pear-shaped, dark brown to orange with 2 or 3 bands of gold. The underside is black with an orange tinge on the 'teeth'. The living animal has a mantle with a dark to golden yellow base, usually mottled but sometimes uniform.
 
 **Sometimes mistaken for**

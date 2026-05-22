@@ -109,10 +109,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This small white flatworm with three blue lines in the centre of it body is sometimes seen on many of our shores, on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 2-4cm long. Body white or bluish becoming dark blue at the margin. It has three non-connecting lines along the centre of the body, each line yellow with a fine blue border. Has a pair of all blue pseudotentacles (no coloured tips) made up of simple folded edges of the body.
 
 Worms with only the centre line clear while the outer two lines are faded may be juveniles of this species.

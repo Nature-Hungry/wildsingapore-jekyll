@@ -155,10 +155,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This small purple crab is commonly seen on our rocky shores in the North and South. Usually only active at night. During the day, it is usually well hidden in crevices.
 
-**Features:**
+## Features
+
 Body width 2-4cm. Body somewhat squarish, eyes set wide apart. Colours vary from purplish, bluish to greenish, yellowish, grey. It has stout purplish pincers.
 The walking legs are very long and tipped with well developed hooks. With these legs, the crab clings tightly so it doesn't get washed away in the waves, and can scramble quickly among slippery rocks.
 There are three different species of

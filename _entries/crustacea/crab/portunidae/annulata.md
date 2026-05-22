@@ -86,10 +86,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This swimming crab with bands on its legs is sometimes seen on some of our rocky and reefy shores, especially at night.
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body somewhat fan-shaped with 6 spines on the sides. The eyes are not wide apart. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Body colours include plain olive, greenish grey, orange. The legs have alternating bands of dark brown and bright blue. The tips of the pincers are also banded dark brown and bright blue. There is a fine network of brown lines on the pincers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

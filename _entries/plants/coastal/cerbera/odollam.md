@@ -58,10 +58,11 @@ galleries:
 
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pretty white star-shaped flowers and large round fruits is widely planted along our roadsides and in our parks. It is also sometimes seen growing wild in our mangroves, seashores and tidal rivers. According to Giesen, it is found in coastal forest and landward margins of mangroves and along rivers. It has a limited salt tolerance, and occurs on clays or sandy soils.
 
-**Features:**
+## Features
+
 Tree up to 12-15m tall, but in Singapore usually shorter. Produces a white sap from all broken plant parks. Bark fissured, flaky, grey to brown with lenticels, often with buttress roots.
 
 Leaves oval (12-30cm long) dark green and glossy, held in dense spirals at the tips of the twigs. Leaves wither orange brown.

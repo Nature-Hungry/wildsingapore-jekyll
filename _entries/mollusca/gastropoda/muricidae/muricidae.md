@@ -210,10 +210,11 @@ location:
 - rfl
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 You will almost be certain to meet this ferocious predator on our rocky shores! Drills are commonly seen on boulders and rocks, including man-made structures such as breakwaters and jetty pilings.
 
-**Features:**
+## Features
+
 They range from small shells to some that can be as big as your hand! Among the common drill species on our shores are Rock-shell (
 *Thais*
 sp.), Drupes (

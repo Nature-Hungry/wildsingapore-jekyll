@@ -99,10 +99,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Small clumps of this sturdy branching seaweed is sometimes seen on our undisturbed Southern shores, very firmly attached to coral rubble near reefs.
 
-**Features:**
+## Features
+
 Thick, hard 'fingers' about 8-20cm long that branch. Sometimes the 'fingers' are short and densely branched forming a bushy shape, others are longer and more sparsely branched. The tips are rounded. The surface is slimy and covered with bumps. Colours from pale golden to dark brown.
 
 These seaweeds may be

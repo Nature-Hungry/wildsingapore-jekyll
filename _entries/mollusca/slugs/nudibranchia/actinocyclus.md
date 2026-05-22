@@ -107,10 +107,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This large, lumpy and rather fugly nudibranch is rarely seen. The ones encountered were on coral rubble. It is possible that they are not all that rare and that these very well camouflaged nudibranchs are just overlooked?
 
-**Features:**
+## Features
+
 10-12cm long. Body tough and leathery. Gills short in a circle so they resemble a 'bubble'. The gills sit in a shallow cup or depression on the back of the body. The gills are actually branching, but appear smooth. Rhinophores stumpy. The entire animal is rather squat and unremarkable, well camouflaged against its surroundings in various colours of dull olive, brownish, yellowish. It produces some slime when handled.
 
 Previously all were considered one species

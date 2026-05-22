@@ -76,10 +76,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This fleshy seaweed is commonly seen on many of our shores, in small clumps among living reefs, on rubble, also sandy areas near seagrass meadows.
 
-**Features:**
+## Features
+
 Cluster (10-15cm long) of thick, succulent cylindrical 'stems' with tapering tips and regular branches. Sometimes, there are bumps on the stems. These are the reproductive structures of the seaweed. Colours reddish or yellowish brown. The clusters are small and scattered.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

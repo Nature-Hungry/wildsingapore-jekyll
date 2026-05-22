@@ -67,12 +67,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This snail is sometimes seen in our back mangroves, on and around the base of mangrove trees. It breathes air (instead of through gills like most other marine snails). It was previously known as
 *Cassidula mustelina.*
 The shell opening resembles an ear.
 
-**Features:**
+## Features
+
 2-3cm. Shell thick and oval, with wide dark and light brown spiralling bands. Underside pinkish violet around the shell opening. Species of mangrove ear snails are not easy to tell apart in the field
 
 **What does it eat?**

@@ -62,12 +62,13 @@ links_references: |
   Cambridge University Press. USA. 419 pp.
 ---
 
-**Where seen?**
+## Where seen?
 The target of many obssessed Singaporeans, Durian trees can still be found growing wild in many parts of Singapore. They often mark the locations of 'kampongs' or villages that have long since been cleared. Pulau Ubin has lots of durian trees. The durian is native of Southeast Asia, with 28 species, mostly in Borneo. There are 13 species in Malaya found in lowland forest. The scientific name comes from the Italian 'zibetto' or
 [civet cat](../../../vertebrates/mammals/hermaphroditus.md)
 which also has a noxious smell.
 
-**Features:**
+## Features
+
 Tall tree with sparse, long branches. Leaves narrow and pointed, silvery or coppery scales on the underside, arranged alternately. Flowers pom-pom shaped with a lot of stamens and 4-5 pale petals. The flowers open in the afternoon and are pollinated by bees, flies and beetles, and at night by bats. They fall off after midnight. The fruit is large, covered densely with sharp hard thorns. It is a capsule with 4-5 compartments filled with large seeds covered with a thin flesh which is relished as a delicacy.
 
 According to Corners, fallen fruits in the wild first attract elephants followed by tiger, deer, pig, rhinoceros, tapir and monkey. He says there are stories of natives gathering durians who were 'gathered in turn by an elephant'.

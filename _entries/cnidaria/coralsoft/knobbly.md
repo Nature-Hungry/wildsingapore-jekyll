@@ -74,10 +74,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This colony of bumpy animals is commonly seen on some of our Northern shores, but often overlooked as it resembles a plant. It grows on large boulders, jetty pillings and other hard surfaces.
 
-**Features:**
+## Features
+
 5-8cm long. The colony comprises a cluster of sparsely branched 'stems', forming short bushes or bushy fringes on hard surfaces. Each long stem is a primary polyp bearing large secondary polyps in capsules (about 1cm long) regularly arranged along the length. The polyps can retract completely into the capsule. Colour usually white although the colony may be overgrown with colourful encrusting sponges and ascidians. The animals do not have symbiotic algae (zooxanthellae) and thus can be found in murky water and dark places.
 
 **Sometimes mistaken for**

@@ -201,10 +201,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This bright red swimming crab is commonly seen on many of our shores, especially near reefs and coral rubble. It is particularly active at night. It can be quite fierce and give a good pinch to inquisitive fingers. Don't handle crabs!
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body rectangular, the body sides with 5 black-tipped spines, all about equal in size. The eyes are wide apart. Between the eyes are 6 small rounded lobes. Last pair of legs are paddle-shaped often bluish. Body, pincers and walking legs plain bright orange or red, sometimes blue. Some have a chocolate brown body with blue legs. Inner 'elbows' are white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -64,10 +64,11 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This awesome reptile is often seen at Sungei Buloh Wetland Reserve. According to Davison, it has been recorded in our estuaries and reservoirs including the Singapore River, Kallang River, Sungei Seletar and Kranji Reservoir, and Pulau Tekong. Also called the Saltwater crocodile, it is the most widely distributed of the crocodiles and found in tropical Asia and the Pacific. It lives in b rackish and freshwater habitats.
 
-**Features:**
+## Features
+
 Up to 8m long. A large triangular head with broad and long snout and bulbous eyes at the top of the head. There is a pair of ridges along the centre of the snout. It uses its long muscular tail to propel itself in the water. Younger crocodiles have oval scales that are pale yellow with black stripes and spots on the body and tail. The adults are much darker, with lighter tan or grey areas.
 
 **Sometimes mistaken for**

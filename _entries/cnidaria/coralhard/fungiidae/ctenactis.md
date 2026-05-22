@@ -153,10 +153,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This oval mushroom coral with a feather-like texture is sometimes seen on some of our undisturbed Southern shores. The coral is free-living (it is not attached to the surface) and large ones may be seen on sandy shallow areas near living reefs.
 
-**Features:**
+## Features
+
 Oval or elongated convex disks with rounded ends, to about 20-30cm long. A prominent central furrow.
 *Ctenactis echinata*
 has one mouth, while the other species may have several. In all of them, the mouths are found only in the central furrow. Upper surface with thin lines radiating from the central furrow, so the entire animal resembles a feather. Lines are parallel, continuous with relatively large triangular, evenly spaced 'teeth' that are obvious even when covered with living tissue. The tentacles are tiny and very sparse. The underside usually concave, some with radiating lines of short bumps. Colours seen include yellow, brown, green and blue.

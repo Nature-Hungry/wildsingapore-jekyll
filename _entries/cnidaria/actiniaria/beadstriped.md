@@ -74,10 +74,11 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone is commonly seen especially on our Northern shores. Even relatively "beat up" shores with few other lifeforms will have these anemones. It is often found in small clusters of a few individuals. It settles wedged in crevices on rocks, on hard surfaces such as jetty pilings, boulders, rocks, and on small stones on the shores. When exposed at low tide, it tucks its tentacles into its body and looks like a blob.
 
-**Features:**
+## Features
+
 Diameter with tentacles 2-3cm. Many semi-transparent tentacles that taper to a pointed tip. On the upper side of the tentacles, there is a pattern of white bars across a pair of dark parallel lines that run the length of each tentacle. The oral disk may be plain or have a pattern of stripes radiating out from the mouth.
 
 **Sometimes mistaken for**

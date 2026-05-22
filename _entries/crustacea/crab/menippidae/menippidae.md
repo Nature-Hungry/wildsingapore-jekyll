@@ -53,10 +53,11 @@ location:
 - ''
 ---
 
-**Where seen?**
+## Where seen?
 Stone crabs are commonly seen on our Northern shores, sheltering among stones, coral rubble, rubbish and other hiding places.
 
-**Features:**
+## Features
+
 Body width 10-12cm, smaller ones also often seen. Large rounded body with large pincers.
 
 The common

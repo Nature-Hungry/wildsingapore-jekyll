@@ -82,11 +82,12 @@ location:
 - ubn
 ---
 
-**Where seen?**
+## Where seen?
 These sea stars
 are sometimes encountered on our Northern shores. In sandy or silty shores. Sometimes, many are seen gathered together.
 
-**Features:**
+## Features
+
 The arms are long, slightly rounded, and tapered to a pointed tip, edged with tiny spines along the sides. The upper surface of the body is covered with special flat-topped, pillar-like structures called paxillae. The underside is pale, and from grooves along the arms emerge large tube feet with pointed tips. They can move across the surface quite fast when submerged.
 
 **Losing it:**

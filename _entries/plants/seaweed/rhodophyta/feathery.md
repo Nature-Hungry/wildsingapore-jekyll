@@ -80,10 +80,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fine feathery red seaweed is sometimes seen on our Southern shores, attached to hard things on sandy areas including tubeworm tubes.
 
-**Features:**
+## Features
+
 Clusters of short feathery 'stems' (2-4cm long). Each 'stem' has side branches covered in fine filaments that result in a feathery appearance. Usually reddish-brown, maroon sometimes with greenish tinge.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg)

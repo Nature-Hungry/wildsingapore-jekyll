@@ -106,9 +106,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large flattened fish is sometimes seen on some of our shore.
-**Features:**
+## Features
+
 Usually 10-12cm, it can grow to 30cm. Eyes on the right side with a small curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side. Dorsal and anal fins joined with the tail fin and uniformly dark. The eyed-side is greyish brown with dark patches.
 Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
 [here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)

@@ -42,10 +42,11 @@ location:
 - tkr
 ---
 
-**Where seen?**
+## Where seen?
 Considered the thinnest recorded sponge in Singapore, this fragile sponge is sometimes seen.
 
-**Features:**
+## Features
+
 Encrusting sheet, thin fragile, but broad (10-20cm). Surface smooth and glossy with distinct white branching 'veins'. Colour pale orange.
 
 **May be confused with**

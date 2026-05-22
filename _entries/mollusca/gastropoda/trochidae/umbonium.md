@@ -92,10 +92,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This tiny pretty snail is found in the thousands, lying just beneath the sand surface on some parts of our Northern shores, on sand bars or sandy shores. In the past, however, they were more common on many of our mainland shores. Elsewhere, they are abundant on fine sandy bottoms.
 
-**Features:**
+## Features
+
 0.8-1cm. Shell thin, circular, glossy with an amazing variety of colours and patterns. It is said that no two button snails are alike! These snails are so enchanting that the guides call them the 'Jewels of Chek Jawa'.
 Operculum, thin,
 made of a horn-like material

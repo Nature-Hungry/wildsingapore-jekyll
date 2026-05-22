@@ -48,10 +48,11 @@ location:
 - tkr
 ---
 
-**Where seen?**
+## Where seen?
 This small long slug is often seen on mangrove trees, usually at night, crawling along leaves or branches.
 
-**Features:**
+## Features
+
 2-3cm. Body hard, long and narrow and rounded. Skin smooth with regular bumps. Generally greyish or brown. Sometimes with spots. One seen had opaque white spots which made it look powdery. Eyes on long thin stalks. Underside and narrow foot are white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

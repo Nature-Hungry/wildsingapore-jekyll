@@ -100,14 +100,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These surface dwelling fishes are commonly seen in mangroves and under jetties on our Northern shores. There are usually large groups of big fat archerfishes under the main bridge at Sungei Buloh Wetland Reserve. Smaller ones are sometimes seen at the Changi Village jetty.
 
 **What are archerfishes?**
 Archerfishes belong to Family Toxotidae. According to
 [FishBase](http://fishbase.org/Summary/FamilySummary.cfm?ID=337)
 : the family comprises 1 genus and 6 species found from from India to the Philippines, Australia and Polynesia.
-**Features:**
+## Features
+
 To about 20cm long. Body somewhat flattened sideways, shaped like a knife with a pointed snout and broad rear end. Large scales. Large eyes near the top of the head and large upward-facing mouth.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Shooting fish:**

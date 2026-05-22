@@ -35,10 +35,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny whelk with a fine purple line spiralling around its shell is sometimes seen in sandy areas on our Northern shores.
 
-**Features:**
+## Features
+
 About 1cm. Shell thick conical with regular ridges, and smoother portion near the front. Shell pattern pale yellow with fine purple spirals. Body pale with white spots, very long siphon and short tentacles. Operculum yellow often with a smudged black line.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Clean up crew:**

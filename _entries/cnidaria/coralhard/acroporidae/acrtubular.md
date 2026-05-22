@@ -65,10 +65,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These acroporal corals with tubular radial corallites are sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 ****
 Colonies 15-20cm. Tapering branches forming a bush-like shape. The branches don't interlock. Generally, the axial corallite at the growing tip is large and cylindrical. The radial corallites are smoothly tubular. Colours generally brown.
 

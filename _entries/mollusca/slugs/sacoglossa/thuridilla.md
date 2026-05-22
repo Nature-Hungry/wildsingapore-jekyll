@@ -81,14 +81,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 More often seen by divers, this slender striped slug is sometimes seen on the intertidal near reefs on our Southern shores. Some consider
 *Thuridilla gracilis*
 and
 *Thuridilla ratna*
 to be the same species.
 
-**Features:**
+## Features
+
 1-2cm. Body long, slender, with a pair of very short 'wings' (called parapodia). Dark to black with very thin white stripes along the body and a thin orange edge on the short 'wings'. It has two long tentacles with orange tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

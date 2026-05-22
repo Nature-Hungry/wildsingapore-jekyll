@@ -104,10 +104,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This topsy turvy jellyfish can be seasonally common on our Southern shores. Especially onPulau Semaku, found throughout the intertidal from the seagrass meadows to the reef flats. And also in the submerged reefs nearby. It is also seen on some of our other Southern shores.
 
-**Features:**
+## Features
+
 Bell about 4-12cm, with short stout branched oral arms. The oral arm length about half the diameter of the bell. There is usually a pattern of white bars on the upper and underside of the bell.
 
 The animal prefers to be 'upside down', with its bell facing the sea floor and oral arms facing upwards toward the light. When one is turned the 'right' way up, it will slowly turn itself upside down again.

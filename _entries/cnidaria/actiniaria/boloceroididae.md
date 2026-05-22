@@ -196,11 +196,12 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 Looking like an untidy mop, this anemone is sometimes seen in seagrass areas on many of our
 shores. It is possibly seasonal. Sometimes, large numbers are seen (up to 10-20 animals in a trip) and then none at all. Once, we encountered an explosion of countless tiny swimming anemones (less than 1cm across) in the seagrass meadows of Chek Jawa.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 5-8cm. The tentacles (3-4cm long) are thick at the base, tapering to slender tips. There are LOTS of tentacles (commonly more than 400). These hide the small oral disk and the mouth, which is on a cone. Some have a white band on the oral disk across the mouth. Sometimes, two of the tentacles near the mouth are prominently lighter. The tentacles are generally shades of brown with bands in darker brown or yellow. Sometimes those with spots, reddish tentacles or white stripes along the tentacle length are see. It has a short semi transparent body column and a small pedal disk which is not very sticky. It's scientific name is pronounced 'boll-loy-sir-roy-dee-des mac-moor-ree-eye'.
 
 **Sometimes mistaken for:**

@@ -63,9 +63,10 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This spiky ball- or cushion-shaped sponge is commonly seen on rock and rubble on our Northern shores.
-**Features:**
+## Features
+
 8-10cm in diameter, ball- or rounded, cushion shape with lots of large holes. Sometimes also encrusting or with lobes, fingers, or even maze-like walls. The surface is often spiky with a net- or web-like texture. Often with thin membranous lips around large openings in the sponge. Colours in pastel shades ranging from beige, lilac, blue to pale pink and beige, apparently depending on the type of symbiotic bacteria found in the sponge.
 
 When broken,

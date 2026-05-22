@@ -56,10 +56,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 These tiny creatures are well camouflaged and often only spotted by the fine tentacles that they produce. Often overlooked, they are probably common on leathery soft corals on our shores. Their name is pronounced 'ten-nah-fours'.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 1cm or smaller, body very flat with colour and patterns to match their host. Those seen so far were on large
 [Leathery soft corals](../cnidaria/coralsoft/alcyoniidae.md)
 , often with many individuals on one soft coral.

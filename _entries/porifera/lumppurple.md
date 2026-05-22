@@ -68,10 +68,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This purple sponge is sometimes seen on our Northern shores, growing on coral rubble.
 ****
-**Features:**
+## Features
+
 10-15cm. The sponge is encrusting with knobs with large holes at the tips. Colour purple.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -49,7 +49,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small banded worm is seen curled around the mouth of
 [White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides.md)
 and
@@ -63,7 +63,8 @@ belonging to the Family Eunicidae, Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 
-**Features:**
+## Features
+
 A small worm about 1-2cm long, cylindrical with tiny short legs. Usually banded brown and white. According to Chim Chee Kong, White salmacis sea urchins may have more than one worm, the largest one around the mouth, smaller ones elsewhere. Black sea urchins generally only have one worm, also around the mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -64,13 +64,14 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegant and often dark coloured cerianthid is sometimes seen on our Northern shores. In soft silty areas and among seagrasses. It is found in similar habitats as the
 [Common cerianthid](common.md)
 , but the dusky is much smaller and has more elegantly tapering tentacles.
 ****
 
-**Features:**
+## Features
+
 8-10cm in diameter. The outer tentacles are elegantly slim and tapering and some have a thin white line along the length of the long outer tentacles. It seems to have a row of thinner shorter tentacles under the long tentacles. In some, the long tentacles are paler where they attach to the oral disk. Some are dark, almost black, with the inner tentacles the same colour as the outer tentacles. Others are paler with white long tentacles and pink short tentacles. Body column pale often darker at the top edge near the base of the tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

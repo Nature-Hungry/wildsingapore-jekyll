@@ -99,10 +99,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral covered in bubbles is sometimes seen on the intertidal shores in southern Singapore. Elsewhere, they are found in reefs protected from strong waves, especially in murky water. It was previously placed in Family Euphyllidae but now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.
 
-**Features:**
+## Features
+
 Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks.
 
 This hard coral is unique in having large bubbles that obscure the skeleton. When fully inflated, the bubbles are translucent, sometimes with pale stripes and resemble grapes in shape and size (1-2cm). When not fully inflated, the bubbles may be less translucent and have one or two white tips. The bubbles are modified tentacles that inflate during the day. These bubbles contain symbiotic algae (zooxanthellae) and the expanded surface area probably helps increase photosynthesis activity. The bubbles can sting humans, so don't touch the coral. These bubbles can retract into the skeleton when disturbed, but slowly. At night, the bubbles deflate and the long tapered conical finger-like feeding tentacles of the polyp emerge. Colours include beige.

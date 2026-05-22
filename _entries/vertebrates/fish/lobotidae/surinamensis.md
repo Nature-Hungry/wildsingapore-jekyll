@@ -69,10 +69,11 @@ location:
 - tm
 ---
 
-**Where seen?**
+## Where seen?
 This fish floats on its side with its head down, so it resembles a drifting leaf or bit of floating rubbish. It was seen at Tanah Merah. Elsewhere, adults are found in bays, coastal areas and muddy estuaries and lower reaches of large rivers. Ocassionally near reefs and among floating objects far out at sea. Young fishes may be found drifting with sargassum weed, pretending to be floating leaves.
 
-**Features:**
+## Features
+
 20cm to 1m. The forehead is steeply sloping and humped. The tail fin and the ends of the dorsal and anal fins are rounded and about equal sized, thus giving the impression that the fish has three tails. Colours varies from dark or reddish brown with dark mottles to pale. Adults are dark brown or greenish yellow above, silvery grey below; pectorals pale yellow, other fins darker than body; caudal fin with yellow margin.
 
 **May be mistaken for**

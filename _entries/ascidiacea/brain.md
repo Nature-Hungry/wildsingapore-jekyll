@@ -47,11 +47,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These odd blue 'brains' are sometimes seen on our Southern shores, on rubble near reefs
 .
 
-**Features:**
+## Features
+
 10-15cm in diameter. Rubbery blobs forming on hard surfaces or on stones, with meandering ridges that resembles the surface of a brain. A few small holes seen only when submerged. Usually beige with shades of pale blue or green.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

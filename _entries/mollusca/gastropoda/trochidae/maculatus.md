@@ -155,10 +155,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a conical shell is commonly seen on our Southern shores. On large boulders, rocky shores and artificial sea walls. Usually alone or groups of a few individuals. Elsewhere, they are common in coral reefs and rocky shores.
 
-**Features:**
+## Features
+
 3-5cm, to 7cm. Shell thick heavy, conical with texture of spiraling thick beads usually hidden under encrusting lifeforms. Underside yellow with a pretty spiral pattern of brown spots. Operculum thin, flexible usually withdrawn deep into the coils of the shell.
 Body mottled, large foot, edge of the mantle sparsely fringed with long tentacles. A pair of long tentacles at the head
 .

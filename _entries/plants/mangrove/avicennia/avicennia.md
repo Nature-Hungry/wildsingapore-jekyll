@@ -89,10 +89,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 Some Api-api species are among the most commonly seen species in our mangroves. A few species, hoever, are rarely seen on our shores. According to Corners, there are 16 species seen in tropical and subtropical shores. There are 5 species in Malaya on muddy coasts and estuaries or sheltered bays, sometimes standing out to sea. But according to Tomlison, there are 8 species found in tropical shores from the intertidal to back mangroves.
 
-**Features:**
+## Features
+
 Tree up to 30m tall, those on our shores shorter, about 10-25m. Leaves simple, oval to pointed (8-12cm long), arranged opposite one another. The leaves have glands to secrete salt.
 
 The tree has pencil-like pneumatophores that stick up above the ground from underground cable roots that are long, shallow and spread out from the trunk. Generally alternating with the pneumatophores are anchoring roots that emerge from the cable roots and grow downwards. Anchoring roots may be as long as the pneumatophores are tall. Finer absorbing roots also emerge from anchoring roots.

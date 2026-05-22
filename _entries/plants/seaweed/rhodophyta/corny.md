@@ -49,10 +49,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This purple maroon seaweed with tiny rows of bumps is sometimes seen on our Southern shores.
 
-**Features:**
+## Features
+
 Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg)

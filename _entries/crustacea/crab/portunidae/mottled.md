@@ -133,10 +133,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This well camouflaged swimming crab seen on some of our shores on coral rubble and reefs. It is particularly active at night.
 
-**Features:**
+## Features
+
 Body width 4-5cm. Body rectangular, sides of the body with 5 dark blue-light blue-brown tipped spines, the fourth spine is tinier than the others.The eyes are very wide apart, between the eyes are 4-6 rounded lobes. Last pair of legs are paddle-shaped. Body has fine hairs that trap sediments, colour mottled greenish, brown, bluish. The edge of the body and segments on the body upper surface has a fine blue-brown banded pattern.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

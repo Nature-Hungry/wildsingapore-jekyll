@@ -132,7 +132,7 @@ location:
 
 Sadly, conch snails are better known to many Singaporeans as seafood. But once you've seen a living Conch, you would hardly bear to eat it. With its large eyes and lively habits (for a snail), it seems cruel to snack on it.
 
-**Where seen?**
+## Where seen?
 These snails are encountered on both our Northern and Southern shores. Some, however, are no longer as commonly seen as in the past. Conch snails, even the larger ones, are hard to spot as they are usually half buried and their shells are well camouflaged.
 
 **Jumping Snails!**

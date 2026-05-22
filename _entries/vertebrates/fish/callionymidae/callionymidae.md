@@ -113,7 +113,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Divers are more familiar with colourful dragonets seen on the reefs. But different kinds are also seen on the intertidal. These small fishes are bottom dwellers and generally found on sand or mud near reefs. When resting, most are buried in the sand.
 **What are dragonets?**
 Dragonets belong to Family Callionymidae. According to
@@ -121,7 +121,8 @@ Dragonets belong to Family Callionymidae. According to
 : the family has 18 genera and 130 species. They are found mainly in the Indo-West Pacific.
 ****
 
-**Features:**
+## Features
+
 Those seen about 3-5cm, grows to about 10cm. These fishes are bottom-dwellers. Instead of scales, the body is covered in a tough skin and usually coated with mucous that has a bad taste and smell. So they are sometimes also called stinkfishes. The gill opening is just a small hole, usually on the upper side of the head, with a strong spine near it. Most of these fishes are well camouflaged but some species can be quite colourful. In many species the males and females appear different. The males usually have an enlarged first dorsal fin that is colourful with intricate patterns.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken**

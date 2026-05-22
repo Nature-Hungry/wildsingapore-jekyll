@@ -55,10 +55,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This tiny seaweed that looks like tiny brown pimples are sometimes seen on moist shady areas in our natural rocky shores, often among other seaweeds. Elsewhere, they are generally found on limestone rocks and near caves and shady areas.
 
-**Features:**
+## Features
+
 Tiny spherical or teardrop-shaped bumps (0.5-1cm). In clusters, often tightly packed together. These emerge from creeping rhizomes that cling to the hard surface. Although it appears brown it is a red seaweed
 
 According to

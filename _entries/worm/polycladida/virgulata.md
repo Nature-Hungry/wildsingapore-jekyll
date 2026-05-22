@@ -66,10 +66,11 @@ location:
 ---
 
 **
-**Where seen?**
+## Where seen?
 Sometimes seen on some of our shores, among coral rubble near living reefs, usually at night. 'Virgulatus' in Latin means 'striped'.
 
-**Features:**
+## Features
+
 5-7cm long. Body cream-white to beige with a pattern of fine black bars of unequal length along the edges with a thin broken orange or red line along the centre. Has a pair of tentacles that extend like flaps at the front of the body.
 
 **What does it eat?**

@@ -128,12 +128,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This little cowrie is commonly seen on our Northern shores usually under stones, but sometimes crawling about in the open. Sometimes also seen on our Southern shores among coral rubble. It was previously known as
 *Cypraea errones*
 .
 
-**Features:**
+## Features
+
 2-3cm.
 Shell cylindrical, generally pale blue with 3 broad pale brown bands and small brown speckles all over.
 Sometimes, but not always, with a big brown blotch in the middle.

@@ -45,7 +45,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 There are various yellow or orange sponges which look like cones, lumpy fingers or bumps. They have yet to be identified. They are grouped together here for ease of display.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

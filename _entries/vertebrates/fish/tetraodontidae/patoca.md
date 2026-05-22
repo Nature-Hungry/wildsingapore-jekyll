@@ -101,10 +101,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This pretty spotted fat fish is sometimes seen on our shores. One was seen half-buried in a sandy stretch at Tanah Merah near a freshwater outflow. Elsewhere, it is common in estuaries and shallow waters, in sand flats, mud flats and seagrass meadows, often in schools. Juveniles are common in mangroves,
 
-**Features:**
+## Features
+
 Grows to about 33cm, but those seen were 8-12cm. The nasal organ has a pair of elongated flaps. It has a grey or brown back with large round or oval white spots. It has a yellow band along the lower side from chin to tail. The underside is white. Those seen had tail tips that were yellowish or bluish.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**

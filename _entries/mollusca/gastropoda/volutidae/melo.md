@@ -141,11 +141,12 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This magnificent large snail sometimes seen on our Northern shores and is more common on undisturbed shores. It is usually found on muddy bottoms, near mangroves and seagrasses.
 It is also called the Indian volute.
 
-**Features:**
+## Features
+
 15-20cm. Shell
 is rather thin and quite fragile for such a large snail
 . Colour beige to orange, sometimes with brown bands, others without any distinct markings. No operculum. Body huge fleshy, brown with white stripes, a large foot which is plain and pale on the underside. It has a pair of slender tentacles, a long siphon that sticks out of the notch at the front of the shell, and a long proboscis, both banded brown and white.

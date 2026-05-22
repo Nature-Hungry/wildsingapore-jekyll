@@ -59,10 +59,11 @@ galleries:
 ---
 
 **
-**Where seen?**
+## Where seen?
 The Yellow-eyed pong pong tree is a commonly planted tree in our parks and roadsides and is also sometimes seen growing wild on our shores. But the beautiful Pink-eyed pong pong tree is rare and only sometimes seen on our shores and coastal forests.
 
-**Features:**
+## Features
+
 Tree up to 15m tall, but in Singapore usually shorter. Bark fissured, flaky, grey to brown with lenticels. Produces a white sap.
 
 Leaves (12-30cm long) oval, dark green and glossy, held in dense spirals at the tips of the twigs. Flowers (about 5cm) white appearing at the tips of the twigs. Fruits (5-7cm) spherical or ovoid, with 1-2 seeds. First green then pink, rosy purple and finally black. The fruits float are dispersed by water. When they wash up, often only the fibrous husk is left, around a hard stone.

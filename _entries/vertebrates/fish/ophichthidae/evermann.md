@@ -142,12 +142,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This fat long snake-like fish is sometimes seen in reefs on our Southern shores. It is much more active at night. During one visit to Sisters Island, four of these fishes were seen hunting among the corals! It was previously known as
 *Ophichthus evermanni*
 .
 
-**Features:**
+## Features
+
 30-40cm long. Body long thick cylindrical and is only flattened towards the very tip of the tail. Distinguished by a yellowish chin and two yellowish rings around the body, one behind the eyes and another at the pectoral fins. Body pattern of irregular large dark brown or purple blotches over a pale yellowish background. It lacks scales. The snout is blunt and it has tubular nostrils. The tail tip is bony and sharp so it can burrow quickly, both forwards and backwards! It has two comically tiny rounded pectoral fins, the dorsal fin very narrow, starts above the pectoral fins. It swims by moving the body in S-shapes, rather like a sea snake.
 
 **Sometimes mistaken for**

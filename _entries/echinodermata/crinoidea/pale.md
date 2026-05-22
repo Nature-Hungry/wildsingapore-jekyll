@@ -83,10 +83,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This pale feather star is sometimes seen near living reefs.
 
-**Features:**
+## Features
+
 12-15cm in diameter. On the upperside, the darker centre is covered with many pale pinnules. The cirri on the underside is banded. With more than 20 arms. Arms are in pale pastel shades. Each pinnule is often variagated. The overall effect is generally of a pale animal, sometimes with broad portions of colour.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

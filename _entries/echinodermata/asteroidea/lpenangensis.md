@@ -63,10 +63,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This elegant sea star is seldom seen. So far, only our Northern shores at Chek Jawa and Changi. According to Lane, it was recorded from the Changi-Ubin-Tekong area.
 
-**Features:**
+## Features
+
 Diameter with arms to 8-10cm. Six arms. The arms are long, with slight constriction at the base, slightly rounded, and tapered to a pointed tip, edged with tiny spines along the sides. The upper surface of the body is covered with special flat-topped, pillar-like structures called paxillae. The underside is pale, and from grooves along the arms emerge large tube feet with pointed tips, sometimes sometimes yellowish or bright orange. The upperside is beige, greyish or pink; plain or with a darker stripe along the arms.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

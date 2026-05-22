@@ -50,10 +50,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 These delightful animals are sometimes commonly seen on our Northern shores. Usually seen among seagrasses.
 
-**Features:**
+## Features
+
 8-13cm long. Body oval with fins all around the edges, sometimes with glittering spots or dashes. Short fat arms. Body texture generally smooth and does not form into bumps or pimples.
 
 Cuttlefishes are difficult to distinguish in the field. The cuttlefishes on this page may not all be of the same species.

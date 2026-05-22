@@ -113,12 +113,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This chubby delicately patterned sea hare is seasonally common on our Northern shores, among seagrasses. Sometimes large numbers are seen, at other times, not at all. Often found half buried in the soft sediment, but sometimes crawling in the open, especially near sunrise or at night. It is also known as
 *Paraplysia geographica*
 .
 
-**Features:**
+## Features
+
 8-12cm. Body large, heavy and smooth. With two pairs of tentacles: one pair of oral tentacles forming flap at the front of the body. When compared with sea hares of the genus
 *Aplysia*
 , sea hares of the genus

@@ -65,10 +65,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 A small, well camouflaged mudskipper that is seen in mangroves and other silty shores.
 
-**Features:**
+## Features
+
 4-5cm. A tiny mudskipper with slender body.
 [Gianluca Polgar](http://www.flickr.com/photos/26529839@N08/)
 of the

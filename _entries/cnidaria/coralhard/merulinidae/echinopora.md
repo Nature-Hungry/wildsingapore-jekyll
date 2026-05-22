@@ -106,10 +106,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These delicate plate hard corals with little bumps are rarely encountered, so far only on our undisturbed Southern islands.
 
-**Features:**
+## Features
+
 Colonies 20-30cm. May be boulder-shaped, branching or form plates. Those seen were mostly encrusting thin plates often with wavy edges. Small corallites (less than 0.5cm) that form prickly bumps with characteristic prickly ridges in the spaces between the corallites. Polyp tentacles are only extended at night. Colours seen include brown, yellow, blue and purple.
 
 **Status and threats:**

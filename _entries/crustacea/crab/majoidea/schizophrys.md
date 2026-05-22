@@ -137,10 +137,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This large squat crab is sometimes seen on some of our shores, clinging to coral rubble, large boulders or hiding under living corals. Relying on its camouflage, the crab moves slowly.
 
-**Features:**
+## Features
+
 Body width 4-5cm. Body teardrop-shaped with large spines on the sides. Large eyes on short stalks with a pair of spines between them. Pincers long cylindrical, tucked downwards under the body, claws with spoon-shaped tips. Body and walking legs usually covered with encrustations, except for the ends of the pincers. Some may have small bits and pieces stuck on their bodies, but they are not as well 'decorated' as the
 [Velcro crabs](retusa.md)
 (

@@ -167,7 +167,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These strange-looking fishes are quite commonly seen on many of our shores, especially in areas with seagrasses and among coral rubble. They can be quite large but are hard to spot as they blend in well with their surroundings. Some tiny filefishes are hardly bigger than a seagrass leaf and are often the same colour as the seagrasses! So do watch your step to avoid squashing these small fishes.
 
 **What are filefishes?**
@@ -175,7 +175,8 @@ Filefishes belong to Family Monacanthidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=517)
 : the family has 31 genera and 95 species. They are found in the Atlantic, Indian and Pacific Oceans. They range from small fishes about 2cm long to giants 1m long!
 
-**Features:**
+## Features
+
 Adults 10-30cm. Body flattened sideways and disc-shaped to rectangular. Eyes are high on the head. The gill openings are just slits.
 
 Usually two dorsal spines, the second may be much smaller or absent. The dorsal spine is usually long stiff with downward pointing barbs on the edges. This feature gives it its scientific name:

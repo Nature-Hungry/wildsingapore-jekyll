@@ -111,12 +111,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This worm with large feathery tentacles is often seen
 in living hard corals, as well as dead coral rubble
 , on many of our shores.
 
-**Features:**
+## Features
+
 Fan 6-8cm in diameter. The fan is banded white and brown. Usually found alone, rarely a few next to each other. Like other fanworms, it is shy and rapidly retracts into its leathery tube at the slightest sign of danger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

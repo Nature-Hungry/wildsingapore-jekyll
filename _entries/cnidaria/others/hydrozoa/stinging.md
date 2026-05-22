@@ -143,10 +143,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This colony of tiny animals can be common on some offshore Northern shores, forming alarming large colonies. Sometimes also seen on our Southen shores. It grows on coral rubble or hard surfaces.
 
-**Features:**
+## Features
+
 Colonies can be 20-30cm wide. Made up of black thin branches (4-20cm long) with feathery side branches. Some look like clumps of grass with long, sparsely branched or unbranched stems (10-20cm). Others are bushier with stems that have more branches and fern-like structures (1-3cm long).
 
 *Macrorhynchia philippina*

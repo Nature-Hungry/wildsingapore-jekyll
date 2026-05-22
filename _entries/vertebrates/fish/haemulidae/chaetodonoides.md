@@ -94,10 +94,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This delightful fish with cartoonish spots and which swims in frantic wiggles is sometimes seen on some of our shores. Divers also sometimes encounter it. Juveniles are seen in weedy areas, near reefs and seagrasses. Adults are seen near reefs in schools.
 
-**Features:**
+## Features
+
 Juveniles about 10cm are brown with large round black-ringed white spots. Large rounded tail and other fins which are white edged. The juvenile is usually solitary. Adults to about 60cm, as they grow up, the brown areas break up, black spots develop in the white areas, the spots becoming smaller with age.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Wiggly swimmer:**

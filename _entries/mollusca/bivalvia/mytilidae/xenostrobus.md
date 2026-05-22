@@ -73,14 +73,15 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This tiny black mussel is sometimes seen in clusters of many individuals on large boulders at the midwater mark. Grows among oysters, barnacles and other encrusting animals there. Dull greyish ones are sometimes seen in small clusters on mangrove trees and their roots in the mangroves. These may be
 *Xenostrobus*
 cf.
 *atratus*
 .
 
-**Features:**
+## Features
+
 1-2cm long. The two-part shell is shiny black, thin, fragile and smooth. Those growing on rocks produce byssus threads, sometimes these form a kind of nest in which the tiny mussels are embedded. But the 'nest' is not as thick and spongy as the mats created by
 [Nest mussels](musculista.md)
 .

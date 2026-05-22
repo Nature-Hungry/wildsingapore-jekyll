@@ -119,12 +119,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This strange animal is a bivalve that is tubular. It is sometimes seen among seagrasses on our Northern shores. It was previously known as
 *Brechites penis*
 .
 
-**Features:**
+## Features
+
 About 12cm long.The broader end is perforated with tiny holes and this is usually buried in the ground with the narrow tip facing the surface. Siphons emerge from the narrow tip. The broader end
 resembles a watering can, hence its common name. There are two tiny oval shapes which is all that remains of the two valves of this strange bivalve.
 **Status and threats:**

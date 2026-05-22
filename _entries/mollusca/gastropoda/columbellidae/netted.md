@@ -99,7 +99,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This little snail with a net-like pattern on the shell is sometimes seen in small groups under stones on some of our Southern shores. It was previously known as
 *Pyrene pardalina*
 and
@@ -108,7 +108,8 @@ and
 *Pardalina testudinaria*
 .
 
-**Features:**
+## Features
+
 1.5-2cm. Shell thick, pale (white or beige) with a net-like pattern of dark thick lines.
 *Testudo*
 means tortoise or turtle, perhaps referring to this shell pattern. Operculum is narrow and made of a horn-like material. Some seen have shells that are very thin at the shell opening: possibly a young snail?

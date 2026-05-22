@@ -168,10 +168,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This enormous colourful anemone with short skinny tentacles is commonly seen on our Southern shores, usually on coral rubble near reefs. It is also sometimes seen on coral rubble on our Northern shores.
 
-**Features:**
+## Features
+
 Those seen about 40-50cm in diameter when exposed out of water. The oral disk expands when submerged. The large oral disk covered with short tentacles so that it resembles a shaggy carpet. The oral disk is often folded and rarely held flat against the surface, unlike
 [Merten's carpet anemone](mertensii.md)
 . The long body column is usually buried or inserted into a crevice and ends in a pedal disk that anchors the animal.

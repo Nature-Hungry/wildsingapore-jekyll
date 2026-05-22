@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These seaweeds are made up of small, hard segments that are joined together. They are commonly seen on many of our shores, usually growing on coral rubble or among living corals, as well as in sandy areas near reefs. Sometimes forming rather large 'thickets' covering an area of 40-50cm.
 
-**Features:**
+## Features
+
 An upright chain of joined up coin-like flattened segments. Each coin-like segment is hard as it is impregnated with calcium carbonate. These segments may be circular or other shapes, some are thick and flat, others thinner with crinkled or ruffled edges. The portions between the segments are not calcified, so the 'string' of coins is rather flexible.
 
 A new segment develops from the top and can appear rapidly, within 1-2 days! In some species, the segments are anchored by one large long bulbous holdfast. In others by a small holdfast of matted filaments, and yet others in inconspicuous patches of root-like structures emerging from segments or nodes.

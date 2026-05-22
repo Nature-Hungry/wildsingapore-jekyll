@@ -126,10 +126,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small animal with little balls at the tips of its transparent tentacles is seen growing on hard surfaces. Rocks and coral rubble in clusters of a few individuals. Sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 1.5-4cm. Tentacles many, long thin, transparent with a ball-shaped tip that is usually white or a bright colour. Body column smooth, colours seen include brown, orange, red, pink, bright blue. Oral disk usually brown with whitish or paler centre. Central mouth conical, often pale and usually protruding even when the tentacles are tucked into the body column.
 
 **Status and threats:**

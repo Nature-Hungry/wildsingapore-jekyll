@@ -41,7 +41,7 @@ galleries:
       caption: "'Attap chee' slug"
 ---
 
-**Where seen?**
+## Where seen?
 These odd snails and slugs seen on some of our shores with seagrasses and mangroves.
 
 **What are headshield slugs?**
@@ -53,7 +53,8 @@ and
 [Subclass Opistobranchia](../../slug.md)
 ) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
 
-**Features:**
+## Features
+
 Most have shells that are indeed bubble-like; thin and round. While some have shells large enough to contain the entire animal, in others, the shell is reduced or internal. All have a well developed headshield, used to plough beneath the sand. They have no tentacles. Tailed-slugs of the Family Aglajidae have a long, cylindrical body with a pair of 'wings' (called parapodia) which fold over the centre of the body as well as a pair of 'tails, one longer than the other. They have tiny shells which are internal.
 
 **What do they eat?**

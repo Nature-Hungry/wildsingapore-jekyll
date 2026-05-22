@@ -74,10 +74,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 Large lobsters are sometimes encountered in Singapore! In deeper water at reefs, underwater rocky areas, even artificial sea walls and jetties. Sadly, often also entangled in abandoned driftnets. Elsewhere it is found in shallow, sometimes slightly murky coastal waters, from 1-8m, in sandy and muddy, sometimes on rocky bottoms, often near the mouth of rivers, but also on coral reefs.
 
-**Features:**
+## Features
+
 25-35cm long, up to 50cm long. Long abdomen with broad tail, large pincers, one larger than the other.
 ****
 Two pairs of very long thick antennae. Wide range of colours.

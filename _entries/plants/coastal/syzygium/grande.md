@@ -66,12 +66,13 @@ links_references: |
   . Sun Tree Publishing. 392pp.
 ---
 
-**Where seen?**
+## Where seen?
 This large and handsome tree which mass flowers once a year is commonly planted. It is also sometimes seen wild on our shores. According to Hsuan Keng, it was common on sandy and rocky shores and is a widely planted roadside tree. According to Corners, it is never wild inland. A coastal tree that is found throughout the Malay Peninsula and Thailand, Indo-China, Myanmar and Borneo. It was previously known as
 *Eugenia grandis*
 .
 
-**Features:**
+## Features
+
 A tall tree (to 30m) that grows quickly. Crown oblong to irregular. Leaves shiny, leathery (12-18cm) with short stalks and distinctly downturned tip and 9-13 well spaced pairs of veins. The leaves are arranged opposite, in pairs. No stipules and no latex from broken parts. The trees flower at the same time after a dry season, usually once, sometimes twice a year. The white flowers are pom-pom like with white petals and many white stamens, appearing in clusters. They last 4-5 days. Corners describes them as having a 'sickly sweet' fragrance, and the mass flowering as 'most striking', with 'the crown whitened as with snow'. Fruits oblong to almost spherical (1.5-4cm), green leathery skin when ripe with a single seed. Bark is rough, greyish and shallowly fissured and somewhat flaky. The base of the trunk may be fluted but never buttressed.
 
 **Role in the habitat:**

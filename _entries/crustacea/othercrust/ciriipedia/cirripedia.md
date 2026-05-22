@@ -102,7 +102,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Barnacles are often ignored as our attention is drawn to more colourful and attractive shore animals. But barnacles are fascinating in their own right! Barnacles will grow on any hard surface immersed in seawater, so they are found literally everywhere in the intertidal zone. Barnacles are found on rocks, mangrove trees, pillars, boats. Barnacles are even found on other animals such as
 [whales](http://www.biosbcc.net/ocean/marinesci/05nekton/GWsouth.md)
 and sea snakes. There are often even barnacles on top of other barnacles!
@@ -112,7 +112,8 @@ Barnacles are
 [crustaceans](../../crustacea.md)
 like crabs and shrimps. But they belong to a different group, their own Class Cirripedia. There are about 900 species of barnacles.
 
-**Features:**
+## Features
+
 Barnacles are often mistaken for snails because of their hard 'shells'. However, barnacles as actually crustaceans. The larvae of barnacles are shrimp-like and swim freely. As it develops, the larvae eventually glues itself head down onto a hard surface and develops a conical outer shell-like structure made up of several plates (wall plates). There is an opening at the centre of this 'shell'. At low tide, the opening is sealed by a door (operculum) made up of a pair of plates. A barnacle without these plates is a dead barnacle! Some barnacles species can be identified by the shape of the operculum plates and number of wall plates.
 
 **Sometimes confused with**

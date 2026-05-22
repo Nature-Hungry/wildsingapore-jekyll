@@ -103,10 +103,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This colony of tiny animals is often overlooked. However, they are commonly seen on our Southern shores and may cover large areas in scattered clumps. Near the mid-water mark, on rocky shores and among coral rubble.
 
-**Features:**
+## Features
+
 Colony about 5-10cm in area. Only one kind of polyp (autozooids) emerging from a thin soft common membrane which can also be ribbon-like (stolons) although this is usually hidden under sand and sediment. Polyps 1cm in diameter, on stalks about 1-2cm long. The eight tentacles are broad and have many thick side branches (pinnules) arranged in 1 to 4 rows along both edges of each tentacle. Some have long tentacles, in others the tentacles are shorter.
 
 The tiny polyps usually don't retract completely into the common tissue, and don't pulsate.

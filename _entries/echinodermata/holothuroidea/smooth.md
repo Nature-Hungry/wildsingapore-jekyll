@@ -98,10 +98,11 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 These large smooth sausage-like sea cucumbers are commonly seen on our Northern shores, often found half buried in sand bars near seagrasses.
 
-**Features:**
+## Features
+
 10-15 cm long. Body cylindrical and smooth to the touch and somewhat slimy and slippery. One end usually pointed. The feeding tentacles short and stubby. Colours generally uniform: purplish, pale orange or white, with dark flecks and spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

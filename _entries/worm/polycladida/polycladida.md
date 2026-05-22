@@ -130,7 +130,7 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Marine flatworms are ferocious predators that glide around the shores like liquid death. They are common on all our shores. Ranging from tiny ones found under rocks to larger monsters that roam out in the open. Some are brightly coloured and patterned, others blend with their surroundings. Flatworms are usually more active when it is dark when they skim the ground with elegant ruffles of their body edges, or even swim short distances in the water.
 
 **What are flatworms?**
@@ -148,7 +148,8 @@ and
 [how to tell them apart](../../glossary/flatwormslug.md)
 .
 
-**Features:**
+## Features
+
 Most are about 1cm long or less, although some 'monster' species 8-10cm long are also commonly seen. There are also countless minute free-living flatworms that live among sand grains. These flatworms stick onto the sand grains with paired glands on their underside. One gland secretes a glue, and the other gland another substance to release the glue.
 
 Flatworms are generally oval or leaf-shaped, some have highly ruffled edges. Some flatworms have tiny tentacles over their heads. Most of the commonly seen flatworms only have pseudotentacles on their heads, a pair of tiny ear-like structures made out of folded edges of their bodies. They are not real tentacles like those of a snail.

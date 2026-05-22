@@ -71,10 +71,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This boulder-shaped hard coral with small circular corallites are commonly seen on many of our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-15cm, sometimes larger, a smooth boulder shape. The corallites have separate walls, although this may not be very obvious as the corallites are packed quite close to one another. The walls have tiny, sharp protruding 'teeth'. The corallites are generally circular or a smooth oval. The result is a regular pattern of small white circular holes with purple walls. The polyp is fleshy with lots of short tentacles, oftern white or greenish.
 
 The corals on this page may not actually be of the same species. It's hard to distinguish them without close examination of small features and they are grouped here together for convenience of display.

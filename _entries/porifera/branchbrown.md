@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brown branching sponge with a prickly surface is often seen on coral rubble on some of our Southern shores.
 ****
-**Features:**
+## Features
+
 10-15cm. The sponge may be dome shaped without any protrusions, or have knobs, rounded fingers, lobes or branching (4-10cm) emerging from an encrusting base. Few small holes at the tips of the rounded branches, as well as other parts of the sponge. Surface with tiny bumps, that appears spiky and prickly when the sponge is out of water. Colour usually a uniform brown, also orangey or yellow.
 
 Sometimes, another

@@ -68,12 +68,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This little hermit crab is commonly seen on some of our shores, in coral rubble near the low water mark, sometimes on living corals and sea fans. Previously known as
 *Paguristes monoporus*
 .
 
-**Features:**
+## Features
+
 Body about 1-1.5cm long, pale or yellowish with dark or bluish speckles in bands. Right pincer usually larger than the left. Legs sparsely hairy, with black bars in bands. Short antennae banded orange-bright blue with orange feathery tips. Eyestalks banded orange-bright blue-orange. Long antenna banded maroon or dark brown with white dots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

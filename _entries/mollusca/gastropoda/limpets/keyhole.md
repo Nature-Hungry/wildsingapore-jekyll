@@ -68,10 +68,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 These small limpets are sometimes seen under stones, usually alone, on some of our shores.
 
-**Features:**
+## Features
+
 About 1cm long. Shell conical with fine ribs. It has a hole in the top of its shell, through which wastes are excreted. Body plain white with a pair of feathery gills. Keyhole limpets are true limpets that breathe through gills.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

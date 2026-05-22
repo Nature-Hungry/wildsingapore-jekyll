@@ -118,12 +118,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This fat pipefish is sometimes seen on our Southern shores. Many were discovered during a seine net survey of Cyrene Reef among thickets of long among
 [Tape seagrasses](../../../plants/seagrass/enhalus.md)
 . It is generally found in sheltered coastal shallows among seagrasses and seaweeds.
 
-**Features:**
+## Features
+
 20cm, grows to about 29cm. Body long and angular cylindrical tapering to a thin tail. It has a pair of tentacles on a long narrow snout. It is sometimes also called the Double-ended pipefish probably because both ends look similar. The tail is prehensile and does not have a tail fin. Females often have dark spots or blotches. The males carry the eggs below the body and tail. May be green, brown or grey, to match their surroundings.
 
 **Sometimes mistaken for**

@@ -64,10 +64,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This squid with a triangular fin is sometimes seen on our reefs. Elsewhere, may be found in deeper waters 30 to 170m.
 
-**Features:**
+## Features
+
 8-10cm long, may grow to 30cm long and weigh 1.5kg. Body long and slender with triangular fins at the rear end. Arms about half the length of the body, slender.
 
 **What does it eat?**

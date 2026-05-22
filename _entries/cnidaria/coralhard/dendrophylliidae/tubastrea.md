@@ -153,7 +153,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These small hard corals grow in dark places. Tiny colonies can grow profusely on jetty legs and pontoons especially in the South but also on Northern shores. Most are
 *Tubastraea*
 species but

@@ -32,12 +32,13 @@ links_references: |
   Vertebrate Study Group, Nature Society (Singapore). 180 pp..
 ---
 
-**Where seen?**
+## Where seen?
 This 'machine-gun' frog is more often heard than seen. It is common in the back mangroves as well as scrubby areas, disturbed forests and even parks. It is also found on some of our offshore islands. More active at night and after rain. It was formerly known as
 *Rana crancrivora*
 .
 
-**Features:**
+## Features
+
 It has a loud rattling call that reminds of the 'rat-a-tat-tat-tat' of a machine gun (here's a
 [sound clip of the call](https://soundcloud.com/user-594921597/fejervary-cancrivora-crab)
 by the Herpetological Society of Singapore). Total length to 8cm. A stout frog with long muscular back legs which have webbed toes. It has ridges on its back. It is greyish brown with irregular blackish blotches and a slanting yellowish stripe on the sides. Adult males have a white throat with dark grey patches at the corners of the jaw.

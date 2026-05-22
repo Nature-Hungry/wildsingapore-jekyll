@@ -147,10 +147,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This amusing tiny ball-shaped crab with enormously elongated pincers is sometimes seen on natural sand bars. While the shy crab itself is seldom seen (it hides as soon as it senses footsteps far away), the balls of sand that it leaves on the shore at low tide indicate where it is active. To spot one, you will have to wait quietly next to a burrow. Stay low and avoid casting a shadow over the burrow. In a few minutes, it and its neighbours will appear. If you stay still, they will go about their amusing business
 
-**Features:**
+## Features
+
 Body width to about 1.5cm. Body spherical, greenish eyes on short thick reddish stalks. Pincers very long, slender and folded downward with the claws pointed towards itself. The crab is well adapted for life out of water: it can absorb air through special parts of its legs which are thinner. It also absorbs water from the sand through silky hairs on the abdomen. Unlike most crabs, the soldier crab can run forwards as well as sideways. And it can move very fast indeed!
 
 *Dotilla wichmani*

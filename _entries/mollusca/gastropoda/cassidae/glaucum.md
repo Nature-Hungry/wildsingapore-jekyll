@@ -137,10 +137,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful snail was seen on sandy areas near lush seagrass meadows. Elsewhere, they are considered common on sandy bottoms, especially on exposed sand flats and close to dead coral areas. Intertidal and shallow subtidal zones to a depth of about 10 m.
 
-**Features:**
+## Features
+
 8-12cm long, elsewhere about 9cm, up to 14cm. Shell typical helmet shape with a large body whorl and tiny spire, thus resembling a bonnet. The shell is smooth and grey without any markings. It has a notch in its shell so that its siphon can be extended vertically upwards like a snorkel, probably allowing it to breathe while it stays beneath the sand to hunt or eat its prey. It has a white body and large yellowish foot which is edged in brown, the operculum is fan-shaped and bright yellow.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

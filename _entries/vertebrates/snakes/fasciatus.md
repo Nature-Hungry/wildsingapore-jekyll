@@ -77,12 +77,13 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 Usually rarely seen, this beautiful snake was the highlight of the Chek Jawa boardwalk grand opening! The Singapore Snakes blog
 [also reported](http://singaporesnakes.blogspot.com/2006/05/banded-krait-bungarus-fasciatus_29.html)
 swimming near mangroves on an offshore island. According to Baker, in Singapore it has also been recorded in Pulau Ubin, Pulau Tekong, Lim Chu Kang, Sungei Buloh and Khatib Bongsu. Widely distributed in Southeast Asia where it is mostly a coastal snake, but also found in peat swamps and also estates.
 
-**Features:**
+## Features
+
 ****
 1.5-2m long. The body has a triangular cross-section. It has regular black and white bands of equal size. The head is mostly black and is somewhat distinct from the body (it has a 'neck'). The black patch on the head forms a V-shape with the first black band on the body. The tail is not flattened into a paddle shape although it is somewhat triangular like the rest of the body. A highly venomous snake with a toxin that can be fatal to humans with recorded fatalities. But is not an aggressive snake and it will not bite if it is left alone. When it is scared, it will hide its head under coils of its body. Although it has also been recorded as being active and dangerous at night. WARNING: more aggressive baby cobras (
 *Naja sumatrana*

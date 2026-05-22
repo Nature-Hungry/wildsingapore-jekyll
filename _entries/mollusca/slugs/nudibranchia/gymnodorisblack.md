@@ -78,10 +78,11 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 These tiny black nudibranchs with yellow spots are sometimes seen on some of our Northern shores. Among seaweeds and seagrasses. It appears to be seasonally common; several seen during a visit, then none seen for some time.
 
-**Features:**
+## Features
+
 1cm or less. Body black with yellow spots.
 
 **What do they eat?**

@@ -71,10 +71,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucumbers and sea urchins.
 
-**Features:**
+## Features
+
 0.1-0.5cm. Long conical shell, usually white some have brownish patterns. When not attached to a host, they may float on the water surface, often forming 'rafts' sticking to one another.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

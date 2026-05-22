@@ -93,7 +93,7 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 These fishes are rarely seen naturally on the shore at low tide. They are more often encountered by divers in deeper waters. Those we've seen were sadly captured in fish traps or already in a fish tank.
 
 **What are angelfishes?**
@@ -101,7 +101,8 @@ They belong to Family Pomacanthidae which has 9 genera and 74 species. They are 
 [Family Chaetodontidae](../chaetodontidae/chaetodontidae.md)
 ) and were previously placed in the butterflyfish family.
 
-**Features:**
+## Features
+
 Their bodies are flattened sideways with an overall shape that is rather rectangular. In many anglefish species, the juveniles are often very different from the adults, with strikingly different colours and patterns. There have been many theories about the purpose of the dazzling patterns of these fishes, but none have been proved with certainty. One theory is that the patterns break up the body outline under the patches of shadows and sunlight in the colourful reef environment where they are found.
 
 Some large species can produce a loud drumming or thumping sound.

@@ -104,11 +104,12 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Sea lettuce looks just like its namesake land plant. Seasonally, there is an explosive growth or 'bloom' of this
 seaweed. It is then so abundant that a thick soft 'green carpet' of washed up sea lettuce blankets the high shores. Be careful! The seaweeds can be slippery and conceal rocks and other things that might trip you or poke you. Also, many animals hide under this seaweed. Try not to step on this 'green carpet'.
 
-**Features:**
+## Features
+
 A thin blade which is only two cells thick! This allows sea lettuce to grow rapidly in nutrient-rich water as it has a high surface to volume ratio. Compared to most other seaweeds, sea lettuce species can better tolerate being exposed during low tide. So it grows near the shore. The blade is attached with a small holdfast, usually embedded in the sand or attached to a hard surface. During a 'bloom', large amounts can float freely and blanket a large stretch of the shore. Usually bright green, sometimes with a yellowish tint.
 
 **Which

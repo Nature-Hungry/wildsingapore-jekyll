@@ -153,7 +153,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Crabs belonging to this family include some of the most commonly encountered on our shores during the day:
 [fiddler crabs](uca.md)
 (
@@ -174,7 +174,8 @@ spp.) and
 *Ocypode*
 sp.) are only active at night.
 
-**Features:**
+## Features
+
 Members of the family Ocypodidae are distinguished by eyes on stalks, usually set close together. Some have very long stalks indeed, relative to their body size. These eye-stalks fold away into grooves on the body, so the crab can scramble into hiding places without breaking the stalks. Their bodies tend to be squarish, although some like sand bubbler crabs and soldier crabs have almost spherical bodies. "Ocy" means fast and "podi" foot in Greek. And indeed, most are fleet footed indeed!
 
 **What do they eat?**

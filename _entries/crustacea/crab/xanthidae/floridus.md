@@ -201,12 +201,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This round well-camouflaged crab is commonly seen on our Southern shores, among coral rubble or reefs. But sightings usually not as numerous as the
 [Red egg crab](integerrimus.md)
 - perhaps because it is more well camouflaged? It is more active at night.
 
-**Features:**
+## Features
+
 Body width 8-10cm. Body oval, smooth surface and smooth body edge decorated spaced out little circles. Body colour greenish- and greenish-blue-brown. 'Floridus' in Latin means 'flowery' and indeed, the body of adults always have a fine network of fine lines white or yellow that forms a delicate lacy floral pattern. Also called the Shawl crab because the lacy white pattern resembles a shawl. Large pincers both about equal in size, smooth (no pimples) with black tips that are spoon-shaped. Males may have larger pincers. Walking legs thick squarish with lilac edges, not hairy.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

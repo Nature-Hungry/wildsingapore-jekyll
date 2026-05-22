@@ -80,7 +80,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This seagrass is abundant on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus.md)
 (
@@ -89,7 +89,8 @@ This seagrass is abundant on Pulau Semakau, growing among the more dominant
 
 Noodle seagrass is found throughout the tropical Indo-West Pacific region. Elsewhere, it can form thick tall stands without any other seagrass species. It can also grow among other seagrasses species, where it is then smaller. It is rarely found in shallow intertidal areas. It appears to respond rapidly to increased nutrient availability.
 
-**Features:**
+## Features
+
 **
 Leaves of those seen were 5-10cm long, but elsewhere, they can grow to 50cm long. The seagrass has tubular leaves much like a thick noodle! Unlike other seagrasses that are flat, noodle seagrass is circular in cross-section. The leaves have a smooth pointed tip. The rhizomes (underground stems) are slender (1.5mm in diameter). Shoots emerge from these rhizomes, each shoot with 2-3 leaves, the lower portions encased in a sheath. Longer shoots tend to be branched and found in calmer waters. As the leaves contain air cavities, they float easily when detached. Older leaves tend to break off as they become brittle. Elsewhere, these may form dense rafts that float and wash ashore.
 

@@ -113,10 +113,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This nudibranch covered in bead-like bumps is sometimes seen on on our Northern shores among seagrasses and seaweeds. It appears to be seasonally common, often many seen during a single visit, then not seen again for some time.
 
-**Features:**
+## Features
+
 4-5cm long. Hard broad body covered with rounded bumps of different sizes. With a broad band down the centre of the body which has fewer or no bumps and is usually darker in colour. Colour usually pale beige, brown, pinkish. Sometimes with a few darker smudged bars perpendicular to the body margin. The body doesn't fall apart when handled. Gills feathery and orange. The underside is pale with some smudged darkish blotches on the margins. The narrow foot is plain.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

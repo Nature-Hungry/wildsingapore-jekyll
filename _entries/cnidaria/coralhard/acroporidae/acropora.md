@@ -134,12 +134,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These corals can form delicate colonies that resemble miniature underwater forests. They are always a delight to encounter. Sometimes seen on many of our Southern shores, larger colonies are more commonly seen on undisturbed and remote reefs. The genus
 *Acropora*
 has the largest number of species of all the hard corals. The scientific name is usually pronounced as 'ah-crop-or-ah'.
 
-**Features:**
+## Features
+
 ****
 Colonies seen usually 15-20cm, but on undisturbed shores can be 50cm or larger. Many grow into branching forms that give rise to common names like 'staghorn coral'. For some, the entire colony often has a flat top so they are sometimes also called 'table-top' or 'table coral'. Others appear bushy. Branches are generally cylindrical with corallites appearing all around the branch.
 

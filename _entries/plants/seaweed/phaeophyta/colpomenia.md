@@ -91,10 +91,11 @@ location:
 - jng
 ---
 
-**Where seen?**
+## Where seen?
 These odd lumpy brown bubbles are sometimes seen on our shores, growing on rocks and coral rubble. In some places, they can dominate small areas for a period of time, turning the location a golden brown.
 
-**Features:**
+## Features
+
 Small bubbles 1-6cm, covering a small area, but sometimes many clumps of bubbles may cover an area of 1m or more. A crisp outer membrane with a smooth somewhat shiny texture, encasing a hollow interior. The seaweed starts growing as a single rounded blob and as it gets bigger may form sheets with irregular wrinkled blobs or puffed up lobes. Colours range from beige to yellowish brown.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg)

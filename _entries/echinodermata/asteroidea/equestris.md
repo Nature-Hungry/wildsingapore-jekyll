@@ -85,15 +85,16 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This sea star is rarely seen, so far only on our Southern shores. Previously recorded from trawls in the Johor Straits and off the Southern Islands. It is broadly distributed in the Indo-Pacific from East Africa to Australia and southern China and Japan. According to Marsh and Fromont, it is found on mud or muddy sand in Australia. It was previously called
 *Stellaster equestris*
 .
 
-**Features:**
+## Features
+
 Diameter with arms about 8cm. It has long skinny arms with large smooth marginal plates on the edges and sparse short stumpy spines. There are tiny conical points on the upperside. The underside is white and smooth sometimes with colourful markings. It has short tube feet tipped with suckers. As its common name suggests, it does indeed 'gallop', moving in a series of jerks or leaps through synchronised stepping action of its tube feet.
 
-**Where seen?**
+## Where seen?
 According to Marsh and Fromont, the stomach has been seen filled with sand, mud and foraminfera.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

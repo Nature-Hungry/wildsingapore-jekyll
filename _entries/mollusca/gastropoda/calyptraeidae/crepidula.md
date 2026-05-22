@@ -60,7 +60,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This snail is commonly encountered inside a shell occupied by a
 [hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
 . It is also sometimes found on the underside of
@@ -69,7 +69,8 @@ This snail is commonly encountered inside a shell occupied by a
 *Crepidula walshi*
 .
 
-**Features:**
+## Features
+
 1-3.5cm.
 Shell thin, conical or flat, usually white
 .

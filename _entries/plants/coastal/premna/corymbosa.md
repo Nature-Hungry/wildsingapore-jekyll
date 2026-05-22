@@ -54,14 +54,15 @@ galleries:
       caption: "References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This plant with tiny flowers on a branched cluster is commonly seen on many of our wild shores. It is also apparently known as
 *Premna angustior, Premna integrifolia*
 as well as
 *Premna obtusifolia*
 . Plants of the genus Premna have a 'rather foetid tissue' according to Corners. And indeed, the crushed plant does have an odd, rather unpleasant smell. One of its Malay names is Buas-buas. 'Buas' in Malay can mean fierce or wild. The plant seems harmless enough, so I'm not sure how its name came about.
 
-**Features:**
+## Features
+
 According to Corners, the species is "so variable that it is still undecided whether it does not consist of several species". The typical form is of those that grow on rocky and sandy coasts. The plant first starts as a climber or 'straggling shrub' eventually developing a 'stout stocky trunk' and a bushy crown to become a tree up to 5m tall. The leaves are leathery, light green and comes in various shapes. From spoon-shaped with rounded tips to almost heart-shaped with pointed tips.
 
 The tiny white flowers appear on a many branched cluster that resembles a little white tree. 'Corymbus' means cluster or bunch of flowers. The tiny fruits are oval and black.

@@ -157,11 +157,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 **
 This tiny nudibranch is sometimes seen on coral rubble and seaweeds near reefs on our Southern shores. Relatively regular encounters suggest they may be quite common but often overlooked because they are so tiny.
 
-**Features:**
+## Features
+
 About 1cm long. Body very long and slender, dark with fine white ridges with an even finer yellow line down the centre of the ridges. Yellow body margins, dark rhinophores, a white wedge-shaped flap over its mouth (oral veil) also with yellow margins. The underside is white. It lacks a feathery gill on its back.
 
 **Sometimes confused with**

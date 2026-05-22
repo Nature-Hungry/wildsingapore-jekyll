@@ -92,12 +92,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This boldly marked swimming crab is not often encountered on the intertidal, perhaps it is more common in deeper water. Said to inhabit sandy-muddy bottoms. Sometimes seen hiding under sea anemones. Media articles suggest this crab is not often encountered in our part of the region. It is also known as
 *Charybdis feriatus*
 .
 
-**Features:**
+## Features
+
 Body width 5-7cm, to 20cm. Body somewhat fan-shaped, with 5 spines on the sides. The eyes not far apart. Last pair of legs are paddle-shaped and rotate like boat propellers. Body with bold wide dark lines often with a distinctive white cross in the centre of the body which gives it its common name. Legs with dark bands, pincers with white spots on dark background.
 
 **Holy crab?**

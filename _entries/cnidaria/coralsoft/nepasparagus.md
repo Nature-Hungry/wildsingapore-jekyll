@@ -108,10 +108,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large purplish flowery soft coral is commonly seen on our Southern shores. When out of water with the polyps retracted, the tips of this soft coral looks like asparagus spears. Usually among living hard corals on the reef flats.
 
-**Features:**
+## Features
+
 Colony bushy 15-20cm to 50cm. Colony is branched with thick study 'stems' emerging from a stout central 'trunk'. The 'stems' may be white, lilac or purple. Polyps tiny (about 0.5cm) with eight beige or brown branched tentacles. The polyps appear in clusters only at the tips of the branches, the rest of the colony smooth. No obvious large spikes among the polyps. When the polyp tentacles are retracted, the body column forms little lumps, the entire colony may appear purplish or lilac, and the rounded lumps give the 'stems' the appearance of asparagus spears. With the polyps tentacles expanded, the colony appears brown and fluffy. The animals harbour symbiotic algae (zooxanthellae) and thus can be found in clearer water.
 
 **Sometimes confused with**

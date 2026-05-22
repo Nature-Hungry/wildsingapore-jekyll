@@ -122,7 +122,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fat little green shrimp is sometimes living among branching corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 (
@@ -133,7 +133,8 @@ sp.) and
 *Montipora*
 sp.). It is usually well hidden and hard to spot and photograph.
 
-**Features:**
+## Features
+
 About 1cm long. Body is short and fat, with a bent back. Large eyes wide apart. Usually dark green with fine stripes of white, black, red and blue.
 
 **Double snap:**

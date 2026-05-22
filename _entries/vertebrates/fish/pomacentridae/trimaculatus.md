@@ -77,14 +77,15 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This black anemonefish with white spots is sometimes seen on our submerged reefs, living in a
 [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea.md)
 , often sharing the anemone with
 [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis.md)
 . Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals. Adults found in pairs or small groups around coral mounds or rocks.
 
-**Features:**
+## Features
+
 To 11cm. Juveniles are jet black with white blotch on forehead and on the sides near the upperside of the body. As they age, the spots fade. Adults are greyish with variable 'spottiness', some with no spot on forehead; or very reduced side spot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

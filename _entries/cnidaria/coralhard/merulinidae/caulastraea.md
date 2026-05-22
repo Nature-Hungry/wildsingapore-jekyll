@@ -91,10 +91,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These smooth pillows of hard corals with round to oval corallites are sometimes seen on some of our Southern shores. It was previously in Family Faviidae.
 
-**Features:**
+## Features
+
 The colony appears to be boulder-shaped, those seen 10-20cm or larger. But the colony is not solid (massive). The corallites are branching and trumpet-shaped (phaceloid): long narrow column flaring out at the top to a circular or oval shape (1-2.5cm diameter). The branching corallites may be packed closely to one another, or spaced apart. They are arranged with the broad, flared portions facing out so the colony forms an overall spherical shape. The tissue is fleshy, smooth, sometimes with bands in a contrasting colour. Tentacles many short, slender with bulbous tips. Tentacles are seldom seen. The circular or oval top of the corallite resemble eyes particularly when highlighted by the fleshy tissue. This results in common names such as bullseye coral and cat's eye coral. Colours seen include beige, brown, blue and greenish or purplish.
 
 **Hiding places:**

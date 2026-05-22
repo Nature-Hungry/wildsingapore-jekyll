@@ -71,7 +71,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny shrimp is often seen in
 [Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni.md)
 (
@@ -84,7 +84,8 @@ cf.
 *obscurus*
 . But this is suspected to be a species complex that contains more than one species and a more detailed study is required to identify them more precisely.
 
-**Features:**
+## Features
+
 To about 1cm. Almost completely transparent. Some with a dark stripe along the body length and blue eyes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -70,9 +70,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This tubular sponge is commonly seen on our undisturbed Northern shores, growing on coral rubble. Also sometimes seen on undisturbed Southern shores.
-**Features:**
+## Features
+
 The entire sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm tall about 1-2cm wide). In some, the tubes may have short spikes on the sides. A wide range of colours from beige, lemon yellow, pale to bright blue, pale green and purple.
 
 **Sometimes confused with**

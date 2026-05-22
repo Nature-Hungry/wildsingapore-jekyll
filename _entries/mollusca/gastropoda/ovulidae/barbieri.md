@@ -39,12 +39,13 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This tiny elongated snail is sometimes seen on
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 on our Northern shores.
 
-**Features:**
+## Features
+
 2-3cm. Shell thin and pointed at the ends. Shell colour orange, yellow (also red to violet) with a white bar across the middle of the shell. Body translucent with yellow protruding bumps and irregular black spots all over. Foot white with black line in the middle.Tentacles banded white and black. It has a fan-like flap near the head that is yellow with a black margin.
 
 Similar looking spindle cowrie species include

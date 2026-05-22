@@ -95,9 +95,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This little curious fish with a flag on its back is sometimes seen on some of our Southern shores. Elsewhere, they are considered common on shallow shetltered mud-sand flats, especially among seagrasses. Also in estuaries and deep water. They are usually buried during the day. Juveniles usually seen alone, adults may be seen in pairs or small groups.
-**Features:**
+## Features
+
 Those seen on the intertidal about 2-3cm, grows to 15cm long. A portion of the dorsal fin is large and flag-like, which can be raised like a finger. The pelvic fins which are fan-like with the first ray detached from the rest of the fin. Body cylindrical and not very flat, pale with brown saddles which have bright bluish spots. Head broad and flat with a narrow pointed mouth so that the head appears triangular when seen from above. Fins dark, anal fins with bright blue spots.
 
 According to Kelvin Lim, juveniles have proportionally taller dorsal fins with a prominent yellow edged eye-spot on the first dorsal fin. Small juveniles around 2 cm are white with orange bars on the head and nape.

@@ -83,10 +83,11 @@ links_references: |
   New World Publications. 497pp.
 ---
 
-**Where seen?**
+## Where seen?
 These slugs are commonly seen on many of our shores, especially during a 'bloom' of their seaweed food. They appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen. They were previously in Family Elysiidae.
 
-**Features:**
+## Features
+
 They range from tiny ones 1cm long to larger ones 4cm long that resemble seaweeds.
 One pair of 'rolled up' tentacles, not solid tentacles like other slugs. A pair of 'wings' or flaps (called parapodia) surround the long narrow body. These are sometimes ruffled
 . Elysia slugs lack shells.

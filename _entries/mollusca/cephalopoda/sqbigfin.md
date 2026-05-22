@@ -178,10 +178,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These squids are sometimes seen in numbers on our Southern shores. Among seagrasses, also near coral rubble and reefs. It is often seen with its arms held splayed out when alarmed. It typically gathers near the bottom during the day, dispersing in the water at night to hunt. Many are attracted to light. Elsewhere, it is found to 100m deep.
 
-**Features:**
+## Features
+
 Mostly 8-12cm long, but may grow to 40cm and weigh 2kgs. Body rather squat with wide fins that extend along the entire body length, thus it is sometimes mistaken for a
 [cuttlefish](sepiidae.md)
 . The fins oval or somewhat pear-shaped with the widest part near the rear end of the body. Arms about half the length of the body, rather broad. It can change its colours and patterns rapidly.

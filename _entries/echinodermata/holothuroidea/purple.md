@@ -106,10 +106,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This striking sea cucumber is sometimes seen on our Northern shores. It may be buried in soft silty sand or attached to seagrasses and seaweeds or to coral rubble.
 
-**Features:**
+## Features
+
 About 8-12cm long. Body long and narrow, squarish or quadrangular in cross-section. Doesn't have a clear upper and underside. Generally a uniform shade of purple, sometimes with alternating darker and lighter purple stripes along the length. Tube feet long and thin, appearing along the body length. Tube feet pale or purple. Feeding tentacles are translucent white with yellow speckles, branched tips black.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -70,10 +70,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This sea fan with maze-like branching is sometimes seen on Beting Bronok. On coral rubble.
 
-**Features:**
+## Features
+
 10-15cm tall. Colony comprises regular short branches that form a neat, maze-like pattern on one plane. Some of the side branches may fuse with nearby branches forming a net-like arrangement. Stems cylindrical and rather fat with rounded tips. Colours seen include orange, pink, yellow and white. The relatively small polyps are white and emerge all around the branches. They can retract completely leaving large bumps on the stem.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

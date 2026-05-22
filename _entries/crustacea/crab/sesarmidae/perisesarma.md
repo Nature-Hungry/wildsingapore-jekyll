@@ -105,13 +105,14 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small crab with a bright green or blue band between the eyes are commonly seen in some of our mangroves.
 It was previously known as
 *Chiromantes*
 sp.
 
-**Features:**
+## Features
+
 Body width 2-3cm. Body flat and squarish, legs flat with pointed tips. Pincers deep red. Irridescent blue or green band between the eyes, across the face.
 
 A study found that the band's concave shape focuses reflected light to enhance brightness, much like the reflective surface behind car headlights. No matter what angle the source light comes from, the crab’s band reflects light most intensely at the eye level of other face-banded crabs to optimise signalling, or conveying information about itself.

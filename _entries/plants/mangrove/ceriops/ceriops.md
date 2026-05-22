@@ -74,10 +74,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 Usually neat and tidy trees or bushes. Sometimes seen in our mangroves.
 
-**Features:**
+## Features
+
 A short tree sometimes just a bush, older plants may have well developed knee roots. The leaves are thick and spatula-shaped so they are sometimes mistaken for
 [Teruntum](../lumnitzera/lumnitzera.md)
 (

@@ -164,7 +164,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This small scorpionfish wannabe is commonly encountered on many of our shores in the North and South, among coral rubble and seagrass areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one. Elsewhere, it is found in brackish estuaries and silty coastal reefs.
 
 **What are false scorpionfishes?**
@@ -173,7 +173,8 @@ This species was previously placed in
 (groupers) and now is the only member of the Family Centrogenyidae (false scorpionfishes). True scorpionfishes belong to the
 [Family Scorpaenidae](../scorpaenidae/scorpaenidae.md)
 .
-**Features:**
+## Features
+
 Those seen usually about 4-10cm, grows to about 15cm. A large head with large eyes. In various camouflaging colours and patterns. Like true scorpionfishes, the false scorpionfish has sharp dorsal spines that can poke inquisitive fingers. The false scorpionfish lacks true venom glands, though the spines can still cause wounds.
 
 **Sometimes mistaken for**

@@ -149,12 +149,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These colourfully, rather large gobies are often seen on our shores with coral rubble and reefs. Sometimes seen in pairs. On good reefs, they can be found in large numbers especially at night. Elsewhere found in estuaries and lagoons, on shallow sand-rubble. It makes its burrow under solid objects and is usually found hovering close to the ground. It was previously known as
 *Amblygobius bynoensis*
 .
 
-**Features:**
+## Features
+
 6-8cm long. It is among the more colourful of the larger gobies encountered in our shallow waters. There are dark freckles as well as bright spots and markings on its head. On the side of the body, it has a dark stripe edged with iridescent blue through the eye to just past the gill cover (not easily seen when viewing the fish from above).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

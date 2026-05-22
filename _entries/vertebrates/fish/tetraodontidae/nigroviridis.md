@@ -76,10 +76,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 The tiny globular spotted juvenile is sometimes seen in our mangroves, especially when high spring tides reach the back mangroves. Also seen on other shores near freshwater sources (e.g., canals) among seaweeds. Elsewhere, f
 ound in freshwater streams and brackish coastal areas including estuaries, alone or in small groups.
-**Features:**
+## Features
+
 Those seen 3-6cm, grows to about 14cm. Smooth, globular. Adult has a green back with black spots, tail fin with dark bars. Tiny juveniles usually golden yellow with black spots of various sizes and translucent fins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

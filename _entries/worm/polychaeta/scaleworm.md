@@ -120,7 +120,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These tiny short bristley worms with scales are sometimes seen under stones or other hidden places. Many are commensals, living together with sea stars, sand dollars, sea urchins, sea cucumbers and sea anemones. Thus, they are found in a wide variety of ecosystems but are often overlooked.
 
 **What is a scale worm?**
@@ -128,7 +128,8 @@ It is a segmented bristleworm belonging to the Family Polynoidae, Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 
-**Features:**
+## Features
+
 About 1cm long. The worm is flat and broad with lots of short hairy bristles along its sides, and a pattern of overlapping scales the upper side of the body. It has a well developed head with relatively long tentacles. It creeps slowly by undulating its bristles.
 
 **Sometimes mistaken for**

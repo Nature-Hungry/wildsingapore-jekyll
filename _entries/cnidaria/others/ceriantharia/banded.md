@@ -68,12 +68,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This rather small and often well camouflaged cerianthid is commonly seen on some of our Northern shores.
 ****
 Silty sand near seagrasses.
 
-**Features:**
+## Features
+
 2-5cm in diameter. The outer long tentacles have bands of blue, brown and yellow, sometimes light green too. The inner ring of tentacles are very short and rather sparse. The smooth long body column is often purplish.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -144,9 +144,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This almost-cuddly white sea urchin is seasonally common on our Northern shores among seagrasses. At some times, many of these sea urchins are seen, and then none seen for some time. On Cyrene Reef, gatherings of many of these sea urchins are sometimes seen.
-**Features:**
+## Features
+
 Body diameter 5-8cm, white. Spines short (1-1.5cm) and sharp, about the same length. Spines on the underside have spade-like tips. Some have white spines with green or maroon bands. It has long tube feet and is often seen carrying all kinds of things from shells to seaweeds. It can quickly gather these things to cover itself. This behaviour may help camouflage it or shield it from sunlight.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

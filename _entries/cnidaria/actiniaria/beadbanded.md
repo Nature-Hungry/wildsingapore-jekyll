@@ -22,18 +22,15 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://live.staticflickr.com/2589/3794249548_d269fce181_c.jpg
+trivia_title: "if you learn only 3 things about them ..."
+trivia_items: [
+  "These tiny animals are everywhere on the shore. Don't step on them!",
+  "Look for them among cracks in large boulders as well.",
+  "They tuck their tentacles into their bodies at low tide",
+]      
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These tiny animals are 
-      everywhere on the shore. Don't step on them! Look for them among cracks in
-      large boulders as well. They tuck their tentacles into their bodies at low
-      tide.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These tiny animals are everywhere on the shore. Don't step on them!
-      Look for them among cracks in large boulders as well. They tuck their 
-      tentacles into their bodies at low tide.
+  
   gallery2:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
@@ -59,11 +56,12 @@ galleries:
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
     caption: Anthopleura buddemeieri St. John's Island, Oct 11
   - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
-    caption: Anthopleura dixoniana St. John's Island
-  - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
     caption: Changi, Oct 09 Often found in crevices on large rocks.
+    row_span: 2
+  - url: 
+      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
+    caption: Anthopleura dixoniana St. John's Island
   gallery5:
   - url: 
       http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
@@ -122,12 +120,12 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These small anemones are often seen on our rocky areas that are exposed even at moderate tides. Usually in clusters of many individuals. Crowded near the base of boulders, in crevices and cracks of the boulders and even in the sand nearby.
 
 When exposed to air at low tide, it tucks its tentacles into its body column so it looks like a bead of jelly. Those in the sand may retract completely, leaving only little holes. It is easy to miss these small delicate animals and to accidentally step on them. To see one with the tentacles expanded at low tide, look for pools where some might still remain submerged.
 
-**Features:**
+## Features:
 Diameter with tentacles expanded 1-2cm. One ring of tapering tentacles with a banded pattern. The oral disk is relatively large compared to the tentacles and is sometimes patterned. The entire animal is usually in shades of brown and beige. Although often found in groups of many individuals packed close to one another, it is a solitary polyp and not a colonial animal.
 
 There are several species of
@@ -145,7 +143,7 @@ Compared to
 *A. dixoniana*
 , individuals are larger with a darker body column, more conspicuous verrucae and the bumps around the top of the body column under the tentacles (called acrorhagi) have white tips.
 
-**Status and threats:**
+## Status and threats:
 As at 2024,
 *A. handi, A. dixoniana, A. nigrescens*
 are assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
@@ -158,7 +156,7 @@ Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemo
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-grid.html items=page.galleries.gallery4 cols=2 %}
 
 **Species are difficult to positively identify without close examination.
 

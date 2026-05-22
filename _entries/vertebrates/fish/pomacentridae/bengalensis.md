@@ -120,10 +120,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fish in pajamas is sometimes seen in small groups in pools at low tide on some of our shores, among coral rubble near reefs. It is quite a nervous fish and hides in crevices among coral rubble at the slightest sign of danger. It is sometimes called the Narrow-banded sergeant major.
 
-**Features:**
+## Features
+
 To about 14cm, those seen on the intertidal are much smaller, about 4-6cm long. Head and body white, with 6-7 black narrow bars across a yellowish body. Sometimes grey bars. The tail has rounded lobes (not pointed) and is plain (there are no horizontal black stripes). There is no spot near the base of the tail. More on
 [how to tell apart sergeants](pomacentridae.md)
 .

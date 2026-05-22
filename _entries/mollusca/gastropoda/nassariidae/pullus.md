@@ -73,10 +73,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This little whelk with a broad base on the underside is sometimes seen in sandy areas on our Southern shores.
 
-**Features:**
+## Features
+
 1.5-2cm. Shell thick conical with neat, regular ridges. Shell plain brown or bluish grey often with two smudgy broad darker bands. Underside with a distinctive broad flat white smooth base, a dark blotch in the centre and 'teeth' at the shell opening. Body pale. Pperculum thin and yellow.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

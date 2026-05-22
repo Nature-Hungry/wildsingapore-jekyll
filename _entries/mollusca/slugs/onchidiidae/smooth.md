@@ -59,10 +59,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This tiny to small onch slug is commonly seen on sheltered, shady areas with thick mats small seaweeds on many of our shores. For example, rocky shores shaded by coastal trees and sea walls under a jetty or bridge. Often seen in groups of small numbers.
 
-**Features:**
+## Features
+
 1-3cm. Body hard, long, very rounded with a rather smooth skin with small regular bumps. Generally greyish or brown to black. Sometimes with lighter spots. Eyes on long thin stalks. The underside is white with a broad foot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Slippery slug:**

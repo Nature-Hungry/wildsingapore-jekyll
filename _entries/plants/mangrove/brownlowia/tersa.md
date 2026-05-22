@@ -62,7 +62,7 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 A rather drab shrub that is often overlooked. Some can be seen at Sungei Buloh Wetland Reserve, Kranji Nature Trail, Mandai mangroves and at Woodlands Park. Elsewhere, it is also considered rare, although it can be abundant where it is found. It is said to grow in relatively sunny locations in mangrove swamps, and along creeks where mud is accreting. Also found on sandy shores or firm mud, along with
 [Nipah palm](../nypa/nypa.md)
 (
@@ -71,7 +71,8 @@ A rather drab shrub that is often overlooked. Some can be seen at Sungei Buloh W
 
 It is also called 'Durian laut' in Malay which means 'Durian of the sea' probably because the green-above-silvery-below leaves resemble those of the Durian tree. Other than that, it doesn't have much resemblance to the true Durian tree.
 
-**Features:**
+## Features
+
 A shrub 1.5-2 m tall. Leaves narrow and oval, thin or leathery (8-12cm long). The upper surface is glossy and smooth, while the lower surface is grey-green and covered with a dense layer of tiny, hairy scales. The leaves are spirally alternate.
 
 Flowers tiny (less than 1cm), emerging in axils or at the ends of branches in clusters on stalks up to 4 cm long. The flower pink petals and fluffy yellow stamens.

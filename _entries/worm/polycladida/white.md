@@ -47,10 +47,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen on coral rubble and reefs on some of our Southern shores.
 
-**Features:**
+## Features
+
 3-4cm long. Body plain white. On body margins are broad bands, from the inside to the outer edge: black, yellow to transparent grey at the outermost edge. Has a pair of pseudotentacles made of simple folds of the body margins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

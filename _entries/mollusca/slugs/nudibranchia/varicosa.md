@@ -179,10 +179,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This colourful nudibranch is sometimes encountered on some of our Southern shores, on coral rubble and reefs.
 
-**Features:**
+## Features
+
 4-5 cm long. Body long, hard with bumps (called tubercles) without feathery external gills on the back. Distinguished by 3-6 ridges of bumps along the length of the body. The bumps are blue-grey where they join the body and tipped yellow. The short rhinophores are orange. On the underside, there is a dark stripe or line of dark dots/dashes along the length of its foot. It secretes noxious substances from glands in the white coloured portion of its body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

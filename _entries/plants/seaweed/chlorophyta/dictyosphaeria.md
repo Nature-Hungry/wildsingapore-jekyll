@@ -85,10 +85,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This seaweeed with a pimply or bubbly texture is sometimes seen on some of our Southern shores, growing on coral rubble. It forms small scattered patches among other encrusting organisms.
 
-**Features:**
+## Features
+
 Small clusters (5-7cm) of hollow irregular globular lumps (1-2cm). Made up of a layer of tiny spheres joined together. This is the seaweed's mature form, resulting from an unusual form of division, when it produces a mass of tiny spheres. Immature forms may be firm, irregularly shaped and generally globular. Bright green to bluish green.
 
 According to

@@ -72,10 +72,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Small clusters of these bright pink ascidians are sometimes seen on coral rubble on our Southern shores. Larger patches of pink coloured blobs were also seen in the past on the jetty pilings of Chek Jawa.
 
-**Features:**
+## Features
+
 Clusters of a few irregular blobs about 1-2cm long usually bright pink. Sometimes, much larger blobs 4-5cm are seen. Each blob appears to be made up of many individual zooids embedded in a common tissue.
 
 In Serina Lee's article, the photo of

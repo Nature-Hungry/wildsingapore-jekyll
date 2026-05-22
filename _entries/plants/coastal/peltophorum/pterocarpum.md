@@ -69,12 +69,13 @@ galleries:
       caption: "Links Peltophorum pterocarpum on Total Vascular Flora of Singapore Online: photos and fact sheet. Know 10 trees in Singapore on the NParks website: fact sheet with lots of photos of various parts of the tree. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks Board. 202 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 According to Hsuan Keng, it was formerly a native tree at Changi coast but considered extinct. It is now sometimes found on rocky and sandy coastal areas and back mangroves, ostensibly dispersed from cultivated trees. This showy tree is also extensively planted as a roadside tree in Singapore as it is drought-resistant, which makes it well adapted to Singapore’s sunny urban conditions. Its wide-spreading, umbrella-shaped crown also provides excellent shade. Hugh Tan considers it "one of the prettiest of our native trees". It was also called
 *Peltophorum ferrugineum*
 . According to Corners, it was a common sea shore tree on rocky and sandy coasts in Malaya.
 
-**Features:**
+## Features
+
 A tree that usually grows to 15m (up to 35m). Dark green leaves made up of many little leaflets. The leaves are usually shed after dry weather, in our region usually in January-February and in July-August. The fragrant yellow flower (3cm) has wrinkled petals, several flowers emerging on a long stalk. During the flowering season, the entire tree may be covered in yellow blossoms. The fruit is a brown, flat woody winged purple-brown pod with up to 4 seeds that look like sunflower seeds. The pods remain on the tree for several months. Bark is smooth and grey. The tree grows well in poor soils because it contains nitrogen fixing bacteria in its roots.
 
 **Human uses:**

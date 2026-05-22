@@ -101,11 +101,12 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This crab with paddling legs is sometimes seen on our shores near mangroves and freshwater streams
 . It is usually seen drifting on flotsam or seaweed. This particular one was seen on top of a large piece of plastic.
 
-**Features:**
+## Features
+
 Body width 3-5cm. It has a squarish body and flat legs. The last two pairs of legs are paddle shaped and fringed with hairs. These allow the crab to paddle for short distances. It is actually a freshwater crab but adults return to the sea to hatch their eggs.
 
 **What does it eat?**

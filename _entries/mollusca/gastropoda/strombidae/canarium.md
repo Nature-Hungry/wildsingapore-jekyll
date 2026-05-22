@@ -157,12 +157,13 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This delightful 'fat' little conch snail is often seen on many of our shores, on silty and sandy areas with good seagrass growths. Although large, these snails are well camouflaged. It was previously known as
 *Strombus canarium*
 . 'Canarium' means 'dog' in Latin, and it is sometimes also called the Dog conch.
 
-**Features:**
+## Features
+
 6-7cm, elsewhere up to 10cm. Shell thick heavy, lip flared. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits. Upperside smooth and usually covered in sediments and sometimes, living plants and animals. Sometimes, the seaweeds growing on a Gong-gong shell becomes larger than the shell! Shell opening pearly white sometimes gold. Body olive green. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Gong-gong babies:**

@@ -77,10 +77,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This sparsely branched brightly coloured sea fan is often seen on Beting Bronok and sometimes at Changi, on rubble and rocks.
 
-**Features:**
+## Features
+
 15-20cm long. The colony comprises a cluster of a few cylingrical stems that are generally unbranched except near the base. Polyps with white transparent tentacles. When they retract, the base of the polyps curve to form smooth bumps so the stem resembles asparagus. Usually bright red, but sometimes also white, yellowish or orange.
 
 There are also long unbranched

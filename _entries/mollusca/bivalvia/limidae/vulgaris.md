@@ -113,12 +113,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This clam is sometimes seen are attached to rocks and underside of stones and corals. It was previously known as
 *Lima lima*
 .
 
-**Features:**
+## Features
+
 4- 6cm. The two-part shell is thick with clear ridges, usually white or yellowish. The valves can close completely, with the tentacles retracted. Tentacles long, usually pale without markings.
 These tentacles are sticky and can break off if the animal is distressed. The animal can swim by 'clapping' its valves, but it is not as active as the
 [Swimming file clam](limaria.md)

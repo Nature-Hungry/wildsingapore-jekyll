@@ -62,10 +62,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large angular brown mussel is usually only sometimes seen in small numbers in seagrass meadows. In 2019, however, they formed dense patches on large areas on Changi Beach. They were also seen in large clusters on Pulau Semakau South in 2020.
 
-**Features:**
+## Features
+
 3-4cm long. The two-part shell is shiny brown, thin, fragile and smooth. The shell is rather triangular, the older part of the shell seems to have hairs. It lies on the ground, sometimes partially buried, and produces byssus threads to anchor to the ground. Usually among seagrasses.
 
 **What eats them:**

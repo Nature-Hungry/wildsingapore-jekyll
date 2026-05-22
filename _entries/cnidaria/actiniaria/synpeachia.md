@@ -45,12 +45,13 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone with a few fat tentacles that spread out flat is seen on some of our shores, especially in sheltered sandy areas. It is small and usually retracted into the sand at low tide so it may actually be quite common but overlooked.
 *Synpeachia temasek*
 is a new genus and new species described from Singapore!
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 4-5cm. One ring of 20 tentacles that are thick at the base and tapering at the tips. It has a reddish-brown body column. It is usually seen with its tentacles flat on the surface, spaced out equally so that the anemone resembles a star. The oral disk and tentacles often have V-shaped chevron patterns in shades of white, pink, beige and brown. A structure of 3-5 bumps in the middle of the mouth that sometimes protrudes out of the mouth called a conchula.
 
 **Sometimes mistaken for**

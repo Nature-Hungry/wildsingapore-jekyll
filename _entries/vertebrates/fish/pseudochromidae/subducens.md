@@ -244,7 +244,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This snake-like fish is commonly seen on many of our shores, among coral rubble and near seagrasses. Most are well camouflaged and are thus often overlooked. Big ones trapped in small pools at low tide usually hide deep under coral rubble with only a bit of the tail sticking out. But small ones may be seen swimming about in larger pools among seagrass, corals or coral rubble.
 
 **What are carpet eel-bleenies?**
@@ -252,7 +252,8 @@ Often mistaken for a snake, this fish is not even an eel! It belongs to the Fami
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=291)
 : The family has 16 genera and 98 species. Most are live in the Indo-Pacific Ocean. Many of the other members of the family are smaller and a lot shorter (about 10cm long or less), and some are very colourful. Carpet eel-blennies belong to the subfamily Congrogadinae (they were previously in a separate family Congrogadidae).
 
-**Features:**
+## Features
+
 Up to 30cm long, those seen are about 10-15cm long, but tiny ones 5cm or less can also be seen. Body cylindrical, somewhat flattened sideways, tapering to an eel-like tail, with the dorsal, anal and tail fins continous. Unlike true eels, it has pectoral fins and scales, and large gill covers. Large mouth with thick lips, and large eyes near the top of the head. Being long and narrow, the fish can easily squirm through tight openings and hide in crevices. Its floral markings add to its camouflage. It can also change its colours. Besides the more commonly seen greenish ones, colours seen include brown, dull to bright green, black and even bluish ones.
 
 **Sometimes mistaken for**

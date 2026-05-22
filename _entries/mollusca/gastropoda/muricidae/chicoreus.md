@@ -204,10 +204,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large but well camouflaged snail is usually found on boulders, rocks and hard surfaces as well as sandy areas near coral reefs on our Southern shores.
 
-**Features:**
+## Features
+
 5-7cm long. Shell thick with rows of fronds or spikes along the length of the shell. There are usually three spikes along the siphonal canal. The shell opening is smooth, operculum is made of a horn-like material.
 
 The following are the two commonly seen murex snails found on and near our reefs. They are difficult to tell apart for certain in the field.

@@ -93,10 +93,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large nudibranch is sometimes on among seagrasses. It may be seasonal: when seen, many individuals are encountered.
 
-**Features:**
+## Features
+
 6-12cm long. Soft body with about 8 large lobes arranged in two rows along the body length. These lobes stick to predators and detach, so please don't handle the nudibranch. Like other Melibe species, it has an expandable hood (oral veil) which it uses to hunt. According to
 [Bill Rudman](http://www.seaslugforum.net/factsheet.cfm?base=meliviri)
 , this nudibranch has lost its radula and instead has an oral veil that can expand into a "fish net". The veil is used to constantly scan the substrate or to sweep seagrass blades. When the sensitive hairs on the inner edge of the oral veil touch a small crustacean (amphipods, crabs, shrimps), the edge of the veil rapidly contracts, trapping the prey, which is then eaten.

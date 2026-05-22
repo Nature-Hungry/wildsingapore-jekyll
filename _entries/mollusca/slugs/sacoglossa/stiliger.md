@@ -112,14 +112,15 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This tiny slug is sometimes seen on
 [Caulerpa green seaweed](../../../plants/seaweed/chlorophyta/caulerpa.md)
 (
 *Caulerpa*
 sp.).
 
-**Features:**
+## Features
+
 A tiny well camouflaged slug (2-4cm long). Long, soft slender body covered with spherical bumps (cerata) that resemble the seaweed's colour and shape. The cerata contain its digestive system and are thus often the same colour as the seaweed it feeds on. There are many iridescent blue dots at the base of the cerata. It has a pair of rhinophores that is green with whitish tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

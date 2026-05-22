@@ -55,14 +55,15 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 These gruesome animals are often seen growing in
 [flower crabs](../../crab/portunidae/pelagicus.md)
 (
 *Portunus pelagicus*
 ). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
 
-**Features:**
+## Features
+
 This barnacle grows through the body of the host crab like a root system. The parasite does not kill the crab but it does affect the crab's reproductive system such that the crab becomes infertile.
 
 The parasitic barnacle eventually produces tiny egg sacs (0.5cm or less) that emerge through the crab's joints.

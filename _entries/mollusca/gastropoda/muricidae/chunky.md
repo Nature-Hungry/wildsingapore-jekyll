@@ -83,10 +83,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This heavy thick-shelled drill is often seen on large boulders and seawalls. Commonly seen on our all our shores.
 
-**Features:**
+## Features
+
 3-6cm. Shell thick and chunky with variable patterns, some with a spiral pattern of squarish bumps, some with blunt spines. Shell opening wide. The operculum is brown.
 
 Various species of

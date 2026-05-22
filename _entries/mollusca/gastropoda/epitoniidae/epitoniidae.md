@@ -50,10 +50,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 A tiny one was seen among a bloom of seaweeds on a sandy shore in Seletar. 'Wentletrap' is the Dutch word for 'spiral staircase'. The elegant shell does indeed resemble one!
 
-**Features:**
+## Features
+
 A distinctive shell with a long turret and strong sharp ribs across all of the whorls. Shells generally white with a porcelain-like texture. A circular shell opening with a shelly operculum, usually black. Eggs are laid in sand-covered strings resembling a necklace.
 
 **What do they eat?**

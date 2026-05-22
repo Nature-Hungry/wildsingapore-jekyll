@@ -126,10 +126,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This swimming crab with purple legs is commonly seen on our Northern shores, rocky areas and rubble. Especially at night.
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body somewhat fan-shaped, the sides with 6 spines of equal size. The eyes are not very far apart. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Body smooth, colours various: yellowish, orange, olive with brownish patch near the eyes, often with a pair of white spots near the base. Walking legs purple. Pincers long orange with black pointed tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

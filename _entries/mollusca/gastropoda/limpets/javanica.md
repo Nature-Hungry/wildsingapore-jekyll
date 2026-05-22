@@ -91,10 +91,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This limpet with prominent ribs is commonly seen in small groups mainly on our Southern shores. On boulders near the high water mark.
 
-**Features:**
+## Features
+
 1-2cm long, elsewhere 3-4cm.
 Shell thin conical with 10-12 thick broad white ribs. There is no hole at the top of the shell.
 Greenish foot . A false limpet, it breathes through lungs instead of gills. This limpet is often preyed upon by

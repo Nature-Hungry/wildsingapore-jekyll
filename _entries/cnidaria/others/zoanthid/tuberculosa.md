@@ -118,10 +118,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Like some weird rubber mat that coats rocks and rubble, this colony of animals is commonly seen on our Southern shores. It is often found in areas where waves crash onto the rocks in shallow waters. When the animals find a happy spot, the colony can cover a large area.
 
-**Features:**
+## Features
+
 Colony 20-40cm, each polyp about 1-2cm in diameter embedded in a common tissue. The polyp has a thick and short body column, topped by a wide oral disk edged with tentacles in two rows. When the polyps are expanded, their oral disks and tentacles may hide the common tissue. When the colony is out of water, the tentacles and oral disks are tucked into the body column, leaving on small puckered holes on the surface of the common tissue. Colours seen include brown, cream and yellow.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The common tissue is thick and rubbery. It also feels rough to the touch because the tissue may be strengthened by incorporating fine sand and other tiny debris. One study suggests these incorporated elements can make up 45% of the total weight of the colony!

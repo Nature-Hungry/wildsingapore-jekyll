@@ -70,10 +70,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This blood red flatworm is sometimes seen in numbers in shallow pools of water in our back mangroves. Particularly at night or the early morning.
 
-**Features:**
+## Features
+
 2-3cm long. Plain dark red, maroon or brown sometimes with tiny faint pale speckles, the body margin is not very ruffled. Often there is a white patchy pattern along the length of the body that looks like the internal digestive system. There are no obvious pseudotentacles. May be quite active but not very fast moving.
 
 The Family Stylochidae is one of the largest polyclad families and includes some voracious flatworms known as 'oyster leeches' and are considered a pest on farmed bivalves such as oyster and pearl farms. Some members may produce large amounts of toxic mucus.

@@ -140,10 +140,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This enormous crabs is among our favourite seafood. It is seldom seen and is usually hidden in its burrow in the mangroves. Sometimes, large individuals are seen in other habitats. These are likely to be fully grown adults that were taken from seafood markets and released as part of religious rituals, unfortunately, usually in unsuitable habitats.
 
-**Features:**
+## Features
+
 Body width to about 20cm. Body somewhat fan-shaped with 9 spines on the sides but the last tooth is not enlarged as it is in
 [flower crabs](pelagicus.md)
 . Mud crabs belong to the same family as swimming crabs and their last pair of legs are paddle-shaped. But because they are such large, heavy crabs, they don't use these legs to swim. Instead, the legs are used like spades to burrow with. Unlike flower crabs, mud crabs are able to stay out of water for some time. They come in various colours ranging from dark green (mostly those from mangroves) to bluish green (those found in open waters).

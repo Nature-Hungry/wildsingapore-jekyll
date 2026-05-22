@@ -68,7 +68,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral that forms thin cup-shaped colonies is sometimes seen on our Southern shores.
 
 **Features**

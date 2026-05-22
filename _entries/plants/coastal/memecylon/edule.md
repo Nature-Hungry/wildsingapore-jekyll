@@ -65,12 +65,13 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with beautiful blue flowers is rare. There are several on the rocky cliffsides of Chek Jawa, Pulau Ubin and Labrador, as well as some at our offshore islands including Sentosa Tg Rimau, Lazarus Island, Pulau Jong and Big Sisters Island. Elsewhere, it is common on sandy and rocky shores. The Malay name for the
 *Memecylon*
 trees is 'Nipis Kulit' which means 'thin skin' refering to their thin bark.
 
-**Features:**
+## Features
+
 A small tree (3-7m tall). Bark greyish brown, finely ridged and very thin.
 
 Leaves eye-shaped (3-7cm) so leathery that the veins are hard to see, does not produce latex when broken. Young leaves are glossy red.

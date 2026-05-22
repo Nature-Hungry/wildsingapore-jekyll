@@ -132,10 +132,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This humungous slug is sometimes seen, near reefs and seagrass areas. Sometimes seen buried just beneath the sand. On Cyrene, large numbers have been seen at some times of the year. According to Dr Bill Rudman, it is often found in quite large populations in shallow lagoons, reef crests and pools and sea grass beds.
 
-**Features:**
+## Features
+
 20-30cm. The large slug has a body texture of flat polygonal bumps with faint white lines forming circles. Colour variable from black, dark maroon to lighter shades of brown and orange. It has a pair of tubular rhinophores on its head. The large single gill is found on the right side between the mantle and the foot. The underside is smooth and unmarked. The slug appears to secrete a slime that feels acidic and is hard to rub off your hand.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

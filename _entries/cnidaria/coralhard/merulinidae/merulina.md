@@ -114,10 +114,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This plate-like coral with radiating ridges is sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 Colony 10-15cm, encrusting plates or fans, sometimes with knobbly fingers sticking out of the plates. There are thick, short ridges that form meandering valleys, radiating from the centre perpendicular to the edges. The valleys are short and straight, spreading like a fan from the centre and sometimes dividing into several valleys. The polyp mouths are in the valleys. It has few, long tentacles which are rarely seen. Colour seen include brown, blue and green with polyp mouths the same colour or blue.
 
 There are two species of ridged corals recorded for Singapore:

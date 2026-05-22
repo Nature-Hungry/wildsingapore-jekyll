@@ -106,10 +106,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This flat crab with large flat pincers is often seen on some of our rocky shores, hidden under stones. After having a look under a stone, be sure to replace the stone the way you found it. Do it carefully so you don't crush any living things.
 
-**Features:**
+## Features
+
 It's larger and more colourful than most porcelain crabs found under stones. Body width 1-2cm. Body somewhat oval, not hairy. The pincers are much bigger than the body and have serrated edges. Antennae much longer than the body.
 The crab is reddish or maroon with a pattern of fine stripes. It may have spots of bright colour (orange, blue) near the tips of the pincers and around the face.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

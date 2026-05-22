@@ -73,10 +73,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This long stick-like fish with a short, blunt lower jaw is sometimes seen on our shores. Usually seen alone near coral rubble or reefs.
 
-**Features:**
+## Features
+
 Those seen about 10-15cm, can grow to 30cm long. Body cylindrical, silvery, sometimes bright blue. The lower jaw is not as elongated as those in other halfbeaks and has a reddish tip. Dorsal fin has black edges. Tail fin is forked.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

@@ -65,14 +65,15 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This sturdy nerite is sometimes seen in our mangroves, near
 [mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
 . The study by Tan & Clements (2008) found this snail usually submerged; on mud, plant matter (e.g., fallen leaves and braches in stagnant pools), on and under stones in streams, and on concrete banks of drains. They found the snails on our Northern shores as well as at Berlayar Creek. It was previously known as
 *Dostia cornucopia*
 .
 
-**Features:**
+## Features
+
 About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the shell is covered with a 'skin' (periostracum) and usually covered with silt and algae. The shell pattern actually pale with fine purplish bands and 'tent' markings. The flat underside grey to black, often with a pale or orange rim. Lots of tiny regular 'teeth' usually along the entire length of the straight edge at the shell opening. Operculum thick, smooth similar in colour with the underside with an orangey border. Body plain black.
 
 **Sometimes mistaken for**

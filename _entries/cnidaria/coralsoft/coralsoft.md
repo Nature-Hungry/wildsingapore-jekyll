@@ -98,7 +98,7 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Soft corals are commonly seen on many of our shores. Some resemble flowery bushes, others giant leathery disks. Yet others are tiny and overlooked. They are found growing on boulders and other hard surfaces, as well as among coral rubble and living hard corals on the reef flats.
 
 **What are soft corals?**
@@ -116,7 +116,8 @@ Within this Subclass, the Order Alcyonacea includes
 [leathery soft corals](alcyoniidae.md)
 (Family Alcyoniidae).
 
-**Features:**
+## Features
+
 Soft corals are colonies of tiny, individual polyps linked to one another. Soft corals can look like branching bushes or trees. They may also be flatter and look like mushrooms. When exposed at low tide, they often flop over and look like a pile of jelly or fried eggs! When submerged, however, they expand into beautiful plant-like forms and some appear 'furry' as the tiny polyps expand.
 
 Soft coral polyps have 8 (or multiple of 8) tentacles that are pinnate (branched or feathery). Some soft corals like

@@ -129,10 +129,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This plate-like coral with intricate patterns on the surface is sometimes seen on some of our Southern shores, growing attached to coral rubble near living reefs.
 
-**Features:**
+## Features
+
 Flat plate-like 30-40cm in diameter, attached at the base but wavy at the edges. May also be encrusting. The upper side has a distinctive pattern of fine parallel lines perpendicular to the edge. There is a 'waist' in the parallel lines at the mouth of the corallite, i.e., the parallel lines merge at regular intervals. The lines are thin with fine 'teeth'. Tentacles are said to appear only at night. Colours seen include brown, green and blue.
 
 **May be confused with**

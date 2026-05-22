@@ -70,14 +70,15 @@ links_references: |
   on AskNature.
 ---
 
-**Where seen?**
+## Where seen?
 These trees with arching stilt roots are commonly seen in many of our mangroves. Burkill describes
 *Rhizophora*
 as making up 70-90% of the mangrove stock in Malaya. He describes them as growing so densely 'as to make almost pure forest' behind a 'protective belt' of
 *Avicennia*
 which faces the open sea.
 
-**Features:**
+## Features
+
 Leaves eye-shaped (8-15cm long), shiny green. Older leaves with tiny evenly distributed black spots on the underside. These are cork warts, openings through which air enters. The air is then stored in specialised air spaces within the leaves called leaf aerenchyma. Here, when the air is heated, it is transported within the plant to the stems and to the specialised air spaces in the stilt roots also called aerenchymna. In this way, air reaches even the youngest root tissues that grow in the oxygen-poor mud. This internal air transport system is considered so effective that oxygen released from the roots in the mud can oxygenate the surrounding mud!
 
 The form of the flower depends on the species, usually with a hard and thick calyx. The petals are thin and fall off soon after blossoming. The fruit is brown and a long propagule eventually develops on the parent tree. The tree has stilt roots emerging in arches from the lower trunk, and prop roots may grow downwards from branches.

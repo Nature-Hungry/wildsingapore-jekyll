@@ -69,10 +69,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This crab with big red round spots is seldom seen on our shores. So far, on reefy southern shores.
 
-**Features:**
+## Features
+
 Body width to about 9cm. This crab has a distinctive pattern of large spots on a beige to pink body. It has four blunt spines between the eyes.
 It is more active at night.
 

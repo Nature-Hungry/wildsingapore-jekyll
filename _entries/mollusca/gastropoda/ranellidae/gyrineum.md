@@ -54,10 +54,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small chunky snail is sometimes seen under stones on our Northern shores. Sometimes a pair might be seen under one stone.
 ****
-**Features:**
+## Features
+
 3-4cm. Thick shell with a thick ridge along the length and spirals of beaded ridges. Shell opening wide with a scalloped inner edge. It has a short siphonal canal. Shell colour beige or brown, sometimes with faint broad spirals of darker brown. Operculum dark and tear-drop shaped. Body pale with dark mottled patterns.
 
 **What does it eat?**

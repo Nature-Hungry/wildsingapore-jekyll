@@ -128,7 +128,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 The fishes with long fins are sometimes seen, in seagrass meadows, near reefs and at jetties on our Southern shores.
 
 ****
@@ -139,7 +139,8 @@ These fishes belong to Family Ephippidae. According to
 *Platax*
 sp.
 
-**Features:**
+## Features
+
 The body is flattened sideways. The mouth is small. Adults are silvery and rather squarish. Hence their other common name of Spadefish. Juveniles may look very different in colour and pattern and have very elongated dorsal and anal fins. Those seen 12-15cm long usually with two dark bars, one through the eye, on an orange body. The species are difficult to distinguish without examination of small body parts.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Make like a leaf:**

@@ -79,10 +79,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This odd triangular seaweed is sometimes seen on our undisturbed Southern shores, growing on large boulders facing strong waves and currents, usually near the low water mark.
 
-**Features:**
+## Features
+
 Blades pyramidal or conical, solid, stiff; arranged around a vertical 'stem'. On rocks facing strong waves, these grow as short upright columns (6-8cm). In sheltered lagoons, those with very long 'stems' (20-30cm) are seen. Pyramid seaweed may have tiny bumps near the stem. These are probably reproductive structures (receptacles).
 
 According to

@@ -129,10 +129,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small spiny seaweed is commonly seen on many of our shores. Usually in small bunches attached to coral rubble or on stones in sandy areas. Often, the seaweed is overgrown with a coat of fine fluffy organisms.
 
-**Features:**
+## Features
+
 Bunch of 'stems' 10-15cm long with short, spiny side branches. May be black, brown, reddish brown. The bunch is usually small and the bunches scattered.
 
 According to

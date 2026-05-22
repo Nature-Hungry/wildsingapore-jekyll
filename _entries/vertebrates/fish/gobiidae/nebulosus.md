@@ -118,12 +118,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This little goby is commonly seen on many of our shores including mangroves, muddy bottoms near reefs, sandy pools and among coral rubble. On some shores, almost every pool has one! Sometimes, several are seen together. Its previous name was
 *Yongeichthys nebulosus*
 .
 
-**Features:**
+## Features
+
 Up to about 18cm, those seen from 4-6cm. It has large eyes and three large dark brown blotches on the sides of the body (not easily seen from the top).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Tough little goby:**

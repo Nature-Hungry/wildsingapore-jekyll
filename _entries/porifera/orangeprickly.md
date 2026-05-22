@@ -60,9 +60,10 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This pale to bright orange prickly sponge is sometimes seen on our Northern rocky shores and rubbly areas.
-**Features:**
+## Features
+
 Usually about 8-10cm in area, with prickly surface, the sponge may be thinly encrusting or form upright branches up to 30cm long. With small holes (0.5cm) where water is expelled. Colour pale orange to bright reddish orange.
 
 Bright orange sponges which are encrusting may come from a variety of species and families including

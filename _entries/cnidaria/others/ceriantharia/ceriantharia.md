@@ -72,7 +72,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These elegant animals with long colourful tentacles are commonly encountered on many of our shores. They are often seen in soft, silty muddy areas, as well as in sandy areas near seagrasses. At low tide during a cool morning or evening, cerianthids in a pool of water might continue to extend their tentacles. Otherwise, they are often overlooked because their long colourful tentacles are retracted completely into their sand-coloured tubes. Do watch your step to avoid stepping on them.
 
 **What are cerianthids?**
@@ -84,7 +84,8 @@ as sea anemones. There are 50-75 known species of cerianthids in three families.
 [Order Actiniaria](../../actiniaria/actiniaria.md)
 .
 
-**Features:**
+## Features
+
 Up to 30cm in diameter with tentacles expanded, those seen from 5-15cm in diameter. The cerianthid is a large, solitary polyp that burrows in soft ground and lives permanently in a tube. So it is also sometimes called the tube anemone or the burrowing anemone (although they are not true anemones).
 
 The cerianthid has two types of tentacles. An outer ring of long graceful tentacles called the proximal tentacles. Some species have only one ring of proximal tentacles, others have several. These long tentacles gather food from the water. There is an inner ring of shorter tentacles that ring the central mouth, called the distal tentacles. These short tentacles tuck food into the mouth.

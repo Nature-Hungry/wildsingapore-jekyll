@@ -142,12 +142,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small hermit crab is seen near mangroves, on sandy shores and among seagrasses. Elsewhere, it is found around rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen in such abundance as the
 [Orange-striped hermit crab](stripeorange.md)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 Body 1-2cm long, mostly plain pale. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Pincers sparsely hairy, no stripes, olive or brown with paler blue or bluish-green pimples. Walking legs sparsely hairy, bluish-green to olive-tan, with two stripes which may be olive or brown, areas between stripes whitish-tan. Eye stalks olive green to brown without any distinctive stripes. Short antennae and long antennae dull brown or olive.
 
 More on how to tell apart

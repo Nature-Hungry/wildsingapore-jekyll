@@ -161,10 +161,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This medium to large onch slug is commonly seen, sometimes in large numbers, on many of our natural rocky shores. Usually on large rocks and boulders, also on small stones on rocky shores, sometimes also on sea walls. The slug is often covered with sand (so they probably burrow into sand to hide?). These slugs are usually well hidden on a warm and sunny day. But on cool days or early in the morning or at dusk, you might see lots of them crawling about. They can move quite fast!
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 4-5cm. Body hard, broad and rather flat, sometimes with a raised hump along the centre of the body. Skin with many irregular bumps and pimples. Generally beige, brown to grey. Sometimes with spots in darker shades. The eyes are held on short stalks that stick out from under the tough pimply body. Most other snails have eyes at the base of tentacles. The underside of the body may have a bluish or greenish tinge, the narrower foot is beige.
 
 **Slippery slug:**

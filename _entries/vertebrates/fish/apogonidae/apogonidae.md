@@ -154,7 +154,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These big-eyed fishes are commonly seen on many of our shores. They are small and often well hidden in pools. They swim about more actively at night than during the day.
 
 **What are cardinalfishes?**
@@ -162,7 +162,8 @@ Cardinalfishes belong to Family Apogonidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304)
 , the family has 22 genera and 207 species, most below 10cm, seldom larger than 20cm. They are found in all the oceans including some freshwater species in tropical Pacific Islands. Most species are reef-dwellers.
 
-**Features:**
+## Features
+
 3-5cm. These small fishes have elongated bodies and large eyes, a large mouth and large scales. They have angular dorsal fins that are separated into two parts. Cardinalfish are often handsomely patterned in stripes or spots. Their common name comes from the red colour of many of the species, although they come in all colours from yellow to brown and blue. Often found in small groups, sheltering among the seagrasses or other hiding places during the day.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Cardinalfish babies:**

@@ -105,10 +105,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with branched tentacles and white tips is sometimes seen on some of our undisturbed Southern shores.
 
-**Features:**
+## Features
+
 The colony appears to be boulder-shaped, those seen about 20cm or larger. But the colony is not solid (massive). Hidden under the tentacles, the large corallites are branching and trumpet-shaped (phaceloid): long column flaring out at the top (2-3cm). The branching corallites are arranged with the broad, flared portions facing out to form an overall spherical shape. But this feature is usually hidden when the polyps' long tentacles are expanded. Tentacles long (2-3cm) are branched at the tips into masses of ball-shaped and U-shaped tips. Thus resulting in its common name. Colours seen include green and brown with white or bluish tips.
 
 **Sometimes confused with**

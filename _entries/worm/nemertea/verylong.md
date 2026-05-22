@@ -164,10 +164,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This amazingly long ribbon worm is sometimes seen in coral rubble areas on our Southern shores. Sometimes several are seen on the same visit!
 
-**Features:**
+## Features
+
 About 40cm to more than 1m long. White to cream body, with five or more blue or black stripes along the entire length of the body.
 
 It is often seen oozing about, purposefully but not quickly. It never seems to be in a hurry and doesn't retract immediately into a hiding place even when a visitor splashes about near it.

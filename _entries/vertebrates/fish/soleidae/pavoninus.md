@@ -185,10 +185,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large pretty fish is sometimes seen on on sandy areas near seagrasses on some of our shores.
 ****
-**Features:**
+## Features
+
 Those seen about 10-15cm, can grow to about 20cm. Eyes on right side. Small, highly curved mouth. Body oblong and very flat. No pectoral fins. Tail fin separated from the dorsal and anal fins. It has a pattern of circles that resemble eyes (a pale spot with a dark centre). This pattern of eyes possibly gives rise to its common name because the tail of a peacock also has a pattern of eyes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

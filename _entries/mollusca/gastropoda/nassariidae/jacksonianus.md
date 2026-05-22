@@ -67,10 +67,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 A tiny whelk that can be seen busily foraging, especially at night, on muddy and silty sandy areas near seagrasses on our Northern shores. Many sometimes seen gathered together grazing on seaweeds, or on a recently dead sea creature.
 
-**Features:**
+## Features
+
 1.5-2cm. Small lumpy-looking whelk. Shell thick with bumpy ridges on the spire, the front of the shell often with a broad brown band. Body pale with very long siphon and short tentacles. Operculum thin, pale.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Whelk food:**

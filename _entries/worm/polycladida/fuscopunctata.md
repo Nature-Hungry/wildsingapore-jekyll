@@ -83,10 +83,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This well camouflaged worm is so far most commonly seen at Chek Jawa, among coral rubble usually at night.
 
-**Features:**
+## Features
+
 5-7cm long. Body cream-white to beige with a pattern of black bars or spots in bars along the edges with a broad pale centre with orange or darker spots in a honey-comb pattern. Underside has a similiar pattern and colour. Has a pair of tentacles that extend like flaps at the front of the body. A distinguishing feature is black spots on the tentacles.
 
 **What does it eat?**

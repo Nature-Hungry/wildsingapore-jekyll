@@ -95,10 +95,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This sturdy crab is seen in rocky and rubbly areas on our Northern shores. Elsewhere, it is found in sandy-muddy areas usually under rocks.
 
-**Features:**
+## Features
+
 Body width to about 9cm. Large oval body, edge smooth with four blunt points or 'teeth'. Between the eyes are four tiny bumps arranged in a square. Reddish to pinkish brown and maroon in adults; young crabs maroon to reddish brown, with longitudinal white stripes. Large pincers smooth (no pimples) with black tips. One pincer slightly larger with a large molar-like tooth at the base of the finger. Walking legs not very hairy. Its eyes are all red without any green, unlike
 the very similar looking
 [Stone crab](hardwickii.md)

@@ -119,7 +119,7 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This tiny slug is sometimes seen on
 [Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa.md)
 such as
@@ -128,7 +128,8 @@ and
 [Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides.md)
 on some of our shores. Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.
 
-**Features:**
+## Features
+
 A tiny well camouflaged slug (0.5-1cm long). A pair of oval transparent 'shells' with the slender slug in between. The slug is exactly the same colour as the seaweed that it is found on. It has a pair of slender tentacles (rhinophores) with a sprinkling of white spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

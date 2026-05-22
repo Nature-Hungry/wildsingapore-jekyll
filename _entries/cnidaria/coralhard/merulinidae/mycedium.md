@@ -83,10 +83,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral forms a thick plate with large bumps. It is rarely encountered on the intertidal.
 
-**Features:**
+## Features
+
 Colonies 20-30cm. Encrusting plate, thick. Large cup-shaped corallites (about 1.5cm) that look like a nose. Polyp tentacles are only extended at night.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

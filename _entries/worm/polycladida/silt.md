@@ -77,10 +77,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Resembling mobile snot, this small flatworm is sometimes seen on soft silty shores as well as sandy areas near reefs, sometimes in large numbers.
 
-**Features:**
+## Features
+
 1.5-4cm. Semi-translucent, pale shades matching the surrounding sand or silt, often with tiny speckles. It moves very rapidly, oozing through little holes in the ground. In some a pair of tiny tentacles can be seen. Some were seen stretched out into a long narrow ribbon, others just little ovals.
 
 Grouped in this entry are flatworms of similar shape and size. It is probable that these are different species.

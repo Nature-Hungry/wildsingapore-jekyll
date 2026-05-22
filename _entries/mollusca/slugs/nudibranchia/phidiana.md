@@ -69,10 +69,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This pretty nudibranch is seldom seen, so far, on our Northern shores.
 
-**Features:**
+## Features
+
 About 2cm long. Long, narrow, soft body with
 many long finger-like structures (called cerata) arranged in rows across the body.
 It is identified by the orange lines running along the side of the body over the head and along the long oral tentacles. The oral tentacles, the corners of the foot and rhinophores are tipped yellow and the oral tentacles have orange stripes.

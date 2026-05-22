@@ -121,10 +121,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This long fat synaptid sea cucumber with bobbles is sometimes seen on many of our shores among seagrasses and reefs. It is possibly seasonally common with many individuals encountered over a wide area during a single trip, then none for some time.
 
-**Features:**
+## Features
+
 20-30cm to 50 cm long. Body cylindrical, thin skinned. Four rows of large almost spherical bumps ('bobbles') along the body. Bobbles usually mottled, often separated by four distinct plain lines. Feeding tentacles large flat and feathery. Each sea cucumber usually seen alone and not in groups. In various colours and patterns: dark maroon, pink, mottled brown, white. They may be different species.
 
 **Sometimes mistaken for**

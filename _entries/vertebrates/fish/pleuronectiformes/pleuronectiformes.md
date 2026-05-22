@@ -121,7 +121,7 @@ location: []
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Like animated leaves, these fishes are encountered on many of our shores.
 ****
 Tiny juvenile soles are sometimes seen by the eagle-eyed visitor on the sand, especially in seagrass areas. These may be as tiny as 2cm long. Some small ones may be mistaken for

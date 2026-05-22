@@ -134,10 +134,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small colourful nudibranch is sometimes seen in numbers on our Northern shores. On coral rubble and rocky shores with sponges and encrusting animals.
 
-**Features:**
+## Features
+
 2-3cm. Body long, narrow with a long tail. Pale with bright spots. Large flower-like gills on the back and large rhinophores (relative to the body size). Gills are frilly and edged in bright pink, without spots. See also
 [Dr Bill Rudman's comments](http://www.seaslugforum.net/factsheet/hypssp8)
 on this nudibranch.

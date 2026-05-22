@@ -72,10 +72,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 The tiny feathery feet of this barnacle is sometimes seen in Chocolate sponges.
 
-**Features:**
+## Features
+
 Feet 0.5cm long extended out of holes in the sponge, transparent with tiny white spots. Shell embedded in the sponge and not visible.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

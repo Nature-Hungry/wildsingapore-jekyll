@@ -61,10 +61,11 @@ links_references: |
   . Food and Agriculture Organisation RAP publication 2007/12.
 ---
 
-**Where seen?**
+## Where seen?
 This pretty shrub with bright red fruits are sometimes seen in our back mangroves and sandy shores. According to Hsuan Keng, common along seashores including Kranji, Seletar and Jurong. Elsewhere, they are also found in secondary forest. Globally widely distributed from South America, South Africa through India to Southeast Asia and Papua New Guinea.
 
-**Features:**
+## Features
+
 A shrub to tree (3-5m tall), sometimes a climber. Variable shape and growth form, Corners identified 5 varieties.
 
 Distinguished by leaf made up of three leaflets eye-shaped (4-9cm long), with a toothed edge, green that wither yellow.

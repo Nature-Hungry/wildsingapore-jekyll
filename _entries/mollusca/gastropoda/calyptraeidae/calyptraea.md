@@ -50,7 +50,7 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This snail is often seen on the a shell occupied by a
 [hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
 , usually on the outside of the shell. It is not seen as often as the
@@ -59,7 +59,8 @@ This snail is often seen on the a shell occupied by a
 *Calyptraea extinctorium*
 .
 
-**Features:**
+## Features
+
 1-2cm. The shell is thin, usually forming a pointed conical shape. May be white, pinkish or even reddish, with fine lines.
 
 **Sometimes confused with limpets**

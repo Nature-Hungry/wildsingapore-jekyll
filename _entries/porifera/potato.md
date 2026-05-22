@@ -65,9 +65,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Like a potato with eyes, this buried sponge is found on some of our shores near reefs.
-**Features:**
+## Features
+
 Spherical, oval or irregular lumpy, 10-30cm, usually buried with only chimneys sticking out of the surface. Chimneys about 1cm in diameter, 1-2cm tall. The surface is uneven and very hairy which traps sediments and sand, camouflaging the sponge. Colour pale brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

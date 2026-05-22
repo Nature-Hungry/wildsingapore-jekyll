@@ -176,10 +176,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brown feather star is sometimes seen near living reefs on Pulau Hantu.
 
-**Features:**
+## Features
+
 12-15cm in diameter. With more than 20 arms. The cirri on the underside is banded. Included on this page are animals that are mostly brown as well as banded brown or orange.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

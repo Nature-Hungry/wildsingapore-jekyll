@@ -51,10 +51,11 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This large jellyfish is sometimes seen on some of our shores. Usually alone, not in groups of many individuals.
 
-**Features:**
+## Features
+
 Bell about 10cm in diameter with fat sausage-like oral arms. The arms do not have a long 'tail'.
 
 **Status and threats:**

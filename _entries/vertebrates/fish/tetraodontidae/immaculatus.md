@@ -94,9 +94,10 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This fat plain pufferfish is sometimes seen on some of our shores, near seagrasses and reefs.
-**Features:**
+## Features
+
 Grows to about 30cm, those seen 8-10cm. Body rather plain without markings, tail fin yellowish with a dark brown edge.
 Sometimes, the eyes are yellow. Sometimes, they are found in small groups.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

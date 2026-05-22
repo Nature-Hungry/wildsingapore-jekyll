@@ -66,10 +66,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This slug is sometimes seen on mangrove trees trunks and branches on some of our shores.
 
-**Features:**
+## Features
+
 2-3cm. Body hard, long or circular, slightly rounded with small bumps arranged in concentric circles. Generally greyish or brown. The underside of the body is grey, it has a narrow foot that has horizontal ridges. Eyes on long thin stalks.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

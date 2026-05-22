@@ -125,10 +125,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This large shy crab is sometimes seen on our Southern shores near rocky shores, sea walls and among coral rubble and near living reefs. It is more active at night, but even so, very quick to scuttle back into hiding when disturbed. 'Gutta' in Latin means 'spots'.
 
-**Features:**
+## Features
+
 Body width 6-9cm. Body oval smooth upper surface. Edge smooth with a few (about 4) very shallow notches. Upperside reddish to dark brown, plain without patterns, underside pale orange with lots of tiny dark spots on its belly. Large pincers smooth (no pimples) with orange, reddish or brown tips, lower 'finger' tips often darker. Walking legs sparsely hairy. Eyes dark with white spots.
 
 **Armed with a can-opener and forceps:**

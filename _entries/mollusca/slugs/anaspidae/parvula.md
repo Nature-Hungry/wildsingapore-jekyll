@@ -62,10 +62,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This small, well camouflaged sea hare is seldom spotted.
 
-**Features:**
+## Features
+
 About 5cm. A long thin body with a pair of small 'wings' in the middle and long oral tentacles and rhinophores. The hole between the wings (called the foramen) is large in this sea hare and is usually ringed in black. In other sea hares, the foramen is microscopic. They come in a wide variety of body colours but usually the 'wings' have a black edge and the tips of the rhinophores and oral tentacles are dark.
 
 It is among the smallest of the

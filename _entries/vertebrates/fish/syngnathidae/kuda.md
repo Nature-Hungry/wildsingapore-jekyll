@@ -186,10 +186,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This seahorse is sometimes seen on many of our Northern shores, among seagrasses. According to the Singapore Red Data Book, it is found mainly in seagrass areas near sources of freshwater and found all around Singapore in shallow waters. 'Kuda' means 'horse' in Malay.
 
-**Features:**
+## Features
+
 6-10cm long. Body without large, obvious spines. Colours seen include yellow, brown, sometimes pinkish or even orangey. Some have spots on the body. Often seen in a pair near one another, not necessarily in the same colour: e.g,. one is bright yellow, the other is dark; brown or even black. Sometimes, very tiny ones only about 2cm long are seen among seaweeds. These tend to be 'hairy'.
 
 It's difficult to tell this seahorse apart from the

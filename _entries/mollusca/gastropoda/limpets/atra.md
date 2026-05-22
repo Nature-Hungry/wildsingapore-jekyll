@@ -72,10 +72,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large rather flattened limpet is sometimes seen on large boulders on some of our Southern shores near reefs. Usually settles near the low water mark.
 
-**Features:**
+## Features
+
 2-3cm long. Shell thick, rather flat (than pointed conical), with many (20 or more) thick ribs which are the same colour as the shell. There is no hole at the top the shell. Body plain white. A false limpet, it breathes through lungs instead of gills.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

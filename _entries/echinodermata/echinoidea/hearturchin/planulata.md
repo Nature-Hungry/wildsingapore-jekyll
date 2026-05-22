@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Small ones are sometimes seen on Pulau Semakau, in sandy areas of the coral rubble area.According to Lane, were collected subtidally at Pulau Semakau by dredging. Other larger ones are sometimes seen on Pulau Sekudu, usually only their skeletons and seldom, living ones.
 
-**Features:**
+## Features
+
 About 2cm, body oval mostly white. The sparse long spines directed backwards and are banded orange and white, while there are more white short spines. The petaloid is brownish with brownish patches on the upperside. On the underside, there is a pale orange patten of five petals around the mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

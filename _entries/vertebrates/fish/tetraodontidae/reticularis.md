@@ -54,9 +54,10 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs.
-**Features:**
+## Features
+
 To about 45cm. Body covered with fine prickles. Body greyish brown with whitish stripes on its snout, cheeks and belly. Brown and whitish lines circle the eye. Whitish rounded spots on the dorsal surface, giving a net-like appearance. Large blackish blotch on the gill flap and on the base of the pectoral fin. Tail fin is spotted and the other fins are translucent yellowish-brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

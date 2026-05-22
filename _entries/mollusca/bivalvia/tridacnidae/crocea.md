@@ -122,10 +122,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large clam with wavy 'lips' is sometimes seen on our undisturbed Southern shores, tucked into coral rubble and even among living corals. But it is often overlooked.
 
-**Features:**
+## Features
+
 At 10-15cm, it is the smallest of the giant clams. It is buried deep in living and dead coral or other hard surfaces in relatively shallow water near living reefs. It bores into the hard surface with a combination of chemical and mechanical methods that are still poorly understood.
 The two-part shell has shallow fluted sculpturing on the surface. When submerged, all that can often be seen are its thick 'lips' of fleshy tissue. These come in various colours and patterns, from those that camouflage against its surroundings to bright colours.
 

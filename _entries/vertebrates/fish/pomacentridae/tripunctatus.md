@@ -166,10 +166,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This dark fish with electric blue markings is sometimes seen on some of our shores among coral rubble and near living reefs. Elsewhere, it is found in shallow bays and silty coastal reefs and other 'dead' areas, up to 3m deep. Usually alone, in holes of small rocks on sandy bottoms with coral rubble.
 
-**Features:**
+## Features
+
 To about 20cm, those seen about 12-15cm long. Adults dull greenish black or dark grey with a blue-edged black spot on the upper tail base, usually seen under rocks at low tide. Juveniles may have an additional blue-edged black spot on the soft parts of the dorsal fin and blue lines on the head and back.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

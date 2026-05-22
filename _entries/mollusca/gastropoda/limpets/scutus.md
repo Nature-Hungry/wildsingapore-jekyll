@@ -142,11 +142,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large slug-like limpet is sometimes encountered on our Northern shores, under stones usually alone.
 ****
 'Scutus' comes from the word 'suctum' which is the name of the Roman shield that the shell resembles.
-**Features:**
+## Features
+
 Oval shaped animal (3-5cm). The body is a lot larger than its shell, usually folded up around the edges of the shell and may cover most of the shell. In fact, the shell might be completely covered by the mantle, so that it appears to be a slug at first glance. Hoof-shield limpets come in various colours. The body may be black or beige, and shell white or brown. It has a pair of short tentacles.
 *Scutus unguis*
 has an all-black body.

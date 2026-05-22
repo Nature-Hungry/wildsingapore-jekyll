@@ -177,7 +177,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These bottom-dwelling fishes are commonly seen on all our shores but often overlooked. Skulking under stones, near coral rubble, or half covered in sand and sediments, they are hard to spot. Even out in the open, they look like algae-covered stones.
 At night, the fish is often spotted by its large eyes that 'shine' red in our torch.
 Sometimes seen dry out of water at low tide, under large stones, such fishes are still very much alive. There is no need to 'save' them or move them.
@@ -190,7 +190,8 @@ Toadfishes belong to the Family Batrachoididae. According to
 [Frogfish](../antennariidae/antennariidae.md)
 is another kind of fish.
 
-**Features:**
+## Features
+
 A toadfish is basically an enormous head on a small body! It has a broad, flat head with large eyes near the top of the head.
 
 **Three-spined toadfish**

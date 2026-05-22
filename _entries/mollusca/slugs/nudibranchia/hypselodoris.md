@@ -38,10 +38,11 @@ galleries:
       caption: "Acknowledgements Thanks to Toh Chay Hoon for sorting out the Hypselodoris from the Chromodoris photos. Links The Sea Slug Forum by Dr Bill Rudman: including descriptions and photos of Hypselodoris kanga , Hypselodoris bullockii The Slug Site: photo and fact sheet on the Branch of the Week Hypselodoris bullockii with a discussion on the wide range of morps of this nudibranch A Guide to Singapore Nudibranchs by Uma Sachidhanandam: photo and distribution of Hypselodori bullockii References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Debelius, Helmut, 2001. Nudibranchs and Sea Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp. Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans . Western Australian Museum. 184 pp. Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New World Publications. 497pp. Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp."
 ---
 
-**Where seen?**
+## Where seen?
 These small colourful nudibranchs are sometimes seen on our Northern shores. On coral rubble and rocky shores with sponges and encrusting animals.
 
-**Features:**
+## Features
+
 2-3cm. Body long, narrow with a long tail. Usually colourful with bright spots. Large flower-like gills on the back and large rhinophores (relative to the body size).
 
 *[Hypselodoris kanga](hykanga.md)*

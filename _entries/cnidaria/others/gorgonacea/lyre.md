@@ -67,10 +67,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This elegant sea fan resembles a comb, harp or lyre. It is sometimes seen on Beting Bronok and Changi. In deeper water, they can grow to 1.5m across.
 
-**Features:**
+## Features
+
 15-20cm long. Colony comprises long unbranched stems emerging from a lower horizontal branch. The vertical stems arise parallel to one another, on one plane. The overall shape resembles a lyre or harp; or teeth of a comb.
 The cylindrical stems are smooth and thin. When the polyps are retracted, they form small mounds on the stem. Colours red, brown and white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

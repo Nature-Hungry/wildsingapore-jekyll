@@ -77,10 +77,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These corals with crooked maze-like corallites that look like jigsaw puzzles are often seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-25cm, sometimes larger. Colonies are generally a smooth hemi-spherical shape. Some are nearly ball-shaped rather than hemi-spherical. The corallites have parallel walls that form long meandering valleys. The result is a regular fine pattern that resembles a jigsaw puzzle. In some, the shared walls are tall and thin, in others rather broad. Some have a groove at the top of the walls. Those seen with tentacles extended had short tentacles emerging from broad fleshy tissue. Tentacles have rounded tips. Colours seen include pale beige, brown, green, blue and purple, often contrasting coloured walls and valleys.
 
 Some species of corals recorded for Singapore that have these patterns include:

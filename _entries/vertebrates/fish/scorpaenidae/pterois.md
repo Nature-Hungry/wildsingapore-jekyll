@@ -69,10 +69,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they are found in sheltered lagoons, seaward reefs often sheltering under ledges during the day.
 
-**Features:**
+## Features
+
 Grows to about 30cm. Brown striped with broad median fins made up of flappy rays. The dorsal fins also long and flappy rays. The sting is extremely painful but rarely fatal.
 
 **Russel's lionfish**

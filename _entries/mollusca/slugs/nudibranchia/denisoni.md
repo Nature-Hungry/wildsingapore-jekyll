@@ -164,10 +164,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This delightfully bobbled nudibranch with electric blue spots is sometimes seen among seagrasses and seaweeds on our Northern shores, as well as at Cyrene Reef. Often seen in numbers, and then not seen again for some time.
 
-**Features:**
+## Features
+
 5-10cm long. Broad, soft body with lots of bumps and pimples, and distinctive electric blue spots. Thick club-like rhinophores and large feathery gills. The animal is generally beige sometimes with a purplish or pinkish tinge. Younger animals may be more colourful than older ones.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

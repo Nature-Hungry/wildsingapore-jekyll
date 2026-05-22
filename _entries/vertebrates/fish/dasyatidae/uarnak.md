@@ -82,10 +82,11 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This humungous spotted stingray is sometimes seen at Chek Jawa. Elsewhere it is common on sandy beaches and in shallow estuaries and lagoons; also found in sandy areas of coral reefs.
 
-**Features:**
+## Features
+
 A large ray that can grow to about 160cm in diameter and 6m in total length. It has conspicuous dark spots on a light brown disc; spots well-spaced in young but crowded to form reticulated or honey-comb like pattern in adult; white ventrally; tail marked with bands of black and white; snout sharply pointed; disc with narrowly rounded outer corners, and tail long, slender and nearly three times body length when intact.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

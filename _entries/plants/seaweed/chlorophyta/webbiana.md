@@ -58,10 +58,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This green seaweed is sometimes seen in clumps covering an area of about 20cm, on coral rubble among seagrasses on our Southern shores.
 
-**Features:**
+## Features
+
 Each stem about 4-6cm long with tiny bristles made up of many branched fine filaments, arranged in whorls around the central 'stem' to give the overall appearance of a stiff bottlebrush. Green to olive green.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg)

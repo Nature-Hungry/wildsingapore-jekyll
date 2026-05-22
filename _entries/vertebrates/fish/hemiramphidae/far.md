@@ -68,10 +68,11 @@ location:
 ---
 
 **
-**Where seen?**
+## Where seen?
 This rather plump halfbeak with dark bars on the sides of its body is sometimes seen near reefs.
 
-**Features:**
+## Features
+
 Those seen about 20cm, can grow to 40cm long. Body long, cylindrical and plump. It has a forked tail, upper lobe of the tail is yellowish and shorter than the lower lobe. 3 to 9 short black bars on the side of the body. Lower jaw elongated but not very long compared to the body. The tip of the lower jaw may be reddish. It breeds in estuaries.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

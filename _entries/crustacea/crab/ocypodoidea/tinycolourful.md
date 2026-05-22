@@ -56,10 +56,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This fiddler crab with red eyes on a dark eye stalk and a rather short and stout enlarged pincer is seen in the back mangroves.
 
-**Features:**
+## Features
+
 Body width 1-1.5cm. Body somewhat triangular. Red eyes on a pale or yellow eye stalk.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -84,10 +84,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small jellyfish sometimes seen on stranded on our shores. Several may be seen, and then none seen again for some time.
 
-**Features:**
+## Features
+
 Bell about 5-8cm, long thin thread-like tentacles from the edges of the bell 10-15cm long. Bell has radiating white patterns. Those washed ashore look like blobs of jelly.
 
 **Status and threats:**

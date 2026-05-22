@@ -117,11 +117,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny snail is sometimes seen in large numbers on sandy shores near monsoon drains and other sources of freshwater on some of our shores, sometimes among seagrasses and seaweeds.
 It seems to prefer the upper reaches of monsoon drains leading to the sea or slow-moving, sheltered, shallow waters. Also seen in silty lagoons. The study by Tan & Clements (2008) found this snail on sandy banks of mangrove streams, on sand in drains and canals, intertidal muddy sand banks, and on mud in mangroves. Sites included: Sarimbun, Punggol, Pulau Ubin, Pasir Ris, Sungei Changi, Changi, Tanah Merah, Sungei Bedok, Marina East, Kallang and Tuas.
 
-**Features:**
+## Features
+
 0.3-0.5cm. Shell thin spherical with a large semi-circular shell opening. Shell smooth glossy. Shell pattern yellow or olive background with delicate black lines in various designs; from simple lines to more complex patterns. It is said no two shells are identical. Operculum thin smooth horn-like material usually greyish. Body pale with fine black stripes, and long slender tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Dubious babies:**

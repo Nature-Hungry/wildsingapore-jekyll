@@ -211,10 +211,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This skinny long fish can be seasonally abundant in seagrass areas on our Northern shores. Also sometimes seen in seagrasses in the South. At low tide, it generally remains motionless among seagrasses and seaweeds, and resembles roots or twigs. Watch your step!
 
-**Features:**
+## Features
+
 8-10cm. Body long, cylindrical and somewhat stiff. Long snout with tiny tubular nostrils. Has tiny pelvic fins, a tiny dorsal fin at about mid-length of the body and a tiny fan-shaped tail fin. Comes in a wide range of colours and patterns, from black to brown, pink to green. Some have narrow pale bands widely but evenly spaced along the body. Others may be plain.
 
 **Sometimes mistaken for**

@@ -125,10 +125,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Often mistaken for a satay stick stuck in the sand, this elegant colony of animals is commonly encountered on our Northern shores, and sometimes on our Southern shores too. On silty sand and among seagrasses.
 
-**Features:**
+## Features
+
 Colony resembles narrow feather. 15-20cm long, slender, stiff 'stem' - the central primary polyp. With short thin leaf-like structures (1-2cm) that have no spikes on the edges. The leaves are symmetrically arranged on both sides of the 'stem',. Tiny feeding polyps (autozooids) with 8 branched tentacles emerge from these leaf-like structures when submerged. The autozooids are tubular and fused to adjacent autozooids for most of their length. When the polyps are contracted, they form little round bumps. The colony also has another kind of polyp that sucks in water (siphonozooids). These are found on the 'stem' between the leaves. The other end of the 'stem' is a bulbous foot that is buried in the sand. Colours seen include red, maroon, orange, purple and white.
 
 **'Satay stick':**

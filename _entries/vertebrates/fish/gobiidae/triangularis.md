@@ -93,10 +93,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This little brown goby is often seen on many of our shores from sandy to silty shores near reefs, also among seagrasses and mangroves. Sometimes, in a group of several individuals of different sizes.
 
-**Features:**
+## Features
+
 Up to about 5cm, those seen about 3-5cm. It has a chubby face with small eyes and a camouflaging pattern of a dark head and body with irregular pale spots and blotches that break up the body outline.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**

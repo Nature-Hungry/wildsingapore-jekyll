@@ -84,10 +84,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen on sandy areas near seagrasses on some of our shores.
 
-**Features:**
+## Features
+
 6-8cm in diameter. Shell thick and coils to fom a disc with a flat base. Shell pattern of spirals of brown bars on a paler background. Body and fat tentacles are plain (not striped). Operculum thin, flat and made of a horn-like material.
 
 **What does it eat?**

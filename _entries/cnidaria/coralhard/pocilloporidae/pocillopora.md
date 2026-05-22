@@ -148,10 +148,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small bushy branching hard coral is commonly seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colony 10-20cm, generally a rounded bushy shape made up of short branches with blunt tips. Some have thinner branches, other have thick but flattened branches, and yet others have short lumpy branches. Corallites are small sunken and typically ringed by tiny wart-like bumps that stick out (verrucae), a distinguishing feature of
 *Pocillopora*
 species. It is hard to see the skeleton structure in a living cauliflower coral even when it is out of water at low tide. There always seems to be a layer of mucus over the entire colony.

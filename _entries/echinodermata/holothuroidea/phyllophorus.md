@@ -109,10 +109,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This spherical sea cucumber is commonly seen on our Northern shores. It is usually buried in sandy areas near seagrasses, often many near one another. Sometimes, it may also be found washed up on the shore hidden among the seaweeds. Be careful not to step on these.
 
-**Features:**
+## Features
+
 10-15cm. Body spherical. Those freshly dug-up are more U-shaped ovals with the mouth and backside facing the surface. Colour white, beige, brownish and sometimes orangey. Many tube feet and tiny filaments (papulae) evenly cover the entire body. These help grip the sand and keep the animal anchored underground. Feeding tentacles translucent white with branched tips which are darker. Usually, only the feeding tentacles stick out above the sand while the entire animal remains buried.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Those found above ground tend to be round, sometimes inflated into translucent white balls, sometimes floating in the water. Like some other sea cucumbers, it will eject its guts if it feels threatened.

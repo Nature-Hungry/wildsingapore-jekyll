@@ -105,10 +105,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These large clams are sometimes seen on our Southern shores near living reefs.
 
-**Features:**
+## Features
+
 Diameter 6-10cm. A circular two-part shell, thick and heavy, yellowish, often covered in sediments. When submerged, a fringe of tentacles emerge, some long and many short tentacles, with many tiny, well developed eyes along the mantle edge.
 
 **Clap back clam**

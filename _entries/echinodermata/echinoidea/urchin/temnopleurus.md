@@ -103,10 +103,11 @@ location:
 - lab
 ---
 
-**Where seen?**
+## Where seen?
 This black sea urchin with short spines is commonly seen on some of our Northern shores. Large heaps of many individuals are sometimes seen. At other times, there are none to be seen. Sandy areas near seagrasses as well as coral rubble and rocky shores and under jetties.
 
-**Features:**
+## Features
+
 Body diameter 4-5cm, sometimes tiny ones about 1cm in diameter are seen among seaweeds. Short slender spines (1-2cm) with long translucent tube feet that may extend past the spines. The spines on the upperside are black and pointed. Spines on the underside are flattened and may be banded. Some have obvious light-coloured zig-zag lines radiating from the centre around the body. The sea urchin appears to 'carry' shells and other debris. This behaviour may help camouflage it or shield it from sunlight.
 
 **May be confused with**

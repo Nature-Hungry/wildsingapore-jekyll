@@ -69,10 +69,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Tiny ones that form tubes are sometimes seen encrusting sponges and other immobile creatures on the shore.
 
-**Features:**
+## Features
+
 Spionids are generally small slender active worms. They have tentacles (palps) on the head that are used for feeding. Some may feed by gathering particles that deposit on the surface using a pair of long feeding palps that is grooved with tiny hairs (cilia) that transport the particles along the palps to the mouth. The palps may also be used to gather plankton and particles suspended in the water. Other spionid worms burrow in the sand. Spionoid worms may live in tubes made of sand or wander freely.
 
 **Spionid sponge worms**

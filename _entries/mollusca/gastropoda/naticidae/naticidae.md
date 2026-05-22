@@ -223,7 +223,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 With spherical or oval shells and a huge body, these fierce burrowing snails are commonly seen on our sandy shores. These snails are more commonly seen above ground at night. But a keen observer may still detect their presence by the distinctive trails these snails leave on the surface as they quietly burrow just beneath the sand.
 
 **What are moon snails?**
@@ -235,7 +235,8 @@ Moon snails belong to the Family Naticidae. These include the Genus
 *Sinum*
 have thin shells and very large bodies which cannot be retracted fully into the shell.
 
-**Features:**
+## Features
+
 About 2cm. When a moon snail is fully extended out of its shell, it has an amazingly large body compared to its shell. It achieves this by inflating its tissues with seawater.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bulldozing for prey:**

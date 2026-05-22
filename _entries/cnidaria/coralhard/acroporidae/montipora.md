@@ -90,12 +90,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These corals are often seen on many of our Southern shores. As a group, various
 *Montipora*
 species are found from deep water to clear reefs as well as lagoons with murky waters. Some species are relatively fast growing.
 
-**Features:**
+## Features
+
 ****
 Colonies may be plate-like, branching, encrusting to somewhat spherical. Sometimes, the same species may have different growth forms, even one colony may have different shapes. In branching forms, the branch tips are usually white and smooth, lacking polyps. In plate-like forms, the edges usually paler, smooth and lacking polyps.
 

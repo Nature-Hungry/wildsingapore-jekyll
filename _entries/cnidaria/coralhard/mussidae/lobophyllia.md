@@ -113,10 +113,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fleshy dome-shaped hard coral with large 'teeth' is commonly seen on many of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen about 15-20cm, sometimes much larger. Those seen on the intertidal were hemispherical with rather flat tops. Some have corallites that are branching and trumpet-shaped (phaceloid): long column flaring out at the top to irregular oval shapes (2-5cm in diameter). The branching corallites may be packed closely to one another, or spaced apart. They are arranged with the broad, flared portions facing out so the colony forms an overall spherical shape. Elsewhere, these colonies are reported to reach 5m across or more, some with branches up to 30cm long. In others, the corallites form meandering valleys with separate walls (flabello-meandroid).
 
 Corallites walls are thick with large partitions (septa) that have long, prominent 'teeth'. When submerged, the skeleton is covered with thick, fleshy tissue which has bands of 'pimples' (not smooth). Polyp tentacles are only extended at night and the tentacle tips are usually white. It is said that

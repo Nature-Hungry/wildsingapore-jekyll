@@ -50,10 +50,11 @@ links_references: |
   T.F. H Publications. 464 pp
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with bubble-shaped tentacles is rarely seen on the intertidal shores in southern Singapore. Elsewhere in the world, it is apparently more often found in murky waters.
 
-**Features:**
+## Features
+
 Colony boulder-shaped, those seen 15-20cm. May also form thick plates. Corallites brain-like meandering short, widely separated valleys, made up of large coin-like disks. During the day, the colony is usually covered in vesicles or bubbles (1-2cm). The bubbles may have one or two white tips. These bubbles can retract into the skeleton when disturbed. The conical finger-like tentacles are only extended at night. Colours include beige.
 
 **Sometimes confused with**

@@ -49,10 +49,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These little brown disk-shaped animal with stripes is sometimes encountered on our Southern shores, in coral rubble areas.
 
-**Features:**
+## Features
+
 Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Brown with paler or white stripes. Tentacles few, very short sparsely along the stripes. The edge of the oral disk smooth. The mouth is usually held upturned.
 
 **Status and threats:**

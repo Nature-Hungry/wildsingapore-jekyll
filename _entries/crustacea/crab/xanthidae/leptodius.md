@@ -95,10 +95,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large crab with typical spoon-tipped pincers is sometimes seen in rocky or rubbly areas on our Southern shores.
 
-**Features:**
+## Features
+
 Body width 8-10cm. Body oval, rather flat, with 4-5 blunt teeth on the edges of the shell. Colours and patterns in a wide variety; basically brown or grey, sometimes with dark patches or mottled. Pincers not very long, somewhat squat with bumps on the 'elbows' and black spoon-shaped tips. These are probably used to scrape off algae. The walking legs are fringed with long hairs and end in pointed tips.
 
 **Sometimes confused with**

@@ -51,10 +51,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.
 
-**Features:**
+## Features
+
 Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

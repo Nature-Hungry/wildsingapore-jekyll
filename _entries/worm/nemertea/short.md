@@ -59,10 +59,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 Rather short ribbon worms are sometimes seen on some of our shores. They are more active at night.
 
-**Features:**
+## Features
+
 Grouped in this entry are unsegmented worms that are only 10-15cm long, some more cylindrical than ribbon-like. Most are pale with one fine stripe along the length. They probably include different kinds of ribbon worms.
 
 **What does it eat?**

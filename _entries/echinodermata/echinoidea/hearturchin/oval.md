@@ -129,10 +129,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Usually only their skeletons are seen on some of our shores. Living ones are generally seen above ground only at night. They are usually buried in the sand. In seagrass meadows near reefs, also under stones in submerged reefs.
 
-**Features:**
+## Features
+
 8-10cm long. Body oval egg-shaped, without a deep groove in the front. A large petaloid that can be seen even in living animals, with plain (unbanded) medium length to short spines densely covering the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

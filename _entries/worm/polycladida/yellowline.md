@@ -145,10 +145,11 @@ galleries:
       caption: "Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ."
 ---
 
-**Where seen?**
+## Where seen?
 This small pale flatworm elegantly edged in blue with a central blue line is regularly encountered on many of our shores, on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 2-4cm long. There is a pair of pseudotentacles made up of simple folded edges of the body.
 
 Grouped in this entry are flatworms with a body that is white, beige or pale bluish, edged with a bright blue margin and one central blue stripe along the length of the body. The central line ends with a tiny blue circle-dot near the head.

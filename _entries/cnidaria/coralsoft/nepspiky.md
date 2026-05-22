@@ -108,10 +108,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This flowery soft coral with spikes common on some of our shores. On coral rubble near living reefs.
 
-**Features:**
+## Features
+
 Colony bushy about 6-12cm. Colony is branched with 'stems' emerging from a central 'trunk'. The 'stem' white or transparent, with sclerites embedded in the tissues. The polyps appear in clusters at the tips of the branches. Polyps tiny (about 0.5cm) with eight branched tentacles. The polyps may be white, beige, yellow, orange to purple and maroon. There are spikes next to the polyps, sometimes nearly as large as the polyps. The spikes are more obvious when the polyp tentacles are retracted and the polyps curl up into little balls. The animals do not have symbiotic algae (zooxanthellae) and thus can be found in murky water and dark places.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

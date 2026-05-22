@@ -248,14 +248,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny and superbly camouflaged slug is often found on
 [solitary fan green seaweeds](../../../plants/seaweed/chlorophyta/avrerecta.md)
 (
 *Avrainvillea*
 sp.) which they feed on. At low tide, many slugs are often seen on one sea fan, usually clustered near the base of this seaweed. It was previously in Family Limapontiidae. Divers sometimes call it 'Shaun the Sheep'.
 
-**Features:**
+## Features
+
 To about 1cm or smaller. Short, soft body with lots of short finger-like projections (cerata) that are transparent at the tips and filled with green stuff. Some have black spots, others with white stripes on the cerata. Tiny black eyes close together between the pair of long rhinophores. No oral tentacles.
 
 It is difficult to tell apart the species in the field, but in general,

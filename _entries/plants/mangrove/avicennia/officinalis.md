@@ -68,12 +68,13 @@ links_references: |
   Cambridge University Press. USA. 419 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pencil roots and glossy spoon-shaped leaves sometimes seen in our mangroves, but is not as commonly encountered as
 *[Avicennia alba](alba.md)*
 . It is found on soft recently consolidated mudbanks, banks of river meanders and at river mouths. Hsuan Keng reported it being found in Changi, River Valley Road and Pulau Ubin.
 
-**Features:**
+## Features
+
 Tree to 12m tall, sometimes 22m. Bark is smooth, with lenticels, light coloured and not fissured. Pencil-like pneumatophores. Often develops aerial stilt roots.
 
 Leaves often spoon-shaped, though sometimes not (8-10cm long). Upperside glossy green, underside finely hairy, greenish yellow but never white. The upperside may be encrusted in salt crystals especially in dry weather.

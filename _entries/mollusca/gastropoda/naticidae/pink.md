@@ -92,11 +92,12 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This moon snail with a pretty pink and white body is sometimes encountered on some of our shores near and among seagrass meadows
 .
 
-**Features:**
+## Features
+
 2-3cm. Shell smooth thick spherical (not flat) with the spiral tip sticking out a little. Shell pattern plain orangey brown sometimes with smudged bars and faded stripes near the spiral. On the underside, a shallow depression. Operculum plain pearly white (no markings), with several fine grooves. Foot transparent with a white margin and a pattern of white bars and red spots, front part of the body densely covered with tiny orangey pink spots. Tentacles short, pink or orange.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Moon on the hunt:**

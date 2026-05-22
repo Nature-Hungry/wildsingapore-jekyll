@@ -51,9 +51,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This encrusting sponge is sometimes seen on coral rubble on our Southern shores.
-**Features:**
+## Features
+
 Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).
 
 **Sometimes confused with**

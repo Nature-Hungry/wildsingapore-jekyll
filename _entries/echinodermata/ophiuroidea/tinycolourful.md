@@ -113,7 +113,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These tiny brittle stars are sometimes seen on
 [sea fans](../../cnidaria/others/gorgonacea/gorgonacea.md)
 ,
@@ -122,7 +122,8 @@ and other cnidarians and even on
 [Thorny sea urchins](../echinoidea/urchin/prionocidaris.md)
 . A single host can be home to many of these tiny brittle stars. But it requires a keen eye to spot them.
 
-**Features:**
+## Features
+
 Whole animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Arms with colourful bands usually to match the host animal. Central disk also with colourful markings. Sometimes confused with the
 [Tiny orange brittle star](tinyorange.md)
 which are found on

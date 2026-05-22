@@ -49,10 +49,11 @@ links_references: |
   . Tynron Press, Scotland. 247 pp.
 ---
 
-**Where seen?**
+## Where seen?
 These wild 'chickens' are commonly encountered on Pulau Ubin. They are now also seen in some of our coastal parks such as Sungei Buloh Wetland Reserve and Pasir Ris Park.
 The Red junglefowl is the wild ancestor of domesticated chickens.
-**Features:**
+## Features
+
 The colourful male (about 80cm) has white ear patches and a white puff at the base of his tail. The drab female (about 40cm) has dull brown streaky plumage. She also has white ear patches and lacks a comb or wattles on her head. Their feet are lead-grey. The Red junglefowl cockerel's call sounds just like his domesticated cousin but his crowing is said to be more high-pitched and ends more abruptly.
 
 If alarmed, these shy birds can fly quite a distance, for example to cross rivers, and quite high, spiralling upwards to the tree tops. In fact, they roost in trees. They prefer forest edges, but elsewhere, they are found in habitats ranging from mangroves to high mountain passes.

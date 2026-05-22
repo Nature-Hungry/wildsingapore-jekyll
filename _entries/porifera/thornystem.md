@@ -62,10 +62,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This sponge that looks like a cluster of thorny thick stems is sometimes seen on growing among living corals.
 ****
-**Features:**
+## Features
+
 A cluster of a few stems long (10-20cm), sparsely branched, cylindrical covered with small spiny 'thorns'. Many small holes unevenly scattered over the surface. Colour blue or greenish blue.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

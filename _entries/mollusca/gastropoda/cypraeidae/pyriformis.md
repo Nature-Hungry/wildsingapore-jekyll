@@ -78,11 +78,12 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This small cowrie has so far only been seen at Beting Bronok. It was previously known as
 *Cypraea pyriformis*
 .
-**Features:**
+## Features
+
 About 2cm. Shell pear-shaped, generally pale blue with 3 broad pale brown bands, sometimes 1 band darker, or bands are broken up into squares. Underside pale with a few dark spots and small dark 'teeth'. The living animal has a dark mottled mantle.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

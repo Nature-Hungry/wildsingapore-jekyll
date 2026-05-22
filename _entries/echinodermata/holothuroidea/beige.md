@@ -110,10 +110,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This unassuming sea cucumber is sometimes seen on our Northern shores, among seagrasses.
 
-**Features:**
+## Features
+
 6-12cm long. Body cylindrical, spindle-shaped (pointed at both ends) with a distinct upperside and underside. Underside is flat with rows of short tube feet. The sea cucumber appears to be but is not actually covered in sediments! Its body colour often matches the colour and texture of the surrounding sediments; beige with tiny darker speckles. In some, when at rest and relaxed, dark blotches that are regularly spaced can be seen along the body length.
 Feeding tentacles pale with bushy tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

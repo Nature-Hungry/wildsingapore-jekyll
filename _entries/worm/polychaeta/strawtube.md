@@ -62,10 +62,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This worm is commonly seen on sand bars at the low water mark. The tubes resemble drinking straws.
 
-**Features:**
+## Features
+
 The tubes are medium, about 0.5cm in diameter, similar in dimension to a typical drinking straw. Often found in large numbers covering large areas, the tubes usually regularly separated from one another (not tightly clustered).
 
 The actual animals are complex with 'wings' and other extensions.

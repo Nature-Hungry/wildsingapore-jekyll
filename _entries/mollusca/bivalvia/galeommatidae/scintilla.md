@@ -140,10 +140,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This tiny clam can move like snails, crawling on a foot holding the shell on its back. It is found under stones, often several together, on many of our shores.
 ****
-**Features:**
+## Features
+
 1-2cm.
 Shell oval, thin and white. The mantle sometimes covers the entire valves. When submerged, little finger-like structures appear from the mantle. Some have a wide 'foot' created from fused mantle edges. The foot holds on to a hard surface as well as to slowly creep about or 'jump' around quickly.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

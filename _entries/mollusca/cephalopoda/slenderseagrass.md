@@ -105,10 +105,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small octopus with very long arms is sometimes seen on our Northern shores among seagrasses. Usually purplish. Maroon ones with tiny white spots are sometimes seen.
 
-**Features:**
+## Features
+
 Head about 2-3cm long, arms may be 10-12cm long. Some are hardly bigger than a seagrass blade! The head is tapering, relatively smooth sometimes with tiny bumps. Arms slender tapering, webbing not very extensive. Generally shades of purple. Included in this fact sheet are maroon ones. This octopus hasn't been seen to change the skin texture into large bumps or spines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

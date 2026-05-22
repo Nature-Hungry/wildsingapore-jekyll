@@ -118,10 +118,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This intriguing clam is sometimes seen on our Southern shores, near reefs. Sometimes on the sand, on rubble or among seagrasses. Elsewhere, often found on sandy bottoms often associated with reefs, sometimes in dense colonies.
 
-**Features:**
+## Features
+
 4-6cm. The two-part shell is thin and heart-shaped with the opening of the valves down the centre of the 'heart'. The colour may be dull yellowish, pinkish to white, sometimes with bright flecks of red and yellow. Sometimes with bright blue underside and rose-pink upperside. The clam attaches itself to a hard surface with small byssus threads from the underside.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

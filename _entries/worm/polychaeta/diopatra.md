@@ -102,7 +102,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Like rubber hoses sticking out of the ground, the sturdy tubes of this worm are commonly seen on all our shores including sandy shores near seagrass areas and soft silty areas near mangroves. The tubes are usually spaced apart from one another.
 
 **What are solitary tubeworms?**
@@ -112,7 +112,8 @@ Solitary tubeworms are segmented bristleworms belonging to the Family Onuphidae,
 [tubeworms in general](../tubeworm/tubeworms.md)
 .
 
-**Features:**
+## Features
+
 The solitary tubeworm makes a tube 1cm in diameter. The tube can be quite long, but usually only about 10cm of this is sticking out of the surface. The tube is tough, thick and leathery. Only the portion of the tube that sticks out of the ground is usually reinforced with bits and pieces (sand, shells, bits of wood). The tube is usually curved, with the opening facing down towards the surface. The lower portion of the tube that buried in the ground is thin and papery. This is more obvious if you look at a tube that has been washed ashore.
 
 One or two large leaves or large shells are usually added near the tube opening. Some suggestions for the ornamentation of these tubes are that it helps the worm differentiate between harmful predators and food.

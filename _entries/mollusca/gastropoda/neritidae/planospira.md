@@ -59,13 +59,14 @@ location:
 - lck
 ---
 
-**Where seen?**
+## Where seen?
 This sturdy nerite was seen once at Lim Chu Kang mangroves.
 The study by Tan & Clements (2008) found this snail on mangrove tree trunks and roots, muddy rocks, trash (e.g., discarded rubber tires and wooden planks), and monsoon canal walls. Sites included: Sarimbun, Lim Chu Kang, Kranji, Pulau Ubin, Pulau Ketam, Pasir Ris, Sungei Changi, Marina East and Tanjong Penjuru. According to Tan & Clements, this snail appears to be moderately uncommon and occurs in relatively low densities. The largest local population of
 *Nerita planospira*
 appears to be located in the mangroves of Pulau Ubin.
 
-**Features:**
+## Features
+
 About 2cm. Shell thick heavy, hemispherical with a sunken spire. Rough thick cords on the shell, the earlier whorls of the shell is flattened thus giving its common name (
 *Planus*
 means 'flat',

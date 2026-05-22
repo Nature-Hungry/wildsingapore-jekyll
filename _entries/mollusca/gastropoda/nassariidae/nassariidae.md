@@ -130,10 +130,11 @@ location:
 - sis
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 Whelks are commonly seen on many of our shores. On sandy or muddy shores and among seagrasses. Most whelks live in shallow waters, often in large groups. They are sometimes also called Nassa mud snails or Dog whelks. These small snails are among the busiest creatures you might come across at low tide, as they try to beat one another to any fresh dead animals left on the shore. When not foraging, whelks hide in the sand.
 
-**Features:**
+## Features
+
 About 2cm. Whelks have tough thick shells. They have a long siphon and a large organ near the siphon (called the osphradium) that are used to detect chemicals released by dead animals. The fleshy siphon is extended out of a little notch in the tip of the shell. The siphon of a whelk can be as long as its body! They also use the long siphon to breathe as they burrow in the sand. They have long slender tentacles bearing eyes, and the back of the large foot has a pair of tentacles. Whelks can also drill through shells.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Whelk food:**

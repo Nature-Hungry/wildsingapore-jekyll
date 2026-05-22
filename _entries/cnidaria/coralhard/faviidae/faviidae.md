@@ -46,7 +46,7 @@ links_references: |
   T.F. H Publications. 464 pp
 ---
 
-**Where seen?**
+## Where seen?
 Due to a revision of coral groupings, all previous members of Family Faviidae have been placed under different families, most in
 [Family Merulinidae](../merulinidae/merulinidae.md)
 .

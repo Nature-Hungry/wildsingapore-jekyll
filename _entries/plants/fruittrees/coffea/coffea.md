@@ -52,10 +52,11 @@ galleries:
       caption: "Links Coffee and Coffea arabica New Crop Resource Online Program at Purdue University. The story of coffee on the International Coffee Organization website. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 Almost everyone knows about coffee but few have seen a coffee bush! You can see several at Pulau Ubin's Sensory Trail. According to Corners, there are about 40 species in tropical Africa and Asia, with 3 wild species in Malaya.
 
-**Features:**
+## Features
+
 A tall bush (to about 5m). Leaves large. Flowers small, white or green, and fragrant. According to Corners, the flowers bloom in synchrony. The buds develop to a certain size then remain dormant until there is a sudden drop in temperatures following a storm during hot weather. Then all the flowers bloom at the same time. The oval green berries ripen red or purple, taking many months and ripening at different rates. There are two large seeds inside the berries which are the beans used to make our coffee!
 
 **Civet-processed coffee:**

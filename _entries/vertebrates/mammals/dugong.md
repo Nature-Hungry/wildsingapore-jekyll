@@ -69,14 +69,15 @@ links_references: |
   New Holland Publishers. 128 pp.
 ---
 
-**Where seen?**
+## Where seen?
 Dugongs used to be common in the Johor Straits but were considered locally extinct by the 1980's. While in the late 1990's, there were increased encounters with dugongs in the Johor Straits, there were fewer sightings in the 2000's.
 
 According to Davison, they are recorded mainly from the north-eastern Johor Straits around the Sungai Johor estuary. Strandings have occured on Pulau Ubin, Pulau Tekong, Changi and East Coast Park. Individuals have been sighted off Changi, around Pulau Ubin, Pulau Tekong and Labrador.
 
 Dugongs need to eat lots of seagrass so they keep moving and are usually not permanently resident in one small location. Dugongs can travel several hundred kilometers in a few days as they feed from place to place. Our seagrass meadows are probably only one stop among many for dugongs that live in the area.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 Adults 2.4-2.7m long and weighing 230-360kgs. It is an air-breathing mammal that is well adapted to its underwater lifestyle and seagrass diet.
 A dugong's mouth faces downwards to munch on seagrass and it has large, grinding teeth that grow continuously. Its digestive system is also adapted for tackling seagrass. Its front limbs are modified into flippers, used for steering when swimming, or for 'walking' as it floats over the ground when feeding. A dugong has no hind limbs but has a powerful tail fluke to swim with. Its grey, smooth skin is thick and sparsely covered with hair. A dugong has lots of stored fat (blubber) which provides bouyancy. The dugong is the only herbivorous mammal that is strictly marine.
 

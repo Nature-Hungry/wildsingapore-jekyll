@@ -49,10 +49,11 @@ galleries:
       caption: "Links Ximenia americana on Total Vascular Flora of Singapore Online: photos and fact sheet. Ximenia americana on the NParks Flora and Fauna website: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. Other references Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 A shrub or small tree, it is seen growing wild on some of our undisturbed shores and back mangroves. According to Hsuan Keng, they were found in Changi, Jurong, Pasir Panjang and Pulau Seletar. According to Giersen, these plants are found throughout the tropics. It is also known as Tallow-wood or Tallowwood.
 
-**Features:**
+## Features
+
 A shrub or small tree up to 2-4m tall. Bark greyish brown with red cork and rounded lenticels.
 
 Leaves oval (3-4cm) thick leathery with a short stalk. The crushed leaves have a strong smell of almonds as they contain cyanide. There are thorns in the leaf axils.

@@ -57,9 +57,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Appearing like a bunch of tangles, this sponge is sometimes seen on our Southern shores.
-**Features:**
+## Features
+
 15-20cm long, 1cm in diameter. A clump 'stems' flatttened, slender (0.5cm), long and sparsely branched, often in a tangle. Small regular holes along the length. Colours bluish to olive green and yellowish green.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

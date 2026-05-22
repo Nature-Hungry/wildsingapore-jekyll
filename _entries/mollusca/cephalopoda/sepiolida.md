@@ -131,7 +131,7 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 These rotund little squids are sometimes seen on our Northern shores on sandy areas among seagrass meadows.
 
 **What are bobtail and bottletail squids?**
@@ -143,7 +143,8 @@ They are
 [octopuses](octopus.md)
 . They belong to the Suborder Sepiolida. Bobtail squids belong to the Family Sepiolidae while Bottletail squids belong to the Family Sepiadariidae.
 
-**Features:**
+## Features
+
 2-4cm. These squids are generally rather spherical with a pair of rounded fins that make them look a little like an aquatic version of Dumbo the Flying Elephant! These squids can only be positively identified by examining the arm and suckers of the males. Females are difficult to identify.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Squids in this group tend to be found mostly on the sea bottom, generally in sandy or muddy habitats where they lie buried during the day. They use their broad fins to bury themselves, and use their funnel to blow sand and arms to rake sand over their head. At night, they come out to hunt.

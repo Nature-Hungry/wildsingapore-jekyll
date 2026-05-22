@@ -104,9 +104,10 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number.
-**Features:**
+## Features
+
 Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm)
 uniformly maroon (not banded), except for those around the mouth (on the underside)
 .

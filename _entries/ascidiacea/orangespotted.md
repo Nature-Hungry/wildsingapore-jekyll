@@ -47,11 +47,12 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These small blobs with bright orange spots are sometimes seen on some of our shores
 .
 
-**Features:**
+## Features
+
 Colony about 5-8cm in diameter. Rubbery blobs found near seagrasses. Dark blue background with bright orange spots arranged in petal-like shapes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

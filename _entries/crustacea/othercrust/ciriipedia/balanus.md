@@ -95,14 +95,15 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small rather pointy barnacle is commonly seen on many of our rocky shores and other hard surfaces in the sea such as jetty pilings, sea walls. Usually, many are crowded together in lower portions and shaded crevices where it is wetter. Unlike the hardier
 [star barnacles](euraphia.md)
 (
 *Euraphia*
 sp.) which are found higher up where it is drier.
 
-**Features:**
+## Features
+
 To about 1 cm across, conical outer shell made up of several wall plates.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Many settle on walls and hard surfaces. Some species of acorn barnacles settle on living roots of mangrove trees. Others on living animals such as crabs.

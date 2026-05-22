@@ -106,9 +106,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small fish with a camouflaging mosaic pattern is often seen in sandy areas near reefs on many of our Southern shores. Tiny ones sometimes seen among seaweeds.
-**Features:**
+## Features
+
 Those seen 3-5cm. Body somewhat flattened. Head broad and flat with a narrow pointed mouth so that the head appears triangular when seen from above. It has a pattern of patches and bars of various shades of brown and white that matches the sandy areas where it is found.
 
 According to Ng, this species is distinguished from the other dragonets of Singapore in having a combination of a narrow snout, dark saddles on the body, and dark markings on the anal fin.

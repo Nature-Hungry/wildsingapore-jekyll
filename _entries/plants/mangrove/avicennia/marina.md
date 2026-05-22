@@ -74,7 +74,7 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This is Singapore's rarest
 *Avicennia*
 . According to Ng, it is known only from St. John's Island, Pulau Tekong and Pulau Unum, where it is found on river banks or in marine lagoons. It has since been found on Pulau Semakau and also at Sungei Pandan. According to Hsuan Keng, it was found at Tuas and Pulau Sudong.
@@ -83,7 +83,8 @@ Although rare in Singapore, according to Tomlinson "when the name is used in the
 *Avicennia*
 , indeed of any mangrove". The range includes East Africa and the Red Sea (the type locality) along the coasts of the Indian Ocean, South China Sea, much of Australia into Polynesia as far as Fiji, and to North Island in New Zealand.
 
-**Features:**
+## Features
+
 In Singapore, the tree may be tall (2-3m) or short (under 2m). Bark mottled greenish yellow, flaky and peeling in patches. Pneumatophores slender with pointed tips (10-15cm).
 Stems squarish all the way from flower/fruit to leaf-bearing portions.
 

@@ -28,10 +28,11 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These translucent blobs are sometimes seen on our mudflats and sandflats. Seasonally, in large numbers.
 
-**Features:**
+## Features
+
 About 10cm long. Translucent with tiny eggs embedded in the mass. Usually attached to the group, often teardrop or light-bulb shaped when submerged. Possible animals responsible for laying these eggs include sea slugs and worms.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

@@ -102,10 +102,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Enormous jellyfishes are sometimes seen washed ashore on our shores. Several may be seen, and then none seen again for some time. These are probably different species but are grouped here for convenience of display.
 
-**Features:**
+## Features
+
 Bell about 25-50cm diameter, oral arms about the same length as bell diameter (they seldom extend much beyond the bell). Some have finger-like bumps on the bell.
 
 **Jelly friends:**

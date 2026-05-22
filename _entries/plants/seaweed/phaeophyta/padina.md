@@ -135,10 +135,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Bouquets of this brown seaweed is commonly encountered on many our shores, especially our Southern shores. On boulders, rocks, stones and coral rubble. It is also sometimes called Mermaid's ear seaweed.
 
-**Features:**
+## Features
+
 A bunch of funnel-shaped structures. Each funnel about 3-5cm in diameter, with concentric circles of tiny hairs and a rolled edge. The funnel is often torn at the edges. The bunch of funnels is usually attached to a hard surface and spreads out like a beautiful bouquet when submerged. Golden brown, sometimes with a bluish or whitish tinge. The white tinge is from the calcium carbonate incorporated in the blade.
 *Padina*
 is the only brown seaweed known to incorporate calcium.

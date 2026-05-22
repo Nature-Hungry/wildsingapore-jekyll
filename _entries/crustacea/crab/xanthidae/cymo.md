@@ -83,7 +83,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This tiny hairy crab with big blue eyes is sometimes seen on our some of our shores living in branching corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 (
@@ -94,7 +94,8 @@ sp.) and
 *Pocillopora*
 sp.).They are small and well-camouflaged.
 
-**Features:**
+## Features
+
 Body width about 1cm. Body, legs and pincers hairy, a drab beige or grey. It usually has a layer of algae growing on its body.
 
 **Other tiny crabs that live in corals**

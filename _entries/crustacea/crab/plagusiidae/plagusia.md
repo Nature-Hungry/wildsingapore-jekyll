@@ -122,7 +122,7 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This bumpy crab that resembles the
 [Sally-light-foot crab](../grapsidae/albolineatus.md)
 (
@@ -131,7 +131,8 @@ This bumpy crab that resembles the
 [Family Grapsidae](../grapsidae/grapsidae.md)
 .
 
-**Features:**
+## Features
+
 Body width 5-6cm. Body oval (not so circular), convex (not flat), covered with small bumps. Pincers short slender. Walking legs long fringed with short hairs, tipped with pointy claws. With these legs, the crab clings tightly so it doesn't get washed away in the waves, and can scramble quickly among slippery rocks. Mottled body and legs. Colours seen include shades of brown, blue, purple, orange.
 
 **Sometimes mistaken for**

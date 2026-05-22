@@ -88,10 +88,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This little disk-like animal with round bead-like bumps is sometimes seen in small groups on coral rubble on many of our Southern shores.
 
-**Features:**
+## Features
+
 Each polyp 2-4cm in diameter, sometimes seen in groups of 5-10 polyps. Tentacles are bead-like, forming sparse rows that radiate from the central mouth. The mouth is often seen held upturned and is quite prominent. The outer edge of the oral disk is smooth (does not have a fringe of tentacles).
 Colours seen include beige, green, blue, purple, pink. Sometimes several different colours seen on one animal. The underside is smooth and brown. The animal can tuck its oral disk into its body column when it is exposed out of water.
 

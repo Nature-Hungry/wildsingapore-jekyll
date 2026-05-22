@@ -82,10 +82,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These snails are not commonly encountered. Mainly on wide clean sandy shores that are rich in buried marine life. They are usually more active at night. At low tide they are usually buried in the sand and only emerge at high tide.
 
-**Features:**
+## Features
+
 8-10cm long. The thin but strong shell is shaped like a fig, bulbous with a very short spire and large shell opening. Shell pattern usually white spirals with dark irregular bars over a speckled brown background. Mantle fleshy mottled often enclosing the entire shell. The snail has a large head with two long tentacles, a very long proboscis, and a long siphon. Large strong foot. It does not have an operculum an adult.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

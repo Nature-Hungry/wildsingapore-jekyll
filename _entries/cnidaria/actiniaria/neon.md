@@ -58,10 +58,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This medium-sized anemone is sometimes wedged in crevices in coral rubble near living reefs on our Southern shores. Usually seen alone.
 
-**Features:**
+## Features
+
 Diameter 5-10cm with tentacles expanded. Many tentacles mostly on the edge of the oral disk. Tentacles short, slender, tapering; dark green or blue with red tips. Oral disk dark with radiating pale stripes. Body column thick short smooth pale usually with flourescent green stripes or blotches. A row of large bumps on the top of the body column.
 
 *Isactinia citrina*

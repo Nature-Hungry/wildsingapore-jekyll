@@ -106,7 +106,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Corals belonging to the Family Acroporidae are seen on many of our Southern shores. On undisturbed shores, often more colonies, larger colonies, and a wider range of species are encountered.
 
 Of the reef-building corals, the Family Acroporidae has the largest number of species and includes some of the fastest-growing corals. Members of the family are fast-growing, opportunistic and highly successful in reproduction.
@@ -119,7 +119,8 @@ and
 *Montipora*
 together account for one-third of reef-building (hermatypic) coral species.
 
-**Features:**
+## Features
+
 ****
 Most members of the family have an axial corallite at the end of the branch. New corallites (called secondary or radial corallites) bud off along the sides while the axial corallite continues to grow upwards on the tip of the branch. All members of the family contain symbiotic algae (zooxanthellae). The axial corallite lacks zooxanthellae but grows rapidly as it is fed by other areas of the colony. The tips are often white or brightly coloured.
 

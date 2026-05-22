@@ -58,10 +58,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This rather gnarled creeper snail is sometimes seen near and on mangrove tree roots or stuck to logs near the low water mark.
 
-**Features:**
+## Features
+
 ****
 About 2-3cm long. Shell thick with irregular ribbing and rather knobbly look. It is believed to eat microalgae.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

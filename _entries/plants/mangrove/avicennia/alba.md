@@ -80,10 +80,11 @@ links_references: |
   Cambridge University Press. USA. 419 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with pencil roots is commonly encountered in many of our mangroves. It can sometimes even be spotted from afar by the white undersides of their narrow leaves, flipping up in the wind. It is usually found on newly formed mudbanks on the seaward side or along and near rivers. It is considered a pioneering species of sheltered shores.
 
-**Features:**
+## Features
+
 Shrub or tree up to 10-20m tall. Bark somewhat brown, may be smooth or slightly rough but not fissured. Pneumatophores pencil-like - thin cylindrical with rounded tip, not very tall (about 20cm). May have stilt roots emerging from the base of the tree trunk.
 
 Leaves generally long and pointed (8-12cm long), shiny dark green above with white underside. 'Alba' and '

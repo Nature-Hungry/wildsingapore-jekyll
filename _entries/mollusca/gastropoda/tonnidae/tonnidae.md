@@ -71,10 +71,11 @@ location:
 - chg
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a large, thin spherical shell is rarely seen. They are usually found in sandy bottoms in deeper water and thus living snails are rarely seen on the intertidal. Elsewhere, they are found in sandy areas especially in seagrass meadows.
 
-**Features:**
+## Features
+
 9-10cm. The shell is thin but strong, nearly spherical with a short spiral and very large shell opening. Usually with spiralling ridges on the surface. Adult snails lack an operculum.
 
 The Banded tun (

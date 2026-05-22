@@ -71,9 +71,10 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This large plain flatfish is sometimes seen on our Northern shores, on sandy areas near seagrasses.
-**Features:**
+## Features
+
 Those seen about 20cm, grows to about 30cm long. Eyes on right side. Body elongated oval tapering towards the tail. The tail fin is joined to the dorsal and anal fins. Fins are dark with a conspicuous white outer margin. Body usually a plain brown or beige without any markings.
 
 **What does it eat?**

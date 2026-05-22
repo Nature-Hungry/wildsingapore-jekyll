@@ -138,7 +138,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These long stick-like fishes with pointed jaws are sometimes seen near mangroves as well as reef flats. Some may even be found upstream in freshwater. During the day, larger ones are sometimes seen at jetties in small groups.
 
 **What are needlefishes?**
@@ -146,7 +146,8 @@ Needlefishes belong to the Family Belonidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=207)
 : the family has 10 genera and 34 species. Besides marine species, some species are found in freshwater.
 
-**Features:**
+## Features
+
 50cm-1m long or more, these fishes have a long silvery body. In some, the cross-section of the body is circular, in others rectangular. They usually have a dark blue stripe along the body length, and the tip of the lower jaw may be red or orange. They have long, narrow pointed jaws that are beak- or needle-like, thus their common name. 'Belone' means 'needle' in Greek. These slender jaws are usually filled with sharp needle-like teeth. The jaws are shorter in juveniles, elongating as they age. Has one single dorsal fin.
 
 **Sometimes mistaken for**

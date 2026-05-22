@@ -92,9 +92,10 @@ location:
 ---
 
 ******
-**Where seen?**
+## Where seen?
 This smooth lumpy sponge is particularly common on our Southern shores on muddy bottoms of lagoons near the mid-water mark. There may be a broad zone of these sponges near reefs.
-**Features:**
+## Features
+
 10-20cm wide. The smooth velvety sponge is highly variable in shape. Basically, three kinds of shapes: an irregular mass that is low and flush with the ground, usually full of little holes; or an irregular mass with many tall stout cones with holes at the tips; on an irregular mass with globular lumps attached, sometimes on a stalk. These globular lumps can break off to form new sponges elsewhere. All three form have similar internal structures (skeleton form and spicules). Colour usually a chocolate brown.
 
 **Chocolate Lovers:**

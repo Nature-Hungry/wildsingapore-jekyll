@@ -92,10 +92,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rubbery prickly sponge usually yellow or with yellow tips is commonly seen on coral rubble on many of our Southern shores.
 ****
-**Features:**
+## Features
+
 Extremely variable in shape from knobs, lobes, to slender branching stems (8-12cm) emerging from an encrusting base (20-30cm). The sponge can cover large areas of coral rubble or small stones. Tips rounded or flattened. The surface feels rubbery and slippery with small bumps that appear spiky and prickly when the sponge is out of water. There are many tiny holes sprinkled all over the sponge. Colours range from bright yellow, green-yellow to olive. Often mainly dark or olive green with yellowish tips. The sponge's species name 'purpurea' means purple. Which seems rather odd as they are not purple at all when alive. A dead sponge, however, rapidly oxidises to a dark brown or deep purple. As taxonomic work on sponges is often based on preserved specimens, this is probably how this sponge got its scientific name.
 
 **Sometimes confused with**

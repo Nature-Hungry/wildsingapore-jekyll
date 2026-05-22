@@ -147,10 +147,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This hirsute sea hare is sometimes seen on our Northern shores among seagrasses and seaweeds. Sometimes many are seen scattered everywhere, then they are no longer seen for many months. Sometimes, several are seen gathered together, densely packed in large numbers, possibly mating? Or simply gathering around a good source of food?
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 6-12cm. Body long, fleshy with a short triangular tail which has white bars. It is covered with lots of flat branching finger-like projections. It has two pairs of tentacles, oral tentacles and rhinophores about the same size (you have to look carefully among the hairy bits to distinguish the tentacles). The parapodia appears to be a hole in the centre of the body, rather than 'wings' or flaps as in other large sea hares. It may come in different shades of brown, sometimes bluish, sometimes with orangey 'hairs', usually with bright blue spots which are ringed in brown. It is usually well camouflaged and blends in perfectly with among seaweeds and seagrasses. Like some other sea hares, it produces a purple ink when disturbed.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**

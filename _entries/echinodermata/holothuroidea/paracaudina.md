@@ -72,10 +72,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This slippery transparent sea cucumber is sometimes seen floating in water or among seagrasses on some of our Northern shores. Sometimes also seen buried in sand near seagrasses. When seen, many individuals are encountered, and then none for a long time.
 
-**Features:**
+## Features
+
 10-15cm long. Body cylindrical and sausage-like. It does not have tube feet and thus feels smooth and slippery. The skin is thin and translucent so it's possible to see the double stripes of muscles along the length of the body and even its internal organs. It has short stubby feeding tentacles.
 
 **What does it eat?**

@@ -205,10 +205,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This rotund fish with a woeful expression is hard to spot. It looks just like an algae-covered stone. Rather large, it is probably quite common but often overlooked. It is sometimes seen on some of our shores, near coral rubble and reefs as well as among rocks in deeper waters near seagrasses. One was seen 'climbing' among long Tape seagrass, clinging on with its 'paws'.
 
-**Features:**
+## Features
+
 Those seen about 6-10cm long, can grow to 18cm. Distinguished by the pale translucent black-ringed spots on the tail fin. Body globular, colour is highly variable: usually mottled and matching the surroundings but also bright blue, orange, purple, green. Lacks scales and has a loose prickly skin instead. It waddles over the surface using its pectoral fins which have 'elbows' and ends in grasping 'paws' that can clutch bits of rubble. One was seen 'climbing' long seagrass with its 'paws'. It also has clasping pelvic fins on the underside of the body.
 
 **Fishing with a lure:**

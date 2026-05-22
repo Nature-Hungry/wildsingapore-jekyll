@@ -67,12 +67,13 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This tiny banded goby is commonly seen in our mangroves, in pools at low tide. This goby is different from the Bumblebee goby (
 *Brachygobius doriae*
 ) in the aquarium trade. Elsewhere, it is found in fresh and brackish water including in mangroves.
 
-**Features:**
+## Features
+
 Tiny, about 1.5cm long. With black and yellowish bands along its body, it does indeed resemble a bumble bee. There is often a black heart-shaped blotch on the head just behind the eyes!
 
 **What does it eat?**

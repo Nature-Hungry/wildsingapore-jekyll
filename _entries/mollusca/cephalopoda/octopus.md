@@ -180,7 +180,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Most people are surprised to hear that octopuses are quite commonly encountered on many of our shores. Even the most 'beat up' looking shore eventually turns up a resident. They are generally more common in areas with coral rubble, but may also be seen in seagrass areas. You need patience and some experience, however, to spot an octopus. These marvellous masters of camouflage are shy and generally only active at night. During the day, they are often well hidden in some cosy den. Some octopuses seen are as large as 1m across with their arms outstretched. Others are tiny, less than 10cm across.
 
 **What are octopuses?**

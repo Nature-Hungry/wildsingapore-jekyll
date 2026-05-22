@@ -87,7 +87,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These clams are sometimes seen our Southern shores, near reefs.
 
 **What are file clams?**
@@ -95,7 +95,8 @@ File clams are
 [bivalves](../../bivalvia.md)
 that belong to Family Limidae.
 
-**Features:**
+## Features
+
 4- 6cm. Long, fleshy tentacles fringe the mantle which are sticky and detach easily when touched. Some species are attached to a hard surface by byssus threads, or building a nest lined with mingled byssal threads.
 
 Like

@@ -86,14 +86,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 The seagrass is sometimes seen in small patches on some of our Northern shores. But on Chek Jawa and some parts of Changi, it forms extensive meadows. The
 [preliminary results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20spinulosa.md)
 of Chek Jawa suggest it is quite widely distributed in the seagrass lagoon there.
 
 Fern seagrass is found only in South China Sea region including the coasts of northern Australia. It grows in deeper waters of 10m and deeper, although in Singapore, this seagrass can be found right up to the edge of the rocky shore at Chek Jawa. It can tolerate a range of conditions so it is found in a wide range of habitats.
 
-**Features:**
+## Features
+
 **
 This beautiful seagrass has tiny leaves that grow in opposite pairs on a long thin stem, forming a flat fern-like overall shape. 10-20 pairs of leaves may form on the stem, new leaves growing from the tip while older leaves at the bottom drop off. Each leaf is about 2cm long and 0.4cm wide, with tiny serrations on the edges and a small one-sided fold at the base. (Some books refer to these leaves as leaflets). The entire stem is about 4-6cm long. Its rhizomes (underground stems) are thin, sometimes woody.
 

@@ -73,7 +73,7 @@ links_references: |
 location: []
 ---
 
-**Where seen?**
+## Where seen?
 Disk corals (
 *Turbinaria*
 spp.) are among our most commonly encountered hard corals and seen on many of our Southern shores and even some Northern shores. Cave corals (

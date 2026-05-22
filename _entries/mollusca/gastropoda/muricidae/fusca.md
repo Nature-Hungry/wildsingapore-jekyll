@@ -62,12 +62,13 @@ location:
 - jng
 ---
 
-**Where seen?**
+## Where seen?
 This small drill is sometimes seen on large boulders on some of our shores. 'Fuscus' means dusky, dark or swarthy, probably referring to the dark coloured shell opening. According to Tan, it has a patchy distribution in Singapore but can be common where it occurs. It is also known as
 *Morula fusca*
 .
 
-**Features:**
+## Features
+
 2-3cm. Shell thick with squarish bumps. Shell opening is wide and usually dark to dark purple. One of the identifying features is its yellow foot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

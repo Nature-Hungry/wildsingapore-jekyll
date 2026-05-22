@@ -112,10 +112,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These crabs as pale and circular as a full moon are commonly encountered on our Northern shores. They are more active at night and are rarely seen by daytime visitors as they are then often buried in the sediments.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 Body somewhat circular with
 a pair of long spikes on the sides. Pincers short, sturdy, held against the body to form a somewhat box-like shape. All walking legs end in paddle-shaped tips and used to skim along the sea bottom and also like spades to rapidly burrow into the sand. With eight little spades rotating rapidly, the crab disappears into wet sand in an eyeblink. The sturdy pincers grab any edible bits that the crab can handle.
 

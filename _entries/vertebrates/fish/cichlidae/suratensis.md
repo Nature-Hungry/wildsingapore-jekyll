@@ -64,10 +64,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This large colourful fish is often seen in groups in our mangroves at Sungei Buloh Wetland Reserve and Pasir Ris. The fish is native to India and Sri Lanka and was introduced to Singapore, possibly through the aquarium trade. It has since escaped and are now breeding in our waters.
 
-**Features:**
+## Features
+
 Up to 30cm, usually about 20cm long. Oval with a short snout and small mouth. Greyish green with 6 to 8 dark bars, a dark spot at the base of the pectoral fins, many scales with a pearly spot. It is sometimes called the Pearlspot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

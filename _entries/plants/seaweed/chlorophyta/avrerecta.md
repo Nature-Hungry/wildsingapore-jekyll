@@ -114,10 +114,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These solitary stalked green fans are sometimes seen on some of our shores, sticking out of the ground here and there. Usually in coral rubble areas.
 
-**Features:**
+## Features
+
 A paddle-shaped blade (4-5cm wide), usually growing alone, sometime a few near one another. The blade is flat and not ruffled, and may be divided into four or more 'wings'. The flexible blade is made up of a tangle of tiny filaments that give it a velvety texture. The blade is held up on a stiff stalk that may be buried in sand or wedged into crevices.
 The stalk can be quite long (up to 10cm long), with only a short portion sticking out above the surface. Sometimes, the single blade is divided into three or four 'wings'. Usually dark green sometimes with pale or yellowish edges.
 

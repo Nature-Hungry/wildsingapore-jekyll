@@ -104,10 +104,11 @@ location:
 - tus
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful colony of flowery polyps is often seen on our Northern shores, mainly at night. On soft silty sand among seagrasses.
 
-**Features:**
+## Features
+
 Colony 15-20cm long. Long, sausage-like 'stem', called the axial or primary polyp, that supports the whole colony. No leaf-like structures. Feeding polyps (autozooids) large (1-2cm) with eight branched tentacles emerge directly evenly from and all around the 'stem'. Tentacles usually white, but the body column may match the colour of the 'stem'. Colours seen include white, maroon, purple and orange. The colony also has another kind of polyp that sucks in water (siphonozooids) and which are minute, numerous and crowded.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 The bottom half of the primary polyp forms a muscular 'foot' (called the peduncle) that anchors the colony and retracts the whole colony into the ground at low tide. This portion lacks other kinds of polyps. The central stalk is usually stiffened by an internal 'bone' made of calcium.

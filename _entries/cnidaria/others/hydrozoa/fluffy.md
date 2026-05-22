@@ -60,10 +60,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This colony of tiny animals that resembles a fluffy bush is sometimes seen on our Nothern shores, but often overlooked as it resembles a plant. It grows on hard surfaces.
 
-**Features:**
+## Features
+
 Each 'frond' about 10-15cm long. Densely branching with fine 'stems'. The polyps are tiny with transparent tentacles. When the polyps are expanded the colony has a fluffy look. Colours seen usually bright orange. The colony is often covered with encrusting organisms.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -204,10 +204,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This striking red crab is sometimes seen on our some of our shores among coral rubble or near living reefs. At some times, several can be seen on one trip, and then none for several months. 'Pictor' in Latin means 'painter'.
 
-**Features:**
+## Features
+
 Body width 8-10cm. Body somewhat fan-shaped. It is usually red to orange with strikingly mosaic-like patterns of large white spots.
 Pincers short, both about equal in size, with black tips. Walking legs hairy with pointed tips.
 

@@ -168,7 +168,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 People are generally surprised to hear that colourful butterflyfishes are commonly seen on many of our shores. They usually hide among coral rubble and rocks, or among seagrasses. Fishes seen range from tiny ones less than 5cm to larger ones up to 20cm. Butterflyfishes are generally active during the day and hide in safe resting places at night.
 
 ****
@@ -177,7 +177,8 @@ These fishes belong to Family Chaetodontidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=343)
 : the family has 10 genera and 114 species, most found in the Indo-Pacific oceans, generally near coral reefs. They are closely related to angelfishes (Family Pomacanthidae) which used to be included in the butterflyfish family.
 
-**Features:**
+## Features
+
 Butterfly fish adults grow to about 20cm, but smaller juveniles (5-10cm) are more commonly seen during low tide. Body flat, disk-shaped so that it almost disappears when seen from above or head on. Being very flat, the butterflyfish can also slip into narrow cracks.
 
 Usually with colourful patterns; some have a large 'false eye' somewhere on the back of the body. When seen sideways, the large 'false eye' may fool predators into thinking that it is a big fish! Smaller predators may thus be discouraged. And if a predator does attack it, the butterflyfish unexpectedly swims 'backwards'. Its real eye is concealed by a colorful band. Their colours are usually brighter during the day, and duller at night.

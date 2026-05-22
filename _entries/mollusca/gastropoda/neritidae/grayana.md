@@ -40,12 +40,13 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This snail is sometimes seen in large numbers in mangroves. The study by Tan & Clements (2008) found this snail on mangrove tree trunks and roots, among and under rocks in interior or coastal fringes in mangroves. Sites included: Seletar Dam, Khatib Bongsu, Lim Chu Kang, Punggol and Pulau Ketam. It was previously known as
 *Nerita grayana*
 .
 
-**Features:**
+## Features
+
 1.5-2cm. Shell thick heavy, hemispherical, the spire sticks out more prominently than other nerites found in Singapore. Thin, regular well-developed spiralling ribs. Shell colour purplish brown also pale, often with a pattern of three darker spirals.
 The flat underside may be smooth or wrinkled, white to yellowish or with orange tinge. Square notched 'teeth' (3-4) on the straight edge at the shell opening, the uppermost one is squarish. Tiny or no 'tooth' on one side of the shell opening. Operculum thick, evenly covered in tiny bumps, grayish with beige patches. Body creamy white with dark tentacles.
 

@@ -146,7 +146,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral that forms thick plates with large fat polyps can grow in murky water. So it is among the most commonly encountered hard corals in the South, and is even seen on our Northern shores.
 
 **Features**

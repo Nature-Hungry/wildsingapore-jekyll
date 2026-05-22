@@ -52,10 +52,11 @@ galleries:
       caption: "Links Morinda umbellata on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This pretty climber with bright orange fruits is often seen in coastal forests, including natural cliffs. It is also found inland. According to Hsuan Keng, it was found in open sandy places including Kranji, Changi and Pulau Ubin. 'Mengkudu akar' which means 'climbing Mengkudu'.
 
-**Features:**
+## Features
+
 A climbing shrub, it has elegant leaves that are thin, leathery, narrow and 7-12cm long. The small white flowers appear in clusters on long stalks arranged like rays of a star. The little compound fruits are green and turn orange.
 
 **Human uses:**

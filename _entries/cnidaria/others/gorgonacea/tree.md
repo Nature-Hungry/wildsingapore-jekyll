@@ -101,10 +101,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful sea fan that resembles the silhouette of a large spreading tree is sometimes seen our Northern and Southern shores on coral rubble. It also grows on artificial surfaces where it is dark, such as on jetty legs.
 
-**Features:**
+## Features
+
 10-15cm tall. A thick sturdy 'trunk' at the base, that branches into increasingly finer stems, resulting in an elegant tree-like shape along one plane. There are swollen nodes at the points where the stems branch. Colours seen include
 red, pink or white.
 

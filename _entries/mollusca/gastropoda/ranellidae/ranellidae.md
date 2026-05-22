@@ -91,10 +91,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 The commonly seen triton snail is rather small and boring. It is usually found under stones on our Northern shores.
 ****
-**Features:**
+## Features
+
 The larger species of triton snails are more famous. They can grow to 50cm up to 1m long! Many of them have a hairy covering on the shell. The operculum is made of a horn-like material and is thick and brown. They are found in sandy and rocky habitats, many are only found offshore in deeper waters. They were previously placed in Family Cymatiidae.
 
 **What do they eat?**

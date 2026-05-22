@@ -57,10 +57,11 @@ galleries:
       caption: "Links Flagellaria indica on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 This elegant and pretty climber is sometimes seen among shore vegetation and in our back mangroves. Elsewhere, it is also a common climber in moist forests, swamp forests, peat swamp forests and river forests, from sea level to about 1,600m. 'Rotan tikus' means 'Rat's rattan' in Malay.
 
-**Features:**
+## Features
+
 A climber with a thin long stem (2-15m long), woody at the base but generally green along most of its length. Leaves narrow and long (6-7cm) with a curling tip that winds around other plants. Small white flowers in clusters at the ends of the stem. Fruits round, smooth, shiny berry, green turning pink to orange. Each fruit with only one seed.
 
 ****

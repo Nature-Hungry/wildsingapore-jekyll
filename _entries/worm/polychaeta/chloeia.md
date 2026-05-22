@@ -104,7 +104,7 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful worm is sometimes seen on some of our shores. Once seen swimming actively at night, in groups of about about 6-8. It is also sometimes seen washed ashore in large numbers on Changi beach. Although it is among the most beautiful of our worms, its bristles can give a nasty and painful rash. Don't touch them.
 
 **What is a fire worm?**
@@ -112,7 +112,8 @@ It is a segmented bristleworm belonging to the Family Amphinomidae, Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Many members of the Family Amphinomidae are known as fireworms because of the burning pain they produce when handled.
 
-**Features:**
+## Features
+
 About 10cm long. The worm is flat and broad with lots of elaborate hairy bristles along its sides, and a pattern of triangles or spots along the centre of the upper side of the body. According to Leslie Harris, the one with the circles in the centre of the segments is
 *Chloeia flava*
 . The other with triangles in the centre of the segments remains unknown. It is said that these worms swarm at the surface during breeding season. Otherwise, they usually hide under stones and rocks.

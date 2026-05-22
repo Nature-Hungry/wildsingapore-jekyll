@@ -93,7 +93,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These long, beautifully patterned fishes are sometimes seen in sandy areas near living reefs. It is said that they hover in small groups above the sand. When threatened, they dive into the sand. Hence their common name.
 
 **What are sand-divers?**
@@ -103,7 +103,8 @@ Sand-divers belong to Family Trichonotidae. According to
 *Trichonotus*
 ) with 6 species.
 
-**Features:**
+## Features
+
 To 15-18cm, those seen much shorter, about 8-10cm. These fishes have a long and slender body, somewhat flattened sideways. The pointed snout had a lower jaw that is longer than the upper jaw. Some have fine gold 'eyelashes' over large eyes. The male fish has long filamentous extensions on his dorsal fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

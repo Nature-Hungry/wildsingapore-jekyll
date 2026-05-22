@@ -95,10 +95,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful sea star is sometimes seen on Beting Bronok. 'Craspedo' means border or edge. According to Lane, this sea star is seen from the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.
 
-**Features:**
+## Features
+
 Diameter with arms about 10cm. A flat sea star with five elegant smooth tapered arms. Upper surface pale blue sometimes beige, and covered with special flat-topped, pillar-like structures called paxillae. The body edges are bordered with large, wide marginal plates. Underside pale without markings, tube feet are pointed (not tipped with suckers).
 
 **What does it eat?**

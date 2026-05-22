@@ -54,12 +54,13 @@ galleries:
       caption: "Links Clerodendrum inerme on Total Vascular Flora of Singapore Online: photos and fact sheet. Volkameria inermis on the NParks Flora and Fauna website: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp.."
 ---
 
-**Where seen?**
+## Where seen?
 This small shrub with pretty whiskery flowers is sometimes seen among the shore vegetation and in back mangroves. According to Hsuan Keng, it is common near the sea in tidal mud including Rochore, Changi, Seletar and Pulau Ubin. According to Giesen, it is found along coasts including mangroves. Found from India to Sri Lanka, throughout Southeast Asia to southern China, Australia and Polynesia. Also known as
 *Volkameria inermis*
 .
 
-**Features:**
+## Features
+
 A shrub (1-4m) with drooping stems (0.5-3m), sometimes a small tree (up to 10m). Stems woody and smooth.
 
 Leaves eye-shaped (1.5-4cm) thinly fleshy, smooth, arranged opposite one another. The underside has dark green dots.

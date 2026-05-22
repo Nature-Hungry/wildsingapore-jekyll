@@ -56,14 +56,15 @@ galleries:
       caption: "Links Pandanus tectorius on the NParks Flora and Fauna website: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. Hala, screwpine ( Pandanus tectorius ) (PDF) on the Common Forest Trees of Hawaii USDA Agriculture Handbook No. 679 Elbert L. Little Jr. and Roger G. Skolmen, 1989 References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 With long prickly leaves, this plant is hard to ignore when you are trying to push your way through vegetation near the shore. It is still commonly seen on undisturbed shores and back mangroves. In the past, it was common along sandy shores in many parts of Singapore. It is probably the most widespread
 *Pandanus*
 species, being cultivated for its many uses. It is found on all tropical shores and throughout Southeast Asia. Its old name
 *P. odoratissimus*
 is an accepted synonym.
 
-**Features:**
+## Features
+
 A prickly tall bush (2-3m) to a small tree (3-14m tall), widely branching sometimes with several trunks which can be spiny. Often with stilt roots around the stem. Also emerging from the stems, aerial roots with 'warts' and
 conspicuously large root ‘caps’.
 

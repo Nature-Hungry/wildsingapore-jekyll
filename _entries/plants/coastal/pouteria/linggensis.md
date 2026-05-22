@@ -36,10 +36,11 @@ galleries:
       caption: ""
 ---
 
-**Where seen?**
+## Where seen?
 There one of this rare tree on the rocky cliffsides of Chek Jawa, Pulau Ubin and several are also found on Lazarus. It was only recently discovered as native to Singapore.
 
-**Features:**
+## Features
+
 Tree about 5m. Leaves thin. Flowers tiny (less than 1cm) and cream coloured. Fruits oval, green ripening to purple.
 
 **Status and threats:**

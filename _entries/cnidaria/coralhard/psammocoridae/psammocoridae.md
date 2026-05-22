@@ -102,10 +102,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These corals with tiny corallites are commonly seen on many of our Southern shores, especially the kind that forms crinkled colonies. Those that form smooth boulder shapes are less commonly seen.
 
-**Features:**
+## Features
+
 ****
 Colonies 15-30cm. The colony may be shaped like boulders, pillars, flattened branches or even be encrusting or plate-like. The tiny corallites don't stick much out of the surface and merely give the skeleton a granular texture which gives the common name. When the polyp is retracted, the tiny holes of the corallite look like tiny petals of a flower. Polyps tiny (0.2cm) with short pointy tentacles. With the tentacles extended, the colony has a furry look.
 

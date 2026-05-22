@@ -103,10 +103,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This bluish feather star is sometimes seen on some of our shores. Usually on coral rubble or near living reefs.
 
-**Features:**
+## Features
+
 10-12cm in diameter. On the upperside, the centre is covered with many dark to black pinnules. The cirri on the underside is banded. With more than 20 arms. Arms are greenish blue, but some were seen with orange and pinkish arms. Each pinnule is often variagated. Some are black or blue with white bands, some with white or orange tips. The overall effect is generally of a bluish-black animal, sometimes with broad whitish portions and orangey tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

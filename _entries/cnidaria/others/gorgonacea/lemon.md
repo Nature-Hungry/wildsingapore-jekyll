@@ -58,10 +58,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This sea fan withpale yellow polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low water mark.
 
-**Features:**
+## Features
+
 15-20cm tall. Colony with long stems without much side branching. In some large colonies, the long stems are tangled. Stem white or pale, cylindrical with rounded tips, all stems about the same diameter. The yellowish or pale orange polyps are relatively large (0.5cm) and emerge all around the stem. The polyps can retract completely into the stem, leaving a yellowish or pale orange spot on the stem.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

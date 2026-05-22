@@ -178,10 +178,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This kite-shaped fish with stripes and a spot on the base of the tail is sometimes seen on our Northern our shores. Among seagrasses or coral rubble. Usually alone but sometimes in a group. Elsewhere, it is found in coastal and inner reef habitats, often in sandy or silty flat-bottom areas littered with sponge growth, sometimes found among seagrass.
 
-**Features:**
+## Features
+
 To about 18cm, those seen at low tide usually about 4-8cm. Body flat, circular disk-shaped, snout is blunt. 4 bands which are black, brown or brown-edged yellowish (5 bands as juveniles and 4 as adults). White-edged black bar at the base of the tail, with a smudged dark eye spot on the dorsal fin. Upper parts of the dorsal fin and body yellowish. Adults have a more pointed dorsal fin. It is also sometimes called the Ocellate coralfish.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Skirting with death?**

@@ -11,14 +11,18 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
 updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
+trivia_title: if you learn only 3 things about them ... 
+trivia_items: [
+  "Egg capsules contain living eggs or tiny snails. Don't disturb them.",
+  "Egg capsules are found on stones and among seaweeds. Watch your step.",
+  "Please don't bring egg capsules home. Thousands of baby snails may die.",
+]
+  
 galleries:
-  gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Egg capsules contain living eggs or tiny snails. Don't disturb them. Egg capsules are found on stones and among seaweeds. Watch your step. Please don't bring egg capsules home. Thousands of baby snails may die.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Egg capsules contain living eggs or tiny snails. Don't disturb them. Egg capsules are found on stones and among seaweeds. Watch your step. Please don't bring egg capsules home. Thousands of baby snails may die.
   gallery2:
     - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg"
       caption: "Spiral melongena snail laying its large egg capsules. Tanah Merah, Sep 11"
@@ -51,10 +55,10 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Egg capsules and masses laid by shelled snails are seen on many of our shores. Often, these are laid on hard surfaces.
 
-**Features:**
+## Features:
 Some snails lay egg capsules, little packages of several eggs. These are often attached to hard surfaces. Other snails may form other egg masses, such as the sand collar of the moon snail.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

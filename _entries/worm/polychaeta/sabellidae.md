@@ -92,7 +92,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Even those who find worms icky will be delighted by these elegant feathery creatures. They are more commonly seen on our Northern shores but also encountered on the Southern shores. They are found mainly in or near coral rubble areas. Some are found in the sand. There are large ones (about 8cm in diameter), small ones (2-3cm in diameter) and even tinier ones that can hardly be seen. These worms are wary, though, and will disappear instantly into their tubes are the slightest sign of danger. So you have to approach them stealthily.
 
 **What are fanworms?**

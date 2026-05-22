@@ -64,12 +64,13 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This flat moon snail is sometimes seen on our Northern shores among seagrasses. Elsewhere, they are found in deeper water and considered uncommon.
 *Mamma*
 means 'breast' in Latin.
 
-**Features:**
+## Features
+
 1.5-3cm. Shell thin, flat with three broad bands of dark brown stripes. On the underside, a dark chocolate brown lip. Operculum is made of a thin horn-like material, orange or brown. Body plain white. When alive, the body is much larger than the shell, usually enveloping the entire shell making it hard to see the shell.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -67,10 +67,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small bullet-shaped snail is sometimes seen on Changi and our Northern shores. A burrowing snail, more often seen above the ground at night or with the incoming tide. To find it, look out for the typical trail it leaves on the sand surface as it burrows beneath.
 
-**Features:**
+## Features
+
 2-3.5cm. Shell thick heavy glossy, cylindrical bullet-shaped with conical spire. Shell pattern beige with closely set fine dark brown zig-zag lines. Shell opening violet. Body large beige with brownish spots all over. A long siphon sticks out of the notch in the shell.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -116,10 +116,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These tiny slugs appear woolly or fuzzy. They are sometimes seen on many of our shores, usually on green seaweeds. Sometimes, they occur in large numbers.
 
-**Features:**
+## Features
+
 1.5-2cm. Tiny slug with a pair of 'wings' (called parapodia) often held in ruffles
 .
 The body texture of tiny bumps gives it a fuzzy or woolly appearance.

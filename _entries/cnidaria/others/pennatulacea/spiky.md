@@ -116,10 +116,11 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This feathery colony is sometimes seen on our Northern shores. In soft silty sand and near seagrasses. The colony does not harbour symbiotic algae (zooxanthellae) and can thus thrive in murky water.
 
-**Features:**
+## Features
+
 Those seen on our shores are about 15-20cm long (but some species of
 *Pteroides*
 are said to grow to 60cm long!). According to

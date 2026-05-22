@@ -100,10 +100,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 Resembling a small lumpy rock, this slow moving crab is sometimes seen among coral rubble and near living reefs. 'Exsculptus' means 'carved' in Latin.
 
-**Features:**
+## Features
+
 Body width 3-5cm. Body somewhat rectangular, with short pincers. Body and pincers are densely covered with smooth lumps and bumps. Pincers very short with dark tips, and folds under the body. Walking legs not hairy, with pointy tips. In various colours often mottled shades of brown, beige, grey.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

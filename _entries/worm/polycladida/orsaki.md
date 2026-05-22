@@ -45,10 +45,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This flatworm is sometimes seen on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 5-6cm long. Body background pinkish cream. Narrow black margin with inner orange margin. Along the middle of the body, one fine white stripe. The underside is same colour as upper body colour and margins. It has a pair of pseudotentacles that are squarish and ruffled on the sides, with white tips.
 
 **Sometimes mistaken for**

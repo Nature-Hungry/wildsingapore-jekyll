@@ -100,10 +100,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This woolly branching seaweed is often seen on many of our Southern shores, growing on coral rubble.
 
-**Features:**
+## Features
+
 The entire organism can be about 20-30cm across (to 50cm), with 'stems' about 0.5-1cm wide. 'Stems' may be short knobs, long cylindrical or flattened, or even flattened leafy shapes. Tips usually thin and tapering, usually not Y-shaped. Each 'stem' is made up of fine, branched filaments that are packed together to form structures that feel woolly, velvety, spongey or felt-like. The 'stems' are smooth and do not have obvious holes in them, especially when the sponge is out of water. Light to dark green.
 
 This organism is actually a symbiotic combination of an algae (

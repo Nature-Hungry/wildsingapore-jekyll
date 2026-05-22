@@ -57,7 +57,7 @@ location:
 - tus
 ---
 
-**Where seen?**
+## Where seen?
 Like shiny coins, this clam is sometimes seen under stones on our Northern shores. Sometimes also seen stuck to other hard shelled animals like
 [Window pane shells](../placunidae/placuna.md)
 (
@@ -65,7 +65,8 @@ Like shiny coins, this clam is sometimes seen under stones on our Northern shore
 sp.).
 Shells of dead animals are also often washed ashore.
 
-**Features:**
+## Features
+
 2-3cm. The two-part shell is thin and lustrous. Usually circular, often white or pinkish. One valve is stuck to a hard surface and this is usually flat. The other valve is slightly convex. When submerged, the animal has a fringe of translucent tentacles around the shell opening.
 If you look at the shell of a dead animal, the side that is stuck to the surface usually has a hole in it.
 The animal secretes byssus threads through this hole to stick to surface. Initially, this opening is a notch on the edge of the shell. But as the animal grows and secretes more shell material, the notch is surrounded and becomes a hole.

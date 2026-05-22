@@ -109,12 +109,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large moon snail is sometimes seen on our sandy Northern shores.
 *Vitulus*
 means calf in Latin.
 
-**Features:**
+## Features
+
 3-4cm. Shell thick smooth spherical (not flat), the spiral tip hardly sticks out. Shell beige, brown or orange with 1-3 darker spiralling bands of various widths, this is usually more obvious on the underside. On the underside, a small depression. Operculum white with with a dark smudge where the whorl begins, a pair of spiralling grooves on the outer margin and finely serrated inner margin. Body plain white or beige.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

@@ -145,10 +145,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These tiny slugs with very fragile shells are sometimes seen among seaweeds on some of our shores.
 
-**Features:**
+## Features
+
 Fragile, thin shell about 1cm long, that looks like a poorly folded cone that tapers into a spout at the end. The rhinophores are flattened, rounded and the animal has a pair of rounded oral lobes and a short foot. When disturbed, it secretes a white fluid. The egg mass is a flattened disk laid on seaweed.
 
 It is difficult to tell apart the species in the field, but in general,

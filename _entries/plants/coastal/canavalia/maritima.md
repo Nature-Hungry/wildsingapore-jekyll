@@ -49,12 +49,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This climber with large lilac flowers and dark green leaves is sometimes seen on our wild coastal areas. According to Hsuan Keng, it was common on our seashores including Changi. It was previously known as
 *Canavalia rosea*
 .
 
-**Features:**
+## Features
+
 The climber (2-10m long) creeps over other coastal plants. The end of the plant sometimes twines and often it roots from the nodes. Compound leaf with three fleshy, oval leaflets (3-15cm). Flowers (2-2.5cm) reddish-violet with a white streak down the middle, and are upside down when fully opened. Several flowers on a long stalk. They are sweetly scented. Fruits are bean-like pods, straight or slightly curved (6-15 cm long) with 2-10 seeds, brown oval.
 
 **Human uses:**

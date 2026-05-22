@@ -69,11 +69,12 @@ location:
 - ''
 ---
 
-**Where seen?**
+## Where seen?
 These crabs are seen near mangroves and freshwater streams
 .
 
-**Features:**
+## Features
+
 Small crabs that are often overlooked.
 
 ---

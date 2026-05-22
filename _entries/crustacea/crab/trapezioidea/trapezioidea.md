@@ -50,7 +50,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These tiny crabs are only found in living branching hard corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 (
@@ -61,7 +61,8 @@ sp.) and
 *Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
 
-**Features:**
+## Features
+
 Body width about 1cm. The body is flat and usually pentagonal (hard to see this on living crabs which are usually well hidden). The pincers are large (relative to the body), with pointed pincers. The legs are short with pointed tips.
 
 Usually a pair of male and female are found in one coral colony. The females are generally larger than the males and the males have claws that are proportionally larger. These coral crabs feed on the mucus produced by the hard coral, gathering these with the minute comb-like structures at the tips of their feet.

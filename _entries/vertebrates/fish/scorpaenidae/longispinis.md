@@ -144,12 +144,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This little waspfish is commonly seen on many of our shores, among coral rubble or seagrasses. But it is small and well camouflaged and thus often overlooked. Now in Family Tetrarogidae (waspfishes), it used to be placed in
 [Family Scorpaenidae](scorpaenidae.md)
 (scorpionfishes).
 
-**Features:**
+## Features
+
 5-7cm long. The dorsal fin begins almost between its eyes and the dorsal fin membranes are deeply incised between the spines. It has a pair of large backward pointing spines above its mouth, which may not be obvious when the spines are folded away. The lateral line has prominent tube-like scales. Some may have a white band across the face, and indeed, they are called Whiteface waspfish in some places. In captivity, they have been observed to change from light to dark colours.
 
 **Sometimes mistaken for**

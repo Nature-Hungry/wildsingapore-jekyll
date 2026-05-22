@@ -62,10 +62,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This long pink ribbon worm is commonly seen at night on silty areas among seagrasses and near mangroves.
 
-**Features:**
+## Features
+
 Grouped in this entry are ribbon worms that are 20-50cm long with broad flat bodies coloured pink or reddish. Often the head and tail paler with dark or black tip. Sometimes, one is seen swimming vigorously in the water.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

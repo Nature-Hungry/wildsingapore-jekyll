@@ -51,10 +51,11 @@ links_references: |
   Natural History Publications (Borneo). 83 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This large green lizard is very well camouflaged among the green vegetation where it may perch motionless. It is active during the day and is arboreal, found in bushes and trees usually in forested areas and inland wild places.
 
-**Features:**
+## Features
+
 ****
 Total length to 57cm. A slender body with small, bumpy (keeled) scales. It has a spiny crest on the back of its neck and a very long tail. Generally a plain bright bluish green although it may change to dark brown or grey. It has a dark ring around the eyes, and dark brown patch on the ears and the tip of the tail.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

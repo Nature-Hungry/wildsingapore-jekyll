@@ -121,10 +121,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegant feathery green seaweed is sometimes seen on our shores, growing on sand, coral rubble and among seagrasses. Usually found in clumps, which can cover an area of about 40-50cm. But it does not blanket the shore like other seasonally abundant seaweeds.
 
-**Features:**
+## Features
+
 A feathery structure 5-7cm long. The central 'stem' of the feathery structure is cylindrical. The side 'branches' are long and cylindrical (not flattened) with pointed tips. Sometimes, the feathery structure has a 'waist' near the tip.These feathery structures emerge along the length of a horizontal 'stem' that creeps over hard surfaces or just under the sand. Bright green to olive green.
 
 **Sometimes confused with**

@@ -112,10 +112,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This frilly anemone is seen on many of our shores. Usually among coral rubble.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 8-12cm. Tentacles with many fine 'branches'. Generally all the tentacles are same uniform colour usually brown, greenish or greyish. 'Branches' are generally the same colour as the tentacles, but may be outlined in white. Oral disk dark with a broad border of pale or white bars that form a pattern resembling petals when the disk is expanded. Small dark spots throughout the oral disk. Body column dark with rows of small white bumps (verrucae).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

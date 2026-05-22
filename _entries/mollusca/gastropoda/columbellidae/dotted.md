@@ -75,7 +75,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This little snail is sometimes seen in numbers on some of our shores. Usually on large seagrasses (such as
 [Tape seagrass](../../../plants/seagrass/enhalus.md)
 ) and large seaweeds (such as
@@ -86,7 +86,8 @@ and
 *Pyrene scripta*
 .
 
-**Features:**
+## Features
+
 1.5-2cm. The thick pale shell is sometimes delicately-patterned with black and yellow markings. Some are plain, while in others, the pattern may be hidden by encrusting growths. Body plain with a pair of tentacles and quite a long siphon. Often seen grazing on the fine algae that coats seagrasses and seaweeds.
 
 **What does it eat?**

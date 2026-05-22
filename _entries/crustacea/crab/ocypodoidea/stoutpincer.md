@@ -61,10 +61,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This fiddler crab with a rather short and stout enlarged pincer is seen in the back mangroves.
 
-**Features:**
+## Features
+
 Body width 1-1.5cm. Body squarish. The male fiddler crab's enlarged pincer about one and half time as long as the body width. The enlarged pincer's outer palm is pimply with groove on the lower edge. The movable upper finger meets (does not extend past) the immobile lower finger. The tips of the fingers are flattened and sword- or sabre-like. There is a wide gape between the upper and lower finger. The enlarged pincer may be orange, pinkish, purplish. Body colour dark often with a pair of pale bars. Eyes reddish or black, on long stalks pale or yellowish, walking legs short black or brown.
 
 Crabs on this page may be from different species including

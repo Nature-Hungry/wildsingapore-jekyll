@@ -46,10 +46,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny snapping shrimp is often found under stones and inside sponges. Often found in pairs.
 
-**Features:**
+## Features
+
 Body 1-2cm long. Usually translucent pale with tiny dark spots.
 
 [White snapping shrimps](alphballsoft.md)

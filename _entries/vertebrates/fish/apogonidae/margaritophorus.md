@@ -124,12 +124,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small silvery fish is commonly seen on many of our shores, especially on the Northern shores. Often seen in small groups, in pools among seagrasses and coral rubble. It was previously known as
 *Apogon margaritophorus*
 .
 
-**Features:**
+## Features
+
 Those seen about 3-4cm, grows to about 5.5cm. Body slender. On the sides, white and reddish to brownish stripes. Between two stripes are narrow vertical lines that forms a window-like or chequered pattern - like a child's drawing of an airplane, with little squares for the windows.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Cardinalfish babies:**

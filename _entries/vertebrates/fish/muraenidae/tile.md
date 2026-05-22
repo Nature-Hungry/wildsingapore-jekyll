@@ -124,10 +124,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This slender snake-like fish with yellow speckles is sometimes seen on our undisturbed shores in rubbly areas near mangroves and seagrass meadows on many of our shores. It is more lively at night, where it can be seen actively wriggling around checking crevices for hidden prey.
 
-**Features:**
+## Features
+
 To about 60cm, those seen were about 15-30cm. Body long and cylindrical, only somewhat flattened sideways towards the tail. No pelvic or pectoral fins. Dorsal and anal fins extend over the entire length of the long body and are continuous with the tail fin, resulting in the typical eel-like profile. Instead of scales, it has thick, smooth skin. Eyes small. Jaws filled with lots of sharp teeth. A pair of tubular nostrils at the tip of the snout, and small circular gill openings. Bluish grey, brown to reddish-brown with numerous yellowish-white speckles. These speckles may fade in large adults. It swims by undulating its muscular body in S-shapes, rather like a snake.
 
 **Sometimes mistaken for**

@@ -144,7 +144,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These flashy little fishes are commonly seen on many of our Southern shores, near living reefs. Usually in groups of small numbers, zipping about near the water surface, especially at night. Sometimes, large schools are seen from a boardwalk. In our mangroves, they may school in the hundreds and sometimes seen leaping out of the water to escape underwater prey.
 
 **What are silversides?**
@@ -152,7 +152,8 @@ Silversides belong to Family Atherinidae. According to
 [Fishbase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=218)
 : The family has 25 genera and 165 species in tropical and temperate waters. Most are marine although there are about 50 species confined to freshwater and some can move from the sea into freshwater.
 
-**Features:**
+## Features
+
 3-10cm long. These indeed silvery fishes are small, slender and streamlined, with large eyes and relatively large scales. They have small mouths that are upturned toward the water surface. They have two widely separated dorsal fins. They usually have a distinct darker band along the middle of the body from head to tail. Often seen in groups, sometimes in large schools. They are also called hardyheads.
 
 **Tropical silversides**

@@ -83,7 +83,7 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 These strange snails are almost always found on large shells inhabitated by hermit crabs. They are also seen on the undersides of large living horseshoe crabs.
 
 **What are slippers snails?**
@@ -93,7 +93,8 @@ Slipper snails are NOT
 [gastropods](../../gastropoda.md)
 that belong to the Family Crepidulidae.
 
-**Features:**
+## Features
+
 2-3cm. Shell conical or flat domed. Several may be found stuck firmly onto inside of a shell occupied by a
 [hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
 . They take advantage of the constant current of freshly oxygenated water that the hermit crab creates for itself. They are also found on the underside of living

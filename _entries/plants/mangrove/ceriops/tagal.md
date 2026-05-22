@@ -70,12 +70,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with rather plasticky thick rounded-tipped leaves is sometimes seen in our mangroves. It grows on well-drained soil, within the reach of occasional tides in the inner mangrove. In Singapore, this species does not grow very well from its rarity and small size. According to Hsuan Keng, it was found in Jurong and Changi. It was formerly called
 *C. candolleana*
 .
 
-**Features:**
+## Features
+
 Tree grows to about 20m tall, but in Singapore they are much shorter and often just bushes. Sometimes with short buttresses which might have started as short stilt roots at the base of the tree, pneumatophores sometimes seen as looped surface roots. Bark smooth or slightly fissured, pale grey or white often with a red tinge, peeling in thick strips from the buttressed portion.
 
 Leaves spatula shaped (7-10cm), thick glossy, arranged opposite one another. Dark green in the shade, greenish yellow in full sun. Leaf stalk usually not pinkish. Stipule flattened knife-like.

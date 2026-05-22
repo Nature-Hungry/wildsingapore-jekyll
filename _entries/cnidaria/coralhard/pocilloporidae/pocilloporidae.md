@@ -83,7 +83,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 The
 [Cauliflower coral](pocillopora.md)
 (

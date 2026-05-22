@@ -148,10 +148,11 @@ location:
 - tsm
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This intriguing crab is seen on our Northern shores, in coral rubble and seagrasses areas. Those seen often 'carry' ascidians and not sponges.
 
-**Features:**
+## Features
+
 Body nearly spherical width 0.5-5cm, although sometimes larger ones are encountered. Some have a smooth body and pincers covered with fine hairs and pink tips on the pincers. Other have a very hairy body and pincers, with white tips on the pincers.
 
 The sponge crab uses its pincers to snip out a cap out of a living

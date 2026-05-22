@@ -84,12 +84,13 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a 'scaly' shell is sometimes seen on some of our rocky shores. The study by Tan & Clements (2008) found this snail on mangrove tree trunks and stilt roots; muddy rocks at coastal fringes of mangroves; among rocky rubble along edge of muddy sand flats; on breakwater rocks. Sites included: Sarimbun, Pulau Ubin, Pasir Ris, Sungei Loyang, Changi, Kallang Basin, Marina South, Sentosa, St. John's Island, Pulau Hantu, Tuas. This snail was previously known as
 *Nerita histrio*
 .
 
-**Features:**
+## Features
+
 1.5-2.5cm. Shell thick heavy, hemispherical, the spire doesn't stick out and may be depressed. Thick, spiralling ribs, which are uneven and much rougher than other kinds of nerites often with tiny or large horizontal ridges across the ribs. Shell colour and patterns highly variable. The flat underside is white, may be smooth or wrinkled. Tiny notched 'teeth' (2-4) on the straight edge at the shell opening. Young snails often have an orange stain on these tiny 'teeth'. Lacks 'tooth' the sides of the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish sometimes with darkish blotches. Body pale with fine black bands on the foot and long thin black tentacles.
 
 **Sometimes confused with**

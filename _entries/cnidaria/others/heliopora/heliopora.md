@@ -103,7 +103,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These living fossils are commonly seen on our Southern shores, sometimes forming many large colonies. Found among hard corals.
 
 **What are blue corals?**
@@ -118,7 +118,8 @@ and are more closely related to soft corals. Blue corals are the only members of
 **Living fossil:**
 Blue corals are considered living relicts of fossil species known from more than 100 million years ago. Most other corals have an evolutionary age of only several hundred thousand years. Blue corals used to be dominant before the last Ice Age when the seas were warmer. They are now only found in warm tropical waters.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 Blue corals are confusing. Firstly, they are often brown and don't appear blue at all. Secondly, although they have a hard skeleton, they are not grouped with other hard corals.
 
 Colonies 15-30cm, polyps about 0.5cm. Their internal skeletons are blue, hence their common name. The blue colour is due to the iron salts that are incorporated into their skeletons. On the outside, they are usually brown because the thin layer of brownish living tissue that covers the outer surface of the skeleton. The skeletons are made of a different kind of calcium carbonate (fibro-crystalline argonite) that is more brittle than that of true hard corals that belong to Subclass

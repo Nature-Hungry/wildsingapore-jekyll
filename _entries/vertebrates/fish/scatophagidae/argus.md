@@ -117,14 +117,15 @@ location:
 - hnt
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This odd-shaped fish is sometimes seen in muddy and seagrass areas near mangroves or along the coasts. Also under jetties. It can tolerate freshwater so it's sometimes also seen near moonsoon drains.
 
 **What are scats?**
 Scats belong to Family Scatophagidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=341)
 : the family has 2 genera and 4 species. These fishes are found in the Indo-Pacific region in fresh, brackish and marine habitats.
-**Features:**
+## Features
+
 10-30cm long. Body flattened sideways with a somewhat rectangular shape. Has small scales. Small mouth on a rounded snout. Eyes are relatively large. It has sharp spines on the first dorsal fins that are believed to contain venom glands and can prick painfully. The body is generally white to yellowish or greenish with dark round spots on the sides. Juveniles have a few large roundish blotches about the size of the eye with 5-6 broad, dark vertical bars and reddish upperside. In large adults, the spots may be faint.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**

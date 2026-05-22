@@ -62,10 +62,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This small fluffy seaweed is sometimes seen on some of our shores, growing on coral rubble in sparse clumps covering an area of 10-20cm.
 
-**Features:**
+## Features
+
 Structures (1-2cm long) comprising a stack of 2-4 circlets of short filaments. Light green to reddish green.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg)

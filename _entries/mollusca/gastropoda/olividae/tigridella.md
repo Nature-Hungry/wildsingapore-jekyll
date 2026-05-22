@@ -69,10 +69,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small bullet-shaped snail is sometimes seen on our Northern shores. A burrowing snail, it is more often seen above the ground at night or with the incoming tide.
 
-**Features:**
+## Features
+
 2-3.5cm. Shell thick heavy glossy, cylindrical bullet-shaped with tall conical spire. Shell pattern various from plain to dark speckles to large dark brown or black blotchy bars. The shell opening purplish brown.Body large beige with brownish spots all over. A long siphon sticks out of the notch in the shell. It does not have an operculum.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

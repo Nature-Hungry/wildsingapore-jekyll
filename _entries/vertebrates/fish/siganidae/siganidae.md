@@ -147,7 +147,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These fishes may be common in seagrass areas on many of our shores. They often lie quietly among seagrasses or hidden among coral rubble, relying on their camouflage to avoid detection.
 
 **What are rabbitfishes?**
@@ -155,7 +155,8 @@ They belong to Family Siganidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=413)
 : the family has 2 genera and 25 species. They are found in the Indo-Pacific and Mediterranean seas.
 
-**Features:**
+## Features
+
 Can be quite small (about 8cm or less) to quite large (about 15cm). It is named for its rabbit-like snout ('siganus' means 'has a nose like a rabbit') or possibly for its habit of grazing on seaweeds. It is also called Spinefoot after the spines on its pelvic fins, a unique feature of this family. It has tiny scales.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

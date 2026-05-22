@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small pink puff is sometimes seen on some of our shores among coral rubble. It's just the tip of an enormous buried sponge!
 ****
-**Features:**
+## Features
+
 Small delicate prickly ball about 1-2cm in diameter, on a short conical stem (called the capitate structure). The ball has fine sheets between the prickles. Seen singly but sometimes a few seen near one another growing on coral rubble. This puffy fluff is just a tiny part of the sponge. The bulk of the sponge is actually buried! The main sponge is bulbous and spherical. Colour usually a deep maroon to bright pink.
 
 The capitate structure is where the water is 'exhaled' from the sponge, and also where propagules (new sponges) are dispersed.

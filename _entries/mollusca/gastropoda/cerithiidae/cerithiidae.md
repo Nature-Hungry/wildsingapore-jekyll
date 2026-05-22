@@ -98,10 +98,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Tiny creeper snails are common on our shores but often overlooked. They may be found on sandy shores, coral rubble and reefs on many of our shores. They are often seen in groups of individuals.
 
-**Features:**
+## Features
+
 ****
 2 2.5cm. Shell long and narrow, distinguished by an upturned siphonal canal at the opening that looks like a little spout. This protects the siphon as the snail hides just beneath the sand. The shell opening is oval, and the operculum is made of a horny material usually brown usually with only a few whorls.
 

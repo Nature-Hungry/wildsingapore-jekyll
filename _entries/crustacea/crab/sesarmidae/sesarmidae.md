@@ -110,10 +110,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Small sesarmid crabs are commonly seen in our mangroves, especially at night. There are as many as 40 species of these crabs in our mangroves. They are often hard to spot as they are well camouflaged, although some may have colourful markings. They are more active at night.
 
-**Features:**
+## Features
+
 Body width 4-6cm. Sesarmid crabs are adapted for scrambling over slippery surfaces. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females. Many can stay out of the water for some time.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Role in the habitat:**

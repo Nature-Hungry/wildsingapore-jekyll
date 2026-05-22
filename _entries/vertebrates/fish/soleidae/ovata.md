@@ -72,7 +72,7 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This small flat fish is commonly seen on Changi, in sandy areas near seagrasses.
 
 **Features**

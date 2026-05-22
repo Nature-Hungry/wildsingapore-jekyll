@@ -151,12 +151,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This moon snail with a spotted body is sometimes seen on sandy areas near reefs on some of our Southern shores
 .
 It is also known as Gualtieri's moon snail.
 
-**Features:**
+## Features
+
 2-3cm. Shell smooth thick spherical (not flat) with the spiral tip sticking out. Shell pattern beige, grey or orange sometimes with broad darker bands overlaid with many thin dark bands. On the underside, a small comma-shaped depression. Operculum pearly white with a dark smudge where the whorl starts, smooth (no grooves). Body white with dark spots all over, tentacles short.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

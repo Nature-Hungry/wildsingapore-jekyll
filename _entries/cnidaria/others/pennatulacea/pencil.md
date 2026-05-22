@@ -88,10 +88,11 @@ location:
 - tm
 ---
 
-**Where seen?**
+## Where seen?
 Resembling a white nose inhaler, this colony of animals on a stick is often seen on some of our Northern shores. Among seagrasses and in sandy areas near seagrasses. Sometimes in large numbers, especially in the dark. At sunrise, most are retracted into the ground. Elsewhere, these sea pens are found in deeper waters.
 
-**Features:**
+## Features
+
 4-10cm long. Cylindrical white primary polyp that is stiff with a blunt rounded tip. No leaf-like structures. The secondary polyps emerge directly from the primary polyp and are transparent with long body columns (about 1cm) and long branched tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pencil snacks?**

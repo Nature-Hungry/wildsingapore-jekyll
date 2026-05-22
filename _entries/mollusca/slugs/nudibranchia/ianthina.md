@@ -162,10 +162,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brilliant nudibranch is often seen on many of our shores, in coral rubble and near reefs. It is also commonly seen by divers.
 
-**Features:**
+## Features
+
 3-5cm. Long, narrow, soft body with finger-like projections (called cerata) arranged in hand-like clusters along the length of the body. Those encountered were mostly blue, sometimes also mostly brown with blue tipped cerata. Elsewhare, various colours are reported from
 yellow to green. It
 is identified by the purple bands on its long oral tentacles. It has a pair of shorter feathery rhinophores.

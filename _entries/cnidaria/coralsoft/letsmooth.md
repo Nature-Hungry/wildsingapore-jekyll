@@ -92,10 +92,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large leathery soft coral may resemble a pile of smooth rubber gloves or cluster of blobs at low tide. It is seen on our Southern shores, on coral rubble.
 
-**Features:**
+## Features
+
 Colony 20-50cm or larger. Sinularia species have among the greatest variation in colony shapes among soft corals. The colony may be encrusting with ridges, knobs or fingers, or tall with many lobes, branches, or flat disks, leafy or dish-shaped. The leathery common tissue usually pastel shades of pink, beige or brown.
 
 The surface of the common leathery tissue is usually smooth as there are only autozooid polyps and no siphonozooids. In some the surface may appear rough due to embedded spicules (calcium carbonate spikes). The autozooid polyps are tiny (0.5cm or smaller) with a short body column and 8 long tentacles with feathery branches. The autozooids can retract completely into the common tissue. Out of water, the surface of the common tissue has only one kind of hole, where the retracted autozooids are. The autozooid polyps may be the same colour as the common tissue or slightly darker. The animals harbour symbiotic algae (zooxanthellae).

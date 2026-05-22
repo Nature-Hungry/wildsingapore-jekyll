@@ -78,10 +78,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This rubbery sheet is commonly seen on our Northern shores, coating rocks and stones near the mid-water mark. People often carelessly step on them, not realising that they are animals.
 
-**Features:**
+## Features
+
 Thin layer encrusting small areas 15cm sometimes large areas 1m or more. Texture smooth rubbery glossy. They coat coral rubble, stones and boulders, as well as artificial walls and structures. Tiny holes (0.1cm) with a membranous lip are scattered on the surface. The holes can barely be seen when submerged, and not obvious when the sponge is out of water. It really looks like melted chocolate when it's exposed at low tide! Shades of grey, brown, greenish grey and black.
 
 **Often mistaken for**

@@ -82,10 +82,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a distinctive squat shape is often seen in our mangroves, on tree trunks, leaves and on the mud near trees.
 
-**Features:**
+## Features
+
 3-5cm long. Shell thick squat (not so elongated) with ribs of fine beads. Tip usually broken. Shell opening wide usually with a thick flaring lip. Operculum circular and dark. In addition to a pair of eyes on tentacles, the snail has a third eye: called the pallial eye on its mantle margin.
 Other Malay names include
 *'Mata merah'*

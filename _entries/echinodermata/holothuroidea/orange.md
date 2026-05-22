@@ -126,10 +126,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This orangey sea cucumber is sometimes seen on our Northern shores, usually attached to coral rubble, often near sponges, sometimes partially covered by sediments, nestled up among hydroids, draped with synaptid sea cucumbers or smaller sea cucumbers. In Australia, they are found on intertidal shores in 'U-shaped' burrows or entwined in rhizomes of seagrasses.
 
-**Features:**
+## Features
+
 8-12cm long. Body spindle-shaped (pointed at both ends) somewhat squarish or quadrangular in cross-section. Doesn't have a clear upper and underside. Tube feet orange, long and thin, appearing from orange rows along the body length. Actually, the body is dark blue with orange tube feet and orange stripes along its length. But sometimes the orange stripes are wide so that the animal appears mostly orange with fainter dark blue stripes. The feeding tentacles all white or white at the base, black towards the tips, black speckled in between; branched tips pinkish or pale orange.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

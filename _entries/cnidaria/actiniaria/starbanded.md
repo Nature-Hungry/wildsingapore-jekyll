@@ -56,10 +56,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This elegant anemone with few banded arms held in wiggles is sometimes seen on the soft silty shores on our Southern shores. Seen at night only.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 4-5cm.
 Tentacles few (about 20), thick at the base and tapering to a slender tip. Most of the tentacles are usually held flat against the surface, arranged in pairs or sets of three, with the tips in 'wiggles'. Often, 5 of the tentacles are held
 upright forming a 'tent' over the mouth.

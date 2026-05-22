@@ -67,10 +67,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This colourful colony in candy colours of pink and orange is commonly encountered on our Northern shores, but often overlooked as it resembles a plant. It grows on rocks, jetty pillings, ropes and other hard surfaces.
 
-**Features:**
+## Features
+
 Each 'frond' about 5-10cm long with short side branches. Small capsules arranged along the short side branches of the 'frond'. The fronds are short and often tangled, sometimes covered with encrusting organisms. Colours seen include bright pink and orange. It doesn't seem to have a sting that humans can feel.
 
 **Hydroid friends:**

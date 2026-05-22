@@ -89,10 +89,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Small grapsid crabs are commonly seen on many of our rocky shores and mangroves, especially at night. They are among the colourful crabs you might see even at high tide. But they are more active at night and fast moving. During the day, you will rarely see more than a purplish hairy leg peeking out from a crevice! The larger species are sometimes seen on the offshore Southern Islands.
 
-**Features:**
+## Features
+
 Body width 4-6cm. Grapsid crabs are adapted for scrambling over rocks and other slippery surfaces. Many can stay out of the water for some time. Grapsid crabs are also sometimes called Shore crabs. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females.
 
 The

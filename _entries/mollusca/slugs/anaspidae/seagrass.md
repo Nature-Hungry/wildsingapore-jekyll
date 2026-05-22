@@ -75,12 +75,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This tiny slug is sometimes seen in numbers on
 [Tape seagrass](../../../plants/seagrass/enhalus.md)
 on our Southern shores.
 
-**Features:**
+## Features
+
 1cm or less. Long narrow, flat body. It has two pairs of tentacles and tiny black eyes. Some seen were translucent green with fine white lines. The internal organs show through as white or yellow blobs or strings. One was seen was solid green. Another had colours and patterns that perfectly matched the encrusted Tape seagrass. Sometimes, extremely tiny ones are seen among bigger ones.
 
 **What does it eat?**

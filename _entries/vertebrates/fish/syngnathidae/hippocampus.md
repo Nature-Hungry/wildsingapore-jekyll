@@ -106,7 +106,7 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Almost everyone knows what a seahorse looks like. An endearing, unfish-like fish, it truly captures the imagination.
 ****
 Seahorses are more common on our shores that most people might think. They are superbly camouflaged and thus often overlooked. Some may be as large as 11cm, but there are tiny ones too.
@@ -116,7 +116,8 @@ Seahorses are actually fishes! They belong to
 which includes
 [pipefishes](pipefish.md)
 .
-**Features:**
+## Features
+
 To 30cm long, those seen about 5-12cm. The seahorse doesn't have scales like most other fishes. It is encased in an inflexible armour of overlapping bony plates that lie just beneath its skin. Like other fishes, it also has an internal skeleton. Adapted to calm waters with lots of hiding places, a seahorse cannot swim fast. Most of the time it swims extremely slowly or remains stationary. It relies on camouflage to hide from both predators and prey. It lacks a tail fin and pelvic fins. It has a small dorsal fin and tiny pectoral fins on its 'cheeks'. These fins are used to stabilise itself. It uses its flexible, muscular tail to hang on to vegetation and other supports. It can also change colours to match its surroundings. Some species have flaps and projections out of their body to match the vegetation around them.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

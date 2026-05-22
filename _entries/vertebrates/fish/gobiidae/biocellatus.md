@@ -90,10 +90,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These rather large gobies with flattened heads are sometimes seen on some of our shores on sandy areas near seagrass meadows, or sandy lagoon bottoms. One was seen snatching another goby! Elsewhere, it is found in intertidal areas, estuaries, lagoons, coastal rivers and common in mangroves.
 
-**Features:**
+## Features
+
 Up to 12cm, those seen about 6-8cm long. The head is big but not as flat as in true flatheads, and rather triangular at the snout. Mouth is large; with the lower jaw slightly longer than the upper jaw. Eyes near the top of the head, large and placed close to one another. Some have a pale bar 'joining' the eyes. Each eye with a single 'eyelid'. Another of its common names is 'Sleepy goby' perhaps referring to its lidded eyes. The long body is cylindrical and tapers towards the tail. Various colours and patterns. Most have colours matching the surroundings, with alternating dark and light bars on the body.
 
 **Sometimes mistaken**

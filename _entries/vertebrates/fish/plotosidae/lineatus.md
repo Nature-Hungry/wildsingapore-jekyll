@@ -166,9 +166,10 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This eel-like fish in pajamas is often seen on many of our shores, among seagrasses, coral rubble and near reefs. Tiny to small ones often a ball of many squirming individuals, while larger ones are seen in smaller groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide.
-**Features:**
+## Features
+
 Adults can reach about 30cm long, those seen on the intertidal range from tiny ones about 1cm, to juveniles about 15cm long. Body long and cylindrical, flattening into an eel-like tail. Colour black, brown or even maroon. Two or three stripes along the body. The white or pale yellow stripes are bright in young fishes and may be faded in old adults.
 
 **Sometimes confused with**

@@ -56,10 +56,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This elegant colony of tiny animals is sometimes seen on our Northern shores, but often overlooked as it resembles a plant. It grows on boulders and coral rubble. It is also often seen by divers on our Southern shores.
 
-**Features:**
+## Features
+
 Each 'frond' 10-15cm long with regularly spaced branches that form a large elegant fern-like shape. Usually bright orange, but sometimes covered with encrusting organisms. This hydroid is eaten by the
 [Cuthona nudibranch](../../../mollusca/slugs/nudibranchia/sibogae.md)
 .

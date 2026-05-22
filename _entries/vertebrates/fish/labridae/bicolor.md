@@ -150,10 +150,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This colourful little fish is sometimes seen on some of our shores, near living reefs, usually alone. Elsewhere, it is found in silty sand or mud near shallow reefs and seagrass beds.
 
-**Features:**
+## Features
+
 To about 13cm, those seen about 6-8cm. Snout pointed, a dark stripe along on the side, white-ringed black spot on the tail. There is a black spot in the middle of the front half of the dorsal fin which is not easy to see in a fish that is stranded out of water (fins not spread out). The stripe along the lateral line is thin in younger fishes and widens to about the same diameter as the eye as the fish reaches adulthood, with pearly blue spots along the centre. The black spots on the dorsal fins usually become faded in large males. There is a reddish brown band on the head, edged with blue on the side of the snout from the mouth to the front edge of the eye, and an upward curved band on the cheek below the eye, and a vertically elongated dark brown spot just behind the eye.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

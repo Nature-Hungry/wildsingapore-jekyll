@@ -110,10 +110,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This plate-like hard coral with rings of concentric ridges is sometimes seen on our undisturbed Southern shores among living corals. 'Pachys' means 'thick' while 'seris' means 'lettuce-like'. It is also known as Serpent coral and Elephant skin coral.
 
-**Features:**
+## Features
+
 ****
 Plate-like colonies 10-20cm, sometimes larger on undisturbed reefs, forming tiers of thin plates. The upper surface has ridges that are parallel to the growing edge, thus forming concentric rings. There is a texture of fine lines perpendicular to the ridges. The polyps are usually not visible, and it is hard to distinguish the corallite centres and mouths. Only a thin tissue covers the skeleton. The tissue bears cilia (thin hairs). Colours seen include brown, orangey, blue and green.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

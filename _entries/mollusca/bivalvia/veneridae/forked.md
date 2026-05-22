@@ -68,10 +68,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This clam can be quite common on some shores, among coral rubble or hidden under stones near the low water mark. Elsewhere, they are found on intertidal shores with coarse sand and gravel.
 
-**Features:**
+## Features
+
 About 4-6cm. Shell circular with a slight pointed tip, thick and heavy with fine ribs parallel to the shell edge, that spray out or 'fork' into two separate directions from the pointed base. Colour white usually with a pattern of thin dark lines perpendicular to the shell edges.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

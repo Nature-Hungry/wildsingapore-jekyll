@@ -54,10 +54,11 @@ links_references: |
   New Holland Publishers. 128 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This energetic and sometimes noisy squirrel is sometimes seen in trees near our shores. It is common in our forests, parks and even urban areas. It is active during the day and found in trees, only seldom coming down to the ground.
 
-**Features:**
+## Features
+
 ****
 Head and body to 22cm, tail to 21cm. Body and tail olive-brown, underside of the belly reddish brown, with a black and white stripe on the sides of the body and whitish around the eyes.
 

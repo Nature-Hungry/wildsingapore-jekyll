@@ -96,12 +96,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This comical cartoon-like slug is only sometimes seen. When seen, often several are seen at the same time. And then none for some time. Elsewhere, they are found in sandy and silty shores. It was previously placed in
 [Order Notaspidae](notaspidea.md)
 , but is now placed in Order Pleurobranchomorpha.
 
-**Features:**
+## Features
+
 3-7cm. It is the only member of its genus and is distinctive. No other slug looks similar! Some have a dark underside, others a paler one. The small gill is on its right side which may be yellowish or white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 The slug is adapted for living in a sandy habitat. A broad foot and flattened body for crawling over sand or burrowing underneath. A long siphon on its back which brings fresh seawater into its gills while it is buried in the sand. With the incoming seawater the animal can also sense chemical released by potential prey nearby. It has a large oral veil fringed with lots of sensory 'hairs' on the underside to detect prey. The slug can swim for some distance by flapping the sides of its body.

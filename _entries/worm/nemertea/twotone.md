@@ -52,10 +52,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This long ribbon worm is sometimes seen on some of our rocky shores. It is more active at night.
 
-**Features:**
+## Features
+
 Grouped in this entry are ribbon worms that are 20-30cm long upperside with dark stripes, underside plain pale or white. They probably include different kinds of ribbon worms.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**

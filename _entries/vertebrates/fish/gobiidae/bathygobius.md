@@ -98,10 +98,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This pretty spotted goby is commonly seen on many of our shores, in rocky shores, coral rubble and reefs.
 
-**Features:**
+## Features
+
 4-7cm long. It has bulging cheeks and a pattern of tiny white spots regularly spaced on its face and in rows down its body. Usually a pair of dark saddles, as well as dark blotches, along the body length.
 
 The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (

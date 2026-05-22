@@ -69,10 +69,11 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 Like a magic furry flying carpet, this enormous moth is sometimes seen in our mangroves and other wild places. Atlas Moths are found only in Southeast Asia. They are common in Singapore, especially in November-January, although they are found throughout the year.
 
-**Features:**
+## Features
+
 Wings 25-30cm across and among the insects with the largest wing area. It is so named because its wing patterns resemble a map. The wings have triangular transparent 'windows' whose purpose we don't know. The wing tips are hooked and some say resemble a snake's head complete with eyes, to scare off predators.
 
 Female Atlas moths attract males by secreting a pheromone through a gland at the end of the abdomen. The male Atlas Moths has huge long feathery antennae to track down the female by her pheromones. The females are much larger than the males and don't have feathery antennae.

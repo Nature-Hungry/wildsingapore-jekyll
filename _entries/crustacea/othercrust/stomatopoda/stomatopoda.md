@@ -76,13 +76,14 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These large and busy shrimp-like animals are often seen on our Northern shores, especially among seagrasses.
 
 **What are mantis shrimps?**
 Mantis shrimps are not in the same group as prawns, although they appear similar. Mantis shrimps belong to Order Stomatopoda, while other shrimps and prawns belong to Order Decapoda which includes true crabs.
 
-**Features:**
+## Features
+
 Mantis shrimps seen on our intertidal shores are mostly juveniles rarely exceeding 10cm, but some species can grow to 30cm as adults! While those found among seagrasses tend to be well camouflaged, mantis shrimps found in deeper waters near reefs can be quite colourful.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Perilous Pincers:**

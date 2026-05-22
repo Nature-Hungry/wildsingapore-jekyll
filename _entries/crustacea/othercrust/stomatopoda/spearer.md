@@ -154,10 +154,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This energetic shrimp-like animal is often seen on our Northern shores, especially among seagrasses. It is more active at night.
 
-**Features:**
+## Features
+
 6-10cm long. Body broad and long, colour plain grey or beige with fine dark bars and lines. Broad tail that have spiky edges and a pair of paddle-shaped appendages. Some have colourfully marked tails.
 
 The huge front pincers resemble those of the Praying mantis insect or the blade of a pocket knife that folds into the handle. A

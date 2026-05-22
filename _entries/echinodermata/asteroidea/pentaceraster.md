@@ -98,13 +98,14 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This large sea star is a new record for Singapore! It was discovered in 2008
 on Cyrene Reef
 , a submerged reef in the middle of our port.
 This sea star was previously known to exist only in the western Indian Ocean and the Red Sea, so its presence in Singapore waters represents a considerable range increase.
 
-**Features:**
+## Features
+
 Diameter with arms to about 15cm.
 Hard, heavy body with long tapering arms that are thick and triangular in cross-section. It has a regular pattern of white rounded knobs on the upper surface. The underside is pale and it has pink tube feet.
 

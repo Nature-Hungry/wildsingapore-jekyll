@@ -43,10 +43,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 Seen twice on sandy shores at Changi East and East Coast.
 
-**Features:**
+## Features
+
 About 2cm. Smooth tear-drop shaped smooth shell. The open has 'plaits' near the tip. The living animal has a large foot with mottled markings, a long siphon and eyes on stalks.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

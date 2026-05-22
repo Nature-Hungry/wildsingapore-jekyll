@@ -40,10 +40,11 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This sea fan with bright blue polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low water mark.
 
-**Features:**
+## Features
+
 15-20cm tall. Colony with long stems without much side branching. Stem white or pinkish, cylindrical with rounded tips, all stems about the same diameter. Bright blue polyps are relatively large (0.5cm) and emerge all around the stem. The polyp can retract completely into the stem, leaving a blue spot on the stem.
 
 ---

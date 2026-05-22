@@ -176,10 +176,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Fiddler crabs are common on our natural undisturbed shores, especially those near mangroves. They are often found in large numbers. Fiddler crabs are highly sensitive to movement and will vanish when they feel footsteps on the sand or see shadows. To see them, wait patiently near their burrows without moving. They will soon re-emerge and you will be rewarded with their amusing behaviour: frantically feeding, squabbling and courting, all at the same time.
 
-**Features:**
+## Features
+
 Body width 2-3cm. The male fiddler crab has one huge pincer, often highlighted in a bright colour. The enlarged pincer may be as large or larger and as heavy as the rest of the crab's body! This enormous pincer is not used to hunt or crush food. It is too small to effectively fend off most predators. Instead, it is used to attract females and to intimidate rival males. The male waves his large pincer in a style and rhythm unique to his species in order to attract the ladies. Fiddler crabs got their name for this behaviour, which resembles a musician playing on his fiddle.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Looking out:**

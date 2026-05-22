@@ -74,10 +74,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Little creeper snails without obvious markings are sometimes found in groups, on rocky and sandy areas near the mid-water mark. Sometimes near the high-water mark near shady sea walls. Commonly seen on our Southern shores.
 
-**Features:**
+## Features
+
 ****
 1.5-2cm long. Shell conical with fine spirals of small bumps. Usually plain without patterns, in dark and dull tones. Operculum made out of a horn-like material, whorls not easily seen.
 

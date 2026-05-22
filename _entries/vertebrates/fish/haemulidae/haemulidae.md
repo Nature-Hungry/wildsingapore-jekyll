@@ -93,7 +93,7 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These thick-lipped fishes are sometimes seen on some of our shores. They usually hide during the day and are more active at night.
 
 **What are sweetlips?**
@@ -103,7 +103,8 @@ Sweetlips belong to Family Haemulidae. According to
 *Plectorhinchus*
 are called sweetlips because of their thick lips.
 
-**Features:**
+## Features
+
 Most sweetlips go through elaborate colour changes as they mature. The juveniles are often boldly spotted or striped, growing up to become adults that are totally different; usually plain with small spots or many thin lines. Some young sweetlips like the
 [Harlequin sweetlips](chaetodonoides.md)
 and

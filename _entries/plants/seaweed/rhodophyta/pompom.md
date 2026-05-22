@@ -71,10 +71,11 @@ links_references: |
   . Bookmark, Inc., the Philippines. 306 pp.
 ---
 
-**Where seen?**
+## Where seen?
 These crunchy pinkish ball-shaped 'pom-pom's are sometimes seen in on all our shores on coral rubble as well as among seagrasses.
 
-**Features:**
+## Features
+
 A cluster (3-8cm) of many thin, stiff, cylindrical 'stems' that are branched. Clusters usually bushy, pom-pom shaped although some hug the hard surface forming layers of branching shapes. The seaweed incorporates calcium carbonate making the 'stems' hard and brittle. So the seaweeds crunch when stepped upon (but try to NOT to step on them). Colours range from pinkish and lilac to deep magenta and purple.
 
 There are many pinkish seaweeds with a pom pom shape that belong to Family Corallinaceae or Family Galaxauraceae. They are often difficult to distinguish to species without microscopic examination.

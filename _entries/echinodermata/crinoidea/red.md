@@ -158,10 +158,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This bright red feather star is sometimes seen near living reefs on our Southern shores. Sometimes many small ones are seen on one visit, and then not seen again for some time. At other times, a single large one may be seen. At Sentosa Serapong, more than 20 can be seen clinging to hard corals.
 
-**Features:**
+## Features
+
 6-12cm in diameter. With more than 30 arms. The cirri on the underside is banded. The entire animal usually uniformly red, sometimes bright red, sometimes very dark red. Or mostly red with some yellowish body parts.
 
 **Feather friend:**

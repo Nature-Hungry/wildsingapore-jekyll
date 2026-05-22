@@ -67,10 +67,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Forming clusters of flat velvety fans, this seaweed is sometimes seen on some of our shores, in coral rubble areas.
 
-**Features:**
+## Features
+
 Several circular blades (3-4cm wide) that are flat and not frilly or crinkled, on a stalk. Usually growing in clusters of 5-10 or more blades. The flexible blade is made up of a tangle of tiny filaments that give it a velvety texture. Usually olive green to dark green.
 
 According to

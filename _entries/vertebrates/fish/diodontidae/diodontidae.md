@@ -61,7 +61,7 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 These round spiky fishes are seldom seen. So far, in seagrass meadows.
 
 **What are pufferfishes?**
@@ -73,7 +73,8 @@ Porcupinefishes belong to the Family Diodontidae. According to
 [Family Tetraodontidae](../tetraodontidae/tetraodontidae.md)
 .
 
-**Features:**
+## Features
+
 About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinefish can also inflate its body which is covered in well-developed sharp spines. In some species the spines erect only when the body is inflated. Jaws with 2 fused teeth (parrotlike). They are poor swimmers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

@@ -153,10 +153,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This well camouflaged filefish is commonly seen on many of our shores, in sheltered areas with seagrasses and near reefs. It often remains motionless next to seaweeds or rocks, sometimes flattening out against or 'wrapping around' sponges, rubble and other large objects.
 
-**Features:**
+## Features
+
 To about 38cm, but those seen were 5-8cm long. Large triangular skin flap on the belly that can be greatly expanded, but often tucked close to the body. Body with lots of small circular dots and broad diagonal bars on the sides, in some these bars may be indistinct. It comes in all shades from brown to green. Tail fin large broad with thin brown bands. On a large adult, the upper fin rays on the tail is produced into a filament. More on
 [how to tell apart filefishes](monacanthidae.md)
 .

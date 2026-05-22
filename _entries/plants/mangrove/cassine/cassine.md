@@ -57,12 +57,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This very rare plant can be seen from the Sungei Buloh Wetland Reserve mangrove boardwalk. According to Hsuan Keng, it was found on sandy beaches including Kranji, Katong and Pulau Brani. Elsewhere it is also uncommon or rare, and was found in wet coastal communities and has been recorded in mangroves, back mangroves and along tidal rivers. From the Andaman Islands through the Malay Peninsula to northern Sumatra, Borneo and Sulawesi. It was known as
 *Elaeodendron subrotundum*
 .
 
-**Features:**
+## Features
+
 A shrub or small tree (to 8m tall).
 
 Leaves (5-7cm) thick leathery with scalloped edges, arranged opposite one another.

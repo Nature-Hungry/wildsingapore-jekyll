@@ -95,10 +95,11 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 This swimming crab is sometimes seen, among seagrasses on our Northern shores.
 
-**Features:**
+## Features
+
 Body width 5-7cm. Body somewhat fan-shaped with 6 spines on the sides - 4 small rounded ones and the last two sharper and longer. The eyes not very far apart. Between the eyes there are 8 small rounded lobes. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Body and legs olive green. Claws olive green on the outside, orange on the inside and towards the pincers which has white tips
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

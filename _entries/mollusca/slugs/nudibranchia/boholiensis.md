@@ -190,10 +190,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large flat nudibranch is often seen on many of our shores, usually near coral rubble or reefs. Sometimes, several may be seen during one visit. It is named after the Bohol Islands in the Philippines.
 
-**Features:**
+## Features
+
 6-10cm long. The hard body is broad and rather thin and flat, and covered with small brown-tipped bumps. Distinguished by the prominent hump along the centre of the otherwise flat animal. Patterns and colours are quite variable, generally brownish to black with paler markings. The flower-like gills are dark brown with white lines. Rhinophores large and thick with white stripes and bars.
 
 Avoid handling the animal as it easily breaks off (autotomises) portions of its body (mantle skirt). Under the mantle skirt is the foot with another pair of tentacles.

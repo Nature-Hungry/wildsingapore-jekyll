@@ -90,10 +90,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This large stiff sea cucumber feels rather plasticky. It is sometimes seen on our Northern shores half buried in silty sand among seagrasses.
 
-**Features:**
+## Features
+
 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

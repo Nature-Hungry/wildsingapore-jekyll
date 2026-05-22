@@ -163,10 +163,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This energetic little spider is commonly seen on many of our shores at low tide: constantly on the move, scurrying about among rocks, coral rubble or corals. It is more active at night and can be quite abundant, with many seen on one trip. This spider was described from Singapore and the type specimen was collected at the coral reefs fringing the island now known as Sentosa.
 
-**Features:**
+## Features
+
 Body to about 1cm long. Its head and huge jaws are smooth maroon, body and legs are furry, greyish sometimes with a pink tinge. At high tide, it hides in air pockets among crevices of submerged rocks, waterproofing these with a mat of silk. It emerges at low tide to hunt. It can 'walk' on water, scuttling rapidly over the water. Hairy feet and long legs, which distribute its weight, prevents it from breaking the water surface tension.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

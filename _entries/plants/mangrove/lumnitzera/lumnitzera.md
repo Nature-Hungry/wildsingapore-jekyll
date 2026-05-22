@@ -80,10 +80,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This pretty plant with plasticky leaves and tiny flowers is sometimes seen in back mangroves.
 
-**Features:**
+## Features
+
 Short shrub to tall tree. Leaves spatula shaped with oval ends thick and fleshy, arranged in a spiral. Flowers small. The small fruits are ribbed, corky and float, and dispersed by water.
 
 **Sometimes mistaken for**

@@ -178,14 +178,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This enormous conical snail is sometimes seen among large boulders and artificial seawalls on Southern shores. Elsewhere, it is found in coral reefs, typically in shallow, high-energy barrier and fringing reefs. It was previously known as
 *Trochus niloticus*
 in
 [Family Trochidae](trochidae.md)
 .
 
-**Features:**
+## Features
+
 Base diameter 8-15cm. The largest of our top shells, shell thick, heavy, a sharp-pointed cone, with spirals of bumpy ridges. Upperside orangey with slanted brown bars, but often hidden by encrusting lifeforms. Underside white with a pretty spiral pattern of dark red spots. Shell base outer edge on young snails is scalloped, smooth in older snails.
 Operculum, thin, made of a horn-like material with concentric rings, yellow or brown. The flexible operculum allows the animal to withdraw deep into the coils of the shell. Body pale mottled, foot large, mantle edge
 sparsely fringed with long tentacles

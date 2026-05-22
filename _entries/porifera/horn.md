@@ -34,13 +34,14 @@ location:
 - bb
 ---
 
-**Where seen?**
+## Where seen?
 There is a patch of these sponges at Chek Jawa, growing among coral rubble. The base of the sponges are usually covered with
 [tiny red sea cucumbers](../echinodermata/holothuroidea/tinyred.md)
 and sometimes
 [sponge synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.md)
 as well.
-**Features:**
+## Features
+
 Sponge is horn-shaped and smooth. There does not seem to be a hole at the tip and no bits sticking out at the sides. Clumps of many horns may be spread over 30-40cm. Each conical, horn-shaped portion about 5cm tall and 3cm wide at the base. Colours beige to pale yellow.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with rather stumpy branches and large axial corallites is sometimes on some of our Southern shores, larger colonies are more commonly seen on undisturbed shores. Sometimes forming a field of colonies.
 
-**Features:**
+## Features
+
 ****
 Colonies 10-25cm. Short, thick stumpy branches forming a squat bush-like shape. The branches don't interlock. Generally, the axial corallite at the growing tip is very prominent and circular with a depression in the centre so it resembles a round bead. The radial corallites are smoothly rounded and form a rosette around the axial corallite. The radial corallites are regularly arranged along the branch. Colours generally brown.
 

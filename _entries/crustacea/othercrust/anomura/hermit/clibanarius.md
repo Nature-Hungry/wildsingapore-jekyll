@@ -62,10 +62,11 @@ galleries:
       caption: ""
 ---
 
-**Where seen?**
+## Where seen?
 These are among the most commonly seen large hermit crabs on our shores. 'Clibanarius' in Latin refers to a soldier in chain mail.
 
-**Features:**
+## Features
+
 Body 2-4cm long. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Many species have boldly coloured stripes on their long walking legs. Eyes on thick long eye stalks.
 
 ---

@@ -86,10 +86,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny bright red round snail is commonly seen in groups on the surface of the mud in some of our back mangroves.
 
-**Features:**
+## Features
+
 0.5-0.8cm. Shell thin, smooth and spherical. Colour bright red, sometimes black. Operculum thin. The body is red too, with tiny eyes on short stumpy stalks. It breathes air through a lung (instead of through gills like most other marine snails).
 Many members of the Family Assimineidae are adapted to brackish waters.
 

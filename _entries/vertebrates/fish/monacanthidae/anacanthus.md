@@ -79,10 +79,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This long filefish with a 'beard' was seen on Cyrene Reef during a seine net survey of the fishes there. It is also sometimes seen on other shores. Elsewhere it is found in shallow waters in sandy, weedy areas, also muddy estuaries and mangroves. It is said to be seen lining up with ropes, seawhips, large stringy-type sponges, as well as mangrove roots. It may also float over the open bottom and may stand on its head. In this way, it may mimic mangrove propagules, sea pens and probably seagrass.
 
-**Features:**
+## Features
+
 To 35cm. Highly elongated fish with a long body flattened sideways, and a long large tail fin. It has an upturned mouth and a barbel under its chin that it can straighten out so that the fish looks like a pointed stick. Like other filefishs, it has a flap under its body but it is tiny.
 
 **Sometimes mistaken for**

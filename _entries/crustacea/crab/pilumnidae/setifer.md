@@ -83,10 +83,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 Only the odd movement of coral rubble gives away the presence of this little crab that carries around a piece of rubble. It lives on rubble and reefs. Elsewhere, the crab has been seen to carry live and dead corals weighing up to 1kg! The crab has also been observed to excavate holes in fixed and immobile live or dead corals, soft stones or sponges.
 
-**Features:**
+## Features
+
 Body width 2-3cm. Body oval, body and legs covered with velvety hairs, but is not as hairy as the
 [Common hairy crab](pilumnus.md)
 . It has stout pincers, one larger than the other, both covered in bead-like bumps.

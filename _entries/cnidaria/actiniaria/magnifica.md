@@ -207,14 +207,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This stunning, large anemone is well named. It is seen on our Southern shores,
 attached to large boulders of dead coral or other solid objects. It is rarely buried in sand or sediments. Several of these anemones may be found next to one another.
 The anemone was previously known as
 *Radianthus ritteri*
 .
 
-**Features:**
+## Features
+
 Diameter when expanded 30-50cm, but can reach 1m. Body column uniformly coloured. Those seen were white, pink, maroon, purple. The body column has longitudinal rows of translucent verrucae of the same colour or slightly lighter or darker than the body column.
 
 Long tentacles (5-8cm) densely cover the oral disk. The tentacles are finger-like and do not taper. The tips are blunt or slightly swollen. The lower part of the tentacles are usually the same colour as the oral disk. Tips may be yellow, green or white. It is said that the mouth area of 2-3cm in the centre of the oral disk is usually yellow, brown or green and the mouth is often raised so it sits on a cone. But this has not been observed for those seen at low tide. The animal can tuck all its tentacles into its body column, forming a ball-shape with only tufts of tentacles sticking out in the centre.

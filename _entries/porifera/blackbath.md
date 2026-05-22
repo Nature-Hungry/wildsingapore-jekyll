@@ -68,10 +68,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 A black sponge that is sometimes seen on some of our shores, often covered in sediments. These sponges are often seen on silty reef flats.
 ****
-**Features:**
+## Features
+
 Generally a globular dome-shaped or loaf-shaped sponge up to 15cm, some with lumps or knobs. Some have tiny holes, others with cones topped with large circular holes. Texture finely granular, some smooth and shiny especially underwater. Many are often covered in sediment. Colours a uniform deep black. Sponges with these features which are commonly encountered include
 *Spongia ceylonensis*
 ,

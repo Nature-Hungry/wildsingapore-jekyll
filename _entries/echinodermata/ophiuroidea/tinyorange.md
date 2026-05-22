@@ -94,12 +94,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These tiny brittle stars are sometimes seen on
 [Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae.md)
 , various soft corals and other cnidarians. A single host can be home to many of these tiny brittle stars.
 
-**Features:**
+## Features
+
 Whole animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Uniformly bright orange. Sometimes confused with the
 [Tiny colourful brittle star](tinyorange.md)
 which are more colorful and found on a wider variety of animals.

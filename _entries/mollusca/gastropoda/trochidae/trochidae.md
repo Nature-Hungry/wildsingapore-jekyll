@@ -89,14 +89,15 @@ location:
 - jng
 ---
 
-**Where seen?**
+## Where seen?
 These snails with top-shaped shells are commonly seen on many of our rocky shores including man-made sea walls. Top shell snails are not as well adapted to dry conditions as the
 [Nerites](../neritidae/neritidae.md)
 and
 [Periwinkles](../littorinidae/littorinidae.md)
 , and are thus generally found closer to the low water mark.
 
-**Features:**
+## Features
+
 3-15cm. Shell thick. Some are shaped like a conical top, the spinning toy. The operculum is circular with concentric rings usually clearly visible. It is made of a thin, horn-like material and is flexible. This allows the snail to withdraw deep into the coils of the shell, hopefully out of the reach of crab pincers. The shell is sometimes covered in encrusting lifeforms. In some species, the body mantle of the living animal is fringed with long tentacles.
 
 **Sometimes confused with**

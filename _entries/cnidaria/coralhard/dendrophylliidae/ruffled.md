@@ -113,7 +113,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral that forms ruffled plates is sometimes seen on our Southern shores.
 
 **Features**

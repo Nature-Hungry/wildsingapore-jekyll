@@ -82,12 +82,13 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 This small flatworm is sometimes seen on
 [Beige sheet asicidians](../../ascidiacea/beige.md)
 that are growing under rocks. So far, only seen on our Northern shores.
 
-**Features:**
+## Features
+
 1-3cm long. Body pale beige with irregular dark markings, irregular dark stripe along the middle. Body margin with irregular dark bars perpendicular to the margin and a fine narrow orange line cutting across the dark bars near the body edge. Has a pair of pseudotentacles made up for simple folds of the body edge.
 
 **What does it eat?**

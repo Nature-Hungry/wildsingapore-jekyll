@@ -35,11 +35,12 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 These rounded blob-shaped animals are commonly seen on our Northern shores
 .
 
-**Features:**
+## Features
+
 Colony about 5-10cm in diameter. Rubbery blobs forming on hard surfaces or on stones
 near the mid-water mark
 . In various shades of black, red, yellow, brown and beige.

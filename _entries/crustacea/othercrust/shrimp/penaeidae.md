@@ -127,10 +127,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These large prawns are commonly seen on many of our shores, usually in sandy, silty areas and near seagrasses. They are more active at night, during the day hiding in the sand.
 
-**Features:**
+## Features
+
 Generally about 5-8cm long. Prawns of the Family Penaeidae have a well developed raised portion along the centre of the heads extending between the eyes called the rostrum. The rostrum usually has 'teeth' both on the upper side (dorsal) and underside (ventral). The eyes are huge. Antennae very long, often longer than the body. Walking legs 5 pairs, all well developed, the first 3 pairs tipped with tiny claws. 5pairs of paddle-shaped swimming limbs (pleopods) used to slowly swim with. A shrimp escapes rapidly with quick contractions of its flexible and muscular abdomen and broad fan-shaped tail.
 
 Those of the genus

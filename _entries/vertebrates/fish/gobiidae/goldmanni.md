@@ -96,10 +96,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This pretty slender goby is seen on many of our shores, near reefs and rubble.
 
-**Features:**
+## Features
+
 To about 5cm. Body long slender, pale sandy-white with many small black spots on the nape. Distinguished by a row of pairs of close-set round black spots along the side of the body.
 
 **Sometimes mistaken for**

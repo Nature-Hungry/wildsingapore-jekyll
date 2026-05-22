@@ -100,10 +100,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This large fish that looks like it has a bleeding wound near the gills is sometimes seen on some of our shores, near seagrasses. It is said that adults are found in deeper waters, but younger fishes hang about in loose groups in mangroves and among seagrasses.
 
-**Features:**
+## Features
+
 To about 50cm, those seen on the intertidal about 15cm. Like other members of the Family Lethrinidae, it has large scales in a 'distinctive pattern' -- a kind of diamond pattern. There is a red margin around its gill covers and a red mark at the base of the pectoral fins. As well as red edges to dorsal fin and tail fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

@@ -163,10 +163,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful stingray is sometimes encountered on sandy areas and in coral rubble near living reefs on some of our shores. It is often also seen by divers. Sadly, it is also sometimes encountered trapped in a drift net. It is considered possibly the most abundant ray in coral reefs in our region.
 
-**Features:**
+## Features
+
 Grows to about 30cm in diameter, those seen 15-20cm. Body oval with a rounded snout. Body colour brown, grey, yellow, olive-green to reddish brown; with lots of obvious bright blue spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

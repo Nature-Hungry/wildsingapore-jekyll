@@ -188,12 +188,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large anemone is sometimes seen on the reef edges of our Southern shores. According to Dr Fautin, it is sometimes seen living on branching corals. It was previously known as
 *Heteractis cripsa*
 .
 
-**Features:**
+## Features
+
 Diameter expanded 20-30cm, up to 50cm when fully expanded. Many long tentacles (about 10cm) that are snake-like, evenly tapered to a point often with coloured tips: mauve, blue, sometimes yellow or green. The tentacles may shrivel if the animal is disturbed. Body column with large, prominent, adhesive bumpy verrucae. The body column texture is leathery and it is uniformly coloured, usually grey. The oral disk is usually brownish violet or grey, rarely bright green, sometimes with white stripes.
 
 **Sometimes confused with**

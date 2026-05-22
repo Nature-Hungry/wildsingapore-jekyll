@@ -95,7 +95,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This snail is commonly encountered in large numbers on many of our shores. In shallow sandy and slightly muddy areas which are sheltered from strong waves and currents, including
 the bottom of man-made lagoons, usually
 near the mid-water mark
@@ -104,7 +104,8 @@ It is said that they can reach densities of
 hundreds of snails per square metre.
 It was previously placed in the Family Potamididae.
 
-**Features:**
+## Features
+
 2-3cm.
 Shell conical with pattern of white spiralling lines with finer lines and large bumps. Shell opening oval,
 large, flared with upturned spout at the tip

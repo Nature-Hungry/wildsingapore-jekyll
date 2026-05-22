@@ -64,10 +64,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This juicy looking seaweed is made up of little bell-shaped 'grapes'. Small clumps sometimes seen on our Southern shores on rocks and coral rubble near reefs on our Southern shores.
 
-**Features:**
+## Features
+
 The seaweed resembles bunches of little bells, with a flattened top. Each bunch about 6-8cm long, with bell-shaped bead (the 'grapes') arranged on a vertical 'stem'. These bunches of 'grapes' emerge from a long horizontal 'stem' that creeps over hard surfaces or just under the sand. Colours range from green to bluish-green.
 
 **Sometimes confused with**

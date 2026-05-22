@@ -63,12 +63,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small clam is often seen on our Northern shores among seagrasses, sometimes attached to other animals like
 [Window-pane shells](../placunidae/placuna.md)
 .
 
-**Features:**
+## Features
+
 Diameter 3-6cm. A circular two-part shell. When submerged, sparse long tentacles emerge, with dense shorter tentacles at the edge of the mantle. In some the shell is covered with encrusting organisms. When submerged, a fringe of tentacles emerge, some long and many short tentacles, with many tiny, well developed eyes along the mantle edge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

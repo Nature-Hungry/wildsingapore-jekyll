@@ -45,12 +45,13 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone with branching tentacles is sometimes seen in soft mudflats near mangroves and freshwater flows at the Kranji Dam sluice gate. It is often found among
 [Petal-mouthed mangrove anemones](mangrove.md)
 , in much smaller numbers.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded about 2cm. Few transparent tentacles. Each tentacle is branched at least once ending in tapering tips, with narrow white rings where the tentacles branch or attach to the oral disk. Oral disk tiny. Body column pale with fine white stripes.
 
 **Status and threats:**

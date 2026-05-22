@@ -131,10 +131,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large sea hare is sometimes seen near reefs on our Southern shores. Often, many individuals are seen at one time and not seen again for some time. Elsewhere, it is considered among the most commonly encountered sea hares in the Indo-Pacific.
 
-**Features:**
+## Features
+
 8-12cm. Body large, fleshy and smooth, said to be more leathery and firmer than other sea hares. Olive green or yellow. It is distinguished by a pattern of black smudged rings sometimes with white centres, and a network of fine black lines. It does have a black 'tail'! The inner side of the parapodia black with striking white blobs. There are two pairs of large tentacles. It is said that when disturbed, it releases purple ink.
 
 **What do they eat?**

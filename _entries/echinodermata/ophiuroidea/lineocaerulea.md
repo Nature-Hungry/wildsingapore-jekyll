@@ -86,12 +86,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This elegantly marked long-armed brittle star is sometimes seen in rubbly areas near seagrasses on our Northern shores, especially at night. It was previously known as
 *Ophiothrix lineocaerulea*
 .
 
-**Features:**
+## Features
+
 Disk diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat pentagonal. Long blunt cylindrical spines along the length of the arms, held in a bristley manner so the arm resembles a bottle brush. A pair of dark parallel lines along the upperside of the arms. This pair of lines continues on the central disk. The arms have diffuse banding of blue and yellow.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes confused with**

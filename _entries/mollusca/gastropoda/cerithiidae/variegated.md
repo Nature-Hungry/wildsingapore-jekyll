@@ -70,10 +70,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small, pretty creeper snail is sometimes found in small groups on sandy sheltered areas near coral reefs. Sometimes found on tape seagrasses.
 
-**Features:**
+## Features
+
 1-2cm. Shell conical with different spiralling patterns of beaded lines and dots. The siphonal canal is twisted back. Operculum made out of a horn-like material, with a few whorls.
 
 Many species of creeper snails are have variegated patterns. They are difficult to tell apart in the field. The creeper snails on this page may not all be of the same species.

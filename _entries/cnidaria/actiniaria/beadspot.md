@@ -42,10 +42,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny spotted anemone is seen in mangroves on our Northern shores. Large numbers may settle close to one another at the midwater mark, in barnacle shells and other tiny crevices on mangrove trees, in small holes bored by other animals in rotting wooden poles. At low tide, with its tentacles tucked into the body column, it resembles a spotted bead.
 
-**Features:**
+## Features
+
 Diameter 0.5cm with tentacles expanded. Body column olive green with rows of eye-like spots: dark centre with white and orange edges. Tentacles short, tapering translucent.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

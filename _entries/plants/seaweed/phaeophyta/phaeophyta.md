@@ -78,10 +78,11 @@ links_references: |
   . Bookmark, Inc., the Philippines. 306 pp.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 Large brown seaweeds like sargassum are more common on our Southern shores, but other brown seaweeds are also seen on our Northern shores. Like other seaweeds, brown seaweeds appear to be seasonal. At certain times, for example, the Southern shores are blanketed under a thick golden carpet of sargassum.
 
-**Features:**
+## Features
+
 Brown seaweeds have green chlorophyll but this is masked by other pigments, in particular fucoxanthin, an orange carotenid pigment that gives their distinctive brown colour. Brown seaweeds may come in shades of brown, from light to yellowish, golden to dark brown.
 
 Brown seaweeds are only found in the sea and are not found in freshwater.

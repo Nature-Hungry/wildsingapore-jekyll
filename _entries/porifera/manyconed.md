@@ -98,9 +98,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This yellow sponge capped with cones that look like mini-volcanos is commonly seen on many of our shores, growing among coral rubble.
-**Features:**
+## Features
+
 10-15cm. The sponge has a large base, usually globular with many small knobs on the sides. It is topped with several tall cones with large holes at the tips. When submerged, the holes are often open wide producing a strong 'eruption' or outflow that stirs the water surface. But out of water, the holes are closed and the cones are puckered up. Colours usually bright yellow to brownish orange.
 
 The sponge may start by boring into calcium carbonate of dead corals, but they are not extensive excavators like some other members of this family.

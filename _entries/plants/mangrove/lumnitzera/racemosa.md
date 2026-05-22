@@ -68,14 +68,15 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This pretty plant with plasticky leaves and tiny white flowers is sometimes seen in our mangroves. It is found in the back mangroves, preferring sandy or hard mud areas. Also on shores and waterways with freshwater influence. It can tolerate more saline conditions than
 [Teruntum merah](littorea.md)
 (
 *Lumnitzera littorea*
 ). There are some large old trees at Kranji Nature Trail.
 
-**Features:**
+## Features
+
 Shrubs or tree up to 8m tall. Bark reddish-brown and fissured. Has no pneumatophores.
 
 Leaves spoon-shaped (2-10cm), scalloped edge and a small notch at the tip, thick and fleshy, arranged alternately in a spiral. Flowers small (1-2cm) in bunches, white with five tiny petals. The flowers are weakly scented and produce lots of nectar. According to Tomlinson, this species appear to be pollinated by day-active wasps, bees, butterflies and months.

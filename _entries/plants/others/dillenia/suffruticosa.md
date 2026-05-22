@@ -51,14 +51,15 @@ links_references: |
   . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 ---
 
-**Where seen?**
+## Where seen?
 This large shrub to tree with large glossy green leaves, cheery yellow flowers and pink star-shaped 'fruits' is commonly seen. According to Corners, this is the most common
 *Dillenia*
 in Malaya. Corners says "one may regard it as a rank tropical weed, but the more we become acquainted with it, the greater is our admiration. It is a plant of enormous vigour and blooms every day of its life which may be fifty if not a hundred years. We should be thankful that there is such a fascinating plant ready to clothe the wasteland". Considered a pioneering species, among the few that can grow on 'white sands'. It was formerly known as
 *Wormia suffruticosa*
 .
 
-**Features:**
+## Features
+
 A large shrub to shrubby tree 6-7m tall. It has very deep taproots to reach underground water sources and thus their presence is believed to suggest an available underground water source.
 
 Leaves large (15-35cm) oval and 'cabbagey' with a toothed edge and a fold near the stalk. Young leaves reddish and have obvious 'corrugated' texture of veins.

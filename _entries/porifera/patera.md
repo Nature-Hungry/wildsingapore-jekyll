@@ -53,7 +53,8 @@ location:
 - ecp
 ---
 
-**Features:**
+## Features
+
 Large sponge resembling a cup or wine glass, 1m by 1m in height and diameter. The stalk is embedded in the ground with 'roots'. Colours white to yellow.
 
 Feared to be globally extinct, the sponge was rediscovered in Singapore in 2011.

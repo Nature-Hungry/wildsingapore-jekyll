@@ -66,12 +66,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This almost spherical moon snail is commonly seen on a few of our sandy Northern shores. Especially at night or on a cool day, usually busy ploughing through the sand in search of prey, near seagrass areas. Elsewhere, it is found in sandy to muddy bottoms. It was previously known as
 *Polinices didyma*
 .
 
-**Features:**
+## Features
+
 3-5cm. Shell smooth glossy, thick heavy, spherical, the spiral tip not sticking out so that the overall shape resembles a ball (
 *Didyma*
 means 'testicles'). Shell pattern usually plain white sometimes with pearly pastel shades, with narrow white spiral at the spire, sometimes with irregular blotches of darker colours. On the underside, a brown blotch and a small depression. Operculum smooth, made of a thin horn-like material, yellow. Body huge, plain white. Tentacles with more opaque white bands.

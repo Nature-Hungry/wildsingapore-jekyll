@@ -50,10 +50,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 Ocassionally, you might come across this stalked barnacle growing on objects that used to float in the open sea, such as large logs washed ashore. Goose barnacles usually die once they are stranded on the beach.
 
-**Features:**
+## Features
+
 To about 2cm across. The outer shell is clam-like made up of five thin white plates. The opening may be red, orange or bright yellow. A leathery stalk attaches the animal to a hard surface. Unlike the more commonly seen shore barnacles, goose barnacles don't have an operculum to close the opening in their shells. Like other barnacles, feeds with its feathery feet. Some species of Goose barnacles can grow very large, with shells 5cm long and a stalk 20cm long!
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

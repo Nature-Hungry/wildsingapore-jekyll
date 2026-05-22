@@ -121,12 +121,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This moon snail with a spotted shell is sometimes seen on our sandy Northern shores near seagrasses. Undisturbed shores may have large numbers of them. It was previously known as
 *Natica tigrina*
 .
 
-**Features:**
+## Features
+
 2-3cm. Shell smooth thick pear-shaped with the spiral tip sticking out quite a bit, usually longer than wide. Shell pattern white or beige with brown or black spots (more of a leopard pattern than a tiger pattern). On the underside, a small comma-shaped depression. Operculum white sometimes with a dark smudge where the whorl starts, sometimes small to large bright yellow patches, a pair of spiralling grooves on the outer margin and finely serrated inner margin. Body mostly plain white or beige sometimes with darkish edges, the fleshy area near the shell often with small white spots. Tentacles short.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

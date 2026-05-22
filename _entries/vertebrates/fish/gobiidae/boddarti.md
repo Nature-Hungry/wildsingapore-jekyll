@@ -92,12 +92,13 @@ location:
 - cj
 ---
 
-**Where seen?**
+## Where seen?
 This pretty spotted mudskipper is sometimes seen in the back mangroves of our Northern shores
 . Large adults often seen on very very soft mud.
 During high tide, it hides in its burrow with a bubble of air.
 
-**Features:**
+## Features
+
 To 22cm long, those seen about 6-8cm. Brown with 6-7 dark diagonal bars along the body. Lots of tiny blue spots on the 'cheeks', along the sides of the body and on the dorsal and other fins. In adult females, the first dorsal fin has elongated spines that stick out like long filaments.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

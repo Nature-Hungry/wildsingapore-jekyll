@@ -96,10 +96,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large spotted mudskipper is sometimes seen in our mangroves, or on mudflats and sandflats near mangroves.
 
-**Features:**
+## Features
+
 To about 13cm long, those seen about 8-10cm. It has a greyish body with scattered yellowish spots all over the 'cheeks' and body. There are brownish spots on the upper body.
 No irridescent blue spots.
 The first dorsal fin has a rounded margin, is brownish red with a broad black band and narrow white margin. The second dorsal fin has a black stripe in the middle. The two dorsal fins are well separated. The pelvic fins form a complete disk.

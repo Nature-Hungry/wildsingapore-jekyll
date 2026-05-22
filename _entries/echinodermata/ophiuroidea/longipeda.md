@@ -187,14 +187,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This brittle star indeed has very long flat arms! It is often encountered among coral rubble and under stones at night on many of our shores. Usually, all that can be seen is a small part of its very long arms, while the central disk remains safely hidden in a crevice. The arms retract rapidly when disturbed. It was previously known as
 *Ophiothrix longipeda*
 .
 
 Ocassionally one might be seen outside its hiding place. Sometimes upside down in a tangle of its own arms. It's still not certain what this behaviour is about. But as soon as light falls on one, it will rapidly disappear into its hiding place.
 
-**Features:**
+## Features
+
 Disk diameter about 1-2cm, arms about 20-30cm long and about 2cm broad. Disk thick and pentagonal. The very long arms are flat, generally of uniform width throughout, with long flat spines held flattened along the sides (not like a bottlebrush). Large long translucent tube feet emerge from the underside of the arms. The arms sometimes have a
 faint banded pattern. Generally beige or bluish.
 

@@ -96,10 +96,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This flat strap-like brown seaweed is sometimes seen on many of our shores, often anchored in bare sand.
 
-**Features:**
+## Features
+
 A bunch of several to many strap-like blades about 1-2cm wide and 10-15cm long, branching on one plane forming Y-shapes with rounded or squarish tips. The seaweed does not have a prominent midrib or vein. Usually a plain translucent brown. In some, the entire clump comprises a few long strands. In others, there are many short strands forming a dense clump.
 
 According to

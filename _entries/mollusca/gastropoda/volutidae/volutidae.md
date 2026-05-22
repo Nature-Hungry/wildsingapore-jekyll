@@ -125,14 +125,15 @@ location:
 
 Although some are highly prized for their large, glossy, patterned shells, living volutes are even more beautiful. Their bodies are boldly marked with colourful stripes or spots.
 
-**Where seen?**
+## Where seen?
 The
 [Noble volute](nobilis.md)
 is regularly sighted on some of our Northern and Southern shores, especially at night when they are more active. The
 [Baler shell](melo.md)
 is also sometimes seen on our Northern shores.
 
-**Features:**
+## Features
+
 To about 20cm. In some, the shells are large, heavy and glossy, often with beautiful patterns. As an adaptation to burrowing in sand, seeking buried prey, the foot is large and muscular, and the siphon long, the tip sticking out of the sand while the snail is buried.
 
 **What do they eat?**

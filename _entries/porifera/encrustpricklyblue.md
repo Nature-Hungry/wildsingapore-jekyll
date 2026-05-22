@@ -65,9 +65,10 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This pale blue prickly encrusting sponge is sometimes seen on our Southern shores, growing over coral rubble.
-**Features:**
+## Features
+
 Small, covering an area of 10-15cm. Surface texture prickly, the prickles forming clusters or ridges. Some tiny holes sprinkled on the surface. Colours greyish blue to bright blue.
 
 Are these young

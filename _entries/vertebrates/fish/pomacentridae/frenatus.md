@@ -190,14 +190,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This beautiful anemonefish with a white 'head band' lives mainly in the
 [Bubble tip sea anemone](../../../cnidaria/actiniaria/entacmaea.md)
 which is not very commonly encountered, usually on good reefs on our Southern shores. There is a report of it being found in a
 [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.md)
 too.
 
-**Features:**
+## Features
+
 5-14cm. Body red to black with one black-edged white bar just behind the eyes. There may be a second black-edged white bar in the middle of the body. Juveniles are usually red and may have 2-3 narrow white bars.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Amazing gender switch:**

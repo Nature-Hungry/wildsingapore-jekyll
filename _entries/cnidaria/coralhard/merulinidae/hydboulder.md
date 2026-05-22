@@ -152,10 +152,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This boulder-shaped hard coral with conical bumps are sometimes seen on our Southern shores.
 
-**Features:**
+## Features
+
 Colonies (15-20cm, sometimes much larger), boulder-shaped with irregular lumps and hillocks. The unique feature of the
 *Hydnophora*
 corals are the small conical mounds (0.5cm or smaller), called monticules (also hydnae or hydnophores), that form where the corallite walls of adjacent polyps fuse together. In these boulder-shaped colonies, monticules may be conical short, or long, forming valleys along the surface of the colony. Polyps have short blunt tentacles that surround the base of each monticule. The skeleton is hidden when the tentacles are expanded. Colours seen include brown, green and blue.

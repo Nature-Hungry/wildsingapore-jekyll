@@ -109,7 +109,7 @@ location:
 - hnt
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 These stick-like fishes are commonly encountered on many of our shores. They swim at the water surface, often quite actively at night. Small ones may be mistaken for floating twigs or other bits of flotsam.
 
 **What are halfbeaks?**
@@ -117,7 +117,8 @@ Halfbeaks belong to the Family Hemiramphidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475)
 : the family has 12 genera and 85 species. They are found in the Atlantic, Indian and Pacific Oceans.
 
-**Features:**
+## Features
+
 To about 10cm long. Body long and stick-like; generally cylindrical. The halfbeak is so named because its lower jaw is much longer, while its upper jaw is short and triangular. 'Hemi' means half; while 'rhamphos' means beak or bill in Greek. The jaws have several rows of small teeth and the tip of the long, spike-like lower jaw is often brightly coloured. The eyes are relatively large and scales are large too.
 
 **Sometimes mistaken for**

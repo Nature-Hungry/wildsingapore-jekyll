@@ -77,7 +77,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These almost cylindrical clams can move surprisingly quickly and are rarely seen as they are usually buried in the sand. They are sometimes seen above ground on the undisturbed sandy shores near seagrass areas on our northern shores. They are adapted for burrowing deeply in soft bottoms.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Built for digging:**

@@ -123,10 +123,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These tiny nondescript snails are sometimes seen near mangroves or in silty parts of seagrass areas on some of our shores. Often seen in groups, it is more active at night.
 
-**Features:**
+## Features
+
 About 1cm. Shell thin and oval, usually a dull colour. The body of the snail can expand to be much larger than the shell. Some release a sticky purple secretion when disturbed. Like other
 [headshield snails](cephalaspidea.md)
 it has a shield over the front of the body which is used to plough through the sediments. It has a pair of wing-like extensions of the body (called parapodia) which envelope the shell. It lacks tentacles and an operculum.

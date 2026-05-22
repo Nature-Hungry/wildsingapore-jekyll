@@ -172,10 +172,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This enormous carpet anemone with short fat tentacles is sometimes seen on our undisturbed Southern shores.
 
-**Features:**
+## Features
+
 Diameter to 1m or more. The large oral disk covered with short tentacles so that it resembles a carpet. The oral disk is often held flat against the surface, unlike the
 [Giant carpet anemone](gigantea.md)
 (

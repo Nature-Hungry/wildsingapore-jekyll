@@ -146,10 +146,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These brown juveniles are sometimes seen on many of our shores, among seagrasses and near coral rubble. Often it is seen 'drifting' like dead leaves. Elsewhere it is found in shallow coastal waters, around reefs and in estuaries; also mangroves and occasionally freshwater.
 
-**Features:**
+## Features
+
 To about 70cm, those seen on the intertidal at low tide range from tiny ones around 2cm, to larger ones about 12cm. Juveniles are brownish with a transparent tail fin, so at first glance, it appears to have no tail. Adults are uniformly dark grey to brownish or blackish. Lips swollen and thick especially in adults.
 
 **May be mistaken for**

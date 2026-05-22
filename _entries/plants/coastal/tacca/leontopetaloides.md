@@ -48,12 +48,13 @@ galleries:
       caption: "Links Tacca leontopetaloides on The Total Vascular Flora of Singapore Online: photos and fact sheet. Tacca leontopetaloides on the NParks Flora and Fauna website: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 A very rare plant in Singapore, it now only occurs naturally at Pulau Semakau and Pulau Pawai. Some propagated plants can be found at Bukit Batok Park. It grows in the sun-dappled shade immediately above the high water mark. It is a widely distributed pantropical plant. Its Malay name is
 *'Lukeh'*
 . According to Burkill, it was considered rare in Peninsular Malaysia.
 
-**Features:**
+## Features
+
 A low growing plant with bright green hand-shaped leaves (30-70cm wide, 120cm long) on long stalks (50cm-1m). At first glance, it looks a lot like giant celery. It has small flowers (1cm) and globular fruits (4-5cm) growing in a cluster with leafy bracts and long 'whiskers' which are also bracts. The function of these 'whiskers' is not known.
 
 The plant grows from underground tubers, hard and potato-like. Leaves may die down as it lays dormant for sometime. Eventually, new leaves will emerge.

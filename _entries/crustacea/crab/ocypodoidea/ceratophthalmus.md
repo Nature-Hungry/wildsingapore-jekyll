@@ -168,10 +168,11 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This large but elusive crab is commonly seen on many of our shores. Yet, it is hard to spot. It probably got its common name because it is active only at night, and it moves so swiftly over the sand that you usually literally only get a ghostly glimpse as it skitters away in the darkness.
 
-**Features:**
+## Features
+
 Body width 6-8cm. Body squarish box-like. Usually bluish grey with brown markings on the back, often in the shape of an "H". But a variety of other patterns also seen. Pincers long, downward pointing often with white or pale claws. Has a vertical ridge on the inside of the 'palm' that produces a rasping sound when rubbed against the rough surface of the face. This is probably done to declare their territory. Legs long with pointed tips. Large eyes on short stalks which can fold away into grooves on the body when the crab burrows into the sand. Adult crabs have a characteristic tall skinny point or 'horn' on top of each eye (called the stylophthalmous), usually darker in colour. The horn is shorter in females and absent in juveniles (2.5cm or smaller).
 [A study](http://www.bbc.co.uk/nature/22025789)
 found that juveniles can change their body colour and pattern to match the surrounding sand, usually becoming lighter during the day and darker at night.

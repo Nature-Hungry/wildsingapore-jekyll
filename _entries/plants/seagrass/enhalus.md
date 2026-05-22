@@ -171,14 +171,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Tape seagrass can be seen on many our undisturbed shores. Pulau Semakau has the largest bed of tape seagrass that ordinary people can visit. It covers kilometres of the shoreline. Elsewhere, tape seagrass is usually seen in clumps sparsely distributed along the shore, usually near coral rubble. There is only one species of
 *Enhalus*
 .
 
 Tape seagrass has a wide distribution and is found from tropical areas in Africa to the Pacific Islands. It grows well in sheltered bays or areas sheltered by mangroves. It may form dense meadows as the dominant seagrass, or small clumps among other seagrasses.
 
-**Features:**
+## Features
+
 Tape seagrass has the longest leaves of seagrasses found on our shores. The strap-like leaves are 1-2cm wide and 30cm-1.5m long. The edges of the leaves are slightly rolled. The leaves have air channels in them.
 
 This seagrass has thick rhizomes (underground stems) that are densely covered with the stiff black fibrous strands, which are the remains of old leaves. The rhizomes have also many cord-like, hairless roots. The roots also have wide air-channels.

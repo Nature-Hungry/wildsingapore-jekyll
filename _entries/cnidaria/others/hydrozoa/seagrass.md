@@ -35,10 +35,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 Tiny feathery creatures that grow on the leaf blades of seagrasses.
 
-**Features:**
+## Features
+
 0.5cm long or shorter. Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

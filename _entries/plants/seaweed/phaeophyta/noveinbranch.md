@@ -53,10 +53,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This broad strap-like seaweed is sometimes seen on our Southern shores, attached to rocks and coral rubble.
 
-**Features:**
+## Features
+
 Clumps of flat blades 2-4cm wide and 10-15cm long. The broad strap-like blades branch irregularly near the ends on the same plane into flat strips. Tips squarish or irregularly ragged. There is no "vein" down the centre of the blade. Colours golden, yellowish to reddish brown.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg)

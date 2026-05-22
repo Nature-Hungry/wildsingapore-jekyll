@@ -155,7 +155,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Like strange 'flying' saucers with bulbous eyes and long whip-like tails, these fishes are often seen in our mangroves and coral reefs. They can sting painfully! These fishes often hide in silty bottoms and under coral ledges, watch where you step and where you put your hand.
 
 **What are stingrays?**
@@ -163,7 +163,8 @@ Stingrays belong to the Family Dasyatidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?id=20)
 : the family has 9 genera and 70 species. Together with skates and rays, stingrays belong to the Order Rajiformes. These fishes are related to sharks but most are adapted for hunting and living on the sea bottom. They have flattened bodies with enlarged pectoral fins.
 
-**Features:**
+## Features
+
 The largest species of stingrays can grow to 4m in diameter. Those commonly seen on our shores are much smaller.
 
 Like other rays, stingrays have greatly enlarged pectoral fins along their body edges. With graceful undulations of these fins, they seem to 'fly' through the water. They generally swim slowly, but can make a quick dash if they need to. They also flap the enlarged fins to bury themselves in the sand in an eyeblink. Stingrays have no or indistinct dorsal fins. They have long whip-like tails but lack tail fins. Their bulbous eyes stick out above the flat body, allowing them to peer out when they lie buried in the sand.

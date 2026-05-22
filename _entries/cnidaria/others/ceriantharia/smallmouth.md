@@ -87,10 +87,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This cerianthid with a tiny mouth is sometimes seen on our Northern shores. In seagrass meadows and coral rubble.
 
-**Features:**
+## Features
+
 2-4cm in diameter. The outer tentacles are elegantly slim and tapering, in various colours sometimes banded. The inner tentacles are very short, tapering to sharp tips and usually held closed with the tips touching, forming a cone around a tiny mouth. Body column slender, may be pale or dark.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

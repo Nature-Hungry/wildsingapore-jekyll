@@ -98,10 +98,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 It is rare to come across the living snail but the shells of dead snails are often encountered on our Northern shores. The empty shell is usually occupied by a hermit crab!
 
-**Features:**
+## Features
+
 6-7cm long, it has slender, curving spines and a long siphonal canal. It has 3-4 short spines on half the siphonal canal closest to the shell. This long siphonal canal helps the animal protect its siphon while it pokes into places to look for food. While the spines may help protect it from predators, it does make it difficult for the animal to move about among seagrasses and seaweeds. So the animal usually moves by holding the shell high above the bottom as it moves across the surface.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

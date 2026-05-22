@@ -60,10 +60,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 This elegant branching sponge is often seen on our Northern shores, growing on hard surfaces, including pipes, jetty legs, abandoned drums. Usually near the mid-water mark.
 ****
-**Features:**
+## Features
+
 The sponge looks like thin roots that spread out over a hard surface. Branches thin (about 2cm wide) tapering to points. Some have recessed holes along the length, others have spikes, knobs with large holes or short hollow tubes along the length. The entire sponge may cover an area of about 30cm. Colours bright light blue, bright purple or olive green. Sometimes bright yellow.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg)

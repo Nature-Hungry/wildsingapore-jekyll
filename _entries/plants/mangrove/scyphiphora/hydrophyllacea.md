@@ -62,10 +62,11 @@ links_references: |
   Cambridge University Press. USA. 419 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This pretty bush with waxy green leaves is often seen in undisturbed mangroves. It is also sometimes found on our natural rocky shores. It was previously common in our mangroves and muddy shores and found in Jurong. Elsewhere, it is considered a very common plant among mangrove and sea shore vegetation and its fruits plentiful among flotsam on the shore.
 
-**Features:**
+## Features
+
 A shrub up to 3m, but in Singapore, rarely more than 2m tall. Twigs reddish when young. Bark greyish black, ridged and fissured.
 
 Leaves spoon-shaped (3-5cm long) smooth waxy glossy and held upright, arranged opposite one another. Old leaves are yellow then turn shiny pink. Terminal bud and young leaves coated in a varnish-like substance.

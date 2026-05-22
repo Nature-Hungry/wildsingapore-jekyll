@@ -64,14 +64,15 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This snail is sometimes seen in sandy sheltered man-made lagoons on our Southern shores. Often, a pair or a handful are seen among the more numerous
 [Bazillion snails](../potamididae/zonalis.md)
 . According to Abbott, it is uncommon. It is among the larger of the
 [pyramid snails](pyramidellidae.md)
 , which are mostly very tiny parasitic snails.
 
-**Features:**
+## Features
+
 2-2.5cm. Shell thick conical with a pointed tip. Shell opening large ear-shaped white. Shell texture ribbed spirals, colour white with spirals of brown smudged spots, sometimes plain orange. Operculum oval, thin, made of a horn-like material, yellowish. Body white, with large thin foot and a triangular shaped head with short slender tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

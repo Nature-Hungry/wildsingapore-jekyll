@@ -118,11 +118,12 @@ location:
 - cj
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This large mudskipper is often seen in mudflats and the back mangroves of our Northern shores. At low tide, large ones are often seen in or near their 'swimming pool'.
 At high tide, they may be seen clinging to mangrove tree roots.
 
-**Features:**
+## Features
+
 15-27cm long, it is the largest of our mudskippers. It has a black stripe along the side of its body. At night, it may have additional dark bars across the back.
 
 **Sometimes confused with**

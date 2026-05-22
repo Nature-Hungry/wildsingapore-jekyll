@@ -58,9 +58,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs.
-**Features:**
+## Features
+
 To about 60cm. Body covered with fine prickles. Body whitish covered with a dense network of black, brown or greenish broken lines. Dark and pale streaks radiating outwards from the eyes. Black reticulations below pectoral fins. Black area around anus. Juveniles (around 5cm) seen while diving were black with large yellow spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

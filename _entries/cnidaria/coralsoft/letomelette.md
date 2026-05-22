@@ -111,10 +111,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large disk-shaped leathery soft coral that resembles a fried egg is commonly seen on our Southern shores. On coral rubble.
 
-**Features:**
+## Features
+
 Colony 30-50cm or larger. The colony is usually mushroom-shaped; with a flat, broad disk attached to a hard surface by a short stalk. The diameter of the disk is usually wider than that of the stalk. Polyps only found on the upperside of the broad disk. The edge of the disk may be highly ruffled, especially when submerged. There are no ridges or finger-like structures sticking out of the disk. When out of water, the colony often flops over into a flat disk that looks like a rather badly fried egg! The colony can also contract forming puckered looking balls. The common tissue may be pink, yellow, orange, greenish or brown.
 
 The colony has both autozooids and siphonozooids. Autozooid polyps have long slender body columns (1-2cm) with 8 branched tentacles that are usually white. The siphonozooids do not emerge from the body membrane and function to pump water through the colony. These are small, numerous and look like little dots, densely arranged among the taller autozooid polyps. The tall autozooids can retract completely into the common tissue. Out of water, the surface of the common tissue has two different kinds of holes; bigger ones where the retracted autozooids are, and smaller ones where the siphonozooids are.

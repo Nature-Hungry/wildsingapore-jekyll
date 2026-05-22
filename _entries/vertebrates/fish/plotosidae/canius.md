@@ -140,7 +140,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These wriggly place eel-like fishes are sometimes seen on some of our shore. Usually seen alone, hiding in pools under stones or other debris on the shore, near seagrasses. Elsewhere, adults found mostly in estuaries and lagoons, and sometimes up rivers in nearly fresh waters
 **.
 

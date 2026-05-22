@@ -266,10 +266,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This colourful round crab can be very commonly seen on many of our shores in coral rubble areas and reefs. Slow moving, it usually hides under large coral rubble pieces, but can be quite active at night.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Features:**
+## Features
+
 Body width 8-10cm. Body oval somewhat egg-shaped body with a smooth edge (not 'toothed'). Reddish brown, orangey to bright red, usually with scattered white spots. Juveniles have a white margin around the body. Large pincers both about equal in size, smooth (no pimples) with black tips that are spoon-shaped. Males may have larger pincers. Walking legs not hairy. Juveniles are light brown with a white band around the edge of the body. Like most other Xanthid crabs, it is
 [highly poisonous](xanthidae.md)
 and should not be eaten.

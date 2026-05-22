@@ -67,10 +67,11 @@ location:
 - snt
 ---
 
-**Where seen?**
+## Where seen?
 Forming flat, fan-shaped clusters encrusting hard surfaces. Some resemble terrestrial bracket fungi or fish scales. They are sometimes seen on our Southern shores, growing on coral rubble near reefs.
 
-**Features:**
+## Features
+
 Thin, flat stiff leathery disks about 2-4cm in diameter, growing in clusters. Only the central portion is attached to the hard surface, the edges are free. Forming disks sometimes with a cleft or notch becoming fan-shaped to kidney-shaped. The edges are paler and may be slightly ruffled. Colours brown or yellowish-brown often with fine yellow lines radiating from the centre to the edges. According to Huisman, those growing in deeper may be entirely upright.
 
 **Sometimes confused with**

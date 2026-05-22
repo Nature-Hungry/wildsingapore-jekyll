@@ -144,10 +144,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This striking leathery coral is commonly seen on our Southern shores. On coral rubble.
 
-**Features:**
+## Features
+
 Colony usually 10-20cm, sometimes much larger. Sometimes several are near one another, these are probably clones. The colony may be encrusting or attached to hard surface by a broad short column. Colony has bumps, blobs or 'fingers' which are generally short and closely packed. The leathery common tissue is smooth to the touch and pale or white, although the central column many be orangey-pink. The common tissue can also contract, for example, finger-like structures can contract into rounded blobs.
 
 Only one kind of polyp (autozooids). It has no siphonozooids. It thus has a smooth surface between the feathery autozooid polyps. The autozooid polyps are tiny (0.5cm or smaller) with a short body column and 8 short branched tentacles. The polyps are brown or greenish due to dense concentrations of zooxanthellae (symbiotic algae), particularly in the branches on the tentacles. When disturbed, the polyps retract rapidly into and reveal the white common tissue. This characteristic instantaneous colour change from brown to white is typical of this species.

@@ -97,10 +97,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This large colourful fast moving sea star is sometimes encountered on our Northern shores. In sandy or silty shores, near seagrasses. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.
 
-**Features:**
+## Features
+
 Diameter with arms 6-8cm. Body rather flat. Usually 5 arms long, tapered to a sharp tip. Along the sides of the arms are large marginal plates and stout flat long spines. These spines resemble the teeth of a comb and members of this family are sometimes called Comb sea stars. The spines are white, usually tinged a pale orange at the base. Upperside a light blue background with orange or darker blue stripes shading to orange near the tips. The arm tips are black. Sometimes with darker blue bands near the arm tips. Underside pale without markings. Tubefeet translucent with pointed tips.
 
 **What does it eat?**

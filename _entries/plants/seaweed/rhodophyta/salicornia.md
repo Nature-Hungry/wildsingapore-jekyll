@@ -106,10 +106,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Small clumps of this distinctive knobbly seaweed is sometimes seen on many of our shores, on bare sand or attached to rocks and coral rubble.
 
-**Features:**
+## Features
+
 'Stem' made up of succulent club-shaped structures (each about 1-3cm long) joined together. May form loose clusters of long 'stems' (10-15cm)'. Or dense clumps of short 'stems' (1-3cm) growing low against rock or coral rubble. Black or brownish with only the slightest tinge of red, sometimes yellowish brown.
 
 **Human uses:**

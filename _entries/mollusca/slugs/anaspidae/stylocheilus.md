@@ -111,10 +111,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This is another 'hairy' sea hare sometimes seen on some Southern shores. Usually large numbers are seen during a visit and then none for a very long time.
 
-**Features:**
+## Features
+
 5-8cm, sometimes much smaller.
 Body long with a long 'tail'. It is covered in tiny spiky projections that give it a furry look. The oral tentacles and rhinophores are about the same size. The oral tentacles usually lack large 'hairy' projections and has no flaps. The parapodia appears to be a hole in the centre of the body, rather than 'wings' or flaps as in other large sea hares. It comes in various shades of brow, usually with bright blue or purple spots which are ringed in black or brown. With many fine lines in parallel stripes. Usually well camouflaged and blends in perfectly with among seaweeds and seagrasses.
 

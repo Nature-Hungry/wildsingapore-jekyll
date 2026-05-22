@@ -77,10 +77,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These bright orange blobs are sometimes seen on coral rubble and other hard surfaces on our Northern shores. Usually near the mid-water mark.
 
-**Features:**
+## Features
+
 5-10cm. Irregular blobs forming on coral rubble and big boulders. Usually bright orange. Out of water, this colonial ascidian appear as slimy layers. When submerged in water, it may expand into lobes or 'fingers' or mounds. Individual little zooids can be seen, each with a tiny hole, with a few, much larger holes among them.
 
 On the Biodiversity of Singapore website, photos of similar looking animals include

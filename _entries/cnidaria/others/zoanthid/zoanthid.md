@@ -72,7 +72,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These tiny but tough flower-like animals often carpet rocky and rubbly areas. Some are adapted be regularly exposed to the air at low tide. These animals are often the first to settle on any vacated space in a reef.
 
 **What are zoanthids?**
@@ -82,7 +82,8 @@ as sea anemones. But while true sea anemones belong to
 [Order Actiniaria](../../actiniaria/actiniaria.md)
 , zoanthids belong to a different Order Zoanthidea. Zoanthid taxonomy is undergoing some review so the number of known zoanthids species range from 200 to 60 depending on how the species are defined.
 
-**Features:**
+## Features
+
 Zoanthids look like tiny sea anemones. But while true sea anemones are solitary polyps, most zoanthids live in colonies like corals do. But zoanthids don't produce a hard skeleton like the hard coral colonies. Instead, their tissues are leathery and composed partly of chitin (the same substance that insect exoskeletons are made of).
 
 The typical polyp has a cylindrical body column, topped by a smooth, flat oral disk that is edged by short tentacles, usually in two rows close to one another. The oral disk is often in a contrasting, bright colour from the usually brown or drab tentacles. When exposed at low tide, however, the animal retracts its tentacles into its body column and then looks like a strange blob of jelly.

@@ -66,10 +66,11 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This stick-like fish with a luminous tip at the end of the long pointed lower jaw is almost always seen under the main bridge at Sungei Buloh Wetland Reserve, floating at the water surface. Usually in groups of many individuals.
 
-**Features:**
+## Features
+
 To about 23cm long. Body long, cylindrica silvery. Lower jaw elongated with a narrow sharp point. The tip is bright white that seems to glow in the water. It has a prominent dark line along the centre of the lower jaw so it does appear to have a stripe on its 'nose'. Upper jaw very short. Tail fin is not forked.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

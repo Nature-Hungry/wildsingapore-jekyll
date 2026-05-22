@@ -75,7 +75,7 @@ links_references: |
   . Tynron Press, Scotland. 247 pp.
 ---
 
-**Where seen?**
+## Where seen?
 Oriental pied-hornbills are commonly seen on Pulau Ubin and sometimes also at Changi. They are the only truly wild hornbills found on Singapore. Unlike most other hornbills, Oriental pied-hornbills can be found outside primary rainforests and may visit inhabited areas to feed on fruit. But they still depend on large living trees for nesting sites.
 
 *![](http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg)

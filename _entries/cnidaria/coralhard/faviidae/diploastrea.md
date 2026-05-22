@@ -126,14 +126,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This beautiful neat coral is sometimes seen, usually on our undisturbed Southern shores.
 *Diploastrea heliopora*
 is the only member of this genus and the only genus in the Family Diploastreidae.
 *Favia laxa*
 may appear similar.
 
-**Features:**
+## Features
+
 Colonies 15-30cm, elsewhere recorded to grow up to 5m wide and 2m tall. The colonies are said to be usually dome-shaped but may become almost spherical boulders. Some seen were encrusting. The corallites (1cm) are similarly-sized neat domes with a small central opening. Neat narrow ridges on the corallite radiate out in regular rays. The corallites are regularly spaced out for an overall pattern that is neat and tidy. The large polyp tentacles are said to emerge at night. Colours seen include brown, purplish, pinkish-brown sometimes with a bluish tinge.
 
 **Status and threats:**

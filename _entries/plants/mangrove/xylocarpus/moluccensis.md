@@ -76,14 +76,15 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This handsome tree is sometimes seen in our larger mangroves, usually alone or a few trees, often on sandy areas. It is commonly seen at Pulau Ubin and at Pasir Ris mangroves.
 *Xylocarpus mekongensis*
 is a synonym of
 *X. moluccensis*
 .
 
-**Features:**
+## Features
+
 Tree 5-20m tall. Bark with longitudinal fissures. Small buttress roots or no buttress roots, many peg-shaped (blunt-tipped, nearly cylindrical) pneumatophores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that are oblong with more pointed tips, thin and leathery. The compound leaves are arranged in a spiral and wither to a vivid yellow. Seasonally, all the leaves on a tree may turn yellow, giving an autumn feel to the mangrove forest.

@@ -67,12 +67,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This is probably the most commonly seen tree in our mangroves. It is particularly common in the back mangroves. It has been described as characteristic of newly established substrates and able to withdstand prolonged submersion. It may form pure stands. It was formerly called
 *B. caryophylloides*
 .
 
-**Features:**
+## Features
+
 Tree to about 20m, but those seen along our nature trails often almost short shrubs about 1m, to short trees to 2-3m. Bark greyish with small corky bumps (lenticels). Short buttresses and also knee roots.
 
 Leaves eye-shaped (6-17cm long) stiff leathery glossy, arranged opposite one another. Stipules pale yellow or greenish.

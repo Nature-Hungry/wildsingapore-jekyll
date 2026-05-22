@@ -102,10 +102,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This leathery soft coral with polyps like little stars is sometimes seen on some of our shores. Among coral rubble and sandy areas near reefs.
 
-**Features:**
+## Features
+
 The colony about 10-15cm in diameter. Sometimes covering large areas of 50cm or more.
 The colony may be thick, disk-like with a highly ruffled edge, or encrusting with knobs, lobes and fingers. The surface of the leathery common tissue usually has many large spindle-shaped structures usually paler than the common tissue. This is more obvious when the colony is out of water and the autozooid polyps are retracted. Common tissue may be beige, pinkish to yellowish, or dark brown to purplish.
 

@@ -83,10 +83,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These squids are sometimes seen in numbers on our Southern shores. Among seagrasses, also near coral rubble and reefs. They are often seen with their arms held splayed out when alarmed. They typically gather near the bottom during the day, dispersing in the water at night to hunt. Many are attracted to light and they are often fished at night using a light.
 
-**Features:**
+## Features
+
 Those seen 8-12cm long, but other species of this family that live in deeper waters can grow to 40cm. Those we have seen in the intertidal zone are rather short and squat. Some are long and slender with triangular fins at the rear end. Others are more squat with wide fins that extend along the entire body length. Arms about half the length of the body, rather broad. Sometimes, enormous ones 30cm or larger are seen. Studies suggest some species only live for a few months.
 
 The family has 5 genera and more than 40 species that can only be identified by examining fin size and shape, sucker ring shapes and modifications on the lower left arm of mature males.

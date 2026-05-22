@@ -35,11 +35,12 @@ links_references: |
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
 ---
 
-**Where seen?**
+## Where seen?
 This clam is sometimes seen on sandy shores.
 Elsewhere, they are found on intertidal shores with sand.
 
-**Features:**
+## Features
+
 About 4-6cm. Shell thick with fine ribs and usually a pattern of fine broken lines.
 
 *![](http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg)

@@ -81,10 +81,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This chubby snail is sometimes seen in our mangroves, attached to trees and hard surfaces, or littering the ground near the high water mark. Sometimes found in groups of several individuals.
 
-**Features:**
+## Features
+
 3.5- 4cm long. Shell thick with prominent ribs. Shell opening wide often with a thick, flared lip. It has a distinctive shell opening at the tip, the inhalant siphonal canal called the peristome.
 
 **Sometimes confused with**

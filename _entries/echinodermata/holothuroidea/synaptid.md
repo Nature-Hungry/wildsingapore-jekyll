@@ -108,10 +108,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These sea cucumbers appear to be seasonally abundant and are found on many of our shores. When in 'season', large numbers of small skinny ones (5-10cm long) may be seen draped around sponges and other encrusting animals. In the seagrass meadows, thicker very long ones (10-12cm, to 30cm long) are entwined among the seagrasses. They might even be seen crawling (slowly) on the sand.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 Synaptids have a thin body wall and are more delicate than other sea cucumbers. Synaptid sea cucumbers don't have tube feet. Instead, they may stick to things with tiny hooked sclerites that poke out of their soft bodies. This is why they stick to our hands if we touch them. They have thin body walls and are fragile, so we should not handle them.
 
 Among the longest sea cucumbers is a synaptid,

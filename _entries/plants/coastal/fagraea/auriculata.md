@@ -61,10 +61,11 @@ galleries:
       caption: "Acknowledgements With grateful thanks to Andrew Tay for identifying this plant. Links Fagraea auriculata on the Total Vascular Plants of Singapore blog: photos and fact sheet. References Tan, Hugh T.W. and T. Morgany. 2001. A Guide to Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
 ---
 
-**Where seen?**
+## Where seen?
 This rare scrambling shrub is found on natural cliffs of our offshore islands. According to The Total Vascular Plants of Singapore blog, it is found at Lazarus Island, Pulau Tekukor and Pulau Biola. According to Hsuan Keng, it was found at Pulau Pawai. It is also widely cultivated as an ornamental because of its large pretty flowers.
 
-**Features:**
+## Features
+
 A climbing shrub or epiphyte (growing on other trees). According to Burkill, it starts life as an epiphyte, extending its roots to the ground in the process killing the host tree. Leaves leathery and large (25-35cm) with a pair of 'ears' (auricles) at the base of the leaf stalk. Leaves are arranged opposite to one another and appear at the tips of thick twigs. Flowers creamy yellow and fleshy, tubular with a long corolla (30cm) and large petals (to 30cm across). 'Pelir musang' means 'civet cat's testicles' in Malay, referring to the fruits. The fruits have a thin skin.
 
 **Human uses:**

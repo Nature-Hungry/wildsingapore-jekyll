@@ -81,10 +81,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This colony with large pinkish polyps is seen in coral rubble on some of our Southern shores.
 
-**Features:**
+## Features
+
 Colony about 4-8cm, usually a thick common tissue that is club-shaped; with a short columnar base and a dome-shaped top. Two kinds of polyps. Tall fleshy polyps (autozooids) 2cm in diameter, on stalks about 3-5cm long. The eight tentacles are broad, long with many short thin side branches (pinnules) arranged in 1 to 5 rows along both edges of each tentacle. Side branches brownish, oral disk and main tentacles pinkish. The polyps emerge from a pinkish common membrane which is densely dotted with smaller star-shaped polyps (siphonozooids). The polyps may contract into tiny lumps on the common tissue but does not contract completely like those of the
 [Leathery soft corals](alcyoniidae.md)
 (Family Alcyoniidae).

@@ -72,10 +72,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This mantis shrimp is rarely seen. A pair was seen dead on Tanah Merah a day after the oil spill. One was seen in Changi.
 
-**Features:**
+## Features
+
 6-10cm long. Body broad and long, colour plain grey or beige with wide dark bars.
 
 The huge front pincers resemble those of the Praying mantis insect or the blade of a pocket knife that folds into the handle. A

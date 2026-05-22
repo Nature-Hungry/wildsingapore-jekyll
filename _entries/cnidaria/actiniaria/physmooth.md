@@ -107,10 +107,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This anemone is seen on our Southern shores. Usually among coral rubble.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 8-12cm. Tentacles generally smooth with only a few tentacles showing slight bumps where 'branches' might be in other frilly anemones. All tentacles generally white or a pale colour with patches of brown or other darker colours, often with pink tips. Sometimes
 six tentacles are more
 brightly coloured.

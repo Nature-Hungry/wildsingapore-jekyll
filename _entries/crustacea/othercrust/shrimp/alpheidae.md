@@ -130,7 +130,7 @@ location: []
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 You will most likely hear a snapping shrimp before you see one. These little creatures make the incessant pops that you hear at low tide. They range from tiny ones to rather large ones that can pack a really loud pop. They are common on many of our shores, on mudflats, sandy shores, in seagrass meadows, rocky areas and reefs. But they are often tucked away in their burrows or other hiding places such as under rocks, even under carpet anemones and within sponges. Snapping shrimps forage outside their burrows more actively at night.
 
 **What are snapping shrimps?**
@@ -139,7 +139,8 @@ Snapping shrimps are
 that belong to Family Alpheidae.
 ****
 
-**Features:**
+## Features
+
 2-7cm long. A snapping shrimp has one of its pincers greatly enlarged. This pincer may even be as long as its entire body!
 The enlarged pincer can produce a very loud sound. The blast stuns prey like tiny fish and cracks the shells of small clams. It is also used to warn off predators and intimidate rival snapping shrimps. It crawls slowly on the sea bottom with long walking legs. It can make a quick getaway by contracting its muscular flexible abdomen and broad fan-shaped tail. The shrimp has small eyes, which is probably why some live together with gobies that have much better eyesight (see below).
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

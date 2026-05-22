@@ -108,10 +108,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This strange anemone is sometimes seen on some of our shores, among seagrasses, rubble and reefs. Usually only one is seen.
 
-**Features:**
+## Features
+
 Those seen were 2-10cm. Out of water, it is just a blob. But when submerged, it expands into a beautiful animal. It has long elegant translucent tentacles emerging from a long translucent body column. The tentacles are dotted with small bumps which are probably batteries of stingers. The body column is studded with clusters of large colourful bumps that look like cauliflowers. These are probably also batteries of stingers.
 
 **Powerful Stinger:**

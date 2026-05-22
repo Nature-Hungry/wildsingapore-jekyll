@@ -166,13 +166,14 @@ location:
 - lfa
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This little cowrie is commonly seen on our Northern shores usually under stones, but sometimes crawling about in the open. Sometimes also seen on our Southern shores among coral rubble.
 It was previously known as
 *Cypraea ovum*
 .
 
-**Features:**
+## Features
+
 2-3cm.
 Shell
 pear-shaped

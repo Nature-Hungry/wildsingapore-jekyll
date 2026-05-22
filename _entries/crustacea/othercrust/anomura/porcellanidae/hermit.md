@@ -45,12 +45,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This tiny porcelain crab is sometimes seen inside large shells occupied by
 [hermit crabs](../hermit/hermit.md)
 on our Northern shores.
 
-**Features:**
+## Features
+
 Body width usually less than 1cm. Drab brown or grey. Usually seen in pairs in large shells occupied by a hermit crab.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

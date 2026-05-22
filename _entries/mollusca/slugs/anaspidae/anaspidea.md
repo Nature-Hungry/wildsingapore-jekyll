@@ -125,7 +125,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Among the largest
 [sea slugs](../../slug.md)
 to be seen, sea hares may be commonly seen on our Northern and Southern shores in silty and sandy areas near seagrasses and with seaweeds. However, they appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen.
@@ -141,7 +141,8 @@ like snails. Like many other sea slugs (
 [nudibranchs](../../nudibranchia.md)
 , which belong to a different Order Nudibranchia.
 
-**Features:**
+## Features
+
 Sea hares can be quite large with reports of animals elsewhere reaching 60cm long and weighing 5kgs! Others can be super tiny.
 
 Sea hares have two pairs of tentacles. The front pair (called oral tentacles) are next to the mouth and usually large and fleshy, sometimes with flaps. The second pair (called rhinophores) is further behind on top of the 'head' and usually smaller. The tentacles are made up of rolled tubes containing chemical sensors. Some have tiny simple eyes at the base of the rhinophores. Sea hares have a pair of 'wings' or flaps (called parapodia) that cover the centre part of the body. Some sea hares can swim by flapping their parapodia.

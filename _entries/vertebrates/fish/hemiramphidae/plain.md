@@ -66,10 +66,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This stick-like fish with a narrow pointed lower jaw is sometimes encountered on many of our shores among seaweeds and seagrasses. Usually seen alone, but sometimes in a small group.
 
-**Features:**
+## Features
+
 About 6-10cm long. Body long, cylindrical and silvery. Lower jaw is long and tapers to a sharp point, the tip paler. Grouped here are those with unmarked bodies, and those with two paler patches, one near the head the other near the tail. Grouped here are those with a dorsal that is black, or reddish, or unmarked. Tail fin is not forked.
 
 The fishes grouped here may be different species.

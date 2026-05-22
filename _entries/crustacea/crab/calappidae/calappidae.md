@@ -54,10 +54,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 Box crabs are sometimes seen on some of our shores.
 
-**Features:**
+## Features
+
 Body width 8-10cm. The crab does look rather box-like with a semi-circular body and wing-like extensions on the sides and back that cover part of the walking legs. It holds its pincers in front of its body to form a boxy shape. So it is sometimes also called the Shame-face crab as it appears to be covering its face in shame.
 
 **What does it eat?**

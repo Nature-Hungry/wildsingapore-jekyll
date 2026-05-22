@@ -51,10 +51,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This little snail with an almost spherical shell is seen on some of our rocky shores. Usually near the high water mark on large boulders. Usually in small numbers, and often among other kinds of Periwinkles.
 ****
-**Features:**
+## Features
+
 0.8-1cm. Shell is more rounded than other periwinkles commonly found in the same zone. Shell thin with fine grooves. Colour and pattern variable.
 Operculum thin, circular, made of a horn-like material.
 

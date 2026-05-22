@@ -92,14 +92,15 @@ location:
 - jng
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen on our reefy Southern shores, including partially enclosed lagoons at Tanah Merah and Sentosa. Elsewhere, the Eagle ray is associated with reefs, sometimes entering estuaries. It may swim close to the surface, occasionally leaping out of the water. It may also swim close to the bottom. It sometimes form large schools during non-breeding season. It is found almost worldwide in tropical waters, and some believe there may be as many as four species of spotted eagle ray.
 
 **What are eagle rays?**
 Eagle rays belong to Family Myliobatidae which include the Manta rays! According to
 [FishBase](http://www.fishbase.org/summary/FamilySummary.php?ID=22)
 : the family has 7 genera and 42 species. These fishes have the head above the disc-shaped body. In eagle rays, the jaws are powerful with large platelike crushing teeth in several rows. The tail is much longer than disc; venomous spine(s) are found in some species. They have a small dorsal fin. Some are known for their leaping ability high into the air. These fishes bear live young (viviparous) giving birth to 2-6 fully developed young.
-**Features:**
+## Features
+
 Grows to about 3m wide, 8m long with the tail, weighing up to 230kgs. But more commonly about half that. One White-spotted eagle ray seen at Tanah Merah was about 60cm wide with a tail about three times longer. Triangular 'wings', upper body dark with spots evenly distributed over the body (no pattern of bands). In some, the spots are eye-shaped. The underside is white. A long thin whip-like tail with 2-6 venomous spines at the base. It has a bulging head with a triangular snout.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Eagle babies:**

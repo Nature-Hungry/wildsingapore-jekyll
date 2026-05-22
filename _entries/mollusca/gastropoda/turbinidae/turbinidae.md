@@ -134,14 +134,15 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These tough snails are commonly seen on many of our rocky shores including on man-made sea walls. Smaller ones are also found under stones. Turban shells are not as well adapted to dry condictions as the
 [Nerites](../neritidae/neritidae.md)
 and
 [Periwinkles](../littorinidae/littorinidae.md)
 , and are thus generally found closer to the low water mark.
 
-**Features:**
+## Features
+
 3-5cm. In some species, the shell does resemble an elegant turban! Although the Latin 'turbo' actually refers to a top, the spinning toy. The shells of are sometimes covered in encrusting lifeforms so that the texture and colours are hidden.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Cat's eye:**

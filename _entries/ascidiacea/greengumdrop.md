@@ -101,10 +101,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These little ascidians that resemble green sweets are commonly seen, especially on our Southern shores.
 
-**Features:**
+## Features
+
 Each blob about 1cm long. Flat, irregular shapes with rounded margins so that each shape resembles a gum drop. Each shape appears to be made up of many individual zooids embedded in a common tissue. The shapes are arranged higgledy-piggledy in crowded clusters on seagrasses such as
 [Tape seagrass](../plants/seagrass/enhalus.md)
 (

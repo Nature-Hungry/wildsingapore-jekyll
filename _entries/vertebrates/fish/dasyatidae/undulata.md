@@ -50,10 +50,11 @@ links_references: |
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 ---
 
-**Where seen?**
+## Where seen?
 This spotted stingray is sometimes seen at Chek Jawa.
 
-**Features:**
+## Features
+
 A large ray that can grow to about 1.4m in diameter and 4m in total length. Body generally quadrangular with a broadly triangular snout in adults, more pointed in juveniles. Body colour of adults yellowish or brownish with dense pattern of dark rings (resembling a leopard's spots) on the body and tail. Juveniles are grey-brown with large black spots. In adults, the upper body is granular. Tail very long and slender, with alternative black and white bands after the sting. It does not have a skin fold on the tail. The female has a shorter tail with a bulbous end. It has 4-6 enlarged spear-like spines on the tail which can cause a painful wound by injecting a venom.
 
 **Human uses:**

@@ -110,10 +110,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This hard coral with conical bumps and forming branching colonies is sometimes seen on some of our undisturbed Southern islands.
 
-**Features:**
+## Features
+
 Colonies (15-20cm) bushy. An open tangle of thick, short cylindrical branches, often arising from an encrusting base. The unique feature of these
 *Hydnophora*
 corals are the small conical mounds (0.5cm or smaller), called monticules (also hydnae or hydnophores), that form where the corallite walls of adjacent polyps fuse together. Polyps have short blunt tentacles that surround the base of each monticule. The tentacles that are usually extended only at night. Colours seen include blue and brown.

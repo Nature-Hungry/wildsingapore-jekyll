@@ -74,10 +74,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This small pretty fish is sometimes seen on our Southern shores, near living reefs. It's fast-moving so it's sometimes difficult to spot. Elsewhere, they are found in shallow sheltered waters in mangroves, reefs as well as near man-made structures.
 
-**Features:**
+## Features
+
 To over 11cm, those seen usually about 6cm. Body rounded with fins that are all rounded, including the tail fins. Dark brown bar across the middle from the start of the spiny dorsal fin to just in front of the anus. Dark round spots on the back half of the body. Pectoral fins colourfully marked in a yellow-brown pattern. Seen alone or in small groups.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Cardinal babies:**

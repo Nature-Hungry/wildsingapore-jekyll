@@ -104,7 +104,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Evidence of this curious animal is commonly seen on many of our shores. On sand bars, in sandy areas especially near seagrasses. The animal itself is almost never seen above ground. All that most people see is its coiled, grey cast (although many may use a less polite word). Sometimes if you are lucky, you might spot a bit of its backside poking out of the ground as it creates its cast. Acorn worms are delicate and almost certain to disintegrate if they are dug up. So please don't try to dig them up.
 
 **What are acorn worms?**
@@ -114,7 +114,8 @@ belonging to Phylum Hemichordata. There are about 70 species of acorn worms. The
 [bristleworms](../polychaeta/polychaeta.md)
 . These belong to Phylum Annelida.
 
-**Features:**
+## Features
+
 9-45cm long, some reaching over 2m long! They are usually slimy brown or pink worms. Acorn worms are burrowing animals. They live in shallow waters, in mucus-lined burrows in sandy or muddy bottoms. Some just hide under stones and shells.
 
 An acorn worm's body is made up of three sections: the proboscis, collar and trunk. The proboscis is the front end of the animal. It is short and conical (looking much like an acorn) and is used to collect food and to burrow. The proboscis is connected by a short stalk to the collar. The collar is narrow and contains the mouth.

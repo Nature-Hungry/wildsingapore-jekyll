@@ -157,10 +157,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This little flatworm with blue dots on its body margin is often seen on many of our shores. On rocky shores, on boulders and under stones, also near reefs.
 
-**Features:**
+## Features
+
 2-3cm long. Body uniformly white or cream with closely-set dark blue dots along the body margin. When the worm is contracted, the dots merge so the worm appears to have a solid blue margin. The body margins are only slightly ruffled when the worm is in water. It has a pair of pseudotentacles at the front made up of simple folded edges of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Sometimes a faint central stripe is seen. This is the intestine that shows through the body and is not an identifying mark for the worm species.

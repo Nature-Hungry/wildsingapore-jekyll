@@ -80,7 +80,7 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 Spoon worms are sometimes seen above ground on our Northern shores, near seagrass areas.
 
 **What are spoon worms?**
@@ -88,7 +88,8 @@ Spoon worms are
 [worms](../worm.md)
 belonging to Phylum Echiura. Some scientist place them in Phylum Annelidae like the more familiar earthworm. Spoon worms are not segmented like other annelids. There are only about 150 species of spoon worms, but they can be quite common in some marine ecosystems.
 
-**Features:**
+## Features
+
 Those seen on our shores about 10cm long. Body unsegmented and sausage-like. In front of its mouth, it has a spoon-shaped thing, called a prostomium. The prostomium can extend up to 10 times its retracted length, in some species, reaching 2m long! In most, the prostomium is used to gather edible bits from the surface. Many live in U-shaped burrows in shallow water, others in rock or coral crevices.
 
 **Sometimes mistaken for**

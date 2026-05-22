@@ -114,10 +114,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This juicy looking seaweed is made up of little balls and is commonly seen on our Southern shores on rocks and coral rubble in small clumps. In Singapore, it does not form extensive blooms. Elsewhere, it is said to form meadows in front of mangroves.
 
-**Features:**
+## Features
+
 The seaweed resembles bunches of little grapes. Each bunch about 2-8cm long, with bead-like shapes (the 'grapes') arranged on a vertical 'stem'. The 'grape' (about 0.5cm diameter) spherical or club shaped with rounded tips. The shapes may be densely or sparsely packed. These bunches of 'grapes' emerge from a long horizontal 'stem' that creeps over hard surfaces or just under the sand. It grows on coral rubble or on rocks, sometimes extending onto the sand. Colours range from green to yellowish-green and bluish-green.
 
 Some other Caulerpa species may take forms that resemble Oval sea grapes. These include

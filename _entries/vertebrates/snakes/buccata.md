@@ -59,12 +59,13 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 In a suitable freshwater habitat, they can be quite common.
 According to Baker, in Singapore, they are common in inland water bodies in rural areas and forests. However, they are only active at night.
 Elsewhere, they are found in rivers, swamps, canals and ponds. They are considered a pest on freshwater fish farms.
 
-**Features:**
+## Features
+
 ****
 To about 1.2m long. It has a brown stripe through the eye that forms a kind of W-shaped dark mask around the head, and dark-edged brown bands on a paler brown body. The bands tend to be faded in adults which may be a uniform grey-brown, while juveniles have black bands on red, orange or white. Mildly venomous, it is a gentle snake and will not bite if it is left alone.
 

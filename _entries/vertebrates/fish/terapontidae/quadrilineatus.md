@@ -91,9 +91,10 @@ location:
 - kus
 ---
 
-**Where seen?**
+## Where seen?
 This silvery fish with a dot-dash pattern is sometimes seen on our Northern shores among seagrasses.
-**Features:**
+## Features
+
 About 8cm, up to 30cm. Adults have a silvery body with 4-6 dark horizontal lines, a black blotch behind the head and below the start of the dorsal fin and another in front of the dorsal fin. Tail fin pale or dusky without lines. Often seen in schools in brackish waters and estuaries. It croaks when taken out of water, thus its common name. Juveniles have 6-7 greyish vertical bars across the horizontal lines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

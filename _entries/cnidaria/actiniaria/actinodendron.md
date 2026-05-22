@@ -180,10 +180,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This large anemone is often seen among seagrasses and in sandy areas near reefs on our Southern shores. They are not as abudant as other large anemones in similar areas. Usually only one or a handful, spread widely apart from one another, are seen in a large area.
 
-**Features:**
+## Features
+
 Diameter with tentacles expanded 15-20cm. About 40 fat, fleshy cylindrical tentacles with a thick base. Tentacles studded with clusters of 'branches' with oval tips. The oral disk has white stripes with small dark spots, radiating from the mouth. Body column plain, smooth with regular ridges along the length. Colours range from brown, purple, blue, yellow, green. The animal can retract rapidly and completely into the ground when disturbed.
 
 **Sometimes mistaken for**

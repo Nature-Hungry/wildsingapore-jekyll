@@ -61,10 +61,11 @@ location:
 - tm
 ---
 
-**Where seen?**
+## Where seen?
 A juvenile was seen once at Tanah Merah. Adults sometimes seen dead in mass fish death events or trapped in abandoned fish nets.
 
-**Features:**
+## Features
+
 Adults usually 25cm, to 45cm long. Flat rhomboid body silvery. Juvenile brown with a 'beard' under the chin.
 
 **Sometimes confused:**

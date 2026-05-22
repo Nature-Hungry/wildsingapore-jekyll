@@ -83,13 +83,14 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 These large-scaled fishes are sometimes seen on some of our shores, among seagrasses.
 
 **What are emperors?**
 Emperors belong to Family Lethrinidae. According to FishBase: the family has 5 genera and 39 species in the tropical Indo-Pacific. Some can reach 1m long. They are sometimes also called emperor-snappers.
 
-**Features:**
+## Features
+
 Body typically fish-shaped with large scales in a 'distinctive pattern' -- a kind of diamond pattern. They have large eyes, thick lips and canine teeth. Young fishes tend to be found nearer the shore while adults are found offshore.
 
 **What do they eat?**

@@ -66,10 +66,11 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 Sometimes seen on some of our reefy shores.
 
-**Features:**
+## Features
+
 About 3cm long. It has a pair of 'flaps' (mantle lobes) in the middle of the body which it can use to swim with. There are fluffy structures (dendritic gill-like structures) inside the mantle lobes. The brush-like rhinophores are tiny and are at the tip of a huge rhinophore stalk.
 
 **What does it eat?**

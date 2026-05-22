@@ -61,10 +61,11 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This large leaf-like slug is sometimes seen in large numbers in our mangroves. They are named after Bangtawa in Thailand.
 
-**Features:**
+## Features
+
 4-5cm. Body long with a pair of very large 'wings' (called parapodia). Body green with tiny white spots all over. Yellow or orange spots along the edge of the body. Tips of rhinophores pale or white. The parapodia are often held in ruffles so that the animal resembles seaweed.
 
 **What does it eat?**

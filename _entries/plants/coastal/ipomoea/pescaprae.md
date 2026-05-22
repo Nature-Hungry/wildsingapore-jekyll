@@ -60,14 +60,15 @@ galleries:
       caption: "Links Ipomoea pescaprae on Total Vascular Flora of Singapore Online: photos and fact sheet. Ipomoea pes-caprae on the NParks Flora and Fauna website: photos and fact sheet. Tapak Kuda ( Ipomoea pescaprae ) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Polunin, Ivan. 1987. Plants and Flowers of Singapore . Times Editions. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 With fresh green leaves and bright purple flowers, this creeper is sometimes seen growing wild on our sandy beaches, at the highest water mark. This plant is found on tropical shores everywhere including throughout Southeast Asia. It belongs to the Family Convolvulaceae which includes the more commonly seen terrestrial morning glory, as well as our favourite vegetable Kang kong (
 *Ipomoea reptans*
 ) and sweet potato or Keladi (
 *Ipomoea batatas*
 ).
 
-**Features:**
+## Features
+
 A creeper that grows on the sand, taking root at the nodes and having thick, deep tap roots. The leaves rather thick and fleshy, in varying shapes and sizes (3-10cm), according to Hsuang Keng from oval to quadrangular to rounded. They may be deeply lobed or only notched at the end. Sometimes they form two lobes that resembles a goat's or horse's hoof. The Malay name of the plant '
 *Tapak Kuda*
 ' means 'horse's footprint', while the scientific name '

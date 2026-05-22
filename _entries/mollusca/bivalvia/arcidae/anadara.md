@@ -86,11 +86,12 @@ location:
 - tm
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This robust little clam is still commonly seen on some parts of our Northern shores, particularly on silty sand.
 'See-hum' is what locals call it. They are now no longer as common as they used to be in the past. Those sold in our markets and restaurants come mostly from Malaysia.
 
-**Features:**
+## Features
+
 3-4cm. The two-part shell is heavy, and may be quite spherical. The surface is ribbed with small, rounded beads on the ribs.
 The animal's body is usually orange or reddish. So it is sometimes also called the Blood cockle. This is due to the presence of haemoglobin, the same substance that colours our own blood red too. Haemoglobin assists in transporting oxygen within the body and may help the clams live in the oxygen-poor habitats.
 

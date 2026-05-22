@@ -127,12 +127,13 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 Found only in
 [Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
 , it is often seen on many of our Southern islands.
 
-**Features:**
+## Features
+
 3-4cm. It has a large rounded head, yellowish-green to blue-green body with orange broken stripes and bars and spots. Well hidden among the coral branches, it is hard to see the whole fish. Usually found at the base of the coral branches, so it is hard to spot and photograph. Members of the genus
 *Gobiodon*
 produce a bitter mucus.

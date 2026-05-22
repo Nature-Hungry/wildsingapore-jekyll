@@ -82,12 +82,13 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This strange boxy fish is sometimes seen on some of our shores. It is also called the Small nosed boxfish. It was previously called
 *Ostracion nasus*
 .
 
-**Features:**
+## Features
+
 To 30cm, those seen about 10cm long. Body cubical boxy, which is enclosed in a protective hard shell (carapace) made up of bony plates with gaps for the various tiny fins, the tail and the mouth. No horns. A small bump on the 'nose' above the upper lip and a ridge along the middle of the back. Body pattern of hexagons with brown spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Toxic box:**

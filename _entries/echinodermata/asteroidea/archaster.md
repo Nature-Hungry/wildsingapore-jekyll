@@ -253,12 +253,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Despite its name, this elegant sea star is no longer common on all our shores. In the North, Chek Jawa used to be the only place where it was seen in large numbers. But following massive flooding in Johor in early 2007, there were mass deaths among these animals (more about the mass deaths on the
 [Chek Jawa project blog](http://cjproject.blogspot.com/)
 ). It is not no longer found on Changi or the East Coast. But it remains the most commonly encountered sea star on Southern shores. Generally in shallow sandy or silty areas near seagrasses and mangroves.
 
-**Features:**
+## Features
+
 Adults diameter with arms to about 12-15cm. Smaller juveniles are rarely seen. Body somewhat rounded (not flat). Arms long and tapered to a sharp tip, and edged with short flat, blunt spines. Most have five arms, but those with three, four and six arms are sometimes also seen.The underside is pale, with large tube feet tipped with suckers. Colours and patterns on the upperside are highly variable in shades of greyish blue, to brown and beige.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

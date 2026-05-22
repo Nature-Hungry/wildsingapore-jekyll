@@ -102,10 +102,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This boulder-shaped hard coral with large circular corallites are sometimes seen on our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-15cm. The colony is generally a smooth boulder shape. The corallites have separate walls. In some, the corallites are squashed next to one another, resulting in an irregular pattern of circles and ovals. The walls are thick with regular ridges and no big 'teeth' sticking out. The polyps are fleshy with many short tentacles.
 
 Colours seen include shades of blue, purple and green.

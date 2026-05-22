@@ -123,7 +123,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These disk-shaped hard corals are among the most commonly seen on many of our shores.
 
 **Features**

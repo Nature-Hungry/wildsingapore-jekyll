@@ -68,10 +68,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This furry white spider is sometimes seen among mangrove vegetation. It is rather large for jumping spider and is quite active during daylight.
 
-**Features:**
+## Features
+
 Body to about 1cm long. Body furry white with dark markings. Like other jumping spiders (Family Salticidae) it has huge eyes. On the 'face' is a pair of enormous eyes with smaller eyes around the head. These are not compound eyes like that of insects. Nevertheless, these eyes allow the spider to judge distance accurately.
 
 **What does it eat?**

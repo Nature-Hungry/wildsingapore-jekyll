@@ -63,10 +63,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 Only the empty shells have been seen on our shores so far. The living animal has yet to be encountered on the intertidal. The empty shells seen are usually occupied by a hermit crab. Elsewhere, they are found on soft bottoms.
 
-**Features:**
+## Features
+
 Those seen 5-7cm, can grow to 15-17cm long. Elegant shell with regular spirals which are finely ridged. It is herbivorous and lives on sandy and muddy areas of the intertidal zone.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

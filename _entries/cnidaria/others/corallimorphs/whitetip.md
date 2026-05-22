@@ -86,10 +86,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small animal with white bulbous tips on its tentacles is often seen in clusters of several tucked among dead and living corals. Sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 2-4cm. Tentacles many, thick with bulbous tip, sometimes with a nipple; white or pale green. Body column short, with narrow ridges, pale. Oral disk usually maroon brown. Central mouth slightly protruding. It doesn't seem to be able to tuck its tentacles completely into the body column, although it can retract the tentacles.
 
 **Similar looking animals:**

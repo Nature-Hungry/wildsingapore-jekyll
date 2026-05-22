@@ -126,7 +126,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Mudskippers are commonly seen on some of our shores. They are particularly abundant in mangroves and muddy shores, but some like the
 [Gold-spotted mudskippers](chrysospilos.md)
 are also commonly seen on rocky shores and near reefs.
@@ -140,7 +140,8 @@ and
 *Scartelaos*
 .
 
-**Features:**
+## Features
+
 Those seen about 6-12cm, some species can be much larger or smaller. Mudskippers are well adapted to the intertidal area. Being able to stay of water for a while gives mudskippers an advantage over 'normal' fishes. During low tide, they are among the few marine creatures that can exploit the dry muddy or sandy flats.
 More about
 [how to tell apart small mudskippers](cfmudsmall.md)

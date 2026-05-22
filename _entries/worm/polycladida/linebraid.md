@@ -142,10 +142,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small flatworm is sometimes seen on our Southern shores, on coral rubble near living reefs.
 
-**Features:**
+## Features
+
 2-4cm long. Body bluish-white to bluish (not solid blue and not white). One central line that is golden-speckled yellow with intermittent dull orange, so it appears braided, with dark blue border. Has a pair of pseudotentacles made up of simple folded edges of the body.
 
 **What does it eat?**

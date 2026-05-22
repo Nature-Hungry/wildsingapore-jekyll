@@ -34,12 +34,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Seen once on a remote reef. Although it looks like
 *Pseudoceros felis*
 , its identity is still awaiting confirmation.
 
-**Features:**
+## Features
+
 8-10cm long. Body mottled cream or yellow with dark tiny blotches on a grey background. Edges with black irregular bars. Narrow orange with thin black margin. Underside uniformly grey with narrow orange and thin black margin. It has a pair of pseudotentacles at the front made up of folded edges of the body.
 
 ![](http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg)

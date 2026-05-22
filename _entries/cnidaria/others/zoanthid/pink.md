@@ -63,10 +63,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Forming cushions or carpets on coral rubble.
 
-**Features:**
+## Features
+
 Colonies 10-15cm, each polyp about 1cm in diameter. Body column greyish blue. Bright pink ring around the top of the body column, most obvious when the tentacles are tucked into the body.
 
 More about

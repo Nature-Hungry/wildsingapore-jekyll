@@ -46,10 +46,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This small hermit crab not often seen. So far near artificial seawalls as well as on natural rubble areas.
 
-**Features:**
+## Features
+
 Body 1-2cm long, mostly plain white. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Pincers sparsely hairy, no stripes, uniformly coloured a dark orange. Walking legs sparsely hairy, no stripes, uniformly coloured a dark orange. Eye stalks bright orange without any distinctive stripes. Short antennae and long antennae bright orange.
 
 Two species fit these photos but they are hard to tell apart in the field:

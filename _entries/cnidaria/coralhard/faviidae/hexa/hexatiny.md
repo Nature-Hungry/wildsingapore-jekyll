@@ -78,10 +78,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Hard corals with very tiny irregular hexagonal corallites are sometimes seen on our Southern shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-20cm, sometimes much larger (30-40cm). The colony is generally a smooth boulder shape, but somewhat irregular and not always perfectly spherical. The corallites tiny (less than 1cm) have shared walls and form tiny irregular cells of different shapes and sizes, but generally with about six sides. The result is a rather irregular pattern of hexagons. Colony colours seen include beige, brown and blue.
 
 Some species of corals recorded for Singapore that have these patterns include:

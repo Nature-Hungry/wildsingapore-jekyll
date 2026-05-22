@@ -86,10 +86,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This blackish nudibranch is sometimes seen on some of our seagrass meadows.
 
-**Features:**
+## Features
+
 5-8cm long. Broad fleshy body smooth, generally blackish with whitish speckles. According to Bill Rudman, the white spots are of two different kinds. Some spots are simply pigment spots on the skin while others are small white glands producing a milky acidic secretion.
 
 **Sometimes mistaken for**

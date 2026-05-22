@@ -129,12 +129,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These hard corals that may be mushroom-shaped or long and tongue-like are sometimes seen on many of our Southern shores. In sheltered reefy lagoons, they can be quite plentiful. Often, mushroom corals of several different species are found together. On the Northern shores, they were only encountered on Beting Bronok.
 
 Most members of the Family Fungiidae are solitary corals that are free-living (i.e., lie unattached) as adults. The Family Fungiidae is restricted to the Indo-Pacific.
 
-**Features:**
+## Features
+
 Unlike most other hard corals which are colonies of small polyps, most mushroom corals are a single giant polyp. Some species have a circular disk-like skeleton, others are long and tongue-like. Most have short tentacles, except for the
 [Sunflower mushroom coral](heliofungia.md)
 (

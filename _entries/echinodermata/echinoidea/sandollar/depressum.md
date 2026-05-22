@@ -155,12 +155,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This small sand dollar is sometimes seen on soft silty sand in sheltered lagoons near reefs. Often only a few individuals are seen. According to Lane, this is an uncommon species that was only found in trawl hauls in the Southern islands. He also observed some at Pulau Semakau, using their spines to move over soft sediments and not for burrowing. It was previously known as
 *Laganum depressum*
 .
 
-**Features:**
+## Features
+
 Body diameter 4-6cm. Usually somewhat pentagonal rather than circular. On the upperside it is thick at the edges with a shallow depression around a raised centre. The thick edge is more obvious in a dead sand dollar. The petalloid is obvious and large even in living sand dollars. Spines at the edges of the body are longer. The underside has long spines, the anus is on the underside. Usually pale: rose pink, sometimes beige or purplish.
 
 **Dead or alive?**

@@ -101,10 +101,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small brightly coloured flatworm is sometimes seen on coral rubble on some of our shores: mainly Chek Jawa and Cyrene Reef. More active at night, but sometimes seen moving about during the day. Usually, many individuals are seen, and then not seen again for a long time.
 
-**Features:**
+## Features
+
 3-4cm long. The small flatworm is plain red or orange (also described elsewhere as orange-brown or rusty) with tiny white dots all over the upper surface (underside uniformly plain without dots). The body margin is often highly ruffled and has no coloured margin. It has a pair of pseudotentacles that are squarish and ruffled on the sides, with white tips. There is a short white line at the head. The mouth appears to the near the centre of the underside of the body.
 
 Little flatworms are active and fast moving, often ruffling out from one crevice to another among coral rubble. They may even swim for a short distance with vigorous ripples of their body edges. When they are in season, some may be seen stranded on sand. Please watch your step!

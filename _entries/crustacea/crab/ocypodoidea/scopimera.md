@@ -144,11 +144,12 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This tiny ball-shaped crab is often seen on our sandy shores, just below the high water line. Resembling the little sand balls that it creates all over the shore at low tide, the crab itself is often missed. It is also very nervous and disappears instantly into its burrows at the slightest sign of danger. To spot these crabs, you will have to wait quietly next to their burrows. Stay low and avoid casting a shadow over the burrow. In a few minutes, they will appear. If you stay still, they will go about their amusing business. Do avoid stepping on sand balls on the shore as you might be stepping on a little crab!
 
 ****
-**Features:**
+## Features
+
 Body width 1-1.5cm. Body spherical with eyes on short stalks. These can fold away into grooves along the bodies when the crabs scurries into its burrow. Pincers long, flattened and downward-pointing. Males may have larger and longer claws than females. The crab is generally the same colour and pattern as sand. It has stiff hairs on the legs which absorb water from the wet sand. This allows the crab to stay out of water for some time.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

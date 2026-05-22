@@ -138,10 +138,11 @@ location:
 - tsm
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Where seen?**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
 This large often colourful hermit crab is quite commonly seen on many of our shores, in sandy or silty areas and among seagrasses. Those seen on our Northern shores are usually larger. Elsewhere, it is found near river mouths on fine sand or sand-mud bottoms in mangrove areas.
 
-**Features:**
+## Features
+
 Body about 3-5cm long, upper side pale near the eyes, towards the 'tail' with broad dark brown and pale orange stripes. Body sides dark with white dots. Both pincers are more or less equal in size and held so that the 'fingers' open horizontally in front of the animal. Pincers sparsely hairy, no stripes, brown with paler pimples and orange claws. Walking legs sparely hairy, brown with orange stripes. Eye stalks brown with pale stripes. Short antennae pale orange to feathery tips. Long antennae pale or dark brown, not feathery.
 
 Juveniles without light colored stripes on eye stalks and walking legs.

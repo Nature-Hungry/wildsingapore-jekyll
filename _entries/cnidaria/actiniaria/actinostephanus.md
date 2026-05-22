@@ -161,10 +161,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This bizarre and scary-looking anemone is sometimes seen on our shores in sand near reefs. Usually, only one is seen in a large area. It can retract completely into the sand at low tide.
 
-**Features:**
+## Features
+
 10-20cm in diameter. It has about 12 long fat cylindrical tentacles that taper at the tips, and below these, another ring of much shorter, slimmer tentacles. With body column short, smooth, with regular stripes. The tentacles are studded with large striped cones that look like batteries of stingers.
 
 Some have tentacles and oral disk that are a uniform dark brown to black with body column that may be similar to the oral disk colour or brick to bright orange-red. These fading to pale at the base of the body column. Others have tentacles are paler with greenish tints, these have fine radiating lines on the oral disk. With olive green body column.

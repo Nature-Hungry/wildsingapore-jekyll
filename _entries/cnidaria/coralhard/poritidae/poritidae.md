@@ -67,7 +67,7 @@ links_references: |
 location: []
 ---
 
-**Where seen?**
+## Where seen?
 This family includes some of the most commonly seen hard corals on our Southern and Northern shores.
 
 The Family Poritidae include members with widely varying characteristics.

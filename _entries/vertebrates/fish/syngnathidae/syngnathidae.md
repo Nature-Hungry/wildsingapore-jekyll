@@ -116,7 +116,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Pipefishes and seahorses are more common than we might imagine. They are well camouflaged and thus usually overlooked. But the patient and keen-eyed observer is often rewarded with a sighting of these amazing fishes on many of our shores especially in seagrass areas.
 
 **What are pipefishes and seahorses?**
@@ -124,7 +124,8 @@ They belong to Family Syngnathidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258)
 : the family has 52 genera and 215 species. They are found in shallow tropical and temperate waters of the Atlantic, Indian and Pacific oceans.
 
-**Features:**
+## Features
+
 These are true fish, although they don't appear very fish-like! Members of this family are enclosed in an armour of bony rings just under the skin. They also have an internal skeleton just like other fish. While most retain a dorsal fin, in some pipefish species, the other fins are small or absent. The seahorse doesn't have a tail fin, but some pipefishes have a tiny fan-like tail fin. These fishes are adapted for sheltered waters well vegetated with seagrass or seaweed. With reduced fins and rather inflexible bodies, they cannot swim quickly. Instead, they rely on camouflage to blend in with the vegetation. The seahorse has a prehensile tail (can be curled around a firm object) as do some pipefishes.
 
 **What do they eat?**

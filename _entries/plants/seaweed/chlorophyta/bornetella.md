@@ -97,10 +97,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This shiny bulbous seaweed is sometimes seen on our Southern shores, growing on coral rubble in small, scattered clusters.
 
-**Features:**
+## Features
+
 Cluster of club- to cylindrical shapes (2-3cm long). The ends are blunt, rounded. Sometimes, there are tufts of white filaments at the tips. Shiny, opaque and bright green, sometimes with a brownish or reddish tinge. This seaweed is moderately calcified. The seaweed is actually made up of tiny branches packed tightly around a central stalk to form the cylindrical shape, somewhat like the bristles on a bottlebrush.
 
 According to

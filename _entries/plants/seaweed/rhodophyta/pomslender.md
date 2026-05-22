@@ -87,12 +87,13 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These pinkish crunchy pom-poms are seen on both our Northern and Southern shores, growing in clusters on rubble near living reefs, densely on abandoned ropes, sometimes a tangled layer among seagrasses forming a crunchy carpet that covers a large area. Smaller
 *Jania*
 species may grow on seagrasses and seaweeds.
 
-**Features:**
+## Features
+
 A cluster (3-6cm) of many stiff, slender, cylindrical 'stems' that are regularly branched. The 'stem' tips often with a white rounded 'cap'. The cluster may be a spherical bushy shape densely packed or rather loose. The seaweed incorporates calcium carbonate making the 'stems' hard and brittle. Colours pink, dark pink and purple.
 
 Besides

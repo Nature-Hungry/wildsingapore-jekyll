@@ -65,10 +65,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This fanworm is sometimes seen in sandy areas, even in silty sand, on our Northern shores.
 
-**Features:**
+## Features
+
 Fan 6-8cm in diameter. The fan banded bluish, brown and white sometimes with portions in bright yellow. Overall shade may be purplish-blue or greenish. Usually found alone in sand.
 
 Sometimes this fanworm is seen at low tide with the fan still out of the tube and the fan 'feathers' stuck together into 'petals' so that it looks like a bizarre flower!

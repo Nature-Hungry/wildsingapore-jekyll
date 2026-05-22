@@ -157,14 +157,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This fleshy dome-shaped hard coral that resembles a brain is often seen on many of our Southern shores. Previously
 *Symphyllia*
 species now mostly known as
 *Lobophyllia*
 .
 
-**Features:**
+## Features
+
 Colonies seen about 15-20cm, sometimes larger, hemispherical and rather flat. Walls are thick with prominent 'teeth', forming brain-like patterns with wide valleys (2-3cm wide). There is usually a slight dent or groove along the top of the wall. When submerged, the skeleton is covered with thick, fleshy tissue. The tentacles are usually only seen at night, and are numerous, short, slender with bulbous tips. Colours seen include brown, blue and green, often with contrasting coloured walls and valleys. Many seen had striking white portions.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

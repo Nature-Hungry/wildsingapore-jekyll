@@ -73,12 +73,13 @@ location:
 - sbw
 ---
 
-**Where seen?**
+## Where seen?
 This invasive mussel densely cover large areas of the Johor Strait since 2016. Native to Central and South America, it was previously known as
 *Mytella charruana*
 or the Charru mussel. But it has since invaded other warm waters in the USA, India, Thailand and the Phillipines.
 
-**Features:**
+## Features
+
 2-5cm long. The two-part shell is oval, smooth, matt. Colours brownish to black. The shell is rather triangular. Its byssal threads form a dense mat in which the mussels are embedded close to one another.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

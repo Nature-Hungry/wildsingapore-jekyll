@@ -34,10 +34,11 @@ galleries:
       caption: "Changi, May 09"
 ---
 
-**Where seen?**
+## Where seen?
 A tree much loved by small children who cannot resist their hard, bright red seeds. It is found on some shores such as Sentosa and Berlayar Creek, as well as Sungei Buloh Wetland Reserve. It is also planted in some of our parks, but is not considered suitable for roadsides as the tree is 'susceptible to damage in strong winds and becomes untidy with age, dropping large amounts of leaf litter'. According to Corners, the tree grows wild on rocky headlands and islets.
 
-**Features:**
+## Features
+
 A tall tree (up to 20m) with pretty leaves. 'Pavo' means peacock, and the compound leaves are quite lovely. The leaves (10-40cm long) have 2-6 pairs of side stalks, each with 9-15 pairs of leaflets. The tree sheds its leaves seasonally, turning yellow before dropping off. According to Corners, in Singapore they shed their leaves every 6-8 months, with the leafless period being very short.
 
 After the leaf-fall, flowers appear on long stalks (8-12cm) from the ends of the new shoots. These are faintly scented like orange blossoms. The petals are cream-yellow turning dull orange. The pods are long (15-20cm), curved and green, but don't coil until they begin to split whereupon they also turn blackish. The seeds are bright red, hard and heart-shaped.

@@ -93,13 +93,15 @@ location:
 - laz
 ---
 
-**Where seen?**
+## Where seen?
 This octopus with a large smooth head is sometimes commonly seen on Changi, among seagrasses.
 
-**Features:**
+## Features
+
 Head about 6-8cm long, arms may be 12-20cm long. The head is smooth and oval, and relatively large compared to the arms. Arms tapering, webbing not very extensive. This octopus hasn't been seen to change the skin texture into very large bumps or spines, although some have been seen with small bumps on the head. One was seen at low tide 'walking' on its arms with its head raised above the dry ground.
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}**Features:**
+{% include img-wrap-group.html items=page.galleries.gallery1 %}## Features
+
 It is often seen hiding in crevices, holes and cavities. Also inside shells of large snails like the
 [Noble volute](../gastropoda/volutidae/nobilis.md)
 and

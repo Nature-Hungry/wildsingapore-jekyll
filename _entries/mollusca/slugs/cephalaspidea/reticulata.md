@@ -58,10 +58,11 @@ location:
 - cyr
 ---
 
-**Where seen?**
+## Where seen?
 This small slug was seen at Cyrene in a sandy area near seagrasses and reefs.
 
-**Features:**
+## Features
+
 2-3cm. A long, cylindrical body that appears to be made up of two parts. A pair of 'tails', one a little longer than the other. Dark body with tiny pale yellow spots. Flaps on the front and back of the body that are black or blue with large pale blobs.
 
 **What does it eat?**

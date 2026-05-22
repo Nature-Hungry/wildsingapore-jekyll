@@ -88,10 +88,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This tiny spherical olive-coloured and olive-shaped sponges with fine filaments are sometimes seen sprinkled on coral rubble or even stuck on other sponges. This sponge is highly tolerant of silt and can be found on most reefs.
 
-**Features:**
+## Features
+
 About 2cm in diameter, spherical covered with short, fine spines. May be slightly flattened at the top. There is a single large hole at the top. Called the oscule, this is where water is expelled from the tiny sponge. Colour usually dull olive green, may also be yellow.
 
 ---

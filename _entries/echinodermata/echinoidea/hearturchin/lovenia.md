@@ -117,10 +117,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 These long-spined heart urchins with a deep groove in the front is sometimes seen on our Southern shores.
 
-**Features:**
+## Features
+
 6-8cm long. Body teardrop-shaped, with a deep groove in the front and tapered at the back end. Petaloid not obvious in living specimens. Sparse long spines which are banded, with many shorter spines covering the body. It can use these spines to burrow and to move around quite rapidly, as Mei Lin's video clip (below) shows. Overall colour dark rose pink.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -116,10 +116,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This seaweed with large flat coin-like shapes are seen on many of our shores, especially on our Southern shores. Usually growing on coral rubble or among living corals. May sometimes form large 'meadows' on sandy areas near reefs.
 
-**Features:**
+## Features
+
 An upright chain (5-10cm long) of joined up coin-like flattened segments. Each coin-like segment is hard as it is impregnated with calcium carbonate. Big coin green seaweeds have larger segments about 2cm in diameter. The segments are thin and relatively smooth and unwrinkled. The segments may sometimes be curved into a spoon-shape. In some, clusters of these chains are held up on a stalk that is buried. Colours range from light green to bluish green. The segments of big coin green seaweeds are lightly calcified and thus are not as stiff as segments of some
 [smaller coin green seaweed species](halsmall.md)
 .

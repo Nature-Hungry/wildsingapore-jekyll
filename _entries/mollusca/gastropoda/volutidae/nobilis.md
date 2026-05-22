@@ -187,12 +187,13 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 This large, beautifully marked snail is sometimes encountered on sandy areas near seagrasses and coral rubble on some of our shores. It is more commonly seen moving above the surface at night, and is usually buried during the day.
 According to the Singapore Red Data Book, this beautiful snail is restricted to our part of the world, in particular, Singapore and Peninsular Malaysia.
 Empty shells of dead noble volutes are quickly taken over by large hermit crabs.
 
-**Features:**
+## Features
+
 12-20cm. Shell thick heavy, conical. Shell orange, yellow or beige with red or brown zig-zag patterns. Sometimes all black. A wide variety of patterns can be seen, although in some, the pattern may be obscured by encrusting lifeforms. No operculum. Body large fleshy, black with bright orange or yellow spots. It has a long siphon that sticks out above the sand when the animal is buried.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

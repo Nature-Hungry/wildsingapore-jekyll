@@ -83,11 +83,12 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This large and rather elaborately textured drill is sometimes seen on mangrove trees. Feeding on the barnacles growing on mangrove trunks and other hard surfaces in mangroves.
 It is also called 'Ketem' in Malay.
 
-**Features:**
+## Features
+
 4-5cm, up to 9cm long. Shell thick with sculptured ridges down the length. The shell, however, is often hidden by encrusting plants and animals such as barnacles. Shell opening circular with 'teeth' on the inner edge.
 Long siphonal canal.
 Operculum dark.

@@ -101,10 +101,11 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Spider crabs are encountered on all our shores. But they're hard to spot. In addition to being slow-moving and well camouflaged, many are also small.
 
-**Features:**
+## Features
+
 Body width 0.5-3cm. These crabs are well disguised. They have long, skinny legs that give them their common name. Some have legs and bodies that resemble roots or other bits of debris so they blend perfectly with their surroundings. Body usually triangular, tapering to a point at the head with the small eyes on the sides of the tip. The body is often covered with spines, knobs and hooked hairs. Some decorate themselves with living seaweeds, sponge, other animals or bits of coral and rubbish.They are also slow-moving, so it's hard to penetrate their disguise.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Special Spider:**

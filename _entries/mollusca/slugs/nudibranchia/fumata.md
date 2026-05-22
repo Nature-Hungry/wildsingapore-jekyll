@@ -173,10 +173,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This brightly coloured rotund nudibranch is sometimes seen on our Northern shores, near boulders with sponges and other encrusting animals.
 
-**Features:**
+## Features
+
 5-8cm long. Broad fleshy body smooth, generally all red or rose with irregular dark mottling, sometimes greyish-pink. Underside paler. It is said that it turns black as it matures, but some apparently remain red.
 
 **Sometimes mistaken for**

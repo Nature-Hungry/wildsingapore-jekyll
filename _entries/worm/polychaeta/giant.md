@@ -194,7 +194,7 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This magnificent worm can be commonly encountered on our Southern shores among living and dead corals. The first encounter with this enormous worm can be disconcerting, to put it mildly. It looks much like an impossibly huge and scary centipede! But it is shy and will hide at the slightest sign of danger, and is more active at night.
 
 **What are giant reef worms?**
@@ -204,7 +204,8 @@ belonging to the Family Eunicidae, Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Eunicid worms are commonly encountered on all our shores. They range from tiny ones only 1cm or shorter but include some of the longest polychaetes. Some members of Family Eunicidae can reach 6m with more than a thousand segments! These worms can live for several years. Most Eunicids are carnivorous. Some live in tubes, others may live in rocky habitats, burrow into coralline rock or limestone, or burrow into sand and mud.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 The giant reef worm can reach up to 1.5m. Indeed, such long ones are commonly encountered on our shores. It has a white ring around the fourth body segment, short pointed bristles on the sides of the body, and long tentacles and other gruesome-looking appendages on its head. Although it does have a face that only a mother could love, it is beautiful in some ways: with glistening iridescent body segments.
 
 Young giant reef worms crawl about freely, but as they get older, they make a simple papery tube to live in. Giant reef worms live among living hard corals as well as coral rubble.

@@ -55,7 +55,7 @@ links_references: |
   Natural History Publications (Borneo). 83 pp.
 ---
 
-**Where seen?**
+## Where seen?
 This small shiny skink is often seen slithering among the undergrowth and leaf litter in vegation near the shores. According to Baker, in Singapore it is widespread in wooded areas, mangroves and parks. It was previously known as
 *Mabuya multifasciata*
 .

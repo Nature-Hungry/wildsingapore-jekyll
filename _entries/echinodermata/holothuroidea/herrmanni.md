@@ -92,12 +92,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large sea cucumber is sometimes seen among coral rubble on some Southern shores. It is also called the Curryfish as it is among the sea cucumbers that are edible and harvested for the restaurant trade. It was formerly known as
 *S. variegatus*
 . Elsewhere it prefers seagrass beds, rubble and sandy-muddy bottoms.
 
-**Features:**
+## Features
+
 20-30cm, up to 50cm long. Body hard heavy, squarish in cross-section blunt at the ends, with a wrinkled skin and distinct upper and underside. Small wart-like bumps in 2-4 rows along the sides of the body length. Colour uniform black, dark olive, brown to pale beige with dark brown to black spots scattered over the entire body. Elsewhere, also light mustard-yellow to orangey-brown or brown and olive green.
 Distinct flat underside, paler that upperside, with many tube feet appearing in three rows along the body length. Mouth facing downwards with 8-16 stout green feeding tentacles. The body wall disintegrates if the animal is held out of water for a long time. So please don't handle it.
 

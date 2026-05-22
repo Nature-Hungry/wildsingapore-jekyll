@@ -87,7 +87,7 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 On our shores, the Perepat (
 *Sonneratia alba*
 ) is commonly seen on the seaward side of mangroves, often forming majestic large tall trees. According to Corners, these trees are found in all tropical shores of the Eastern hemisphere from East Africa to the Pacific. There are four species in Malaya. Hybrids among
@@ -96,7 +96,8 @@ and
 *S. ovata*
 have been found in Brunei and may occur in Malaya. According to Tomlinson, these trees are found from East Africa through Indo-Malaya to tropical Australia and into Micronesia and Melanesia. Typically growing on the seaward fringe. It is sometimes referred to as the firefly mangrove because these insects gather on the trees at night. Formerly placed in Family Sonneratiaceae.
 
-**Features:**
+## Features
+
 The produce sturdy conical pneumatophores, although those growing in hard surfaces may not produce so many. The flowers are fluffy made up of a pom-pom white stamens in a cup-shaped calyx. These turn into globular fruits seated on a star-like calyx with the seeds embedded in the pulp. Leaves are thick and leathery.
 
 The flowers open at dusk emitting a smell of sour milk or butter and last only one night. They are pollinated by bats which drink the nectar in the calyx-cup. Where bats are uncommon, hawk moths are an alternative visitor. Honeybirds have also been seen drinking this nectar at dawn and at dusk. According to Burkill, the fruits are sought by monkey and the Proboscis monkey lives largely on them and on the leaves.

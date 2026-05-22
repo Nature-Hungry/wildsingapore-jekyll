@@ -66,10 +66,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with large waxy leaves, stunning pinkish pom-pom flowers and square fruits is now widely planted in our coastal parks. It is sometimes seen growing wild in our back mangroves. Elsewhere, it grows in a wide range of coastal habitats from coastal forest, shores, sandy to rocky coasts and occasionally in mangroves.
 
-**Features:**
+## Features
+
 A small to medium sized tree (7-30m tall). Bark pinkish grey, smooth becoming rough and thick in older trees. It may have buttressed roots.
 
 Leaves oval (20-30cm long), waxy glossy somewhat fleshy, edge smooth (not toothed). Young leaves may be pinkish olive with pink veins. Older leaves wither yellow or pale orange.

@@ -181,7 +181,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 Leathery soft corals are commonly seen on our Southern shores and in some places can grow quite large! Exposed out of water at low tide, some look like fried eggs, others like a pile of discarded rubber gloves, and yet others like some bizarre leathery giant carnation or a big floppy pinwheel.
 
 **What are leathery soft corals?**
@@ -197,7 +197,8 @@ and
 *Cladiella*
 , these five genera make up the vast majority of octocorals found throughout the world.
 
-**Features:**
+## Features
+
 ****
 A colony is made up of tiny polyps embedded in a common leathery tissue. Members of the family may have two kinds of polyps.
 

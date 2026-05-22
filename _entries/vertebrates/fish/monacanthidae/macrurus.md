@@ -85,10 +85,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This filefish is sometimes seen on some of Southern shores among seagrasses and among seaweeds on the coral rubble. It is also called the Smallspotted leatherjacket.
 
-**Features:**
+## Features
+
 To 24cm, those seen about 10cm. Body with lots of small circular dots and often a broad white stripe or blotch along the centre of the body from the gill opening. May have dark blotches. More on
 [how to tell apart filefishes](monacanthidae.md)
 .

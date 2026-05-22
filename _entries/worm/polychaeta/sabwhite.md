@@ -82,10 +82,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This small fanworm is sometimes seen on some of our shores, especially in sandy areas near coral rubble.
 
-**Features:**
+## Features
+
 Fan about 2-3cm in diameter. The fan forms a double or triple spiral. The white feathery tentacles have tiny maroon spots on the 'rib'. There are also maroon spots on the white body.
 The worms are often seen close to one another, in groups of 5 or more. They are very sensitive to disturbances and will disappear at the slightest sign of danger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

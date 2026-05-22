@@ -104,10 +104,11 @@ location:
 - tpg
 ---
 
-**Where seen?**
+## Where seen?
 This bright green filamentous seaweed is commonly seen on many of our shores. The seaweed may dominate some shores at certain times of the year, to form a bright green furry, short-pile carpet over rocks and stones. Clumps are sometimes seen on sandy areas.
 
-**Features:**
+## Features
+
 Clumps of flexible, translucent tubes about 3-8cm to 10cm long, 0.2-0.5cm in diameter. The tubes only branch at the base. Usually bright green. This seaweed grows abundantly in nutrient-rich waters.
 
 The seaweed is found pretty much throughout the world in all the oceans, estuaries and even some freshwater habitats. It is also among the organisms that commonly grow on ship bottoms, known as fouling organisms as they are considered a nuisance.

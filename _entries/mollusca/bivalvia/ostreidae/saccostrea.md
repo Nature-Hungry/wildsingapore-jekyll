@@ -65,10 +65,11 @@ location:
 - sji
 ---
 
-**Where seen?**
+## Where seen?
 This oyster with spikes is commonly seen on our rocky shores, on boulders, rocks, jetty pillings, sea walls and other hard surfaces. Often several individuals squashed next to one another.
 
-**Features:**
+## Features
+
 3-4cm.
 The two-part shell is thick and chalky. The left valve is stuck to a rock while long, hollow spikes develop on the right valve. The spikes are more prominent in younger animals. This is probably a defence against predatory snails like
 [Drills](../../gastropoda/muricidae/muricidae.md)

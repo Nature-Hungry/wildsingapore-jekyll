@@ -61,10 +61,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This tree with hanging garlands of pretty pink fluffy flowers is now rare in the wild. It is, however, being planted in some of our coastal parks and reserves. Wild trees are found in damp places near mangroves, tidal rivers, sandy or rocky shores, freshwater swamps, peat swamp forests. And even banks of tidal creeks and muddy ditches in rice-fields in Malaya.
 
-**Features:**
+## Features
+
 A shrub or small, straggling tree (5-27m tall).
 
 Leaves (20-30cm) thin leathery, midrib and veins often yellow. The leaves are finely toothed at the edges. Old leaves wither orange to red.

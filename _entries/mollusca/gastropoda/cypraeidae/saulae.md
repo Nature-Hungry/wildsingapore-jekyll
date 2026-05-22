@@ -53,11 +53,12 @@ location:
 - lab
 ---
 
-**Where seen?**
+## Where seen?
 This cowrie with a bright orange body is seldom seen. It is was previously known as
 *Cypraea saulae*
 .
-**Features:**
+## Features
+
 2.5cm. Shell cylindrical, pale blue or greyish with 3 broad very pale brown bands and sparse tiny brown speckles all over.
 Sometimes, but not always, with one or a few brown blotches.
 Underside white with dark brown spots, without coloured 'teeth'. The living animal has a bright orange mantle with sparse short white translucent 'hairs'.

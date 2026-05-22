@@ -112,10 +112,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 This rather large fish with bright blue narrow lines is sometimes near our seawalls. It is said to prefer shallow dead or silty reefs.
 
-**Features:**
+## Features
+
 To about 30cm. The fish is distinguished by by narrow blue stripes on head, body and fins. All fins also blue. Body dark brown to yellowish brown. Those seen pale, sometimes with light or dark brown bars: are these its 'night colours'?
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

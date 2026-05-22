@@ -45,12 +45,13 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This tiny elongated snail is sometimes seen on
 [sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
 on our Southern shores.
 
-**Features:**
+## Features
+
 1-2cm. Shell thin and pointed at the ends. Shell colour white, cream also pink and rose. Body mantle translucent with white protruding bumps and irregular red blotches. Foot translucent white fine dark margins and one or a few fine stripes.Tentacles banded white and red.
 
 The two species found in Singapore are quite similar

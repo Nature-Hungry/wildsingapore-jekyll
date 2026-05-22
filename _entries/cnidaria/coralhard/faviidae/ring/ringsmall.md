@@ -90,10 +90,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This boulder-shaped hard coral with small circular corallites are often seen on many of our shores.
 
-**Features:**
+## Features
+
 Colonies seen 10-15cm, sometimes larger. The colony is generally a smooth boulder shape. The corallites have separate walls, are generally circular and packed closely to one another. The result is a regular pattern of small O-shapes. Colony colours seen include brown, green and blue. Often, they are seen to flouresce a bright green, especially near sunset.
 
 Some species of corals recorded for Singapore that have these patterns include:

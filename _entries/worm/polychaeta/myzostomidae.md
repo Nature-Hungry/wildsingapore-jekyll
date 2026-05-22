@@ -50,7 +50,7 @@ location:
 - sis
 ---
 
-**Where seen?**
+## Where seen?
 These tiny worms are found only on
 [feather stars](../../echinodermata/crinoidea/crinoidea.md)
 . Their colours and patterns usually perfectly match their host.
@@ -60,7 +60,8 @@ They are segmented bristleworm belonging to the Family Myzostomidae, Class
 [Polychaeta](polychaeta.md)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 
-**Features:**
+## Features
+
 About 1cm long. These worms are usually flat and broad with tiny 'feet' which can hardly be seen. Their colours and patterns usually perfectly match their host.
 
 **What do they eat?**

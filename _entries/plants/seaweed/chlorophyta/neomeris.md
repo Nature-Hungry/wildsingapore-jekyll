@@ -108,10 +108,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This curious comma-shaped white-and-green seaweed is commonly seen on our Southern shores. They do resemble 'Taugeh', the local name for beansprouts (from soya beans). Sometimes large clusters of the seaweed can be seen, at other times, only small scattered clusters. On small stones or coral rubble.
 
-**Features:**
+## Features
+
 Cluster of long (2-3cm) slender, blunt-tipped cylinders, often curved. The base to middle portion often white revealing the heavy incorporation of calcium carbonate in this seaweed. Tips bright green and fuzzy.
 
 The seaweed is actually made up of tiny branches packed tightly around a central stalk to form the cylindrical shape, somewhat like the bristles on a bottlebrush. The green tiny branches at the tip are younger.

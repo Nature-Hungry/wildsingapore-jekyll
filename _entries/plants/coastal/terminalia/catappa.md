@@ -75,12 +75,13 @@ links_references: |
   . The Singapore Science Centre. 160pp.
 ---
 
-**Where seen?**
+## Where seen?
 This spreading tree with large leaves is commonly grown in our parks and roadsides. It is also commonly seen growing wild on undisturbed shores. In fact, Corners says it is one of the most common Malayan trees in the wild on the coast and inland where it is planted for its shade in villages and along the road sides. It is found on sandy or rocky beaches and back mangroves. According to Burkill, it is a native of sandy coasts in Malaya and the Pacific but has been cultivated "far beyond its natural area". It is also called the Tropical almond tree.
 
 According to Corners, the tree sheds its leaves twice a year, in January or February and in July or August. Before falling off, the leaves turn vivid red, in a few cases, yellow. According to Burkill, this habit is "peculiar among Malayan trees" and make the trees very conscpicuous. Such 'autumn leaves' are very rare in the tropics. After the crown is bare, all the twigs develop new leaves and the tree is freshly green. The tree then flowers after the new leaves have developed. This habit occurs even in saplings 3-4 years old.
 
-**Features:**
+## Features
+
 A tall tree (20-35m) with a typical pagoda-shaped growth form: it sends out a single stem from the top centre. When the single stem reaches a good height, it sends out several horizontal branches. The bark is grey, fissured and slightly flaky. The tree often has buttress roots.
 
 Leaves large spatula-shaped (15-30cm long, 9-18cm wide) thin leathery, arranged in a spiral at the tip of the twig. Young leaves reddish. Leaves turn yellow and red and drop off up to twice a year.

@@ -130,7 +130,7 @@ links_references: |
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 A cousin of the more famous seahorse, these extremely well camouflaged fishes are often mistaken for roots and overlooked. Particularly as they often lie motionless among the seagrasses and seaweeds. Pipefishes are seen on many of our shores. In the North, they appear to be seasonally common. They are more often seen when it is dark. During the day, they remain well hidden.
 
 **What are pipefishes?**
@@ -138,7 +138,8 @@ Pipefishes are true fish, although they don't appear very fish-like! Pipefishes 
 [Family Syngnathidae](syngnathidae.md)
 which includes seahorses.
 
-**Features:**
+## Features
+
 Bodies long, cylindrical and rather stiff being enclosed in an armour of bony rings just under the skin. They also have an internal skeleton just like other fish. Most retain a tiny dorsal fin and tiny pectoral fins and some have a tiny fan-like tail fin. Pipefishes lack scales. Gill openings are reduced to a pore. Some have prehensile tails.
 
 Pipefishes are adapted for sheltered waters well vegetated with seagrass or seaweed. With reduced fins and rather inflexible bodies, pipefishes cannot swim quickly. Instead, they rely on camouflage to blend in with the vegetation. Pipefishes come in a wide variety of colours and patterns.

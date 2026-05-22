@@ -74,12 +74,13 @@ location:
 - chg
 ---
 
-**Where seen?**
+## Where seen?
 This amazing conch is sometimes seen on Changi in a lush seagrass meadow. Elsewhere it is considered moderately common in shallow water near reefs, grassy sand flats and coral rubble to 10m deep. It was previously known as
 *Strombus aratrum*
 .
 
-**Features:**
+## Features
+
 7-9cm long. Shell thick heavy large, lip flared with one prong. Upperside usually covered with encrusting plants and animals, hiding a pattern of dark brown bars. The inner portion of shell opening is pearly and orange and there are brown stains on the underside. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 According to Abbott,

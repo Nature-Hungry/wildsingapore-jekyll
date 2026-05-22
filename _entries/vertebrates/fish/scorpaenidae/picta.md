@@ -130,10 +130,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This rather grumpy-looking fish with bulging eyes is sometimes seen, especially on our southern shores, on coral rubble areas near reefs and/or seagrass meadows.
 
-**Features:**
+## Features
+
 About 10cm long, to 17cm. A huge head, particularly obvious in a fish with a slender body (didn't eat much recently?). Large bulbous eyes that protrude out of the head. Wide mouth on a large head. Dorsal fin starts well behind the eyes. There are skin flaps and tentacles on the head and body. The dorsal fin has 12 spines.
 
 **Sometimes mistaken for**

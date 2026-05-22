@@ -143,10 +143,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These delicate hard corals with fluted skeletons that resembles carnation flowers are seen on our Southern shores.
 
-**Features:**
+## Features
+
 ****
 Colonies 10-20cm, forming frilly shapes, globular or flatter. Walls thin tall fragile that form a maze-like pattern with deep valleys. The surface has delicate fluted patterns but these are usually hidden under a smooth layer of thick tissue. At night, the polyps may extend long, thin translucent tentacles surrounding the corallite centres, which may occur anywhere. Colony colours seen include brown, yellow, orange, green, blue, purple, often with a sheen of contrasting colours.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

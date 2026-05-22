@@ -137,10 +137,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This sea hare is indeed rather flamboyant, and is sometimes seen on our Southern shores, among seagrasses near reefs. Sometimes, half buried in soft sediments. Elsewhere, it is considered common.
 
-**Features:**
+## Features
+
 8-10cm, elsewhere it can grow to 40cm long! Body large, fleshy and smooth, various shades of brown with small white spots. The inner surface of the 'wings' (called parapodia) dark with a pattern of irregular white blotchy bars and smaller white blotches. Large rhinophores, oral tentacles with frilly flaps. It releases purple ink when disturbed. It can swim by flapping its parapodia.
 
 **What does it eat?**

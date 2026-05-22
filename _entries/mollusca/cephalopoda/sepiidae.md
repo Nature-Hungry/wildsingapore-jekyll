@@ -75,7 +75,7 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 These rotund and chubby animals are seasonally common on many of our shores, usually near seagrass meadows.
 
 **What are cuttlefish?**
@@ -87,7 +87,8 @@ Cuttlefish are not fish! They are
 [octopuses](octopus.md)
 . They belong to the Order Sepiida. The family has more than 100 species many of which are only identified from the internal cuttlebones.
 
-**Features:**
+## Features
+
 5-10cm, but species found in deeper waters can grow to 40cm and more. Members of this family have oval-shaped or rounded bodies. The fins are about the same width throughout and edge the entire sides of the body. Cuttlefishes can change not only the patterns on their bodies, but also the texture! The internal shell (called the cuttlebone) is thick, chalky and porous. The cuttlebone contains gases that help the animal control its bouyancy.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Disappearing Ink:**

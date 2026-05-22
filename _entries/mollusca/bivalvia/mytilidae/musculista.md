@@ -88,14 +88,15 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This tiny mussel appears to be seasonal on our Northern shores. Sometimes, it is very common, forming spongy carpets over vast areas of the shore near the low water mark, as well as on large boulders. At other times, it is not seen at all. It was previously called
 *Muscuslita senhousia*
 .
 
 It is described as an opportunistic species characterised by fast growth and unique ability to colonise both hard and soft surfaces. On hard surfaces, it settles among other creatures that live there. On soft surfaces, the little mussels weave their byssal threads into an all-enclosing nest forming dense mats that can hold more than 2,000 individuals in one square metre. These mats rapidly change sandy bottoms into mud flats as they retain silt. Colonies fluctuate widely and unpredictably.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Features:**
+## Features
+
 1-2cm long. The two-part shell is thin, fragile and smooth. These tiny mussels build communal 'nests' out of byssal threads incorporating sediments, bits of broken shells and other debris. Large areas can be covered in such 'nests', pockmarked with little slits, each housing one mussel. These can carpet rocks or soft bottoms.
 
 **Sometimes confused with**

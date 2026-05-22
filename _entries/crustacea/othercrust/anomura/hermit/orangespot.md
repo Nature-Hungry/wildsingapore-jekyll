@@ -140,10 +140,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This bright orange hermit crab with white spots is sometimes seen on reefs and rubble on some of our shores.
 
-**Features:**
+## Features
+
 Body 4-8cm long. Body, walking and pincers sparsely hairy, red or orange with scattered black-edged white spots. The left pincer is larger more bulbous than the right pincer which is more slender. Eyes with white rim on stout dark red eyestalks. Short antennae all orange or red to the feathery tips. Long antennae white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

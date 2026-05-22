@@ -119,10 +119,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This fish in pajamas is sometimes seen on some of our shores, usually in sandy areas near reefs with the incoming tide.
 ****
-**Features:**
+## Features
+
 Grows to 30cm, tiny ones 2-3cm long are sometimes seen in small groups in pools on the intertidal. It has three blackish stripes on the sides that curve above the eyes, and a tail fin striped black and white, with a large black blotch on the dorsal fin. Usually found over shallow sandy bottoms near river mouths. Also goes upriver and estuaries. Adults spawn in the sea and juveniles migrate into freshwater.
 
 ![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/040919sntd7091m3.jpg)

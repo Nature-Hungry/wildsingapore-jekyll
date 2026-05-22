@@ -53,10 +53,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This colony of tiny animals is sometimes seen on our Southern shores, but is often overlooked. The colony grows on stones and hard surfaces.
 
-**Features:**
+## Features
+
 Colony about 10-15cm. Only one kind of polyp (autozooids). Polyps about 1-1.5cm in diameter, on stalks about 1-2cm long. The eight skinny tentacles have long thin side branches (pinnules) arranged in 1 to 4 rows along both edges of each tentacle. pale brown, oral disk and main tentacles pale, the entire animal the same colour. The tiny polyps don't retract completely into the common tissue, and don't pulsate.
 
 Other soft corals with this form include

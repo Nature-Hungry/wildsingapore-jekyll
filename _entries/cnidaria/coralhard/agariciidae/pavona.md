@@ -159,10 +159,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This leafy lettuce-like hard coral is sometimes seen on some of our Southern shores.
 
-**Features:**
+## Features
+
 Colonies may be small (10-15cm), generally forming a rounded shape with a compact leafy structure that gives them their common name. Some colonies may be much larger (30-40cm) with broader flat blades forming more open shapes that resemble propeller blades.
 
 The corallites are found in shallow depressions. Sometimes separated by ridges that result in a distrinctive, fine, intricate pattern of short lines on the surface of the coral. The skeleton is not covered in thick tissue. The tiny polyps appear on both sides of the leaf-like blades. The tentacles are spindly and pointed. When extended at night, the tentacles give the colony a prickly appearance. Long sweeper tentacles may be produced. Colours seen include brown, blue sometimes with tinges of other colours.

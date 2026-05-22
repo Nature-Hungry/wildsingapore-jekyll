@@ -118,7 +118,8 @@ shrimps are
 that belong to Family Palaemonidae.
 ****
 
-**Features:**
+## Features
+
 This family is large and includes a wide range of shimps found in a wide range of habitats. On our shores, these include tiny (1-3cm) shrimps
 seen living on other animals such as sea anemones, sea cucumbers, feather stars, and hard and soft corals. Some are also seen in small groups on the ground and among seaweeds. These shrimps are hard to spot as they are small and transparent; and usually only active at night and when their host is submerged.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

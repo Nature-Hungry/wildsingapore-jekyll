@@ -48,14 +48,15 @@ galleries:
       caption: "Links Artocarpus heterophyllus on Total Vascular Flora of Singapore Online: photos and fact sheet. Jackfruit ( Artocarpus heterophyllus ) New Crop Resource Online Program at Purdue University. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
 ---
 
-**Where seen?**
+## Where seen?
 Among the favourite fruits of Singaporeans, this tree is often planted in gardens. Those found growing in the wild often mark the locations of 'kampongs' or villages that have long since been cleared. Pulau Ubin has lots of nangka trees. The origin of the nangka tree is not known though some believe it to be from India. The scientific name comes from the different form of the leaf when it is a sapling (lobed) and when it is older (oval). Previously known as
 *A. integrifolia*
 and
 *A. integra*
 .
 
-**Features:**
+## Features
+
 Tall tree (10-20m). Leaves oval with only a blunt tip and very dark shiny green above. Flowers are small (2-3cm) with male and female flowers in clusters. The fruits are huge (30cm-1m long). They are barrel- or pear-shaped, cream to golden yellow, covered with small sharp conical warts. The fruit has a strong smell, described by Corners as 'sickly sweat', while Burkill describes the taste as 'mawkishly sweet and mousy'. All parts of the plant exude a white sticky latex. The sticky latex makes it a challenge to cut the fruit as the knife soon gets gummed up. This is prevented by rubbing vegetable oil on the knife and hands before handling the unripe fruit.
 
 **Human uses:**

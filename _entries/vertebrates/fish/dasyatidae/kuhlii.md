@@ -85,12 +85,13 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This sand-coloured stingray is sometimes seen on our Northern shores, and seems particularly common on Pulau Sekudu. It is more active at night and at high tide. It was previously known as
 *Dasyatis kuhlii*
 .
 
-**Features:**
+## Features
+
 To about 40cm in diameter, those seen about 15-20cm. Body kite-shaped with rounded snout. Body colour brown to reddish brown with indistinct light blue or black spots. The spots are edged in brown and are rather inconspicuous. Usually has a 'mask' of darker brown across the eyes. It is thus sometimes also called the 'Bluespotted maskray'. Tail long and whip-like with a pale tip and dark or black-and-white bands. It has a narrow skin fold near the tail. There is usually one spine on the tail that can cause a painful wound by injecting a venom.
 
 **Sometimes mistaken for**

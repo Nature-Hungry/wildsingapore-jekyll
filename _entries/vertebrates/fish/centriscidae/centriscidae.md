@@ -166,13 +166,14 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This strange vertical fishes are sometimes seen on some of our Southern shores at low tide, in deep pools such as in swimming lagoons, among coral rubble or in seagrass meadows. They are also encountered by divers in deeper waters. Elsewhere, they may be found in muddy bottoms near mangroves to inshore reefs. They often swim head down, presenting a narrow vertical profile that is unfish-like.
 **What are razorfishes?**
 Razorfishes belong to Family Centriscidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=256)
 : there are 5 genera and 15 species, and these are found in the Indo-Pacific. They are sometimes also called Shrimpfishes, probably because at first glance they look more like shrimps than fishes.
-**Features:**
+## Features
+
 Those seen 6-10cm, up to 15cm long. Body long pointed on both ends, flattened knife-like with narrow pointed snout and small toothless mouth. Upper side covered in transparent thin plate-like armour that are extensions of the vertebrate. The first dorsal spine is long and sharp and located at the end of the body. There are two short spines next to it. In
 *Aoeliscus*
 the dorsal spine is hinged, and thus moveable. When the spine is bent, it looks like the fish broke its tail. While in those of the genus

@@ -66,9 +66,10 @@ location:
 - skd
 ---
 
-**Where seen?**
+## Where seen?
 This smooth sponge that comes in various colours is sometimes common on our rocky Northern shores.
-**Features:**
+## Features
+
 A thin layer encrusting hard surface covering 10-20cm. Sometimes with with irregular knobs, folds and lobes/fingers. Holes not obvious when the sponge is out of water. Texture glossy, rubbery and feels smooth and velvety. Comes in a very wide range of colours from black, grey, violet, red, orange, green, yellowish green and blue. Sometimes, several colours in one sponge. It is not clear what causes the colour variation.
 
 **Spongey home:**

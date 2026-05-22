@@ -84,7 +84,7 @@ links_references: |
   . Nature Society (Singapore). 285 pp.
 ---
 
-**Where seen?**
+## Where seen?
 The handsome
 [Mangrove cannon-ball tree](granatum.md)
 (
@@ -93,7 +93,8 @@ The handsome
 *Xylocarpus*
 species are not as frequently encountered.
 
-**Features:**
+## Features
+
 Generally trees, the different species have tiny flowers that appear rather similar. The species are best distinguished by where they are growing, and structures of the leaves, bark, roots and fruits.
 
 **Status and threats:**

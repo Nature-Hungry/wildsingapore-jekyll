@@ -66,12 +66,13 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 According to Ng, in Singapore, there is only one treelet found at Sungei Tampines. Occupies a narrow niche in the mangrove forest; occuring in the back mangrove communities or on the banks of tidal rivers farther inland. According to Hsuan Keng, it was rare and found in Kranji and Pasir Ris. According to Tomlinson, it is found from the Ganges Delta, Myanmar through Southeast Asia to China, the Ryu Kyu Islands and southern Japan. In the south, it is restricted to Sumatra and northern Borneo. It occupies a narrow niche, typically in the back mangrove or on banks of tidal rivers further inland. It is nowhere abundant. It was previously known as
 *K. rheedii*
 .
 
-**Features:**
+## Features
+
 A small shrub or tree growing to 7m tall. No buttresses or pneumatophores. Bark smooth, greyish or reddish brown.
 
 Leaves narrow oblong or oval (7-12cm), glossy, arranged opposite one another. Leaf stalks sometimes pinkish. Stipules flattened but slightly twisted at the tip.

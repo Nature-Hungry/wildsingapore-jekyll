@@ -94,10 +94,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These bright green bubbles are commonly seen on our Southern shores, growing on coral rubble in small scattered clusters.
 
-**Features:**
+## Features
+
 Clusters of elongated bubbles (3-4cm long and about 1cm wide) usually attached to hard surfaces. The bubbles are sometimes also pear-shaped. Bright green to yellowish green, the seaweed is smooth and shiny. The skin is thin so the entire bubble is translucent. Sometimes, 'empty' skins are seen.
 
 According to

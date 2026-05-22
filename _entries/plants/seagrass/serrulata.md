@@ -90,7 +90,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus.md)
 (
@@ -101,7 +101,8 @@ Serrated ribbon seagrass is considered common and widespread throughout tropical
 *Halophila*
 beds as part of natural succession.
 
-**Features:**
+## Features
+
 **
 Long ribbon-like leaves with blunt, rounded tips that have serrations (these are sometimes very tiny). The leaf scars around the upright stem are not continuous. It has thick rhizomes (underground stems). The leaf sheaths around the leaf are flattened. Sometimes seen with reddish bands.
 

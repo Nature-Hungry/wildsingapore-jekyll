@@ -125,14 +125,15 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This tiny red crab is sometimes seen in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.md)
 (
 *Pocillopora*
 sp.) on our Southern shores.
 
-**Features:**
+## Features
+
 Body width about 1cm, body flat, claws large with pointed pincers usually dark at the tips. Usually red or dark orange. Often, more than one crab is seen in a single colony. They are hard to spot and photograph.
 
 This crab lives only in

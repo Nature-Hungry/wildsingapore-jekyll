@@ -110,7 +110,7 @@ links_references: |
   . National Council on the Environment. 163pp.
 ---
 
-**Where seen?**
+## Where seen?
 These slugs come in a wide range of shapes from minute to large, and some are commonly seen on all our shores. They often closely resemble the seaweed that they eat! Some are seasonal, being abundant when their seaweed food is plentiful. And disappearing when their seaweed food dwindles away.
 
 **What are leaf slugs?**
@@ -122,7 +122,8 @@ like other snails. Like many other sea slugs (
 [Subclass Opistobranchia](../../slug.md)
 ), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
 
-**Features:**
+## Features
+
 Sap-sucking slugs come in a wide variety of shapes and sizes. Many are tiny (1cm or less). They have one pair of 'rolled up' tentacles, not solid tentacles like other slugs. Some have small external shells, others have internal shells, while yet others have no shells at all. Those without shells often have a pair of 'wings' or flaps (called parapodia) that surround the body. In some, the parapodia can be large and leafy, in others short and tucked around the long body. Yet others have other structures on their bodies. They often also take on the same colouration and even appearance of their seaweed food. Thus they are often overlooked.
 
 **Sometimes confused with**

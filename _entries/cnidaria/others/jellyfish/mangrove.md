@@ -56,10 +56,11 @@ location:
 - tus
 ---
 
-**Where seen?**
+## Where seen?
 This energetic little jellyfish is sometimes seen in large numbers near mangrove, e.g., at the mouth of mangrove streams, and in estuarine seagrass meadows on our Northern shores.
 
-**Features:**
+## Features
+
 Bell about 6-8cm in diameter. Each fat sausage-like oral arm has a long 'tail'. Moves in short bobs as it energetically contracts its small bell.
 
 **Status:**

@@ -105,14 +105,15 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 The most commonly seen member of this family on our shores are the
 [Common hairy crabs](pilumnus.md)
 (
 *Pilumnus*
 sp.) near rubble and reefs.
 
-**Features:**
+## Features
+
 Not all pilumnid crabs are hairy. They come in a wide variety of shapes and features and some are difficult to tell apart.
 
 **Status and threats:**

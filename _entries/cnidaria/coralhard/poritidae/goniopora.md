@@ -115,12 +115,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 These hard corals are among those commonly seen on many of our shores. They are more commonly seen on our Southern shores.
 *Bernardpora stutchburyi*
 also in the Family Poritidae, can look like Anemone corals.
 
-**Features:**
+## Features
+
 Colonies (10-15cm) boulder-shaped or form short fat columns with rounded tops. The corallites are small to tiny (0.2-0.5cm) circular or polygonal, packed close to one another. The skeleton is porous. Some have polyps with long bodies and long tentacles. In these, with the polyps extended, the skeleton is hidden and the entire colony is often mistaken for a sea anemone. Others have polyps with short bodies and tentacles, yet others have tiny polyps. Polyps have 24 tentacles and can retract completely into the skeleton.
 
 It's hard to distinguish the different species without close examination. On this website, they are grouped into

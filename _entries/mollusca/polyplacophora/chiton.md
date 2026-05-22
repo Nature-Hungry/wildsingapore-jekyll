@@ -173,7 +173,7 @@ location:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
-**Where seen?**
+## Where seen?
 These odd creatures with segmented armour is sometimes seen on many of our shores. On hard surfaces such as rocks as well as large flat clams such as Window pane shell clams (Placuna sp.) and Fan shell clams (Family Pinnidae). Most are tiny and overlooked. But once,
 [Jewelled chitons](gemmata.md)
 can be enormous!
@@ -183,7 +183,8 @@ Chitons are
 [molluscs](../mollusca.md)
 (Phylum Mollusca) like snails, slugs and clams. They belong to a separate Class Polyplacophora. About half the chiton species are found in shallow waters, while the rest are found in deep water.
 
-**Features:**
+## Features
+
 Ranging from 3mm to 40cm, most are about 3-12cm long. Those on our shores tend to be 3cm or less. These sluggish animals are adapted for clinging tenaciously to a hard surface. A chiton is basically just a large flat foot. The oval flattened body is made up of a thick body with 8 overlapping plates along the centre. 'Polyplacophora' means 'bearer of many plates'. The animal is sometimes also called coat-of-mail mollusc. A thick, stiff mantle covers the body forming a girdle around the plates to the body edges. The girdle may be smooth, or have scales or bristles.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

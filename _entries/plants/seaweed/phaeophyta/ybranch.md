@@ -80,10 +80,11 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 Forming a clump of blue-tinged y-shaped blades, this seaweed is sometimes seen on our Southern shores, on coral rubble.
 
-**Features:**
+## Features
+
 Flat, strap-like structures about 0.5-1cm wide and 5-7cm long. Regular branching on the same plane, forming distinct y-shapes with roundedtips. It has no 'veins' down the middle of the blade.
 The outer edges of the blade has a pattern of fine bars that form alternating blocks of dark and light blue sometimes forming a 'chequered' pattern on the rest of the blade as well. Generally light brown, sometimes maroon with a bluish tinge. Entire seaweed often forms an overall ball-shape.
 

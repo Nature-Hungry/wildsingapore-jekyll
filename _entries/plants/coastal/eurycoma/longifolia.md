@@ -53,10 +53,11 @@ links_references: |
   . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 ---
 
-**Where seen?**
+## Where seen?
 This rather innocent looking treelet has a formidable reputation as a purported aphrodisiac. It is still sometimes seen growing wild on some of our natural places, including on our shores and rocky cliffs. It was also found in our primary and secondary forests including Tanglin and Bukit Timah.
 
-**Features:**
+## Features
+
 A small tree or a shrub (2-3m tall) with an umbrella-like rosette of leaves at the tips of the branches. The leaf (50-60cm long) is made up of 45-80 leaflets. The tiny, hairy cup-shaped flowers are purplish-crimson, and according to Corners, with a slightly foetid smell. Male and female flowers are found on different trees. These turn into oval fruits that ripen yellow then red.
 
 ****

@@ -69,10 +69,11 @@ location:
 - ecp
 ---
 
-**Where seen?**
+## Where seen?
 This rather bumpy and knobbly sea fan is often seen on Beting Bronok and Changi. On coral rubble.
 
-**Features:**
+## Features
+
 10-15cm long. Colony comprises a few stems branching on one plane. The branches emerge at right angles then curve upwards. Stems are cylindrical with rounded tips. Colours seen include red, maroon, pink and orange. The polyps are rather large, and pinkish or orange with white centres. When the colony is out of water and the polyps are retracted, the stems look bumpy and gnarled. With the polyps extended, the colony looks rather fluffy.
 
 Animals seen on the sea fan include

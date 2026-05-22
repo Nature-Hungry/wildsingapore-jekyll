@@ -57,10 +57,11 @@ location:
 - rfl
 ---
 
-**Where seen?**
+## Where seen?
 These tiny burrowing animals pock-mark some hard corals.
 
-**Features:**
+## Features
+
 Often, all that can be seen on the surface of the hard coral are tiny slits (0.2cm), sometimes bright blue.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

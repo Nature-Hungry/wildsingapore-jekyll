@@ -59,9 +59,10 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This colourful sponge with short tubular chimneys is sometimes seen on some of our shores.
-**Features:**
+## Features
+
 Ball shaped sponge 10-15cm, with regularly shaped chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow, brown.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg)

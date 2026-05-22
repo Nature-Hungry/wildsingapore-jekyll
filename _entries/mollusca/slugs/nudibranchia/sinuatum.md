@@ -91,12 +91,13 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This large chunky hard nudibranch is sometimes seen among coral rubble and reefs on our Southern islands. Usually several are seen at the same time, and then none for a while. It does look rather jolly and is large! It was previously known as
 *Ceratosoma sinuatum*
 .
 
-**Features:**
+## Features
+
 6-8cm long. The body is stiff, narrow with a short, broad tail. The front of the body generally pointed. The body edge has regular undulating lobes along the edge of the mantle from front to end. The lobes are armed with glands that secrete distasteful substances to discourage predators. There is a large horn-like lobe in front of the feathery gills. Colours usually green, with small yellow bumps, sometimes with tiny blue spots. The gills have tiny yellow spots.
 
 Like other members of the Family Chromodorididae, the Ceratosoma nudibranch absorbs the toxic chemicals in their sponge food and incorporate these chemicals into the mantle glands. According to Bill Rudman, most species of

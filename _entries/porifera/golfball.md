@@ -125,11 +125,12 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This furry ball-shaped sponge is sometimes seen on coral rubble on some of our shores. Sometimes with shallow circular depressions, it then resembles a golf ball. It is one of the most common and abundant sponges on intertidal and shallow reefs. Elsewhere, they thrive in silty areas.
 
 Sometimes, similar sponges are found washed ashore. These are usually smooth without spines and usually smell bad. Are they dead or dying golf ball sponges?
-**Features:**
+## Features
+
 6-8cm in diameter, spherical densely covered with short, fine spines. These are needle-shaped spicules that stick out of the surface. Don't touch the sponge as the spicules may pierce your skin and remain embedded causing great discomfort. There may be circular pits or indentations on the surface that are bare of spines. These are specialised pore-bearing pits called porocalices. These regularly spaced pits do make them resemble golf balls! Sometimes, broken ones are also seen, showing the yellow internal radiating skeletons. Young ones lack the pits on the surface and often resemble furry balls. Colour usually yellow, although sediment accumulated on the spines may hide the colour.
 
 **Looks similar to**

@@ -61,10 +61,11 @@ location:
 - hnt
 ---
 
-**Where seen?**
+## Where seen?
 This small anemone is sometimes seen on shells occupied by hermit crabs on our Northern shores.
 
-**Features:**
+## Features
+
 Diameter with tentacles extended 1-2cm. Many short tapering tentacles, semi-transparent some with pale brown bands. Body column short, smooth and not covered in sediments, pale some with faint stripes. Oral disk white or with white radiating stripes. Sometimes, a single single shell may bear two or three of these anemones.
 
 [Big anemones](hermitbig.md)

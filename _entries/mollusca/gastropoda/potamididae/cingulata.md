@@ -66,10 +66,11 @@ location:
 - smk
 ---
 
-**Where seen?**
+## Where seen?
 This small snail is sometimes seen in large numbers in shallow sheltered places and monsoon drains near the sea, also on mangrove mudflats.
 
-**Features:**
+## Features
+
 2-3cm. Shell conical with spirals of large beads. Shell opening large and flared with a spout-like tip. Operculum thin, dark with tight spirals.
 
 **Sometimes confused with**

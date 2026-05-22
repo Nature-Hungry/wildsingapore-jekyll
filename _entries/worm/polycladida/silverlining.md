@@ -50,10 +50,11 @@ location:
 - tsm
 ---
 
-**Where seen?**
+## Where seen?
 This black flatworm like a storm cloud with a silver lining is sometimes seen on reefs in our Southern shores.
 
-**Features:**
+## Features
+
 5-8cm long. Body black with inner broad white margin and a yellow rim.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

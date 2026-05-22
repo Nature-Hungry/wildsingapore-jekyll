@@ -86,12 +86,13 @@ location:
 - lfa
 ---
 
-**Where seen?**
+## Where seen?
 This snail with a pretty black-and-white shell is often seen in small groups on many of our Southern rocky shores. They may be found on top and under stones. It was formerly known as
 *Pyrene fulgurans*
 .
 
-**Features:**
+## Features
+
 1.5-2cm. Shell thick, black with white or yellow zig-zag stripes. Sometimes orange or red ones can be seen among the black ones. The lip of the narrow shell opening is thickened and is often purplish on the inner side. The foot is narrow and strong, and the siphon very long.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
